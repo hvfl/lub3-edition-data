@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-615">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Weingarten in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-615">LI-LA, Schä U 82</ref> / Originaldatierung: 11. November 1589 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Marxer von Schaan und seine Frau Anna Öri verkaufen Georg Bürkli, den Pfleger der Frühmesspfrund in Schaan, für 10 Gulden einen Zins von 30 Kreuzer ab ihrem Weingarten in Ladura in Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-481">Marxer, Hans (1)</persName>
+          <date when="1589-11-11">11. Nov 1589</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-287">Schierscher, Adam</persName>
+          <date when="1589-11-11">11. Nov 1589</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-558">Öhri, Anna</persName>
+          <date when="1589-11-11">11. Nov 1589</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-502" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-481">Hanns Marxer</persName> zu <placeName ref="lub-places-53">Schan</placeName> unnd mit ime ich <persName ref="lub-actors-558">Anna Örin</persName>, sein ehliche hausfraw, bekhennen offennlich für unns, all unnser erben unnd nachkhomen unnd thuen khund allerme
+<lb break="no" n="2"/>nigclich mit disem briefe, dz wir mit veraintem freyem guten willen, wolbedachtem synn unnd muth zu befürderung unnßers beßern nutz, besonnder mit hand deß
+<lb n="3"/>ersamen und weysen <persName ref="lub-actors-287">Adamen Schierßers</persName>, der zeyt aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, aufrecht unnd redlich verkhaufft unnd zue khauffen gegeben haben aines besteeten, vessten, 
+<lb n="4"/>ewigen unnd ymerwerenden kaufs unnd geben auch hiemit wißenndtlich in crafft ditz briefs dem erbern <persName ref="lub-actors-232">Geörgen Bürckhli</persName> als diser zeyt verordnetem phleger 
+<lb n="5"/>der früemeß zu <placeName ref="lub-places-53">Schan</placeName> und allen seinen nachkhomen pflegern namblichen dreißig kreutzer in muntz <placeName ref="lub-places-493">Veldtkhircher</placeName> werung rechts, steets, ewigs unnd jerlichs zinß 
+<lb n="6"/>unnd pfening gelts von, ußer unnd abe unnserm aignen weingarten, in <placeName ref="lub-places-233">Laduren</placeName> gelegen zu <placeName ref="lub-places-1">Vadutz</placeName>, stoßt gegem berg an <persName ref="lub-actors-1146">Petter Hülti</persName>, ufwert dem lanndt nach an <persName ref="lub-actors-435">Berth
+<lb break="no" n="7"/>lome Maurer</persName>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1148">Steffan Frumolts</persName> erben unnd abwert dem landt nach an <persName ref="lub-actors-545">Adam Grüschlis</persName> erben, mit unnd ab grund, gradt, veldt, wasen, wun, waid, reben,
+<lb n="8"/>rebgezymen, rebwerckh, stockh, stain, gesteut, gereuth, gengen, stegen, wegen unnd sonnst gemainclich ab allen anndern deßelben rechten unnd zugehörden, benennten unnd 
+<lb n="9"/>unbenennten, darzue auch für zinßfrey, ledig, los und gegen allermenigclich unverkhümbert. Unnd also ist der ewig, redlich kauf ergangen unnd beschehen benandtlichen 
+<lb n="10"/>umb zehen guldi reinisch, jeden guldi zu fünffzehen batzen oder sechtzig khreutzern geraith, obgemelter werung, dern wir aller gar von ime, keuffern, erberlichen außgericht 
+<lb n="11"/>und bezalt worden seind, nach unserm guten wolbenüegen. Darumben so sollen unnd wellen wir, die verkheuffere, all unnsere erben unnd nachkhomen inhabere unnd 
+<lb n="12"/>besitzere vorgenants underphandts den gedachten zinß gesagtem phleger unnd allen seinen nachkhomen an statt der früemeß nunhinfuro ewigclich unnd alle jar jerlich auf 
+<lb n="13"/><term ref="lub-keywords-365">sannt Marthins, deß hayligen bischoffs, tag</term>, achttag vor oder nach ungevarlich, güetlich richten, zinßen unnd zu iren sichern hannden unnd gewalte geben und andtwurten, 
+<lb n="14"/>für allermenigclichs verhefften, verpieten und endtweren, gentzlich ohne allen iren costen und schaden. Wann, wie oder welches jars dz aber also nit beschehe, über khurtz oder 
+<lb n="15"/>lang zeyt, so ist inen dz merberüert underphandt, in seinen bestimbten marckhen begriffen, ganntz zinßfellig worden unnd dannenthin ab grund, gradt, auch allen anndern 
+<lb n="16"/>deßelben obgenanten rechten, <unclear>be</unclear>ßerung unnd zugehörden zu rechtem ewigem aigen ymer haimgevallen unnd vervallen, ohne unnser, all unnser erben unnd nachkhomen, 
+<lb n="17"/>auch sonnst allermenigclichs von unnsertwegen irren unnd widersprechen, ohn geverde. Unnd hierauf ditz ewigen unnd redlichen kaufs umb zinsfellige, auch für 
+<lb n="18"/>all abganng unnd minderung deß obgenannten underpfanndts, haubtguts, zinß, schadens unnd aller vorgeschribner dingen sollen unnd wellen wir, dickhgesagte 
+<lb n="19"/>verkheuffere, all unnsere erben und nachkhomen deß merberürten keuffers innamen der früemeß und allen deßelben nachkhomen recht, gut und getrew crefftig 
+<lb n="20"/>gewehrn, fürstand und versprecher gegen allermenigclich sein, vor dem richter unnd gericht, darunder ehgemelter weingarten gelegen ist, nach recht, wo, wie, 
+<lb n="21"/>wenn oder gegen wem, als offt unnd dickh sye dz nachdem rechten ymer bedürffen oder notturfftig sein werden, alvart in unnserm aignen costen unnd ohne iren schaden, 
+<lb n="22"/>bey guten trewen, ohne alle widerred unnd aufzug. Unnd wiewol diser brief ainen ewigen kauf außweißt unnd sagt, dannocht hat unns vilgemelter phleger 
+<lb n="23"/>zugelaßen unnd bewilliget, also das wir, auch all unnsere erben unnd nachkhomen, obgesetzte dreißig khreutzer zinß von gesagten früemeß wol wider khauffen 
+<lb n="24"/>unnd ablesen mögen nunhinfuro ewigclich, wann unnd welches jars wir über khurtz oder lanng zeyt wellen, doch allweg vor zinsfal unnd auf <term ref="lub-keywords-365">sannt Marthins 
+<lb n="25"/>tag</term>, achttag vor oder nach ungevarlich, samenthafft mit den obgeschribnen zehen guldi haubtgut, sambt allen vervallnen ausstendigen zinßen, auch mit guter müntz 
+<lb n="26"/>und werschafft, daran sy khainen verlurst noch abgang haben dörffen, ob sich die jetzige müntz in der zeyt verenndren wurde, ungevarlichen. Unnd deß zu wahrem 
+<lb n="27"/>urkhundt haben wir, obbekhennde verkheuffere, beede mit vleiß unnd ernst erbetten den obgedachten aman <persName ref="lub-actors-287">Schierßer</persName>, das er sein aigen innsigl (doch ime, aman, und 
+<lb n="28"/>seinen erben ohne schaden) offennlich gehenckht hat an disen briefe, der geben ist <origDate>auf sannt Marthins, deß hayligen bischoffs, tag von Christi, unnsers lieben 
+<lb n="29"/>herrn unnd seligmachers gepurt gezelt fünffzehenhundert achtzig unnd neun jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

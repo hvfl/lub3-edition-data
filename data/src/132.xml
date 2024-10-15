@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-132">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hans Schäckle aus Mauren und Anna Nasahl verkaufen ihr Gut im Gänsebach</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [AT-VLA, St Johann Priorat 5393](https://lub.anton.ch/objects/132/)  Originaldatierung: 24. September 1550 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/StJohannPriorat/5393/charter?q=Mauren)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Tschegle (Schäckle) von Mauren und Anna Nasahlin, seine Ehefrau, verkaufen mit Gunst und Wissen Peter Brändles, Ammann der Herrschaft Schellenberg am Eschnerberg, an Leonhard Schreiber und dessen Gattin Anna Baderin ihr Gut im Gänsebach, Maurer Kirchspiel, um fünf Pfund fünf Schilling Pfennig Konstanzer Münze Feldkircher Währung.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-65">Brendle, Peter</persName>
+          <date when="1550-09-24">24. Sep 1550</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-150" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-63">Hanns Tschegle</persName>, von <placeName ref="lub-places-30">Mawren</placeName> unnd ich, <persName ref="lub-actors-64">Anna Nasalin</persName>, sein ehliche hausfraw, bekennen offenlich und thuen kundt allermenigckh
+                    <lb n="2"/>mit disem brief, das wier mit veraintem, gueten willen wolbedacht, sonnder mit hanndt deß ersamen, weysen <persName ref="lub-actors-65">Petter Brenndle</persName>, der zeit
+                    <lb n="3"/>amman der herschafft <placeName ref="lub-places-11">Schellemperg</placeName> am <placeName ref="lub-places-16">Eschnerperg</placeName>, recht und redlich verkaufft unnd zukauffen geben haben und geben auch jezo wissenntlich,
+                    <lb n="4"/>in crafft ditz brieffs dem erbern <persName ref="lub-actors-66">Liennhart Schreyber</persName> zu <placeName ref="lub-places-30">Mawren</placeName> und <persName ref="lub-actors-67">Anna Bederin</persName>, seiner ehlichen hausfrawen und allen ieren erben
+                    <lb n="5"/>und nachkomen, aines stetten, vessten, ewigen kaufs unnser aigen guet im <placeName ref="lub-places-34">Gensepah</placeName>, <placeName ref="lub-places-30">Mawrer</placeName> kilspel gelegen, stost aufwerdt dem lanndt
+                    <lb n="6"/>nah unnd gegen dem <placeName ref="lub-places-103">Rein</placeName> an die lanndtstraß im <placeName ref="lub-places-34">Gensepach</placeName>, aberdt dem lanndt nach an meiner gnedigen herrn <orgName ref="lub-actors-7">graven von Sultz</orgName> gueter, ge
+                    <lb break="no" n="7"/>nannt di Klain Brutsch, gegen dem perg an <persName ref="lub-actors-207">Hanns Wanngner</persName> am <placeName ref="lub-places-114">Krummen Ackher</placeName>, zue funfften syden an ain gesle, so in Prutsche geth, mit
+                    <lb n="8"/>grundt, gradt, wun, waydt, stogkh, stain, gesteut, gereut, gengen, stegen und wegen, und gemaincklich mit allen anndern seinen rechten und zuegehorden
+                    <lb n="9"/>ennden, benempten unnd unbenempten, und auch für ledig unnd loß, außgenomen dem pfarherrn zu <placeName ref="lub-places-30">Mawren</placeName>, zwen schilling jarzeyt gelt sonst
+                    <lb n="10"/>gegen menigclich unversezt und unverkummert. Unnd ist der ewig, redtlich kauff also beschehen und gethan worden mit funff pfundt,
+                    <lb n="11"/>funff schulling pfening costantzer munz veldtkircher werung, dero wir von innen erberlich ausgericht unnd bezalt worden sein,<gap/>
+                    <lb n="12"/>Nach allem unnserm willen unnd wolbeniegen unnd hierauf diß ewigen, redtlichen kauffs, wie vorstat, sollen und wellen
+                    <lb n="13"/>wier all unnser erben und nachkomen, gemainclich unnd unverschaydenlich der obgenannten kauffer aller ierer erben und
+                    <lb n="14"/>nahkomen krefftig, gethrew, guet, weren furstann und verspreher sein vor dem richter unnd gericht, darunder obgemelter
+                    <lb n="15"/>kauff beschehen unnd gelegen ist, wo, wie, wann und gegen wem, als digkh unnd vil sy des nach dem rehten immer bedurff
+                    <lb break="no" n="16"/>en unnd notturfftig werden, albeg in unnserm aignen cossten, on ierrn schaden, bei gueten trewen, an alle widerredt, auszug
+                    <lb n="17"/>unnd geverde. Unnd deß alles zu warem und offnen urkundt, so haben wir, obgenannte verkeffer, bayde mit fleiß unnd ehrnnst
+                    <lb n="18"/>gepetten unnd erpetten, den obgenannten amman <persName ref="lub-actors-65">Peter Brenndle</persName>, das er sein aigen innsigel, doh ime unnd seinen erben
+                    <lb n="19"/>one schaden fur unns, all unnser ehrben unnd nachkomen offennlich an disen prief gehenngkht hat. Der geben ist auff
+                    <lb n="20"/><origDate>mitweh nach sannt Matheiß tag nah Cristi unnsers herrn gepurts funffzehenhundert und im funffzigisten jar</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-151" n="1"/>
+          <lb n="1"/>
+          <gap/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

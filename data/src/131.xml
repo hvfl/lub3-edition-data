@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-131">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Arbogast Ritter von Andlau nimmt Ulrich Glarner aus Mauren als Pfründner an</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [AT-VLA, St Johann Priorat 5396](https://lub.anton.ch/objects/131) / Originaldatierung: 7. Januar 1594 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/StJohannPriorat/5396/charter?q=Sulz)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ritter Arbogast von Andlau, Komtur der Häuser zu Tobel und Feldkirch, urkundet, dass Anton Busenett und Elisabeth Maierin, seine Ehefrau, wohnhaft zu Tisis, genannt zum Heiligen Kreuz, mit Bewilligung des Grafen Karl Ludwig zu Sulz, Herrn zu Vaduz, Schellenberg und Blumenegg, den Ulrich Glarner von Mauren um sein liegendes und fahrendes Hab und Gut zu einem Pfründner angenommen hätten. Da diese ihn aber jetzt nicht mehr haben könnten, hätten sie genannten Pfründner dem Ordenshaus zu Feldkirch kaufsweise mit seinem Besitz übergeben mit der Verpflichtung, dass das Ordenshaus genannten Pfründner laut des inserierten, zwischen Busenett und Ulrich Glarner aufgerichteten Pfandbrief vom 4. Januar 1593 erhalten müsse.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-162">Reichserbhofrichter</term>
+          <term ref="lub-keywords-179">Landrecht</term>
+          <term ref="lub-keywords-180">Lebensmittel</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-309">Gut</term>
+          <term ref="lub-keywords-138">Wein</term>
+          <term ref="lub-keywords-217">Kleidung</term>
+          <term ref="lub-keywords-61">Schulden</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-59">Andlau, Arbogast Ritter von</persName>
+          <date when="1594-01-07">7. Jan 1594</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-242">Madlener, Georg (Jörg)</persName>
+          <date when="1594-01-07">7. Jan 1594</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-241">Grauen, Jakob</persName>
+          <date when="1594-01-07">7. Jan 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-148" n="1"/><lb n="1"/>
+                    Ich, <persName ref="lub-actors-59">Arbogast vonn Andlouw</persName>, ritter <orgName ref="lub-actors-195">Sannct Johanns Ordens</orgName> comenthür baider heusser zu <placeName ref="lub-places-141">Dobell</placeName> unnd <placeName ref="lub-places-10">Veldtkirch</placeName>, bekhenn offenlich unnd thun khundt mengclichem mit disem brief, als
+                    <lb n="2"/>
+                    dann der ernhafft <persName ref="lub-actors-60">Anthonni Busenett</persName> und <persName ref="lub-actors-61">Elisabetha Mayerin</persName>, sein eheliche hausfraw, wonhafft zu <placeName ref="lub-places-143">Tisis</placeName>, genant <placeName ref="lub-places-144">Zum Hailligen Creuz</placeName>, den erbarenn <persName ref="lub-actors-62">Ulrich Glarner</persName> von <placeName ref="lub-places-30">Muren</placeName>, wügen
+                    <lb n="3"/>
+                    seines hoch erlepten alters, umb sein ligendt unnd varendt hab und gutt, sein leben lang zu erhaltenn, für ain pfrüender auff unnd angenomen. Wan aber ir gelegenheit nit mehr sein wellen,
+                    <lb n="4"/>
+                    inne, <persName ref="lub-actors-62">Glarner</persName>, verer also zu erhalten, haben sy mir dem selbigen mitsampt sinem obangeregten seinem ligenden unnd varenden hab unnd gut kauffswys übergeben, der gestalt, das ich, obgedacht
+                    <lb break="no" n="5"/>
+                    er comenthür, unnd alle mein nachkomen den eegenanten <persName ref="lub-actors-62">Ulrich Glarner</persName> hinfüro biß uff sein absterben, umb das ober zelt sein hab unnd gut, in des ritterlichen ordens hauß zu <placeName ref="lub-places-10">Veldtkirch</placeName> er
+                    <lb break="no" n="6"/>
+                    halten söllen, alles nach vermög unnd inhalt aines pfrund briefs, so deßwegen uffgericht, wellicher dann genzlich in allen sinen crefften belyben unnd bestan soll, unnd luthet von wort zu wortt
+                    <lb n="7"/>
+                    wie hernach volgt. Ich, <persName ref="lub-actors-60">Anthonny Busenet</persName>, unnd mit ime ich, <persName ref="lub-actors-61">Elisabeta Mayerin</persName>, sein eheliche hausfraw, wonhafft zu <placeName ref="lub-places-143">Tisis</placeName>, genant <placeName ref="lub-places-144">Zum Hailligen Creutz</placeName>, bekhenen offentlich hiemit
+                    <lb n="8"/>
+                    für unnß, all unnser erbenn unnd nachkomen, als dann auf vorgehende gnedige bewilligung des wolgebornen herren, hern <persName ref="lub-actors-13">Carl Ludwigen, gravens zu Sulz</persName>, landtgravens im <placeName ref="lub-places-18">Cleggaw</placeName>,
+                    <lb n="9"/>
+                    des <orgName ref="lub-actors-516">Hayligen Römischen Reychs</orgName> erbhoffrichtern zu <placeName ref="lub-places-17">Rothweyl</placeName>, hern zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Blumenegckh</placeName>, etc., unnsers gnedigen hern, der erbar <persName ref="lub-actors-62">Ulrich Glarner</persName> von <placeName ref="lub-places-30">Muren</placeName>, unnß all sein hab und gutt,
+                    <lb n="10"/>
+                    ligendts unnd varendts, gesuchts unnd ungesuchts, pfening unnd heller werth, nichtz überall, als allain neunhundert guldin, gemeinen seinen schulden unnd nächsten erben, vermög deßwegen
+                    <lb n="11"/>
+                    übergebner verzaichnus zu bezallen, ußgenomen, übergeben unnd zu unsern handen überanthwurtet, waß er zu <placeName ref="lub-places-30">Mauren</placeName> unnd anderstwo hat. Hierumben wir, mit veraintem gutten willen,
+                    <lb n="12"/>
+                    wolbedachten sin unnd muth, erst gemelten <persName ref="lub-actors-62">Ulrich Glarnern</persName> zu widerlegung söllicher übergab zugesagt unnd versprochen habenn, unnd thun das hiemit wissentlich, in crafft dis briefs, für unnß,
+                    <lb n="13"/>
+                    unnd all unsere erben, ine sein leben lang zu versächen, mit herberg, tach, gemach, kalt, warm, unnder unnd über, feur unnd liecht, hebenn, legen, wüschen, wäschen, auch anderer pfleg und
+                    <lb n="14"/>
+                    handtraichung, deren er, zu zeiten, gesundt unnd kranckh, notturfftig ist oder würdet, unnd sonderlich ime täglichen anderthalb veldkircher maß weins, klaidung, schuch, bettgewandt und andere
+                    <lb n="15"/>
+                    dergleichen notturfften, auch das essenn zu geben, mit fleisch, visch unnd anderen, wie wir das selber haben und brauchen nach aller notturfft ungevarlichen. Wir sollen unnd wöllenn
+                    <lb n="16"/>
+                    ine auch der obgehörten neunhundert guldin schulden unnd waß er vermachet, allerdings enthebenn unnd ohn allen seinen schaden richten und bezallen, wie wir solches uff unß genomen,
+                    <lb n="17"/>
+                    unnd versprochen haben, unnd wan wir seinen nächsten erbenn vermög aines deßwegen von uns gegebnen schuldbriefs, die zwayhundert vier unnd zwanzig guldin, so in vorberüerte
+                    <lb n="18"/>
+                    neunhundert guldin gerechnet, bezallen und richtig machen, sollen wir, vonn allen seinen erben weiter unangesucht verbleiben, als unß solches versprochen ist, unnd ob er, <persName ref="lub-actors-62">Glarner</persName>, über
+                    <lb n="19"/>
+                    sein notturfft ettwaß durch ersparung, oder sonst in einichen wäg, erobern würdet, das soll er nicht heruß tragen, nach verkoffen, kains wägs aber er hat gut macht, nach gelegenheit
+                    <lb n="20"/>
+                    ainem gutten freundt uß seinem pfrundt wein, ainen trunckh mitzuthaillen, unnd so gott der almächtig mehrbesagten <persName ref="lub-actors-62">Glarner</persName> nach sinem götlichen willen über kurz oder lange zeit, auß
+                    <lb n="21"/>
+                    diser pfrundt unnd welt abvordern würde, so sollen wir schuldig sein, ime die begrebnus, sibenden, dreyssigisten unnd jarzeiten, biß uff unser absterben, wie ainem christen-mentschen ge
+                    <lb break="no" n="22"/>
+                    bürt nach zuhalten, alles in unnserem costenn, unnd damit er diser pfrundt unnd waß wir ime ze geben schuldig, desto sicherer sein möge, so haben wir ime für uns, all unsere erben unnd
+                    <lb n="23"/>
+                    nachkomen, zu rechtem underpfandt eingesezt unnd hafft gemacht, all unser hab unnd gut, so wir under wol ermelz hern graff <persName ref="lub-actors-13">Carl Ludwigs zu Sulz</persName> etc. gnaden ligen haben, es sey an güetern,
+                    <lb n="24"/>
+                    schulden oder anderem, und im fahl solches nit genug were, so sollen ime, <persName ref="lub-actors-62">Glarner</persName>, gleichfahls, all ander unsere hab und güetere, in der herschafft <placeName ref="lub-places-10">Veldtkirch</placeName> gelegen, es sey an barschafft, silber,
+                    <lb n="25"/>
+                    geschirr, gülten, schulden, oder anders, hiemit auch verobligiert unnd verschriben sein, also daß dieselbigen angegriffen unnd offt gedachter <persName ref="lub-actors-62">Glarner</persName> biß uff sein absterben, wie vorsteht, daruß erhalten
+                    <lb n="26"/>
+                    werde. Darvor soll weder uns, unsere erben und nachkomen, nit fryen friden nach fristen, ainicherley gnad, fryheit, gebreuch, statt noch landtrecht, noch anders, so immer hierwider
+                    <lb n="27"/>
+                    durch mentschlich geschwindigkait erfunden unnd erdacht werden möchte, dan wir unns dessen alles, sampt dem rechten gemainer verzeichung widersprechende, genzlichen verzigen unnd
+                    <lb n="28"/>
+                    begeben haben, mit crafft dis briefs, alles gethrewlich unnd ungevarlichen, unnd ich, obgemelter <persName ref="lub-actors-62">Ulrich Glarner</persName>, bekhen offenlich für mich und mine erben, das ich diser vergleichung
+                    <lb n="29"/>
+                    allerdings zufridenn unnd darbey verbleiben soll, urkundtlich, so haben wir baiderseytz mit ernstlichem fleiß gebüten unnd erbeten die ersamen <persName ref="lub-actors-242">Jerg Madlenern</persName>, landtaman zu <placeName ref="lub-places-40">Ranckh
+                    <lb break="no" n="30"/>
+                    weyl</placeName> unnd <placeName ref="lub-places-99">Sulz</placeName>, auch <persName ref="lub-actors-241">Jacob Grawen</persName>, landtaman der herschafft <placeName ref="lub-places-11">Schellenberg</placeName>, das ir jeder sein aigen insigell, doch inen, iren erben und nachkomen, in alwäg ohne schädlich, offenlich für
+                    <lb n="31"/>
+                    uns gehenckt haben an disen brief, der geben ist den <date>vierdten monatstag Januarii, gezalt fünffzechenhundert nünzig unnd dreü jare</date> etc. Unnd zu noch mehrer becrefftigung aller abgeschribnen
+                    <lb n="32"/>
+                    dingen, so hab ich, obgedachter comenthür, min aigen angeboren insigell für mich unnd alle min nachkomen unnd das besagt hauß zu <placeName ref="lub-places-10">Veldkirch</placeName> offenlich gehenckht an disen brief, der geben ist
+                    <lb n="33"/>
+                    uff <origDate>dornstag nach sant Sebastyans tag, von der gepurt Cristi gezalt fünffzechenhundert nünzig unnd vier jare</origDate> etc.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-149" n="1"/><lb n="1"/>
+                    Pfrundt brieff Antony Bussenet
+                    <lb n="2"/>
+                    zu Mauren so abhir im haws
+                    <lb n="3"/>
+                    pfründer gewessen.
+                    <lb n="4"/>
+                    Anno 1594 Arbogast von Andlau coment.
+                    <lb n="5"/>
+                    zu Feldkirch nimmt Ulrich Glarner von
+                    <lb n="6"/>
+                    Muren zu einen pfründner auf.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

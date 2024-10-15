@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-578">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erlass zum Erb- und Besitzrecht</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-578">LI-LA, Schä U 53</ref> / Originaldatierung: 24. August 1531 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Druck: Schädler, Rechtsgewohnheiten, S. 44-49.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Rudolf von Sulz regelt auf Ersuchen der Untertanen der Herrschaft Vaduz das Ausstellen von Testamenten sowie das Erbrecht von Enkeln und Eltern und erlässt Bestimmungen zum Recht auf unangefochtenen Besitz von Gütern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-269">Satzung</term>
+          <term ref="lub-keywords-283">Testament</term>
+          <term ref="lub-keywords-294">Erbrecht</term>
+          <term ref="lub-keywords-316">Besitz</term>
+          <term ref="lub-keywords-359">Landesgewähr</term>
+          <term ref="lub-keywords-360">Zeuge</term>
+          <term ref="lub-keywords-154">Geschworener</term>
+          <term ref="lub-keywords-361">unfertig</term>
+          <term ref="lub-keywords-362">Blume</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1531-08-24">24. Aug 1531</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1505" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName>, lanndtgrave im <placeName ref="lub-places-18">Cleckhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, römischer, hungerischer und behämischer khunigklicher magestat etc. stathalter der <placeName ref="lub-places-160">Oberössterreichischen Landen</placeName> etc., herr 
+<lb n="2"/>zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> und <placeName ref="lub-places-12">Bluemenegkh</placeName> etc., bekhennen offennlich und thun khundt allermenigklich mit dissem brieve, das fur uns komen und erscheinen synnd unser arme leut und underthanen, gemainklich geschwornen 
+<lb n="3"/>und gerichts leut unser herschafft <placeName ref="lub-places-7">Vaduz</placeName> und hielten uns fur etlich mängel und artickhel, daran inen vil und gross gelegen wär, so sy an weilend die edlen und wolgebornen, unser vetter, <orgName ref="lub-actors-744">freiherrn von Brandiss</orgName> seliger nach 
+<lb n="4"/>einandern und jez an uns als erb und regierenden herrn egemelter herschafft <placeName ref="lub-places-7">Vaduz</placeName> gepracht und mermalen angezogen hetten und doch der sach khainen ausstrag gegeben wäre. Zu dem erssten wann es sich durch gott ge
+<lb break="no" n="5"/>fuegte, das ain mensch in kranckhait läge und sich besorgte zusterben, wie sich dann derselb mensch zu gott schickhen und was er verordnen und verschaffen möchte und sein testament sezen, damit es krafft hette. Zum 
+<lb n="6"/>anndern welcher mensch durch gott und zuhail seiner seelen seiner freunden und anndern, so guts umb denselben menschen verdeinet und beschuldt hetten, etwas verordnen und verschaffen wölt, wie das geschechen sölte. Zum 
+<lb n="7"/>dritten wievil ain mensch in seiner kranckhait in obgemelter gestalt verschaffen möchte. Zu dem vierten wie enichle an statt vatter und muter zu erben zugelassen sölten werden. Zum veinfften ob enichle kinder ane leib 
+<lb n="8"/>erben absturben und etwas in egemelter gestalt in erbsweise an sy gefallen wäre, wo dann dasselbig ir ererpt gut wider haim gefallen sölte. Zum sechsten wie auch vatter und muter ire eliche und ledige kinder erben 
+  <lb n="9"/>sellen und mugen. Zum sybenden ob ain mensch etwas <term ref="lub-keywords-361">unfertigs</term> uff im hette, wie es dann dasselbig wider kören und geben sölte. Zu dem letsten wie inen in der gemelten herschafft nöt wär ain gewonlich <term ref="lub-keywords-359">lannds gewer</term>. 
+<lb n="10"/>Also uff selich ir anpringen der angezaigten artickhel haben wir uns gar aigentlich betracht und deshalben radt gehapt ains vicaris und gaistlichen richters zu <placeName ref="lub-places-102">Chaur</placeName> und andern verstendigen leuten und sezen und wellen, 
+<lb n="11"/>das nw hinfuro disse artickhel und maynungen, hernach volgende, in gemelter unser herschafft <placeName ref="lub-places-7">Vaduz</placeName> gehalten und in gerichts iebungen, wo es disser artickhel ainen oder mer, als hernach stat, an rieren wurde, daruff 
+<lb n="12"/>gericht denen statt und gelauben gegeben werde und darwider mit kainer urtell gericht, sonnder gestragkhs ane inred, intrag, hindernus, bekumernus aller gericht und sachen also beleiben lassen, khainen den anndern anderst uber 
+<lb n="13"/>selichs nit anlangen, furnemen noch hindern mit khainen gerichten noch sachen, weder gaistlichen noch weltlichen, ganz in kainen weg. Und wellen zu dem erssten, ob ain mensch mit kranckhait beladen wäre und etwas ver
+<lb break="no" n="14"/>schaffen wölte, das dann alwegen zwen piderbman zu zeugen und der priester darbey sellen sein, es wär dann sach und zubesorgen arglisst und ander verfuerung, alsdann synnd derselben zeugen nit genug, sonnder sellen mer 
+<lb n="15"/>zeugen darzu beruefft werden, domit verstanden des verschaffners befinten, willen und wo selichs in ander weg anderst gehalten wurd, so sellen dieselben testament und letste willen nichts bedeuten und krafftlos haissen und 
+<lb n="16"/>sein. Zu dem andern welcher mensch der wäre, der durch gott und zuhail seiner freunden und anndern, so selichs umb ains verdeinet und beschuldt hetten, etwas nach irem tod zugeben verschaffen wölte, so soll derselb mensch 
+<lb n="17"/>darzu berueffen veinff zeugen und, die zu selicher handlung erpetten seyend, darunder sellen zu dem wenigsten sein zwen richter egemelter herschafft, damit jemantz gedenckhen möge, das der kranckh den prauch seiner 
+<lb n="18"/>synnen nit gehapt hab. Alsdann soll selich testament und ordnung krafft und macht haben, sonst nit. Zu dem dritten welicher mensch der wäre, der in seiner kranckhait etwas uber drey phund phening verschafft 
+<lb n="19"/>und verordnet, soll kain krafft noch macht haben und nit gelten, es seyend dann egemelter gestalt zeugen darbey gewessen. Es wäre dann sach, in seiner kranckhait etwas durch gott und zu trosst seiner seele verschaffen 
+<lb n="20"/>wölte, alsdann sellen drey richter dickh gemelter herschafft darzu erpetten werden, darbey verstanden, kain argkhwenigkait darbey verloffen. Zu dem vierten alsdann die hailigen recht nit klain achtend, das die enichle 
+<lb n="21"/>zugelassen werden an statt irer vatter und muter zu erben, und unzimlich wäre, das sy mit zwayen ruten, ainer in endtzeichung leiplichs trossts durch abgang vatter und muter, und in demselben irem unfal mit der 
+<lb n="22"/>andern ruten, mit beraubung ires vätterlichen und muterlichen erbs, gestrafft werden sölten. Darumb so sellen nw hinfuro enichle an statt irer vatter und muter erben und in die luckhen an statt vatter und muter 
+<lb n="23"/>gestelt werden. Und wann nw enichle vorhanden wären und weder vatter noch muter an jetweder seiten mer ist, alsdann soll jedes enichle fur sich selbs erben. Zu dem veinfften ist uff dissen artickhel sonder und 
+<lb n="24"/>mer beredt, ob enichle kinder on leib erben absturben und vormals an sy etwas erbfals egemelter gestalt zugefallen wäre, so soll selich gut, was das wäre, von inen wider hindersich an die nächsten freundtschafft, dannen 
+<lb n="25"/>här es geflossen ist, fallen on alle hindernus. Zu dem sechsten alsdann vatter und muter, ire eliche und ledige kinder in obgemelter unser herschafft zu erben, bishär kains wegs zugelassen, doch nichtdestweniger naturliher und 
+<lb n="26"/>ordenlicher sazung dieselben ire kinder uffzuerziechen und zuversechen schuldig synnd, auch die kinder ire vatter und muter fur menigklich rechtlich erben, demnach so sezen, maynen und wellen wir, das nw hinfuro 
+<lb n="27"/>vatter und muter ir letstes kind, so mit tod abgat, on elich leib erben von im geporen, erben sellen mit disser beschaidenhait, das vatter und muter desselbigen, irs letstes kinds, verlassen ligend und farend hab und 
+<lb n="28"/>gut, was das wäre, ir weil und lebenlang inehaben, nuzen, niessen, geprauchen und den <term ref="lub-keywords-362">bluemen</term> järlich darvon nemen und sellen, auch die <unclear>gue</unclear>ter, so in erbsweise an sie also gefallen, weder versezen, verkouffen, 
+<lb n="29"/>verordnen, verschaffen noch sonst veraberhandlen in kain weiss noch weg, sonder in guten wessenlichen eeren und pewen halten. Wo aber vatter und muter an dem <term ref="lub-keywords-362">bluemen</term> von denselben gutern zusampt irem aigen 
+<lb n="30"/>gut nit narung noch ausskomen hetten, sellen sy ir aigen gut zu ir leips noturfft, narung und underhaltung am erssten angreiffen und, so dann ir aigen gut nit genugsamlich darzu raichen und gedeinen möcht, als
+<lb break="no" n="31"/>dann sellen und mögen sy mit dem gut, so egemelter gestalt erbweise sy angefallen, schaffen, handlen, thun und lassen, wie und als mit anderm irem aigen gut, doch alweg zimlich und nit wuestlich on not. Und so 
+<lb n="32"/>dann vatter und muter auch absterben on eelich leib erben von inen furohin geporen, soll selich gut, vorgemelter gestalt inen zugefallen, so uberbeliben und noch vorhanden, was das wäre, von inen wider hinder
+<lb break="no" n="33"/>sich an die nähsten freundtschafft nach der linien des pluts zu paiden, vatter und muter, stammen, dannenhär das gut geflossen und komen ist, fallen on alle inred. Zum sybenden ob ain mensch etwas <term ref="lub-keywords-361">unfertigs</term>
+<lb n="34"/>uff im hette, wie und was das wäre, so sein seel zu ewiger seligkhait irren und hindern möchte, so soll derselb mensch selichs bey guter vernunfft an die end und orth verordnen und khören, darhin es gehört, und bey 
+<lb n="35"/>gesundem leib ald aber in seiner kranckhait obgemelter gestalt zeugen und leut darbey haben, damit jemanz betragen möge werden. Zum achtenden ist gar mit namlichen worten beredt und angesechen ain 
+  <lb n="36"/>gewonlich <term ref="lub-keywords-359">landss gewer</term> disser unser herschafft <placeName ref="lub-places-7">Vaduz</placeName>, wie hernach volgen ist: Zu dem erssten ob ainer etwas guter, ligende und farende, oder brieff inhende hette und in ruebiger besizung veinffzechen jar wäre ge
+<lb break="no" n="37"/>wessen und nach dem von jemanz angezogen wurde, so deshalben vermaindte, gerechtigkait, vordrung und ansprach darzu zuhaben, und doch derselbig oder dieselbigen ansprächer dieweil im land gesessen, mit ain
+<lb break="no" n="38"/>andern zu kirchen und zustrasen gegangen, bey denselben an enden und orthen gewonet hetten, so sellen sy inen uff ir anfordrungen und zuspruch nichts schuldig sein, in kain weiss noch weg. Ob aber auslendig personen, 
+<lb n="39"/>so an frembder orth gewonet und nit im land gesessen wären, zu ainem oder mer in disser herschafft uber selich gewer und zeit etwas zusprechen hette, darumb soll dann geschechen, was recht ist. Und zu letst 
+<lb n="40"/>ob ainer den andern in dickh gemelter herschafft umb ain geldt schuld anziechen wurde und also ob zechen jaren ane angefordert angestanden wäre, soll derselbig derselbigen person uff iren anzug nicht schuldig, sonder 
+<lb n="41"/>die schuld tod und absein. Wir, obgemelter <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName> etc., behalten uns und unsern erben und nachkomen, disse handlung, maynung und artikhel uber kurz oder lang zeit zu mindern, zu meeren, 
+<lb n="42"/>zu verendern oder gar abzethun, auch alwegen uns, unsern erben und nachkomen an unsern herligkaiten, gewonhaiten und gerechtigkhaiten unvergriffenlich und unschädlich, mit urkhundt und in crafft diss brieffs, 
+<lb n="43"/>daran wir unser aigen ynnsigel zu ainer waren gezeuckhnus der sach offennlich haben lassen henckhen, der geben ist <origDate>an sandt Barthlomeus, des hailigen zwelffpotten, tag, als man zalt nach der gepurtt Cristi, 
+<lb n="44"/>unsers herrn, taussent veinffhundert dreissig und ain jar</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

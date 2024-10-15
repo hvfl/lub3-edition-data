@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-573">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Hans Risch von Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-573">LI-LA, Schä U 48</ref> / Originaldatierung: 23. Januar 1529 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Risch von Balzers, der wegen ungenannter Delikte in Schloss Vaduz inhaftiert worden war, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-235">Delikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-425">Risch, Hans (genannt Reitner)</persName>
+          <date when="1529-01-23">23. Jan 1529</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1529-01-23">23. Jan 1529</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-455" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-425">Hanns Rüsch genant Reitner</persName> von <placeName ref="lub-places-71">Balthers</placeName> bekhenn unnd thun khundt allermenigklich mit dissem brieve, 
+<lb n="2"/>nach dem als ich in des wolgebornen herrn, herrn <persName ref="lub-actors-8">Rudolffs graven zu Sultz</persName>, landtgraven im <placeName ref="lub-places-18">Cleckhgew</placeName>, des 
+<lb n="3"/><orgName ref="lub-actors-516">Hailigen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegkh</placeName> und khunigklicher magestat 
+<lb n="4"/>zu <placeName ref="lub-places-146">Hungern</placeName> und <placeName ref="lub-places-162">Behaim</placeName>, meins genedigissten herrn, statthalter der <placeName ref="lub-places-160">Oberössterreichischen Landt</placeName> etc., meins ge
+<lb break="no" n="5"/>nedigen herrn, gefenkhnus komen und in seiner gnaden <placeName ref="lub-places-33">schloss Vadutz</placeName> gefuert worden umb etlich meiner
+<lb n="6"/>wolverschuldt sachen. Deshalben der erenvesst <persName ref="lub-actors-155">Caspar Mammendorffer</persName>, der zeit bemelts, meins genedigen 
+<lb n="7"/>herrn, landtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und obervogt zu <placeName ref="lub-places-12">Bluemenegkh</placeName>, mich meiner verhandlung nah wol 
+<lb n="8"/>hartigklich an meinem leib und gut straffen het mugen, aber nahmals uff underhandlung, auh hohflyssig 
+<lb n="9"/>pitt und ersuhen meiner freundtschafft, auh ander fromer piderbleut, derselb, meins genedigen herrn landt
+<lb break="no" n="10"/>vogt, mih in selicher verhandlung genedig angesechen und darumb mich an seiner genaden statt seliher venkh
+<lb break="no" n="11"/>nus ledig und ausgelassen, darumb ih dann pillich obgedachtem, meins genedigen herrn landtvog, an statt
+<lb n="12"/>seiner genaden zuvor, auh allen denen, so zu selicher meiner erledigung geiept, underthenigen und fleissigen 
+<lb n="13"/>dankh sag, und daruff mih hiemit verschreib, verphlicht und verpind wissentlich mit crafft ditz brieffs also, 
+<lb n="14"/>das ich seliher handlung und gefenkhnus und, was darzu beruert, gegen meinem genedigen herrn, seiner 
+<lb n="15"/>gnaden erben, freundten, vegten, amptleuten, deinern, auch gegen seiner gnaden armenleuten, underthonen 
+<lb n="16"/>und zugehörigen, auh gegen allen denen, so seiner gnaden vegten, amptleuten und anweldten zuversprechen 
+<lb n="17"/>stond, sy seyend gaystlih oder weltlih, auch sonst allen denen, so daran schuld, radt oder that haben oder 
+<lb n="18"/>haben möchten, ich oder jemandts von meinen wegen in khain weiss noh weg, weder mit worten noh werkh
+<lb break="no" n="19"/>en jetz noh hinfuro ewigklih nichts ändtern, äffern, rechen, noh mich beschweren, auh das niemandt an
+<lb n="20"/>meiner stat ader in meinem namen zuthun gestatten, bevelhen, nah v<gap/>gen, weder mit noch ausserhalb 
+<lb n="21"/>rehtens, sonder mit disser genedig ledigsagung zudankh beniegen. S<unclear>eli</unclear>hs ich dann obgenantem, meins 
+<lb n="22"/>genedigen herrn lanndtvogt an statt seiner genaden ain gelerten aid mit uffgehaben fingern leiplih 
+<lb n="23"/>zu got und den hailigen geschworen. Demnah ich mih hiemit verpind also, wo ih selihs, so obgeschriben, 
+<lb n="24"/>nit stät hielt, sonnder in ainem oder merrerm verpreh und uberthrete (da got vor sey und mih behuet), 
+<lb n="25"/>das alsdann mein genediger herr, seiner gnaden vegt, amptleut und anweldt, nah mir greiffen, mih anne
+<lb break="no" n="26"/>men und straffen lassen sellen, reht und macht haben, als gegen ainem, der sein glupt, aid, zusagen unnd
+<lb n="27"/>verschreibung uberthräten und nit gehalten hat, darfur mih weder gaistlih noh weltlich gericht, auh kaynerlay 
+<lb n="28"/>freihait noh landsbrauh nit helffen, sichern noh beschirmen soll. Will mih des hiemit alsdann und 
+<lb n="29"/>dann als jetz verzigen und begeben haben. Und des zu warem urkhundt so hab ih, obgenanter <persName ref="lub-actors-425">Hans 
+<lb n="30"/>Rüsch</persName>, mit sonderm fleis gepetten und erpetten den edlen und vessten <persName ref="lub-actors-156">Balthasern von Ramschwag</persName>, der 
+<lb n="31"/>zeit khunigkliher magestat zu <placeName ref="lub-places-146">Hungern</placeName> und <placeName ref="lub-places-162">Behaim</placeName> vogt uff <placeName ref="lub-places-13">Gutenperg</placeName>, meinen geunstigen junkher, 
+<lb n="32"/>das er sein aigen insigel von meinen wegen an dissen brieff gehenkht hat, doh im, seinen erben und 
+<lb n="33"/>insigell on allen schaden. Beschechen und geben uff <origDate>freitag nah sandt Sebastians tag nah Cristi, 
+<lb n="34"/>unsers lieben herrn, gepurtt feunffzehenhundert zwaintzig und newn jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-601">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-601">LI-LA, Schä U 68</ref> / Originaldatierung: 11. November 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich Gassner von Triesen und seine Frau Elsa Lampert verkaufen mit Zustimmung von Hans Schierscher, Ammann der Herrschaft Vaduz, einen Zins von 10 Schilling ab ihrem Gut im Triesner Feld für 10 Pfund Pfennig an Hans Rig von Triesen, Pfleger der Kapelle St. Maria in Triesen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-458">Gassner, Ulrich</persName>
+          <date when="1561-11-11">11. Nov 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-459">Lampert, Elsa (1)</persName>
+          <date when="1561-11-11">11. Nov 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-361">Schierscher, Hans (2)</persName>
+          <date when="1561-11-11">11. Nov 1561</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-490" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-458">Ulrich Gasner</persName> von <placeName ref="lub-places-79">Drisen</placeName> und ich <persName ref="lub-actors-459">Elsa Lampartin</persName>, sein eelich weib, bekhenen offenlich und thun khundt allermenigclich mit dem 
+<lb n="2"/>brief, das wir mit veraindtem gueten willen, wolbedachtem sin und mueth zufurderung unsers nutz besonder mit hand des ersamen, 
+<lb n="3"/>weisen <persName ref="lub-actors-361">Hanns Schiersers</persName>, derzeit aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, aufrecht und redlich verkhaufft und zue khouffen gegeben haben und geben 
+<lb n="4"/>auch hiemit wissentlich in crafft dits briefs dem ersamen <persName ref="lub-actors-314">Hans Rigen</persName> zu <placeName ref="lub-places-79">Drisen</placeName> als ain phleger <placeName ref="lub-places-183">Unser Frauen Cappel</placeName> zu <placeName ref="lub-places-79">Drisen</placeName> und 
+<lb n="5"/>allen seinen nach khumenden phlegern aines stetten, vesten, ewigen und immer werenden khauffs nemblich zöhen schilling phening gueter 
+<lb n="6"/><placeName ref="lub-places-101">Chostentzer</placeName> müntz <placeName ref="lub-places-10">Veldtkhircher</placeName> werung recht, ewigs, jerlichs zinß und phening gelts von, usser und ab unserm aigen guet im <placeName ref="lub-places-216">Drisner
+<lb break="no" n="7"/>veld</placeName> gelegen, stost ufwert dem landt nach an <persName ref="lub-actors-325">Larus Planckhen</persName>, gegen dem berg an <persName ref="lub-actors-1050">Gretha Plennckhi</persName>, abwert an <persName ref="lub-actors-1051">Thoman Khindlin</persName> und
+<lb n="8"/><persName ref="lub-actors-1052">Jacob Müller</persName> und <persName ref="lub-actors-1051">Drina Khindlin</persName> guet und gegen dem <placeName ref="lub-places-103">Rhein</placeName> an des <persName ref="lub-actors-1053">Pesserers</persName> lehen, das <persName ref="lub-actors-1054">Bartlme Gantebain</persName> inhat etc., alles ab grundt, 
+<lb n="9"/>grad, veld, wasen, wun, waid, stockh, stain, gestudt, gerudt, gengen, stegen und wegen und gemainlich mit allen andern seinen rechten und zue
+<lb break="no" n="10"/>gehörden, benembten und unbenammbten, auch fur ledig und gegen aller menigclich unverkhumbert. Und also ist der ewig, redlich khauff
+<lb n="11"/>ergangen und beschehen benentlichen umb zöhen phundt phennig gueter vorgeschribner muntz und werung, dero wir aller von ime, dem kheuf
+<lb break="no" n="12"/>fer als phleger also par erberlich usgericht und bezalt worden seindt nach unserm gueten willen und beniegen. Darumben sollen wir,
+<lb n="13"/>auch all unser erben und nach khumen oder, wer das obgemelt undterphandt nach uns immer inhat, nutzet und brauchet, ernentem kheuffer 
+<lb n="14"/>als phleger und allen andern seinen nachkhumenden phlegern und inhabern dits briefs die gestimbten zöhen schilling phennig jerlichs 
+  <lb n="15"/>zinß nun hinenthin immer, ewigclich und alle jar jarlichen uff <term ref="lub-keywords-365">sandt Marttis des heilligen bischoffs tag</term>, achttag vor oder nach un
+<lb break="no" n="16"/>gfarlich, güetlich usrichten, zinsen und zue iren sichern handen und gewalt, fur alles verhefften, verpieten und entweren, genntzlich
+<lb break="no" n="17"/>en one allen iren chosten und schaden geben und antwurten. Wan und welliches jars das aber also nit beschehe uber khurtz oder lange
+<lb n="18"/>zeit, so ist inen das obgemelt undter phandt, in den bestimbten marckhen begriffen, gantz zinsfellig worden und danenthin mit grundt, grad 
+<lb n="19"/>und mit allen seinen obgenanten rechten, pessrungen und zuegehörden zue rechtem ewigem aigen immermer haimbgefallen und verfallen, 
+<lb n="20"/>on unser aller erben und nachkhumen und allermenigclichs von unsernt wegen irrung und widersprechen. Unnd hieruff diß ewigen, 
+<lb n="21"/>redlichen khauffs umb zinsfellige und fur al abgang und minderung des obernenten undter phandts, auch hobtguets, zinß und schadens 
+<lb n="22"/>und aller obgenanter ding söllen und wellen wir, dickhernente verkheuffere, alle unser erben und nachkhumen des gesatzten khof
+<lb break="no" n="23"/>ers als phleger und allen andern seinen nachkhumenden phlegern recht, guet und getrew khrefftig gewern, fürstandt und verspreh
+<lb break="no" n="24"/>er gegen allermenigclich sein vor dem richter und gericht, darundter obbemelt undterphandt gelegen ist, nach recht, wa, wie, wen
+<lb n="25"/>oder gegen wem, als offt und tickh si des nach dem rechten immer bedürffen oder notturfftig werden, alfort in unserm aigen chosten 
+<lb n="26"/>und schaden, bei gueten trewen, one alle widerred, uffzug und geverde. Und wiewol der brief ainen ewigen khauff ausweist, nichtdes
+<lb break="no" n="27"/>terweniger mugen wir, auch al unser erben und nach khumen den gemelten zinß, die zöhen schilling phennig, von ime, kheuffer, als phleg
+<lb break="no" n="28"/>er und allen andern seinen nachkhumenden phlegern wol widerumben khauffen und ablösen, nun hinenthin, wan und welliches jars
+  <lb n="29"/>wir wellen uber khurtz oder lange zeit, doch vor zinsfal und alle jar uff <term ref="lub-keywords-365">uff sandt Marttis des heilligen bischoffs tag</term>, achttag vor 
+<lb n="30"/>oder nach ungfarlich, sambenthafft mit dem obgeschribnen hobtguet, den zöhen phundt phennigen, doch sambt allen gefallen, ausstendig
+<lb break="no" n="31"/>en zinsen, auch mit gueter muntz und werschafft, daran si khainen verlust noch abgang haben, ob sich die jetzig muntz in derzeit ver
+<lb break="no" n="32"/>endern wurde, alles ungevarlich. Unnd des zu warem urkhundt haben wir, obgemelte verkhouffere, mit vleis und ernst er
+<lb break="no" n="33"/>petten den obgedachten aman <persName ref="lub-actors-361">Hans Schierser</persName>, das der sein aigen insigl fur uns und unser erben (doch im und seinen erben onschaden)
+<lb n="34"/>offenlich an disen brief gehenckht hat, der geben ist <origDate>an sandt Marttis, des heilligen bischoffs, tag nach der gepurt Christi im 
+<lb n="35"/>funffzehenhundert ainundsechtzigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

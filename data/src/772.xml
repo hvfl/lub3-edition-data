@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-772">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schreiben betreffend Zollbefreiung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben von Graf Alwig von Sulz teilt dem Verwalter und Statthalter des Klosters St. Johann, Erasmus von Altmannshausen, mit, dass das Gotteshaus auch weiterhin vom Zoll befreit bleibt und er dem Zoller Jos Oswald befehlen wird, dessen Ansprüche auf den ausständigen Zoll von drei Jahren aufzugeben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-9">Zoll</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-114">Sulz, Alwig X. (XII. u. III.) Graf von</persName>
+          <placeName ref="lub-places-33">Vaduz, Schloss</placeName>
+          <date when="1611-06-06">6. Jun 1611</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1818" n="1"/><lb n="1"/><persName ref="lub-actors-114">Alwig graf zue Sultz</persName>,  
+<lb n="2"/>landtgrave im <placeName ref="lub-places-18">Cleggew</placeName> etc. 
+<lb n="3"/>Unsern guten nachparlichen diennstwillen unnd grueß  
+<lb n="4"/>bevorahn. 
+</p>
+        <p><lb n="5"/>Erwürdiger, edler, besonders lieber herr unnd  
+<lb n="6"/>freundt, wir haben ewer schreiben vom <date>4. huius</date>  
+<lb n="7"/>durch zaigern wol empfangen unnd verstanden. 
+</p>
+        <p><lb n="8"/>Unnd thuen unnß anfenckhlich, deren in unnser vater
+<lb break="no" n="9"/>land gewünschten gratulation unnd salutation gannz 
+<lb n="10"/>freundtlich bedanckhen. 
+</p>
+        <p><lb n="11"/>Den von dreyen jaren ausstendigen und von dem zoller  
+<lb n="12"/><persName ref="lub-actors-668">Joß Oschwaldten</persName> gegen dem gozhauß <orgName ref="lub-actors-195">St. Johann</orgName>  
+<lb n="13"/>praetendirenden zoll berüerende, wöllen wir  
+<lb n="14"/>gleichwol auß gueter nachparschafft die verfüeg
+<lb break="no" n="15"/>ung mit ime, zoller <persName ref="lub-actors-668">Joß Oschwaldten</persName>, anstellen, das 
+<lb n="16"/>er denn nicht fordere, besonder daß bemelte goz
+<lb break="no" n="17"/>hauß <orgName ref="lub-actors-195">Sanct Johann</orgName> unverlengt, umb sein ansprach 
+<lb n="18"/>befridige. Jedoch mit disem ausstuckhenlichen  
+<lb n="19"/>reservat unnd anhang, das es weder gegen  
+<lb n="20"/>unserm herr vater, noch unnsern ewigen erben  
+<lb n="21"/>und nachkhomen, zue kainer gerechtigkait, sonder  
+<lb n="22"/>allein zue continuirung gueter nachbarlichen cor
+<lb break="no" n="23"/>respondenz, solle gehalten werden. Dardurch die kayserliche 
+<lb n="24"/>unnd königcliche privilegia nit zue schmeleren etc. 
+</p>
+        <p><lb n="25"/>Wolten wir euch nit verhalten, bleiben euch bey
+<lb break="no" n="26"/>neben zue gueter nachparschafft und freundtlichen 
+<pb facs="lub-media-1819" n="2"/><lb n="27"/>willen, wol gewogen. Datum auf dem  
+<lb n="28"/>schloß <placeName ref="lub-places-33">Vaduz</placeName>, denn <origDate>6. junii anno etc. 1611</origDate>
+<lb break="no" n="29"/><persName ref="lub-actors-114">Alwig</persName> etc.
+<lb n="30"/>Dem erwüerdigen, edlen, unnserm besonders lieben  
+<lb n="31"/>herren unnd freundt, <persName ref="lub-actors-704">Erasmo von Altmanßhausen</persName>,  
+<lb n="32"/>stathaltern zu <orgName ref="lub-actors-195">St. Johann</orgName>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1820" n="1"/><lb n="1"/>Copia schreibens. 
+<lb n="2"/><persName ref="lub-actors-114">Alwig graf zue Sulz</persName> etc. 
+<lb n="3"/>ahn  
+<lb n="4"/>herren <persName ref="lub-actors-704">Erasmus von Alt
+<lb break="no" n="5"/>manshausen</persName>, statthaltern 
+<lb n="6"/>zue <orgName ref="lub-actors-195">Sanct Johann</orgName> etc. 
+<lb n="7"/>Betreffendt denn zoll  
+<lb n="8"/>zue <placeName ref="lub-places-36">Benderen</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

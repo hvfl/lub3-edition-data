@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-579">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Sigmund Tanner von Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-579">LI-LA, Schä U 54</ref> / Originaldatierung: 9. September 1534 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Sigmund Tanner von Schaan, der wegen ungenannter Delikte auf Schloss Vaduz inhaftiert worden war, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-235">Delikt</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-429">Tanner, Sigmund</persName>
+          <date when="1534-09-09">9. Sep 1534</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1534-09-09">9. Sep 1534</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-463" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-429">Sigmund Thanner</persName> von <placeName ref="lub-places-53">Schan</placeName> der herschafft <placeName ref="lub-places-7">Vadutz</placeName> bekhenn offennlich mit dissem brieff und thue khundt allermenigklich, 
+<lb n="2"/>als ich umb wolverschuldt sachen in des wolgepornen herrn, herren <persName ref="lub-actors-8">Rudolffs graven zu Sultz</persName>, lanndtgraven im <placeName ref="lub-places-18">Kleckhgew</placeName>, des 
+<lb n="3"/><orgName ref="lub-actors-516">Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, hern zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegkh</placeName>, auch <orgName ref="lub-actors-516">römischer</orgName>, hungerischer und behäimischer 
+<lb n="4"/>kunigklicher magestat etc., meins allergenedigissten herrn, stathalter der <placeName ref="lub-places-160">Oberössterreichischen Lannden</placeName> etc., meins genedigen herren, 
+<lb n="5"/>venckhnus khomen und angenomen bin, deshalben ich ettlich tag im <placeName ref="lub-places-33">schloss Vadutz</placeName> gelegen, daraus mich aber seiner gnaden vogt 
+<lb n="6"/>daselbst, <persName ref="lub-actors-155">Caspar Mammendorffer</persName>, wiewol ich ainer merrer straff verschuldt hett, auff meiner besonder eeleiplichen kinden, 
+<lb n="7"/>freunden und ander fromer leut sonderlich hoch furpitte und aus sonder bermhertzigkait an statt und innamen seiner gnaden 
+<lb n="8"/>genedigklich widerumb ledig und ausgelassen, des ich seiner gnaden underthenigen danckh sag. Darauff hab ich mit gutem 
+<lb n="9"/>willen und aller panden frey und ledig ainen gelerten ayd leiplich zu gott und den hailigen mit auffgehaben vingern auff 
+<lb n="10"/>und in dissen brieff geschworen, das ich gedachtem, meinem genedigen herrn, seiner gnaden erben, lannden, leuten, deinern 
+<lb n="11"/>und aller seiner gnaden zugehöigen, auch allen denen, so an meiner venckhnus und straff schuldig sein, darzu radt oder that 
+<lb n="12"/>gethon und geben haben, nichts desst veindter zu sein, auch nimermer zurechen, zu äffern und zu andten, in gar kain weiss 
+<lb n="13"/>noch weg, wie das menschen synn immer erdenckhen möcht, das auch niemand in meinem namen zuthun bevelhen, ver
+<lb break="no" n="14"/>schaffen gestatten oder vergunnen. Wo aber ich oder jemand von meinen wegen in selichem allem, so obgeschriben, ainen
+<lb n="15"/>oder mer artickhel verbrechen, den oder die all nit steet hielte und volzuge, sonder die yberthretten wurd, wie das were oder 
+<lb n="16"/>gescheche, mit worten, thaten oder werckhen, nichz ausgeschlossen (darfor gott sein und mit seiner göttlichen gnad mich ver
+<lb break="no" n="17"/>huetten well), alsdann sellen und mögen der gedacht, mein genediger herr, seiner gnaden erben und anwäldt nach mir,
+<lb n="18"/>in was gerichten und oberkhaitt das wär, stellen und greiffen, wie, wo sy mich ankhamen, betretten oder begreiffen, wo unnd 
+<lb n="19"/>welches endes mich annemen und zu iren handen bringen, auch mit mir handlen und verfaren, mit oder one recht, als 
+<lb n="20"/>mit dem, der sein ayd, glupt, trew, brieff und sygel nit gehalten hat. Darfor sol mich auch nit frissten, schirmen, furtragen 
+<lb n="21"/>noch behelffen kainerlay glait oder freyhait, gaistlich noch weltlich, noch sonst gar nichzit, so mich hiewider schirmen 
+<lb n="22"/>oder behelffen khind, selt oder möcht, wann ich mich des hiemit alles und jedes gäntzlich und gar verzeich, mich auch des 
+<lb n="23"/>jetz als dann und dann als jetz verzigen und begeben haben will. Des zu warem und stätem urkhundt so hab ich, obge
+<lb break="no" n="24"/>nanter <persName ref="lub-actors-429">Sigmund Thanner</persName>, mit allem hochem fleis gepeten den edlen und vessten <persName ref="lub-actors-156">Balthasern von Ramschwag</persName>, hochgedachter
+<lb n="25"/><orgName ref="lub-actors-516">römischer</orgName> kunigklicher magestat etc., meins allergenedigissten herrn, vogt auff <placeName ref="lub-places-13">Gutenberg</placeName> am <placeName ref="lub-places-103">Rhein</placeName>, meinen geunstigen 
+<lb n="26"/>junckher, das er sein aigen ynsigel von meinen wegen an dissen brieff gehenckht hat, doch im und seinen erben onschaden, 
+<lb n="27"/>darunder ich mich bey meinem geschwornen ayd, handtgegebner waren trewen u<supplied>n</supplied>d eeren vesstigklich verphlicht und ver
+<lb break="no" n="28"/>pind, all inhalt und ausweysung diss brieffs steet zuhalten. Und umb mein gepett des ynnsigels synnd gezeugen
+<lb n="29"/>die ersamen und weisen <persName ref="lub-actors-360">Caspar Khindlin</persName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, <persName ref="lub-actors-430">Stoffel Quader, genant Joham</persName>, dorffs 
+<lb n="30"/>geschworner, und <persName ref="lub-actors-431">Veit Friderich Hewer</persName>, wirt daselbst. Der geben ist am <origDate>n<gap/>wndten tag des monadts septembris, 
+<lb n="31"/>als man zalt nach der gepurtt Cristi, unsers seligmachers, thaussendt veinffhundert dreissig und vier jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

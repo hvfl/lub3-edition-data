@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-511">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Statthalter Rudolf V. von Sulz fordert dazu auf Widerstand gegen die Anführer des Bauernaufstandes zu leisten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [AT-TLA, U I 338](https://lub.anton.ch/objects/511) / Originaldatierung: 1. August 1526 / Beschreibstoff: Papier / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Statthalter Rudolf Graf zu Sulz fordert im Namen des Erzherzogs Ferdinand Prälaten, Adel, Städte und Gerichte im Burggrafenamt und an der Etsch auf, Widerstand gegen die Republik Venedig und Michel Gaismair und seinen Anhang zu leisten. Man habe den Anweisungen des Hauptmannes Jakob Fuchs von Fuchsberg und den verordneten Viertelmeistern Degen Fuchs von Fuchsberg, Veit von Andrian-Werburg, genannt Murentheiner, oder Heinrich Khuen von Belasy Folge zu leisten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-321">Militär</term>
+          <term ref="lub-keywords-66">Bauernkrieg 1525</term>
+          <term ref="lub-keywords-328">Kriegsvorbereitung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Habsburg, Ferdinand I. von</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1526-08-01">1. Aug 1526</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1526-08-01">1. Aug 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-514" n="1"/><lb n="1"/>
+                    Wir <persName ref="lub-actors-26">Ferdinannd</persName> von gots gnaden prinz unnd infannt in <placeName ref="lub-places-253">Hispanien</placeName>, erzherzog zu Österreich, herzog zu <placeName ref="lub-places-120">Burgundi</placeName> etc., grave zu <placeName ref="lub-places-96">Tirol</placeName> etc. Embieten
+                    <lb n="2"/>
+                    allen unnd yegklichen prelaten, denen vom adl, stetten unnd gerichten, alle mit halben in den vier tailen des <placeName ref="lub-places-251">Burggrafambts</placeName> und an der
+                    <lb n="3"/>
+                    <placeName ref="lub-places-252">Etsch</placeName>, unnser gnad und alles guet. Nachdem sich die leuff allennthalben, sonderlich der <orgName ref="lub-actors-650">Venediger</orgName>, mercklichen rüsstungen, auch irer prack
+                    <lb break="no" n="4"/>
+                    ticken halben, die sy yezo mit ennthaltung <persName ref="lub-actors-181">Micheln Gayssmayrss</persName> und seins anhanngs, auch in annder wege teglichen üben, beschwerlich
+                    <lb n="5"/>
+                    unnd gefarlich erzaigen, haben wir mit rat des klainen ausschuss diz lannds, an alle dieselben grenizen commissarien und kriegsfolckh ge
+                    <lb break="no" n="6"/>
+                    ordent und ordnung fürgenomen, welicher massen denselben emfallen unnd einzügen, wo die an ainichen oder mer enden, mit oder nach
+                    <lb n="7"/>
+                    ainannder durch die veind beschehen, am stattlichisten und gelegenisten notturfftiger widerstannd unnd gegenwer gethan weden müge. In
+                    <lb n="8"/>
+                    derselben ordnung ist unnder annderm begriffen, daz durch die viertel, die den ennden, da der uberfal zu besorgen am negsten gelegen sein,
+                    <lb n="9"/>
+                    ain ausshuss in die zehentausent man gemacht, und wo not wurde, zu rettung zugezogen werde. Dieweilen ir dann dem <gap/>, darauf
+                    <lb n="10"/>
+                    sich aines einfals zu besorgen ist, nahend gelegen seit. Demnach emphelhen wir euch allen und yeden, in sonnders, daz ir die anzal
+                    <lb n="11"/>
+                    personen, die sich eur yedem in dem anslag der zehentausent man geburt, von geschickhten, redlichen leuten von stund an fürnemet, ausschhiesset,
+                    <lb n="12"/>
+                    unnd berait machet. Also, wann ir durch unnsern lieben, getrewen <persName ref="lub-actors-653">Jacoben Fuchsen von Fuchsperg</persName>, als verordenetem hauptman bemelter viertl,
+                    <lb n="13"/>
+                    oder durch <persName ref="lub-actors-652">Degen Fuchsen von Fuchsperg</persName>, <persName ref="lub-actors-654">Veitten von Andrian</persName>, genannt Murrentheiner, oder <persName ref="lub-actors-655">Hainrichen Chuenen</persName>, als verordennt viertlmaister,
+                    <lb n="14"/>
+                    im <placeName ref="lub-places-251">Burggrafambt</placeName> und an der <placeName ref="lub-places-252">Etsch</placeName> ermant und ervordert werdet, das ir alsdann mit der anzal in dem anslag der fünff oder zehentausent
+                    <lb n="15"/>
+                    mann, oder welher massen die aufmanung beschehen wierdet, von stund an auf zu sein und an die ennde, wie ir durch gemelten hauptman
+                    <lb n="16"/>
+                    oder viertailmaister beschaiden werdet, anzuziehen und lannd und leut zu retten zu verhelffen gericht seiet, und niemands auf den anndern
+                    <lb n="17"/>
+                    waigere, noch sich ainicher freyhait, oder allten gebrauchs, doch menigelich an seinen rechten künfftigelichen unvergriffenlich darwider ge
+                    <lb break="no" n="18"/>
+                    brauche, sonnder sich menigelich, guetwillig und gehorsamlich erzaige, wie ir dann unns unnd euch selbs schuldig seit und euch hievor zu
+                    <lb n="19"/>
+                    mermaln erpoten habt, eur leyb und guet zu unns und dem lannd getrewlich zuesezen. So haben wir auch ordnung gegeben, in
+                    <lb n="20"/>
+                    dem vierttail, darynn sich ainichs uberfals zu besorgen ist, ain merrer volckh auszuschiesen und ob not wurd, mit gannzer macht inge
+                    <lb break="no" n="21"/>
+                    ziehen. Dergleichen in den negsten anstossenden viertailn gleicher weise, wie bey euch die anzal in die zehentausent mann ausszuschiessen,
+                    <lb n="22"/>
+                    und auf ervordrung anzuziehen, und wann die sachen widerumb zu rue unnd entschafft kemen, wellen wir alsdann mit den viertailn
+                    <lb n="23"/>
+                    von allen stennden, die nit auf gemant, sonnder anhaim beliben sein, hanndlen unnd dermassen einsehen und vergleichung tun, das
+                    <lb n="24"/>
+                    billichen aller menigelich ain guet bemuegen unnd sich niemands darab zu beclagen haben wierdet. Wolten wir euch nit
+                    <lb n="25"/>
+                    verhalten, unnd ir tuet daran unnser ernnstliche maynung. Geben zu <placeName ref="lub-places-19">Innsprugg</placeName> am <origDate>ersten tag augusti anno etc. im sechs
+                    <lb break="no" n="26"/>
+                    und zwainzigisten</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-515" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

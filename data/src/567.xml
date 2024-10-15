@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-567">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut am Triesnerberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-567">LI-LA, Schä U 29</ref> / Originaldatierung: 10. November 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Balthasar Beck von Triesenberg verkauft Simon Compar, Keller zu Vaduz, für 20 Pfund einen Zins von 1 Pfund Pfennig ab seinem eignen Gut Glarnersboden in Triesenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+          <term ref="lub-keywords-349">Spend</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-416">Beck, Balthasar</persName>
+          <date when="1512-11-10">10. Nov 1512</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1512-11-10">10. Nov 1512</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-474" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-416">Bale Beck</persName>, am <placeName ref="lub-places-41">Trisnerberg</placeName> gesessen, bekenn offennlich für mich und all mein erben und
+               <lb n="2"/>thun kunth aller mengklich mit dem briefe, das ich recht und redlich verkoft und zuo koffen
+               <lb n="3"/>geben hab <persName ref="lub-actors-417">Symon Comparen</persName>, der zeit keller zuo <placeName ref="lub-places-1">Vadutz</placeName>, und allen seinen erben ain pfund
+               <lb n="4"/>pfening <placeName ref="lub-places-101">Costenntzer</placeName> müntz und <placeName ref="lub-places-10">Velkircher</placeName> werung rechts, järlichs, ewigs und gewiss
+               <lb n="5"/>zins von, usser und ab meinem aignen guott genannt <placeName ref="lub-places-206">Glarners Boden</placeName>, am <placeName ref="lub-places-41">Trisnerberg</placeName>
+               <lb n="6"/>gelegnn, stost uffwert and allmain, zuo der anderen sitten an <persName ref="lub-actors-863">Hanns Eberli</persName>, abwert
+               <lb n="7"/>an <persName ref="lub-actors-864">Hennsle</persName> und <persName ref="lub-actors-865">Clas Nicken</persName>, zu vierden an <persName ref="lub-actors-866">Hanns Becken</persName>, meins bruders guot, von, usser
+               <lb n="8"/>und ab grund, ab grat, ab wunn, ab waid, ab holtz, ab veld, ab stock, ab stain, ab steg,
+               <lb n="9"/>ab weg und sonnst gantz gemainlich ab allen anderen zuogehörden, gewonhaiten
+               <lb n="10"/>unnd rechtten, für frey, ledig und vormals unverkymbert, dann das acht zehen
+               <lb n="11"/>pfening <term ref="lub-keywords-349">spynd</term> gen <placeName ref="lub-places-79">Trisan</placeName> gand und gaun sollen. Unnd ist der koff beschehen umb
+               <lb n="12"/>zwaintzig pfund pfening obgeschribner müntz und werung, deren ich also bar zalt
+               <lb n="13"/>bin nach meinem willen. Darumb so söllen und wöllen ich und all mein erben
+               <lb n="14"/>ald nachkomen ime oder seinen erben ald nachkomen den zins nun hin füro
+               <lb n="15"/>ymer mer ewigklich und alle jar jarlich allweg uff <term ref="lub-keywords-365">sannt Martis tag</term>, acht tag
+               <lb n="16"/>vor oder nach, tugentlich zinsen und zü iren sichern handen inder herrschafft
+               <lb n="17"/><placeName ref="lub-places-7">Vadutz</placeName> antwurten für mengklich verhefftten, verbietten und niderlegen unnd
+               <lb n="18"/>genntzlich one iren costenn und schadenn. Dann, wo das nit geschehe, weliches
+               <lb n="19"/>jars das were, über kurtz oder lanng zeitt, so ist dem genanten koffer, seinen erb
+               <lb break="no" n="20"/>en ald nachkomen das unnderpfand in seinen bestimptten marcken ganntz
+               <lb n="21"/>zinsfellig wordenn und zuo lutrem aigen haimgefallen und verfallen, one mein,
+               <lb n="22"/>mengklichs von meinetwegenn somen, irren und widersprechen. Hieruff
+               <lb n="23"/>des koffs umb zins, zinsfelligen zins, hoptguots und schadens und aller gemelter
+               <lb n="24"/>ding sollen und wollen ich und all mein erben ime oder seinen erben guot weren
+               <lb n="25"/>unnd fürstennder sein vor allen lütten unnd gerichten, gaistlichen und weltlichen,
+               <lb n="26"/>nach lands recht und nach dem rechten, one iren costen und schaden. Und wie
+               <lb n="27"/>wol der brief ainen ewigen koff usweyst, dannocht mögen ich und all mein erben
+               <lb n="28"/>den zins samentlich mit zwaintzig pfund pfeningen hoptguot ald mit zehen pfunden
+               <lb n="29"/>zehen schilling uber kurtz oder lang zeit allweg uff <term ref="lub-keywords-365">sant Martis tag</term>, acht tag vor
+               <lb n="30"/>oder nach, mit verfallnen usstenden zinsen wol wider koffen und ablesen, doch
+               <lb n="31"/>vor zinsfall und allweg mit der bessern müntz und werung, daran sie dhain verlurst
+               <lb n="32"/>haben, ob sich die inder zeit verendern wurd. Und des zuo vestem urkund so hab ich mit
+               <lb n="33"/>ernst erbetten den ersamen und weysen <persName ref="lub-actors-296">Abrechten Wolffen</persName>, der zeit aman zu <placeName ref="lub-places-7">Vadutz</placeName>,
+               <lb n="34"/>das er sein aigen innsigel zuo ainer waren gezugknus der sach offennlich gehenckt
+               <lb n="35"/>hat an den brief, doch ime und seinen erben one schaden, der geben ist uff <origDate>sant
+               <lb n="36"/>Martis abend nach Cristi gepurtt funffzehenhundert und zwellff jar</origDate>.
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

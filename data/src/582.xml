@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-582">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Wolfgang Schädler von Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Die Auflösung der Datierung ist unsicher, da es keine Anhaltspunkte dafür gibt, ob, wie heute, mit dem 1. Januar als Jahresanfang gerechnet wurde oder ob, wie es bis ins 16. Jahrhundert oft vorkam, gemäss dem sogenannten Natalstil mit Weihnachten als Jahresanfang gerechnet wurde. Falls die Urkunde gemäss Natalstil datiert ist, wäre die Datierung mit 26. Dezember 1538 aufzulösen.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-582">LI-LA, Schä U 56</ref> / Originaldatierung: 26. Dezember 1539 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Wolfgang Schädler von Schaan, der vor einigen Jahren, als er Keller von Graf Johann Ludwig I. von Sulz auf Schloss Vaduz war, Ehebruch begangen hatte und dann geflohen war, wobei er einige Schlüssel mitgenommen hatte, wurde nach seiner Rückkehr für einige Tage auf Schloss Vaduz inhaftiert und schwört nun nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-131">Beamter</term>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-235">Delikt</term>
+          <term ref="lub-keywords-282">Ehebruch</term>
+          <term ref="lub-keywords-296">Amt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-434">Schädler, Wolfgang</persName>
+          <date when="1539-12-26">26. Dez 1539</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1539-12-26">26. Dez 1539</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-464" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-434">Wolffgang Schedler</persName> von <placeName ref="lub-places-53">Schann</placeName> bekhenn offennlich mit dissem brieve und thue khundt allermenigklich, das ich umb wolverschult sachen, nämlich das ich 
+<lb n="2"/>in des wolgebornen herrn, hern <persName ref="lub-actors-35">Johann Ludwigs graven zu Sultz</persName>, landtgraven im <placeName ref="lub-places-18">Kleckhew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, herrn zu <placeName ref="lub-places-7">Vadutz</placeName>, 
+<lb n="3"/><placeName ref="lub-places-11">Schellennberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> etc., pfanndthern zu <placeName ref="lub-places-57">Altkirch</placeName> etc., meins gnedigen herrn, <placeName ref="lub-places-33">schloss Vadutz</placeName> als seiner gnaden kheller mit ainer junckhfrawen uneeliche werckh 
+<lb n="4"/>uber, das ich ain eeliche hausfrawen, daselbst zu <placeName ref="lub-places-53">Schan</placeName> im dorff gesessen, geiept und verbracht hab, demnach haimlicher weise aus dem schloss fluchtigen fuess 
+<lb n="5"/>gesetzt, etliche schlussel, wolgedachtem, meinem genedigen herrn, zugehörig, mit mir hingetragen, doch widerumb nach bedacht hindersich geschickht und also unver
+<lb break="no" n="6"/>rait meins kellerampts uber mein gethon glupt und ayde seiner gnaden herschafft <placeName ref="lub-places-7">Vadutz</placeName> ab und ausgetretten, und, als ich mich nach dem uber etlich jar in seiner
+<lb n="7"/>gnaden herschafft widerumb eingelassen, betretten worden, angenomen und in seiner gnaden venckhnus khomen bin und deshalben etlich tag daselbst in seiner 
+<lb n="8"/>gnaden <placeName ref="lub-places-33">schloss Vadutz</placeName> vencklich gelegen. Daraus mich aber sein gnad aus sonder gnaden und barmhertziger guettigkait, auch underhandlung und hochfleissig pitt 
+<lb n="9"/>ainer erwirdigen priesterschafft, auch des edlen, vesten <persName ref="lub-actors-156">Balthesars von Ramschwag</persName>, <orgName ref="lub-actors-516">römischer</orgName> khunigklicher mayestat vogt zu <placeName ref="lub-places-13">Gutenberg</placeName>, sampt gemainer nachpaurschafft 
+<lb n="10"/>von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> widerumb ledig und ausgelassen, des ich seinen gnaden underthenigen danckh sag, wann ich ainer hochen straff wol verschuldt hett. Darauff 
+<lb n="11"/>hab ich mit gutem willen und aller pannden frey und ledig ainen gelerten ayd mit auffgehaben ving zu gott und den hailigen auff und in dissen brieff ge
+<lb break="no" n="12"/>schworen, das ich wolgedachtem, meinem gnedigen herrn, seiner gnaden erben, lannden, leuten, diener und allen seiner gnaden zugehörigen, auch allen
+<lb n="13"/>denen, so an meiner gevenckhnus und straff schuldig sein, darzu radt oder that gethan und geben haben, nichts desst veinter zusein, auch nimermer zu rechen, 
+<lb n="14"/>zu affern und zu änndtern, in gar khain weiss noch wege, wie das menschen synn imemer erdenckhen möcht, das auch niemant in meinem namen zu
+<lb break="no" n="15"/>thun bevelchen, verschaffen, gestatten oder vergunnen. Wo aber ich oder jemant von meinen wegen in selichem allem, so obgeschriben, ainen oder mer artikhel
+<lb n="16"/>verbrechen, den oder die all nit stät hielte oder volzuge, sonder die uberthretten wurde, wie das were oder gescheche, mit worten, thaten oder werckhen, nichts aus
+<lb break="no" n="17"/>geschlossen, darfor gott sein und mit seiner göttlichen gnad mich verhuetten well, alsdann sellen und mögen wolgedachter, mein genediger herr, seiner gnaden
+<lb n="18"/>erben und anwäldt nach mir, in was gerichten und oberkhaiten das were, stellen und greiffen und wo sy mich ankhomen und betretten, wo und welches endes, mich an
+<lb break="no" n="19"/>nemen und zu iren hannden bringen, auch mit mir handlen und verfaren, mit oder one recht, als mit dem, der sein glupt, trew, brieff und sygel nit gehalten hatt.
+<lb n="20"/>Darfor soll mich nit frissten, schirmen, furtragen noch behelffen kainerlay gelaitt oder freihait, gaistlich noch weltlich, noch sonst gar nichts, so mich wider diss 
+<lb n="21"/>mein ayde und verschreibung schirmen oder behelffen khindte, selt oder möchte, wann ich mich des hiemit alles und jedes sampt dem rechten, gemainer verzeichung 
+<lb n="22"/>widersprechende, gar und gäntzlich verzeich, mich auch des jetz als dann und dann als jetz gantz verzigen und begeben haben will. Und des zu warem und stätem 
+<lb n="23"/>urkhundt so hab ich, obgenanter <persName ref="lub-actors-434">Wolff Schedler</persName>, mit hochem fleis und ernst gepetten den obgenanten <persName ref="lub-actors-156">Balthasar von Ramschwag</persName>, meinen geinsstigen junckherrn, 
+<lb n="24"/>das er sein aigen ynnsigel von meinen wegen in dissen brieff gehenckht hat, doch im und seinen erben one schaden, darunnder ich mich bey meinem ge
+<lb break="no" n="25"/>schwornen ayd, handtgegebner trew und eren vesstigklich verpflicht und verpind, all inhalt und aussweisung diss brieffs steet zuhalten, der geben ist
+<lb n="26"/><origDate>an sant Stephans des hailigen marteres tag nach Cristi, unsers herrn, gepurtt gezelt thaussent veinffhundert und im newnunnddreissigisten jare</origDate>. 
+<lb n="27"/>Und umb gepette des ynnsigels synnd gezeugen die ersamen, erbern <persName ref="lub-actors-52">Ulrich Fritsch</persName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, <persName ref="lub-actors-435">Barthlome Maurer</persName>, landt und 
+<lb n="28"/>gerichts waibel daselbst, und <persName ref="lub-actors-436">Lentz Pauli</persName>, kheller zu <placeName ref="lub-places-33">Vadutz im schloss</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

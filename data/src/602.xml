@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-602">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vertrag zwischen Wilhelm und Alwig IX. von Sulz über den Familienbesitz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-602">LI-LA, Schä U 69</ref> / Originaldatierung: 18. Juli 1561 / Beschreibstoff: Pergament / Siegel: 4 Siegel, 1.-3. fehlen, 4. gut erhalten / Unterschriften von Herzog Christoph von Württemberg, Markgraf Karl II. von Baden-Durlach sowie von Wilhelm V. und Alwig IX. von Sulz (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-12">DE-FFA Donaueschingen, OA 23 I</ref> / Entstehungszeit: 17. Jahrhundert / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Vertrag zwischen den Brüdern Wilhelm und Alwig IX. von Sulz: Die sulzischen Herrschaften sowie der erheiratete oder ererbte Besitz dürfen nur mit Zustimmung aller Grafen von Sulz verkauft werden. Ebenso bedürfen die Aufnahme von Krediten von mehr als 3000 Gulden und die Übernahme von Bürgschaften der Zustimmung aller. Gestattet ist, dass ein Graf von Sulz seine Ehefrau auf seinen Herrschaften versichert. Wenn einem Grafen vom Sulz Zinsen oder Pfänder abgelöst werden, soll er das Kapital mit Wissen der anderen wieder zum Nutzen des Grafenhauses anlegen. Streitigkeiten müssen vor vier Verwandte gebracht werden. Frauen dürfen bei der Heirat höchstens mit 4000 Gulden ausgestattet werden. Falls die Grafen von Sulz in männlicher Linie aussterben sollten, fällt der Besitz an die weiblichen weltlichen Vertreterinnen des Grafenhauses.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-286">Familie</term>
+          <term ref="lub-keywords-203">Vertrag</term>
+          <term ref="lub-keywords-11">Ehevertrag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-10">Sulz, Wilhelm V. von</persName>
+          <date when="1561-07-18">18. Jul 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-9">Sulz, Alwig IX. Graf von</persName>
+          <date when="1561-07-18">18. Jul 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-460">Württemberg, Christoph von</persName>
+          <date when="1561-07-18">18. Jul 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-461">Baden-Durlach, Karl II. von</persName>
+          <date when="1561-07-18">18. Jul 1561</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-491" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-10">Wilhelm</persName> und <persName ref="lub-actors-9">Alweckh</persName> gebrueder, baid <orgName ref="lub-actors-7">graven zu Sultz</orgName>, lanndgraven im <placeName ref="lub-places-18">Kleckhgew</placeName>, bekhennen unnd thun kun<gap/>ffentlich allermeniglich in crafft dis brieffs, das wir uff
+               <lb n="2"/>gehabten rath unnd sonnderer bewegnus zu unnser, auch unnserer nachkhommen des stammen unnd namens der <orgName ref="lub-actors-7">graven zue Sultz</orgName> eer, nutz, wolfar<gap/>nd auskhommen aus bruederlichem unnd freundtlichem willen
+               <lb n="3"/>unnd vertrauwter verstenndtnus, damit wir unnd unnsere nachkhommen ainander trewlich gemainen sollen unnd wellen, ainer erbainigung ver<gap/>n unnd fur unns unnd all unnser mannlichs erben unnd nach
+               <lb break="no" n="4"/>kommen, <orgName ref="lub-actors-7">graven zue Sultz</orgName>, versprochen unnd veraint, die wir bey unnsern waren glauben unnd gräfflichen würden zuhalten, derselben inn allen i<gap/> puncten unnd artickheln nachkhommen, darwider nit zuthuen,
+               <lb n="5"/>gelobt, zugesagt, versprochenn unnd mit unsern innsigeln auch hanndtzaichen inn besster unnd bestendigister form, wie das inn allen gaistlichen unnd wel<gap/>ichen rechten, auch vor allen gerichten unnd leuthen am aller
+               <lb break="no" n="6"/>bestenndigisten crafft habenn khan unnd mag, aufgericht unnd nachvolgender mainung wolbedacht unnd mit rath der durchleuchtigen hochgebornnen fursten unnd herrn, herrn <persName ref="lub-actors-460">Christoffs, hertzogens zue Wurttemberg</persName>
+               <lb n="7"/>unnd zu <placeName ref="lub-places-288">Teckh</placeName>, gravens zue <placeName ref="lub-places-289">Mumppelgart</placeName> etc., auch herrn <persName ref="lub-actors-461">Carlins, marggraven zue Baden</persName> unnd <placeName ref="lub-places-293">Hochberg</placeName>, lanndgravens zu <placeName ref="lub-places-290">Susenburg</placeName>, herrns zue <placeName ref="lub-places-291">Rötteln</placeName> unnd <placeName ref="lub-places-292">Badenweyler</placeName> etc., unnserer gnedigen fursten unnd herrn,
+               <lb n="8"/>deren furstlichen gnaden sich auf unnser unnderthenig ersuechen sollicher hanndlung gnediglichen unnderfangen, verfertiget habenn: Erstlichs, das wir die jetzige, unnsere herrschafften, wie wir die innhaben, der
+               <lb n="9"/>selben schloß, stett, märckt, dörffer, lehennschafften, gaistlichenn oder weltlichen, vorsst, vorstgerechtigkaiten unnd in summa allem irem einkhommen, zugehörigen obrigkeiten unnd gerichten, nichz darvon ausge
+               <lb break="no" n="10"/>nommen oder hindan gesetztt, auch was wir durch heurath oder erbsweiß ann herrschafften unnd aller derselben zugehörden, zinsen, renten, gellt, gülten unnd pfanndschafften, ablösig oder unablösig, über kurtz
+               <lb n="11"/>oder lanng überkhommen, unns anfüel oder zustuende, waher das khome oder herruerte, nichts ausgenommen, dieselbig gar wennig oder vill, soll unnd will unnser kainer, auch unnser erben unnd nachkhommen
+               <lb n="12"/>mannlichs stammens, <orgName ref="lub-actors-7">graven zue Sultz</orgName> (die wir hiemit auch dartzu strencklich verpflicht habenn), one unnser aller gunsst, wissen unnd willen weder verkauffen, versetzen, verpfenden, vertestieren, hingeben oder
+               <lb n="13"/>verschencken unnd sonder nit über drey tausendt gulden im haubtguett umb zinß aufzunemen, auch khain bürg oder gewerschafft vonn jemands wegen, wer die weren, hoch oder nider stannds, niemands
+               <lb n="14"/>hindan gesetztt oder ausgenommen, eingeen, verwilligen, auff sich nemen, verschreiben, sich oder unnsere herrschafften unnd gueter damit beschweren unnd beladen, allein oder mit anndern, one aller unnser
+               <lb n="15"/>vorwissen, guetem willen unnd bewilligung in khain weiß oder weege. Ob aber ainem oder mehr unnder unns oder unser erben über kurtz oder lanng ablösig zinß oder pfanndschafften abgelösst wurte,
+               <lb n="16"/>so soll doch die selbig haubtsumma widerumb mit wissen der anndern zu nutz unnd wolfart unserm stammen, namen unnd erben angelegt werden. Doch soll dessen unangesehen unns unnd ainem jeden
+               <lb n="17"/><orgName ref="lub-actors-7">graven zu Sultz</orgName> freysteen unnd hiemit außtruckhenlich vorbehalten sein, das sie ire gemacheln auff ire graff unnd herrschafften sambt derselben nutzung unnd einkhommen umb heuratguett, widerlegung,
+               <lb n="18"/>morgengaab unnd dergleichenn heuratssachen verweisen, versehenn unnd ire lannd unnd leutt darumb verschreiben unnd hafft machenn. Unnd in solchem soll kainer dem andern hinderung thuen, sonder was
+               <lb n="19"/>ainer solcher gestallt verschreibtt, sollenn seine erben zuhalten unnd zuvolziechen schuldig unnd pflichtig sein. Zum andern begeb sich, das sich zwischenn uns, unnsern nachkhommen, wie oben gemelt, jetzt
+               <lb n="20"/>oder hernach irrung, spenn, unwillen, zanckh, hader oder mißverstannd zutruege, so soll kainer den anndern bepheden, übertziehen, vergewaltigen oder mit der thaat angreiffen, noch seinen verwandten, ver
+               <lb break="no" n="21"/>pflichten, knechten, dienern, unnderthanen noch jemands annderm solches zusehen, zuthuen gestatten, besonder bruederlichen unnd freundtlichen willen zuerhalten, lanngwirigen hessigen proceß, großen uncossten, wey
+               <lb break="no" n="22"/>therung unnd sonnst allen unrath zuvermeiden, sollenn, wo jetztt gehörter gestallt irrung unnd gebrechen sich zutruegen, dieselbige für vier der nechsten herrn unnd freund gebracht unnd auff allen guetten satten
+               <lb n="23"/>eingenommen bericht unnd, wa von nöthen, auch kundschafften die irrungen guettlich mit wissenden dingen hingelegt unnd erörtert, im fahl aber, da solche guettlichait mit wissenden dingen endtstunnde, solliche
+               <lb n="24"/>irrungen im fahl der notturffft mit zutzi<supplied>e</supplied>chung aines unpartheischen obmanns endtlich erkhende unnd gesprochenn werden, dabey auch alle theil ungewaigrett, one alle appellation, reduction oder arbitrium boni
+               <lb n="25"/>viri inn crafft diser erbainigung endtlich pleiben sollen und wellenn. Es soll auch kainer des anndern herrn oder graven oder deren unnderthanen feind unnd widerwertigen beschediger nit hausen, hoven,
+               <lb n="26"/>enndthalten noch kainerley furschueb thuen, das denn anndern zu nachteil raichen möcht. Auch wo unnd was herrschafften die betretten, soll der i<gap/>ber derselbigen herrschafft demselbigen bevehder auf des bevehdten
+               <lb n="27"/>herrn oder desselbigenn underthanen anhalten unnd cossten strenng recht geen unnd widerfaren laßen oder demselbigen lifern. W<gap/> aber unnder unns oder unnsern mannlichen erben unnd
+               <lb n="28"/>nachkhommen das alles, so hierinn begriffen, nit hielt, auch dem nit nachkhommen (welches dann nit sein soll unnd gott gnediglichenn verhuetten <gap/>), der oder dieselbigenn sollen gegen dem andern ir gerechtig
+               <lb break="no" n="29"/>kait sambt allen iren haab unnd guettern verwürckht unnd verloren habenn. Die sollen oder mögen die anndern so balld zu iren hannden mit <gap/>ne recht eintziehen, doran gegen jemandts nicht gefrefflett und
+               <lb n="30"/>verwürckht habenn. Damit aber inn diser unnser erbainigung unnserer töchter unnd weiblichs stammens geschlecht nicht vergessen <gap/>uch unnd unnsere nachkhommen wißen tragen, wie wier
+               <lb n="31"/>unnsern töchtern, schwestern unnd basen verheuraten, auch was dennselbigen zu heurattguett unnd vertigung gegeben werdenn solle, haben <gap/> unns verainigett, das kainer unnserer töchter, schwester oder
+               <lb n="32"/>basenn mehr dann drey tausendt gulden reinisch lannds werung unnd ain tausendt gulden, auch lands werung, zu der abfertigung oder sovil <gap/>ider unnd klainettern gegeben unnd versprochen werden,
+               <lb n="33"/>derwegen sollenn sie sich wie unnder anndern graven unnd herrn im lannd zu <placeName ref="lub-places-78">Schwaben</placeName> breuchig inn besster form vertzeihen. Begebe s<gap/>, das gott lanng gnediglich verhuetten welle, das unser mann
+               <lb break="no" n="34"/>licher stammen der <orgName ref="lub-actors-7">graven zue Sultz</orgName> <gap/> abgieng unnd kainer mehr inn leben, so sollenn die gebornnen <orgName ref="lub-actors-7">grävin zue Sultz</orgName> vonn unserm stammen u<gap/> namen herkhommen, so inn weltlichem staat unnd noch bey leben
+               <lb n="35"/>unnd im grad die nechsten seyen, all unnser haab unnd guetter gleich erben. Unnd des alles zu warem unnd vesstem urkund so habenn w<gap/>, die gebruedere vorgemeltt, vonn diser unnser ainhelligen
+               <lb n="36"/>freundtlichenn unnd bruederlichen ver<gap/>ichung zwen gleichlauttendt brieve (daran jeder ainen zu seinen handen genommen hatt) machen unnd unnser jeder sein aigen innsigell doran wissentlich heinkhen
+               <lb n="37"/>lassen, auch unnd dartzu mit aigen hannden unnderschriben. Unnd zu dem allem die durchlauchtigen, hochgebornnen fursten unnd herrn, herrn <persName ref="lub-actors-460">Christoffen, hertzogen zu Wurttemberg</persName> unnd zue <placeName ref="lub-places-288">Teckh</placeName>, graven zu
+               <lb n="38"/><placeName ref="lub-places-289">Mumppelgartt</placeName> etc., unnd herrn <persName ref="lub-actors-461">Carlin, marggraven zu Baden</persName> unnd <placeName ref="lub-places-293">Hochberg</placeName>, lanndgraven zu <placeName ref="lub-places-290">Susenburg</placeName>, herrn zu <placeName ref="lub-places-291">Rötteln</placeName> unnd <placeName ref="lub-places-292">Badenweyler</placeName> etc., unnsere gnedige herrn, unnderthenig gebetten unnd erbetten, das
+               <lb n="39"/>ire furstliche genadenn ire aigne innsigell vor denn unnsern, alles zue mehrer becrefftigung unnd besagungen diser unnser bruederlichen erbainigung, auch henckhen laßen, welches wir vonn gottes gnaden
+               <lb n="40"/><persName ref="lub-actors-460">Christoff, hertzog zu Wurttemberg</persName> unnd zue <placeName ref="lub-places-288">Teckh</placeName> etc., unnd <persName ref="lub-actors-461">Carlin, marggraven zu Baden</persName> unnd <placeName ref="lub-places-293">Hochberg</placeName> etc., auf gemelter gebrueder beschehenn bitt gethan zuhaben hiemit bekhennen unnd unns dartzu mit aigen hannden
+               <lb n="41"/>vor baiden gebruedern obgemelt auch unndertzaichennt habenn, doch unns unnd unnsern erben one schaden, <origDate>auff denn achtzehenden tag des monats Julii, alls man vonn Christi unnsers lieben
+                  <lb n="42"/>herrn unnd seligmachers geburtt getzeltt tausendt funfhundertt sechtzig unnd ain jar</origDate>.
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

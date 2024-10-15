@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-589">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut in Planken</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-589">LI-LA, Schä U 57</ref> / Originaldatierung: 20. März 1542 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Gantner der Jüngere von Planken, seine Frau Anna Hilbe und sein Bruder Georg Gantner verkaufen mit Wissen von Kaspar Kindli, Ammann der Herrschaft Vaduz, für 20 Gulden einen Zins von 1 Gulden ab ihrem Gut "Egert" bei Weibels Nussbaum in Planken an Werner Kindle, Kaplan am St.-Katharinen-Altar in der Kapelle St. Florin in Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-375">Etschkreuzer</term>
+          <term ref="lub-keywords-339">Heimgasse</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-443">Gantner, Hans (2)</persName>
+          <date when="1542-03-20">20. Mär 1542</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-444">Gantner, Georg</persName>
+          <date when="1542-03-20">20. Mär 1542</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-360">Kindli, Kaspar</persName>
+          <date when="1542-03-20">20. Mär 1542</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-529">Hilbe, Anna</persName>
+          <date when="1542-03-20">20. Mär 1542</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-482" n="1"/><lb n="1"/>Wir nachbenempten mit namen <persName ref="lub-actors-443">Hans Gantner der junger</persName> ab <placeName ref="lub-places-124">Blanckhen</placeName>, <persName ref="lub-actors-529">Anna Hilbin</persName>, sein eliche hausfraw, und ich, <persName ref="lub-actors-444">Geörg 
+<lb n="2"/>Gantner</persName>, sein eeleiplicher bruder, bekhennen offennlich und thun khundt allermenigklich mit dissem brieve, das wir mit 
+<lb n="3"/>veraintem guten willen wolbedacht, sonder mit hand des ersamen, weisen <persName ref="lub-actors-360">Caspar Kindlin</persName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, 
+<lb n="4"/>krefftig fur unns, all unnser erben und nachkomen recht und redlich verkhaufft und zukhauffen geben haben und geben auch hie
+<lb break="no" n="5"/>mit in krafft diz brieffs dem wirdigen und gaistlichen herrn <persName ref="lub-actors-525">Wernhart Kindlin</persName> innamen und als capplonen <persName ref="lub-actors-862">sant Kathari
+<lb break="no" n="6"/>nen</persName>, der lieben hailigen junkhfrawen, althar zu <placeName ref="lub-places-1">Vaduz</placeName> in <placeName ref="lub-places-210">Sant Florins Cappel</placeName> und allen seinen nachkomenden capplönen
+<lb n="7"/>gemelter pfreund und althars daselbst ains stäten, vesten, eewigen khauffs, nämlich ain guldin guter und genemer <placeName ref="lub-places-101">Cos
+<lb break="no" n="8"/>stenzer</placeName> minz <placeName ref="lub-places-10">Veldkirher</placeName> werung, ye sechtzig <term ref="lub-keywords-375">etschkreuzer</term> darfur zeraiten, recht, eewig järlichs zeins und phening gelts
+<lb n="9"/>von, ausser und ab unnserm aigen stuckhe gut auff <placeName ref="lub-places-124">Blanckhen</placeName> zu des <placeName ref="lub-places-227">Waibels Nussbom</placeName> gelegen, genant die <placeName ref="lub-places-211">Egert</placeName>, stosst 
+<lb n="10"/>gem perg an ain <term ref="lub-keywords-339">haingassen</term>, auffwert an <persName ref="lub-actors-293">Hans Stoffl Schierser</persName>, gem <placeName ref="lub-places-103">Rhein</placeName> an <persName ref="lub-actors-992">Hans Negelins</persName> gut und an unns verkhöffer 
+<lb n="11"/>und gen <placeName ref="lub-places-10">Veldkirch</placeName> wert an unnser verkhoffer hofstatt, und alles ab grundt, grat, wun, waid, pomen, zweig, stockh, stain, gesteudt, 
+<lb n="12"/>gereudt, gengen, stegen und wegen und gemainklich ab allen andern seinen rechten und zugehörden, benempten und unbe
+<lb break="no" n="13"/>nempten, und auch fur ledig und los und gegen menigklich unversezt und unverkimbert. Und ist der eewig, redlich
+<lb n="14"/>khauff also beschechen und gethan worden umb zwainzig guldin guter obgenanter minz und werung, dero wir von ime 
+<lb n="15"/>erberlich ausgericht und bezalt worden synnd nach unnserm guten beniegen. Und darumb so sellen und wellen wir, 
+<lb n="16"/>all unnser erben und nachkomen besizer obgemeltes underpfands den gemelten zeins dem genanten khoffer und 
+<lb n="17"/>allen seinen nachkomenden capplonen, inhaber diz brieffs, nw, furohin, eewigklich und järlich alle jar auff <term ref="lub-keywords-365">sandt 
+<lb n="18"/>Martins tag</term>, acht tag vor oder nach ungevarlich, tugentlich richten, zeinsen und gen <placeName ref="lub-places-1">Vaduz</placeName> ins dorffs zu iren sichern handen 
+<lb n="19"/>und gewalte andtwurten und geben, fur allermenigklichs hefften, verbieten und entweren und gänzlich on allen iren 
+<lb n="20"/>cossten und schaden. Wann, wie oder welichs jars das aber also nit bescheche uber kurz oder lang zeit, so ist inen ir obgemelt 
+<lb n="21"/>underpfand, in seinen bestimpten marckhen begriffen, ganz zeinsfellig und danethin mit grundt, grat und mitallen seinen 
+<lb n="22"/>zugehörungen zu rechtem eewigem aigen immer mer gevallen und verfallen, one unns, aller unnser erben und nachkomen 
+<lb n="23"/>und allermenigklichs von unnsern wegen irrung und widersprechen. Und hirauff diz ewigen redlichen khauffs umb zeinss
+<lb break="no" n="24"/>felligin und fur all abgeng obgemelt underpfands, auch zeins, hauptgut, schadens und aller obgemelten ding sellen und wellen
+<lb n="25"/>wir, all unnser erben und nachkomen gemainklich und unverschaidenlich des obgenanten khöffers und aller seiner nachko
+<lb break="no" n="26"/>menden cäpplönen recht, gut und getrew krefftig weren, furstand und versprecher sein vor dem richter und gericht, dar
+<lb break="no" n="27"/>unnder obgemelt stuckhe gut gelegen ist, wie, wenn und gegen wem, als offt und dickh sy des nach dem rechten immer bedurffn
+<lb n="28"/>und noturfftig werden, alweg in unnserm aigen cossten, on iren schaden, bey guten trewen, on alle widerred, ausszug und 
+<lb n="29"/>geverde. Und wiewol disser brieff ainen eewigen khauff ausweist, so mögen doch wir, all unnser erben und nachkomen 
+<lb n="30"/>den obgemelten zeins von dem genanten khöffer und allen seinen nachkomenden capplönen wol widerkhauffen und ablösen 
+<lb n="31"/>nw, furohin, eewigklich, wenn und welichs jars wir wellen, uber khurz oder lang zeit, samethafft mit dem obgemelten haupt 
+<lb n="32"/>gut sampt allen verfallen, aussteenden zeinsen und auch mit selicher minz und werschafft, daran sy nit verlursst noch abgang 
+<lb n="33"/>haben, ob sich die minz in der zeit verendern wurde, alles ungevarlich. Hirinnen ist auch zuvermerckhen, das umb dissen 
+<lb n="34"/>zeins hievor auch ain zeinsbrieff vorhanden gewesst und aber ausser hand und gwalt gemelter pfreundt und althars 
+<lb n="35"/>khomen, deshalben mit lautern worten beredt und ausbedingt worden, wann, uber kurz oder lang, derselb zeinsbrieff 
+<lb n="36"/>widerumb herfur und an tag khomen wurd, das alsdann derselb widerumb in seinen krefften beston und bleiben 
+<lb n="37"/>und disser brieff tod, hin und absein sell. Und des alles zu warem und offem urkhundt so haben wir, obgenante ver
+<lb break="no" n="38"/>khöffer mit fleis gepetten und erbetten den vorgenanten aman <persName ref="lub-actors-360">Caspar Kindlin</persName>, das er sein aigen ynnsigel, im und
+<lb n="39"/>sein erben onschaden, fur unns, all unnsre erben und nachkomen offen<unclear>n</unclear>lich gehenckht hat an dissen brieff, der geben 
+<lb n="40"/>ist <origDate>auff mentag nach mitvassten nach Cristi, unnsers herrn, gepurtt feunffzechenhundert und im zwayundvierz
+<lb break="no" n="41"/>igisten jare</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

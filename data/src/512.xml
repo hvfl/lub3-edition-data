@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-512">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Georg Vockh beurkundet das Testament des Aristoteles Düntel, Pfarrer von Schaan.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [AT-TLA, U II 3409](https://lub.anton.ch/objects/512) / Originaldatierung: 28. Dezember 1538 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Aristoteles Düntel, Pfarrer von Schaan, setzt sein Testament zugunsten seiner unehelichen Kinder Hans, Matthäus und Daniel Düntel mit Wissen und Einverständnis seiner Verwandten und des Grafen Johann Ludwig I. von Sulz neu auf.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-26">Erbschaft</term>
+          <term ref="lub-keywords-283">Testament</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-404">Vockh, Georg</persName>
+          <date when="1538-12-28">28. Dez 1538</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-569" n="1"/><lb n="1"/>
+                    Ich, <persName ref="lub-actors-404">Georg Vockh</persName>, der zeit des wolgepornen herrn, herrn <persName ref="lub-actors-35">Johann Ludwigen graven zue Sulz</persName> etc. meins genedigen vogt zue <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und ubervogt zue <placeName ref="lub-places-12">Bluemenegg</placeName>, bekhenn offennlich und thuekhundt aller
+                    <lb break="no" n="2"/>
+                    menigklich mit dissem brieve, das für mich auff dissen tag datho komen ist, der ersam <persName ref="lub-actors-680">Aristoteles Tintel</persName> von <placeName ref="lub-places-43">Nenzigen</placeName>, briester und pharrher zue <placeName ref="lub-places-53">Schan</placeName>, meiner obgemelter verwaltigung der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, mitsampt <persName ref="lub-actors-676">Lienharten
+                    <lb n="3"/>
+                    Tintel</persName>, seinem eleiplichen brueder, auch <persName ref="lub-actors-679">Marxen Tintel</persName>, als ain vogt, weylend <persName ref="lub-actors-677">Conradten Tintels</persName>, seines eleiblichen brueders, und deßelben sone <persName ref="lub-actors-678">Hanßen Tintels</persName> und <persName ref="lub-actors-674">Claußen Dölschen</persName>, auch als ain vogt, weylend <persName ref="lub-actors-675">Kathrina Tintlin</persName>, seiner e
+                    <lb break="no" n="4"/>
+                    leiblich schwesster seligen verlassen elichen sons, <persName ref="lub-actors-673">Stoffel Tschamonen</persName>, offnet und erzalt alda vor mir, nachdem und er vormals auff <date when-custom="1531-01-20">sandt Sebastian des hayligen marteres tag, als man zalt nach der gepurtt Cristi, unsers
+                    <lb n="5"/>
+                    herrn thaussent veinffhundert dreyssig und ain jar</date> verscheinen, sein testament und lesten willen geordnet, und ime selbs darinnen vorbehalten, dasselb zue endern, zu mindern, zu meren, gar oder zum tayl abzethuen und
+                    <lb n="6"/>
+                    zu widerrueffen, und dann von newen dingen ain anders zu sezen und zu machen, macht und gwalt, vor welchen weltlichen oberkhaiten, richtern und gerichten, oder sondern personen er wolte. Alsdann er desselben ainen consens
+                    <lb n="7"/>
+                    und bewilligungbrieff, von seinem gaistlichen und ordenlichen richter des bistumbs <placeName ref="lub-places-175">Chur</placeName>, under <placeName ref="lub-places-107">Sandt Lucis Staig</placeName>, verordnet, innhends hett, den er auch also offennlich vor mir beweyst, des dathum zue <placeName ref="lub-places-10">Veldkirch</placeName>, in dem jar, als
+                    <lb n="8"/>
+                    man zalt nach Cristi unßers hayligmachers gepurtt <date when-custom="1531-01-09">thaussent veinffhundert und ain und dreyssig jar, auff den newndten tag des monadts januarii</date>. Und als derselb conßens und bewilligbrieff vor mir mit aller seiner
+                    <lb n="9"/>
+                    begreiffung nach der leng, von wort zu wort offennlich verlessen, und an berment gschrift und sygel, ganz gerecht, unversert und unbeschafft befunden ward. Stuend derselbe pfarherr <persName ref="lub-actors-680">Aristoteles Tintel</persName> offennlich var mir, gesund
+                    <lb n="10"/>
+                    seines leibs, freys aygens willens und vernunfftig seiner synnen, und widerruefft und thett den obgemelten, seinen testamentsbrieve, mit aller innhaltung genzlich ab, und wolt selichs var allen dingen offennlich abgethan und
+                    <lb n="11"/>
+                    widerruefft haben, und also van menigklichen inn und ausserhalb rechtens darfür gehalten werden. Und bekhanndt sich darauff paß bedacht, und in willen und maynung khomen, das er sein testament und lesten willen
+                    <lb n="12"/>
+                    von newen dingen verfasset, gesezt und geordnet hette, alles mit wissen, willen und vergunssten, obgenanter seiner eleiplichen geschwissterit, und denselben recht gegebnen vögthen, in irer statt, als deren so nach der linien dess
+                    <lb n="13"/>
+                    bluets und gemaines lanndsbrauch der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, meiner gemelten verwaltigung an disse tesstirung, seine recht und nechste erben wären, sazt, ordnet und macht auch selich sein testament und letsten willen vor
+                    <lb n="14"/>
+                    mir offennlich, in der aller pessten weis, mas, form und gestalt, so dann selichs nach außweysung aller gerichten und rechten, sonder der herschafft <placeName ref="lub-places-7">Vaduz</placeName> bemelter meiner verwaltigung, recht, loblichen herkhomen und ge
+                    <lb break="no" n="15"/>
+                    wonhait, aller krefftigest, sicherlichest und bestendtlichest, zugen und beschechen solt, khindt und macht, in mas hiernach stat. Erstlich sazt, macht und benant er zu seinen rechten unverwendten erben, alles seines guettes,
+                    <lb n="16"/>
+                    ligenden und varenden, an gold, parschafft, sylber, silbergeschier, haußradt, buecher, schulden gelt und widergelt, und allem anderm gesuechtem und ungesuechtem, nichts außgenomen, sovil er dann des nach seinem tod hinder ime
+                    <lb n="17"/>
+                    verlassen würde. Nämlich <persName ref="lub-actors-678">Hanßen</persName>, <persName ref="lub-actors-720">Matheum</persName> und <persName ref="lub-actors-721">Danielem Tintel</persName>, seine natürliche angeporne, leipliche khinder und söne. Und sodann fürohin in kheunfftigem, weiter ain oder mer ander khinder, dann vorbe
+                    <lb break="no" n="18"/>
+                    nempt, von ime angeporn, überkhomen würde, das dann das oder dieselben khinder mit den vorgenanten seinen dreyen sönen <persName ref="lub-actors-678">Hanßen</persName>, <persName ref="lub-actors-720">Matheo</persName> und <persName ref="lub-actors-721">Danielen</persName>, sampt und sonders, gleichförmig anstan und in allen obgemelten seinen
+                    <lb n="19"/>
+                    verlassen hab und guettern, vermög diß testaments und letsten willens, jedes besonder seinen tayl erben und haben sellen, sovil sich dann nach außtaylung desselben guets jedem erlauffen und gepirren möge. Und wo
+                    <lb n="20"/>
+                    vorgenante seine erste drey söne <persName ref="lub-actors-678">Hanns</persName>, <persName ref="lub-actors-720">Matheus</persName> und <persName ref="lub-actors-721">Daniel</persName>, dergleichen auch ander nachfolgende khinder, ains oder mer, on elich leib erben, mit tod abgen würden, sellen die so noch under denselben in leben uberbeliben, das
+                    <lb n="21"/>
+                    oder dieselben abgestorbnen miteinandern erben, wie geschwissterit, in allen den hab und guetter, wie vorgemelt, überbeliben one geverde. So aber dieselben vorgenante drey söne <persName ref="lub-actors-678">Hans</persName>, <persName ref="lub-actors-720">Matheus</persName> und <persName ref="lub-actors-721">Daniel</persName>, auch andere nach
+                    <lb break="no" n="22"/>
+                    khomende khinder, alle, oder under denselben das leste, auch on elich leib erben, mit tod verschaiden, das dann alle hab und guetter, so vermug und inhab, diß testaments und lesten willens, an sy samentlich oder unnder
+                    <lb break="no" n="23"/>
+                    schidlich, oder je ains von dem andern, also erbsweise nach und nach angevallen und ankhamen, und noch bevor und uberbeliben were, sellen gevallen an sein pharherrn <persName ref="lub-actors-680">Artistoteles Tintels</persName> vorgenante eleipliche geschwisterit
+                    <lb n="24"/>
+                    und derselben khinder, oder ander sein die nächsten angesipten freundtschafften nach der linien des bluets, dannenher das guet geflossen und khomen ist, nach lanndßrecht der herschafft <placeName ref="lub-places-7">Vaduz</placeName> bemelter meiner verwaltigung
+                    <lb n="25"/>
+                    on alles widersprechen. Und domit obgeschriben sein testament und lesten willens zu seinen zeiten gelept und nachkomen, und also desst fuederlicher gehalten und volnzogen werden möchte, bestimpt macht und sazt
+                    <lb n="26"/>
+                    vylgemelter pfarherr <persName ref="lub-actors-680">Aristoteles Tintel</persName> zu seinem rechten executorem, außrichter und verfertiger vorgenanten seinen eleiplichen brueder <persName ref="lub-actors-676">Lienharten Tinteln</persName>, aus sonderlichem bruederlichem wol vertrewen. Gab und
+                    <lb n="27"/>
+                    bevalch im auch offennlich vor mir, allen vollen gewalt und ganze macht, in krafft diz brieffs, oberzelt, sein testament und lesten willen, alßpald er von disser zeit verschaiden were, in allen und jegklichen puncten
+                    <lb n="28"/>
+                    und artickheln zue volkomenhait zubringen und gannzlich und gar außzurichten und zuvollziechen, seinem pessten vermugen nach, als er gott den almechtigen darumben andtwurten welte, des sich auch genanter,
+                    <lb n="29"/>
+                    sein eleiplicher, also gegenwirtig, erberlich und ungevarlich zuthun, außzurichten und zuvolnfueren angenomen. Auff selichs haben dickhgemelte pharherr <persName ref="lub-actors-680">Aristoteles Tintel</persName> und <persName ref="lub-actors-676">Lienhart Tintel</persName>, sein eleiplicher
+                    <lb n="30"/>
+                    brueder, für sich selbs, auch <persName ref="lub-actors-679">Marx Tintel</persName> und <persName ref="lub-actors-674">Claus Dolsch</persName>, paid als vogth, in vogtßweise für ire vogt khinder vorgenant, in mein, <persName ref="lub-actors-404">Georgen Vockhs</persName>, als vogths zu <placeName ref="lub-places-7">Vaduz</placeName> etc. hande, krefftig für sy, auch ire vogt khinder, alle ir
+                    <lb n="31"/>
+                    erben und nachkomen gelopt und versprochen, dissen lesten willen und testament, sazung und ordnung, war, vest und stet zu halten und darwider nimermer zusein, zureden noch zuthun, auch selichs nit verschäffen
+                    <lb n="32"/>
+                    noch verhengen, von jemant andern gethan werden, weder mit noch ausserhalb rechtens, gaistlicher noch weltlicher, haimlich noch offennlich in khain weiß noch wege. Doch behielt im derselb pfarherr <persName ref="lub-actors-680">Ari
+                    <lb break="no" n="33"/>
+                    stoteles Tintel</persName> hierinnen bevor diß, sein testament und lesten willen, dergeleichen auch seinen benempten executoren, außrichter und verfertiger, in allen vorgeschribnen puncten und artikheln zu endern, zu mindern,
+                    <lb n="34"/>
+                    zu meren, gar oder zum tayl abzethun und zuwiderrueffen wo, wenn und offt und dickh im das eben und füegklich sein würde. Und wie er dann dasselb hiernach vor welchen oberkhaiten, richtern und gerichten,
+                    <lb n="35"/>
+                    oder sondern glaubhafftigen personen, oder sein selbs aygen handtgeschrifft endern, mindern, meren, gar oder zum tayl abgethan, verlassen und beschliessen würd, darbey solt es dann beleiben und durch seinen
+                    <lb n="36"/>
+                    ob oder nachbestimpten executorem, außrichter und verfertiger volnzogen und ausgericht werden, one irrung, intrag und widersprechen seiner erben und sonst menigklichs geverd, untrew und arglisst, hirinnen
+                    <lb n="37"/>
+                    vermitten und hydan gesezt. Und als diß alles wievor geschriben stat, von mund, hand, aller sicherhait und gewarsam, so von recht, loblichem herkomen und gewonhait der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, bemelter meiner
+                    <lb n="38"/>
+                    verwaltigung, also vor mir als vogthe daselbst offennlich zugangen, beschechen, gevertiget und beschlossen worden ist. So hab ich, vorgenanter <persName ref="lub-actors-404">Georg Vockh</persName>, zu warem und offem urkhundt, bevesstigung und
+                    <lb n="39"/>
+                    bestättigung diß gegenwirtigen testaments und letsten willens, mein aigen ynnsigel von ampts wegen als vogthe zu <placeName ref="lub-places-7">Vaduz</placeName> etc., doch mir, mein erben und ynsigel, ampts halber onschaden, auff offtgemelter
+                    <lb n="40"/>
+                    pfarherrn <persName ref="lub-actors-680">Aristoteles Tintels</persName>, <persName ref="lub-actors-676">Lienhart Tintels</persName>, seins eleiplichen brueders, auch <persName ref="lub-actors-679">Marxen Tintels</persName> und <persName ref="lub-actors-674">Clausen Dölschen</persName>, paider als vögthen in vogtsweise, fleissig und ernstlich pitts an dissen brieff offennlich
+                    <lb n="41"/>
+                    gehenckht, des wir, pharher <persName ref="lub-actors-680">Aristotels</persName> und <persName ref="lub-actors-676">Lienhart Tintel</persName>, eleipliche gebrueder, auch <persName ref="lub-actors-679">Marx Tintel</persName> und <persName ref="lub-actors-674">Claus Dölsch</persName>, vorgenant paid vögth, in vogtsweise für uns und unser vogt khinder, auch unser und
+                    <lb n="42"/>
+                    derselben erben und nachkomen an dissem brieff hiemit, insonderhait, bekhennen, alles so von uns und iren wegen, hierinnen geschriben stat, war, auch mit unserm wissen dem gunsst und guten willen
+                    <lb n="43"/>
+                    zugangen und beschechen sein. Und umb gepette des ynnsigels synd gezeugen die erbern und ersamen <persName ref="lub-actors-347">Aman Frickh</persName>, der zeit aman unserer genedigen herschafft zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-52">Ulrich Fritschen</persName> von <placeName ref="lub-places-53">Schan</placeName>, alt
+                    <lb break="no" n="44"/>
+                    aman und <persName ref="lub-actors-435">Bartholme Maurer</persName>, landt und gericht waybel daselbst. Beschechen <origDate>an der unschuldigen khindlin tag nach der gepurtt Cristi unsers erlössers, gezalt thaussent veinffhundert dreyssig und
+                    <lb n="45"/>
+                    acht jar</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-570" n="1"/><lb n="1"/> unser dryen bruder testament brieff
+                    <pb facs="lub-media-571" n="2"/>
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

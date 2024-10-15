@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-140">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Die Untertanen der vier Herrschaften vor dem Arlberg und die Untertanen von Vaduz, Schellenberg und Blumenegg wollen ihre im Türkenkrieg gefangenen Verwandten auslösen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Untertanen der vier Herrschaften vor dem Arlberg, Feldkirch, Bregenz, Bludenz, Sonnenberg und Montafon samt den Herrschaften Hohenegg und Neuburg am Rhein, ferner die Untertanen der Herrschaften Vaduz, Schellenberg und Blumenegg stellen dem Niklas Feiherrn zu Pollweiler, Rat und Hauptmann zu Konstanz, Sigmund von Hohenlandenberg, Vogt zu Neuburg am Rhein, und Hans Schnabel von Schönstein eine Gewalt aus, für sie in Wien wegen der Auslösung ihrer in türkische Kriegsgefangenschaft geratenen Väter und Brüder zu verhandeln.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-19">Bürgschaft</term>
+          <term ref="lub-keywords-18">Türkenkrieg</term>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-228">Kredit</term>
+          <term ref="lub-keywords-229">Krieg</term>
+          <term ref="lub-keywords-222">Lösegeld</term>
+          <term ref="lub-keywords-61">Schulden</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-203">Reischach zum Mägdeberg, Laux von</persName>
+          <date when="1552-10-03">3. Okt 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-202">Weiler zur Altenburg, Hans Wilhelm von</persName>
+          <date when="1552-10-03">3. Okt 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1552-10-03">3. Okt 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-523">Hohenems, Marx Sittich III.</persName>
+          <date when="1552-10-03">3. Okt 1552</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-171" n="1"/><lb n="1"/>Gewalt auf herrn <persName ref="lub-actors-93">Niclasen freyherrn zu
+<lb n="2"/>Bolweylen</persName>, <persName ref="lub-actors-92">Sigmunden von Anndenberg</persName> unnd
+<lb n="3"/><persName ref="lub-actors-94">Hannsen Schnabl</persName> lautennd
+</p>
+        <p><pb facs="lub-media-168" n="2"/><lb n="4"/>Wir, nachbenempte, römischen, hungerischen unnd behemischen
+<lb n="5"/>kunigclichen maystat etc. ertzhertzogen zu Österreich etc. unnsers aller
+<lb break="no" n="6"/>genedigisten herrn unnd lantsfürsten unnderthanen der vier herr-
+<lb break="no" n="7"/>schafften vor dem <placeName ref="lub-places-97">Arlenperg</placeName>, <placeName ref="lub-places-10">Veldkirch</placeName>, <placeName ref="lub-places-45">Bregenz</placeName>, <placeName ref="lub-places-205">Bludenz</placeName>, <placeName ref="lub-places-6">Sonnen
+<lb break="no" n="8"/>berg</placeName> unnd <placeName ref="lub-places-48">Montafon</placeName>, sampt der herrschafften <placeName ref="lub-places-49">Hohennegg</placeName> unnd <placeName ref="lub-places-139">Neu
+<lb break="no" n="9"/>burg am Rein</placeName>, auch wir, die unnderthanen der dreyen herrschafften
+<lb n="10"/><placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Pluemenegg</placeName>, der wolgebornen herrn
+<lb n="11"/>grafen zu <orgName ref="lub-actors-7">Sulz</orgName> etc. zugehörig unnd an die obberuert herrschafft
+<lb n="12"/><placeName ref="lub-places-10">Veldkirch</placeName> stossend, von statt unnd lannd, bekennen sament
+<lb break="no" n="13"/>unnd unverschaidenlich unnd thuen kundt allermenigclich
+<lb n="14"/>mit dem brief, als sich auf nechst verscheinene <date when-custom="1552-08-09">sannt Laurenzen
+<lb n="15"/>abend, das ist der neunt tag verruckts monats augusti, dis fünff
+<lb break="no" n="16"/>zehenhundert unnd zwayundfünffzigisten jars</date> bey der höchst
+<lb n="17"/>gemelten römischen, hungerischen unnd behemischen kunigc
+<lb break="no" n="18"/>lichen mayenstat etc. kriegsfolck zu <placeName ref="lub-places-146">Hungern</placeName> ain laidige nider
+<lb break="no" n="19"/>lag begeben, also das dasselb durch entziehung göttlicher genaden
+<lb n="20"/>unnd den erbfeindt der cristenhait, den <orgName ref="lub-actors-267">Türggen</orgName>, meist thails umb
+<lb break="no" n="21"/>komen unnd zum tail in fencklichs pand gebracht worden, under
+<lb n="22"/>denselben gefangnen personen zum tail der kunigclichen
+<lb n="23"/>mayenstat unnd gemelter herrn grafen zu <orgName ref="lub-actors-7">Sulz</orgName> etc. underthanen
+<lb n="24"/>vorgemelter herrschafften, als unnsere liebe vätter, sun, brüder,
+<lb n="25"/>vettern, schweger unnd nachpaurn, ain zimliche anzal sein
+<lb n="26"/>sollen. Unnd damit dann dieselben, unnsere zugewanten, die umb
+<lb n="27"/>erhaltung des cristenlichen namens und glaubens, auch der
+<lb n="28"/>ganzen cristenhait, unnd besonnder zu erhaltung der kunigc
+<lb break="no" n="29"/>lichen mayenstat kunigclichen cron <placeName ref="lub-places-146">Hungern</placeName> dahin komen
+<lb n="30"/>sind, widerumben von dem erbfeindt, dem <orgName ref="lub-actors-267">Türggen</orgName>, unnd irer
+<lb n="31"/>schweren, unmenschlichen pürden unnd fencknißen entledigt
+<lb n="32"/>werden unnd zu irem vatterlandt, auch weib unnd kinden
+<lb n="33"/>komen mügen. So haben wir, obgedachte unnderthanen bemelter
+<lb n="34"/>herrschafften, von statt unnd lannd, unns sament unnd sonderlichen,
+<lb n="35"/>mit wissen unnd zugeben unnserer obrigkaiten, mitainander
+</p>
+        <p><pb facs="lub-media-169" n="3"/><lb n="36"/>eingelassen unnd entschlossen, die gerüerten gefangnen underthanen,
+<lb n="37"/>so aus yez gemelten herrschafften by gemeltem <orgName ref="lub-actors-267">Türggen</orgName> in <placeName ref="lub-places-146">Hungern</placeName>
+<lb n="38"/>zu fencknuß ligen, sy seyen reich oder arm, mit gelt, so es anderst
+<lb n="39"/>müglich sein kan, wider zu erlösen unnd erledigen, unnd derwegen
+<lb n="40"/>durch unnser hochfleissig unnd ernsstlich pitt unnd ansuchen,
+<lb n="41"/>bey den wolgepornen, edlen unnd vessten herrn <persName ref="lub-actors-93">Niclasen frey
+<lb break="no" n="42"/>herrn zu Pollweyler</persName>, römischer kunigclicher mayenstat rat
+<lb n="43"/>unnd houptman zu <placeName ref="lub-places-101">Costenz</placeName>, <persName ref="lub-actors-92">Sigmunden von Hohenlandenberg</persName>,
+<lb n="44"/>voggt zu <placeName ref="lub-places-139">Neuburg am Rein</placeName> unnd <persName ref="lub-actors-94">Hannsen Schnabel von Schön
+<lb break="no" n="45"/>stain</persName>, unnsern genedigen unnd günstigen herrn, sovil erlangt,
+<lb n="46"/>das sich yez gemelte drey herrn sament unnd sonnderlichen, haben
+<lb n="47"/>unnderfangen, das ire gnaden unnd gunst, umb berüerter ge
+<lb break="no" n="48"/>fangnen erledigung bey der mer höchst gedachten römischen
+<lb n="49"/>kunigclichen mayenstat unnd denen orten, da dieselben gefang
+<lb break="no" n="50"/>nen bey dem <orgName ref="lub-actors-267">Türggen</orgName> verstrickt ligen, durch mitl unnd weg hand-
+<lb break="no" n="51"/>len, unnd sovil dann die auslosung mit gelt betreffen, unnd von
+<lb n="52"/>dem <orgName ref="lub-actors-267">Türggen</orgName> erfordert wirdet, auch dieselb suma gelts, darleihen,
+<lb n="53"/>oder umb gepürliche verzinsung aufpringen unnd sich für was
+<lb n="54"/>darumben verschreiben wellen. Das demnach wir, obge
+<lb break="no" n="55"/>melte unnderthanen berüerter herrschafften von statt unnd
+<lb n="56"/>land, sament unnd sonnderlich, den gemelten dreyen, unnsern
+<lb n="57"/>genedigen unnd günstigen herrn, sament unnd sonnders
+<lb n="58"/>in diser obgemelten handlung unnsern gannz vollkomnen
+<lb n="59"/>gewalt unnd macht geben habend, geben iren gnaden und gunst
+<lb n="60"/>denselben auch yez hiemit in crafft dis briefs, also, das ire
+<lb n="61"/>genanden unnd gunst, oder andere derselben hierzu taugcliche
+<lb n="62"/>personen, an unnser aller statt unnd in unnserm namen bey
+<lb n="63"/>der mer höchst gedachten römischen kunigclichen mayenstat etc.
+<lb n="64"/>nachmals in denen orten, alda die gefangnen personnen bey
+<lb n="65"/>dem <orgName ref="lub-actors-267">Türggen</orgName> verstrickt ligen, alles das, so zu erledigung derselben
+<lb n="66"/>gefangnen dienen kan, handlen, fürnemen, thun und lassen
+</p>
+        <p><lb n="67"/>sollen unnd mügen. Unnd sovil dann die auslosung gemelter
+<lb n="68"/>gefangnen berüern wirdet, sollen gemelte unnsere genedigen unnd
+<lb n="69"/>günstigen herrn von unns volkomen gewalt unnd befelch haben,
+<lb n="70"/>so berüerte gefangnen ainer oder mer, anhaimbs in solchem ver
+<lb break="no" n="71"/>mügen wern, das sy das gelt, so umb ir entledigung auf sy
+<lb n="72"/>gelegt wurde, zu erlegen hetten, das sich alßdann derselben
+<lb n="73"/>yeder selbs mit seiner aignen haab unnd gut lösen soll. Doch
+<lb n="74"/>wellen wir für derselben gebürende anlag, als selbs schuldner
+<lb n="75"/>unnd zaler einsteen unnd wo dieselben gefangnen zum thail
+<lb n="76"/>nit sovil vermüglichen, als inen das auferlegt gelt betreffen solt,
+<lb n="77"/>so sollen unnd wellen wir für dieselben, umb die ubertheur unnd
+<lb n="78"/>völliger erstattung selbiger anlag, deßgleichen auch für die
+<lb n="79"/>so gar arm sind unnd anhaimbs gar nicht haben, für derselben
+<lb n="80"/>yeden ungevarlich dreissig bis in vierzig guldin rheinisch zu er
+<lb break="no" n="81"/>legen unnd zu bezaln bewilligt haben, unnd wievyl sich dann
+<lb n="82"/>die suma der auslosung betreffen wirdet, dieselb suma gelts
+<lb n="83"/>sollen mer gedachte herrn unns zu genedigen unnd günstigem
+<lb n="84"/>gefallen darleihen, oder gegen gepürlicher verzinsung bey andern
+<lb n="85"/>aufpringen, sich darumben von unnsern wegen verschreiben unnd
+<lb n="86"/>dieselb suma alßdann zu auslosung der gefangnen erlegen,
+<lb n="87"/>unnd sollen also gedachte unnsere genedigen unnd günstigen herrn,
+<lb n="88"/>gemainlich oder sonnders, alles das sych hierinnen gepürt unnd
+<lb n="89"/>die notturfft erfordert, hanndlen thuen unnd lassen nach irer
+<lb n="90"/>genaden unnd gunst höchsten verstand, unnd als ob wir samentlich
+<lb n="91"/>zugegen wern unnd dasselbs handlten unnd volfüerten künten,
+<lb n="92"/>solten oder möchten. Dann was wolgedachte unnsere
+<lb n="93"/>genedige unnd günstige herrn, sament oder sonnders, oder die
+<lb n="94"/>ihenigen, den sy zu solcher sachen zu handlen bevelch geben werden,
+<lb n="95"/>in unnserm namen von wegen erledigung bemelter unnserer
+<lb n="96"/>gefangnen fürnemen, hanndlen, vollfüern, thuen und lassen,
+<lb n="97"/>das alles ist unnser gennzlich pitt, guter will unnd mainung.
+</p>
+        <p><pb facs="lub-media-170" n="4"/><lb n="98"/>Wir gereden unnd versprechen auch darauf bey unnsern waren
+<lb n="99"/>unnd guten trewen, an rechter aides statt, solchem allem getreulich
+<lb n="100"/>unnd stet zu geleben unnd nachgekomen, unnd darwider nit
+<lb n="101"/>ze reden, zu handlen, noch zu thun, oder schaffen geton werden, in
+<lb n="102"/>kain weis noch weg. Auch sollen gemelte, unnsere genedige unnd
+<lb n="103"/>günstige herrn, sament unnd sonnders, umb alles das,
+<lb n="104"/>so ir genanden unnd gunst diser erledigung halben, in unnserm
+<lb n="105"/>namen handlen, auch umb die suma gelts, die sy zu auslosung
+<lb n="106"/>der gefangnen darleihen oder aufpringen, sampt davon ge
+<lb break="no" n="107"/>pürendem innterresse, auch allen unnd yeden cösten und scheden,
+<lb n="108"/>so sy derhalben empfahen, von unns gannz danckperlich unnd
+<lb n="109"/>zu irer genaden unnd gunst, guten beniegen, entledigt, bezalt
+<lb n="110"/>unnd gegen menigclich schadloß unnd unaussprechig gehalten
+<lb n="111"/>werden, alles bey verpindung unnser aller hab unnd gueter
+<lb n="112"/>aigender unnd warender, gegenwürtiger unnd künfftiger,
+<lb n="113"/>nichts ausgenomen. Unnd ob mer gedachte, unnsere ge
+<lb break="no" n="114"/>nedige unnd günstige herrn, anders oder merers gewalts, dann
+<lb n="115"/>hierinnen begriffen ist, nottürfftig sein würden, denselben
+<lb n="116"/>allen, sollen unnd wellen wir iren genaden unnd gunst hiemit,
+<lb n="117"/>als ob der mit allen worten, puncten unnd articklen hierinnen
+<lb n="118"/>aigentlich beschriben stüende, gannz ainhelligclich und mit
+<lb n="119"/>wolbedachtem synn unnd muth, auch geben haben, yez alßdann
+<lb n="120"/>unnd dann als yez one geferde. Unnd des alles
+<lb n="121"/>zu warem vestem urkundt, so haben wir, obgenante underthanen,
+<lb n="122"/>gemainlich obberüerter herrschafften, mit vleis ainhellig
+<lb n="123"/>erpeten, die edlen, vesten unnd fürnemen <persName ref="lub-actors-202">Hanns Wilhalmen
+<lb n="124"/>von Weyler zu der Altenburg</persName>, <persName ref="lub-actors-203">Lauxen von Reischach zum Megt
+<lb break="no" n="125"/>perg</persName>, <persName ref="lub-actors-523">Merck Sittich vonn Embs zu der Hohen Emps</persName>, all drey
+<lb n="126"/>römischer kunigclicher mayenstat etc. vöggt der herrschafften
+<lb n="127"/><placeName ref="lub-places-10">Veldkirch</placeName>, <placeName ref="lub-places-45">Bregenz</placeName>, <placeName ref="lub-places-205">Bludenz</placeName>, <placeName ref="lub-places-6">Sonnenberg</placeName> und <placeName ref="lub-places-49">Hohenegg</placeName>.
+</p>
+        <p><lb n="128"/>Unnd dann <persName ref="lub-actors-24">Juvenalis Kredern</persName>, lanndtvoggt der erst gemelten
+<lb n="129"/>dreyer sulzischen herrschafften, unnser günstig herrn, das sy
+<lb n="130"/>ire angeporne unnd aigne insigl für unns, unnser erben unnd
+<lb n="131"/>nachkomen, doch inen unnd iren erben in alweg on schaden,
+<lb n="132"/>offennlich hierfür getruckt haben. So haben wir, stattaman,
+<lb n="133"/>paumayster unnd rat der dreyen stett <placeName ref="lub-places-10">Veldkirch</placeName>, <placeName ref="lub-places-45">Bregenz</placeName>,
+<lb n="134"/>unnd <placeName ref="lub-places-205">Bludenz</placeName>, derselben secret insigele für unns, unnser
+<lb n="135"/>erben unnd nachkomen, auch offennlich gehenckt an disen
+<lb n="136"/>brief, der geben ist am <origDate>driten tag des monnats octobris im
+</origDate><gap/>
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

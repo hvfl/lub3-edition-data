@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-570">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Thomas Bürzle von Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-570">LI-LA, Schä U 45</ref> / Originaldatierung: 23. Dezember 1528 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Thomas Bürzle von Triesenberg, der wegen Friedbruch in Schloss Vaduz inhaftiert worden war, schwört nach seiner Freilassung Urfehde. Er muss künftig Wirtshäuser und gesellige Anlässe meiden, darf keine Waffen mehr tragen, muss in der Kirche zuhinterst stehen und darf die Grafschaft Vaduz nur noch mit Erlaubnis verlassen. Zudem muss er Graf Rudolf von Sulz eine Strafe von 45 Pfund Pfennig zahlen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-234">Gewalt</term>
+          <term ref="lub-keywords-264">Geselligkeit</term>
+          <term ref="lub-keywords-95">Waffe</term>
+          <term ref="lub-keywords-272">Ehrenstrafe</term>
+          <term ref="lub-keywords-127">Wirtshaus</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-421">Bürzle, Thomas (1)</persName>
+          <date when="1528-12-23">23. Dez 1528</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1528-12-23">23. Dez 1528</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-452" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-421">Thoman Burtzlin</persName> ab dem <placeName ref="lub-places-41">Trissnerperg</placeName> der herschafft <placeName ref="lub-places-7">Vadutz</placeName> bekhenn unnd thun khundt allermenigklich mit dissem brieffe, nach dem als ich in des wolgebornen herrn, herrn <persName ref="lub-actors-8">Rudolffs graven zu 
+<lb n="2"/>Sultz</persName>, lanndtgraven im <placeName ref="lub-places-18">Clekhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> unnd <placeName ref="lub-places-12">Bluemenegkh</placeName> etc. unnd khunigklicher magestat zu <placeName ref="lub-places-146">Hungern</placeName> unnd <placeName ref="lub-places-162">Behaim</placeName> stathalter 
+<lb n="3"/>der <placeName ref="lub-places-160">Oberössterreichischen Lanndt</placeName> etc., meins genedigen herrn, gefenkhnus khomen unnd in seiner gnaden <placeName ref="lub-places-33">schloss zu Vadutz</placeName> gefiert worden umb disser meiner wolverschuldten sach, namlich das ich uber frid 
+<lb n="4"/>mit worten unnd werkhen gehanndelt unnd den fräffenlih geprachen und nit gehalten hab, deshalb der eerenvesst <persName ref="lub-actors-155">Caspar Mammendorffer</persName>, der zeit meins genedigen herrn unnd seiner gnaden lanndt
+<lb break="no" n="5"/>vogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> unnd obervogt zu <placeName ref="lub-places-12">Bluemenegkh</placeName>, des enndtlichen willen unnd furnemens gewesst, mich meiner verhandlung nach fur malefitz gericht zustellen unnd an meinem leib unnd leben
+<lb n="6"/>straffen zulassen, aber nachmals durch underhandlung, auch gantz unnderthenig, hochfleissig pit unnd ersuchen meiner freundtschafft unnd ander frömer piderbleut understanden der massen, das 
+<lb n="7"/>obbemelter, meins genedigen herrn landtvogt, an seiner genaden statt mir gnad mitgetailt unnd mich selicher strenge des rechtens straff unnd venkhnus mit selichen gedingen unnd rechten, wie 
+<lb n="8"/>hernach volgt, ledig unnd ausgelassen, darumb ich dann pillich gedachtem, meins genedigen herrn lanndtvogt, an seiner genaden statt zuvor, auch allen denen, so zu selicher meiner erledigung geholffen unnd 
+<lb n="9"/>geiept haben, unnderthenigen dankh sag. Nemlich so soll unnd will ich mich furohin in ewig zeit in khain offenlich taffern oder wirtzhaus, schenkhen, <term ref="lub-keywords-353">urten</term> oder zechen verdachtlich noch offennlich, 
+<lb n="10"/>weder bey tag noch bey nacht nit setzen noch begeben, es begeb sich dann, das ainer oder aine aus meiner freundtschafft ir hochzeit begon wurden, an derselben tagen mir an meiner verschreybung unfer
+<lb break="no" n="11"/>griffen, auch khain ander waffen weder buchsen, spiess, hellenparten, schwert oder tegen, hoch noch nider, wie die genandt synnd, khunden oder mugen genant werden, allain ausgenomen ain gestumpten
+  <lb n="12"/>oder gepallaten waidner, waidmesser, <term ref="lub-keywords-352">patsch</term> ald imster unnd daruff abgeprochne beymesser, doch nemlich mit schneiden und hefften nit lenger dann zwo <term ref="lub-keywords-366">mans spann</term> ungefärlich, zutragen 
+<lb n="13"/>noch derselben zugeprauchen, darzu in der khirchen an khain ander statt noch orth annderst dann zu hinderst zuston nit begeben, unnd insonnder aus obgedachts meins genedigen herrn herschafft <placeName ref="lub-places-7">Vadutz</placeName> 
+<lb n="14"/>ausser erlauptnus, wissen, willen unnd zugeben obbemelts, meins genedigen herrn, ald seiner gnaden vögt oder amptleut, so dann bevelch unnd macht daruber haben, mich nit begeben noch underston, ausser 
+<lb n="15"/>disser herschafft lannds in krieg oder annder verr raissen, weder mit weib, khindt, hab noch gut auss zuziechen, doch selichs alles hie ingeschriben, sover ich mich, wie sich dann durch fromb erber piderbleut 
+<lb n="16"/>befunde, geschiklich, tugennlich, erlich unnd wol hielt unnd anliess, wie dann ainem piderb unnd fromen man gezimpt unnd zustat, zu mindern oder gar abzethun <unclear>aus</unclear> gnaden obgedachts, meins genedigen herrn, 
+<lb n="17"/>und seiner genaden vögt unnd amptleut vorbehalten. Und auh benantlich zu ainer behalten straff so soll ih gedachtem, meinem genedigen herrn, fünffundfierzig phund phenig <placeName ref="lub-places-101">Cosstentzer</placeName> münz und <placeName ref="lub-places-10">Veldkhirher</placeName> werung nah 
+<lb n="18"/>inhalt unnd sag ains besigelten schuld oder zeinsbrieffs ausrichten unnd bezalen. Uff selichs so hab ich, bemelter <persName ref="lub-actors-421">Thoman Burtzlin</persName>, dem obgedachten, meines genedigen herrn lanndtvogt, an statt seiner genaden 
+<lb n="19"/>ain gelerten ayd mit uffgehaben vingern leiplich zu got unnd den h<supplied>ai</supplied>ligen geschworen, selichs alles, wie obstat, stät, vesst unnd trewlich zuhalten, auch disse sach nimermer zu effern, auh mein gefenkhnus unnd, 
+<lb n="20"/>was sich darinn unnd darunnder verloffen hatt, gegen <gap/>htem, meinem <gap/>gen herrn, seiner gnaden erben, freundten und nachkhomen, vegten, amptleuten, deinern, auch gegen seiner gnaden armenleuten, under
+<lb break="no" n="21"/>thanen unnd zugehörigen, auch gegen allen denen, so seiner gnaden vögten, <supplied>a</supplied>mptleuten unnd anweldten zuversprechen stonndt, sy seyend gaistlich oder weltlich, besonnder die, so an selicher meiner gefenkhnus schuld,
+<lb n="22"/>radt oder that gehept oder darunder verdacht synnd, nimermer ewigklich weder mit worthen noch werkhen nichts ändtern, effern noh zu rechen, auch weder lasster noh laid darumb gegen inen furnemen, sy auch 
+<lb n="23"/>deshalben nichts anzefördern, zubekhumbern, zuersuchen oder umb zetreiben, weder mit gaistlichen noch weltlichen gerichten durh mich selbs oder jemantz von meinen wegen, in khain weiss noh weg, und besonnder 
+<lb n="24"/>mich von disser verschreibung unnd meinem gethonem ayde nit absolvieren, noch den uffheben zulassen, noh selichs zubestellen, noh durh mich noh jemandt zuwegen pringen, das selichs bescheche von ainer bewegnus 
+<lb n="25"/>ainicher oberkhaitt, bapstlichs, khaysserlichs, khunigklichs unnd anderm gewaldt. Und ob ich, obgenanter <persName ref="lub-actors-421">Thoman Burtzlin</persName>, uber khurtz oder langzeit (da got vor sey unnd mich behieten well) also 
+<lb n="26"/>fräffenlih sein wurd, das ich disse urfech unnd verschreibung in ainem oder mer artikheln nit stät hielt, wie sich dann erfunde, so begib ich mich hiemit selbs ain mainaydiger, verurtailter, eer und 
+<lb n="27"/>rechtlosser man zusein unnd sellen unnd mugen alsdann obbemelter, mein genediger herr, seiner gnaden vegt, amptleut und anweldt an allen enndten unnd stetten, märkhern, schlössern, dörff
+<lb break="no" n="28"/>fern, weilern, uff lanndt und uff wasser, wo sy mich betretten unnd ankhomen mugen, nah mir greiffen, mich annemen, mit mir handlen unnd sträffen lassen, wie unnd was sy wellen,
+<lb n="29"/>gut recht unnd macht haben, als mit ainem, der sein glupt, ayd, zusagen unnd verschreibung uberthreten unnd nit gehalten hatt, darfur mich gar nichts freyen, befriden noh beschützen, weder 
+<lb n="30"/>frehaitt, lanndsbrauh, gericht, noh recht, gaistlichs noh weltlichs, noh sonnst khainerlay, das jemandt zuschirmen hiewider erdenkhen möcht, dann ih mich des alles unnd jedes, so mich wider 
+<lb n="31"/>disse verschreibung behelffen khündt oder möht, verzigen unnd begeben haben will unnd ich mich des jetz alsdann und dann als jetz verzeich wissentlich in crafft ditz brieffs. Und des alles 
+<lb n="32"/>zu warem unnd offem urkhundt so hab ih, obgenanter <persName ref="lub-actors-421">Thoman Burtzlin</persName>, mit sonderm vleis unnd ernst gepeten den edlen unnd vessten <persName ref="lub-actors-156">Balthasern von Ramschwag</persName>, disser zeit gedachter khunig
+<lb break="no" n="33"/>kliher magestat zu <placeName ref="lub-places-146">Hungern</placeName> unnd <placeName ref="lub-places-162">Behaim</placeName> vogt uff <placeName ref="lub-places-13">Gutenperg</placeName>, meinen geunstigen junckhern, das er sein aigen ynsigell von meinen wegen an dissen brieff gehenkht, doch im, synen erben
+<lb n="34"/>und ynsigell on allen schaden. Beschechen uff <origDate>mitwoh nah sandt Thomas des hailigen zwelffpoten tag nah Cristi, unsers lieben herrn, gepurtt feunffzechenhundert und im acht
+<lb break="no" n="35"/>undzwaintzigissten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-453" n="1"/><lb n="1"/>Item uff den <date when="1529-10-03">dritten tag octobris anno etc. xxviiii<unclear>to</unclear></date> hat der wolgeboren, mein genediger herr <persName ref="lub-actors-8">graff zu Sultz</persName> etc., <persName ref="lub-actors-421">Thoman Burtzlin</persName> die drey artikhel, 
+<lb n="2"/>waffen zutragen, wirtzheusser zugepruchen und alle örther der kirhen zeston, aus gnaden nachgelassen, doh andern artikheln und der 
+<lb n="3"/>urfech in anderweg unnahtailig und unfergriffen. 
+<lb n="4"/>Item debet an bestimpter suma xxxxi lib. xvi ß xi d. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

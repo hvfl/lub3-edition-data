@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-624">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Schaan und Vaduz einerseits und Triesen andererseits um die Nutzung des Gebiets Wissfläcka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-624">LI-LA, U 46</ref> / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-479">LI-GAS, U 8</ref> / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness>Kopie: LI-AAV, U 17 (unbeglaubigte Abschrift, 17./18. Jh.)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Inseriert eine [Urkunde vom 10. Oktober 1514](487).&#13;
+ &#13;
+Regesten:&#13;
+- Hans Tschol, Ammann in der Herrschaft Blumenegg, als Obmann, Hans Langenauer, Untervogt zu Neuburg, und Lienhart Wyss von Ruggell, der den kranken Matthias Wagner von Ruggell ersetzt, als Zugesetzte der Gemeinden Vaduz und Schaan, sowie Hans Gabathuler von Wartau und Hugo Knabenkecht von Eschen, als Zugesetze der Gemeinde Triesen, entscheiden den Streit um die Nutzung des Gebiets Wissfläcka. Im Gebiet hinter dem Kulm steht der Wildbann, die Falknerei, die Köhlerei sowie die Holznutzung der Herrschaft zu. Das Weiderecht steht Vaduz und Schaan sowie den Grafen von Sulz zu. Im Gebiet vor dem Kulm stehen die Rechte Triesen zu.&#13;
+- Claudius Gurt: Nachdem ein von Graf Rudolf V. von Sulz mit Zustimmung der Konfliktparteien eingesetztes Schiedsgericht, bestehend aus Hans Langenauer, Untervogt zu Neuburg, und Mathias Wagner von Ruggell als Vertreter der Gemeinden Vaduz und Schaan als klagende Partei, und Hans Gabathuler von Wartau und Hugo Knabenknecht von Eschen als Vertreter der Gemeinde Triesen als angeklagte Partei unter der Leitung von Hans Tschol, Ammann in der Herrschaft Blumemegg, an einem am 12. Januar 1515 in Heinrich Sattlers Haus in Vaduz abgehaltenen Gerichtstag den Konflikt betreffend Gebiete am Triesnerberg und hinter dem Kulm nicht zu schlichten vermochte, und auf dem neu angesetzten Gerichtstag der sulzische Landvogt in Vaduz, Jörg Kräler, erklärte, dass die sulzische Herrschaft das umstrittene Gebiet Wissfläcka als Jagdgebiet und im Falle der Not zur Köhlerei und Holznutzung für ihre Untertanen behalten habe und es daher dem Hans Tschol verboten werde, weiter in dieser Angelegenheit zu handeln, nimmt sich Graf Rudolf V. von Sulz der Sache selbst an. Den vorgeladenen Konfliktparteien erklärt er, dass er gnadenhalber und um Kosten zu sparen den Konfliktfall dem bereits eingesetzten Schiedsgericht zur Schlichtung übertrage unter der Bedingung, dass Landvogt Jörg Kräler seine Interessen in der Gerichtsverhandlung vertreten könne. Darauf entscheidet das erneut in Heinrich Sattlers Haus in Vaduz einberufene Schiedsgericht nach vergeblichem Vermittlungsversuch folgendermassen: Das Gebiet Wissfläcka hinter dem Kulm bleibt als Jagdgebiet und zur Holznutzung der sulzischen Herrschaft vorbehalten. Bezüglich des Viehweidegangs hinter dem Kulm gestehen sich Schaan, Vaduz und die sulzische Herrschaft das gegenseitige Nutzungsrecht zu, die damit nicht einverstandenen Triesner Vertreter haben sich dem Mehrheitsentscheid zu fügen. Bezüglich der Gebiete vor dem Kulm entscheidet Hans Tschol als Vorsitzender des Schiedsgerichts, nachdem sich die Vertreter der Konfliktparteien nicht einigen konnten, zugunsten der Triesner, denen die Nutzungsrechte und die Gerichtsbarkeit über diese Gebiete zugesprochen wird. Schliesslich wird vereinbart, dass die Gerichtskosten zwischen den Konfliktparteien geteilt werden. &#13;
+- Schädler, Regesten Gemeindearchive / Alpgenossenschaften, in: JBL 8 (1908) Nr. 33, S. 115.&#13;
+&#13;
+Ediert auf [e-archiv.li](www.e-archiv.li/D42817)</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-108">Jagdrecht</term>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+          <term ref="lub-keywords-176">Köhlerei</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-234">Tschol, Hans (1)</persName>
+          <date when="1516-05-01">1. Mai 1516</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-538" n="1"/><lb n="1"/>
+                    Ich, <persName ref="lub-actors-234">Hanns Tschol</persName>, diser zyt amman in der herrschaft <placeName ref="lub-places-12">Blumenegg</placeName>, bekenn offennlich und thun kundt allerrmenclich mit dem brief. Nachdem und sich irrungen und spenn zwischen den erbren lüten der zwayen dörffere <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schann</placeName>, als
+                    <lb n="2"/>
+                    kleger ains, und ainer erbren gmaind des dorfs <placeName ref="lub-places-79">Trisan</placeName>, als antwürter anderstails gehalten, antreffend stuck und artickel, die si vorrna am <placeName ref="lub-places-41">Trisnerberrg</placeName> hinuf, bis uff den Grat, und hinna hinderm Grat hinab mit ainandren gehebt habend. Sölicherr
+                    <lb n="3"/>
+                    irer irrungen und spennen sich der wolgeborn herr, her <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName>, landtgraf im <placeName ref="lub-places-18">Cleggöw</placeName>, herr zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-12">Blumenegg</placeName> und <placeName ref="lub-places-11">Schellenberrg</placeName> etc., unser aller gnädiger und natürlicher herr, uss sundren gnaden sorrgenhalb das feder und wyter unwill
+                    <lb n="4"/>
+                    cost müy und arbait darus zwüschen inen erwachsen möcht. Dem allem vorzu sin gnädigclich angenommen hat, der massen, das si baid tail, sinen gnaden als obman sölich ire irrungen und spenn mitsambt ainem von baiden tailen glychem zusatz
+                    <lb n="5"/>
+                    vertrüwt habend. Dwyl aber der genannt, unser aller gnädiger und natürlicher herr, siner gnaden selbs obligenden geschäfften halben, die sachen in selbs aigner person nit uswarrten und volstrecken kan noch mag, hat sin gnad mich mit iren
+                    <lb n="6"/>
+                    baider tailen gutem willen an siner gnaden statt zu obman in der sach gesetzt, alles nach ludt ains besigelten anlass brief, der von wort zu worten also ludtet: Zu wissen sey allerrmengclichem mit disem anlass brief nach dem
+                    <lb n="7"/>
+                    und sich etliche zyt här, irrungen und spenn zwüschen uns, namlich den gmainden der zwayen dörffere <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schan</placeName> als kleger an ainem, und der gmaind des dorfs <placeName ref="lub-places-79">Trisan</placeName> als antwurter am andern tailn, umm die stuck und artickel, die wir
+                    <lb n="8"/>
+                    mit und gegen ainanderrn am <placeName ref="lub-places-41">Trisnerberrg</placeName> vorna hinuf bis uff den Grat, und hinderm Grat hinab etc. habend. Der gemelten unser irrungen und spennen der wolgeborrn herr, herr <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName> etc., unser gnädiger herr, besorgt, das wir dar
+                    <lb break="no" n="9"/>
+                    durch mitainandren in müy, cost und arbait kommen möchten. Dem vor zu sin, hat sin gnad sich der sach uss sundren gnaden angenommen und zwüschen uns so vil mittels gesucht und funden, also das wir sölich unser irrungen und spenn sinen gnaden,
+                    <lb n="10"/>
+                    als unserm gnädigen und natürlichen herren, und och als obmann mitsambt ainem von uns baiden tailen glychen zusatz gentzlich vertruwt habend. Dwyl aber der genannt unser gnädiger herr siner gnaden obligenden geschäfften halben selbs in aigner
+                    <lb n="11"/>
+                    person die sach nit volstrecken kan noch mag, hat sin gnad an siner gnaden statt uns, den ersamen und wysen <persName ref="lub-actors-234">Hannsen Tscholen</persName>, siner gnaden amman in der herrschaft <placeName ref="lub-places-12">Blumnegg</placeName> zu ainem obman in der sach georndet und gesezt, den wir baid tail an siner
+                    <lb n="12"/>
+                    gnaden statt zu obmann gutwillig angenommen. Und habend wir von <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schan</placeName> die ersamen, wysen <persName ref="lub-actors-235">Hannsen Langenower</persName>, underrvogt zu <placeName ref="lub-places-139">Nüburrg</placeName> und <persName ref="lub-actors-221">Tyessen Wagner</persName> von <placeName ref="lub-places-2">Ruggäll</placeName>, und wir, die gmaind zu <placeName ref="lub-places-79">Trisan</placeName>, die erbren, wysen
+                    <lb n="13"/>
+                    <persName ref="lub-actors-237">Hannsen Gabertuler</persName> von <placeName ref="lub-places-140">Wartow</placeName> und <persName ref="lub-actors-222">Hugen Knabenknecht</persName> von <placeName ref="lub-places-35">Eschen</placeName> zu zusätzen, zu im geordnet und gesetzt. Und söllen wir, baid tail, den genannten amman <persName ref="lub-actors-234">Hannsen Tscholen</persName> flyssig bitten, der sachen halb kurz tag zu setzen und uns den bi gut
+                    <lb break="no" n="14"/>
+                    en zyten verkünden, und so uns der tag also verkündt wirt, söllen wir, baid tail, mit genannten unsern zusätzen und allem, so uns der sach halben nodt ist, erschinen. Ob es aber uff den angesetzten tag nit gesin mag, sol sölichs uff den nächst
+                    <lb n="15"/>
+                    darnach angesetzten tag beschehen. Und sol der obmann und die zugesezten alsdenn unser clagen, antwurt, red und widerred, und och unser gestelten kundtschafften lüdt und brief nach unser notdurrft nach statten, bis an unser selbs ufhören
+                    <lb n="16"/>
+                    gnugsamlich verhören und erlernen. Und denn uff unser baider tailen rechtsatz söllen und mügend si, fünf obmann und zugesezten, versuchen, uns mitainanderrn in der gütigkait zu verainen. Ob aber die gütigkait zwüschen uns nit ver
+                    <lb break="no" n="17"/>
+                    fangen werden möcht. So söllen die vier zugesetzten uff unser baider tailen fürbringen, ainen rechtlichen spruch zwüschen uns geben, und ob ain mers under inen wurd. Dabi sol es beliben. Ob sich aber die zugesetzten zwayetenn, und nit ain
+                    <lb n="18"/>
+                    mers under inen gesprochen wurde. So mag alsdann der obmann des ainen tails zugesezten spruch volgen. Ob im aber entweders tails zugesetzten spruch nach siner verstenntnuss und gewissne zu volgen gefiele, so sol er macht und
+                    <lb n="19"/>
+                    gwalt haben, ainen spruch nach siner verstentnuss und gewissne, der dem rechten glich sach zwüschen uns zu geben und was also zwüschen uns, es sey gütlich oder rechtlich, gesprochen wirt. Darbi söllen wir es zu baider sydt lanssen
+                    <lb n="20"/>
+                    beliben. Und dem one alles wegern und appellieren gegen ainandern vest und stät, one alles mittel, und on alle fürwort halten. Dem geleben und nachkommen trülich und ungefarlich, als wir dann das zu baider sydt dem gena
+                    <lb break="no" n="21"/>
+                    nten obmann mit unsern handgegebnen trüwen zu halten gelobt habend. Doch dem genannten, unserm gnädigen herren <persName ref="lub-actors-8">von Sulz,</persName> an siner gnaden herrligkait und obrigkait unvergriffen und unschädlich. Und dem gemainen und
+                    <lb n="22"/>
+                    zugesetzten unverwyslich, alles ungefarlich in kraft diss anlass briefs. Und des alles zu warem offem urkund, so haben wir, baid tail, flyssig erbetten den fürsichtigen und wysen <persName ref="lub-actors-238">Jörgen Kräler</persName>, der zyt des genannten unsers gnä
+                    <lb break="no" n="23"/>
+                    digen herren landtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, das er sin insigel im und sinen erben one schaden für uns offenlich gedruckt hat in den brief, der geben ist an zinstag vor sant Gallen tag nach Cristi geburt fünfzehenhundert und
+                    <lb n="24"/>
+                    vierzehen jare. Als ich mich nun der sachen als gehorsamer, uss befelch mins genannten gnädigen herren, und von baider parthyen pett wegen angenommen, hab ich baiden gemelten parthyen uff iren ernstlich anrüffen tag gen <placeName ref="lub-places-1">Vaduz</placeName>
+                    <lb n="25"/>
+                    in <persName ref="lub-actors-991">Hainrich Satlers</persName> hus, uff donnstag nach sant Erharts tag der mindern zal im fünfzehenden jar angesetzt, und inen den bi guten zyten verkündt. Und bin ich mitsambt dem egenannten vogt <persName ref="lub-actors-238">Jörgen Kräler</persName>, ich den genannten vier zugese
+                    <lb break="no" n="26"/>
+                    tzten, und beder parthyen volmächtigen gewalthabern und anwälten uff die baid spenn und irrungen vorna und hinna gezogen, und uff den spennen ire clagen, antwurrt, red, widerred, och etliche muntliche kundtschaft gehört, und daruf
+                    <lb n="27"/>
+                    die spenn besichtiget, erfaren und erlerrnet. Und haben ich und die vier zugesetzten. Daruf inhalt des egemelten anlass an bed parthyen versucht, iere gemelte irrungen und spenn in der in der gütigkait hinzulegen. Das aber uns von beden parr
+                    <lb break="no" n="28"/>
+                    thyen abgeslagen und nit verfolgt werden mocht. Daruf ich, obmann, baiden parthyen uff iren anrüffen widerumm tag darnach uff mitwuch vor sant Anthonis tag da selbst angesetzt und inen den aber bi guten zyten verkündt, in dem die
+                    <lb n="29"/>
+                    von <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, <persName ref="lub-actors-221">Thiessen Wagner</persName> sinr kranckhait halben nit vermochten, und nomend an sinr statt den erbren <persName ref="lub-actors-236">Lienhart Wyssen</persName> von <placeName ref="lub-places-2">Raggell</placeName> zu ainem zusatz. Und uff gemelten angesetzten tag haben ich und min genannt bisitzer aber
+                    <lb n="30"/>
+                    ire clagen, antwurt, red, widerred und och iren beder tailen munntliche und versigelte kundtschafften, alles nach statten und bis an iren selbs ufhören, gnugsamlich gehört und erlerrnet. Und uff diss alles der vorgenannt vogt <persName ref="lub-actors-238">Jörg Kräler</persName> vor
+                    <lb n="31"/>
+                    mir, och den bisitzerrn und vor beder parthyen anwälten, uff söliche mainung offennlich redt, wie ich, als obmann, und die bisitzer beder parthyen clagen, antwurrt, red, widerred und kundtschafften wol vermerckt. Und das beder parthyen kundt
+                    <lb break="no" n="32"/>
+                    schafften der mertail gesagt hetten: Das ain gnädige herrschaft den <placeName ref="lub-places-134">Wisflecken</placeName>, darumm der span hinderm Grat des <placeName ref="lub-places-138">Gulman</placeName> hinab ist, ir selbs zu dem wildpann, och zum väderspil, ich ob nodt sin wurd, zu kölen und irn armen lüten zu
+                    <lb n="33"/>
+                    iren notdurfften behalten hetten. Och baid tail in iren reden brüchtind, si hettind mit minem genannten gnädigen herren kainen span, und och der herschaft gerechtigkaiten on schaden. Uff das alles verbot er mir von wegen mins genannten gnädigen
+                    <lb n="34"/>
+                    herren nit wydter in den sachen zu handlen. Uff diss verbott han ich nit wydter in den sachen wellen handlen, bis der obgenannt, mit gnädiger herr, in land kamm. Da han ich sinen gnaden den handel zu erkennen geben. Daruf sin gnad baid gemelt
+                    <lb n="35"/>
+                    parthyen für sich erforderrt und mit inen geredt. Diewyl die spenn und irrungen sin gnad nach der kundtschafften sag und allem handel nach, als vyl und me, denn si anträff und berüre, so welle er dennocht uss sondren gnaden sinen zuspruch
+                    <lb n="36"/>
+                    mir und minen bisitzern zum minnsten costen glycher wys, wie die parthyen uns die sach inhalt des egemelten anlass zu sprechen vertruwt habend, och vertruwen. Doch das siner gnaden vogt an sinr gnaden statt mit siner gegenred uff die
+                    <lb n="37"/>
+                    angesetzten tag och zu gegen sye. Als sich nun der genannt, min gnädiger herr, und baid parrthyen des also mitainandren veraintend, han ich inen allen uff ir anrueffen aber tag gen <placeName ref="lub-places-1">Vaduz</placeName> in <persName ref="lub-actors-991">Hainrich Satlers</persName> hus, uff sant Michels tag
+                    <lb n="38"/>
+                    nächst verschinen gesetzt. Und als nun die dry parthyen ire clagen, antwurrt, red und widerreden vor mir und minen bisitzern gestadten, und wir ire kundtschafften uff ir begeren aber verhortend, begerten ich und die bisitzer aber an
+                    <lb n="39"/>
+                    die parthyen all uns gütlich darinn zu handlen lassen. Da aber die gütlichait zwüschen inen nit verfangen werden mocht, da sind wir, obman und bisitzer, über die sachen irer irrungen und spenn gesessen, und ire clagen, ant
+                    <lb break="no" n="40"/>
+                    wurrt, red und widerreden, und ire verhörten kundtschafften mit verdachtem mut, alles gegen ainanderrn nach unser verstenntnuss erwegen und ermessen. Und haben daruf die vier zugesetzten der herrschaft halben ainhellig nach
+                    <lb n="41"/>
+                    iren besten verstenntnuß und gewissne gesprochen. Also, iwe die clag, och die antwurrt gesetzt, und ir beder tailen kundtschaften verhört ist, darinn finden wirt, das ain herrschaft ir selbs behalten hat enhalb dem <placeName ref="lub-places-138">Gulman</placeName> im <placeName ref="lub-places-134">Wisflecken</placeName>
+                    <lb n="42"/>
+                    zum wildpann, väderspil, och zu kolen, wo das ainer herrschaft nodt sin wurd. Und söll ainer herrschaft vorbehalten sin, die obrigkait und herrligkait, das nieman da kain holz sol howen, one ainr herrschaft erloben, wissen und willen. Dwyl
+                    <lb n="43"/>
+                    nun die vier zugesetzten des artickels ainhellig ains syen, so hab ich, obmann, uss kraft des anlass wydter darinn nit gwalt noch macht zu sprechen, sunder sol der artickel der herrschaft halben hinfür in die ewigkait also gehalten werden
+                    <lb n="44"/>
+                    und dabi beliben. Wydter so hond des ainen tails zugesetzten ainmündig gesprochen, das die von <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schan</placeName> den tradt und traib mit irem fäch nüssen und pruchen söllen, und mügend enhalb dem <placeName ref="lub-places-138">Gulman</placeName>, und mag
+                    <lb n="45"/>
+                    ain herrschaft mit irem aignen fäch, och zu inen faren. Und ob sach wär, das ain herrschaft da wurd kolen lassen, uss was ursachen und notdurfften das iemer beschäch, so sol ir der tradt und traib zu demselbigen mit sölichem irem fäch zu
+                    <lb n="46"/>
+                    ir notdurft och vorbehalten sin, in disem span hinderm <placeName ref="lub-places-138">Gulman</placeName> sind des andren tails zugesetzten von ain andren zerfallen. Und hat ir jetwedrer ainen besundren spruch für sich selbs. Dwyl nun die zwen diss wie vor stat, ainhellig
+                    <lb n="47"/>
+                    hond gesprochen. Und die andren zwen, jetwedrer ainen besundren spruch für sich selbs hat, so sol es och bi dem merern hinfür in die ewigkait bliben und gehalten werden. Und han ich, obman, uss kraft des anlass och nit macht noch ge
+                    <lb break="no" n="48"/>
+                    walt anders, oder wydter darinn zu sprechen. Item dann des spans vorrna hie, disshalb dem <placeName ref="lub-places-138">Gulman</placeName> herab, und och der cost und schäden halben, habenn sich die vier zugesetzten in iren sprüchen zwayet, und nit ainn merern spruch geben.
+                    <lb n="49"/>
+                    Daruf ich mit langem, wolverdachtem mut, och nach radt verstenndiger lüten und nach miner besten verstenntnuss und gewissne, so volgen ich uss kraft des anlass des ainen tails zu gesetzten spruch. Der ist also holz und veld, tratt
+                    <lb n="50"/>
+                    und traib, zwing und pänn, zu bruchen und zu schirrmen. Denen von <placeName ref="lub-places-79">Trisan</placeName> und irn mitverwandten, und was über mich, gemainen obmann, och mine bisitzer und schriber, bishär gangen ist, und noch bis zu ustrag der sachen über
+                    <lb n="51"/>
+                    uns ergen wurd, sol jede parthy glich halben usrichten. Und was ir jedem tail sust uff und über sich selbs und iren versigelten und munntlichen kundtschaften ergangen ist, sol jeder tail selbs usrichen. Und söllen damit bed gemelt parr
+                    <lb break="no" n="52"/>
+                    thyen diser irer spennen und irrungen halben mit ainandren uff ain ludter end gar und gentzlich gericht und vertragen haissen und sin. Uns sol entwedrer tail den andren desshalben nit wydter fürnämen, ersuchen, äfern, oder beclagen, weder
+                    <lb n="53"/>
+                    mit gerichten, gaistlichen noch weltlichen, in kain wys noch weg, alles bi iren gelobten trüwen, dabi zu beliben und dem allem zegeleben, so si mir, obman, darumm mit irn handen zu halten gelobt habend one gefärde. Diser unser sprüchen be
+                    <lb break="no" n="54"/>
+                    gerten inen all dry tail brief und urkund, die inen durch di bisitzer ainhelligclich under min, obmanns, insigel zu geben erkendt worden sind. Hierumm des alles zu urkund geben wir ir jedem tail ainen brief, all dry glich lutendt
+                    <lb n="55"/>
+                    und von unser der zugesetzten pitt wegen mit min obmanns <persName ref="lub-actors-234">Hannsen Tscholen</persName> aigem anhangenden insigel, mir och uns zu gesetzten und allen unsern erben one schaden. Besigelt an <origDate>sant Philips und sant Jacobs, der zwayen hailigen
+                    <lb n="56"/>
+                    zwölfbotten abend, nach Cristi geburt fünfzehenhundert und darnach in dem sechzehenden jare</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1479" n="1"/><lb n="1"/>
+                    Spruch brieff vom
+                    <lb n="2"/>
+                    <placeName ref="lub-places-134">Wisflecken</placeName> am Kolholz
+                </p>
+        <p><lb n="3"/>
+                    1. Enhalb den <placeName ref="lub-places-138">Gulman</placeName> im <placeName ref="lub-places-134">Wieß
+                    <lb break="no" n="4"/>
+                    fleckhen</placeName> der herrschafft gehörig
+                    <lb n="5"/>
+                    zum wildpann, vederspihl und
+                    <lb n="6"/>
+                    zu kohlen.
+                    <lb n="7"/>
+                    2. Soll niemand ohne herrschafftliches
+                    <lb n="8"/>
+                    wißen holz darin hauen.
+                    <lb n="9"/>
+                    3. Daß eine herrschafft mit ihrem vieh aldah zu den <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutzer</placeName> fahren möge.
+                    <lb n="10"/>
+                    4. Wan eine herrschafft aldah wolte kohlen laßen, daß ohne einige wiederredt zu den
+                    <lb break="no" n="11"/>
+                    selbigen mit ihrem fach zu ihrer nohtdurfft vorbehalten seye.
+                    <lb n="12"/>
+                    5. Daß die von <placeName ref="lub-places-79">Trisan</placeName> undt ihre mitverwandten dieshalb des <placeName ref="lub-places-138">Gulman</placeName> holz und velt,
+                    <lb n="13"/>
+                    tratt undt trieb, zwing undt pänn zu bruchen undt zu schirmen etc.
+                </p>
+        <p><lb n="14"/>
+                    Urthellbrieff vom <placeName ref="lub-places-134">Wießfleckehen</placeName> vom Kolholz
+                    <lb n="15"/>
+                    hinder dem <placeName ref="lub-places-138">Gulman</placeName>, zwischen der herrschafft undt
+                    <lb n="16"/>
+                    den gemeindten <placeName ref="lub-places-1">Vaduz</placeName> undt <placeName ref="lub-places-53">Schan</placeName>, de dato <origDate>sancti Philippi
+                    <lb n="17"/>
+                    undt Jacobi tag 1516</origDate>.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

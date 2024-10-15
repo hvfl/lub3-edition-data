@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-19">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Streit um Gnossleute in Schellenberg und Eschnerberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: [AT-VLA, Rankweil Pfarrarchiv 203](https://lub.anton.ch/objects/113)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: [LI-LA, Schä U 31](https://lub.anton.ch/objects/15)</witness>
+          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: [AT-VLA, Feldkirch Vogteiamt 3345](https://lub.anton.ch/objects/19) / Entstehungszeitraum: 11. April 1654 in Feldkirch / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten, 1 Notariatssiegel aufgedrückt - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3345/charter?)</witness>
+          <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur: [AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v](https://lub.anton.ch/objects/1005)</witness>
+          <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: [AT-HAL, H 2637 unfol.](https://lub.anton.ch/objects/1117)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Im Streit zwischen Kaiser Maximilian und Graf Rudolf von Sulz  wegen der eingewanderten Gnossleute zu Rankweil und Sulz beziehungsweise Schellenberg und Eschnerberg wird von Hans von Königsegg, Vogt, Joachim von Stuben, Hubmeister, Hans Herburger, Hofschreiber zu Feldkirch, Hans Walser, Ammann zu Rankweil, und Christian Noll, Ammann am Eschnerberg, und Martin Steinhauser, Vogt zu Vaduz, entschieden, dass in obigen Gerichten die Untertanen unter bestimmten Bedingungen ihren Wohnsitz und dadurch ihren Herrn wechseln dürfen und die derzeitigen fremden Untertanen getauscht werden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-3">Ausbürger</term>
+          <term ref="lub-keywords-161">Fasnachtshenne</term>
+          <term ref="lub-keywords-162">Reichserbhofrichter</term>
+          <term ref="lub-keywords-185">Burgrecht</term>
+          <term ref="lub-keywords-74">Genossenschaft</term>
+          <term ref="lub-keywords-81">Dienst</term>
+          <term ref="lub-keywords-302">Heirat</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-309">Gut</term>
+          <term ref="lub-keywords-214">Gericht</term>
+          <term ref="lub-keywords-2">Freizügigkeit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-4">Habsburg, Maximilian I. von</persName>
+          <date when="1513-04-25">25. Apr 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1513-04-25">25. Apr 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="-lub-media-111" n="1"/><lb n="1"/>Kunndt und zu wissen sey allermenigklich mit disem offen briefe. Als sich lange zeit und jar biß auf heut dato vil irrungen und spän gehalten haben, zwischen dem allerdurchleuchtigisten, groß
+                    <lb break="no" n="2"/>mächtigisten fürssten unnd herren, herren <persName ref="lub-actors-4">Maximilian</persName> römischen kayßer, zu allen zeiten mehrer des <orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungarn</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croacien</placeName> etc. kunig, erzherzog zu Österreich, herzog zu <placeName ref="lub-places-120">Burgundi</placeName>, zu <placeName ref="lub-places-121">Brabant</placeName> und pfalz
+                    <lb break="no" n="3"/>grave etc., unßerm allergnedigisten herren alß erzherzogen zu Österreich unnd grave zu <placeName ref="lub-places-96">Tyrol</placeName>, auch dem wolgebornen herren, herren <persName ref="lub-actors-8">Ruedolfen grafen von Sulz</persName>, landtgrafe im <placeName ref="lub-places-18">Cleca</placeName>, hofrichter zu <placeName ref="lub-places-17">Rotweil</placeName> und herre zu <placeName ref="lub-places-7">Vaduz</placeName>, alß von wegen
+                    <lb n="4"/>der gnoßleuthen, so in seiner kayserlichen mayestätt gerichten <orgName ref="lub-actors-518">Ranckhweil unnd Sulz</orgName> sizen und wohnen, und dem jezgenandten graf <persName ref="lub-actors-8">Ruedolffen</persName> in seine ererbte herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> und am <placeName ref="lub-places-16">Eschnerberg</placeName> mit steuren, raißen, wachen,
+                    <lb n="5"/>vallen, faßnachthennen, tagwan unnd anderen diensten unnd obrigkhaiten bißher zuegehörig und underwürffig geweßen ahn ainem, und dann der gnoßleuthen, so in desselben graf <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> unnd am <placeName ref="lub-places-16">Eschner
+                    <lb break="no" n="6"/>berg</placeName> sizen unnd wonen, und gemelter kayßerlichen mayestatt mit aller dergleichen obrigkhaiten, wie obstet, in seiner mayestatt gericht <orgName ref="lub-actors-518">Ranckhweil und Sulz</orgName> gehören und dienstper seind, und hin und wider gegen und undereinander geheyrat haben
+                    <lb n="7"/>am andern tail. Desthalben sich zwischen baider taylen ahngezaigten gnossen auch etwo vil spänn unnd irrung gehalten haben, unnd zu gnediger und güetlicher hinlegung derselben spann unnd irrungen ist auß bevelch und verwilligung vorge
+                    <lb break="no" n="8"/>nanndter römischer kayßerlicher mayestatt, auch graf <persName ref="lub-actors-8">Ruedolffen von Sulz</persName>, durch die wolgebornen, edlen, vessten, ersamen, weyßen herren <persName ref="lub-actors-3">Hannßen von Königsegg</persName> freyherren zum Königseggerberg, seiner kayßerlichen mayestatt rathe
+                    <lb n="9"/>und diser zeit vogt zu <placeName ref="lub-places-10">Veldtkhirchen</placeName>, <persName ref="lub-actors-18">Joachim von Stuben</persName>, huebmaister daselbs, auch <persName ref="lub-actors-19">Hanßen Herburger</persName>, derzeit hoffschreiber, unnd <persName ref="lub-actors-20">Hanßen Walßer</persName>, landaman zu <placeName ref="lub-places-40">Ranckhweil</placeName>, mitsambt etlichen gerichtsleuthen daselbs, alß kayßerlicher maye
+                    <lb break="no" n="10"/>statt thailß. Und dann <persName ref="lub-actors-14">Cristan Nollen</persName>, graf <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> amman am <placeName ref="lub-places-16">Eschnerberg</placeName>, unnd <persName ref="lub-actors-21">Marthin Stainhaußer</persName>, unndervogt zu <placeName ref="lub-places-7">Vaduz</placeName>, ain aufrichtiger, entlicher unnd beständiger vertrag gemacht, beschlossen unnd durch baid obgenant
+                    <lb n="11"/>thail angenomen. Nemlichen also wie hernach volgt, daß der vorgedacht graff <persName ref="lub-actors-8">Ruedolff von Sulz</persName>, jez von stund ahn alle seine gnoßleuth, mann unnd frauen, jung unnd alt personen, so ime, gemelten graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName>, mit aigen
+                    <lb break="no" n="12"/>schafft, steuren, raißen, wachen, vällen, tagwann, faßnachthennen unnd allen andern diensten unnd obrigkhaiten bißher verpunden unnd pflichtig gewesen sein unnd zuegehört haben, unnd in bemelter kayßerlicher
+                    <lb n="13"/>mayestatt gericht <orgName ref="lub-actors-518">Ranckhweil unnd Sulz</orgName> sizen und wohnen, oder noch hinfüro in khünfftig zeit auß bemelts graf <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-16">Eschnerberg</placeName> darein ziechen und darinn wohnen
+                    <lb n="14"/>würden, aller aigenschafft, glüpt, ayd, steuren, raißen, vällen, faßnachthennen, tagwann, wachen und aller anderen diensten unnd obrigkhaiten, ganz frey, ledig zählen unnd uhnahnsprächig bleiben lassen
+                    <lb n="15"/>soll, unnd daß sich nufüro desselben graff <persName ref="lub-actors-8">Ruedolffen</persName> angezaigte gnoßleuth mit allen obgemelten obrigkhaiten gegen gedachter kayßerlicher mayestatt, derselben erben unnd nachkhommen, wie ander ihr maye
+                    <lb break="no" n="16"/>statt unnderthanen, inn denselben gerichten <orgName ref="lub-actors-518">Ranckhweil unnd Sulz</orgName> gesessen sein, verdienen und halten sollen. Da entgegen unnd hinwiderumb so sollen, auch hinfüro in ewig zeit, alle die gnoßleuth, jung
+                    <lb n="17"/>unnd alt, mann unnd frauen, so in bemelter kayßerlicher mayestatt gerichten <orgName ref="lub-actors-518">Ranckhweil unnd Sulz</orgName> gehört haben, unnd in bemelts graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> unnd gericht am
+                    <lb n="18"/><placeName ref="lub-places-16">Eschnerberg</placeName> sizen unnd wohnen, oder noch khünfftigelichen auß bemelter kayßerlicher mayestatt gerichten <orgName ref="lub-actors-518">Ranckhweyl unnd Sulz</orgName> daselbs hin in die herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-16">Eschnerberg</placeName> khomen, ziechen
+                    <lb n="19"/>unnd daselbs wohnen würden, auch die so zu <placeName ref="lub-places-10">Veldtkhirchen</placeName> bürger gewesen sein, unnd ihre burgkhrecht aufgeben hetten, oder hinfuro aufgeben unnd in des gemelten graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> obberuert herr
+                    <lb break="no" n="20"/>schafften <placeName ref="lub-places-11">Schellenberg</placeName> unnd gericht am <placeName ref="lub-places-16">Eschnerberg</placeName> ziechen unnd wohnen würden, von kayßerlicher mayestatt unnd seiner mayestatt ambt- unnd gnoßleuthen, ir glüpt, ayd unnd aller ander vorge
+                    <lb break="no" n="21"/>melten diensten unnd obrigkhaiten, auch ganz frey, ledig unnd uhnahnsprächig gezöhlt unnd gesagt werden, also, daß sie gemeltem graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName>, seinen erben und denen, so sollich herrschafften hin
+                    <lb break="no" n="22"/>füran innhaben unnd besizen werden, auch alles das thuen unnd pflichtig sein sollen, wie ander desselben graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> aigen leuthen in seinen herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> unnd gericht am <placeName ref="lub-places-16">Eschnerberg</placeName>
+                    <lb n="23"/>zu thuen schuldig seindt. Doch ist hierinnen weiter beredt und außgeschlossen, daß des vorgemelten graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> aigen leuth in den gedachten seinen herrschafften <placeName ref="lub-places-11">Schellenberg</placeName>, ihren freyen zug
+                    <lb n="24"/>haben sollen, inn sollicher formb unnd maaß, wie hernach volgt. Also wann ainer oder mehr auß bemelten herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> oder gericht am <placeName ref="lub-places-16">Eschnerberg</placeName>, in die gericht <orgName ref="lub-actors-518">Ranckhweil unnd Sulz</orgName> ziechen würden,
+                    <lb n="25"/>sovil er pfundt oder schilling pfening inn derselben gnoß, darinn er gesessen, gesteurt hat, umb sovil pfundt pfening oder schilling soll er gelegens guett hinder sein in derselben gnoß, darauß er zogen ist, ohn irrung ligen unnd
+                    <lb n="26"/>beleiben lassen zu versteuren. Dergleichen in allem form unnd maaß, wann ainer oder mehr auß den gerichten <orgName ref="lub-actors-518">Ranckhweil und Sulz</orgName> inn die herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> oder <placeName ref="lub-places-16">Eschnerberg</placeName> ziechen würde, soll auch sovil ge
+                    <lb break="no" n="27"/>legens guett hinder sein ligen unnd beleiben lassen, alß er gesteuret hat, wie dann vorgemelt ist. Dieweil sich aber durch clärlichem schein erfunden hat, daß gemelter graff <persName ref="lub-actors-8">Ruedolff von Sulz</persName> mehr aigen leuth in gedachter
+                    <lb n="28"/>kayßerlicher mayestatt gericht <orgName ref="lub-actors-518">Ranckhweil und Sulz</orgName> sizen und wohnen gehept hat, dann kayßerlich mayestatt in sein, des von <persName ref="lub-actors-8">Sulz</persName>, gerichten <placeName ref="lub-places-11">Schellenberg</placeName> unnd am Eschnerberg, so hat die vorgemelt römisch kayßerlich mayestatt
+                    <lb n="29"/>durch vorgenanndten ihr mayestatt huebmaister <persName ref="lub-actors-18">Joachim von Stuben</persName>, mehrgedachtem graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> zu rechter aufgaab also bahr geben, bezalt und außgericht, benanndtlichen hundert unnd zwainzig guldin reinisch,
+                    <lb n="30"/>unnd darzuo noch deß gemelten graff <persName ref="lub-actors-8">Ruodolffen</persName> gnoßleuthen am gericht <placeName ref="lub-places-16">Eschnerberg</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> zu erstattung des abgangs deren persohnen, so durch disen vertrag der gemelten gnoß und steur durch disen wechßel ent
+                    <lb break="no" n="31"/>zogen werden, geben hundert unnd zwainzig pfundt pfening cosstenzer münz veldtkhircher wehrung. Unnd deß alles zu wahrem unnd stettem uhrkhundt, so sindt diser verträg zween gleich lauthendte brieff ge
+                    <lb break="no" n="32"/>macht, unnd unnder vorgemelter kayserlicher mayestatt, auch graff <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> ahnhangenden ynnsiglen aufgericht unnd verfertigt, darunder wür, vorgemelter kayßer <persName ref="lub-actors-4">Maximilian</persName> unnd ich, graff
+                    <lb n="33"/><persName ref="lub-actors-8">Ruedolff von Sulz</persName>, unnß verpünden, alles daß, so vorstehet, vesst unnd stätt zu halten. Geschehen am <origDate>montag nach st. Georgen des heyligen ritters tag, nach Christi gepurth fünffzehenhundert unnd in dem drey
+                    <lb break="no" n="34"/>zechenden jahr</origDate> etc.
+                </p>
+        <p><lb n="35"/>Das ich, endts benanndter kayßerlicher notarius, dise copey von dem rechten, wahren, sowohl ahn handtschrifft unnd pergament, alß auch ahnhangenden kayßerlichen unnd
+                    <lb n="36"/>gräfflichen innsiglen, ganz ohnversehrten original vertragsbrieff mit aigner handt gemacht, unnd demselben auf beschechnes vleissiges yberleßen unnd collationieren, durchauß von worth
+                    <lb n="37"/>zu worth gleichlauthendt befunden worden seye, bezeuge ich mit meinem hienebenstehenden notariatzaichen, ahnhangendem innsigel und unnderzognen namen, tragenden ambts halber hier
+                    <lb break="no" n="38"/>umben gebührendt requiriert unnd erpeten. Beschechen zu <placeName ref="lub-places-10">Veldtkhirch</placeName>, den <origDate>ailfften monatstag April anno Domini aintaußendt sechßhundert vierundfünffzig, indictione septim</origDate>.
+                    <lb n="39"/><persName ref="lub-actors-219">Martinus Tatt</persName> burger und des raths
+                    <lb n="40"/>auch notarius caesareus daselbsten manu propria
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-110" n="1"/><lb n="1"/>Wegen
+                    <lb n="2"/>herschafft <placeName ref="lub-places-11">Schellenberg</placeName><lb n="3"/>freyzügigkheit.
+                    <lb n="4"/>No. 11
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

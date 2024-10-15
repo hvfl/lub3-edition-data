@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-486">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>St. Luzi verleiht Lehen am Eschnerberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [AT-TLA, U I 4576](https://lub.anton.ch/objects/486) / Originaldatierung: 1. Juli 1525 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abt Theodol des Klosters St. Luzi verleiht Brosi Herwert und seiner Ehefrau Ursula Abrecht, sesshaft in Mösma am Eschnerberg, den Hof und Weingarten zu Mösma am Kapf mit allem Zugehörenden (vormals Lienhart am Kapf verliehen) als Lehen gegen einen jährlichen Zins von sieben Scheffel Weizen, fünf Scheffel Gerstenkorn und dem halben Weinertrag.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-172">Gerste</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-333">Hof</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-138">Wein</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-657">Schlegel, Theodul</persName>
+          <date when="1525-07-01">1. Jul 1525</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-558" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-657">Theodolus</persName>, von gottes gnaden appt, unnd der prior unnd ganntz convent gemainklich des gotshus zü <orgName ref="lub-actors-337">Sant Lutzin</orgName> praemonstrater ordens, ob der statt
+                    <lb n="2"/><placeName ref="lub-places-175">Chur</placeName> gelegen, bekennend unnd thund kund allermengklich mit dem brieffe, das wir mit gutter zyttiger vorbetrachtung unnd ainhelligem ratt unnsers convents
+                    <lb n="3"/>für unns und all unnser nachkomen vorgemelts gotzhus ze ainem rechten liblechen recht und redlich verlichen habend unnd lichent, ouch yetz und wüssent
+                    <lb break="no" n="4"/>lich in krafft und macht dis brieffs nach liblechens recht, sitt und gewonhait, den erberen <persName ref="lub-actors-658">Bros Herwert</persName> und <persName ref="lub-actors-659">Ursula Abrichtin</persName>, siner efröwen, seß
+                    <lb break="no" n="5"/>hafft zu <placeName ref="lub-places-37">Müsna</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName> unnd allen iren elichen kinden, die sy yetz und by ainandern habend, oder dero gott sy fürohin noch by ainandern beueten
+                    <lb n="6"/>unnd denselben iren kindts kinden und nit füro unnsers yetz gedachten gotzhus hienach benempten aignen gütter. Namlichen der hoff ze <placeName ref="lub-places-37">Müsna</placeName> am
+                    <lb n="7"/><placeName ref="lub-places-257">Kapff</placeName> zu dem ersten hus, hoff, stadel und hoffwitti, acker, wysen unnd die pünthen umb das hus mitsampt den riettmäderen, alles als zyl und
+                    <lb n="8"/>marckstain aigentlich ußwysent, an allen ortten, alles mit gründ, mit gratt, mit steg, mit weg, mit holtz, mit feld, mit tach, mit gemach, mit zimmer
+                    <lb n="9"/>und mit gemur, mit wasser und wasserleittin, unnd namlich mit allen rechten, frücten, nützen, begriffungen, gütten, gewonhaitten und zugehörungen,
+                    <lb n="10"/>sodann von alter und gutter gewonhait her darzu gehört, gehören sol und mag, unnd <placeName ref="lub-places-257">Liennhart am Kapff</placeName> vor in ingehept hat, nichtz ußgenomen,
+                    <lb n="11"/>noch hindan gesetzt. Also und mit söllichem rechten geding, das die benantten emenschen, ouch ire kind unnd kinds kind, die obgeschribnen gütter alle,
+                    <lb n="12"/>wie sy genempt sind, mit allen rechten und zugehörungen, wie obstat, zu ainem liblechen und einfüro innhaben, nützen, niessen, bruchen, <gap/>,
+                    <lb n="13"/>besetzen und entsetzen unnd aber ouch in gütten, eern unnd rechten nützlichen und bestantlichen bruchen, uff hallten und haben söllen und mögen, wie
+                    <lb n="14"/>inen fügt und eben ist, unnd söllend unns und unnsern nachkommen hinnenthin järlichs unnd eines jeden jars allweg besonder uff unnser
+                    <lb n="15"/>lieben fröwen tag ze der liechtmeß, ald in den nächsten acht tagen darnach ze ainem rechten liblechen zinß richten, geben und bezalen siben
+                    <lb n="16"/>schöffel waitzen unnd fünff schöffel gersten korn, alles gut uber wolgewanterts koufnamb gutt veldkircher mäss und das zu unsers
+                    <lb n="17"/>gotzhus amptman, oder aman, wer je der ist, hannden und gen <placeName ref="lub-places-36">Bendern</placeName> antwurten, on allen abgang, verlurst, costen und schaden und gantz
+                    <lb n="18"/>on all irrung, intrag und widerred. Item wytter und mer, so habent wir inen ouch hiemit gelichen und verlihen, in söllicher form und mainung,
+                    <lb n="19"/>als obbegriffen ist, unsern wingartten, ouch in obgestimptem hoff ze <placeName ref="lub-places-37">Müßna</placeName> gelegen und vergriffen und aller siner zugehörd, und mit den
+                    <lb n="20"/>rechten, als die andern obgemelten gütter habend, unnd mitsampt dem <persName ref="lub-actors-658">Bro</persName>, so dann ettlich mayer darinn ze geben schuldig sind, unnd darinen
+                    <lb n="21"/>söllend sy unns und unsern nachkomen alle jär jerlichs, ye zu herpst under der rinnen richten und geben den halben tail, alles des unns
+                    <lb n="22"/>so järlichs in obgerürtem weingartten gewachsen ist, denselben söllend wir oder unnsers gotzhus amptlut daselbs entpfachen unnd
+                    <lb n="23"/>nemen unnd söllent aber den gemelten wingartten ouch in gutten eren und rechten zimlichen buwen, hallten und haben, wie die andern
+                    <lb n="24"/>gütter und obbegriffen ist. Welches järs sy aber unns, oder unsern nachkomen, den obgenämpten liblechen zinß, oder den halbtail win nit
+                    <lb n="25"/>richtend <gap/> und gebend, uff zyl und tag, und <gap/> wie obstat, oder unsern gutten willen, darumb <gap/> oder ouch die
+                    <lb n="26"/>obgeschriebnen gütter, alle nit in gutten eren und buwen, hie lend, als oblut, so sind die obgeschribnen gütter, alle mitsampt hus, hoff,
+                    <lb n="27"/>stadel und hoffraitte, mit allen iren rechten und zugehörungen, unnd allem dem daruff und daran gebuwen und erbessert, unns und unsern
+                    <lb n="28"/>nachkomen des vorgenantten gotzhus widerumb zu hannden und gwalltsami, gantz ledigklich vervallen und zinßfellig worden, innzuhaben,
+                    <lb n="29"/>ze nützen und ze niessen, ze besetzen und entsetzen, nach unserm gevallen, wie wir wellend, on vermögklichs irrung, intrag und widerred, wir
+                    <lb n="30"/>und unser nachkomen söllen und wöllen ouch den vorgesaitten emenschen unnd irn kindern und kinds kinden, umb die obgeschribnen gütter,
+                    <lb n="31"/>allesampt iro liblechen, mit allen rechten und zugehörungen, wie vorstat, gutt, getrew wären und versprächer sin, gegen mengklichem an
+                    <lb n="32"/>unnserm, oder unser nachkomen aigen costung und ganntz on iren schaden, alles by gutten truwen, on alle widerred und gewörd. Welthind
+                    <lb n="33"/>aber die genantten emenschen, ir kind und kinds kind, die obgeschribnen stucke gütter, iro liblechen, ains oder mer, uber kurtz oder lang
+                    <lb n="34"/>zytt yemant versetzen, oder zu kouffen geben, das söllent sy uns, oder unsern nachkomen ain monat vorhin zu wüssen und kund thun,
+                    <lb n="35"/>und vor mengklichem anpietten, ob wir darzu ston und thun wellen, ain pfund pfening nächer, dann yemandts sunst geben und
+                    <lb n="36"/>gunnen. Welchen aber wir in monatsfrist nach irem anpietten und verkunden zu recht nit koffen noch verpfenden, so mögent
+                    <lb n="37"/>sy dannenhin ir recht verkoffen oder versetzen, wem oder wohin sy wellend, doch unns und unsern nachkomen an unsern gerechtig
+                    <lb break="no" n="38"/>kaitten, zinß und des liblechens, in allweg gantz unvergriffen unnd unschedlich, unnd des zu warer urkhund, so habent wir unser
+                    <lb n="39"/>appthn und des convents insigel für uns und unser nachkomen, baide offennlich gehengt an disen brieff, der geben ist <origDate>sampstags
+                    <lb n="40"/>nechst nach Petri und Pauli apostoli, als man zallt nach der gepurt Cristi funffzechen hundert zwaintzig und funff jar</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-559" n="1"/><lb n="1"/>Lehenbrieff
+                    <lb n="2"/>von dem löblichen gottshauß <orgName ref="lub-actors-337">S. Lucii</orgName> gegen <persName ref="lub-actors-658">Ambrosi
+                    <lb n="3"/>Herwert</persName> wegen übergab deß <placeName ref="lub-places-257">Kapffß</placeName> sambt wein
+                    <lb break="no" n="4"/>garthen und güetteren uff <placeName ref="lub-places-37">Müsnen</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName> gelegen.
+                    <lb n="5"/>Darauß jährlich uff liechtmess 7 schöffel waizen, 5 schöffel
+                    <lb n="6"/>gersten sambt dem halben wein.
+                    <lb n="7"/>Sub <persName ref="lub-actors-657">Theodolo</persName> abbate <orgName ref="lub-actors-337">S. L.</orgName> anno 1525
+                    <lb n="8"/>L.
+                    <lb n="9"/>Nr. 19.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

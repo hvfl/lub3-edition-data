@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-611">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung des Blutbanns an Graf Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-611">LI-LA, Schä U 79</ref> / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt / Unter der Plica Unterschriften von Kaiser Rudolf II. und von Jakob Kurtz von Senftenau, Verwalter der Reichshofkanzlei, auf der Plica mit dem Vermerk "Ad mandatum sacrae caesareae maiestatis proprium" Unterschrift des Sekretärs Johann Engelhofer / Auf der Rückseite Registraturvermerk von Georg Pichl von Pichlberg und Taxvermerk von Werner Braitschwert (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-129">AT-VLA, Blumenegg Reichsherrschaft 6913</ref> / Beschreibstoff: Papier</witness>
+          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-23">AT-ÖStA, HHStA, Reichshofrat, Gratialia et Feudalia, Reichslehensakten deutsche Expedition 187 unfol.</ref> / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: Schädler, Regesten, S. 120-122 \(online auf [e-archiv.li](https://www.e-archiv.li/D48470)\)</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaiser Rudolf II. verleiht Graf Karl Ludwig von Sulz den Blutbann in den Herrschaften Vaduz, Schellenberg und Blumenegg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-304">Hochgerichtsbarkeit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-27">Habsburg, Rudolf II. von</persName>
+          <placeName ref="lub-places-25">Prag</placeName>
+          <date when="1587-06-17">17. Jun 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-499" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-27">Rudolff der ander</persName>, von gottes gnaden erwelter römischer kaiser,
+               <lb n="2"/>zu allen zeitten merer des <orgName ref="lub-actors-516">reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Behaim</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName> und <placeName ref="lub-places-294">Sclavonien</placeName> etc. künig, ertzhertzog zu <placeName ref="lub-places-295">Österreich</placeName>, hertzog zu <placeName ref="lub-places-120">Burgundi</placeName>, zu <placeName ref="lub-places-121">Brabant</placeName>, zu <placeName ref="lub-places-259">Steyr</placeName>,
+               <lb n="3"/>zu <placeName ref="lub-places-260">Kärndten</placeName>, zu <placeName ref="lub-places-261">Crain</placeName>, zu <placeName ref="lub-places-296">Lutzemburg</placeName>, zu <placeName ref="lub-places-263">Wirtemberg</placeName>, <placeName ref="lub-places-297">Ober</placeName> und <placeName ref="lub-places-298">Nider Schlesien</placeName>, fürst zu <placeName ref="lub-places-78">Schwaben</placeName>, marggrave des <orgName ref="lub-actors-516">Heiligen Römischen Reichs</orgName> zu <placeName ref="lub-places-299">Burgaw</placeName>, zu <placeName ref="lub-places-300">Märhern</placeName>, <placeName ref="lub-places-302">Ober</placeName> und <placeName ref="lub-places-301">Nider
+               <lb n="4"/>Lausnitz</placeName>, gefürster grave zu <placeName ref="lub-places-303">Habspurg</placeName>, zu <placeName ref="lub-places-96">Tyrol</placeName>, zu <placeName ref="lub-places-304">Pfirdt</placeName>, zu <placeName ref="lub-places-305">Kiburg</placeName> und zu <placeName ref="lub-places-306">Görtz</placeName> etc., landtgrave in <placeName ref="lub-places-307">Elsaß</placeName>, herr auf der <placeName ref="lub-places-308">Windischen <gap/>arck</placeName>, zu <placeName ref="lub-places-309">Portenaw</placeName> und zu <placeName ref="lub-places-310">Salins</placeName> etc., bekennen
+               <lb n="5"/>offentlich mit disem brief und thuen kundt allermenigclich, das unns der wolgeborn, unser und des <orgName ref="lub-actors-516">reichs</orgName> erbhofrichter zu <placeName ref="lub-places-17">Rottw</placeName> <gap/>nd lieber getrewer <persName ref="lub-actors-13">Carl Ludwig, graf zu Sultz</persName> und landt
+               <lb break="no" n="6"/>graf im <placeName ref="lub-places-18">Kleggew</placeName>, underthenigclich angerueffen und gebetten, das wir ime den bann, über das bluedt zurichten, in seinen herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blumenegg</placeName>, so von unns und dem
+               <lb n="7"/><orgName ref="lub-actors-516">Heiligen Reich</orgName> zu lehen rürt und von den <orgName ref="lub-actors-744">freyherrn zu Brandiß</orgName> an seine voreltern und ine komen und ime vermög deren zwischen ime und seinen bruedern getroffnen bruederlichen abthailung
+               <lb n="8"/>und vergleichung von unns als regierendem <orgName ref="lub-actors-516">römischen kaiser</orgName> von newem zu lehen zuersuechen und zuempfahen gepürt, zu lehen zuverleihen gnedigclich geruchten. Deß
+               <lb n="9"/>haben wir angesehen sein, <persName ref="lub-actors-13">graf Carl Ludwigs zu Sultz</persName>, diemutig zimlich bitt, auch die gehorsamen, threwen und willigen dienste, so seine voreltern und vatter unsern löblichen vorfahrn am <orgName ref="lub-actors-516">Heili
+               <lb break="no" n="10"/>gen Reiche, römischen kaisern und kunigen</orgName> yederzeit unverdrossenlich erzaigt und bewisen haben und er unns und dem <orgName ref="lub-actors-516">Heiligen Reiche</orgName> gleicher gestalt thuet und hinfüro zuthuen gehorsam
+               <lb break="no" n="11"/>lich urpüttig ist, auch wol thuen mag und solle, unnd darumb mit wolbedachtem mueth, guetem rath und rechter wissen ermeltem <persName ref="lub-actors-13">Carl Ludwigen graven zu
+               <lb n="12"/>Sultz</persName> berürten bluedtbann in den dreyen herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blumenegg</placeName> von newem zu lehen gnedigclich verlihen, leihen ime den auch aus <orgName ref="lub-actors-516">römischer kaiserlicher</orgName> macht vol
+               <lb break="no" n="13"/>komenhait wissentlich in crafft diß brieffs, was wir ime von rechts und pilligkait wegen daran zuverleihen haben, sollen und mögen, also, das er angeregten bann, uber
+               <lb n="14"/>das bluedt zurichten, von unns und dem <orgName ref="lub-actors-516">Heiligen Reiche</orgName> in lehensweis inhaben, nutzen, niessen und geprauchen, auch denselben fürtters seinen amptleuten, die er yederzeit für geschickt und tauglich
+               <lb n="15"/>achten und befinden wurdet, so offt es die notturfft erfordert, an seiner statt bevelhen, damit bey dem ayde, so er unns, wie hernach stehet, darumb gethan, und als sich gepürt von denselben seinen
+               <lb n="16"/>amptleuthen auch nemmen solle, zuhandlen, richten und zuvolfaren gegen dem armen als dem reichen und dem reichen als dem armen und darin nit anzusehen gunst, forcht, freundtschafft, vheindt
+               <lb break="no" n="17"/>schafft, mueth, gaab noch gantz kainander sachen, dann allain gerechts gericht und recht, inmassen das ain yeder gegen gott dem allmechtigen an dem letzten gericht verantwortten will, doch
+               <lb n="18"/>unns und dem <orgName ref="lub-actors-516">Heiligen Reiche</orgName> an unsern und sonst menigclich an seinen rechten und gerechtigkaiten unvergriffen und unschedlich. Der mehrgenant graf <persName ref="lub-actors-13">Carl Ludwig zu Sultz</persName> hat unns auch darauf
+               <lb n="19"/>durch seinen vollmechtigen anwaldt, den wolgebornnen, unsern und des <orgName ref="lub-actors-516">reichs</orgName> lieben getrewen <persName ref="lub-actors-745">Albrechten, graven zu Fürstenberg, Heiligenberg und Werdenberg</persName>, unserm rath unnd
+               <lb n="20"/>camerer, in crafft seines unns fürgebrachten schrifftlichen gwaldts gewöndtlich glübt und aydt gethan, unns unnd dem <orgName ref="lub-actors-516">Heiligen Reich</orgName> getrew, gehorsam und gewerttig zu sein, zu dienen
+               <lb n="21"/>und zuthuen, als sich von solchem lehen gepürt, alles threwlich und ungeverlich. Unnd gepieten darauf allen und yegclichen churfürsten, fürsten, geistlichen
+               <lb n="22"/>und weltlichen, prelaten, grafen, freyen, herrn, rittern, knechten, hauptleuthen, landtvögten, vitzdomben, vögten, pflegern, verwesern, amptleuthen, schuldthaissen, burgermaistern, richt
+               <lb break="no" n="23"/>ern, räthen, burgern, gemainden und sonst allen andern unsern und des <orgName ref="lub-actors-516">Hailigen Reichs</orgName> underthanen und getrewen, was wirden, standts oder wesens die seind, ernstlich und vestigclich mit
+               <lb n="24"/>disem brieff, unnd wollen, das sy offtgedachten <persName ref="lub-actors-13">graf Carl Ludwigen zu Sultz</persName> an der obgeschribnen unser verleihung nit irren noch hintern, sonder im
+               <lb n="25"/>deren, wie obsteet, geruhigclich geprauchen, geniessen und gentzlich dabey bleiben lassen, als lieb ainem yeden sey, unser und des <orgName ref="lub-actors-516">Reichs</orgName> schwere ungnadt und straff und darzu ain peen,
+               <lb n="26"/>nemlich viertzig marck löttigs goldts, zuvermeiden, die ain yeder, so offt er frevenlich hiewider thette, unns halb in unser und des <orgName ref="lub-actors-516">Reichs</orgName> camer und den andern halben thail vilernan
+               <lb break="no" n="27"/>tem <persName ref="lub-actors-13">graf Carl Ludwigen zu Sultz</persName> unnachleßlich zubetzallen verfallen sein solle. Mit urkundt diß brieffs, besigelt mit unserm kaiserlichen anhang
+               <lb break="no" n="28"/>enden insigel, geben auff unserm khunigclichen schloß zu <placeName ref="lub-places-25">Prag</placeName> den <origDate>sibenzehenden tag des monats juny nach Christi unsers lieben herrn und seligmachers geburth
+               <lb n="29"/>funffzehenhundert und im sibenundachtzigisten</origDate>, unserer reiche des <orgName ref="lub-actors-516">römischen</orgName> im zwelfften, des hungerischen im funffzehenden und des behaimischen auch im zwelfften jahren.
+            </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-696" n="1"/><lb n="1"/>Tax vierzig goltgulden
+               <lb n="2"/>unnd per cantzlei jura sechs.
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

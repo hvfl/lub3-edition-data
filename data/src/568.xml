@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-568">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Weinberg in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-568">LI-LA, Schä U 41</ref> / Originaldatierung: 30. November 1526 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich Batliner von Schönabüel am Eschnerberg und seine Frau Elsa Schreiber verkaufen Cosman Heberlein, Kaplan am St.-Katharinen-Altar in der Kapelle St. Florin in Vaduz, für 25 Pfund Pfennig einen Zins von 25 Schilling ab ihrem Weingarten und ihrer Hofstatt in Schönabüel.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-418">Batliner, Ulrich</persName>
+          <date when="1526-11-30">30. Nov 1526</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-509">Schreiber, Elsa</persName>
+          <date when="1526-11-30">30. Nov 1526</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-419">Meier, Hans</persName>
+          <date when="1526-11-30">30. Nov 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-476" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-418">Ulrich Patliner</persName>, sesshafft zu <placeName ref="lub-places-207">Schanenpuel</placeName> am <placeName ref="lub-places-16">Eschnerperg</placeName>, und ich <persName ref="lub-actors-509">Elsa Schreiberin</persName>, sein elihe hausfraw, bekhennen offenlih fur unns, all unsre erben 
+<lb n="2"/>und nahkhomen und thun khundt allermenigklih mit dissem brieff, das wir mit veraintem gutem willen wolbedacht, sonnder mit hand des ersamen weisen 
+<lb n="3"/><persName ref="lub-actors-861">Hans Mayern</persName>, der zeit aman in der herschafft <placeName ref="lub-places-11">Schellenperg</placeName>, recht und redlih verkhofft und zukhoffen geben haben und geben auh also hiemit in crafft ditz 
+<lb n="4"/>brieffs dem e<unclear>rbn</unclear> und gaistlihen herrn <persName ref="lub-actors-510">Cosman Heberlin</persName> als caplonen <persName ref="lub-actors-862">sandt Khathreinen</persName> altar zu <placeName ref="lub-places-1">Vadutz</placeName> in <placeName ref="lub-places-210">Sandt Floris Khirhen</placeName> und allen seinen nah
+<lb break="no" n="5"/>khomen nemlih feunff und zwaintzig schilling phenig guter und genemer <placeName ref="lub-places-101">Cosstenzer</placeName> münz <placeName ref="lub-places-10">Veldkhirher</placeName> werung rechts ewigs und järlihs zeins und
+<lb n="6"/>phnig gelts von usser und ab unserm aigen weingarten, auh zu <placeName ref="lub-places-207">Schanenpuel</placeName> gelegen, stosst abwert an <persName ref="lub-actors-861">Hans Mayern</persName>, zur andern an <persName ref="lub-actors-401">Jerig Brendli</persName>, 
+<lb n="7"/>zur dritten an mih, obgenanten verkhoffer, ist ledig und los, allain gat darab acht phenig ainem pharrer und acht zechen phenig <persName ref="lub-actors-1006">sandt Martin</persName> 
+<lb n="8"/>zu <placeName ref="lub-places-35">Eschach</placeName>, item mer ab unser aigen hofstat, auh daselbst gelegen, stosst zur ainen an <orgName ref="lub-actors-337">Sandt Lucis</orgName>, zur ander an der <orgName ref="lub-actors-7">herschafft</orgName> gut, zu zwayen and stras, 
+<lb n="9"/>ist auh gantz frey, ledig und los, und vormals paide gegen menigklih unverkhumbert und alles ab gerudt, gradt, wun, wayd, stikheln, reben, rebstal, stokh, 
+<lb n="10"/>stain, gestudt, gerudt, gengen, stegen, wegen und gemainklih ab allen andern iren rehten und zugehorden, benempten und unbenempten. Und ist der ewig 
+<lb n="11"/>redlih khoff also beschehen und gethon worden umb veunffundzwaintzig pfund phenig obgenanter muntz und werung, dero wir von ime erberlih ausgericht 
+<lb n="12"/>und bezalt worden synd nah unserm guten beniegen. Und darumb so sellen und wellen wir, all unser erben und nahkhomen, inhaber der 
+<lb n="13"/>obgenanten guter die veunffundzwaintzig schilling phenig zeins dem obgenanten khoffer und allen seinen nahkhomen und caplonen des obgenanten altars nw 
+<lb n="14"/>hyn und hyn ewigklih und je järlih uff <term ref="lub-keywords-365">sandt Martins tag</term>, acht tag vor oder nah ungefarlih, tugenlih richten, zeinsen und zu iren sihern handen und 
+<lb n="15"/>gewalte gen <placeName ref="lub-places-1">Vadutz</placeName> geben und antwurten fur allermenigklihs hefften, verpieten und entweren, und gantzlih on allen iren cossten und schaden. Wann, wie 
+<lb n="16"/>oder welihs jars das aber also nit bescheche, uber khurtz oder lang zit, so synd inen die obgenanten guter als ir underphand gantz zeinsfellig wor
+<lb break="no" n="17"/>den und da<unclear>ne</unclear>thin mit grundt, gradt und mit allen iren rechten und zugehorden zu rehtem ewigem aigen imermer gefallen und verfallen, one uns,
+<lb n="18"/>unser erben und nahkhomen und allermenigklihs irrung und widersprehen. Und haruff ditz ewigen redlihen khoffs umb zeinsfelligin und 
+<lb n="19"/>für ald abgeng der obgenanten underphangen, auh hoptguts, zeins und schadens und aller obgenanten ding sellen und wellen wir, all unser erben 
+<lb n="20"/>und nahkhomen des obgenanten khoffers und allen seinen nahkhomen caplonen des obgenanten althars reht, gut und getrew khrefftig weren, fur
+<lb break="no" n="21"/>standt und verspreher sein vor dem rihter und geriht, darinn genante guter gelegen synd, wann, gegen wem als dikh und vyl sy der nah dem rehten
+<lb n="22"/>imer noturfttig werden, alweg in unserm aigen cossten, on iren schaden, by guten trewen, on all widerred, auszug und geferde. Und wewol 
+<lb n="23"/>disser brieff ainen ewigen khoff ausweist, danoht mugen wir, all unser erben und nahkhomen die bemelten veinff und zwaintzig schilling phenig 
+<lb n="24"/>zeins von dem obgenanten khoffer und allen seinen nahkhomen wol widerkhoffen und ablösen nw hinathin, welihs jars wir wellend, uber 
+<lb n="25"/>khurtz oder lang zeit, doh vor zeinsfal und alweg uff <term ref="lub-keywords-365">sandt Martins tag</term>, acht tag vor oder nah ungefarlih, samenthafft mit dem obgenanten hopt
+<lb break="no" n="26"/>gut, den veinff u<supplied>nd</supplied> zwaintzig phund phenig mitsampt allem gefallen aussteend zeins und och mit seliher müntz und werschafft, daran sy nit ver
+<lb break="no" n="27"/>lusst noh abgang haben, ob sih die müntz in der zeit verendern wurde, alles unngefarlih. Und dess alles zu warem und offem urkhundt
+<lb n="28"/>so haben wir obgenante verkhoffer vleissig gepetten und erpeten den vorgenanten aman <persName ref="lub-actors-861">Hans Mayern</persName>, das er sein aigen ynsigll, im 
+<lb n="29"/>und sein erben onschaden, fur uns, all unser erben und nahkhomen offenlih gehenkht hat an dissen brieff, der geben ist uff <origDate>sandt Andres 
+<lb n="30"/>des hailigen zwelffpoten tag nah Cristi, unsers lieben herrn, gepurt feunffzehenhundert und im sechsundzwaintzigissten jar</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-884" n="1"/><lb n="1"/><persName ref="lub-actors-418">Ulrih Patliners</persName><unclear>zeinsbrief</unclear><lb n="2"/>umb xxv <unclear>phund</unclear><lb n="3"/>soll <persName ref="lub-actors-923">Petter Wang<unclear>ner</unclear></persName><lb n="4"/>am <placeName ref="lub-places-16">Eschner berg</placeName><lb n="5"/><persName ref="lub-actors-862">st. Kathrin<unclear>en</unclear></persName><unclear>altar</unclear><lb n="6"/>anno 1528 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

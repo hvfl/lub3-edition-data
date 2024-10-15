@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-476">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Planken einerseits und Vaduz und Schaan andererseits um Ein- und Abzugsgebühren</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-476">LI-GAP, U 6</ref> / Originaldatierung: 7. Januar 1605 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: LI-GAS, U 16 / Entstehungszeit: 28. Juli 1763 / Beschreibstoff: Papier</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: LI-LA, RA 29/01/01 / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Räte und Oberamtleute der Herrschaften Vaduz, Schellenberg und Blumenegg entscheiden den Streit zwischen Planken einerseits und Vaduz und Schaan andererseits um die Ein- und Abzugsgebühren. Die Gebühren sollen künftig hälftig geteilt werden. Planken soll keinen Anteil am Saltnergeld und an der Riednutzung haben, und Schaan darf von Planken keinen Beitrag an Wuhrbau und Steuern verlangen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-262">Abgabe</term>
+          <term ref="lub-keywords-293">Zuzug</term>
+          <term ref="lub-keywords-292">Wegzug</term>
+          <term ref="lub-keywords-391">Saltner</term>
+          <term ref="lub-keywords-392">Anlage</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-227">Rainolt, Sigmund</persName>
+          <date when="1605-01-07">7. Jan 1605</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2195" n="1"/><lb n="1"/>Wir, des hochwolgebornen herrn, herrn <persName ref="lub-actors-13">Carle Lud
+<lb break="no" n="2"/>wigen graven zue Sultz</persName>, landtgraven im <placeName ref="lub-places-18">Cleggäw</placeName> etc., des <orgName ref="lub-actors-516">Heiligen Römischen Reichs</orgName> erbhoffrichter zue <placeName ref="lub-places-17">Rothweil</placeName>, herrn zue
+<lb n="3"/><placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Pfluomeneckh</placeName> etc., römischer kayserlicher majestät rath, obristen, hoffmarschalckh und hoffkriegs rath praesidenten etc., 
+<lb n="4"/>unnsers gnädigen herrn, landtvogt, rhät und <orgName ref="lub-actors-687">öber ampt</orgName>leüth der graff und herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und 
+<lb n="5"/><placeName ref="lub-places-12">Pfuomenegkh</placeName> etc., bekhennen offentlich hiemit und in crafft ditz briefs, als sich zwischen den gemaindten auf <placeName ref="lub-places-124">Planckhen</placeName>, 
+<lb n="6"/>in die pfarr zue <placeName ref="lub-places-53">Schan</placeName> gehörig, einß und den baiden dörffern <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> anderß thails etliche zweyungen 
+<lb n="7"/>unnd mißverständt erregt und zue getragen, umb und von wegen der ein und abz<supplied>ü</supplied>gen, spennen und andern auf <placeName ref="lub-places-124">Planckhen</placeName>, 
+<lb n="8"/>deren sie sich in der guete miteinanderen nit haben können vergleichen, sonder deßhalben auf heüt dato vor unß in den gewohnlichen 
+<lb n="9"/>wochenlichen verhör erscheinen und underthenig begert, sie von einander zuendtscheiden, daß auf hochgedachtß unseres gnädigen 
+  <lb n="10"/>herrn gnädig ratification und guet heissen wir von dem ampt auf ier trungeliche<supplied>n</supplied> an halten und pitten sie gegen<unclear>n</unclear>
+<lb n="11"/>einander volgender massen vertragen und verglichen: Daß nemblich zum ersten alle die ein- und abzüg auff 
+<lb n="12"/><placeName ref="lub-places-124">Planckhen</placeName> (außgenommen mer hochgesagtß unsers gnadigen herrn angebür) hin füro halbiert und darvon der ein
+<lb break="no" n="13"/>theil denen auf <placeName ref="lub-places-124">Planckhen</placeName> und der ander halb theil den baiden dörffern <placeName ref="lub-places-1">Vadutz</placeName> undt <placeName ref="lub-places-53">Schan</placeName> solle gevolgt und zue
+<lb n="14"/>gestelt werden. So viel aber zum anndern daß <term ref="lub-keywords-391">saltner</term> gelt anlangt, sollen die <placeName ref="lub-places-124">Planckhner</placeName> an dem selben noch ahn 
+<lb n="15"/>dem riedt (ausserhalb gemeiner mit atzung) nichts haben unnd deßgleichen die von <placeName ref="lub-places-53">Schan</placeName> der wuehren noch der ge
+<lb break="no" n="16"/>meinen <term ref="lub-keywords-392">anlag</term> halber, waß daß dorff betrifft, ausserhalb der gemeiner landts cösten durch die gantzen herr
+<lb break="no" n="17"/>schafften an die <placeName ref="lub-places-124">Planckhner</placeName> auch nichts suechen, und daß alleß andern brieffen und siglen ohn nachtheillig undt ohne
+<lb n="18"/>schaden. Damit dan beede partheien gantz wohl, zuefriden und content gewesen, auch die gemaindten auf <placeName ref="lub-places-124">Planckhen</placeName> 
+<lb n="19"/>inen dessen briefflich besiglet urkhundt zuegeben begert, welche inen mit mein, <persName ref="lub-actors-227">Sigmundt Rainoldtß</persName>, der zeit greff
+<lb break="no" n="20"/>lichen sultzischen landtvogt der zue anfangs gemelten herrschafften, anhangenden insigel (doch mir, meinen erben
+<lb n="21"/>und nachkhommen und zuevorderst hochgesagtß, meines gnadigen herrn, an ir gnaden privilegien und oberherlich
+<lb break="no" n="22"/>kheiten onhe schaden unnd ohne nachteilig) erkhandt. So geschehen bey der wochentlich verhör den <origDate>sybenden monaths tag
+<lb n="23"/>january im jar nach Christi geburth gezalt sechtzehenhundert undt fünffe</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-620">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Hauses und Hofes in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 4](https://lub.anton.ch/objects/620) / Originaldatierung: 17. März 1511 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Thomas Gottfried von Bregenz verkauft Gabriel Frick, Jörg Thöni und Josef Fritsch, den Pflegern der St.-Thomas-Pfrund in Schaan, für sich und seine Geschwister Haus, Hofraiti, Stadel und Einfang in Schaan, die sie von ihrer Base Gretha Müller geerbt haben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-28">Haus</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-487">Gottfried, Thomas</persName>
+          <date when="1511-03-17">17. Mär 1511</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1511-03-17">17. Mär 1511</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-516" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-487">Thomann Göpfrid</persName>, buorger zuo <placeName ref="lub-places-45">Bregenntz</placeName>, bekenn offennlich und thuon kundt allerrmengclich mit dem brief, das ich von wegen min selbs und och
+               <lb n="2"/>als volmächtiger gwalthaber miner lieben elichen geschwüstrigitten mit guotem wolbedachtem willen recht und redlich verköft und ze köffen geb
+               <lb break="no" n="3"/>en han an die pfruond oder caplony <persName ref="lub-actors-742">sant Thomans</persName> altars in der <placeName ref="lub-places-212">pfarrkilchen</placeName> zuo <placeName ref="lub-places-53">Schan</placeName> ains stäten ewigen koufs wissentlich inkraft diß briefs
+               <lb n="4"/>unser aigen hus, hofraiti, stadel, bömgartenn und infang zuo <placeName ref="lub-places-53">Schan</placeName> gelegen, wie wir dann das von unser lieben basen <persName ref="lub-actors-738">Greta Müllerin</persName> sälgen
+               <lb n="5"/>er erbt habend, stost ufwert an die landtsträß, vorna an der pfarr krutgarten vnd an der <persName ref="lub-actors-739">Schüchlerin</persName> hofstatt, unna an <persName ref="lub-actors-740">Peter Frummolts</persName> kind
+               <lb break="no" n="6"/>er guot und uswert an <persName ref="lub-actors-741">Eva Pitschin</persName> bömgarten, mit grund, grat, wunn, waid, zimber, gemür, tach, gemach, gebömen, zwyen, gengen, stegen
+               <lb n="7"/>und wegen und gemainlich mit allen anderen irn rechten und zuo gehörnden, benembten und unbenembten, und och für ledig los, usgenomm
+               <lb break="no" n="8"/>en, das an die gemelten pfruond ain pfund pfennig zins und ainem pfarrer zuo <placeName ref="lub-places-53">Schan</placeName> jarzit und denckgelt dry und zwaintzig pfennig järli
+               <lb break="no" n="9"/>ch darab gät, und sust von allerrmengclichem unverkümberrt. Und ist der ewig redlich kouff über der gemelten zins und jarzit gelt hoptguot
+               <lb n="10"/>beschechen umm zway und zwaintzig pfund ainn schilling und acht pfennig genämer <placeName ref="lub-places-10">Veltkircher</placeName> werung, deren ich von den erbren <persName ref="lub-actors-212">Gabriel
+               <lb n="11"/>Fricken</persName>, <persName ref="lub-actors-297">Jörgen Thöni</persName> und <persName ref="lub-actors-389">Jos Fritschen</persName> als pfleger der gemelten <persName ref="lub-actors-742">sant Thomans</persName> pfruond also bar bezalt worden bin nach minem guoten benüg
+               <lb break="no" n="12"/>en. Darumm söllen und mügend ain jeder caplon des gemelten <persName ref="lub-actors-742">sant Thomans</persName> altars das egemelt hus, hofraiti, stadel und bömgarten in iren obbe
+               <lb break="no" n="13"/>melten marcken nun fürohyn inhaben, besitzen, nutzen, niessen, versetzen, verköffen und in ander weg da mit der gemelten pfruond nutz und frommen
+               <lb n="14"/>mit irer pfleger wissen und willen schaffen, als mit ander der pfruond aigenn guot. Ich verzych mich öch für mich, mine geschwüstrigit und für unsre
+               <lb n="15"/>erben des alles und och der alten zwayen kofbriefen, darumm wysend mit allen iren inhaltungen, so wir bishär ingehebt und den genannten pfleg
+               <lb break="no" n="16"/>ern hie mit dem brief überantwurt habend, gentzlich usser unser in der gemelten pfruond och aines jeden caplons und irn pflegern und irn nach
+               <lb break="no" n="17"/>komen hand, gewer und gewalt, alles ungevarlich. Und des alles zuo wärem offem urkund han ich, obgenannter verköffer <persName ref="lub-actors-487">Thöman Göpfrid</persName>,
+               <lb n="18"/>flyssig ärbetten den ersamen und wysen <persName ref="lub-actors-296">Abrecht Wolfen</persName>, der zyt amann in der herrschaft <placeName ref="lub-places-7">Vadutz</placeName>, das är sin insigel, im und sinen erben öne schaden,
+               <lb n="19"/>für mich, mine geschwüstrigit und für alle unsre erben und nachkommen offenlich gehengkt hät an den brief, der geben ist <origDate>an menntag nach
+               <lb n="20"/>dem sunntag reminiscere in der vasten nach Cristi gebürt fünfzechenhunderrt und ainlf järe</origDate>.
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

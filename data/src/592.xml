@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-592">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Wein- und Obstgarten in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-592">LI-LA, Schä U 60</ref> / Originaldatierung: 25. Januar 1550 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Christian Bertsch von Triesen verkauft Wolfgang Brandiser, Kirchenpfleger der Kapelle St. Florin in Vaduz, für 20 Pfund Pfennig einen Zins von 1 Pfund, den er von Anna Meissner erhalten hat und der laut einer Urkunde vom 22. Februar 1538 auf dem Wein- und Baumgarten von Lienhart Liffer und seiner Frau Margarethe Gantner in Triesen haftet.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-284">Obstgarten</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-448">Bertsch, Christian</persName>
+          <date when="1550-01-25">25. Jan 1550</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-53">Lang, Marx</persName>
+          <date when="1550-01-25">25. Jan 1550</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-484" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-448">Cristan Pertsch</persName>, seßhafft zu <placeName ref="lub-places-79">Trissern</placeName> im dorff, bekenn offenntlich und thue khundt aller menigkhlich mit disem prieve, das 
+<lb n="2"/>ich mit guettem willen, wolbedaht sin unnd guette, sonnder mit hanndt des ersamen weysen <persName ref="lub-actors-53">Marxen Lanngen</persName>, der zeyt meiner genedigen 
+<lb n="3"/>herschafft zu <placeName ref="lub-places-7">Vadutz</placeName> aman, reht unnd redtlihen verkaufft unnd zu kauffen geben haben und gib auch jetzo wissenntlich in crafft ditz prieffs 
+<lb n="4"/>krefftig fur mich, all mein erben und nahkomen dem ersamen unnd gaysstlihen herrn <persName ref="lub-actors-449">Wolffen Branndiser</persName> in namen und von wegen 
+<lb n="5"/>deß lieben heylligen unnd himelfurssten <placeName ref="lub-places-210">Sannt Floris Cappel</placeName> zu <placeName ref="lub-places-1">Vadutz</placeName> als diser zeyt rehter kurchen pfleger und allen seinen nachkomend 
+<lb n="6"/>pflegern aines stetten, vössten, ewigen kauffs, nemlihen mein aigen pfundt pfening reht, ewig, jherlihs zeinß unnd pfening gelts, so 
+<lb n="7"/>mier von <persName ref="lub-actors-537">Anna Meyssnerin</persName> herkompt und von <persName ref="lub-actors-538">Liennhart Liffrer</persName> zu <placeName ref="lub-places-79">Trissen</placeName> und <persName ref="lub-actors-539">Marggretha Ganntnerin</persName>, seiner elihen hausfraw
+<lb break="no" n="8"/>en, erkaufft worden von ausser unnd ab ierem aignen stugkh weingarten und pomgarten zu <placeName ref="lub-places-79">Trissen</placeName> gelegen, stossennt in ainem
+<lb n="9"/>innfanng, aufwert an <persName ref="lub-actors-997">Baschian Pertschen</persName> erben, gegen dem <placeName ref="lub-places-103">Rein</placeName> an aman <persName ref="lub-actors-347">Adam Frigkhen</persName>, abert an <persName ref="lub-actors-538">Liennhart Liffrers</persName> prueder und 
+<lb n="10"/>schwager <persName ref="lub-actors-998">Jacob Liffern</persName>, gem perg an <persName ref="lub-actors-999">Jörg Rugen</persName> weybs guet, alles nah ausweysung desselbigen zeinsprieffs, des datum stat auf <date when="1538-02-22">sant 
+<lb n="11"/>Petterß tag stuelfeyere nach Cristi gepurt funffzehenhundert unnd im ahtundreyssigisten jare</date><note>Nicht erhalten.</note>, den ich obgemeltem lieben heyl
+<lb break="no" n="12"/>igen <persName ref="lub-actors-1004">sannt Flori</persName> unnd desselben kulhen pfleger hiemit disem brieve in seinen gewalt, nutz und gewere eingeanntwort hab. Und
+<lb n="13"/>ist der ewig redtlich kauff also beschehen unnd gethan worden umb zwaintzigkh pfundt pfennig, deren ich von dem genant
+<lb break="no" n="14"/>en kilchenpfleger ewerlih ausgeriht unnd bezalt worden pin nach allem meinem willen unnd guettem beniegen. Und darumben
+<lb n="15"/>so sollen unnd mögen die genannten koffer unnd alle dieselbigen nahkomenden kilhenpfleger den obgeschribnen jerlihen zeinß nun 
+<lb n="16"/>hin und hin imer ewigkhlih und alle jar jerlih nah des vorgemelten zeinsprieve sag einemen und empfahen und sigch uberall aller 
+<lb n="17"/>reht unnd gerehtigkhayt damit geprauhen unnd geniessen aller gestalt, als ich vor diser ubergab gehept und genossen hab oder 
+<lb n="18"/>haben, w<unclear>a</unclear>nn ich mich hiemit fur mich, all mein erben unnd nahkomen des gemelten zeinß und auch deß hauptpriefs, darumb 
+<lb n="19"/>besagent, mit aller seiner inhalt und begreiffung verzigen und begeben hab oder haben und jetz verzeich wissenntlh mit dem prief. 
+<lb n="20"/>Unnd deß zu warem offnem urkundt so hab ich, obgenannter <persName ref="lub-actors-448">Cristan Pertsch</persName>, den gedahten aman gepeten und erpeten, das er sein 
+<lb n="21"/>aigen innsigel, doh ime und seinen erben one schaden, offenntlih an disen prieff gehenngkht hat, der geben 
+<lb n="22"/>ist <origDate>auf sannt Paullus pekerung tag nach Cristi gepurt funffzehennhundert unnd im funffzigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

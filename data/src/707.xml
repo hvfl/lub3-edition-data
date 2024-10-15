@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-707">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Steuerstreit zwischen der Steuergenossenschaft Schaan und der Herrschaft Werdenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 52](https://lub.anton.ch/objects/707) / Originaldatierung: 13. Juni 1541 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Das Gericht unter dem Vorsitz von Kaspar Kindli, Ammann der Herrschaft Vaduz, entscheidet den Streit zwischen der Schaaner Steuergenossenschsaft einerseits und der Herrschaft Werdenberg andererseits wegen der Schulden Ulrich Xawers aus Altendorf.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-360">Kindli, Kaspar</persName>
+          <date when="1541-06-13">13. Jun 1541</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-524" n="1"/><lb n="1"/>
+                    Ich <persName ref="lub-actors-360">Caspar Kindlin</persName> von <placeName ref="lub-places-79">Trissen</placeName>, der zeit aman in der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, bekhenn offennlich und thue khundt allermenigklich mit dissem brieve,
+                    <lb n="2"/>
+                    das ich von gnaden, auch aus gwalt und bevelch des wolgeparnen herrn, herrn <persName ref="lub-actors-35">Johann Ludwigs graven zu Sulz</persName>, landtgraven im <placeName ref="lub-places-18">Cleckg
+                    <lb break="no" n="3"/>
+                    ew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, herrn zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellennberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> etc., meins genedigen herrn mayen
+                    <lb break="no" n="4"/>
+                    zeit gericht, zu <placeName ref="lub-places-7">Vaduz</placeName> in <persName ref="lub-actors-349">Hansen Gantners</persName> haus besessen, hab auf heut datho, do khamen fur mich und offenn verpannen gericht, die erbern
+                    <lb n="5"/>
+                    <persName ref="lub-actors-935">Hans Gallus Thoni</persName> und <persName ref="lub-actors-895">Barthlame Hiltin</persName> zu <placeName ref="lub-places-7">Vaduz</placeName> und <persName ref="lub-actors-207">Hans Wanger</persName> zu <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-936">Cristan Mareß</persName>, alle vier als verordnet und rechtge
+                    <lb break="no" n="6"/>
+                    sazte vegt der behepten steur an ainem, und <persName ref="lub-actors-938">Claus Räß</persName> und <persName ref="lub-actors-937">Hans Dischhauser</persName> aus der herschafft <placeName ref="lub-places-151">Werdenberg</placeName> am andern tayl, und thetten
+                    <lb n="7"/>
+                    also paidtayl var mir und ganzem gericht klag, andtwurt, red und widerred, von wegen ainer schuld <persName ref="lub-actors-939">Ulrich Rorrern</persName> vom <placeName ref="lub-places-244">Altendorff</placeName>
+                    <lb n="8"/>
+                    enhalb <placeName ref="lub-places-103">Rheins</placeName>, oder desselben erben zugehärig, so vorgenante vegt innamen und von wegen gemainer steurgnossen des kilspel <placeName ref="lub-places-53">Schan</placeName> und
+                    <lb n="9"/>
+                    <placeName ref="lub-places-7">Vadutz</placeName> in vogtsweise hinder <placeName ref="lub-places-371">Finer</placeName> grassen zu <placeName ref="lub-places-53">Schan</placeName> verhefft haben, umb funffzechen phenig und derhalben, auch etlichs auffgelaffen
+                    <lb n="10"/>
+                    cossten und schaden, so dann auff gemelt <persName ref="lub-actors-939">Ulrich Rorrer</persName> wissen in <placeName ref="lub-places-373">Bauxeraw</placeName> gelegen, genant die <placeName ref="lub-places-372">Rotenbergerin</placeName>, die er von weylend
+                    <lb n="11"/>
+                    den <orgName ref="lub-actors-940">Wolffen</orgName> zu <placeName ref="lub-places-7">Vaduz</placeName>, aus der steur daselbst zu <placeName ref="lub-places-7">Vaduz</placeName> hievor behafft gewesst, erkhaufft hat, nach landsrecht gelegt und behalten worden,
+                    <lb n="12"/>
+                    mit denen und dergleichen mer worten nit not, dieselben klag von wort zu wort zu beschreiben. Und paidtayl sazten also die klag und
+                    <lb n="13"/>
+                    andtwurt zu rechtlicher erkhandtnus. Darauff ist nach mein richters umbfrag auff ir klag und andtwurt zu recht erkhendt und ge
+                    <lb break="no" n="14"/>
+                    sprochen. Dieweyl genante vegt durch brieff und sygel von wolgedachtem meinem gnedigen herrn, begnadiget und befreyet synnd,
+                    <lb n="15"/>
+                    behepte steur auff gelegen gueter, so aus der steur verkhaufft werden, zu behalten, auch solicher hafft jar und tag ungerechtfertiget verstanden,
+                    <lb n="16"/>
+                    das nw jez gemelte steurvegt beruerten hafft bey dem <placeName ref="lub-places-371">Finer</placeName> nach landsrecht disser herschafft <placeName ref="lub-places-7">Vaduz</placeName> behalten haben und umb so vil, als
+                    <lb n="17"/>
+                    inen gemelter steur halben in zeins hauptgut und erlitten cossten und schaden nach außgelegen, wol zu iren handen, gwalt, nuz und
+                    <lb n="18"/>
+                    gewer ziehen und nemen, sellen und mögen, sover anderst selcher hafft sovil vermag und inhat. Und wo sy damit nit bezalt und
+                    <lb n="19"/>
+                    darumb außgericht möchten werden, selle inen weiter behalten sein, genant <persName ref="lub-actors-939">Ulrich Rorrers</persName> oder desselben erben hab und gut, wo sy
+                    <lb n="20"/>
+                    das in disser herschafft <placeName ref="lub-places-7">Vaduz</placeName> ankhamen mögen, umb iren ausstand zuhefften und rechtlich anzevallen. Sover aber an geruerten hafft
+                    <lb n="21"/>
+                    mer dann den steurveghten zugehört bevor were, solle dasselbig gedachtem <persName ref="lub-actors-939">Ulrich Rorrern</persName>, oder desselbigen erben ald, wer dann
+                    <lb n="22"/>
+                    zu selchem recht und fueg hat gevolgen. Disser urthel haben genante steurvegt von dem gericht ains brieffs begert, der inen under
+                    <lb n="23"/>
+                    mein richters ynnsigel mitt urtel zugeben erkhendt ist. Hirumb zu urkhundt, so hab ich, obgenanter aman, mein aigen ynsigel
+                    <lb n="24"/>
+                    doch dem gericht, auch mir und mein erben on allen schaden, an dissen brieff offennlich gehenkht. Beschechen und geben auff <origDate>mäntag
+                    <lb n="25"/>
+                    vor unnsers herrn fronleichnams tag nach der gepurtt Cristi funffzehenhundert und im aintundviertzigisten jare</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1230" n="1"/><lb n="1"/>
+                    Briev
+                    <lb n="2"/>
+                    zwischen denen von <placeName ref="lub-places-53">Schann</placeName> und herrschafft
+                    <lb n="3"/>
+                    <placeName ref="lub-places-151">Werdenberg</placeName>
+                    <lb n="4"/>
+                    wegen aus der steur erkaufften güter
+                    <lb n="5"/>
+                    1541.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

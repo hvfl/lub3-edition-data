@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-113">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vertrag zwischen Maximilian I. und Graf Rudolf von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: [AT-VLA, Rankweil PfA 203](https://lub.anton.ch/objects/113) / Originaldatierung: 25. April 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage) - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/RankweilPfA/203/charter)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: [LI-LA, Schä U 31](https://lub.anton.ch/objects/15)</witness>
+          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: [AT-VLA, Feldkirch Vogteiamt 3345](https://lub.anton.ch/objects/19)</witness>
+          <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur:  [AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v](https://lub.anton.ch/objects/1005)</witness>
+          <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: [AT-HAL, H 2637 unfol.](https://lub.anton.ch/objects/1117)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Genannte Unterhändler schließen einen Vertrag zwischen König Maximilian und Graf Rudolf von Sulz  wegen den beiderseitigen Gnossleuten, die einerseits in der Herrschaft Schellenberg und im Gericht am Eschenberg sitzen und ins Gericht Rankweil-Sulz  gehören, andererseits die im Gericht Rankweil-Sulz sitzen und in die Herrschaft Schellenberg gehören. Die in Rankweil sitzenden Leute des Grafen fallen dem König zu, umgekehrt die in der Herrschaft Schellenberg sitzenden Leute des Königs, dem Grafen.Da aber der Graf mehr Eigenleute in Rankweil sitzen hat als der König in den Herrschaft Schellenberg, zahlt der König dem Grafen 120 Pfund Pfennig und den Gnossleuten am Gericht Eschenberg und Schellenberg zur Erstattung des Abganges ebenfalls 120 Pfund Pfennig Konstanzer Münze Feldkircher Währung Wechselt einer von einer zur anderen Herrschaft, dann soll er für soviel Pfund oder Schilling, als er gesteuert hat, gelegenes Gut hinter sich liegen lassen und der Gnoss (weiter) versteuern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-162">Reichserbhofrichter</term>
+          <term ref="lub-keywords-161">Fasnachtshenne</term>
+          <term ref="lub-keywords-2">Freizügigkeit</term>
+          <term ref="lub-keywords-74">Genossenschaft</term>
+          <term ref="lub-keywords-185">Burgrecht</term>
+          <term ref="lub-keywords-302">Heirat</term>
+          <term ref="lub-keywords-81">Dienst</term>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-214">Gericht</term>
+          <term ref="lub-keywords-7">Steuer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-4">Habsburg, Maximilian I. von</persName>
+          <date when="1513-04-25">25. Apr 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1513-04-25">25. Apr 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-108" n="1"/><lb n="1"/>Kunndt und zu wissen sey allermenigklich mit disem offen brieve. Als sich lannge zeit und jar bis auf hewt dato vil irrungen und span gehalten haben zwischen dem allerdurchleuchtigisten, grosmechtigisten fürsten und herren,
+                    <lb n="2"/>herrn <persName ref="lub-actors-4">Maximilian</persName> römischen kayser, zu allenn zeitten merer des <orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croacien</placeName> etc. kunig, erzherzog zu Österreich, herzog zu <placeName ref="lub-places-120">Burgundi</placeName>, zu <placeName ref="lub-places-121">Brabannt</placeName> und phalzgrave etc., unnsern aller
+                    <lb break="no" n="3"/>gnedigisten herren, als erzherzogen zu Osterreich und grave zu <placeName ref="lub-places-96">Tirol</placeName>, auch dem wolgebornnen herren, herrn <persName ref="lub-actors-8">Rudolffen graven von Sulz</persName>, lanndtgrave im <placeName ref="lub-places-18">Cleca</placeName>, hofrichter zu <placeName ref="lub-places-17">Rotweil</placeName> und herre zu <placeName ref="lub-places-7">Vaduz</placeName>, als von wegen der
+                    <lb n="4"/>gnoßlewtn, so in seiner kayserlichen mayestat gerichten <orgName ref="lub-actors-518">Rannckhweil und Sulz</orgName> sizen und wonen, und dem yzgenannten graff <persName ref="lub-actors-8">Rudolffen</persName> in seine ererbte herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> und am <placeName ref="lub-places-16">Eschnerperg</placeName> mit stewrn, raysen, wachn,
+                    <lb n="5"/>vallen, vaßnachthennen, tagwan und anndern diennsten und obrigkhaiten bisher zugehörig und unnderwürffig gewesen an ainem, und dann der gnoßlewten, so in desselben graf <persName ref="lub-actors-8">Rudolffen von Sulz</persName> herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> und
+                    <lb n="6"/>am <placeName ref="lub-places-16">Eschnerberg</placeName> sizen und wonen, und gemelter kayserlicher mayestat mit aller dergleichen obrigkaiten, wie obstet, in seiner mayestat gericht <orgName ref="lub-actors-518">Rannckhweil und Sulz</orgName> gehörn und diennstper sind und hin und wider gegen unnd
+                    <lb n="7"/>unnderainannder geheyrat haben, am anndern tail. Deßhalben sich zwischen baider tailen angezaigten gnossen, auch etwo vil spänn und irrung gehalten haben und zu gnediger und guetlicher hinlegung derselben spann und ir
+                    <lb break="no" n="8"/>rungen, ist aus bevelh und verwilligung vorgenannter romischer kayserlicher mayestat, auch graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> durch die wolgebornnen, edlen, vessten, ersamen, weysen herrn <persName ref="lub-actors-3">Hannsen von Kunigsegg freyherr zum
+                    <lb n="9"/>Kunigseggerberg</persName> seiner kayserlichen mayestat rate und diser zeit vogt zu <placeName ref="lub-places-10">Veldtkirchen</placeName>, <persName ref="lub-actors-18">Joachim von Stuben</persName>, huebmaister daselbs, auch <persName ref="lub-actors-19">Hannsen Herburger</persName>, derzeit hoffschreiber und <persName ref="lub-actors-20">Hannsen Walser</persName>, lanndamman zu <placeName ref="lub-places-40">Ranckh
+                    <lb break="no" n="10"/>weil</placeName> mitsambt etlichen gerichtslewten daselbs als kayserlicher mayestat tails, und dann <persName ref="lub-actors-14">Cristan Nollen</persName>, graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> amman am <placeName ref="lub-places-16">Eschnerberg</placeName> und <persName ref="lub-actors-21">Martin Stainhawser</persName>, unndervogt zu <placeName ref="lub-places-7">Vaduz</placeName>, ain aufrichtiger,
+                    <lb n="11"/>amtlicher und bestänndiger vertrag gemacht, beshlossen und durch baid obgenannt tail angenomen. Nemlichen also, wie hernach volgt, daz der vorgedacht graff <persName ref="lub-actors-8">Rudolff von Sulz</persName> yez von stund an alle seine gnoßleut,
+                    <lb n="12"/>mann und frawen, jung und alt personen, so ime, gemeltem graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName>, mit aigennschafft, stewrn, raisen, wachen, vallen, tagwan, vaßnachthennen und allen anndern diensten und obrigkhaiten bisher ver
+                    <lb break="no" n="13"/>punden und phlichtig gewesen sein und zugehort haben, und in bemelter kayserlicher mayestat gericht <orgName ref="lub-actors-518">Rannckhweil und Sulz</orgName> sizen und wonen, oder noch hinfüro in khünfftig zeit aus bemelts graf <persName ref="lub-actors-8">Rudolffen von Sulz</persName>
+                    <lb n="14"/>herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-16">Eschnerperg</placeName>, darein ziehen und darynn wonen würden, aller aigennschafft, glüpt, ayd, stewrn, raysen, vallen, vaßnachthennen, tagwan, wachen und aller anndern diennsten und obrig
+                    <lb break="no" n="15"/>kaiten gannz frey, ledig zellen und unansprächig bleiben lassen soll, und daz sich nufüro desselben graff <persName ref="lub-actors-8">Rudolffen</persName> angezaigte gnoßlewt mit allen obgemelten obrigkhaiten gegen gedachter kayserlicher mayestat, der
+                    <lb break="no" n="16"/>selben erben und nachkhomen, wie annder ir mayestat unnderthanen in denselben gerichten <orgName ref="lub-actors-518">Rannckweil und Sulz</orgName> gesessen sein, verdiennen und halten sollen. Da enntgegen und hinwiderumb so sollen auch
+                    <lb n="17"/>hinfüro in ewig zeit alle die gnoßlewt, jung und alt, mann und frawen, so in bemelter kayserlicher mayestat gericht <orgName ref="lub-actors-518">Rannckweil und Sulz</orgName> gehört haben, und in bemelts graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> herrschafften
+                    <lb n="18"/><placeName ref="lub-places-11">Schellenberg</placeName> und gericht am <placeName ref="lub-places-16">Eschnerperg</placeName> sizen und wonen, oder noch khünfftigklichn aus bemelter kayserlicher mayestat <orgName ref="lub-actors-518">gerichtn Rannckhweil und Sulz</orgName> daselbshin in die herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-16">Eschner</placeName>
+                    <lb break="no" n="19"/>berg khomen ziehen und daselbs wonen würden, auch die so zu <placeName ref="lub-places-10">Veldkirchen</placeName> bürger gewesen sein und ire burckhrecht aufgeben hetten, oder hinfüro aufgeben und in des gemelten graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> obberürt
+                    <lb n="20"/>herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> und gericht am <placeName ref="lub-places-16">Eschnerberg</placeName> ziehen und wonne würden, von kayserlicher mayestat und seiner mayestat ambt und gnoßlewten ir glüpt, ayd und aller annder vorgemelten diennstn und obrig
+                    <lb break="no" n="21"/>khaitn, auch gannz frey, ledig und unausprachig gezelt und gesagt werden. Also daz sy gemeltem graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName>, seinen erben und denen, so sollich herrschafften hinfüron ynnhaben und besizen werden,
+                    <lb n="22"/>auch alles daz thun und phlichtig sein sollen, wie annder desselben graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> aigen lewtn in seinen herrschafften <placeName ref="lub-places-16">Schellenberg</placeName> und gericht am <placeName ref="lub-places-16">Eschnerberg</placeName> zu thun schuldig sind. Doch ist
+                    <lb n="23"/>hierynnen weitter berett und ausgeshlossen, daz des vorgemelten graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> aigen lewt in den gedachten seinen herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> irn freyen zug haben sollen, in sollicher form und mas,
+                    <lb n="24"/>wie hernach volgt. Also wann ainer oder mer aus bemelten herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> oder gericht am <placeName ref="lub-places-16">Eschnerberg</placeName> in die gericht <orgName ref="lub-actors-518">Rannckhweil und Sulz</orgName> ziehen würden, so vil er phundt oder schil
+                    <lb break="no" n="25"/>ling phening in derselben gnoß, darynn er gesessen, gesteurt hat, umb sovil phund phenning oder schilling sol er gelegens gut hinder sein in derselben gnoß, daraus er zogen ist, on irrung ligen und beleiben,
+                    <lb n="26"/>lassen, zu verstewrn. Dergleichen in allem form und maß, wann ainer oder mer aus den gerichten <orgName ref="lub-actors-518">Rannckhweil und Sulz</orgName> in die herrschafften <placeName ref="lub-places-11">Schellenberg</placeName> oder <placeName ref="lub-places-16">Eschnerperg</placeName> ziehen würde, soll auch sovil
+                    <lb n="27"/>gelegnes gut hinder sein ligen und beleiben lassen, als er gestewrt hat, wie dann vorgemelt ist. Dieweil sich aber durch clärlichen schein erfunden hat, daz gemelter graff <persName ref="lub-actors-8">Rudolff von Sulz</persName> mer aigen
+                    <lb n="28"/>lewt in gedachter kayserlicher mayestat gericht <orgName ref="lub-actors-518">Rannckhweil und Sulz</orgName> sizen und wonen gehebt hat, dann kayserlich mayestat in sein, des von <persName ref="lub-actors-8">Sulz</persName>, gerichten <placeName ref="lub-places-11">Schellemberg</placeName> und am <placeName ref="lub-places-16">Eschnerberg</placeName>, so hat die vorge
+                    <lb break="no" n="29"/>melt römisch kayserlich mayestat durch vorgenannten ir mayestat hubmaister <persName ref="lub-actors-18">Joachim von Stuben</persName> mer gedachtem graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> zu rechter aufgab also bar geben, bezalt und ausgericht, benan
+                    <lb break="no" n="30"/>tlichen hundert und zwainzig gulden reynisch und darzue noch des gemelten graff <persName ref="lub-actors-8">Rudolffen</persName> gnoßlewten am gericht <placeName ref="lub-places-16">Eschnerberg</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> zu erstattung des abganngs deren personen, so durch disen
+                    <lb n="31"/>vertrag der gemelten gnoß und stewr durch disen wechsel enntzogen werden, geben hundert und zwainzig phundt phening costennzer münz veldkürcher werung. Und des alles zu warem und stettem ur
+                    <lb break="no" n="32"/>khundt, so sind diser vertrag zwen gleich lauttennd brief gemacht und unnder vorgemelter kayserlicher mayestat, auch graff <persName ref="lub-actors-8">Rudolffen von Sulz</persName> anhanngenden ynnsiglen aufgericht und verfertigt, dar
+                    <lb break="no" n="33"/>unnder wir vorgemelter kayser <persName ref="lub-actors-4">Maximilian</persName> und ich, graf <persName ref="lub-actors-8">Rudolff von Sulz</persName> unns verpinden, alles daz, so vorsteet, vest und steet zu halten. Beshehen am <origDate>montag nach sannd Jorgen des heyligen ritters
+                    <lb n="34"/>tag nach Cristi geburt fünffzehennhundert und in dem dreizehennden jar</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-109" n="1"/><lb n="1"/>Vertrag entzwischen den gnoßleuten der gericht <orgName ref="lub-actors-518">Rankweil und Sulz</orgName>
+                    <lb n="2"/>und dann denen gnoßleuten am <placeName ref="lub-places-11">Schellen</placeName>
+                    <lb n="3"/>und <placeName ref="lub-places-16">Eschnerberg</placeName>
+                    <lb n="4"/>der steuer, beschnitz, tagmann und faßnacht
+                    <lb break="no" n="5"/>hennen halber de dato 1513
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

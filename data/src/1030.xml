@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1030">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid über die Nutzung der Plankner Wälder</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-1030">LI-AAV, U 19</ref>, Originaldatierung: 20. Mai 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-470">LI-GAP, U 1</ref>, Originaldatierung: 20. Mai 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="B1">B1: Kopie (Vidimus), Signatur: LI-GAP, U 7 / Entstehungszeit: 6. Juli 1650 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="B2">B2: Kopie (Vidimus), Signatur: LI-GAS, U 7 / Entstehungszeit: 27. September 1755 / Beschreibstoff: Pergament / Siegel: 1 Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Rudolf von Sulz als Obmann, Heinz Gaheini von Triesen und Georg Pergant von Balzers als Zugesetzte von Vaduz und Schaan sowie Matthias Wanger von Ruggell und Hugo Knabenknecht von Schönabüel am Eschnerberg als Zugesetzte von Planken fällen im Streit zwischen Vaduz und Schaan einerseits und Planken andererseits um die Nutzung der Plankner Wälder folgenden Entscheid: Vaduz und Schaan haben wie bisher das Bannrecht über die Plankner Wälder. Die Plankner dürfen Brenn- und Bauholz schlagen, das Bauholz jedoch nur nach Vaduz und Schaan verkaufen. Den Wald roden dürfen die Planker nur auf der bergwärts gelegenen Seite des Plankner Tobels an einer ihnen von Vaduz und Schaan zugewiesenen Stelle. Ihr Vieh dürfen die Plankner im Gebiet jenseits einer Linie vom Fanolenegg bis hinunter ins Tal sowie oberhalb der Reichsstrasse weiden lassen. Im Riet gegen den Eschnerberg dürfen die Plankner ihr Vieh dort weiden lassen, wo die Vaduzer und Schaaner Weiderechte haben. Schliesslich dürfen die Plankner nur im Berggebiet sowie im Plankner Tobel Obst ernten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-157">Wald</term>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-164">Rodung</term>
+          <term ref="lub-keywords-151">Weide</term>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-165">Obst</term>
+          <term ref="lub-keywords-380">Garnrichte</term>
+          <term ref="lub-keywords-159">Einzäunung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1513-05-20">20. Mai 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2171" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-8">Ruodolff grave zuo Sultz</persName>, lanndtgraf im <placeName ref="lub-places-18">Kleggew</placeName>, herr zuo <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-12">Blumenegk</placeName> unnd <placeName ref="lub-places-11">Schellennberg</placeName> etc., bekennen offennlich als ain obman in nachgemelter sach und thuon kunth 
+<lb n="2"/>menngklichem, das uff hut date ditz briefs ingegennwirtikait nachgemelter zuogesetzttenn verwilkirtter richtter unnd ir nattürlicher herr zuo <placeName ref="lub-places-1">Vadutz</placeName> in der gewonlichen taffern in krafft 
+<lb n="3"/>ains anlas gesessenn, seind vor unns erschinen die von beiden dorffern <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> als kleger an ainem unnd gemainlich die ab <placeName ref="lub-places-124">Blanncken</placeName> als anntwurtter 
+  <lb n="4"/>annders tails unnd haben ain abschidlichenn anlas gezaigt, von wort zuo wort also luttennde: <gap/><note>Es folgt der Text der Urkunde <ref type="identifier" target="lub-objects-1031">LI-AAV, U 19 (Insert)</ref>, vom 25. April 1513.</note>
+<lb n="5"/>Dem nach seind zuo uns in krafft des gemelten anlas dise zuogesetzttenn obgemellt nidergesessen, sie unnd wir von 
+<lb n="6"/>beidenn tailenn fürer vleyssig angeriefft unnd gepettenn wordenn, sie irer spenn unnd sachenn nach lut der anlasung zuo verhörenn unnd darnach zuo entschaidenn. Also 
+<lb n="7"/>nach klag, antwurtt, red unnd wider red unnd gnuogsamer verhör beider partheyenn unnd uff besichtigung der stoss unnd spenn habenn wir unnd zuo gesetzttenn gemain
+<lb break="no" n="8"/>lichenn inder guottikaitt, als sie unns zuo beiden taillenn williklich zuo gebenn habenn, ettlich artikel ainhelliklich gesprochenn, wie her nach volgtt: Zuo dem erstenn das
+<lb n="9"/>von beiden dörffern <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> den ban, in unnd aus zuo schlahenn in den weldenn uff <placeName ref="lub-places-124">Blannckenn</placeName>, so sich der spann hallttenn ist, wie von alltter her billich haben söllen. Unnd ob s<unclear>ie</unclear> in 
+<lb n="10"/>den weldenn, so sie in ban gelegtt hetten oder in ban legen wurdenn, schadenn theten und howen, so hannd sie macht, die ab <placeName ref="lub-places-124">Blanncken</placeName> und ir nachkomen zuo straffenn, ouch wie von 
+<lb n="11"/>alltter. Unnd ob sie dann die weld, so sie in ban gelegt hetten, wider aus ban tätten uff <placeName ref="lub-places-124">Blanncken</placeName> und zuo der ab <placeName ref="lub-places-124">Blancken</placeName> hewser komen mecht, sollen sie inen ouch nach an
+<lb break="no" n="12"/>zal ainer fürstatt, wie sie das unnder ain annder in beiden dörffern halltten, schuldig sein zuo geben. Zuo dem drittenn so haben die ab <placeName ref="lub-places-124">Blanncken</placeName> unnd ir nachkomen recht, brenn
+<lb n="13"/>unnd zymer holtz zuo howenn an enden und ortten, wie sie vor thaun haben und von alltter her. Unnd ob die ab <placeName ref="lub-places-124">Blanncken</placeName> zymerholtz zuo stedlenn und gemechern uff den 
+<lb n="14"/>koff machenn wurden, das sollen sie niement annderst zuo koffenn geben dann inen von beiden dörffernn nach billichait. Ob sie aber söllichs nit tätten, so habenn wir sie als ir 
+<lb n="15"/>herr ainen, der sollichs über sehe, zuo straffenn umb fünff pfund pfening. Die selb straf sol uns oder unnsern erbenn zuo staun. Zuo dem vierden ob es die notturfft erhaischen wurd, 
+<lb n="16"/>das die ab <placeName ref="lub-places-124">Blanncken</placeName> rittinen machen wölltten, so söllen sie die vonn beidenn dörffern voran begrietzenn unnd anlanngen. Die söllen inen dann inhalb <placeName ref="lub-places-495">Blannckner Tobel</placeName>, bergs halb 
+<lb n="17"/>gelegen, ennd unnd ort zaigen unnd aus geben. Die selben rittinen sollens dann innhaben, wie sie ire rittinen im land innhand. Unnd zuo letscht die weyl und aber die gemelten 
+<lb n="18"/>zuogesetzttenn der marckenn halb, wie witt die ab <placeName ref="lub-places-124">Blanncken</placeName> mit irem vech faren unnd waiden mögen, ouch des opbs unnd annder artikeln her nach vollgennde, von ain annder erfallenn 
+<lb n="19"/>unnd in irem erfallenn unns irer beider spruch dhainer so vil togennlich gedunckt hatt, so habenn wir als obman ainen spruch thaun, fur uns selbs und nach rat inder guottikaitt 
+<lb n="20"/>thaun, das die ab <placeName ref="lub-places-124">Blanncken</placeName> unnd ir nachkomen in ewig zeitt mit irem vech herab von <placeName ref="lub-places-124">Blanncken</placeName> faren mögen indas tobel, als dann die schynung und zaigung gaun soll, von 
+<lb n="21"/><placeName ref="lub-places-496">Fynolen Egk</placeName> dem gratt nach grad her ab indas tobel, da die <term ref="lub-keywords-380">garn richtte</term> zuo den beren ist, von dannen grad durch den wald in den marckstain, so wir bey der wysen, so ainem frümesser zuo 
+<lb n="22"/><placeName ref="lub-places-53">Schan</placeName> zuohörtt, gesetzt hannd, gegen <placeName ref="lub-places-118">Nendlen</placeName> wertz von dannen, als die zügen zaigen, uff die alltenn rife in ain bild bey dem brunnen. Da selbs hinder und ob denen marcken sollenn 
+<lb n="23"/>die ab <placeName ref="lub-places-124">Blanncken</placeName>, ir nachkomen belibenn und über die richstras nit faren. Unnd wann sie zu dem bild uff der allten rife mit irem fech komen, als dann mögen sie mit irem 
+<lb n="24"/>fech uff das riedt tribenn und da waiden, so wit sie von beiden dörffern recht haben gegen denen ab dem <placeName ref="lub-places-16">Estnerberg</placeName>. Die von beiden dörffern <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> und ir nachkomen haben 
+<lb n="25"/>vollen gewalt und guotte recht inewig zeitt, ouch an die ennd unnd ort, da wir die ab <placeName ref="lub-places-124">Blanncken</placeName> yetz hingewisen hand, mit irem vech zuo faren und da zuo waiden. Item die ab <placeName ref="lub-places-124">Blancken</placeName> 
+<lb n="26"/>sollenn den aignen guottern innerthalb den marcken frid gen. Darbey söllenn die beide dörffer guot fridber zyn machen. Die vilgenanntten ab <placeName ref="lub-places-124">Blancken</placeName> und ir nachkomen söllen hie unden 
+<lb n="27"/>im grunnd unnd herdißhalb dem gemelten tobel dhain ops, bieren noch opffel, schittenn noch lesen. Doch bergs halb unnd inhalb dem <placeName ref="lub-places-495">Blanckner Tobel</placeName>, da mögen die ab <placeName ref="lub-places-124">Blancken</placeName> opss 
+<lb n="28"/>lesen unnd schütten one irrung. Des costung halb ist unnser spruch: Was uff die gericht ganngen wäre, sollenn die von beiden dörffern zalen. Was aber uff yeden tail mit seinen zuo 
+<lb n="29"/>gesetzttenn, beystenndern unnd redner ganngenn were, soll yede parthey ir anzal und den selben costung selb haun und tragenn. Was aber uff uns aigner person unnd uff den schriber gang
+<lb break="no" n="30"/>en wäre, soll yede parthey halbs gebenn. Und söllen hiemit alle handlung, die sich zwischen beiden tailen, im anlas bestimbt, begeben hand, die spenn sien in disem brief gemeldet oder nit, unnd
+<lb n="31"/>aller wort unnd werck, dar zwischen bis uff hut datum ditz briefs verloffenn, gantz gericht, geschlicht, versünt und betragen sein. Kain tail sol den annderen darüber nit witter, dann was inen der 
+<lb n="32"/>spruch wie oblut zuo gennd, bekymbern noch tribenn, dhains wegs. Des alles zuo hallttenn unnd zuo vollfürenn, habenn sie in unnser hannd nach obgegriffner form bey trwen gelobtt 
+<lb n="33"/>unnd versprochenn. Hier über zuo urkund unnd zügknus habenn die zuogesetztenn unnd wir beiden tailenn gelich hellennde abschid unnd sprüch unnder unnserm aignen innsigell 
+<lb n="34"/>versigeltt gebenn <origDate>uff freytag inder fronfastenn nach Cristi gepurt fünffzehenhundert unnd druwzehenn jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

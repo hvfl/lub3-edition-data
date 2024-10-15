@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-572">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab Gütern in Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-572">LI-LA, Schä U 47</ref> / Originaldatierung: 21. Dezember 1529 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Walch von Schellenberg verkauft seinem Bruder Ulrich für 60 Pfund Pfennig einen Zins von 3 Pfund Pfennig ab seinen Gütern zu Schellenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-157">Wald</term>
+          <term ref="lub-keywords-143">Acker</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-424">Walch, Hans</persName>
+          <date when="1529-12-21">21. Dez 1529</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-209">Öhri, Hans (1)</persName>
+          <date when="1529-12-21">21. Dez 1529</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-478" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-424">Hans Walch</persName> von <placeName ref="lub-places-117">Schellenperg</placeName> bekhenn offenlih für mih, all mein erben und nahkomen und thun kundt 
+<lb n="2"/>allermenigklih mit dissem brief, das ich mit guter zeitiger vorbetrahtung zu furdrung meins nutz, sonder mit 
+<lb n="3"/>hand des ersamen weisen <persName ref="lub-actors-209">Hans Eris</persName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellenperg</placeName>, reht und redlich verkofft und 
+<lb n="4"/>zu koffen geben dem erbern <persName ref="lub-actors-514">Ulrich Walhen</persName>, meinem lieben pruder, allen seinen erben und nahkomen ains stäten 
+<lb n="5"/>ewigen koffs drey phund phening guter und genemer <placeName ref="lub-places-101">Cosstentzer</placeName> mintz <placeName ref="lub-places-10">Veldkirher</placeName> werung rehts ewigs und järlihs 
+<lb n="6"/>zeins von, usser und ab meinem aigen weingarten, holtz, veld und gantzen infang zu <placeName ref="lub-places-117">Schellenperg</placeName> gelegen, stosst 
+<lb n="7"/>oben an <persName ref="lub-actors-944">Ulrih Schechli</persName>, im holtz zur langen seiten and landtstras, zur dritten an der <orgName ref="lub-actors-7">herschafft</orgName>, zur vierten and 
+<lb n="8"/>allmain, zur veinfften aber an <persName ref="lub-actors-944">Ulrih Schächli</persName>, zur sehsten an mein aigen holtz, und alles ab grundt, gradt, wun, 
+<lb n="9"/>waid, stikheln, reben, rebstal, stokh, stain, pomen, zwig, gestudt, gerudt, gengen, stegen, wegen und gemainklich ab 
+<lb n="10"/>allen andern iren rechten und zugehörden, benempten und unbenempten, und auh fur ledig und los und gegen 
+<lb n="11"/>menigklih unverkimbert. Und ist der ewig redlih koff also beschechen umb sechzig phund phening ob
+<lb break="no" n="12"/>genanter mintz und werung, dero ih von ime bezalt worden bin nah meinem gut beniegen. Darumb selln
+<lb n="13"/>und wellend ich, all mein erben und nachkomen, inhaber der bemelten underphanden die bemelten drey 
+<lb n="14"/>phund phening zeins dem genanten koffer, allen seinen erben und nahkomen nw furohin ewigklih und järlih 
+<lb n="15"/>alle jar uff <term ref="lub-keywords-365">sandt Martis tag</term>, acht tag vor oder nach ungefarlih, tugentlih richten, zeinsen und zu iren 
+<lb n="16"/>sichern handen und gewalte antwurten und geben fur allermenigklihs hefften, verpieten und entweren und 
+<lb n="17"/>gantzlih on allen iren cossten und schaden. Wann, wie oder welihs jars das aber also uber kurtz oder 
+<lb n="18"/>lang zeit nit beschech, so synd inen ir obbemelte underphand in iren bestimpten marken begriffen gantz 
+<lb n="19"/>zeinsfellig worden und danethin mit grundt, gradt und allen iren rehten und zugehörden zu rehtem ewigem 
+<lb n="20"/>aigen imermer gefallen, one mein, meiner erben und nahkomen und allermenigklihs sumen, irren und 
+<lb n="21"/>widersprehen. Und hiruff ditz ewigen redlihen koffs umb zeinsfelligin unnd fur all abgeng der obbe
+<lb break="no" n="22"/>melten underphanden, auh zeins, hoptguts, schadens und aller obegemelten ding sellen und wellen ich, all mein
+<lb n="23"/>erben und nahkomen des obgenanten koffers, aller seiner erben und nahkomen reht, gut und getrew krefftig 
+<lb n="24"/>weren, furstandt und verspreher sein vor dem rihter und geriht, darunder genante underphandt gelegen synd, 
+<lb n="25"/>wann sy des nah dem rehten immer noturfftig werden, alweg in unserm aigen cossten, on iren schaden, by 
+<lb n="26"/>guten trewen, on alle widerred, ausszug und geverde. Und wiewol disser brieff ainen ewigen koff aus
+<lb break="no" n="27"/>weist, danoht mugen ich, all mein erben und nahkomen die bemelten dry phund phening zeins von dem
+<lb n="28"/>genanten koffer, allen seinen erben und nahkomen wol wider koffen und ablösen nw furohin ewigklih, wenn 
+<lb n="29"/>und welchs jar wir uber kurtz oder lang zeit wellend, doh vor zeinsfal und alweg uff <term ref="lub-keywords-365">sandt Martis tag</term>, 
+<lb n="30"/>acht tag vor oder nah ungefarlih, samenthafft mit dem obgenanten hoptgut oder je zehen schilling phening 
+<lb n="31"/>besonder mitsampt gefallnem zeinse und auh mit selher munz und werung, daran sy von endrung wegen 
+<lb n="32"/>nit verlusst noh abgang haben, alles ungefarlih. Und des alles zu warem offem urkhundt so hab 
+<lb n="33"/>ich, obgenanter verkoffer, fleissig gepeten und erpetten den obgenanten aman <persName ref="lub-actors-209">Hans Eri</persName>, das er sein aigen 
+<lb n="34"/>insigel, im und sein erben onschaden, fur mih, all mein erben und nahkomen offenlih gehenkht hat 
+<lb n="35"/>an dissen brieff, der geben ist an <origDate>sandt Thomas tag nah Cristi gepurtt feunffzehenhundert und 
+<lb n="36"/>im newn und zwaintzigissten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

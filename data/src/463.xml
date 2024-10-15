@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-463">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Konflikt um die Nutzung des Engenmad in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-463">LI-GAE, AHV 03/07</ref> / Originaldatierung: 9. Juni 1533 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1108">LI-GAE, AHV 02/118</ref> / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Weibel Jakob Mayer von Schaan als Obmann und Ulrich Fritsch, alt Ammann der Grafschaft Vaduz, sowie Lienhart Weiss von Ruggell als Zugesetzte entscheiden im Streit zwischen dem Kirchspiel Eschen und Bendern, vertreten durch die Geschworenen Sebastian Kremel, Oswald Knabenknecht, Stefan Mayer und Hans Knabenknecht, einerseits und Hug Kranz, Rudolf Koch genannt Bernhart, Hans Wanger am Krummenacker und Hans Kaufmann, alle von Mauren, andererseits, dass Letzere das Engenmad in Eschen zwischen Mitte Juni und Mitte August einzäunen dürfen. Sie dürfen das Grundstück jedoch nur mähen und nicht als Viehweide nutzen. In der übrigen Zeit des Jahres soll das Engenmad dem ganzen Kirchspiel Eschen und Bendern als Viehweide offenstehen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-151">Weide</term>
+          <term ref="lub-keywords-152">Nutzungsrecht</term>
+          <term ref="lub-keywords-314">Wiese</term>
+          <term ref="lub-keywords-159">Einzäunung</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-411">ausliegen</term>
+          <term ref="lub-keywords-412">inliegen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-55">Mayer, Jakob (2)</persName>
+          <date when="1533-06-09">9. Jun 1533</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-52">Fritsch, Ulrich</persName>
+          <date when="1533-06-09">9. Jun 1533</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-204">Weiss, Lienhart</persName>
+          <date when="1533-06-09">9. Jun 1533</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2339" n="1"/><lb n="1"/>Zewissen und khundt sey menigklich gethan, als sich spenn und irrung zwischen den erbern <persName ref="lub-actors-1260">Baschion Kremel</persName>, <persName ref="lub-actors-1513">Osch Knabenknecht</persName>, <persName ref="lub-actors-1515">Stephan Mayer</persName> und <persName ref="lub-actors-1514">Hans Knabenknecht</persName> sampt iren mitgeschwornen 
+<lb n="2"/>von <placeName ref="lub-places-35">Eschen</placeName> und <placeName ref="lub-places-36">Bendern</placeName> innamen und von wegen ir selbs und gemainer kilspel daselbst an ainem und <persName ref="lub-actors-205">Haug Krantzen</persName>, <persName ref="lub-actors-206">Rudolff Koch genant Bernhart</persName>, <persName ref="lub-actors-207">Hansen Wangner</persName> am <placeName ref="lub-places-114">Kromenackher</placeName> und <persName ref="lub-actors-1253">Hansen Kauff
+<lb break="no" n="3"/>man</persName>, alle von <placeName ref="lub-places-30">Mauren</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, jeder als fur sich selbs, ir erben und nachkomen anders tayls zugetragen betreffendt das <placeName ref="lub-places-113">Engen Mad</placeName> in <placeName ref="lub-places-35">Eschner</placeName> kilspel gelegen, so dann stosst zur ainen seiten
+<lb n="4"/>oben an <persName ref="lub-actors-1517">Baschion Fören</persName>, zur ander an <placeName ref="lub-places-30">Maurer</placeName> <placeName ref="lub-places-606">Waidwinckhel</placeName>, zur dritten and <placeName ref="lub-places-607">Eschin</placeName> und zur vierten seiten an des <persName ref="lub-actors-1518">Keibers</persName> erben, welches mad die bemelten geschwornen vermaint haben, zu allen zeiten 
+<lb n="5"/><term ref="lub-keywords-411">ausligen</term> selte. Dargegen und hinwider die gedachten <persName ref="lub-actors-205">Haug Krantz</persName>, <persName ref="lub-actors-1258">Rudolff Koch</persName>, <persName ref="lub-actors-207">Hans Wangner</persName> und <persName ref="lub-actors-1253">Hans Kauffman</persName> auch vermaindten, das das angezaigt mad nit lenger, weiter noch meer, dann nach  
+<lb n="6"/>der seges biß zuo mittem mayen <term ref="lub-keywords-411">ausligen</term> und mitler zeit alwegen <term ref="lub-keywords-412">inligen</term> selte. Deshalben sy paidtayl etlich zeit daselbst am <placeName ref="lub-places-16">Eschnerberg</placeName> vor dem rechten, paiden partheyen zu verderbklichen cosstn 
+<lb n="7"/>und schaden, gehangen und zu letst auff <persName ref="lub-actors-55">Jacob Mayern</persName> von <placeName ref="lub-places-53">Schan</placeName>, waibel, als obman, und <persName ref="lub-actors-52">Ulrich Fritschen</persName>, altaman der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, und <persName ref="lub-actors-204">Leinhart Weisen</persName> von <placeName ref="lub-places-2">Raggel</placeName>, auff paidertayl seiten zue
+<lb break="no" n="8"/>gesatzten, durch die ersamen und weisen aman und gericht der herschafft <placeName ref="lub-places-11">Schellenperg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName> guetlich und endtlich veranlasset und khomen, dergestalt, was die gedachten zusätz und obman
+<lb n="9"/>nach verhörung paider partheyen klag, andtwurt, red, widerred und kundtschafften darinn handlen und sprechen, darbey sell es on weiter waigern, appellieren und inred vesst und stät beleiben, des 
+<lb n="10"/>auch beruerte partheyen gedachtem waibel als obman bey handtgelopten trewen an ayd statt zuhalten gelopt und zugesagt. Demnach ist ainhelligklich durch bemelt obman und zusätz er
+<lb break="no" n="11"/>khendt und gesprochen, also das die genanten <persName ref="lub-actors-205">Haug Krantz</persName>, <persName ref="lub-actors-1258">Rudolff Koch</persName>, <persName ref="lub-actors-207">Hans Wangner</persName> und <persName ref="lub-actors-1253">Hans Kauffman</persName>, all ir erben und nachkomen, das angezaigt <placeName ref="lub-places-113">Engen Mad</placeName> in seinen begriffen
+<lb n="12"/>marckhen und anstössen nwfurohin eewigklich und järlich, alle und jedes jars besonder, alwegen zu mittem brachat wol inschlachen und biß zuo mittem augsten also ingeschlagen ruebig 
+<lb n="13"/>inehaben, doch das mitler zeit weder mit irem aigen noch anderm vech, sonder allain mit der seges nutzen, niessen und gebrauchen sellen und mögen, daran sy dann die geschwornen und 
+<lb n="14"/>kilspel <placeName ref="lub-places-35">Eschach</placeName> und <placeName ref="lub-places-36">Bendern</placeName>, auch jemandts von iren wegen weder mit treib, tradt, wunnen, waiden, auch sonst in all anderweg gantz ungesumpt, ungeirtt und unverhindert sellen beleiben 
+<lb n="15"/>lassen. Und wann aber mittler augst, wievor angezaigt, sich verlauffen, alsdann soll bemelt <placeName ref="lub-places-113">Engen Mad</placeName> widerumb biß zu mittem brachat <term ref="lub-keywords-411">ausligen</term>. Und sellen und mögen auch die ge
+<lb break="no" n="16"/>schwornen und gantze gemaind der kilspel <placeName ref="lub-places-35">Eschen</placeName> und <placeName ref="lub-places-36">Bendern</placeName> dasselbig mad, es sey dann gemeit oder ungemeit, mit irem vech an treib, tradt, wun, waid wie von alterhär in allweg one der
+<lb n="17"/>bemelten <persName ref="lub-actors-205">Haug Krantzen</persName>, <persName ref="lub-actors-1258">Rudolff Kochs</persName>, <persName ref="lub-actors-207">Hans Wangner</persName> und <persName ref="lub-actors-1253">Hans Kauffmans</persName>, noch aller irer erben und nachkomen, noch menigklichs von iren wegen intrag, verhindern, summen, irren und 
+<lb n="18"/>widersprechen nutzen, niessen und geprauchen, darzu genanten inhaber angezaigts mad und wer die je zu zeiten synnd und werden, uber die auffgeworffnen graben, domit dasselb mad ver
+<lb break="no" n="19"/>wart und ingeschlagen ist, brugkhen, auch steg und weg dermasen bessern und machen sellen, das die vermelten geschwornen und gemaind der kilspel <placeName ref="lub-places-35">Eschach</placeName> und <placeName ref="lub-places-36">Bendern</placeName> zu den zeiten, wie obstat,
+<lb n="20"/>mit irem vech on schaden und nachtayl darinn und daraus gefaren und khomen mögen. Also sellen aller unwill, irrung und spann gedachts <placeName ref="lub-places-113">Engen Mad</placeName> zwischen bemelten zway partheyen 
+<lb n="21"/>tod, hin und ab sein, auh ainer dem andern selichs zu yb<gap/> nit gedenckhen, noch rechen oder zu rechen verschaffen, sonder sich ge<supplied>g</supplied>en und mit einandern freundtlich und gut nachpeurlich 
+<lb n="22"/>erzaigen und halten, doch hirinnen dem wolgepornen herrn, herrn <persName ref="lub-actors-8">Rudolff graven zu Sultz</persName> etc., meinem genedigen herrn, seiner gnaden herligkait, auch denen, so uber vilgemelt <placeName ref="lub-places-113">Engen 
+<lb n="23"/>Mad</placeName> steg und weg haben, dergleichen andern medern, daselbst umb allenthalben gelegen, ire recht und gerechtigkaiten  ausserhalb diß spruchs und vertrags vorbehalten und daran gantz un
+<lb break="no" n="24"/>vergriffen und unschädlich. Wir obgemelten geschwornen der kilspel <placeName ref="lub-places-35">Eschen</placeName> und <placeName ref="lub-places-36">Bendern</placeName>, auch wir <persName ref="lub-actors-205">Haug Krantz</persName>, <persName ref="lub-actors-1258">Rudolff Koch</persName>, <persName ref="lub-actors-207">Hans Wangner</persName> und <persName ref="lub-actors-1253">Hans Kauffman</persName> bekhennen fur
+<lb n="25"/>uns selbs, all unser erben und nachkomen, gewandten und verwandten, alles das, wie hievor in dissem brieff geschriben stat, mit unserm gunst, wissen und guten willen beschechen und vol
+<lb break="no" n="26"/>fuert ist, gereden, geloben und versprechen auch bey unsern eeren, waren und guten trewen an ayd statt wissentlich hiemit, dem allem getrewlich, gestrackhs, auffrecht und redlich nachzekhomen,
+<lb n="27"/>vesst vnd stät zuhalten, darbey zubeleiben und darwider <supplied>n</supplied>it zuthun, gantz in kain weiß noh weg, alles getrewlich und ungefarlich. Selichs alles zu urkhundt der warhait und merer sicher
+<lb break="no" n="28"/>hait und bestettigung diß endtschids und vertrags so haben wir, obgedachte geschwornen paider kilspel <placeName ref="lub-places-35">Eschach</placeName> und <placeName ref="lub-places-36">Bendern</placeName>, auch wir, <persName ref="lub-actors-205">Haug Krantz</persName>, <persName ref="lub-actors-1258">Rudolff Koch</persName>, <persName ref="lub-actors-207">Hans Wangner</persName> und <persName ref="lub-actors-1253">Hans
+<lb n="29"/>Kauffman</persName>, alle sampt und sonders mit fleis und ernst gepeten und erbeten den ersamen weisen <persName ref="lub-actors-52">Ulrich Fritschen</persName>, vorgemelten altaman der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, das er sein aigen ynsigel, mangel 
+<lb n="30"/>halben genants obmans aigen gegraben ynsigels, an dissen vertrag offennlich gehenckht hat, doch im und seinen erben one schaden. Beschechen <origDate>am neundten tag brachmonadts, als 
+<lb n="31"/>man zaldt nah der gepurtt Cristi, unsers seligmachers, thaussendt veinffhundert und im dreyunddreissigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

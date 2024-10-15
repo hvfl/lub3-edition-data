@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-703">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab Gütern in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 7](https://lub.anton.ch/objects/703) / Originaldatierung: 22. Januar 1522 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Mader von Schaan und seine Frau Dilge Schädler verkaufen mit Zustimmung von Hans Schierscher, Ammann der Herrschaft Vaduz, einen Zins von 16 Schilling ab ihrer Hofstatt sowie ab ihrem Acker im Besch für 16 Pfund an Hans Quaderer, Kaplan am St.-Thomas-Altar in der Pfarrkirche Schaan.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-28">Haus</term>
+          <term ref="lub-keywords-143">Acker</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-599">Mader, Hans</persName>
+          <date when="1522-01-22">22. Jan 1522</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-213">Schierscher, Hans (1)</persName>
+          <date when="1522-01-22">22. Jan 1522</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-649">Schädler, Dilge</persName>
+          <date when="1522-01-22">22. Jan 1522</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-520" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-599">Hanns Mader</persName>, sesshafft zu
+            <placeName ref="lub-places-53">Schan</placeName>, unnd ich <persName ref="lub-actors-649">Dilge Schedlerin</persName>, sein elich wib, bekennen baede
+          samenntlich <lb n="2"/>unnd unverschidennlich mit dem brief fur unns, all unnser erben und
+          nachkomen, das wir bayde <lb n="3"/>mit verainten guettem willen wolbedacht, sonnder mit
+          hanndt des ersamen <persName ref="lub-actors-213">Hannsen Schiersser</persName>, <lb n="4"/>derzit amman in der herrschaff <placeName ref="lub-places-7">Vaduz</placeName>, recht
+          und redlich verkofft und zukoffen geben haben, dem an <lb break="no" n="5"/>techtdigen
+          herrn <persName ref="lub-actors-527">Hannsen Quaderer</persName>, briesster capplon des
+          heilligen zwolffpotten sannt Tomas <lb n="6"/>altar zu <placeName ref="lub-places-53">Schan</placeName> in der pfarrkirchen, und allen seinen nachkomennden capplonnen der
+          obgewelten <lb n="7"/>pfrundt, mit willen, wissen unnd zuegeben der kilchennpflegern
+          daselbs zu <placeName ref="lub-places-53">Schan</placeName> aines stätten, e <lb break="no" n="8"/>wigen koffs, mit namen sechzechen schilling pfening gueter costenntzer
+          müntz veldkircher werung, <lb n="9"/>rechtz, ewigs, jarlichs zins unnd pfening geltz,
+          zerichten und zugeben von usser und ab unnserer <lb n="10"/>hoffraitti, daruff wir yezo
+          sizen, stosst abwert an der herrschafft guet, ußwert an <persName ref="lub-actors-858">Stoffl Fritschen</persName>
+          <lb n="11"/>erben guet, uffwert gegen dem berg aber an <persName ref="lub-actors-858">Stoffl Fritschen</persName> erben guet, furher wert an die haim <lb break="no" n="12"/>gaß. Item mer ab unnserm acker in <placeName ref="lub-places-214">Bisch</placeName>,
+          stosst abwert an die <placeName ref="lub-places-345">Lanndtstrass</placeName>, ußwert an
+          der <placeName ref="lub-places-358">Pfarr <lb n="13"/>guet</placeName>, ufwert an der
+            <persName ref="lub-actors-859">Anna Frischen</persName> erben guet, gen dem dorff wert
+          an <persName ref="lub-actors-527">Stoffl Quaderers</persName> wibs guet <lb n="14"/>unnd
+          an der herrschafft guet, und och ab grunt, grat, wunn, waid, stockh, stain, gestüdt,
+          gerüdt, gepomen, <lb n="15"/>zwyen, ab wasser, wasserlaittungen, genngen, stegen und
+          wegen, und gemainlichen ab allen annderen <lb n="16"/>iren rechten und zuegehordten,
+          benempten und unbenempten. Und ab der hoffraitti gat zins ain <lb n="17"/>fiertl waissen,
+          armen lutten an ain spennt, und ab dern ackher gat zins zwo mas schmaltz, <placeName ref="lub-places-212">Sannt <lb n="18"/>Lorenntzen</placeName>, und sunst alles ledig und
+          los, und gegen menigkhlich unversetzt und unverkompt. <lb n="19"/>Und ist der ewig,
+          redlich koff beschechen umb sechtzechen pfund pfening obgeschribner müntz und <lb n="20"/>werung, dero wir von dem gedachten capplan anstat der pfrundt, also par ußgericht und
+          bezalt <lb n="21"/>worden sind, nach unnserm willen und bemuegen. Hierumb, so sollen und
+          wellen wir, obgenannte <lb n="22"/>verkoffer, alle unnsere erben und nachkomen, in dero
+          hanndt und gewalt die vorgeschriben under <lb break="no" n="23"/>pfanndt ymmer komennd,
+          die innehabennd oder niessennd, dem obgenannten capplan und allen <lb n="24"/>seinen
+          nachkomenden capplonnen, so uff derselben pfründt sizen, den zins sechzechen schilling
+          pfenn <lb break="no" n="25"/>ynng nu, hinfuran, ewigkhlich und jarlichen, alle jar uff
+          sannt Marttins tag, achttag vor oder <lb n="26"/>nach ungefarlich, samennthafft, guetlich
+          und tugenntlich geben, raichen, zinsen und gen <placeName ref="lub-places-53">Schan</placeName> annt <lb break="no" n="27"/>wurtten, unverzogennlich fur alles
+          verpietten, verhefften und enntwern, allermenigkhlichs, on <lb n="28"/>ire und der pfründt
+          costen und schaden. Wann oder welliches jars, das also nit bescheche, uber kurz <lb n="29"/>oder lanng zit, so ist vor gemelttem herrn <persName ref="lub-actors-599">Hannsen</persName> oder seinen nachkommen, so gemeltte pfrünt <lb n="30"/>besizen, die
+          vorgenannten unnderpfanndt mit iren rechten und zuegehörten, gannz zinsfollig wor <lb break="no" n="31"/>den und dannochthin zu rechtem, ewigen, aigen, ymmermer gefallen und
+          verfallen, on menig <lb n="32"/>khlichs somen, irrung und widersprechen. Und hieruff diz
+          redichen, ewigen koffs umb zinsfolligi <lb n="33"/>und für all abgenng der obgeschriben
+          unnderpfanndt, zinß, hoptgut und schadens, sullen <lb n="34"/>und wellen wir, obgenannte
+          verkoffer, all unnser erben und nachkomen, des koffer und der <lb n="35"/>pfrundt und
+          allen denen, so die pfrundt besizen, krefftig, getrew, guet gewern, fürstanndt <lb n="36"/>und versprecher sein, uff allen gerichten, gaistlichen und weltlichen, wa, wie, wenn und
+          gegen <lb n="37"/>wem, und als dickh sy des nach dem rechten ymmer bedürffennd und
+          notturfftig werden, alb <lb break="no" n="38"/>weg in unnserm costen, on all ufftzug. Unnd
+          mit sonnder ist hierynn beredt worden, also das <lb n="39"/>wir, oder unnser erben ald
+          nachkomen, den vorgemelten zins von der pfrunt wol wider <lb n="40"/>koffen und ablesen
+          mügen, wenn oder welliches jars wir wellen, über kurz oder lanng zit, <lb n="41"/>doch vor
+          zinsfal uff sannt Marttins tag, achttag vor oder nach ungefarlich, samennthafft mit dem
+            <lb n="42"/>obgeschribnem hoptgut und gefallnem zinse, och mit der pessern müntz und
+          werschafft, daran <lb n="43"/>sy nit verlust noch abganng habennd, wann sich die münz in
+          derzit verenndern wurde, alles <lb n="44"/>ungefarlich. Des zu warem, offem urkunt, so
+          haben wir baede mit vleis erpeten, den obgenanten <lb n="45"/>amman, das er sein aigen
+          innsigl, doch im und sein erben onschaden, an den brief gehenngt <lb n="46"/>ha<supplied>ben, d</supplied>er geben ist an <origDate>mittich nach sannt Sebastians
+            tag nach Cristus gepurt, funffzechenn <lb break="no" n="47"/>hu<supplied>nn</supplied>dert unnd in dem zwayundzwainzigisten jare</origDate>. </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1193" n="1"/><lb n="1"/> gibt <persName ref="lub-actors-962">Sigmund Müller</persName> zu <placeName ref="lub-places-53">Schan</placeName>
+          <lb n="2"/> St, Thomas alltar caplan <lb n="3"/> zu <placeName ref="lub-places-53">Schan</placeName>
+          <lb n="4"/> 1522. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

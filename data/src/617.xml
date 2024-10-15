@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-617">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut in Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-617">LI-LA, Schä U 84</ref> / Originaldatierung: 11. November 1594 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jörg Frommelt von Triesenberg und seine Frau Elsa Lampert verkaufen einen Zins von 1 Pfund 5 Schilling ab ihrem Gut Uf dem Undergut in Prufatscheng für 25 Pfund Pfennig an Jörg Wolf, Pfleger der Kapelle St. Florin in Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-377">Kirchweg</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-484">Frommelt, Jörg (2)</persName>
+          <date when="1594-11-11">11. Nov 1594</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-485">Lampert, Elsa (2)</persName>
+          <date when="1594-11-11">11. Nov 1594</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-287">Schierscher, Adam</persName>
+          <date when="1594-11-11">11. Nov 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-504" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-484">Jörg Frumolt</persName> abm <placeName ref="lub-places-41">Triessnerberg</placeName> und <persName ref="lub-actors-485">Elsa Lampartin</persName>, sein ehliche haussfraw daselbsten, 
+<lb n="2"/>bekennen offentlich hiemit für uns, all unser erben und nachkommen, das wir mit veraintem gueten willen, wolbedachtem sinn und muth zu fürderung unsers 
+<lb n="3"/>nutzes besonder mit handt deß ersamen weysen <persName ref="lub-actors-287">Adam Schierßers</persName>, dieser zeit amman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, aufrecht und redtlich verkaufft und zuekaufen 
+<lb n="4"/>geben haben, geben auch allso hiemit wissentlich in crafft ditz brieffs dem erbarn <persName ref="lub-actors-330">Jörg Wolff</persName> von <placeName ref="lub-places-1">Vadutz</placeName> alls kirchenpfleger deß lieben hayligen 
+<lb n="5"/><persName ref="lub-actors-1004">sant Flory</persName> daselbsten, auch allen seinen nachkommenden kilchenmayern benantlichen ein pfundt fünf schilling pfennig gueter <placeName ref="lub-places-101">Costantzer</placeName> müntz genemmer 
+<lb n="6"/><placeName ref="lub-places-10">Veltkircher</placeName> wehrung rechts ewigs jherlichs zinß und gelts von, ausser und ab unßerm aigenen stuckh gut, gelegen am <placeName ref="lub-places-41">Tryßnerberg</placeName>, genant <placeName ref="lub-places-234">Ufm Under Gut</placeName>, 
+<lb n="7"/>stost ufwert dem landt nach die allmain und den <term ref="lub-keywords-377">kilchweeg</term>, gegen dem <placeName ref="lub-places-103">Rein</placeName> wider an die allmain und <persName ref="lub-actors-1149">Jörg Pfiffers</persName>, abwert dem landt nach an <persName ref="lub-actors-1150">Ulin Oschwalts</persName> 
+<lb n="8"/>gutt und ufwert gegen dem berg aber an den <term ref="lub-keywords-377">kilchweeg</term>, alles ab grundt, gradt, veldt, wasen, wun, waidt, stockh, stein, gesteudt, gereut, gengen, stegen und wegen, 
+<lb n="9"/>benenten und unbenenten, und gemainlich mit allen andern seinen rechten und zugehörungen für frey, ledig, unversetzt und aigen. Und ist hierüber die
+<lb break="no" n="10"/>ser ewig redtlich kauff ergangen und beschehen für und umb fünfundzweintzig pfundt vorgeschribener müntz und wehrung, deren wir von gemelten keüffern
+<lb n="11"/>zu unßerm guten benügen allso bahr außgericht und bezalt worden seindt. Darumben sollen und wollen wir, auch all unßer erben und nachkommen oder, wer 
+<lb n="12"/>das vorberürt underpfandt immer nach unß besitzt, nutzet und brauchet, obgedachten zinß deß einen pfundts fünf schilling gelts mehrbesagtem keuffer 
+<lb n="13"/>oder seinen nachkommen nun hinfüro ewiglich und alle jhar jherlich auf <term ref="lub-keywords-365">sant Marthins</term>, achttag vor oder nach ungefehrlichen, gütlich außrichten, zinßen, auch 
+<lb n="14"/>zu ihren sichern handten und gewalt, für allermeniglichs verhefften, verbieten und entwehren, yberantworten und zustellen, ohne allen ihren costen und schaden. 
+<lb n="15"/>Wann oder welliches jhars aber daß allso nicht beschehe, so ist ihnen daß obgemelt underpfandt, in seinen bestimbten marckhen begriffen, gantz zinßfellig worden 
+<lb n="16"/>und allßdann mit grundt, gradt, aller ein- und zugehördt zu einem ewigen aigenthumb immer heimbgefallen und verfallen, ohne unßer, unßerer erben und 
+<lb n="17"/>nachkommen, auch sonst jedermeniglichs von unsert wegen irrung und widersprechen. Unnd hierauf diß ewigen redtlichen kaufs umb zinßfellig, auch für all ab
+<lb break="no" n="18"/>gang und minderung deß offtgedachten underpfandts, auch haubtguts, zinß und schadens, sollen und wollen wir, auch all unßer erben und nachkommen, der
+<lb n="19"/>mehrbesagten keüffer, auch ihrer nachkommen, recht, gut, crefftig und getrew gewehren, fürsteher und versprecher gegen allermeniglichs sein (doch nach unse
+<lb break="no" n="20"/>rer bayderseits deßwegen außdruckenlich gethaner abredt und vorbehalt an keinem andern ort alls allein vor der obrigkeit, auch richter und gericht, da
+<lb break="no" n="21"/>runder diß underpfandt gelegen), wie recht und billich ist, jedertzeit in unßerm aigenen costen, ohne ihren schaden, alls offt sy dessen notturfftig werden, bey gu
+<lb break="no" n="22"/>ten trewen, ohn alle widerredt, auftzug und gefehrde. Unnd wiewol dieser brieff einen ewigen kauf außweiset, nichts destoweniger mögen wir, auch all
+<lb n="23"/>unßer erben und nachkommen, den obgeschribenen zinß von ihnen, den keuffern, wol widerumb kaufen und ablösen, nun hinfüro uber kurtz oder lang , welliches 
+<lb n="24"/>jharß wir wöllen, aber zu zweyen underschiedtlichen jharen ufeinander volgende, jedes jharß mit der halben haubtsumme uf <term ref="lub-keywords-365">Martini</term> achttag vor oder nach 
+<lb n="25"/>ungefehrlichen, sambt verfallenen, außstendigen zinßen und auferloffenen costen, in müntz und wehrschafft, daran sie keinen verlust noch abgang haben, alles 
+<lb n="26"/>getreulichen. Dessen zu wahrem urkundt haben wir, die verkeuffere, mit fleiß gebeten und erbeten obgemelten amman <persName ref="lub-actors-287">Schierßer</persName>, daß er sein aigen insigl 
+<lb n="27"/>(doch ihme, seinen erben und ambts nachkommen in allweg ohne schadtlich) offentlich für unß gehenckht hatt an diesen brieff, der geben ist <origDate>uff Martini im 
+<lb n="28"/>fünftzehenhundert vier und neuntzigisten jhare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

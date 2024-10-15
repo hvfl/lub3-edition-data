@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-712">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Stücks Auenland in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 58](https://lub.anton.ch/objects/712) / Originaldatierung: 29. Mai 1594 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Eustachius Marxer von Ruggell und seine Frau Lena Strub verkaufen Lena Strub, der Witwe von Jakob Büchel, für 34 Gulden ein Stück Au, genannt Mittelau.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-610">Marxer, Eustachius</persName>
+          <date when="1594-05-29">29. Mai 1594</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-611">Strub, Lena (1)</persName>
+          <date when="1594-05-29">29. Mai 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-531" n="1"/><lb n="1"/>
+                    Ich <persName ref="lub-actors-610">Stachius Marxer</persName> von <placeName ref="lub-places-2">Raggell</placeName> und <persName ref="lub-actors-611">Lena Straubi</persName>, sein ehliche haußfraw daselbst, bekennen offentlich hiemit für uns, all
+                    <lb n="2"/>
+                    unsere erben und nachkommen, daß wir mit zeitiger vorbetrachtung, umb unsers bessern nutz und frommen willen, eines steten, vesten und immerwerenden
+                    <lb n="3"/>
+                    kaufs, wie der vor allen und jeden gaistlichen und weltlichen leuthen, richtern und gerichten, sonderlich aber der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> yblichem herkommen,
+                    <lb n="4"/>
+                    auch hinnach allerbest krafft und macht, würckhung und fürgang hatt, haben soll, kan und mag, wie es allermeniglichs absprechen und widertreiben, auf
+                    <lb break="no" n="5"/>
+                    recht und redtlich verkaufft und zu kaufen geben haben. Geben auch hiemit wissentlich in crafft diß brief zue kaufen der tugentsamen <persName ref="lub-actors-612">Lena Straubin</persName>, wey
+                    <lb break="no" n="6"/>
+                    lant <persName ref="lub-actors-613">Jacob Pichels</persName> seeligen hinderlaßenen haußfrawen, auch allen ihren erben und nachkommen, benantlichen ein stückh auw, genant die <placeName ref="lub-places-245">Mittelaw</placeName>, stost
+                    <lb n="7"/>
+                    abwert an gretz, ußwert gegen dem <placeName ref="lub-places-103">Rein</placeName> an daß <placeName ref="lub-places-365">Weitsandt</placeName>, ufwert an die gemaine Aw, und bergs halb an der Schweitzer aigen gutt, alles mit grund, grad,
+                    <lb n="8"/>
+                    velt, wasen, wun, waidt, stockh, stein, gesteudt, gereut, gengen, stegen und wegen, und gemainlich mit allen andern seinen zugehörungen, in masen wie sölliche
+                    <lb n="9"/>
+                    bißhero ruwiglich ingehabt, genutzt und genossen haben, für frey, ledig, unversetzt und aig. Unnd die <placeName ref="lub-places-245">Aw</placeName> thailt sich in zwey theill, darunder der eine den Hewen
+                    <lb n="10"/>
+                    und der ander theil den <persName ref="lub-actors-613">Picheln</persName> und klin kindt zugehört. Nun geben die <persName ref="lub-actors-613">Pichel</persName> auß ihrem halben tail den Spälten einen vierten teil. Und sodann theilen der <persName ref="lub-actors-613">Pichel</persName>
+                    <lb n="11"/>
+                    und klin kindt ihres widerumb in daß halb theill, und die <persName ref="lub-actors-613">Pichel</persName> geben auß ihrem halben tail dem <persName ref="lub-actors-931">Valentin Matle</persName> eine vierten tail. Jetzund theilen <persName ref="lub-actors-613">Jacob</persName>
+                    <lb n="12"/>
+                    und <persName ref="lub-actors-932">Hanß Pichel</persName> widerumb miteinander. Und dann deß <persName ref="lub-actors-613">Jacob Pichels</persName> halben theill, hatt sein verlasene haußfraw von dem <persName ref="lub-actors-610">Stachius Marxer</persName> obgehörter maßen
+                    <lb n="13"/>
+                    erkaufft, und theilt sich mit <persName ref="lub-actors-933">Joß Grabhören</persName> etc. Unnd ist hierüber diser aufrecht und redtlich kauf ergangen und beschehen für und umb vierunddreißig gulden
+                    <lb n="14"/>
+                    genehmer, diß landts wehrung, deren wir, verkheufere, von ihro, keufferin, zu unßerm guten bemügen allerdings entricht und bezalt werden seindt, sy auch
+                    <lb n="15"/>
+                    ihre erben und nachkhommen deßwegen notturfftiglich hiemit quittirende. Darauf haben wir, die verkeufere, für unß, unßere erben und nachkommen, bey
+                    <lb n="16"/>
+                    unsern wahren trewen zugesagt und versprochen, disen kauf und verkauf, auch alles, waß hierinn geschriben steet, wahr, vest und unverbrochenlich zuhalten,
+                    <lb n="17"/>
+                    darwider nit zuhandtlen keines wegs. Ihro, keuferin, sollen und wollen wir, unsere erben und nachkommen, auch gewehr sein, allso, wo ihnen an solchem
+                    <lb n="18"/>
+                    kauf abgehen, oder waß beschwerlichers alls vorsteet, vorfallen wurdet, sy deßhalber allerdings zu entheben und schadtloß zu halten, wie recht und billich
+                    <lb n="19"/>
+                    ist. Demnach haben wir, die verkeufere, obgedachter keuferin, daß vorbestimbte stuckh mitt aller ein- und zugehördt, verkaufft und zue kaufen geben,
+                    <lb n="20"/>
+                    daß sy dasselbig nun hinfurter ewiglich inhaben, nutzen, niesen, verkaufen, vertauschen, besetzen, versetzen, entsetzen und gemainlich damit handtlen, thun
+                    <lb n="21"/>
+                    und laßen sollen und mögen, alls mit andern ihren aigentümblichen güttern, unverhindert, von unß, unsern erben und sonst jedermeniglichs von
+                    <lb n="22"/>
+                    unsertwegen. Dann wir unß aller gerechtsami und ansprach, die wir dartzu gehabt und noch könfftiglich hetten bekommen mögen, gentzlichen ver
+                    <lb break="no" n="23"/>
+                    zihen und begeben haben, und thuen daß auch hiemit wissentlich, in crafft diß briefs, alles getrewlichen. Unnd dessen zu urkundt, haben wir, die ver
+                    <lb break="no" n="24"/>
+                    keufere, mit fleiß gebeten und erbeten, den ersamen, weisen <persName ref="lub-actors-493">Hanßen Wagner</persName>, diser zeit amman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, daß er sein aigen
+                    <lb n="25"/>
+                    insigel (doch ihme, seinen erben und ambts nachkommen in allweg ohne schedtlich) offentlich für unß gehenckht hatt an disen brieff, der geben ist
+                    <lb n="26"/>
+                    <origDate>uf pfingsten im fünfzehenhundertvierundneuntzigisten jahre</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1292" n="1"/><lb n="1"/>
+                    Kauffbrieff.
+                    <lb n="2"/>
+                    <persName ref="lub-actors-610">Eustachii Marxers</persName> von <placeName ref="lub-places-2">Raggell</placeName>
+                    <lb n="3"/>
+                    gegen
+                    <lb n="4"/>
+                    <persName ref="lub-actors-612">Lena Straubin</persName> daselbsten p: 34 fl.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

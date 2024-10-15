@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-560">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Barbara Müller von Salez</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-560">LI-LA, Schä U 38</ref> / Originaldatierung: 11. April 1525 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Barbara Müller von Salez, die in Schloss Vaduz inhaftiert worden war, weil sie während ihrer Ehe mit Jörg Marxer von Bendern eine Beziehung mit Jörg Dieprecht hatte, ein Kind aus dieser Beziehung als eheliches Kind ausgegeben und nach dem Tod Marxers dessen Erbe veruntreut hatte, schwört nach ihrer Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-267">Frau</term>
+          <term ref="lub-keywords-235">Delikt</term>
+          <term ref="lub-keywords-273">Kind</term>
+          <term ref="lub-keywords-282">Ehebruch</term>
+          <term ref="lub-keywords-26">Erbschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-406">Müller, Barbara (1)</persName>
+          <date when="1525-04-11">11. Apr 1525</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1525-04-11">11. Apr 1525</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-438" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-406">Barbara Millerin</persName> von <placeName ref="lub-places-202">Saletz</placeName> bekhenn unnd thun khunndt menigclich mit dissem brieff, nach 
+        <lb n="2"/>dem als ich in meins gnadigen herrn <persName ref="lub-actors-8">graff Rudolffs von Sultz</persName>, lanndtgrave im <placeName ref="lub-places-18">Cleckhew</placeName>, des 
+        <lb n="3"/><orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotwyl</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Bluemenegkh</placeName> etc., 
+        <lb n="4"/>gefännckhnus khomen unnd in seiner gnaden <placeName ref="lub-places-33">schloss zu Vadutz</placeName> gefiert worden bin umb disser 
+        <lb n="5"/>meiner nachgeschriben wolverschuldt sachen, das ich ain eelichen man, genant <persName ref="lub-actors-407">Jörg Marxer</persName>, zu 
+        <lb n="6"/><placeName ref="lub-places-36">Benndern</placeName> in meins gnadigen herrn obangezaigt herschafft <placeName ref="lub-places-11">Schellenberg</placeName> gehabt han, auch mit 
+        <lb n="7"/>im daselbs gehausset unnd aber, diewyl ich bey meinem man eelich gesessen bin, mit ainem an
+        <lb break="no" n="8"/>dern, genant <persName ref="lub-actors-408">Jörig Dieprecht</persName>, ubersechen unnd ains khinds von im schwannger worden, doch
+        <lb n="9"/>dasselbig khind bey unnd mit meinem man biss in die dreyzechen jar als für ain eelich khind auff
+        <lb break="no" n="10"/>erzogen, darnach, als mein man mit tod abganngen ist, dem bemelten <persName ref="lub-actors-408">Jörig Dieprechten</persName> das
+        <lb n="11"/>khind als seinem vatter geben hab wellen unnd aber er solichs sich gewiddert, mit im in recht 
+        <lb n="12"/>auff dem chorgericht zu <placeName ref="lub-places-102">Chur</placeName> gestannden, alda mit im unnd dem rechten meiner khünden ettlichs 
+        <lb n="13"/>ereerbtes gut, von irem vatter seligen herkhomen, verrechtet unnd darnach das uberbeliben mit 
+        <lb n="14"/>bulen gaistlicher unnd weltlicher, auch in annder weiss unnd gestalt verthon hab, derglichen in 
+        <lb n="15"/>der taylung nach meines mans tod ettlich schweyni bachen oder flaisch meinen khinden unndergeschlagen 
+        <lb n="16"/>unnd mir selbs vorbehalten unnd auch annder ungepürlich unnd unzimlich sachen unnd hanndlungen 
+        <lb n="17"/>gebraucht. Desshalben der eerevesst <persName ref="lub-actors-155">Caspar Mammnendorffer</persName>, der zeit meins gnadigen herrn unnd seiner 
+        <lb n="18"/>gnaden lanndtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, des gemüets unnd ennttlichen fürnemen gewesst, meiner verhandlung 
+        <lb n="19"/>nach mit mir peinlichen zufaren unnd mich an meinem leyb unnd gut zestraffen, aber solichs durch 
+        <lb n="20"/>unnderhanndlung, auch vleissig bitt unnd ersuchen ettlicher frumer biderbleut unnderstannden der 
+        <lb n="21"/>masen, das obgemelter, meins gnadigen herrn lanndvogt, mich in solicher verhanndlung genadig 
+        <lb n="22"/>angsechen unnd an seiner gnaden statt mir genad mitgetailt unnd mich solicher gefanckhnuss und 
+        <lb n="23"/>straff au<unclear>s</unclear>gelassen unnd ledig gemacht mit solichem geding, das ich von ersst mit den khin
+        <lb break="no" n="24"/>den widerumb taylen unnd das vorbehalten und unndergedruckht flaischs unnd anders bey
+        <lb n="25"/>meinem ayd darthun solle, darnach, das ich inen für das verthon gutt, wie obbemelt ist, da
+        <lb break="no" n="26"/>mit sy dann mein nit entgelten und des iren auch nit beraubt werden, in zwayen jaren
+        <lb n="27"/>nach datho diss brieffs zechen phund phening widerlegen unnd iren vögten uberantwurten 
+        <lb n="28"/>sölle, auch das khind, so ich dem vorgenanten <persName ref="lub-actors-408">Jörig Dieprechten</persName> mit recht nit geben hab mugen 
+        <lb n="29"/>unnd das khind geschmecht unnd zu ainem banckhart gemacht, das ich dasselbig khind wie dann 
+        <lb n="30"/>ainer mutter zustat, biss das es zu seinen tagen khompt, aufferziechen mit klaider unnd anderm 
+        <lb n="31"/>zu seiner notturfft nach meinem vermugen, umb disse vorgemelten und annder unzimlich 
+        <lb n="32"/>hanndlungen, so ich dann in meins gnadigen herrn herschafften gebraucht, gehanndelt unnd ge
+        <lb break="no" n="33"/>thon hab, auss den zwayen meins gnadigen herrn herschafften <placeName ref="lub-places-7">Vadutz</placeName> unnd <placeName ref="lub-places-11">Schellenberg</placeName> ziechen,
+        <lb n="34"/>derselbigen verzychen unnd darin mein lebenlang und zu eewigen zeitten nymermer khomen. Auff 
+        <lb n="35"/>solichs so hab ich, obgenante <persName ref="lub-actors-406">Barbara Millerin</persName>, dem obgenanten, meins gnadigen herrn lanndtvogt 
+        <lb n="36"/>an statt seiner genaden ain gelerten ayd mit uffgehaben fingern leyblich zu gott und den hai
+        <lb break="no" n="37"/>ligen geschworen, solichs stät, vesst und trewlich zuhalten, auch disse sach nymermer zu affern, auch
+        <lb n="38"/>mein gefännckhnus unnd, was sich darunder unnd darin verloffen hatt, gegen meinem gnadigen 
+        <lb n="39"/>herrn, seiner gnaden erben, freunden unnd nachkomen, vögten, amptleuten, deinern, auch gegen seinen 
+        <lb n="40"/>armenleutten, unnderthonen und zugehorigen, auch gegen allen denen, so seiner gnaden vögten, 
+        <lb n="41"/>amptleutten und anwälden zuversprechen stond, sy seyend gaistlich oder weltlich, besonnder die, so 
+        <lb n="42"/>an solicher meiner gefänckhnus schuld, rat oder that gehebt oder darunder verdacht seind, nymermer 
+        <lb n="43"/>eewigclich weder mit worten noch werckhen nichtz andtarn, affern noch zu rechen, auch weder lasster 
+        <lb n="44"/>noch layd darumb gegen inen fürnemen, sy auch deshalben nichts anzufordern, zu bekhimbern, zu er
+        <lb break="no" n="45"/>suchen oder umbzetriben, weder mit gaistlichen noch weltlichen gerichten, durch mich selbs oder yemandt
+        <lb n="46"/>von meynadt wegen, in khain weiss noch weg, unnd besonnder mich von disser verschreibung und 
+        <lb n="47"/>meinem gethon ayde nit absolviern, noch den uffheben zulassen, noch solichs zubestellen, noch 
+        <lb n="48"/>durch mich oder yemandt zuwegen bringen, das solichs bescheche von ainer bewegnuss ainicher 
+        <lb n="49"/>oberkhait, bäbstlichs, khaysserlichs, khünigclichs unnd anderm gewalt. Unnd ob ich obgenante 
+        <lb n="50"/><persName ref="lub-actors-406">Barbara Millerin</persName> uber kurtz oder lanng zeit (da got vor sey unnd mich behietten well) also 
+        <lb n="51"/>fraffenlich sein wurde, das ich disse urfecht unnd verschreibung in ainem oder meer artickheln nit
+        <pb facs="lub-media-439" n="2"/>
+        <lb n="52"/>stät unnd vesst hielt, wie sich dann befunnde, so begib ich mich hiemit selbs ain maynnayde ver
+        <lb break="no" n="53"/>urtaylte, eer und rechtlose fraw zusein unnd sollen unnd mugen alsdann obbemelter, mein gnadiger
+        <lb n="54"/>herr, seiner gnaden vögt, amptleut unnd annwäld, wo sy mich betretten, in stetten, märckhen, schlos
+        <lb break="no" n="55"/>sern, dorffern, uff lannd unnd wasser, nach mir greiffen, mich annemen, mit mir hanndlen und
+        <lb n="56"/>straffen lassen recht unnd macht haben, als gegen ainer, die ir glübd, ayd, zusagen unnd verschrei
+        <lb break="no" n="57"/>bung uberträtten und nit gehalten hat, darfür mich weder gaistlich noch weltlich gericht, auch
+        <lb n="58"/>khaynerlay freyhait noch lanndsbrauch nit helffen noch schirmen soll, will mich des hiemit 
+        <lb n="59"/>alsdann und dann als jetz begeben und verzigen haben. Unnd dess zu warem ur
+        <lb break="no" n="60"/>khund so hab ich, obgenante <persName ref="lub-actors-406">Barbara Millerin</persName>, mitsambt meinem vogt <persName ref="lub-actors-904">Jösen Hertner</persName> mit sonn
+        <lb break="no" n="61"/>derm vleiss gebetten den edlen unnd vessten <persName ref="lub-actors-156">Baltasser von Ramschwag</persName>, das er sein aigen
+        <lb n="62"/>insigel von meinet wegen an dissen brieff hiefür gedruckht hatt, doch im, seinen erben 
+        <lb n="63"/>unnd ynnsigel on allen schaden. Beschechen am <origDate>zeinsstag in der grossen wochen vor 
+        <lb n="64"/>ossteren nach Cristi unnsers lieben herrn gepurdt fünffzechenhunndert unnd im fünnff 
+        <lb n="65"/>unnd zwaynntzigisten jare</origDate>. 
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>

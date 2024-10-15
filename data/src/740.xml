@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-740">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Teilung des Zehnts in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: [LI-LA, PfäfA 22/03](https://lub.anton.ch/objects/740) / Originaldatierung: 14. Dezember 1570 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Teilung des Zehnts in Eschen zwischen den Klöstern Pfäfers und St. Luzi in Bendern durch den Sarganser Landschreiber. Erneuerung des Urbars von 1550.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-309">Pfäfers, Kloster</persName>
+          <date when="1570-12-14">14. Dez 1570</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1547" n="1"/><lb n="1"/>
+                    Verzeichnus der äcker, welche dem gottshaus <orgName ref="lub-actors-337">Benderen</orgName>,
+                    <lb n="2"/>
+                    oder dem gottshauß <orgName ref="lub-actors-309">Pfevers</orgName> zehendbar seind anno 1570, in bey
+                    <lb break="no" n="3"/>
+                    wesen irer gnaden <persName ref="lub-actors-882">Christian</persName> <orgName ref="lub-actors-337">S. Lucii</orgName> abbatis und eines abge-
+                    <lb break="no" n="4"/>
+                    santen von <orgName ref="lub-actors-309">Pfevers</orgName>. Solches auch an beschehenem tag dem herren von
+                    <lb n="5"/>
+                    <orgName ref="lub-actors-309">Pfevers</orgName> und landtschreiber zue <placeName ref="lub-places-76">Sarganß</placeName> eröffnet worden.
+                    <lb n="6"/>
+                    Beschehen im gottshaus zue <orgName ref="lub-actors-337">Benderen</orgName>.
+                </p>
+        <p><lb n="7"/>
+                    Erstlichen alle ackher, so under dem <placeName ref="lub-places-440">Widum</placeName> und amman <persName ref="lub-actors-65">Brendlins</persName> widum
+                    <lb n="8"/>
+                    <placeName ref="lub-places-439">Ackher</placeName> ligen, biß an den <placeName ref="lub-places-441">Eschner Widum</placeName>, gehören dem herren zue Bendern.
+                </p>
+        <p><lb n="9"/>
+                    Zum andern deß alten <persName ref="lub-actors-889">Ruodolph Maders</persName> ackher und andere,
+                    <lb n="10"/>
+                    wie von alters hero, gehören gen <orgName ref="lub-actors-309">Pfevers</orgName> und <placeName ref="lub-places-35">Eschen</placeName>.
+                </p>
+        <p><lb n="11"/>
+                    Zum driten ob dem <placeName ref="lub-places-440">Widum</placeName> der pfarr zue <orgName ref="lub-actors-337">Benderen</orgName> deß amman
+                    <lb n="12"/>
+                    <persName ref="lub-actors-65">Brendlins</persName> <placeName ref="lub-places-439">Ackher</placeName>, <persName ref="lub-actors-1066">Thoma Dietbrecht</persName> und darzwischen biß an
+                    <lb n="13"/>
+                    den weingarten gehören gen <placeName ref="lub-places-35">Eschen</placeName>. Waß aber ob des <persName ref="lub-actors-1066">Thoman
+                    <lb n="14"/>
+                    Dietbrechts</persName> gemelts ackhers, gehören all gen <placeName ref="lub-places-36">Benderen</placeName> deß <persName ref="lub-actors-1067">Jacob
+                    <lb n="15"/>
+                    Gestöllß</persName>, und waß darob ist biß an den <placeName ref="lub-places-435">Hurdstall</placeName>, alles gen <placeName ref="lub-places-36">Benderen</placeName>.
+                </p>
+        <p><lb n="16"/>
+                    Zum vierten der <placeName ref="lub-places-434">Gueler</placeName> ob der gassen und waß vorhin gen <placeName ref="lub-places-36">Benderen</placeName>
+                    <lb n="17"/>
+                    gehört und sich mitgetheilt hat, gehört alles gen <placeName ref="lub-places-36">Benderen</placeName>.
+                </p>
+        <p><lb n="18"/>
+                    Zum fünfften deß <persName ref="lub-actors-1067">Gestöllen</persName> grossen ackher, dem gottshauß <orgName ref="lub-actors-337">St.
+                    <lb n="19"/>
+                    Luzi</orgName> gehörig, gehört gen <placeName ref="lub-places-35">Eschen</placeName> oder <orgName ref="lub-actors-309">Pfevers</orgName>, waß aber darob ligt,
+                    <lb n="20"/>
+                    daran stost und vor gen <placeName ref="lub-places-36">Benderen</placeName> gehört hat, verbleibt.
+                </p>
+        <p><lb n="21"/>
+                    Item deß <persName ref="lub-actors-1068">Hansen Gestölls</persName> <placeName ref="lub-places-342">Malanser</placeName>, so vor gen <placeName ref="lub-places-36">Benderen</placeName>
+                    <lb n="22"/>
+                    verzechnet, gehört jezunder gen <placeName ref="lub-places-35">Eschen</placeName>.
+                </p>
+        <p><lb n="23"/>
+                    Waß aber ohne dise benambsete stuckh und äckher vorhin jedem
+                    <lb n="24"/>
+                    theil zuegehört hat, verbleibt bey alten herkhommen.
+                </p>
+        <p><lb n="25"/>
+                    Obgeschribne stuckh und güeter seind alle im
+                    <lb n="26"/>
+                    feldt, genant das <placeName ref="lub-places-404">Binder Feldt</placeName>.
+                    <pb facs="lub-media-1548" n="2"/>
+                    <lb n="27"/>
+                    Daß groß feldt, die <placeName ref="lub-places-430">Halden</placeName> genant, darinnen gehört iro fürstlich gnaden
+                    <lb n="28"/>
+                    zue <orgName ref="lub-actors-309">Pfevers</orgName> der zehenden, gar ausgenommen, waß der pfarr
+                    <lb break="no" n="29"/>
+                    pfruendt äckher zue <placeName ref="lub-places-35">Eschen</placeName> seind.
+                </p>
+        <p><lb n="30"/>
+                    Mehr daß <placeName ref="lub-places-433">Flux Veldlin</placeName> und daß <placeName ref="lub-places-432">Bösch Veldlin</placeName>, die 2 gehören
+                    <lb n="31"/>
+                    auch ir fürstlich gnaden zue <orgName ref="lub-actors-309">Pfevers</orgName>, aber mit dem herren
+                    <lb n="32"/>
+                    pfarrherr zue <placeName ref="lub-places-35">Eschen</placeName> zue verwexlen je das drite jar.
+                </p>
+        <p><lb n="33"/>
+                    Item <placeName ref="lub-places-431">Bülß Veldlin</placeName>, gehört zum <placeName ref="lub-places-404">Binder Veld</placeName>, ist aber der zähenden
+                    <lb n="34"/>
+                    darvon dem gottshauß <orgName ref="lub-actors-309">Pfevers</orgName> allein zuestendig, ist auch
+                    <lb n="35"/>
+                    im wexel, wie die anderen velder.
+                </p>
+        <p><lb n="36"/>
+                    Mer ein veldlin, das <placeName ref="lub-places-429">Müsner Veld</placeName> genant, gehört zum <placeName ref="lub-places-442">Thal</placeName>, gehört
+                    <lb n="37"/>
+                    der zähenden auch dem gottshaus <orgName ref="lub-actors-309">Pfevers</orgName> gar, ist im
+                    <lb n="38"/>
+                    wexel wie andere velder.
+                </p>
+        <p><lb n="39"/>
+                    Mer ein ackher zue <placeName ref="lub-places-30">Mura</placeName> im <placeName ref="lub-places-436">Pfaltzveld</placeName>, genant den
+                    <lb n="40"/>
+                    <placeName ref="lub-places-437">Weyackher</placeName>, gehört zum <placeName ref="lub-places-442">Thal</placeName>, darvon gehört daß halbe
+                    <lb n="41"/>
+                    theil alle jar dem gottshauß <orgName ref="lub-actors-309">Pfevers</orgName> und daß
+                    <lb n="42"/>
+                    ander halb theil dem herren <orgName ref="lub-actors-1073">graven von Embs</orgName>.
+                    <pb facs="lub-media-1549" n="3"/>
+                    <lb n="43"/>
+                    Uff den 14. tag deß monats decembris im 1550. jar ist diß
+                    <lb n="44"/>
+                    urber erneweret worden durch die fürnemmen und weysen
+                    <lb n="45"/>
+                    <persName ref="lub-actors-1069">Hannßen Regler</persName>, der zeit amman zue <orgName ref="lub-actors-309">Pfevers</orgName>, richter
+                    <lb n="46"/>
+                    zue <placeName ref="lub-places-174">Ragatz</placeName>, <persName ref="lub-actors-1070">Luzi Christa</persName>, schreiber zue <orgName ref="lub-actors-309">Pfevers</orgName>, in beysein
+                    <lb n="47"/>
+                    <persName ref="lub-actors-65">Peter Brendlins</persName> zue <placeName ref="lub-places-35">Eschen</placeName> alß hierzue erbetenen gezeugen.
+                </p>
+        <p><lb n="48"/>
+                    Erstlich so ist zue wissen, das der kilchensatz zue <placeName ref="lub-places-35">Eschen</placeName> sambt wein 
+                    <lb n="49"/>
+                    und kornzähenden dem gottshaus <orgName ref="lub-actors-309">Pfevers</orgName> zum theil
+                    <lb n="50"/>
+                    zuegehörig.
+                </p>
+        <p><lb n="51"/>
+                    Item <persName ref="lub-actors-1071">Andreß Zähenders</persName> erben zinsen jerlichen 3 schilling d.
+                    <lb n="52"/>
+                    an weißbrot vom lehen und seind dise hienach volgenden
+                    <lb n="53"/>
+                    underpfanden darumb.
+                </p>
+        <p><lb n="54"/>
+                    Item ein weingarten, ligt im <placeName ref="lub-places-438">Grafen</placeName> im <placeName ref="lub-places-35">Eschner</placeName> kilchspel,
+                    <lb n="55"/>
+                    stost erstlichen an der <orgName ref="lub-actors-7">graven von Sultz</orgName> weingarten, oben
+                    <lb n="56"/>
+                    an <orgName ref="lub-actors-337">St. Luzis</orgName> weingarten, hinaußwert auch an der
+                    <lb n="57"/>
+                    <orgName ref="lub-actors-7">graven von Sulz</orgName> guet, dahinden an <persName ref="lub-actors-1072">Hannß Kochs</persName> von
+                    <lb n="58"/>
+                    <placeName ref="lub-places-35">Eschen</placeName> weingarten, und unden an des hauß von <orgName ref="lub-actors-172">Österichs</orgName>
+                    <lb n="59"/>
+                    erblehen.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1550" n="1"/><lb n="1"/>
+                    Außzug.
+                    <lb n="2"/>
+                    Die äckher und güeter zue
+                    <lb n="3"/>
+                    <placeName ref="lub-places-35">Eschen</placeName> betreffend etc.
+                    <lb n="4"/>
+                    Anno 1570.
+                    <lb n="5"/>
+                    N2 littera B
+                    <lb n="6"/>
+                    G
+                    <lb n="7"/>
+                    fas. XVII. tit. <placeName ref="lub-places-35">Eschen</placeName>.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

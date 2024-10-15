@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-598">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Grundstück in Planken</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-598">LI-LA, Schä U 67</ref> / Originaldatierung: 11. November 1560 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Klaus Kaufmann von Planken und seine Frau Stina Nägele verkaufen einen Zins von 7 Schilling ab ihrem Gut "Judenhalde" in Planken für 7 Pfund Pfennig an Joachim Quaderer von Vaduz und Lorenz Fritsch von Schaan, die Spendmeister des Kirchspiels Schaan.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-260">Armenwesen</term>
+          <term ref="lub-keywords-349">Spend</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-456">Kaufmann, Klaus</persName>
+          <date when="1560-11-11">11. Nov 1560</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-457">Nägele, Stina</persName>
+          <date when="1560-11-11">11. Nov 1560</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-292">Frommelt, Stefan (1)</persName>
+          <date when="1560-11-11">11. Nov 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-489" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-456">Claus Kauffman</persName> ab <placeName ref="lub-places-124">Plannckhen</placeName> unnd ich <persName ref="lub-actors-457">Stina Negelin</persName>, sein eeliche hausfrow, bekhennen offennlich und thuen kundt allermenigclich mit dem brief, 
+<lb n="2"/>das wir mit veraintem guetem willen, wolbedachtem synn unnd mueth zu furderung unnsers nuz, besonnder mit hannd des ersamen weisen <persName ref="lub-actors-292">Steffan 
+<lb n="3"/>Frumoldts</persName>, der zeit aman der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, aufrecht unnd redlich verkhaufft unnd zukhauffen gegeben haben ainss stetten, vesten, eewigen unnd ymer
+<lb break="no" n="4"/>werennden kaufs unnd geben auch also hiemit wissenndtlich unnd in crafft diss briefs den erbern, beschaidnen <persName ref="lub-actors-543">Joachim Quaderer</persName> von <placeName ref="lub-places-1">Vaduz</placeName> unnd <persName ref="lub-actors-544">Lenz
+<lb n="5"/>Fritschen dem jungern</persName> zu <placeName ref="lub-places-53">Schan</placeName> als diser zeit verordnete unnd gesezte <term ref="lub-keywords-349">spennd</term> maister des kirchspels <placeName ref="lub-places-53">Schann</placeName> unnd allen iren nachkhomennden <term ref="lub-keywords-349">spennd</term>
+<lb break="no" n="6"/>maistern ermelter <term ref="lub-keywords-349">spennd</term> nemlich siben schilling pfening gueter <placeName ref="lub-places-101">Costennzer</placeName> munz <placeName ref="lub-places-10">Veldkhircher</placeName> werung rechts eewigs jerlichs zinss unnd pfenig
+<lb n="7"/>gelz von, ausser unnd ab unnserm aignen stuckhe guet auf <placeName ref="lub-places-124">Plannckhen</placeName> gelegen, genannt die <placeName ref="lub-places-215">Juden Halden</placeName>, stost abwert dem lannd nach an <persName ref="lub-actors-1009">Morizin Frickhen</persName> 
+<lb n="8"/>seligen erben, gegen dem berg wert an die allmain, aufwert an <persName ref="lub-actors-1010">Hannsen Gasner</persName> unnd gegem <placeName ref="lub-places-103">Rein</placeName> wert an <persName ref="lub-actors-1011">Hannsen Frumoldt</persName> etc., alles ab grundt, grat, 
+<lb n="9"/>veld, wasen, wun, waid, stockh, stain, gestein, gereut, genngen, stegen unnd wegen und gemainlich mit allen anndern seinen rechten unnd zuegehörden, 
+<lb n="10"/>benembten und unbenembten, auch fur ledig und gegen allermenigclich unverkhumbert. Unnd also ist der eewig redlich kauf erganngen unnd 
+<lb n="11"/>beschechen umb siben pfundt pfening gueter vorgeschribner munz unnd werung, dero wir aller gar von inen, den <term ref="lub-keywords-349">spennd</term>maister, als keuffere erberlich 
+<lb n="12"/>ausgericht unnd bezalt worden sind nach unnserm gueten benuegen. Darumben sollen unnd wöllen wir, auch all unnser erben unnd nachkhomen oder, 
+<lb n="13"/>wer das obgemelt underpfanndt nach unns ymmer innhat, nuzet unnd prauchet, gemelten zinss inen, den <term ref="lub-keywords-349">spennd</term>maister, als keuffere unnd 
+<lb n="14"/>allen iren nachkhomennden innhabern diss briefs nunhinennthin, ymer, eewigclich und je jerlich alle jar auf <term ref="lub-keywords-365">sanndt Marthins tag</term>, achttag vor oder 
+<lb n="15"/>nach ungevarlich, guetlich ausrichten, zinsen und zu iren sichern hannden unnd gewalt für alles verhefften, verpieten unnd enndtwern geben unnd 
+<lb n="16"/>anndtwurten, gennzlichen one allen iren costen unnd schaden. Wann, wie oder weliches jars das aber also nit bescheche uber kurz oder lanng zeit, 
+<lb n="17"/>so ist inen das obgemelt unnderphanndt, in seinen bestimbten marckhen begriffen, gannz zinsfellig worden unnd dannennthin mit grund, 
+<lb n="18"/>grat unnd mit allen anndern seinen obgenanten rechten, pesserungen und zugehörden zu rechtem eewigem aigen ymmermer haimbgevallen und 
+<lb n="19"/>verfallen, on unser, aller unser erben u<supplied>n</supplied>d nachkhomen unnd allermenigclichs von unsern wegen irrung unnd widersprechen. Unnd hierauf 
+<lb n="20"/>diss eewigen redlichen kaufs umb zins<supplied>fe</supplied>llige unnd fur all abgenng unnd minderung des obgenannten unnderpfandts, auch hauptguez, zinss unnd 
+<lb n="21"/>schadens und aller obgenannter ding söllen und wöllen wir, auch alle unnser erben unnd nachkhomen der genannten keuffer unnd <term ref="lub-keywords-349">spend</term>maister 
+<lb n="22"/>unnd allen irn nachkhomen recht, guet unnd getrew krefftig gewern, furstandt und versprecher gegen allermenigclich sein vor dem richter 
+<lb n="23"/>und gericht, darunder das obgemelt unnderpfandt ligt, wa, wie, wenn oder gegen wem, als offt und dickh sy das nach dem rechten ymmer bedurffen 
+<lb n="24"/>oder notturfftig werden, alfart in unnserm aignen costen, one iren schaden, bei gueten trewen, on alle widerred, aufzug unnd geverde. Unnd wie
+<lb break="no" n="25"/>woll der brief ainen eewigen kauf ausweist, nicht desterweniger mugen wir, auch all unnser erben und nachkhomen den gemelten zinss von inen,
+<lb n="26"/>keuffern unnd <term ref="lub-keywords-349">spennd</term>maistern, auch allen iren nachkhomen, woll widerumben kauffen und ablösen nunhinennthin, wann und weliches jars 
+<lb n="27"/>wir wellen, uber kurz oder lanng zeit, doch vor zinsfall unnd auf <term ref="lub-keywords-365">sanndt Marthins tag</term>, achttag vor oder nach ungevarlich, samennthafft mit dem 
+<lb n="28"/>obgeschribnen hauptguet, den siben pfundt pfeningen, unnd albegen mit gevallnen ausstenndigen zinsen, auch mit gueter munz unnd weerschafft, 
+<lb n="29"/>daran sy kainen verlurst noch abganng haben, ob sich die yezig munz in der zeit verenndern wurde, alles ungevarlich. Unnd des zu 
+<lb n="30"/>warem urkhundt haben wir, obgemelte verkheuffere, mit vleys unnd ernnst erpetten den obgedachten aman <persName ref="lub-actors-292">Steffan Frumoldt</persName>, dz der sein 
+<lb n="31"/>innsigel für unns unnd unnser erben (doch ime unnd seinen erben one schaden) offennlich an disen brief gehennckht hat, der geben ist <origDate>an 
+<lb n="32"/>sanndt Marthins tag anno etc. im funffzechennhundert unnd sechzigisten</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

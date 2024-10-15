@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-764">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beschwerde der Stadt Maienfeld</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Stadt Maienfeld beschwert sich, dass die Reichsgüter durch das Schellenbergische und dann über den Rhein und jenseits des Rheins hinauf passiert werden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-319">Handel</term>
+          <term ref="lub-keywords-306">Ware</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1553-01-01">1. Jan 1553</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1796" n="1"/><lb n="1"/>Unnser fruntlich gruß sampt waß wier ewr liebs  
+<lb n="2"/>und gutz vermogend, frommer vester her lantvogt  
+<lb n="3"/>und fruntlicher nachpur. Wier sind bericht durch from  
+<lb n="4"/>fronlüt, wie etlich koufflüt old vactoren, ire güter und  
+<lb n="5"/>waren, welchenley die sigend von <placeName ref="lub-places-50">Lindouw</placeName> gan <placeName ref="lub-places-502">Rineck</placeName>, und  
+<lb n="6"/>von <placeName ref="lub-places-502">Ryneck</placeName> durch daz <placeName ref="lub-places-104">Rinthal</placeName> uff über den <placeName ref="lub-places-11">Schelberg</placeName> vercken,  
+<lb n="7"/>desglichen abwert ouch dieselbigen straß, die gutor vercken,   
+<lb n="8"/>dardurch ewern wagnern und ouch desgleichen unß und  
+<lb n="9"/>unsern wagnern abgang beschicht, es sige an zollenn  
+<lb n="10"/>oder hußgelt, vermeinend wier dwyl danocht die wag
+<lb break="no" n="11"/>ner sollend die rod erhalten, so sollend die khoufflut old vac
+<lb break="no" n="12"/>toren mit ir gütter und waren, sy vercken uff der rechten  
+<lb n="13"/>rychstraß hie, dißhalb <placeName ref="lub-places-103">Ryns</placeName>, dan es von alter har der  
+<lb n="14"/>bruch sige gsin. Wa aber ye solichs nit mochte sin, und sy  
+<lb n="15"/>die gütter uff und nider änhalbs <placeName ref="lub-places-103">Rynß</placeName> vercken wolten,  
+<lb n="16"/>wurden vilicht die wagner die rod nit erhalten mögen  
+<lb n="17"/>und so die khoufflut old vactoren nacher mit iren gütter  
+<lb n="18"/>old waren dise rychstraß wider vercken wolten und  
+<lb n="19"/>die wagner nit mochten vercken, wurde man die kouff
+<lb break="no" n="20"/>lüt old vactoren darum sorg tragen lassen, solich haben 
+<lb n="21"/>wir euch gutter meinung nit pärgen wellen, pitend euch  
+<lb n="22"/>hiermit um ain geschrifftliche antwurt, hier mit sind <gap/>  
+<lb n="23"/>gott dem herrn bevolchen. Geben am <origDate>ersten tag januarii  
+<lb n="24"/>anno etc. 1553</origDate> iar 
+<lb n="25"/>E g v landvogt, statvogt und rath  
+<lb n="26"/>zu <placeName ref="lub-places-106">Meyenfeld</placeName> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1797" n="1"/><lb n="1"/>Die stadt <placeName ref="lub-places-106">Mayenfeld</placeName> beschwehrt  
+<lb n="2"/>sich, daß die reichsgüter durch das  
+<lb n="3"/><placeName ref="lub-places-11">Schellenbergische</placeName> dann über den <placeName ref="lub-places-103">Rhein</placeName>  
+<lb n="4"/>und innseits des <placeName ref="lub-places-103">Rheins</placeName> hinauf  
+<lb n="5"/>passiren. 1553 
+</p>
+        <p><lb n="6"/>Die von <placeName ref="lub-places-106">Mayenfeld</placeName> beclagen  
+<lb n="7"/>sich wegen abfarung der  
+<lb n="8"/>gütter etc. anno 1553. 
+</p>
+        <p><lb n="9"/>Dem frommen eren vesten  
+<lb n="10"/><persName ref="lub-actors-24">Jufenalus Greder</persName> lantvogt  
+<lb n="11"/>uff <placeName ref="lub-places-7">Vadutz</placeName>, unnserm insonders   
+<lb n="12"/>günstigen fr<supplied>euntlichen</supplied> <supplied>n</supplied>ach
+<lb break="no" n="13"/>punrn zu handen
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

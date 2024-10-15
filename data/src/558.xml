@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-558">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Jakob Frick dem Älteren von Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-558">LI-LA, Schä U 36</ref> / Originaldatierung: 16. November 1523 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Frick der Ältere von Schaan, der inhaftiert worden war, weil er vor einigen Jahren Hans Watter von Feldkirch bei einem Zinsgeschäft Güter als Unterpfand eingesetzt hatte, ohne anzugeben, dass diese bereits anderweitig belastet waren, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-235">Delikt</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-268">Pfand</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-402">Frick, Jakob (1)</persName>
+          <date when="1523-11-16">16. Nov 1523</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1523-11-16">16. Nov 1523</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-347">Frick, Adam (1)</persName>
+          <date when="1523-11-16">16. Nov 1523</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-435" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-402">Jacob Frickh</persName> der elltter von <placeName ref="lub-places-53">Schan</placeName> bekenn offennlich und thue kunt allermenigkhlich mit dem brieff, als ich dann inn des wolgebornnen herrn, herrn <persName ref="lub-actors-8">Ruedollffen, graffe
+                  <lb n="2"/>zu Sultz</persName>, lanndtgrafe im <placeName ref="lub-places-18">Clegkaw</placeName>, des <orgName ref="lub-actors-516">Heilligen Römischen Reichs</orgName> hofrichter zu <placeName ref="lub-places-17">Rottwyl</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-12">Bluemennegg</placeName> unnd <placeName ref="lub-places-11">Schellennberg</placeName> etc., daselbs zu <placeName ref="lub-places-1">Vadutz</placeName> gefennckhnus komen bin
+                  <lb n="3"/>von wegen, daz ich vor ettlichen verschinen zitten und jaren ainem von <placeName ref="lub-places-10">Veldkirch</placeName>, genannt <persName ref="lub-actors-403">Hannsen Watter</persName>, seligen ain zins gemacht und ime deßhalben ettliche stuckh und guetter für frei, ledig
+                  <lb n="4"/>unnd los zu unnderphanndt eingesetzt nach lut derselben zinßbrief etc. und aber dieselben gueter vormals anndern verhafft und zins daruf gemacht und brief uber brief gebenn. Deß
+                  <lb break="no" n="5"/>halben mich mein gnediger herr wol an minem leib und leben straffen het mügenn, aber sollichs durch bit frumer, ersamer lüt und auch meiner fruntschafft so hat der fürsichtig,
+                  <lb n="6"/>ersam und weys <persName ref="lub-actors-155">Casper Mammenndorffer</persName>, meins gnedigen herrn vogt, sollich ernnstlich bit meiner fruntschafft, annder ersamer lüt, och meins weibs und meiner klainen uner
+                  <lb break="no" n="7"/>zogner kind angesechen und zu hertzenn genomenn und mir anstat mins gnedigen herren gnad bewisen und mich des rechtens auch fennckhnus gnedigkhlichen erlassen, also mit der beschay
+                  <lb break="no" n="8"/>donhait, daz ich minem gnedigen herrn zu straff und pues gebe solle nemlich zwaintzig phund pheninng guetter <placeName ref="lub-places-101">Costenntzer</placeName> muntz <placeName ref="lub-places-10">Veldkircher</placeName> werung. Deßhalben honnd die ersamen
+                  <lb n="9"/><persName ref="lub-actors-347">Adam Frickh</persName>, aman zu <placeName ref="lub-places-7">Vadutz</placeName>, <persName ref="lub-actors-899">Tys Wynntzierle</persName> und <persName ref="lub-actors-599">Hennßli Mader</persName>, <persName ref="lub-actors-900">Jörgen Maders</persName> sun, bed zu <placeName ref="lub-places-53">Schan</placeName>, als umb fünfftzechen phund phening als trosster für mich verhaissen und zuegesagt zube
+                  <lb break="no" n="10"/>zallen. Unnd die ubrigen fünff phund, so ich uber die fünfftzechen phund schuldig bin, soll und will ich und mein husfraw in jars frisst nach dato dits brieffs mit arbait oder mit annderem,
+                  <lb n="11"/>damit mein gnediger herr betzallt werd, so offt mich mein herr vogt ermant, abwerckhen und zallenn. Ich soll unnd will auch alle mein hab und guet, ligennde und varennde, nit veraber
+                  <lb break="no" n="12"/>wanndlenn, unntzt mein gnediger herr ganntz und gar betzallt und ußgericht wirt und och die frumen lüt für mich verhaissen hond zugeben. Und daruff hab ich obgemellter <persName ref="lub-actors-402">Jacob Frickh</persName> uss
+                  <lb n="13"/>freyem eignem muet und guetem willen mit trewen gelobt und dartzue mit gelertten worttenn leiblich zu got und den heilligenn an ayd mit uff gepottnen fingern geschworenn, daz ich vorberuerte
+                  <lb n="14"/>gefennckhnus und alles, das mir dartzue, dar inn, vor und nach begegnet ist, weder durch mich selbs personnlich noch durch annder nymmermer gegenn minem gnedigen herren <persName ref="lub-actors-8">graf Ruedollffen zu
+                  <lb n="15"/>Sultz</persName>, den seinen, noch gegen seiner gnadenn erben, armen lütten und seiner gnaden vogt obgemellt und ambtlüt, auch allen denenn, die an solher meiner fennckhnus schuld, hillff, ratt und tatt gehebt
+                  <lb n="16"/>oder darundter erdacht sind, es seyen geistlich oder weltlich, yetz und hinfuro nymmer mer eewigkhlich weder mit wortten, werckhen, rätten unnd getätten, haimlich noch offennlich zu anntenn,
+                  <lb n="17"/>zu afern, zu rechen, lasster oder layd darumbenn gegen inen fürnemenn, sy deß halben nit antzuerfordernn, zubekomernn, zuersuechenn oder umbtzutribenn, weder mit geistlichem oder welltlichem ge
+                  <lb break="no" n="18"/>richt, noch das durch mich selbs oder yemannd anndernn, <supplied>i</supplied>n kain weys noch weg, und besonnder mich von diser verschreibung und mein ayde nit absolvierenn noch den uffhebenn zulassen noch daz durch
+                  <lb n="19"/>mich selbs oder yemanndt anndern schaffen, bestellenn oder zu wegen bringenn, daz sollichs bescheche, von aigner bewegnus kainer obrigkait, bebstlichs, kayserlichs, khunigkhlichs gewaltz ungefarlich,
+                  <lb n="20"/>also mit den rechten, fuegte es sich uber kurtz oder lanng zit, da got vor seye, daz ich diß urfecht unnd verschreibung in ainem oder mer ar<supplied>thi</supplied>khln nit hiellt und darwider tätte alls obstat, wie sich daz
+                  <lb n="21"/>erfunde, so bin ich ain mayn ayder, verurtayllter, eere und rechtloser man und sollen der benannt, mein gnediger herr, alle seiner g<supplied>nad</supplied>en erben und nachkomenn oder seiner gnaden vögt und ambt
+                  <lb break="no" n="22"/>lütt von iro wegenn on allen ennden und stettenn, wa sy mich betrettenn und ergreiffen mugen, mit mir gefarenn, hanndlen unnd thuen, wie und waz sy wöllen, alls mit ainem verurtaillten, eere
+                  <lb n="23"/>und rechtlosen man, alls ob gericht und recht uber mich ganngen wäre. Und vor allem dem sonnder noch sambt mich noch mein lebenn ganntz nichtz nit freyen, fristen oder schiermenn soll keiner
+                  <lb break="no" n="24"/>lay bebstlich, kayserlich oder khünigkhlich noch annder wellicherlai geistlich oder welltlich privilegien, freyhait, gnad, gericht noch recht, kain stattrecht, freyrecht, lanndtrecht, lannt
+                  <lb break="no" n="25"/>frid noch burgrecht, kain schiermm noch hillff, eynung, verbunttnus, gesellschafft, geleit, trosstung, gebott, verbott, uffsatzung, herkomenn noch gewonnhait, fürssten, herren, stett noch lanndts,
+                  <lb n="26"/>noch gemainlich oder sonnderlich, gar nit annnders uberall, so yemannd zeschirm hiewider erdennckhen kan oder mag, keins wegs, dann ich mich des alles harynn vertzeiche und begib wissent
+                  <lb break="no" n="27"/>lichen in crafft des brieffs, unnd dartzue in sonnders des rechten, das da weyset ain gemainhait, nit verfache, es ganng danne eyn sonndere vor. Und wir, obgenanntte hindergennger und pürgenn
+                  <lb n="28"/>bekennenn inn sonnders in crafft des brieffs, daz wir solliche obbemellte funfftzechen phund phening bei unnsern guetten trewen an aidsstat gelobt und angenomenn habenn zubetzallenn, on all wider
+                  <lb break="no" n="29"/>red, ufftzaig und verhindrung, alles on geverde. Unnd des alles, wie hievorgeschribenn stadt, zu warem vesstem urkundt hab ich offt gemellter <persName ref="lub-actors-402">Jacob Frickh</persName> alls selbs tetter mit vleis erpeten
+                  <lb n="30"/>unnd gepeten den edlen und vessten <persName ref="lub-actors-156">Ballthesar von Rambschwag</persName>, vogt zu <placeName ref="lub-places-13">Guettennberg</placeName>, mein günstigen junckhern, daz er meinennthalbenn zu zückhnus diser obgeschriben sachen sein aigenn
+                  <lb n="31"/>innsigl, doch im, sein erben und insigl on allen schaden, an den brieff gehennckht hat. Und ich obgenannter aman <persName ref="lub-actors-347">Frickh</persName> alls trosster hab och für mich mein aigen insigl an den brieff gehennkht.
+                  <lb n="32"/>Und wir obgenannte purgen <persName ref="lub-actors-899">Tys Wintzierli</persName> und <persName ref="lub-actors-599">Hennßli Mader</persName> honnd den obgemellten aman <persName ref="lub-actors-347">Frickhenn</persName> mit vleis erpeten, daz er sin aigen innsigl von unnsernttwegenn och an disen brieff
+                  <lb n="33"/>gehennckht hat, der geben ist an <origDate>mentag nach sannd Marttins tag nach Cristi gepurde funfftzechennhundert und im drew unnd zwaintzigisten jare</origDate>.
+               </p>
+      </div>
+    </body>
+  </text>
+</TEI>

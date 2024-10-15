@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-33">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Jörg Pergant von Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-33">LI-LA, U 19</ref> / Originaldatierung: 4. Juni 1537 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Regest: Joseph Ospelt: Ausführliche Regesten aus den Urkunden des fürstlich liechtensteinischen Regierungsarchivs, in: JBL 26 (1926), S. 111-134, hier S. 120-122.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jörg Pergant von Balzers, Ammann der Herrschaft Vaduz, der von Georg Vockh, Landvogt in Vaduz, verhaftet worden war, weil er sich vor einigen Jahren am Bauernaufstand gegen Graf Rudolf von Sulz beteiligt, seine Tochter trotz des Verbots ins lutheranische Maienfeld verheiratet und einen Versuch von Graf Johann Ludwig von Sulz, neue Mitbürgen für eine Schuldverschreibung zu gewinnen, hintertrieben hatte, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-52">Widerstand</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-270">Ehe</term>
+          <term ref="lub-keywords-35">Protestantismus</term>
+          <term ref="lub-keywords-66">Bauernkrieg 1525</term>
+          <term ref="lub-keywords-281">Aufenthaltsgebot</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-29">Pergant, Jörg</persName>
+          <date when="1537-06-04">4. Jun 1537</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1537-06-04">4. Jun 1537</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-97" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-29">Geörg Pargandt</persName> von <placeName ref="lub-places-71">Balthers</placeName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, bekhenn offennlich und thue khundt allermenigklich, so jez in leben und hernach kunfftig synnd, wissentlich mit dem brieve, demnach ich vor etlichen jaren in
+                  <lb n="2"/>geschwepter peurischer auffruer wider den wolgepornen hern, hern <persName ref="lub-actors-8">Ruedolffen graven zu Sulz</persName>, lanndtgraven im <placeName ref="lub-places-18">Kleckhew</placeName>, des <orgName ref="lub-actors-516">Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, hern zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName>, <orgName ref="lub-actors-516">römischer</orgName> zue
+                  <lb n="3"/><placeName ref="lub-places-146">Hunger</placeName> und <placeName ref="lub-places-162">Behaim</placeName> kunigklicher mayestat etc., meins allergnedigsten hern, stathalter der <placeName ref="lub-places-160">Oberössterreichischen Landen</placeName> etc., meinen genedigen hern seligen gedechtnus, in vergessen meiner pflicht und ayde, auch anhengig und derselben vor
+                  <lb n="4"/>andern taylhafftig gemacht und mich darunder auff den tag, als der edel und vesst <persName ref="lub-actors-682">Urban von Landegg</persName> zu <placeName ref="lub-places-1">Vaduz</placeName> mit gemainer paurschafft aus bevelch hochgedachter kunigklicher mayestat und vorgenants, meins genedigen herrn
+                  <lb n="5"/><persName ref="lub-actors-8">graff Ruedolffen zu Sulz</persName> etc. zu rueb und abstellung vermelter widerwertiger peurischer auffruer gehandelt, uber und wider mein gethone erhuldigung, auch ampt und gerichts ayde, zu wider vorgemeltem meinem genedigen herrn
+                  <lb n="6"/>in peurische ayde ingelassen und also radtschlag gesucht und furgenomen, ausschuz zemachen und gen <placeName ref="lub-places-102">Chaur</placeName> zu schickhen, gemaynen <orgName ref="lub-actors-808">Drew Pundten</orgName> in <placeName ref="lub-places-337">Chaurwalchen</placeName> zedanckhen, der guten freundtlichen nachpaurschafft, das sy die
+                  <lb n="7"/>spaniger<note>Wohl Söldner aus <placeName ref="lub-places-253">Spanien</placeName>.</note>, so von hocgedachter kunigklicher mayestat ins land <placeName ref="lub-places-263">Würtenberg</placeName> verordnet, also gewaltigklich verhindert und nit durch ziechen noch passieren haben lassen, darauff auch weiter zuverachtung vorgenants meins genedigen
+                  <lb n="8"/>hern offennlich versampt radts geredt, selichs haben wir vom graven, wo die spaniger also under die <placeName ref="lub-places-107">Staig</placeName> herab khamen, wären wir inen gut breiss gewesst zuschlaiphen und zuverderben, in welchen und dergleichen sachen und hand
+                  <lb break="no" n="9"/>lungen, so zu wider hochgedachter kunigklicher mayestat etc. und meinem genedigen hern gewessen, mich ganz ungeschickhlich gehalten. Am andern, alsdann der wolgeporn, mein genediger her seliger gedechtnus, durch seiner gnaden
+                  <lb n="10"/>vogt zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-155">Caspar Mammendorffer</persName>, gepott und verbott ausgeen hat lassen, das kainer seiner gnaden aigen und hindersäs ire kinder ausser seiner gnaden in auslendige herschafften und lauterische secten verheyraten, wo
+                  <lb n="11"/>aber selichs unwissend vatter und muter oder derselben freundtschafft bescheche, das sy doch darnach von denselben furhin nymermer ingelassen noch behausset und behoffet sellen werden, so hab ich doch hiruber mein leipliche
+                  <lb n="12"/>eeliche dochter gen <placeName ref="lub-places-106">Mayenfeld</placeName> durch meine verwandten verheyren und nachmals in und aus vorgenants, meins genedigen hern, herschafft uber mein gethonen ayde auch mein selbs aigen heusser und hoff wandern, handlen,
+                  <lb n="13"/>und mit hab und gut handtraichung verfolgen lassen. Und unangesechen selicher jezerzelter verhandlungen demnach, dann vorgenanter mein genediger her seliger gedechtnus umb anderthalb hundert guldin järlich zeins bar ver
+                  <lb break="no" n="14"/>schriben und aber die mitgülten vermag derselben hauptverschreibung alle todes verschaiden, deshalben der wolgeporn her, her <persName ref="lub-actors-35">Johanns Ludwig grave zu Sulz</persName>, landtgrave im <placeName ref="lub-places-18">Kleckhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoff
+                  <lb break="no" n="15"/>richter zu <placeName ref="lub-places-17">Rotweyl</placeName>, her zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName>, <placeName ref="lub-places-12">Bluemenegg</placeName> und phandther zu <placeName ref="lub-places-57">Altkirch</placeName> etc., mein genediger herr, weylend nach tödtlichem abgang seins herrn vatters, meins genedigen hern seliger gedechtnus, ander mitgulten an der ab
+                  <lb break="no" n="16"/>gegangen statt ersezen selt, hat sein gnad mich mit bevelch durch seiner gnaden vogt zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-155">Caspar Mammendorffern</persName>, zu den wolgeachten furnemen und weisen <persName ref="lub-actors-577">Stoffel Kramer</persName>, der zeit schulthais zu <placeName ref="lub-places-76">Sangans</placeName>, <persName ref="lub-actors-836">Jacob Zindeln</persName>, haupt
+                  <lb break="no" n="17"/>man und burger daselbst, <persName ref="lub-actors-837">Meinrat Tschaudi</persName> zu <placeName ref="lub-places-248">Trappeln</placeName>, <persName ref="lub-actors-307">Jacob God</persName>, disser zeit der <orgName ref="lub-actors-845">Syben Orthen</orgName> landaman in <placeName ref="lub-places-172">Sanganser land</placeName>, und <persName ref="lub-actors-431">Veit Friderich Hewern</persName> von <placeName ref="lub-places-343">Sachs</placeName> abgefertigt, dieselben zuersuchen und zu pitten, seiner gnaden mit
+                  <lb break="no" n="18"/>gulten zusein, welches sy also seiner gnaden aus guter nachpaurschafft willigklich zugesagt, darauff ich auch mich sampt andern ernanten mitgulten zu hindergenger underthenigklich erpoten und bewilligt, so hab ich uber diss alles
+                  <lb n="19"/>unersucht und ungepetten aus selbs aigem posem mutwillen geredt, vorgenanter, mein genediger her <persName ref="lub-actors-35">graff Johanns Ludwig zu Sulz</persName> etc., sey ain verdorbner her und das, so sein gnad noch schon vorgends hab, das verschenckh sein gnad,
+                  <lb n="20"/>sy, die mitgulten, sellen und mögen sich hirauff weiter verschreiben oder nit, ich well nit mer darhinder sein noch verschreiben, aus welchem dann vermelte mitgulten mit und neben meinem genedigen hern nit weiter mer verschreiben
+                  <lb n="21"/>noch besiglen haben wellen. Und dieweyl ich in selicher verhandlung mich der masen mit verächtlichen worten zu schmach und verklainung vorgenants meins genedigen hern fräffenlich und mutwilligklich erzaigt und ubersechen,
+                  <lb n="22"/>deshalb sich die sach sover gestreckht, das der wolgeacht, furnem und weiss <persName ref="lub-actors-404">Georg Vockh</persName>, der zeite des wolgepornen, vorgemelt meins genedigen hern, landtvogthe zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und obervogt zu <placeName ref="lub-places-12">Bluemenegg</placeName> etc., aus krafft
+                  <lb n="23"/>seiner gnaden mundtlichen und geschrifftlichen bevelch vencklich angenomen und gen <placeName ref="lub-places-1">Vaduz</placeName> in seiner gnaden <placeName ref="lub-places-33">schloss</placeName> fueren lassen und biss in den dritten tag vencklich endthalten. Und wiewol vorgenanter, mein genediger herr,
+                  <lb n="24"/>gut recht und fueg gehept hette, gegen mir umb selich mein fräffenlich verhandlungen und reden mit dem rechten zuverfaren, dieweyl ich seiner gnaden leibaigen und mit erbhuldigung und ampts ayde als meinem rechten
+                  <lb n="25"/>naturlichen erb und landshern verpflicht, deshalben mir selichs weniger als andern zuthun gepirtt hat, und aber sein gnad aus sonder gnaden und angeporner miltigkait, auch auff furpitte des edlen und vesten <persName ref="lub-actors-156">Balthasars
+                  <lb n="26"/>von Ramschwag</persName>, hochgedachter kunigklicher mayestat vogt auff <placeName ref="lub-places-13">Gutenberg</placeName>, meins geinstigen junckhers, gemainer priester und napurschafft und nachmals meiner freundtschafften, der herschafft <placeName ref="lub-places-7">Vaduz</placeName> seshafft, mich der strenge
+                  <lb n="27"/>des rechten erlassen und auff maynung, wie hernachvolgt, meiner gevenckhnus ledig gezelt. Auff das hab ich mit gutem freyem willen, wolbedachten synn und mut, ungenödt und unbezwungen, ledig aller venckhnus und
+                  <lb n="28"/>pand ainen ayd leiplich zu got dem almechtigen und den lieben hailigen mit auffgehoben vingern und gelerten worten geschworen, also das ich weder mit meinem aigen leib, weib, kinder, hab noch gut ausser meins genedigen
+                  <lb n="29"/>hern herschafften an seiner gnaden genediger vergunstigung nit begeben noch aussziechen, auch weder verendern noch verwenden, anderst dann zu meins leibs und guts narung, handtierung und werbung. Ich, meine kind und
+                  <lb n="30"/>freund noch jemands anderrer von meinen oder iren wegen sellen noch wellen auch selich mein gevenckhnus, und was dem anhengig und sich deshalb und darzwischen mit worten, werckhen, radten und gethaten von allermenigklihen
+                  <lb n="31"/>verloffen hat, gar nichzit ausgenomen, vorab gegen vorgenantem, meinem genedigen hern, seiner gnaden erben, noch iren verwandten, landen, leuten, aigen, hindersassen, gaistlichen und weltlichen, vegthen, amptleuten, dienern
+                  <lb n="32"/>und allen denen, so seiner gnaden zugehörig und zuversprechen stond und insondere gegen vorgenanten, seiner gnaden landtvogt zu <placeName ref="lub-places-7">Vaduz</placeName> etc., <persName ref="lub-actors-404">Georgen Vock</persName>, und derselben schreiber <persName ref="lub-actors-290">Franz Landtman</persName> daselbst und gemainklich
+                  <lb n="33"/>gegen allen andern, die an selicher vorgemelter handlung, annemung und venckhnus, was sich dann darinn und darzwischen begeben, aursach, hilff, radt oder that darzu gethan und bewisen haben, und auch gegen allen andern,
+                  <lb n="34"/>sy seyend verwandt oder unverwandt, gar niemands ausgeschlossen, gemainklich noch jedem besonder, jez noch furohin nymermer zu argem vermessen noch auch nit äffern, ändthen noch rechen noch darumb oder deshalb kain
+                  <lb n="35"/>ansprach haben, suchen oder furnemen, auch das nicht schaffen gethan werden noch jemandts zuthun vergunnen, weder mit noch one recht, gaistlichen noch weltlichen, weder haimlich noch offennlich, wie das erdacht werden oder
+                  <lb n="36"/>beschechen möcht, ganz in kain weiss noch weg. Und besonder, so soll und will ich mich furthin mein lebenlang selicher und dergleichen verächtlichen handlungen und schmachworten gänzlichen masen und aller pillicher gehorsami,
+                  <lb n="37"/>inhalt der erbhuldigung als ainem getrewen leibaigen und underthanen gepirtt gegen vorgemeltem, meinem genedigen hern, auch seiner gnaden gwalthabern, vögt und amptleuten underthenigklich und gutwillig erzaigen und halten, alles
+                  <lb n="38"/>und jedes bey dem vorgenantem, meinem geschwornen ayde. Dann, wo ich selichs meins ayds und zusagens in ainem oder mer artickheln ubersäche und nit dermasen hielte, wie vorangezaigt ist (darfor got sein und mich behueten
+                  <lb n="39"/>welle), alsdann so soll und will ich ain recht verurtaylter, maynaidiger, trew und eerloser man haissen und sein. Deshalben zu mir vorgemelter, mein genediger herr, seiner gnaden erben, vögt, amptleut und anweldt, ire helffer
+                  <lb n="40"/>oder wer das von iren wegen thun will, wo sy mich ankhomen und begreiffen, es sey in schlössern, stetten, dörffern, gerichten, auff wasser und auff land, zurichten, zuhandlen und zuverfaren, gut fueg und recht haben, on alle gnad
+                  <lb n="41"/>und rechtfertigung, als zu ainem maynaidigen, der sein gelupt, ayd und verschreibung fräffenlich uberthretten und nit gehalten hat. Und soll an mir domit und dardurch jemandt, wer der sey, ichts verschuldt noch verwirkht
+                  <lb n="42"/>haben, in kainen weg. Und zu dem allem, so soll und will ich und, <supplied>o</supplied>b ich nit were, meine erben umb vorangezaigt mein ubersechen, der verächtlichen verhandlung und schmechlichen worten halb in des wolgepornen, meins genedigen
+                  <lb n="43"/>hern straff ston, also wie und welcher masen derselb oder, wem sein gnad das befilcht, am gut zustraffen, dasselb guetigklich und willig annemen, tragen und ablägen, an alle inzug und widerred. Vor selichem allem und jedem, 
+                  <lb n="44"/>wie jez obbegriffen ist, soll und mag mich noch die, auff meiner seiten behafft und verwandt synd oder wurden, weder bapstlich, kayserlich, kunigklich noch anderer furssten und herrn, gaistlicher und weltlicher, freyung, freihait,
+                  <lb n="45"/>glait, gericht noch recht, gewalt, gesaz, gepott noch verbott noch ichzit anders befreyen, befriden noch beschirmen, dann ich mich sampt und sonderlich alles, so hiewider zu schuz und schirm furgebracht werden kundt, selt
+                  <lb n="46"/>oder möcht, auch des rechten gemainer verzeichung widersprechende, jezo als dann und dann als jezo mit wolbedachtem mut, gänzlich verzigen und begeben haben will. Und des zu warem, stätem und vesstem urkhundt, so
+                  <lb n="47"/>hab ich mein aigen ynsigel fur mich, meine erben und freunds verwandten an dissen brieff gehenckht und mit sondrem fleis und ernst gepetten und erbeten hochgedachter kunigklicher mayestat vogt auff <placeName ref="lub-places-13">Gutenberg</placeName>,
+                  <lb n="48"/><persName ref="lub-actors-156">Balthasarn von Ramschwag</persName>, meinen geinstigen junckhern, das er sein angeporn ynnsigel, doch ime und seinen erben one schaden, zugezeuckhnus der sach auch hierzu offennlich gehenckht hat an den brieff, der geben ist
+                  <lb n="49"/>am <origDate>vierten tag des monats juni nach der gepurtt Cristi, unsers seligmachers, gezalt thaussent veinffhundert dreissig und syben jare</origDate>.
+               </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-96" n="1"/><lb n="1"/>Zewissen sey menigklich, das <persName ref="lub-actors-29">Geörg Pargandt</persName> von <placeName ref="lub-places-71">Balthers</placeName>,
+                  <lb n="2"/>altaman, den artikhel in disser urfech begriffen, als haupt
+                  <lb break="no" n="3"/>secher also lautend: "Und zu dem allem, so soll und will
+                  <lb n="4"/>ich und, ob ich nit were, meine erben umb vorangezaigt
+                  <lb n="5"/>mein ubersechen, der verächtlichen handlung und schmechlichen
+                  <lb n="6"/>worten halb in des wolgeporn, meins genedigen herrn
+                  <lb n="7"/>straff ston etc.", mit veinffhundert guldin inhalt ains
+                  <lb n="8"/>schuldbrieffs, des anfang: "Ich <persName ref="lub-actors-29">Georg Pargandt</persName> von <placeName ref="lub-places-71">Balthers</placeName>,
+                  <lb n="9"/>altaman, etc." und sein dathum: "am <date when="1537-06-10">zehenden tag des mo
+                  <lb break="no" n="10"/>nats Junii anno etc. im xxxviio</date>" weissen, widerumb
+                  <lb n="11"/>aus disser aurfech auffgehept und erlediget hät. Dar
+                  <lb break="no" n="12"/>umben, so hat der wolgeporn her, <persName ref="lub-actors-35">her Johanns Lud
+                  <lb break="no" n="13"/>wig grave zu Sulz</persName> etc., mein genediger her, genanten
+                  <lb n="14"/><persName ref="lub-actors-29">Jerg Pargandten</persName> und seine erben obangezaigts artickels
+                  <lb n="15"/>halben hiemit ledig und los und furo darumben unan
+                  <lb break="no" n="16"/>sprechig zellen und sagen lassen, doch disser urfech an
+                  <lb n="17"/>allen andern irer inhaltungen ganz unvergriffen und
+                  <lb n="18"/>unschedlich.
+               </p>
+        <p><lb n="19"/><unclear>Urfed</unclear><lb n="20"/><persName ref="lub-actors-29">Jeörgen Pargandt</persName> von <placeName ref="lub-places-71"><supplied>B</supplied>alzers</placeName>,
+                  <lb n="21"/>aman zue <placeName ref="lub-places-7">Vaduz</placeName>, so sich im bauer
+                  <lb break="no" n="22"/>ischen aufruer gegen seinen g<gap/>
+                  <lb n="23"/>ges<gap/>t <unclear>u</unclear>nnd den baueren anhengig
+                  <lb n="24"/>ge<unclear>wesen</unclear><gap/>.
+                  <lb n="25"/>Anno <date>1537</date>
+               </p>
+      </div>
+    </body>
+  </text>
+</TEI>

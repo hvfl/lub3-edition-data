@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-577">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Christoph Matt von Frastanz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-577">LI-LA, Schä U 52</ref> / Originaldatierung: 17. Mai 1531 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. beschädigt, 2. fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Christoph Matt von Frastanz, der wegen falscher Kundschaft im Schloss Vaduz in Gefangenschaft gesetzt worden war, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-279">Betrug</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-235">Delikt</term>
+          <term ref="lub-keywords-346">Hubmeister</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-428">Matt, Christoph</persName>
+          <date when="1531-05-17">17. Mai 1531</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-81">Altmannshausen, Mauritius von</persName>
+          <date when="1531-05-17">17. Mai 1531</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-300">Lew, Bartholomäus</persName>
+          <date when="1531-05-17">17. Mai 1531</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-982">Matt, Algast</persName>
+          <date when="1531-05-17">17. Mai 1531</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-983">Matt, Hans</persName>
+          <date when="1531-05-17">17. Mai 1531</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-984">Matt, Gabriel</persName>
+          <date when="1531-05-17">17. Mai 1531</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-461" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-428">Stoffel Matt</persName> von <placeName ref="lub-places-69">Frasstentz</placeName> bekhenn und thun khundt allermenigklich mit dissem brieve, alsdann ich in des wolgebornen herrn, herrn <persName ref="lub-actors-8">Rudolffs graven zu Sultz</persName>, lanndtgraven im <placeName ref="lub-places-18">Cleckhgew</placeName>, des <orgName ref="lub-actors-516">Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, römischer, hungerischer und behämischer kunigklicher magestat etc., meins allergenedigissten herrn, stathalter der <placeName ref="lub-places-160">Oberössterreichischen Lannden</placeName> etc., herrn zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Blue
+<lb break="no" n="3"/>menegkh</placeName> etc., meins genedigen herrn, gefenckhnus khomen und in seiner gnaden <placeName ref="lub-places-33">schloss Vadutz</placeName> gefuert worden, daselbst biss an den sehsten tag ungefarlich vencklih gelegen umb disser meiner vorverschuldt sachen, be
+<lb break="no" n="4"/>nantlich, das ich in der rechtfertigung zwischen <persName ref="lub-actors-977">Hans Heugi</persName> von <placeName ref="lub-places-399">Tossters</placeName> und seinem knecht <persName ref="lub-actors-978">Peter Bischoff</persName> an ainem und <persName ref="lub-actors-979">Ulrich Krantzen</persName> von <placeName ref="lub-places-30">Maurren</placeName> anders tails vor den fursichtigen, ersamen und weisen
+<lb n="5"/><orgName ref="lub-actors-980">stataman und radte der statt Veldkirch</orgName>, meinen geinstigen herrn, <persName ref="lub-actors-981">Josen Giffels</persName> sag nach (aus underweisung und verfuerung) kundtschafft gegeben, die ich doch also weder gesechen noch gehärtt, dardurh ich den 
+<lb n="6"/>genanten <persName ref="lub-actors-979">Ulrich Krantzen</persName> mit der unwarhait (laider) schandtlich angeredt und verlogen hab, als sich dann durh ander from und erber piderbleut und kundtschaffter klarlich befunden und an tag komen ist. 
+<lb n="7"/>Deshalben obgemelter, mein genediger herr, mich meiner verhandlung nach an meinem leib, eer und gut hartigklich wol straffen lassen hett mugen, aber nahmals uff underhandlung und gantz underthenig 
+<lb n="8"/>hochfleissig pitt <persName ref="lub-actors-982">Algast</persName>, <persName ref="lub-actors-983">Hansen</persName> und <persName ref="lub-actors-984">Gabiels Matten</persName>, meins lieben vatters und pruedern, und andern meiner guten freunden und piderbleuten der erenvesst, furnem, ersam und weiss <persName ref="lub-actors-155">Caspar Mammendorffer</persName>, 
+<lb n="9"/>der zeit obgedachts, meins genedigen herrn, lanndtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und obervogt zu <placeName ref="lub-places-12">Bluemenegkh</placeName> etc., mih in selicher verhandlung genedig angesechen und daruff an seiner genaden statt mich selicher venckh
+<lb break="no" n="10"/>nus und straff mit den rechten und gedingen, wie hernach volgt, ledig und ausgelassen, darumb ich dann pillich bemeltem, meins genedigen herrn lanndtvogt, an seiner genaden statt zuvor, auch allen denen, so
+<lb n="11"/>zu selicher meiner erledigung geholffen und geiept, underthenigen und fleissigen danckh sag und daruff mich hiemit verschreib, verphlicht und verpind wissentlich mit crafft ditz brieffs, also das ich selicher 
+<lb n="12"/>meiner gefenckhnus und handlung und, was sich darin beruert, gegen obgemeltem, meinem genedigen herrn, seiner gnaden erben, freunden und nachkomen, vögten, amptleuten, deinern, auch gegen seiner genaden 
+<lb n="13"/>armenleuten, underthonen und zugehörigen, auch gegen allen denen, so seiner gnaden vegten, amptleuten und anweldten zuversprechen stond, sy seyend gaistlich oder weltlich, auch sonst allen andern, so an selicher 
+<lb n="14"/>meiner gefenckhnus schuld, radt oder that haben oder gehaben möchten, ich oder jemandt von meinen wegen in kainerlay weiss noch weg, weder mit worten noch mit werkhen, jetz noch hinfuran ewigklich nichts 
+<lb n="15"/>ändtern, äffern, rechen noch mich beschwären, auh das niemandt an meiner statt oder in meinem namen zuthon gestatten, bevelhen noch verfolgen, weder mit noch ausserhalb rehtens, sonder mit disser genedig 
+<lb n="16"/>ledigsagung zu danckh beniegen und besonder mich von disser verschreibung und meinem hernach gethonem aide nit absolvieren, noch den uffheben zulassen, noch selichs zubestellen, noh durh mich noch je
+<lb break="no" n="17"/>mandt zuwegen pringen, das selihs bescheche von ainer bewegnus ainiher oberkhait, bapstlichs, kaisserlihs, kunigklichs und anderm gewalte. Daruff ich dann obgemeltem, meins genedigen herrn lanndtvogt, an
+<lb n="18"/>statt seiner genaden ain gelerten aid mit uffgehaben fingern leiplich zu gott und den hailigen geschworen, selichs alles, so var und hernach geschriben stat, war, vesst und stät zuhalten und getrewlih nach
+<lb break="no" n="19"/>zukomen. Darumb dann meine trösster worden synnd obgenanter <persName ref="lub-actors-982">Algast</persName>, <persName ref="lub-actors-983">Hans</persName> und <persName ref="lub-actors-984">Gabriel Matten</persName>, mein lieber vatter und prueder, also und mit selicher beschaidenhait, wo ich selichs, so obgeschriben,
+<lb n="20"/>nit stät hielt, sonnder in ainem oder merrerm verpräch und uberthräte (da gott vor sein und mich behieten well), das alsdann genanter, mein lieber vatter und prueder, als trösster mich widerumb inge
+<lb break="no" n="21"/>venckhnus uff das <placeName ref="lub-places-33">schloss Vadutz</placeName> (so sy darumb gemanet werden) stellen. Wo aber selichs je nit beschähe, sellend sy all drey als trösster obgemeltem, meinem genedigen herrn, seiner gnaden erben, vegten ald an
+<lb break="no" n="22"/>wädten an statt seiner genaden zway hundert guldin reinisch zubezalen verfallen und uff das <placeName ref="lub-places-33">schloss Vadutz</placeName> gantz unverzogenlih zu uberantwurten schuldig sein, dess sy sich auch gegenwirtigklich gegen vor
+<lb break="no" n="23"/>genantem, meins genedigen herrn lanndtvogt, bewilligt, zugesagt und verspröhen haben. Wo ich aber den gedachten, meinem lieben vatter und pruerdern als trösstern, endtgienge und landtfluchtig wurde,
+<lb n="24"/>alsdann sellen und mugen obgemelter, mein genediger herr, seiner gnaden erben, vögt, amptleut und anweldt an allen enden und stetten, märkhern, schlössern, dörffer, weiler, uff lanndt und uff wasser, wo 
+<lb n="25"/>sy mich bethretten und ankomen mugen, nach mir greiffen, mich annemen, mit mir handlen und straffen, wie und was sy wellend, gut fueg, reht und macht haben, als mit ainem, der sein glupt, aid, zusagen 
+<lb n="26"/>und verschreibung uberthretten und nit gehalten hat und das leben verwirkht und den tod verschuldt hat, darfur mich gar nihts freyen, befriden, beschutzen noch beschirmen soll, weder bäpstlich, kaisserlich, 
+<lb n="27"/>kunigklich, <orgName ref="lub-actors-1057">westvälisch</orgName>, fursstlich, auch ander gaistlich noch weltlich gericht noch recht der stett, lannd noch comunen, noch all ander gnaden, freihaiten, lanndsbreuh, freiungen, disspensatz, appellatz und 
+<lb n="28"/>ernewerungen, so von gemainen concilien furgenomen wären oder noch gesetzt und gemacht wurden, auh aller ander gesatzten frid, gelait, gepott, verpott, erlauptnus, noch sonst alle andere gericht noch recht, 
+<lb n="29"/>sy seyend hirinne bestimpt oder nit, noch sonst kainerlay, das jemandt hiewider zuschirmen erdenckhen kund noch möht, dann ich mih des alles und jedes, so mich wider disse verschreibung behelffen kind und 
+<lb n="30"/>möcht, verzigen und begeben haben will und mich dess auh jetz alsdann und dann als jetz verzeich hiemit in crafft ditz brieffs. Wir obgenanten <persName ref="lub-actors-982">Algast</persName>, <persName ref="lub-actors-983">Hans</persName> und <persName ref="lub-actors-984">Gabriel die Matten</persName> von <placeName ref="lub-places-69">Frasstentz</placeName>, all 
+<lb n="31"/>drey man als trösster, bekhennen auh hiemit sonderlich an dissem brieff ditz alles, so von uns obgeschriben stat, war sein, demselben auh getrewlih nachzekomen und in alweg vesst und stät zuhalten, alles und 
+<lb n="32"/>jedes ungefarlih. Dess zu warem urkundt guter, vesster, stäter sicherhait jetz und hienah so hab ich, obgenanter <persName ref="lub-actors-428">Stoffl Matt</persName>, und insonderhait wir, die obgenanten drey man <persName ref="lub-actors-982">Algast</persName>, <persName ref="lub-actors-983">Hans</persName> und <persName ref="lub-actors-984">Gabriel Matt</persName> 
+<lb n="33"/>als trösster, mit sonderm fleis und ernst gepeten die erenvessten, furnemen, ersamen und weisen <persName ref="lub-actors-81">Mauritz Altmanshaussern</persName>, der zeit obgemelter kunigkliher magestat, meins allergenedigisten herrn, <term ref="lub-keywords-346">hueb
+<lb break="no" n="34"/>maister</term> zu <placeName ref="lub-places-10">Veldkirh</placeName>, und <persName ref="lub-actors-300">Bärthlome Lewen</persName>, burgern und des radts daselbst, das sy paid ir aigen ynnsigel, doh inen und iren erben an allen schaden, von mein, obgenants höptsähers wegen, auh fur uns, ob
+<lb break="no" n="35"/>genant drey man als trösster, zugezeuckhnus der sach, so von uns an dissem brieff geschrieben stat, offennlich gehenckht haben an dissen brieff, der geben ist uff den <origDate>sibenzehenden tag des monadts
+<lb n="36"/>may, als man zalt nach der gepurtt Cristi, unsern lieben herrn, taussent veinffhundert dreissig und ain jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

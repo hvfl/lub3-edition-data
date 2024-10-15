@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-594">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Obstgarten in Mäls</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-594">LI-LA, Schä U 62</ref> / Originaldatierung: 31. Mai 1552 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich Nägele und seine Frau Gretha Nutt von Mäls verkaufen mit Zustimmung von Stefan Frommelt, Ammann der Herrschaft Vaduz, einen Zins von 14 Schilling ab ihrem Obstgarten in Mäls für 14 Pfund Pfennig an Jakob Liffer zu Triesen, Kirchenpfleger der Marienkapelle in Triesen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-284">Obstgarten</term>
+          <term ref="lub-keywords-339">Heimgasse</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-453">Nägele, Ulrich (2)</persName>
+          <date when="1552-05-31">31. Mai 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-454">Nutt, Gretha</persName>
+          <date when="1552-05-31">31. Mai 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-292">Frommelt, Stefan (1)</persName>
+          <date when="1552-05-31">31. Mai 1552</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-486" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-453">Uoli Negelin</persName> und <persName ref="lub-actors-454">Gretta Nuttin</persName>, sin eeliche husfrow, zu <placeName ref="lub-places-166">Klainen Mails</placeName> bekenen offentlich für uns, all unserer 
+<lb n="2"/>erben und nachkomen und thund kundt mengclichem mit disem prieff, das wir mit veraintem guten willen wolbedacht, 
+<lb n="3"/>sonder mit hand des erbarn und weisen <persName ref="lub-actors-292">Stäffan Frumoltz</persName>, dertzeit unser genedigen herschafft <placeName ref="lub-places-7">Vadutz</placeName> aman, recht und 
+<lb n="4"/>redlich verkoufft und zuo kouffen geben haben und geben auch yetzo wüssenntlich mit dem prieff dem erbarn <persName ref="lub-actors-540">Jacoben 
+<lb n="5"/>Lüffern</persName> zuo <placeName ref="lub-places-79">Thrüssen</placeName> als kirchen pfleger unser <placeName ref="lub-places-183">Lieben Frowen Cappel</placeName> daselbst und desselben nachkomen pflegernn 
+<lb n="6"/>ains stätten, vessten, ewigen kouffs namlichen viertzehen schilling pfening guoter genemer <placeName ref="lub-places-101">Cosstantzer</placeName> müntz unnd 
+<lb n="7"/><placeName ref="lub-places-10">Veldtkircher</placeName> werung rechts ewigs järlichs zinss uff, usser, von und ab unserm halben bomgarten zuo <placeName ref="lub-places-166">Mails</placeName> im 
+<lb n="8"/>dorff <placeName ref="lub-places-71">Balthers</placeName> kilchspel gelegen, stosst uffwert dem landnach an <persName ref="lub-actors-770">Cristan Thoman</persName> guot, gegem <placeName ref="lub-places-103">rein</placeName>werts an <persName ref="lub-actors-774">Stäffan 
+<lb n="9"/>Nutten</persName> guot, abwert an uns, der verkouffer, aigen guot, und uffwert an ain <term ref="lub-keywords-339">haimgassen</term>, abgrundt, gradt, wun, 
+<lb n="10"/>waidt, pömen, zweigstöckh, stain, gesteudt, gereudt, gengen, stägen und wegen und gemainclich mit allen andern seinen rechten 
+<lb n="11"/>und zuogehörden, benempten und unbenempten, für ledig aigen und loss biss an ainliff schilling pfening, so mit andern guoter 
+<lb n="12"/>gegen der pfrundt zuo <placeName ref="lub-places-71">Balthers</placeName> hafft und verschriben, sonsten gegen mengclichem unversetzt und unverkümbert. Unnd ist der 
+<lb n="13"/>ewig redlich kouff also beschehen und gethan worden umb viertzehen pfundt pfening obgenanter müntz, der wir von gedachtem 
+<lb n="14"/>kirchenpfleger par betzalt sindt nach unserm benuogen. Darumben sollen und wellen wir, all unser erben und nachkomenn 
+<lb n="15"/>inhaber und besitzer obgemelts underpfandts den berürten zins gedachtem keuffer und seinen nachkomen pflegern unnd 
+<lb n="16"/>inhaber ditz prieffs <unclear>nun</unclear> fürohin ewigclich und järlich uff <term ref="lub-keywords-365">sant Martins des hailigen bischoffs tag</term>, achtag vor oder 
+<lb n="17"/>nach ungevarlich t<gap/>lich richten, zinsen und gein <placeName ref="lub-places-79">Thrüssen</placeName> ins dorff zuo des keuffers und seiner nachkomenn 
+<lb n="18"/>kirchen pflegern <gap/>nden und gwalt antwurten und geben, für aller mengclichs hefften, verbietten und entweren 
+<lb n="19"/>und <gap/> costen <supplied>un</supplied>d schaden. Wan, wie oder welches jars das also nit beschehe uber kurtz oder langetzeit, 
+<lb n="20"/>so ist inen dann <gap/> underpfandt, in seinen bestimpten marcken begriffen, gantz zinsffelig worden und dann 
+<lb n="21"/>dannothin mit grun<gap/> und mit allen seinen rechten und zuogehörungen zuo rechtem ewigem yemermer gevallen 
+<lb n="22"/>und verfallen, one uns, all unser erben und nachkomen und aller mengclichs von unsert wegen irung und wider
+<lb break="no" n="23"/>sprechen. Und hieruff ditz ewigen redlichen kouffs umb zinsfellige und für allen abgang des obgemelten underpfands,
+<lb n="24"/>auch zinss, hoptguts, schadens und aller vorgeschribner ding sollen und wellen wir, all unser erben und nachkomen dem 
+<lb n="25"/>obgenanten kouffern unnd allen seinen nachkomen pflegern recht, guot, getrüw, crefftig weren, fürstandt und versprecher 
+<lb n="26"/>sein vor dem richter u<supplied>nd</supplied> gericht, darunder obbemelt underpfandt gelegen und der kouff beschehen ist, wie, wen und 
+<lb n="27"/>gegen wem, als offt un<supplied>d</supplied> <supplied>d</supplied>ickh sy des nach dem rechten yemer bedürffen, alweg in unserm costen und one irn schaden, 
+<lb n="28"/>pei guoten trüwen, on alle widerredt, ausstzug und geverde. Unnd wiewol diser prieff ain ewigen kouff ausswisst, 
+<lb n="29"/>dennocht megen wir, all unser erben und nachkomem den obgemelten zins von dem genanten kouffer unnd seinen 
+<lb n="30"/>nachkomen pflegern wol wider kouffen und ablössen mögen, nun fürhohin ewigclich, wann und welches jars 
+<lb n="31"/>wir wellen, uber kurtz oder langetzeit, doch vor zinsfall und alwegen uff <term ref="lub-keywords-365">sannt Martins tag</term>, achtag vor oder nach 
+<lb n="32"/>ungevarlich, samenthafft mit dem obgemelten hoptguot sampt allen gefallenen ussteenden zinssen, auch mit 
+<lb n="33"/>solcher müntz und werschafft, daran si von enderung wegen kain verlurst noch abgang haben, alles ungevarlih. 
+<lb n="34"/>Und des zuo warem urkundt so haben wir, obgenante verkouffere, mit fleiss und ernst gepätten und erbätten den 
+<lb n="35"/>obgenanten aman <persName ref="lub-actors-292">Stäffan Frumolten</persName>, das er sein aigen insigel, im und seinen erben one schaden, zugetzeügnus 
+<lb n="36"/>der sach für uns, all unser erben und nachkomen offentlich gehenckt hatt an disen prieff, geben <origDate>zinstags post exaudi 
+<lb n="37"/>von Cristi gepurt getzelt thusent fünffhundert fünfftzig und zwai jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

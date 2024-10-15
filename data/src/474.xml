@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-474">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Regelung des Obstleserechts auf der Allmende zwischen Planken, Schaan und Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-474">LI-GAP, U 4</ref> / Originaldatierung: 9. August 1596 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: LI-GAS, U 143/1 / Entstehungszeit: 20. September 1714 / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Christmann Graf, Philibert Rignoldt von Prosswalden und  Johann Jakob Beck, gräflich-sulzische Räte und Oberamtsleute, fällen im Streit zwischen Planken als klagender und Schaan und Vaduz als beklagter Partei um das Obstleserecht auf der Allmend einen gütlichen Entscheid und sprechen den Planknern das Obstleserecht im Gebiet jenseits des Plankner Tobels und oberhalb der Reichsstrasse bis an die Grenze der Herrschaft Schellenberg zu.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-165">Obst</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-348">Allmend</term>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-386">Krieche</term>
+          <term ref="lub-keywords-380">Garnrichte</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-191">Rignoldt von Prosswalden, Philibert</persName>
+          <date when="1596-08-09">9. Aug 1596</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-177">Beck, Johann Jakob (von)</persName>
+          <date when="1596-08-09">9. Aug 1596</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-224">Graf, Christmann</persName>
+          <date when="1596-08-09">9. Aug 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2181" n="1"/><lb n="1"/>Zuwüssen und kundt gethan seie allermeniglich 
+<lb n="2"/>hiemit disem brieve, alß sich spen unnd mißverständt entzwüschen den unnderthanen ab <placeName ref="lub-places-124">Planckhen</placeName>, clagender partei an einem, unnd dann der gemain 
+<lb n="3"/>baider dörffer <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, antwurten annderthails, umb unnd von wegen deß obs lesens uf der allgemain, vom <placeName ref="lub-places-495">Tobel</placeName> bei der <term ref="lub-keywords-380">geren richti</term> hinab 
+<lb n="4"/>und under dem <placeName ref="lub-places-509">Buchholtz</placeName> biß hinauß uf die <placeName ref="lub-places-510">Nendler Wisen</placeName> <gap/> schellenbergerischen greintzen, er<unclear>li</unclear>gt unnd zuegetragen, auch darumben 
+<lb n="5"/>nit allain dem hochwolgebornnen herrn, herrn <persName ref="lub-actors-13">Carl Ludwigen graven zue Sultz</persName>, landtgraven in <placeName ref="lub-places-18">Cleggeuw</placeName>, des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erb
+<lb break="no" n="6"/>hofrichters zue <placeName ref="lub-places-17">Rottweyl</placeName>, herrn zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Plumeneckh</placeName>, kayserlicher majestät roth und küniglicher würden zue <placeName ref="lub-places-253">Hisp<unclear>anien</unclear></placeName> ob
+<lb break="no" n="7"/>risten, unnserm genedigen herrn, sondern auch abwesendt irer gnaden dero ambtleith um vil jar und vilmallen umb güetliche ent
+<lb break="no" n="8"/>schaidung angeloffen, aber doch nie in gleichem verstandt gezogen werden mögen. Unnd darauf (nach lang gewertem strit) an
+<lb n="9"/>heut dato baide jetzgemelte parteyen, als sy sich kainßwegs vergleichen könden, bei unß, diser zeit gräflichen sultzischen räthen unnd <orgName ref="lub-actors-687">oberambt</orgName>
+<lb break="no" n="10"/>leüten, <persName ref="lub-actors-224">Christman Graven</persName>, der rechten doctorn, <persName ref="lub-actors-191">Philibert Rignaulten von Praßwalden</persName>, altem landtvogt, und <persName ref="lub-actors-177">Johann Jacob Beckhen</persName>, kayserlich
+<lb n="11"/>adprobierten notario und landtschreibern, nachmallen umb gü<unclear>e</unclear>tlichen entschid und ambtsbeschaidt gantz dienst- und vleissiglich gebetten. 
+<lb n="12"/>Unnd wann dann unß sollicher spen zue vermeidung aller handt unwillens und dagegen fort pflantzung gueter nachbarlicher ainig
+<lb break="no" n="13"/>khait angelegen gewesen, so haben wir auß ambtlicher schuldigkhait und besonnderem guetem willen, damit wir baider thaillen zuege
+<lb break="no" n="14"/>thon sindt, sy in irem weiteren vorbringen wie auch die eingelegte briefliche documenten und urkhundt gnugsamlich angehört und ver
+<lb break="no" n="15"/>lesen und volgents, nach der sachen gnugsamlicher erwegung, inen einen spruch zue offner handt ertheilt, also das hinfürter
+<lb n="16"/>die ab <placeName ref="lub-places-124">Planckhen</placeName> von der <term ref="lub-keywords-380">geren richti</term> auß <placeName ref="lub-places-495">Planckhner Tobel</placeName> biß in grossen stain, der vor dem kalchofen herüber stet, alda der erst marckh
+<lb break="no" n="17"/>stain, und von dannen <unclear>u</unclear>nden unnd hinan an <placeName ref="lub-places-508">Graßbösch</placeName> in das luckh, daselbsten der ander marckhstain deßhalben gesetzt werden solle,
+<lb n="18"/>und vonn daselbsten der landt- und reichsstraß hinauß biß uf die schellenbergerische greintzen, waß oberhalb der jetztgedachten 
+<lb n="19"/>landtstraß gegen dem berg stet, aller handt obbs, es seien biren, öpfel, <term ref="lub-keywords-386">kriechen</term>, nuß oder annders dergleichen, schütten, lesen und 
+<lb n="20"/>inhaimßen mögen, ohne ainich deren von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, auch allain zuegehörig sein, und kain thail dem andern in das seinig greiffen 
+<lb n="21"/>oder schaden thun bei poen und straff, welche die alte brief zu geben, also das jedes tail das ander gleichlich deßhalber bestraffen 
+<lb n="22"/>möge. Und damit sollen sy geaint und vertragen sein. Doch dobei außtruckhenlich vorbehalten, das andere ir baiderseits 
+<lb n="23"/>habendte brief, außerhalb des punctens des obbs leses halber, bei iren crefften allerdings bleiben sollen. Welchen jetzertailten 
+<lb n="24"/>offnen spruch baide partei zue grossem danckh angenommen und deme zu geleben, dabei zuverbleiben, in der cantzlei frei 
+<lb n="25"/>willige versprechung gethan haben, mit und in crafft diß briefs. Dabei seindt gewesen die ersamen und erbarn <persName ref="lub-actors-229">Thoman Walser</persName>, 
+<lb n="26"/>amman, <persName ref="lub-actors-287">Adam Schierser</persName>, alter amman, <persName ref="lub-actors-1144">Adam Frickh</persName>, <persName ref="lub-actors-1142">Hanß Knabenkhnecht</persName> und <persName ref="lub-actors-1218">Fridli Heni</persName> von <placeName ref="lub-places-53">Schann</placeName>, <persName ref="lub-actors-330">Jerg Wolf</persName>, <persName ref="lub-actors-1219">Jerg Deni</persName> von <placeName ref="lub-places-1">Vadutz</placeName>, 
+<lb n="27"/><persName ref="lub-actors-1209">Michael</persName>, <persName ref="lub-actors-1216">Jacob</persName> und <persName ref="lub-actors-1220">Thoman die Üli</persName> und <persName ref="lub-actors-1221">Ulrich Negelin</persName> ab <placeName ref="lub-places-124">Planckhen</placeName>. Dessen zue urkhundt haben wir, die vorgehörte <orgName ref="lub-actors-687">ober
+<lb break="no" n="28"/>ambt</orgName>leith, merwolgedachts unsers genedigen herren cantzlei secret (doch iren genaden, auch derselben erben und nachkhommen,
+<lb n="29"/>an dero habenden oberherrlich- recht und gerechtigkhaite miderung oder merung in allweeg ohne schaden) offenlich gehengt an 
+<lb n="30"/>disen brief, deren zwen gleichlautendt gemacht und jedem thail einer behendigt und geben worden an der gewonlichen verhör, 
+<lb n="31"/><origDate>freitags den neünten monatstag augusti im fünfzehenhundert sex und neüntzigistem jare<unclear>s</unclear></origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

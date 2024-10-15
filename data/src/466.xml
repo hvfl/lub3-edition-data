@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-466">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid über das Einzäunen von Äckern in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-466">LI-GAE, AHV 03/15</ref> / Originaldatierung: 17. November 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Gericht unter dem Vorsitz von Jörg Degen, Ammann am Eschnerberg, entscheidet, dass im Gebiet unter den Gärten und im Erler die Äcker vom Riedland abgezäunt werden und die Weiden aufgehoben werden sollen. Zuvor hatten die Geschwornen von Bendern und Eschen vor dem Zeitgericht ein entsprechendes Urteil erwirkt, gegen das, nachdem es vor der Kirche öffentlich verkündet worden war, niemand Einsprache erhoben hatte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-143">Acker</term>
+          <term ref="lub-keywords-154">Geschworener</term>
+          <term ref="lub-keywords-159">Einzäunung</term>
+          <term ref="lub-keywords-406">Nachgericht</term>
+          <term ref="lub-keywords-407">Bofel</term>
+          <term ref="lub-keywords-408">Bretscha</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-211">Degen, Jörg</persName>
+          <date when="1512-11-17">17. Nov 1512</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Ich <persName ref="lub-actors-211">Jörig Thegenn</persName>, der zeit aman am <placeName ref="lub-places-16">Estnerberg</placeName>, bekenn offenlich mit dem briefe, das uff 
+<lb n="2"/>hüt sein date, als ich von gnadenn, haissentz und bevelh wegen des wolgepornen herren, herren 
+<lb n="3"/><persName ref="lub-actors-8">Ruodolffen graven zuo Sultz</persName>, landtgrave im <placeName ref="lub-places-18">Kleggew</placeName>, herr zuo <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> etc., 
+<lb n="4"/>meins gnedigen herren, offennlich ada am <placeName ref="lub-places-16">Estnerberg</placeName> zuo gericht gesessen bin, fur mich 
+<lb n="5"/>unnd offem verbannem gericht komen unnd erschynen seind bennamlich die geschwornenn 
+<lb n="6"/>zuo <placeName ref="lub-places-36">Benndern</placeName> unnd <placeName ref="lub-places-35">Eschenn</placeName> unnd liesend iren zü recht angedingten und erlobten fü<gap/>rechen 
+<lb n="7"/>reden uff mainung im grund, wie sie am nechsten vergangnen zeitgericht vor aine<gap/> 
+<lb n="8"/>erschynen wären unnd ain klag gefiert und an ainem rechten wollen erfaren, ob <gap/> 
+<lb n="9"/>billich die äcker von den <term ref="lub-keywords-408">pritschenn</term> zynen sollte unnder den garten unnd im <placeName ref="lub-places-115">Erle</placeName><gap/> 
+<lb n="10"/>ain urtail ganngen, das man vor der kirchen rieffenn söllte, ob niemend ain beschwerd <gap/> 
+<lb n="11"/>ab oder dar in reden wellte, die mechte es thuon bis zuo dem <term ref="lub-keywords-406">nachrechten</term>. Nun hette ny<gap/> 
+<lb n="12"/>dar in geredt unnd stünden da unnd welten noch an ainem rechten erfaren, wie <gap/> 
+<lb n="13"/>füro gehallten sollte werdenn unnd satzend die sach mit mer unnd lengern worten hin zu recht. 
+<lb n="14"/>Ward uff mein umbfrag von den richttern zuo recht erkennt unnd gesprochenn, das man sollte 
+<lb n="15"/>die acker von den <term ref="lub-keywords-408">brittschen</term> zynen unnd das erst mal inen aiche stecken gebenn. Unnd 
+<lb n="16"/>solltten die <term ref="lub-keywords-407">böfel</term>, so vor gewesen unnd gehallten weren, ab sein, es wurde dann sach, das 
+<lb n="17"/>ain ganntz kilchspel annder <term ref="lub-keywords-407">böfel</term> ansehend oder machtend. Diser urtal unnd des rechten 
+<lb n="18"/>begerten die genannten geschwornen gemainlich ainen brief, der inen von den richtern uff 
+<lb n="19"/>mein umbfrag zü gebenn erkannt ward von gerichts wegen unnder meinem aignen innsigel 
+<lb n="20"/>hier angehennckt, doch mir und meinen erben one schaden. Der gebenn ist <origDate>uff mittwochen 
+<lb n="21"/>nach sannt Martis tag nach Cristi gepurtt fünffzehenhundert und zwelliff jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

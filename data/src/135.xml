@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-135">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Georg Feurstein, Konventuale des Klosters St. Luzi in Bendern verleiht den Bruderhof zu Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: [AT-VLA Feldkirch Vogteiamt 3375](https://lub.anton.ch/objects/135) / Originaldatierung: 10. Oktober 1545 / Beschreibstoff: Papier, 8 Seiten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3375/charter?q=Bendern)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Feurstein, Konventuale des Klosters St. Lucius bei Chur, Pfarrer zu Bendern, verleiht im Namen des Abtes Georg von Roggenburg, Oberen des Klosters St. Lucius, in Gegenwart des Herrn Ulrich von Schellenberg, kaiserlicher Rat und Vogt zu Feldkirch, und Mauritius von Altmannshausen, Hubmeisters daselbst, den Bruderhof zu Rankweil, der nach 16 Jahren Besitzes durch Hans Fröhlich und Konrad Walser jetzt dem Kloster wieder ledig geworden war, an Konrad Walser und Hans Senn, beide zu Rankweil, auf 12 Jahre um bestimmte jährliche Angaben an das Kloster St. Lucius und an das Haus Österreich. Werden die Zinse nicht entrichtet, so wird der Hof dem Kloster wieder ledig; stirbt einer der zugewandten Lehensleute vor den 12 Jahren, so kommen deren Lehen in den Besitz ihrer Kinder, stirbt einer der beiden Maier oder beide früher, so bleibt ihren Kindern der Hof bis zu Ausgang der 12 Jahre.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1545-10-10">10. Okt 1545</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-156" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-78">Georgius Fewrstain</persName>, conventual des gozhaws <orgName ref="lub-actors-337">Sannt Luci</orgName><lb n="2"/>bey Chur, derzeit pfarherr zu <placeName ref="lub-places-36">Benndern</placeName>, als ain volmechtiger
+<lb n="3"/>gewalttrager des erwirdigen, in gott gaistlichen herrn,
+<lb n="4"/>herrn <persName ref="lub-actors-452">Georgen</persName>, abbte des gozhaws <orgName ref="lub-actors-451">Rogenburg</orgName> und rechten
+<lb n="5"/>obern, und hausvatter obgemelts gozhaws <orgName ref="lub-actors-337">Sannt Lucy</orgName>,
+<lb n="6"/>bekhenn in namen, anstatt und aus crafft seiner gnaden
+<lb n="7"/>mir gegebnen schrifflichen gwalts und thue khundt menig
+<lb break="no" n="8"/>clich mit dem brief. Nachdem des gedachten gozhaws <orgName ref="lub-actors-337">Sannt
+<lb n="9"/>Lucy</orgName> hofe zu <placeName ref="lub-places-40">Rannkhwil</placeName>, genannt der <placeName ref="lub-places-38">Bruederhof</placeName>, aus be
+<lb break="no" n="10"/>velch und geutlichem bewilligen gedachts, meins gnedigen
+<lb n="11"/>herrn, ver schier zeit den erbarn und beschaidnen <persName ref="lub-actors-82">Hannsen
+<lb n="12"/>Frölich</persName> und <persName ref="lub-actors-83">Conradten Walsern</persName>, auf XVI jar lanng und
+<lb n="13"/>nit weitter verlihen worden, und nun dieselb anzal jar
+<lb n="14"/>verschinen, darumb solicher hoff mit aller seiner zuegehörung
+<lb n="15"/>gentzlich ledig worden ist. Demselbigen nach ich,
+<lb n="16"/>obgemelter <persName ref="lub-actors-78">Georg Fewrstain</persName>, anstatt meins gnedigen
+<lb n="17"/>herrn und aus seiner gnaden bevelch, auch sonnderlich
+<lb n="18"/>mit wissen und beysein des edlen und gestrenngen
+<lb n="19"/>herrn Ulrichen von Schellenberg zu <placeName ref="lub-places-283">Kisslegg</placeName>, ritter,
+<lb n="20"/>unserer kuniglicher mayestat etc. rat und voggts zu <placeName ref="lub-places-10">Veldkirch</placeName>, und des vesst
+<lb n="21"/>und fürnemen <persName ref="lub-actors-81">Maurizen Altmanshauser</persName>, ir kuniglichen mayestat
+<lb n="22"/>huebmaister, das nebst, als der fürgesezten obrigkhait der
+<lb n="23"/>herrschafft <placeName ref="lub-places-10">Veldkirch</placeName>, und auch nit annderst, dann bis auf
+<lb n="24"/>höchstgedachter römischer kuniglicher mayestat wolgefallen und widerrueffen,
+<lb n="25"/>den erbarn und beschaidnen <persName ref="lub-actors-83">Connradten Walsern</persName> und
+<lb n="26"/><persName ref="lub-actors-84">Hannsen Sennen</persName>, bayd von <placeName ref="lub-places-40">Rannkhwil</placeName>, auf ir hochvleissig
+<lb n="27"/>und diemuettig bitt, den obgemelten hoff, genannt der
+</p>
+        <p><pb facs="lub-media-157 " n="2"/><lb n="28"/><placeName ref="lub-places-38">Bruederhoff</placeName>, und alle guetter, es seyen hoffstatten, bomgarten,
+<lb n="29"/>weingartten, akher, wisen, hanfflennder und anndere,
+<lb n="30"/>was dann von alterher darzue und darein gehört hat
+<lb n="31"/>und noch gehörn soll und mag, nichtz außgenomen, mit
+<lb break="no" n="32"/>sambt dem zehonden, so ab ettlichen denselben und ouch
+<lb n="33"/>anndern guettern gevallet und bemeltem gozhaws
+<lb n="34"/><orgName ref="lub-actors-337">Sannt Luci</orgName> von alterher zuegehorig ist, mit steg, mit weg,
+<lb n="35"/>mit wunn, mit waid, mit holz, mit veld, auch wasser,
+<lb n="36"/>wasserlaitti und allen anndern rechten, nuzen, früchten,
+<lb n="37"/>guettren, gewonhaitten, begreiffungen und zuegehorungen,
+<lb n="38"/>auf zwolf jar lanng, die nechsten nach datho diß briefs
+<lb n="39"/>aufainannder volgende, aus gnaden und von kainer ge
+<lb break="no" n="40"/>rechtigkait wegen, und nemlich, das sy sich damit noch
+<lb n="41"/>dardurch kainer geweer, posseß, noch aigenthumblichen,
+<lb n="42"/>einganngs gebrauchen noch behelffen sollen, von newem
+<lb n="43"/>widerumb verlihen hab, also und mit dem lauttern ge
+<lb break="no" n="44"/>ding, das sy, die gemelten bed mayer, dieselben hoffs
+<lb n="45"/>und zehennden etc. sollen und mügen die obbestymbten
+<lb n="46"/>XII jar von datho anzuraitten und nit weitter innhaben,
+<lb n="47"/>pawen, brauchen, nuzen und niessen, und die in guetten,
+<lb n="48"/>wesenlichen eren und bestentlichen pewen aufenthalten
+<lb n="49"/>und haben mit paw, zeunen, rewtten und aller annderer
+<lb n="50"/>notturfftigkait, wie sich das yederzeit erhaischet und
+<lb n="51"/>gepurt, und nemlich kainen ungewonlilchen und frömbden
+<lb n="52"/>weg durch die guetter machen, noch gon lassen, unnd
+<lb n="53"/>sonnderlich mein gnedigen herrn von <orgName ref="lub-actors-451">Roggenburg</orgName>, oder
+<lb n="54"/>wenn sein gnad, oder derselben nachkhomen, solichs verordnen,
+</p>
+        <p><lb n="55"/>würdet, darvon, daraus und darab, zu rechtem, jer
+<lb break="no" n="56"/>lichen zins yedes jars auf sannt Martins tag, richten,
+<lb n="57"/>geben und bezallen XXXIII schöffel waissen, auch
+<lb n="58"/>dreissig und zwen schöffel korn, mer VI schoffl gersten
+<lb n="59"/>und zwen schöffel arbssen, und II C. ayer auf osstern.
+<lb n="60"/>Und uber die zins sollen sy auch one gedachts, meins ge
+<lb break="no" n="61"/>nedigen herrn von <placeName ref="lub-places-286">Roggenburgs</placeName>, dessgleichen one be-
+<lb break="no" n="62"/>melts gotzhaws <orgName ref="lub-actors-337">Sannt Luci</orgName> schaden, der herrschafft von
+<lb n="63"/><orgName ref="lub-actors-172">Österreich</orgName>, aus obgemeltem hof und guettern geben
+<lb n="64"/>VIII schöffel korn und ain schöffel waizen, auch ain
+<lb n="65"/>wagenfart und ain hund halten, in denen rechten, wie
+<lb n="66"/>von alterheer komen und gewonlich gewesen ist. Und
+<lb n="67"/>mer sollen sy, obgedachte mayer, meinen gnedigen
+<lb n="68"/>herrn von <orgName ref="lub-actors-451">Roggenburg</orgName> zu hannden eegedachts goz
+<lb break="no" n="69"/>haws <orgName ref="lub-actors-337">Sant Luci</orgName>, oder durch wen sein gnad, oder derselben
+<lb n="70"/>nachkhomen solichs einzutziehen verordnen werden,
+<lb n="71"/>jerlich und yedes jars geben II lb. d. dienstgellt fur die
+<lb n="72"/>alten herkhomen, wagenfart und die obangerurtten
+<lb n="73"/>waitzen, korn, gersten und arbissen zins, jerlich acht
+<lb n="74"/>tag nach sannt Martins tag unvevarlich anfahen zu
+<lb n="75"/>bezalln, und demnach für und für, bis zu eingeennder
+<lb n="76"/>vassten, als dann sein gnad yedes jars verfallner
+<lb n="77"/>zinsen genntzlich bezallt und außgericht haben, unnd
+<lb n="78"/>wann und so dikh der obgenannt, mein gnediger herr
+<lb n="79"/>von <orgName ref="lub-actors-451">Roggenburg</orgName>, oder wem sein gnad und derselben
+<lb n="80"/>nachkhomen das bevelhen werden, mit irem wagen
+<lb n="81"/>nach solichen zinsen gen <placeName ref="lub-places-40">Rannkhwil</placeName> sendet, so sollendt
+</p>
+        <p><pb facs="lub-media-158" n="3"/><lb n="82"/>sy roß und man, yedes abendts auch die nacht und den
+<lb n="83"/>morgen, mit essen und trinkhen geben, halten, umb
+<lb n="84"/>III ß. d., und den tag, ob der wagner, lenger alda belib,
+<lb n="85"/>auch umb drey schilling, und die selbig zerung solle
+<lb n="86"/>der obgemelt, mein gnediger herr von <orgName ref="lub-actors-451">Roggenburg</orgName>, seiner
+<lb n="87"/>gnaden nachkomen, oder ir bevelch haber, inen an den
+<lb n="88"/>oberzelten II lb. d. dienstgeld abziehen und verrechnen.
+<lb n="89"/>Es sollend noch en mögen, auch die dikh genannten baid
+<lb n="90"/>mayer des obgenannten gozhaws <orgName ref="lub-actors-337">Sannt Luci</orgName> ange
+<lb break="no" n="91"/>zaigt hoffguetter und zehennden weder versezen, ver
+<lb break="no" n="92"/>kauffen, verkhumern, noch in kain weg, von irn hannden
+<lb n="93"/>khomen lassen, noch verbriefen, dann mit obgemelts,
+<lb n="94"/>meins gnedigen <persName ref="lub-actors-452">herrn von Roggenburgs</persName>, oder seiner gnaden
+<lb n="95"/>gwalttrager, guetem gunst, wissen und willen, wellihs
+<lb n="96"/>jars sy aber bemeltem meinem gnedigen herrn, der
+<lb break="no" n="97"/>selben nachkomen, oder wem sy das bevelhen, den ob
+<lb break="no" n="98"/>genannten zins, samentlich, auf zu tag und in der wise
+<lb n="99"/>obstatt, mit gerieht bezalt, und auch die guetter nit in
+<lb n="100"/>ehrn und guetten pewen hetten, als oblaut, oder die versazten
+<lb n="101"/>bekhumerten von irn hannden komen liessen und ver
+<lb break="no" n="102"/>enderten, wie erstgemelt ist. Sodann und alspald
+<lb n="103"/>sollen offtgemeltem meinem gnedigen <persName ref="lub-actors-452">herrn von Roggen
+<lb break="no" n="104"/>burg</persName>, oder seiner gnaden nachkomen, zuhannden eege
+<lb break="no" n="105"/>melts gotzhaws <orgName ref="lub-actors-337">Sannt Luci</orgName>, die vorgemelten hoff
+<lb break="no" n="106"/>guetter und zehennden mit allen irn rechten und zue
+<lb break="no" n="107"/>gehorungen, gepewen und erpesserungen, zinsfellig
+</p>
+        <p><lb n="108"/>worden, und widerumb zu irn und desselben gozhaws
+<lb n="109"/><orgName ref="lub-actors-337">Sannt Luci</orgName> hannden gannz ledigklich gefallen und verfallen
+<lb n="110"/>sein, dieselben inzuhaben ze nuzen und zu
+<lb n="111"/>niessen, zu besezen und zu ensezen, damit ze thun und
+<lb n="112"/>ze lassen, als mit annderm des bemelten gozhaws
+<lb n="113"/><orgName ref="lub-actors-337">Sannt Lucy</orgName> guet, wie sy wellen, one ir, der gemelten
+<lb n="114"/>mayer, und aller menigclichs von irntwegen, sammen
+<lb n="115"/>irn und widersprechen. Es ist auch hierinn
+<lb n="116"/>bedingt, das die obgedachten bayd mayer die bemelten
+<lb n="117"/>hoff, gueter und zehenden, allwegen zu V jarn
+<lb n="118"/>ainist, ferrer, schezen sollen mit II lb. d. und nit nit
+<lb n="119"/>mer, wie dann von alterheer sitt und gewonlich
+<lb n="120"/>gewesen ist. Weitter und ferrer so ist hirinn abge
+<lb break="no" n="121"/>redt, wann sich schikht, das derubrigen mit gewandten
+<lb n="122"/>lehenlewt, ainer oder mer mit tod absturb und eeliche
+<lb n="123"/>kinder hinder im verlasse, so sollendt die obgemelten
+<lb n="124"/>zway hauptter <persName ref="lub-actors-83">Connradt Walser</persName> und <persName ref="lub-actors-84">Hanns Senn</persName>,
+<lb n="125"/>die selbigen kindt von iren inhabenden höfflin und
+<lb n="126"/>guetter nit stossen, sonnder soverr sy die in guetten
+<lb n="127"/>pewen und ern (wie obsteet) haltend, darbei bleiben
+<lb n="128"/>lassen, yedoch solichen abgang des mans, dem obbe
+<lb break="no" n="129"/>schribnen, meinem gnedigen herrn von <orgName ref="lub-actors-451">Roggenburg</orgName>,
+<lb n="130"/>seiner gnaden nachkomen und wer irn gwallt hat,
+<lb n="131"/>alwegen anzaigen und eröffnen, fuegte sich auch das
+<lb n="132"/>die vorgenannten baid mayer, ainer oder sy baid,
+<lb n="133"/>in mitler zeit und vor ausganng der angezaigten
+</p>
+        <p><pb facs="lub-media-159" n="4"/><lb n="134"/>XII jarn mit tod abgiengend, so dann sollen der offtge
+<lb break="no" n="135"/>cacht, mein gnediger herr von <orgName ref="lub-actors-451">Roggenburg</orgName>, seiner gnaden
+<lb n="136"/>nachkomen, oder ire gwalthaber, auf yeder seitten, so das
+<lb n="137"/>zu schulden kombt, allen irn verlassnen eelichen kindern,
+<lb n="138"/>das obgemelt halb lehen und die guetter mit irn zuegehördt,
+<lb n="139"/>die anzal der XII jar, wie obgemelt, und nit lennger ver
+<lb break="no" n="140"/>gonnen und leihen, vor menigclichem, aber nit annderst,
+<lb n="141"/>dann mit allen den gedingen, rechten und gerechtigkaitten,
+<lb n="142"/>wie vor und nach geschriben stat, und das auch alsdann
+<lb n="143"/>yeder tail in sonnders von halbem lehen und hoff, dem
+<lb break="no" n="144"/>selben meinem gnedigen herrn von <orgName ref="lub-actors-451">Roggenburg</orgName>, seiner
+<lb n="145"/>gnaden nachkomen oder irn gwalthabern, vier reinischer
+<lb n="146"/>guldin erschaz geben und richten soll. Und dannocht auch
+<lb n="147"/>mit vorbedacht, das sein gnad, ire nachkhomen oder gwalt
+<lb break="no" n="148"/>haber, unnd yedes tayls kinder, aines weder sy welln,
+<lb n="149"/>für irn hauptzins mayer, mit verpindung, umb halben
+<lb n="150"/>hoffzins und annder ir<gap/>gerechtigkait, des lehenns
+<lb n="151"/>annemen und demselben in den rechten, wie oblaut, an
+<lb break="no" n="152"/>statt sein und aller seiner geschwusstrigtten leihen mögend
+<lb n="153"/>one intrag. Unnd hierauf, so soll der obgenannt
+<lb n="154"/>mein gnediger herr von <orgName ref="lub-actors-451">Roggenburg</orgName>, als obrer und haus
+<lb break="no" n="155"/>vatter des vorgedachten gozhaws <orgName ref="lub-actors-337">Sannt Luci</orgName>, auch seiner
+<lb n="156"/>gnaden nachkomen und ich, obgemelter gwalthaber, in
+<lb n="157"/>crafft meins habenden gwalts, die vorangetzaigten
+<lb n="158"/>XII jar lanng nach dato diß briefs anzuraitten, den dikh
+<lb n="159"/>gesaitten bayden mayern das genannt lehen mit hoff
+</p>
+        <p><lb break="no" n="160"/>guettern, zehennden, hanflenndn und aller zuegehörd,
+<lb n="161"/>wie obstat, aufrichten, fertigen, weren und versprechen,
+<lb n="162"/>an allen ennden und gerichten, gaistlichen und weltlichen
+<lb n="163"/>gegen menigclichem, so dikh inen das not ist, allweg
+<lb n="164"/>in des obgenannten, meins gnedigen <persName ref="lub-actors-452">herrn von Roggenburgs</persName>,
+<lb n="165"/>oder seiner gnaden nachkomen, aigen cossten und one ir, der
+<lb n="166"/>mayer, schaden und darlgen, bey guetten, trewen, one
+<lb n="167"/>alle arglisst, auszug und geferd. Dess zu
+<lb n="168"/>warem, vessten urkhundt, hab ich, obgenannter <persName ref="lub-actors-78">Georg
+<lb n="169"/>Fewrstain</persName>, anstatt des offtgemelten, meins gnädigen <persName ref="lub-actors-452">herrn
+<lb n="170"/>von Roggenburgs</persName>, aus crafft seiner gnaden mir gegebnen
+<lb n="171"/>gwalt, mein aigen innsigel offenlich gehennkht an
+<lb n="172"/>den brief und mich darzue mit aigner hannd unnderschriben,
+<lb n="173"/>unnd ist diß beschehen am <origDate>X tag des monats octobris
+<lb n="174"/>anno domini etc. XV und im funfundvierzigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-156" n="1"/><lb n="1"/>Abgeschrifft des lehenbriefs
+<lb n="2"/>von dem <placeName ref="lub-places-38">Bruederhoff</placeName> zu
+<lb n="3"/><placeName ref="lub-places-40">Rannkhwill</placeName>
+<lb n="4"/>de anno 1545
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

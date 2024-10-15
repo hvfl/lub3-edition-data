@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-603">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung der in Balzers gelegenen Güter der St.-Peters-Pfrund in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-603">LI-LA, Schä U 70</ref> / Originaldatierung: 11. November 1565 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Alwig IX. von Sulz verleiht die der St.-Peters-Pfrund in Schaan gehörenden Güter in Balzers an Martin Erhart und Thomas Eberle von Balzers.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-339">Heimgasse</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-9">Sulz, Alwig IX. Graf von</persName>
+          <date when="1565-11-11">11. Nov 1565</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-492" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-9">Alwig grave zu Sultz</persName>, l<supplied>a</supplied>nndtgrave in <placeName ref="lub-places-18">Cleggew</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> unnd <placeName ref="lub-places-12">Pluemennegg</placeName> etc., bekhennen offennlich unnd thuen kundt allermenig
+                  <lb break="no" n="2"/>clich mit dem brief, das wir als colattor unnd lehennherr <placeName ref="lub-places-199">sanndt Petters</placeName> pfruennd zu <placeName ref="lub-places-53">Schan</placeName> mit guettem vorbehalt, wolbedachtem synn unnd mueth umb gemelter pfrunnd pessern
+                  <lb n="3"/>nutz unnd notturfft willen fuer unns unnd all unnser nachkhomen zum crefftig unnd bestendigister aller gaistlichen unnd weltlichen rechten unnd lanndtsgewonnhaitten gelichen
+                  <lb n="4"/>unnd verlichen haben, leichen und verleichend also recht unnd redlich, wissenndtlich in crafft dis briefs unnsern unnderth<gap/>nen unnd leibaignen leutten <persName ref="lub-actors-462">Marthin Erhart</persName> unnd
+                  <lb n="5"/><persName ref="lub-actors-463">Toman Eberlin</persName>, baid von <placeName ref="lub-places-71">Baltzers</placeName>, allen iren erben unnd nachkhomen nemlich vorgemelter pfruennd aigne hernachgemelte stuckh unnd guetter, alle in <placeName ref="lub-places-71">Baltzner</placeName> kilspel gelegen: Erstlich
+                  <lb n="6"/>ain halb mal ackher im <placeName ref="lub-places-313">Oberveld</placeName> zu <placeName ref="lub-places-71">Baltzers</placeName> gelegen, stost gegem perg an das hofguet<note> Gut, das in einem besitzrechtlichem Zusammenhang mit der Burg <placeName ref="lub-places-13">Gutenberg</placeName> steht.</note>, aufwert dem lannd nach an <persName ref="lub-actors-750">Xander Frickhen</persName> seligen kinder guet unnd zu zwayen seyten an <persName ref="lub-actors-751">Ulrich Gutnetschers</persName>
+                  <lb n="7"/>erben guet; mer zway mall ackher zu <placeName ref="lub-places-71">Baltzers</placeName> g<supplied>e</supplied>legen, genannt ob <placeName ref="lub-places-315">Golguna</placeName>, stossen gegem perg an das hofguet, aufwert dem lannd nach an <persName ref="lub-actors-752">Anna Schnoppin</persName> guet, aufwert gegem <placeName ref="lub-places-103">Rein</placeName> an
+                  <lb n="8"/><persName ref="lub-actors-753">Hanns Vavilen</persName> unnd <persName ref="lub-actors-754">Ulrich Friesen</persName> von <placeName ref="lub-places-166">Mails</placeName> guetter, abwert dem lannd nach an ain <term ref="lub-keywords-339">haimbweeg</term>; mer ain juchart ackhers zu <placeName ref="lub-places-166">Mails</placeName> gelegen, genannt <placeName ref="lub-places-316">Vinigien</placeName>, stost gegem perg an ain
+                  <lb n="9"/><term ref="lub-keywords-339">haimbgassen</term>, aufwert dem lannd nach an <persName ref="lub-actors-754">Ulrich Friesen</persName> guet, aufwert gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-755">Liennhart Kaufmanns</persName> hausfrowen guet unnd an jungen <persName ref="lub-actors-757">Deis Ruedis</persName> guet unnd abwert dem lannd
+                  <lb n="10"/>nach an <persName ref="lub-actors-758">Donat Vavilen</persName> erben unnd an das hofguet; mer vier manmad auf <placeName ref="lub-places-317">Prad</placeName> unnder <placeName ref="lub-places-318">And</placeName> gelegen, stost gegem perg an die allmain, aufwert dem lannd nach an <persName ref="lub-actors-279">Liennhart Verlingenn</persName>
+                  <lb n="11"/>unnd <persName ref="lub-actors-755">Liennhart Kaufmanns</persName> hausfrowen guet, gegem <placeName ref="lub-places-103">Rein</placeName> unnd gegen der stras an <persName ref="lub-actors-759">Jacoben</persName> unnd <persName ref="lub-actors-776">Deisen Ruedi</persName>, abwert dem lannd nach an gemelten <persName ref="lub-actors-462">Marthin Erhart</persName>; mee vier
+                  <lb n="12"/>manmad riedt unnderm dorf <placeName ref="lub-places-71">Baltzers</placeName> gelegen, stost gegem <placeName ref="lub-places-103">Rein</placeName> an <placeName ref="lub-places-319">Balayen Pach</placeName>, abwert dem lannd nach an <persName ref="lub-actors-760">Jöri Frickhen</persName> erben, gegem perg an <persName ref="lub-actors-762">Bastion Friesen</persName>, <persName ref="lub-actors-761">Paule Balchasers</persName> unnd
+                  <lb n="13"/><persName ref="lub-actors-755">Liennhardt Kaufmanns</persName> guet, aufwert dem lannd nach an das <placeName ref="lub-places-320">Geselle</placeName>; mer zway manmad riedt, auch unnder dem dorf <placeName ref="lub-places-71">Baltzers</placeName> gelegen, stost aufwert dem lannd nach an
+                  <lb n="14"/><persName ref="lub-actors-762">Bastion Friesen</persName>, aufwert gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-760">Jörg Frickhen</persName> kinden, abwert dem lannd nach an <persName ref="lub-actors-282">Lenntz Nutten</persName> unnd <persName ref="lub-actors-763">Paule Kindli</persName> unnd gegem perg an <persName ref="lub-actors-764">Ynntl Eberlin</persName>, <persName ref="lub-actors-765">Vallennthin Gsellenn</persName>
+                  <lb n="15"/>unnd an <persName ref="lub-actors-766">Clas Gsellen</persName> seligen kindts guet; mer ain halb juchart ackhers im <placeName ref="lub-places-313">Oberveld</placeName> <placeName ref="lub-places-321">Unnderm Stain</placeName> <placeName ref="lub-places-71">Baltzner</placeName> kilspel gelegen, stost abwert an das hofguet, gegem perg an jungenn
+                  <lb n="16"/><persName ref="lub-actors-757">Teis Ruedi</persName>, aufwert an ain <term ref="lub-keywords-339">haimbweeg</term> unnd gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-767">Hainrich Wanngners</persName> guet; item ain halb mal ackhers, auch im <placeName ref="lub-places-313">Oberveld</placeName> gelegen, stost abwert dem lannd nach
+                  <lb n="17"/>an ain <term ref="lub-keywords-339">haimbgassen</term>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-768">Jacoben Mayer</persName>, aufwert dem lannd nach an <persName ref="lub-actors-776">Teis Ruedi</persName> unnd gegem perg an <persName ref="lub-actors-758">Donat Vavilen</persName> erben; item ain halb juchart im <placeName ref="lub-places-322">Unndern Veld</placeName>
+                  <lb n="18"/>gelegen, stost aufwert dem lannd nach an ain <term ref="lub-keywords-339">haimbgassen</term>, gegem <placeName ref="lub-places-103">Rein</placeName> an das hofguet, abwert dem lannd nach an <persName ref="lub-actors-769">Jacoben Gurtnetschers</persName> guet unnd gegem perg an <persName ref="lub-actors-770">Cristan Tomans</persName> guet;
+                  <lb n="19"/>item mer ain juchart ackher auf <placeName ref="lub-places-323">Gurtnetsch</placeName> <placeName ref="lub-places-71">Baltzner</placeName> kilspel gelegen, stost abwert dem lannd nach an <persName ref="lub-actors-755">Liennharten Kaufman</persName>, gegem perg an <persName ref="lub-actors-462">Marthin Erhart</persName>, aufwert dem lannd nach
+                  <lb n="20"/>an <persName ref="lub-actors-281">Hanns Nutten</persName> unnd <persName ref="lub-actors-771">Clas Gurtnetschers</persName> guet unnd gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-772">Clas Schnoppen</persName> hausfrowen guet; item mer zway manmad bei dem <placeName ref="lub-places-324">Kuelen Prunen</placeName> auf <placeName ref="lub-places-317">Prad</placeName> geleg,
+                  <lb n="21"/>stost abwert dem lannd nach an <persName ref="lub-actors-753">Hanns Vavilen</persName>, gegem perg an <persName ref="lub-actors-767">Hainrich Wanngner</persName>, aufwert dem lannd nach an <persName ref="lub-actors-773">Marthin Vavilen</persName> unnd <persName ref="lub-actors-762">Bastion Friesen</persName> unnd gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-774">Steffan
+                  <lb n="22"/>Nutten</persName>; item mer zway manmad wisen auf <placeName ref="lub-places-317">Prad</placeName> gelegen, stost aufwert dem lannd nach ans hofguet, gegen <placeName ref="lub-places-325">Mailser Perg</placeName> aber an das hofguet, abwert dem lannd nach an
+                  <lb n="23"/><persName ref="lub-actors-769">Jacoben Gurtnetschers</persName> guet unnd gegem perg an <persName ref="lub-actors-766">Clas Gsellen</persName> kindts muetter <persName ref="lub-actors-775">Marya Kriesin</persName> gut; unnd dann aber ain halb manmad auf <placeName ref="lub-places-317">Prad</placeName> gelegen, stost abwert dem land
+                  <lb n="24"/>nach an <placeName ref="lub-places-326">Flescher Riedt</placeName>, gegem perg unnd aufwert dem lannd nach ans hofguet unnd gegem <placeName ref="lub-places-103">Rein</placeName> an alten <persName ref="lub-actors-776">Deis Ruedi</persName>. Item auch, ob mer guettere, in das gemelt lechen gehörig, verhanden
+                  <lb n="25"/>gewesen weren unnd die vermög der alten lehenbrieven, so herfuer getzogen werden möchten, nit in erfarung pracht oder durch das wasser verrunen unnd hier inn nit be
+                  <lb break="no" n="26"/>griffen weren, an denselben solle nichts hingeben oder nachgelassen, sonnder derselben gerechtigkhait vorbehalten sein unnd pleiben etc. Alles unnd yedes mit steeg, weeg, wun, waid, pomen
+                  <lb n="27"/>zweyen, auch mit holtz, veld, wasser, wasserlaittinen und allen anndern rechten, nutzen, fruchten, guetten gewonnhaiten, begreiffungen unnd zuegehörden auf funfunndzwaintzig jar lang,
+                  <lb n="28"/>die nechsten von dato dis briefs auf ain ander volgennd, aus sondern gnaden und von kainer gerechtigkhait wegen unnd nemlich, das sy sich, irn erben und nachkhomen damit unnd dardurch kainer
+                  <lb n="29"/>geweer, posses noch aigendthumblichen eingan<gap/> gebrauchen noch behelffen sollen, von newem verlichen haben, also und mit dem lauttern geding, das sy unnd ire erben die vorgenannten stuckh
+                  <lb n="30"/>unnd guetter die bestimbten funfundzwaintzig jar lanng von dato antzuraitten unnd nit weitter noch lenger pawen, prauchen, nutzen und niessen sollen und mugend, als anndere ire
+                  <lb n="31"/>aigne guetter, doch die daneben in guetten wesennlichen eeren und bestendtlichen pewen aufendthalten unnd haben mit paw, zeunen, reutung und aller annderer notturfftigkhait, wie
+                  <lb n="32"/>sich das yeder zeit geburt, unnd nemlich auch die sambt noch sonders nit verkhauffen, versetzen, vertauschen, sonder aller ding unbeschwert, unverpfendt und unbeladen unnd zuvorderst auch
+                  <lb n="33"/>kainen ungewonlichen newen noch frömbden weeg durch die guetter machen noch gon lassen unnd darvon vorgemelter pfru<supplied>e</supplied>nd zu rechtem eerschatz geben funfundzwaintzig pfundt pfenig,
+                  <lb n="34"/>so sy an heut dato erlegt und betzalt, auch furtte<supplied>r</supplied>hin die funfunndzwaintzig jar von unnd ab den vorbelechneten guetter zu rechtem jerlichen zins yedes jars allain und besonnder auf
+                  <lb n="35"/><term ref="lub-keywords-365">sandt Marthins tag</term>, achttag vor oder nach ungeva<supplied>r</supplied>lich, geen <placeName ref="lub-places-53">Schaan</placeName> zu gemelter pfruend geordneten einnemers sichern hannden und gewalt siben schöffel guetz lautters wolgewannets korns
+                  <lb n="36"/><placeName ref="lub-places-10">Veldkhircher</placeName> meß guetter unnd genemer werung richten, geben und andtwurtten sollen. Weliches jars das aber in der bemelten jar zall nit beschehe oder sy den vorgeschribnen puncten
+                  <lb n="37"/>unnd artickhlen nit nachkhomen, sonnder seumig sein wurden, alsdann seyn vorgemelter pfruend vorgeschribne hingelichen stuckh und guetter widerumb ganntz aigenndthumblich haimb
+                  <lb break="no" n="38"/>gevallen unnd verwallen, on ir, irer erben unnd nachkhomen und allermenigclichs von irendtwegen saumen iren und widersprechen. Unnd hierauf so sollen unnd wöllen wir,
+                  <lb n="39"/>auch all unnser erben unnd nachkhomen, die vorgeruerten funfundzwaintzig jar lanng nach dato dis briefs volgend (alsdann nach ausganng derselben sy deren stuckh und guetter, als
+                  <lb n="40"/>vorsteet, abzutretten schuldig sein sollen), <gap/> dickhernenten lechens empfachen und der selben erben und nachkhomen das benant lechen mit allen stuckhen unnd guettern und der selben
+                  <lb n="41"/> zuegehörd, wie obsteet, ferttigen, weeren<gap/>d versprechen an allen ennden unnd gerichten, gaistlichen unnd weltlichen, gegen menigclichem, so dickh inen das nott ist, al weg
+                  <lb n="42"/>in gemelter pfruennd costen unnd one iren schaden, bei guetten truwen, on alle widerred, aufzug unnd geverde. Unnd des zu warem urkhundt haben wir unnser gemain
+                  <lb n="43"/>secret innsigel offennlich an disen brief hennckhen lassen. Unnd geben <origDate>an sanndt Marthins tag im funfftzechennhundert funff unnd sechtzigisten jare</origDate>.
+               </p>
+      </div>
+    </body>
+  </text>
+</TEI>

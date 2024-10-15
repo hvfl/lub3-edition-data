@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-606">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses sowie eines Anteils am Hanf- und Flachszehnten in Vaduz und Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-606">LI-LA, Schä U 74</ref> / Originaldatierung: 2. Februar 1574 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Joachim Quaderer von Vaduz und Fridolin Gantner von Triesen verkaufen für sich und für Adam Grüschli den Alten, Margaretha Grüschli und Kaspar Ruesch einen Zins von 16 Fuder Mist, 4 Viertel Weizen und 1 Viertel Korn, den der Kaplan am Marienaltar in Vaduz gibt, sowie einen Anteil am Hanf- und Flachszehnten zu Vaduz und Schaan für 100 Gulden an Juvenal Kreder, Landvogt zu Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-173">Mist</term>
+          <term ref="lub-keywords-148">Korn</term>
+          <term ref="lub-keywords-317">Hanf</term>
+          <term ref="lub-keywords-318">Flachs</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-543">Quaderer, Joachim (2)</persName>
+          <date when="1574-02-01">1. Feb 1574</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-322">Gantner, Fridolin</persName>
+          <date when="1574-02-01">1. Feb 1574</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-214">Plenki, Jakob</persName>
+          <date when="1574-02-01">1. Feb 1574</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-494" n="1"/><lb n="1"/>Zuewissen unnd kundt sey menigclichem hiemit, nachdem vor vil jaren <persName ref="lub-actors-798">Hanns Geltinger</persName> unnd fraw <persName ref="lub-actors-799">Nesa Rainoldtin</persName>, sein eeliche hausfrow
+               <lb n="2"/>iren weingartten zu <placeName ref="lub-places-1">Vaduz</placeName> an <placeName ref="lub-places-217">Maren</placeName> gelegen, so noch der <placeName ref="lub-places-228">Geltinger</placeName> genannt, fuer zechenndt frei, ledig unnd loss unnd darzue zwolf fueder mist, drew viertl waizen unnd ain
+               <lb n="3"/>viertl korn sambt iren zechennden unnd anndern mer guettern <persName ref="lub-actors-467">Hannsen Gruschlin</persName> unnd <persName ref="lub-actors-800">Adelhaitten</persName>, seinem eelichen weib, auch <persName ref="lub-actors-801">Ruedin Jeger</persName> unnd iren erben oder nachkhomen, des
+               <lb break="no" n="4"/>gleichen <persName ref="lub-actors-802">Ulrich Plattner</persName>, burgere zu <placeName ref="lub-places-10">Veldkhirch</placeName>, seinen weingartten zu <placeName ref="lub-places-1">Vaduz</placeName> an <placeName ref="lub-places-217">Mareen</placeName> gelegen unnd noch heutigstags der <placeName ref="lub-places-229">Plattner</placeName> genannt <persName ref="lub-actors-803">Hannsen von Bach</persName> unnd <persName ref="lub-actors-804">Anna
+               <lb n="5"/>Jegerin</persName>, seinem eelichen weib, unnd derselben erben auch fuer zechenndtfrey, ledig unnd loss und darzue zwolf fueder mist, drew viertl waizen, so dozumal unnser lieben
+               <lb n="6"/>frawen capplon<note>Der Kaplan am Marienaltar in der <placeName ref="lub-places-210">Kapelle St. Florin</placeName> in <placeName ref="lub-places-1">Vaduz.</placeName></note> zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <persName ref="lub-actors-805">Hainrich Vaistli</persName> daselbs jerlichs zinsen geben unnd anndtwuertten sollen, sambt seinem halben thail des hannf unnd flax zechennden zu <placeName ref="lub-places-1">Vaduz</placeName>,
+               <lb n="7"/>daraus unnd usser dem anndern halbennthail der viert thail an <placeName ref="lub-places-212">Sanndt Lorennzen Pfarr Kirchen</placeName> gehöre, item seinen thail unnd gerechtigkhait des hanf unnd flax zechennden
+               <lb n="8"/>zu <placeName ref="lub-places-53">Schan</placeName>, neben unnd mit sambt mer zinsen unnd vil guettern etc. verkhaufft unnd zuekhauffen gegeben haben lauth der briefen, daruber aufgericht, so dises alles lautter
+               <lb n="9"/>unnd clar ausweisennd. Weliche weingartten, der <placeName ref="lub-places-228">Geltinger</placeName> unnd <placeName ref="lub-places-229">Plattner</placeName>, also von obgenannten keuffern unnd iren nachkhomen von ainem auf den anndern biss
+               <lb n="10"/>yezo auf <persName ref="lub-actors-545">Adamen Gruschlin</persName>, die alt <persName ref="lub-actors-546">Greth Gruschlin</persName>, <persName ref="lub-actors-468">Caspar Rueschen</persName>, ir yedes zu seinem thail, merer thails aber auf <persName ref="lub-actors-543">Joachim Quader</persName> zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <persName ref="lub-actors-322">Fridlin Ganndtner</persName>
+               <lb n="11"/>zu <placeName ref="lub-places-79">Trisen</placeName> komen, dergestalt, das alwegen soliche baide weingartten von beruerten unnser lieben frowen capplon zu <placeName ref="lub-places-1">Vaduz</placeName> die zwennthail unnd von den innhabern
+               <lb n="12"/>der <orgName ref="lub-actors-806">Faistlin</orgName> seligen der drittel in gemainer zechennden one der innhabern der weingartten zuthuen oder enndtgeldtnus verzechenndt, inen auch obgenannte mist unnd
+               <lb n="13"/>waizen zins gleichergestalt verzinset worden, biss unnd so lanng der <orgName ref="lub-actors-806">Faistlin</orgName> drittel (doch ausserhalb der schuldigen hilf geruerten verzechenndens) abgelöst werden ver
+               <lb break="no" n="14"/>mög der quittung derwegen gegeben, das also den innhabern solicher baider weingartten obgenannt noch bei gesagter capplonei oder deren capplonen jerlichs
+               <lb n="15"/>gebueren sechzechen fueder mist, vier viertl waizen unnd ain viertl korn zusambt dem zwaytentail des verzechenndens, wie obsteet. Dise yeztbestimbte
+               <lb n="16"/>mist unnd frucht zins zu sambt unnd mit obangezaigtem irem thail recht unnd gerechtigkhait des hannf unnd flax zechenndens zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName>, wie sy dann
+               <lb n="17"/>unnd yeder zu seinem thail besizlich härpracht, haben obgenannter <persName ref="lub-actors-543">Joachim Quader</persName> unnd <persName ref="lub-actors-322">Fridlin Ganndtner</persName> fuer sich unnd mit gewalt, gonnst, wissen unnd willen
+               <lb n="18"/>obbestimbter irer mitthailhaber oder derselben rechtgesazten vöggten unnd irer aller erben unnd nachkhomen in beisein der ernvessten, ersamen unnd weisen <persName ref="lub-actors-246">Hain
+               <lb break="no" n="19"/>rich Quaders</persName>, alten amanns, <persName ref="lub-actors-279">Liennhardt Verlingen</persName>, des gerichts, unnd <persName ref="lub-actors-218">Ludwigen Haslach</persName>s, lanndtschreibers der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, dem ernvessten herrenn
+               <lb n="20"/><persName ref="lub-actors-24">Juvenali Kreder</persName>, lanndtvoggt geruerter herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, guez freys willenns, one gezwungen oder getrungen fuer frey, ledig und loss verkhaufft unnd zuekhauffen
+               <lb n="21"/>gegeben fuer unnd umb ainhundert guldin guetter genemer dis lanndtswerung, deren sy, die verkheuffere, also par bezalt sein bekhanndten, dergestalt, das
+               <lb n="22"/>er, seine erben unnd nachkhomen yezternennte zins unnd zechennden nun hinfuro innemen, empfachen, innhaben, prauchen, nuzen, niessen, verleichen, versezen,
+               <lb n="23"/>verkhauffen unnd in alweeg damit hanndlen, thuen unnd lassen sollen unnd mögen nach irem wollen, one ir, der verkheuffer, oder irer erben unnd menigclichs ver
+               <lb break="no" n="24"/>hindernus, one geverde. Doch ist hierinn sonnderlich bedingt unnd vorbehalten, das diser verkhauf merermeltenn <placeName ref="lub-places-228">Geltinger</placeName> unnd <placeName ref="lub-places-229">Plattner</placeName> weingartten ann
+               <lb n="25"/>irer härprachten zechenndtfreyung yezo unnd könnfftigclichen alwegen one vergriffen unnd oneschaden sein, sonnder vermög unnd in crafft obangezaigter irer alten
+               <lb n="26"/>kaufbriefen darbei pleiben söllen, geverd unnd arglist hier inn gennzlich ausgeschlossen unnd vermitten. Hierauf haben auch gedachte verkheuffere glaub
+               <lb break="no" n="27"/>lich zuegesagt unnd versprochen, vorgemelts herrn lanndtvoggts, seiner erben unnd nachkhomenden innhabern obgemelter mist unnd frucht zins, auch angezaigter ge
+               <lb break="no" n="28"/>rechtigkhait des hannf unnd flax zechenndens zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> diss kaufs rechte weeren zuesein fuer allermenigclichs rechtliche ansprach, sy zuvertretten,
+               <lb n="29"/>zuversprechen, zuversteen unnd aller ding richtig, unansprechig unnd schadlos zuehalten nach lanndtsrecht der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> ungevarlich. Unnd dessen zu warem
+               <lb n="30"/>urkhundt so haben obgenannter <persName ref="lub-actors-543">Jocham Quader</persName> fuer sich, sein hausfrow unnd genannte <persName ref="lub-actors-546">Gretha Gruschlin</persName>, <persName ref="lub-actors-322">Fridli Ganndtner</persName> unnd <persName ref="lub-actors-468">Caspar Ruesch</persName> fuer sich unnd ire hausfrowen
+               <lb n="31"/>unnd <persName ref="lub-actors-807">Michel Gasner</persName> als rechtgesazter voggt <persName ref="lub-actors-545">Adam Gruschlins</persName>, seiner hausfrowen unnd kindts von derselben wegen alle mit vleys erpetten den ersamen weisen
+               <lb n="32"/><persName ref="lub-actors-214">Jacob Plennckhin</persName>, diser zeit aman der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, das er sein aigen innsigel fuer sy, ire erben unnd nachkhomen offennlich gehennckht hat an disen brief, weliches
+               <lb n="33"/>ich, gesagter <persName ref="lub-actors-214">Jacob Blennckhi</persName> bekhenn, also auf pith yeztgenannter verkheuffer gethon hab (doch mir unnd meinen erben one schaden). Geben unnd beschechen <origDate>an unnser lieben
+               <lb n="34"/>frawen liechtmes abennd des funffzechennhundert vierunndsibennzigisten jars</origDate>.
+            </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-700" n="1"/><lb n="1"/>Disen zehenden, so der keuffer
+               <lb n="2"/>laut dis <gap/><unclear>briefes an</unclear> sich gebracht,
+               <lb n="3"/>hat er <gap/> der
+               <lb n="4"/>pfrun<unclear>ndt</unclear> zu <placeName ref="lub-places-1">Vaducz</placeName> in <placeName ref="lub-places-210">St. Flo
+               <lb break="no" n="5"/>rins Kirchen</placeName> <gap/> und ge-
+               <lb break="no" n="6"/>schenckht und vor seinem <gap/>
+               <lb n="7"/> <gap/>. 
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-605">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung des Blutbanns in der Grafschaft Vaduz an Ammann Jakob Plenki</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-605">LI-LA, Schä U 73</ref> / Originaldatierung: 17. August 1573 / Beschreibstoff: Papier / Siegel: 1 Siegel, nur noch Spuren</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Georg II. von Helfenstein und Graf Heinrich X. zu Fürstenberg verleihen als Vormünder der Kinder des verstorbenen Grafen Alwig IX. von Sulz den Blutbann in der Grafschaft Vaduz an Ammann Jakob Plenki.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-304">Hochgerichtsbarkeit</term>
+          <term ref="lub-keywords-186">Ammann</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-189">Helfenstein, Georg II. Graf von</persName>
+          <date when="1573-08-17">17. Aug 1573</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-466">Fürstenberg, Heinrich X. von</persName>
+          <date when="1573-08-17">17. Aug 1573</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-493" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-189">Georg grave zue Helffenstein</persName>, freyherr zue <placeName ref="lub-places-344">Gundelfingen</placeName>, fürstlicher durchleüchtigkeit
+                  <lb n="2"/><persName ref="lub-actors-11">ertzhertzog Ferdinandi zuo Österreich etc.</persName> geheimer rhat, oberister hofmeister unnd landtvoggt
+                  <lb n="3"/>zuo <placeName ref="lub-places-81">Nellenburg</placeName>, unnd <persName ref="lub-actors-466">Hainrich grave zue Fürstenperg, Hayligenberg unnd Werdenberg</persName>,
+                  <lb n="4"/>landtgrave inn <placeName ref="lub-places-333">Bare</placeName>, herr zue <placeName ref="lub-places-334">Hausen</placeName> im <placeName ref="lub-places-335">Kintzinger Thal</placeName> etc., als weylandt des wolgebornen,
+                  <lb n="5"/>unnsers freündtlichen lieben schwager unnd vetters <persName ref="lub-actors-9">Alwigen gravens zue Sultz</persName>, landt
+                  <lb break="no" n="6"/>gravens im <placeName ref="lub-places-18">Kleggew</placeName>, des <orgName ref="lub-actors-516">Heyligen Römischen Reichs</orgName> hofrichters zue <placeName ref="lub-places-17">Rotweül</placeName>, herren
+                  <lb n="7"/>zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> etc., seeliger gedechtnus jungen unmündiger
+                  <lb n="8"/>söhne unnd kinder von der <orgName ref="lub-actors-516">römischen</orgName> keyserlichen mayestat etc. confirmirte unnd deputirte vormündere
+                  <lb n="9"/>bekhennen mit disem briefe, als <unclear>wol</unclear> gedachte unnsere liebe pflegsön oder an statt
+                  <lb n="10"/>derselben wir, die vormünder, von <orgName ref="lub-actors-516">römischen</orgName> keysern unnd königen hochloblich begnadet
+                  <lb n="11"/>unnd befreyet sein mit dem pann, über das pluet zurichten, unnd gewalt, den weitter andern
+                  <lb n="12"/>zuverleihen unnd zuebevelhen, das wir demnach tragender vormündtschaft
+                  <lb n="13"/>wegen unns<supplied>er</supplied>m aman, lieben gethrewen und besondern <persName ref="lub-actors-214">Jacob Blencki</persName> an unnser statt
+                  <lb n="14"/>sollichen pann, über das pluet, malefitz unnd alle schädliche sachen in gemelter unserer pfleg
+                  <lb break="no" n="15"/>sönen herrschaft <placeName ref="lub-places-7">Vadutz</placeName>, dieweül er deren enden unverkerter aman ist, zurichten, bevolhen
+                  <lb n="16"/>unnd verlihen haben, verleihen unnd bevelhen ime den auch vormündtlicher weis unnd
+                  <lb n="17"/>in kraft dis briefs, alles das nach gewonheit unnd rechten, hierinnen fürzunemen, zuthun
+                  <lb n="18"/>unnd zuelassen, das eegemelte unnserer pflegsönen oder an statt derselben unnser be
+                  <lb break="no" n="19"/>gnadungen unnd freyheiten zuegeben, ausweisen unnd sich gepüret, als er unns dann
+                  <lb n="20"/>das gelopt unnd geschworen hatte, one geverde. Zue uhrkhundt haben wir unser
+                  <lb n="21"/>gemein vormündtlich insigel hiefür trucken lassen unnd geben den <origDate when="1573-08-17">sibenzehenden
+                  <lb n="22"/>tag monats augusti nach der gepurt Christi, unnsers seeligmachers, gezölt fünfzehen
+                  <lb break="no" n="23"/>hundert sibenzig unnd drey jar</origDate>.
+               </p>
+      </div>
+    </body>
+  </text>
+</TEI>

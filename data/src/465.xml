@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-465">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erstellung einer beglaubigten Abschrift eines Schiedsspruchs vom 4. Dezember 1489 zwischen den Kirchspielen Eschen und Bendern einerseits und den Leuten im Haag andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-465">LI-GAE, AHV 03/09</ref> / Originaldatierung: September 1598 / Beschreibstoff: Pergament / 1 Siegel, fehlt / Unterschrift und Notariatssignet von Johann Jakob Beck</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Johann Jakob Beck aus Tiengen, kaiserlicher Notar, sulzischer Obervogt in Mettingen und Landschreiber der Grafschaft Vaduz, erstellt auf Wunsch der Gemeinden Eschen und Bendern eine beglaubigte Abschrift einer im Besitz vom Adriana Franziska von Hohensax stehenden Urkunde vom 4. Dezember 1489. Diese war in zwei Exemplaren ausgefertigt worden, das Exemplar der Gemeinden Eschen und Bendern wurde jedoch 1589 zusammen mit anderen Urkunden beim Brand des Hauses von Hans Öhri, damals Ammann der Herrschaft Schellenberg, zerstört.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-323">Feuer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-177">Beck, Johann Jakob (von)</persName>
+          <date when="1598-09">Sep 1598</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2343" n="1"/><lb n="1"/>In gottes namen amen. Kundt und zuwüssen gethan seie aller
+<lb break="no" n="2"/>meniglich hiemit, daß hievor der zeit in <date when="1489">anno, do man gezellet vierzehenhundert achtzig unnd neune</date>, entzwüschen den gemeinden <placeName ref="lub-places-36">Bendern</placeName> und <placeName ref="lub-places-35">Eschen</placeName>, in der <orgName ref="lub-actors-7">sultzischen</orgName> herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> gelegen, an einem unnd
+<lb n="3"/>dann denen im <placeName ref="lub-places-220">Hag</placeName> jenseit <placeName ref="lub-places-103">Reins</placeName> under der herrschafft <placeName ref="lub-places-164">Vorsteckh</placeName> am andern theil etlicher irer gegeneinandern gehabten nachbarlichen spennen unnd mißverstenden zwen vertrags- unnd spruchbrief aufgerichtet und deren jeder partey einer inn sichere 
+<lb n="4"/>verwahrung zugestelt worden. Es hat sich aber hernacher begeben, daß im <date when="1589">jar ein taußendt fünffhundert neün unnd achtzig</date> inn weylandt <persName ref="lub-actors-165">Hannßen Öris</persName>, deß geweßnen ammanß der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, seeligen behaußung auff <placeName ref="lub-places-31">Rauffenberg</placeName> ein 
+<lb n="5"/>brunst aufgangen, dardurch nit allein selbige behaußung biß in grundt, sondern auch dißer, deren von <placeName ref="lub-places-36">Benderen</placeName> und <placeName ref="lub-places-35">Eschen</placeName> gehabter spruch unnd andere mer dabey gelegne brief allerdings verbronnen. Nachdißem, alß die gedachten von <placeName ref="lub-places-36">Benderen</placeName> unnd 
+<lb n="6"/><placeName ref="lub-places-35">Eschen</placeName> ires briefs inn großem mangel gestanden, haben sy im <origDate>monat septembri deß fünffzehenhundert acht unnd neüntzigisten jarß</origDate> durch mich, undengeschribnen kayßerlichen adprobierten notarium, auch <persName ref="lub-actors-493">Hannßen Wagner</persName>, amman, unnd andere, ire 
+<lb n="7"/>mir zugeordnete außschüß, bey der wolgebornen frawen, frawen <persName ref="lub-actors-1519">Adriana Franißca freyfrawen zue der Hochensax, gebornen freyin von Predenrode</persName>, weylandt deß wolgebornen herrn, herrn <persName ref="lub-actors-1520">Johann Philipsen freyherrn zue der Hochensax</persName> etc., 
+<lb n="8"/>wolseeliger gedechtnuß, nachgelaßnen witib alß dißer zeit regierenden frawen der herrschafft <placeName ref="lub-places-164">Vorsteckh</placeName> umb ain gleichformige vidimirte abschrifft von denen im <placeName ref="lub-places-220">Haag</placeName> noch habenden unverserten haubt spruchbrieffe underthenig begert. 
+<lb n="9"/>Darauf dann ire genaden, die fraw witib, mit denn ierigen ein bedacht genommen unnd volgendts unß bescheidt geben, daß sy unnßer gethanes ansuechen unnd begeren nit für unzümlich ermeßen, unnd welle mir, dem notario, damit daß original zuge
+<lb break="no" n="10"/>stelt haben, ein vidimus oder copiam davon zunemmen unnd denen zue <placeName ref="lub-places-36">Benderen</placeName> unnd <placeName ref="lub-places-35">Eschen</placeName> uf ir begeren zuinstrumentirn. Wellichen original spruch brief ich also darüber zue meinen handen genommen und auf der mergedachten baiden gemainden hochvleiß
+<lb break="no" n="11"/>igs pitten durch meinen substituten auf gegenwertig pergamen abcopieren unnd schreiben laßen unnd nach demselbigen gegen dem rechten original vleißig collationirt unnd auscultiert, hab es gegen ainandern gleichlautendt, auch sonsten ahn pergamen,
+<lb n="12"/>insigel unnd schrifften gantz gerecht und ohne allen argwon befunden. Stet daß original in nachvolgenden worten also: 
+</p>
+        <p><lb n="13"/>Es folgt der Text der Urkunde vom 4. Dezember 1489: LUB II, GemeindeA Eschen III/9 (Insert). 
+</p>
+        <p><lb n="14"/>Unnd wann dann ich <persName ref="lub-actors-177">Johann Jacob Beckh</persName> von <placeName ref="lub-places-56">Thüengen</placeName>, auß römisch kayserlicher mayestät etc. gewalte 
+<lb n="15"/>freyer, offenbarer und an derselben hochloblichen <orgName ref="lub-actors-521">cammergericht zue Speyr</orgName> adprobirter und immatriculirter notarius, diser zeit gräflicher <orgName ref="lub-actors-7">sultzischer</orgName> obervogt der herrschafft <placeName ref="lub-places-608">Mettingen</placeName> 
+<lb n="16"/>und landtschreiber zue <placeName ref="lub-places-7">Vadutz</placeName>, obinserirtes original und vertrags brief, in maßen vorgeschriben stehet, allerdings argwons frei befunden, hierumb so 
+<lb n="17"/>hab ich auf baider obgehörten gemainden <placeName ref="lub-places-36">Bendern</placeName> und <placeName ref="lub-places-35">Eschen</placeName> pitlichs begeren diß glaubwürdig offen vidimus darüber aufgericht und geschefften 
+<lb n="18"/>halber durch einen meiner substituten schreiben laßen, auch mit meinem aignen tauff- und zunamen und gewonlichem notariat signet 
+<lb n="19"/>underzeichnet, darzue mein aigen insigel (mir und meinen erben one schaden) hieran gehengt zue mererem glauben und 
+<lb n="20"/>gezeügnus aller und jeder obgeschribner dingen, hierzue ernstlich und vleißig erbetten und ervordert. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

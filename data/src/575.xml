@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-575">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Anthoni Seel aus dem Aostatal</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-575">LI-LA, Schä U 50</ref> / Originaldatierung: 7. Februar 1530 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anthoni Seel aus dem Aostatal, der aus ungenannten Gründen in Schloss Vaduz inhaftiert worden war, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-427">Seel, Anthoni</persName>
+          <date when="1530-02-07">7. Feb 1530</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1530-02-07">7. Feb 1530</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-460" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-427">Anthoni Seel</persName> von <placeName ref="lub-places-494">Aigatz</placeName> im <placeName ref="lub-places-208">Augstal</placeName> bekhenn und thun khundt allermenigklich mit dissem brieve, nach dem 
+<lb n="2"/>als ich in des wolgebornen herrn, herrn <persName ref="lub-actors-8">Rudolffs graven zu Sultz</persName>, landtgraven im <placeName ref="lub-places-18">Clekhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen 
+<lb n="3"/>Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegkh</placeName> und kunigkliher magestat zu <placeName ref="lub-places-146">Hungern</placeName> und <placeName ref="lub-places-162">Behaim</placeName>, 
+<lb n="4"/>meins genedigissten herrn, stathalter der <placeName ref="lub-places-160">Oberössterreihischen Landt</placeName> etc., meins genedigen herrn, gefenkhnus komen und in 
+<lb n="5"/>seiner gnaden <placeName ref="lub-places-33">schlos zu Vadutz</placeName> gefuert worden, aber nahmals uff underhandlung, auh vleissig pitt fromer piderbleut 
+<lb n="6"/>der erenvesst <persName ref="lub-actors-155">Caspar Mammnendorffer</persName>, der zeit bemelts, meins genedigen herrn, landtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und ober
+<lb break="no" n="7"/>vogt zu <placeName ref="lub-places-12">Bluemenegkh</placeName>, mih meiner verhandlung nah genedig angesehen und daruff mih an seiner genaden statt seliher
+<lb n="8"/>gefenkhnus ledig und ausgelassen, darumb ih dann pillich gedahtem, meins genedigen herrn landtvogt, an seiner ge
+<lb break="no" n="9"/>naden statt zuvor, auh allen denen, so zu seliher meiner erledigung geiept und geholffen haben, underthenigen dankh sag
+<lb n="10"/>und daruff mih hiemit verschrib, verphlicht und verpind mit crafft ditz brieffs also, das ich seliher handlung und ge
+<lb break="no" n="11"/>venkhnus und, was darinn beruert, gegen meinem genedigen herrn, seiner gnaden erben, freunden und nahkomen, vegten,
+<lb n="12"/>amptleuten, deinern, auh gegen seiner gnaden armenleuten, underthonen und zugehörigen, auh gegen allen denen, so seiner 
+<lb n="13"/>gnaden vegten, amptleuten und anwelten zuversprechen stond, sy seyend gaistlih oder weltlih, auh sonst allen andern, so 
+<lb n="14"/>daran schuld, rat oder that haben oder haben möhten, ich oder jemandts von meinen wegen in kainerlay weiss noh 
+<lb n="15"/>weg mit worten noh mit werkhen jetz noh hinfuran ewigklih nihts ändtern, rehen, äffern noh mih beschweren, auh das 
+<lb n="16"/>niemantz an meiner statt oder in meinem namen zuthun gestatten, bevelhen noh verfolgen, weder mit noh ausserhalb 
+<lb n="17"/>rehtens, sonder mit disser genedigen ledigsagung zu dankh beniegen. Selihs ih dann obgenantem, meins genedigen herrn 
+<lb n="18"/>landtvogt, an statt seiner genaden ain gelerten ayd mit uffgehaben vingern leiplih zu got und den hailigen ge
+<lb break="no" n="19"/>schworen, dennah ich mich hiemit frey willigklih und unbezwungen verpind also, wo ih selihs, so obgeschriben,
+<lb n="20"/>nit stät hielt, sonder in ainem oder merrerm verprech und uberthräte, da got vor sey und mih behieten well, das 
+<lb n="21"/>alsdann mein genediger herr, seiner gnaden vegt, amptleut und anweldt, nah mir greiffen, mih annemen und straffen lassen 
+<lb n="22"/>sellen, maht und reht haben als gegen ainem, der sein glupt, aid, zusagen und verschribung uberthreten und nit gehalten 
+<lb n="23"/>hat. Darfur mih weder gaistlih noh weltlih geriht, auh kainerlay freihait noh landsbruh nit helffen, sihern noh beschitzen 
+<lb n="24"/>und schirmen soll, will mih des hiemit als dann und dann als jetz begeben und verzigen haben. Und des zu warem 
+<lb n="25"/>urkundt so hab ih, obgenanter <persName ref="lub-actors-427">Anthoni Seel</persName>, mit sonderm fleis gepeten und erpeten den edlen und vessten <persName ref="lub-actors-156">Balthasern von 
+<lb n="26"/>Ramschwag</persName>, der zeit obgedahter kunigkliher magestat, meins genedigissten herrn, vogt uff <placeName ref="lub-places-13">Gutenperg</placeName>, das er sein aigen 
+<lb n="27"/>insigel von meinen wegen in dissen he<unclear>r</unclear>inn gedrukht hat, doh im, seinen erben und insigel on allen schaden. Beschehen 
+<lb n="28"/><origDate>uf den sybenden tag des monadts februarii nah Cristi gepurtt feunffzehenhundert und dreissig jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

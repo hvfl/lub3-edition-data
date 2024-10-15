@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-keywords">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liechtensteinisches Urkundenbuch 3 (LUB 3)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Liechtensteinisches Urkundenbuch 3 (LUB 3)</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>lub</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Datenbankexport vom 2024-08-22 10:29:49 aus </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc/>
+    <revisionDesc>
+      <change when="2024-08-22T10:29:49+02:00">teiHeader was automatically produced from the database 2024-08-22T10:29:49+02:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <list xml:id="lub-keywords-list" type="keywords">
+        <item xml:id="lub-keywords-1">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Grenze</label>
+          <label xml:lang="de" type="sort">grenze</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-2">
+          <label xml:lang="de" type="main">Freizügigkeit</label>
+          <label xml:lang="de" type="sort">freizuegigkeit</label>
+        </item>
+        <item xml:id="lub-keywords-3">
+          <label xml:lang="de" type="main">Ausbürger</label>
+          <label xml:lang="de" type="sort">ausbuerger</label>
+          <note type="description" xml:lang="de">
+            <p>Ausburger</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-4">
+          <label xml:lang="de" type="main">Schnitz</label>
+          <label xml:lang="de" type="sort">schnitz</label>
+        </item>
+        <item xml:id="lub-keywords-7">
+          <label xml:lang="de" type="main">Steuer</label>
+          <label xml:lang="de" type="sort">steuer</label>
+        </item>
+        <item xml:id="lub-keywords-8">
+          <label xml:lang="de" type="main">Urfehde</label>
+          <label xml:lang="de" type="sort">urfehde</label>
+        </item>
+        <item xml:id="lub-keywords-9">
+          <label xml:lang="de" type="main">Zoll</label>
+          <label xml:lang="de" type="sort">zoll</label>
+        </item>
+        <item xml:id="lub-keywords-10">
+          <label xml:lang="de" type="main">Jahrmarkt</label>
+          <label xml:lang="de" type="sort">jahrmarkt</label>
+        </item>
+        <item xml:id="lub-keywords-11">
+          <label xml:lang="de" type="main">Ehevertrag</label>
+          <label xml:lang="de" type="sort">ehevertrag</label>
+        </item>
+        <item xml:id="lub-keywords-12">
+          <label xml:lang="de" type="main">Mitgift</label>
+          <label xml:lang="de" type="sort">mitgift</label>
+        </item>
+        <item xml:id="lub-keywords-13">
+          <label xml:lang="de" type="main">Diebstahl</label>
+          <label xml:lang="de" type="sort">diebstahl</label>
+        </item>
+        <item xml:id="lub-keywords-15">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Blutbann</label>
+          <label xml:lang="de" type="sort">blutbann</label>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-16">
+          <label xml:lang="de" type="main">Güterverkauf</label>
+          <label xml:lang="de" type="sort">gueterverkauf</label>
+        </item>
+        <item xml:id="lub-keywords-17">
+          <label xml:lang="de" type="main">Zins</label>
+          <label xml:lang="de" type="sort">zins</label>
+        </item>
+        <item xml:id="lub-keywords-18">
+          <label xml:lang="de" type="main">Türkenkrieg</label>
+          <label xml:lang="de" type="sort">tuerkenkrieg</label>
+        </item>
+        <item xml:id="lub-keywords-19">
+          <label xml:lang="de" type="main">Bürgschaft</label>
+          <label xml:lang="de" type="sort">buergschaft</label>
+        </item>
+        <item xml:id="lub-keywords-20">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Scharfrichter</label>
+          <label xml:lang="de" type="sort">scharfrichter</label>
+          <note type="description" xml:lang="de">
+            <p>Nachrichter</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-21">
+          <label xml:lang="de" type="main">Privileg</label>
+          <label xml:lang="de" type="sort">privileg</label>
+        </item>
+        <item xml:id="lub-keywords-23">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Erbe</label>
+          <label xml:lang="de" type="sort">erbe</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-24">
+          <label xml:lang="de" type="main">Erbstreit</label>
+          <label xml:lang="de" type="sort">erbstreit</label>
+        </item>
+        <item xml:id="lub-keywords-26">
+          <label xml:lang="de" type="main">Erbschaft</label>
+          <label xml:lang="de" type="sort">erbschaft</label>
+        </item>
+        <item xml:id="lub-keywords-27">
+          <label xml:lang="de" type="main">Lehen</label>
+          <label xml:lang="de" type="sort">lehen</label>
+        </item>
+        <item xml:id="lub-keywords-28">
+          <label xml:lang="de" type="main">Haus</label>
+          <label xml:lang="de" type="sort">haus</label>
+        </item>
+        <item xml:id="lub-keywords-29">
+          <label xml:lang="de" type="main">Erbverzicht</label>
+          <label xml:lang="de" type="sort">erbverzicht</label>
+        </item>
+        <item xml:id="lub-keywords-30">
+          <label xml:lang="de" type="main">Verkauf</label>
+          <label xml:lang="de" type="sort">verkauf</label>
+        </item>
+        <item xml:id="lub-keywords-32">
+          <label xml:lang="de" type="main">Untertanen</label>
+          <label xml:lang="de" type="sort">untertanen</label>
+        </item>
+        <item xml:id="lub-keywords-33">
+          <label xml:lang="de" type="main">Aufruhr</label>
+          <label xml:lang="de" type="sort">aufruhr</label>
+        </item>
+        <item xml:id="lub-keywords-34">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Frondienst</label>
+          <label xml:lang="de" type="sort">frondienst</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-35">
+          <label xml:lang="de" type="main">Protestantismus</label>
+          <label xml:lang="de" type="sort">protestantismus</label>
+        </item>
+        <item xml:id="lub-keywords-37">
+          <label xml:lang="de" type="main">Konfession</label>
+          <label xml:lang="de" type="sort">konfession</label>
+        </item>
+        <item xml:id="lub-keywords-38">
+          <label xml:lang="de" type="main">Walser</label>
+          <label xml:lang="de" type="sort">walser</label>
+        </item>
+        <item xml:id="lub-keywords-41">
+          <label xml:lang="de" type="main">Jagd</label>
+          <label xml:lang="de" type="sort">jagd</label>
+        </item>
+        <item xml:id="lub-keywords-42">
+          <label xml:lang="de" type="main">Türkensteuer</label>
+          <label xml:lang="de" type="sort">tuerkensteuer</label>
+          <note type="description" xml:lang="de">
+            <p>Türkenhilfe</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-46">
+          <label xml:lang="de" type="main">Konflikt</label>
+          <label xml:lang="de" type="sort">konflikt</label>
+        </item>
+        <item xml:id="lub-keywords-48">
+          <label xml:lang="de" type="main">Jurisdiktionsstreit</label>
+          <label xml:lang="de" type="sort">jurisdiktionsstreit</label>
+        </item>
+        <item xml:id="lub-keywords-52">
+          <label xml:lang="de" type="main">Widerstand</label>
+          <label xml:lang="de" type="sort">widerstand</label>
+        </item>
+        <item xml:id="lub-keywords-54">
+          <label xml:lang="de" type="main">Recht</label>
+          <label xml:lang="de" type="sort">recht</label>
+        </item>
+        <item xml:id="lub-keywords-55">
+          <label xml:lang="de" type="main">Hoheitsrecht</label>
+          <label xml:lang="de" type="sort">hoheitsrecht</label>
+        </item>
+        <item xml:id="lub-keywords-56">
+          <label xml:lang="de" type="main">Zehnt</label>
+          <label xml:lang="de" type="sort">zehnt</label>
+        </item>
+        <item xml:id="lub-keywords-57">
+          <label xml:lang="de" type="main">Beschlagnahme</label>
+          <label xml:lang="de" type="sort">beschlagnahme</label>
+          <note type="description" xml:lang="de">
+            <p>Beschlagnahmung</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-58">
+          <label xml:lang="de" type="main">Leibeigenschaft</label>
+          <label xml:lang="de" type="sort">leibeigenschaft</label>
+        </item>
+        <item xml:id="lub-keywords-60">
+          <label xml:lang="de" type="main">Reichstag</label>
+          <label xml:lang="de" type="sort">reichstag</label>
+        </item>
+        <item xml:id="lub-keywords-61">
+          <label xml:lang="de" type="main">Schulden</label>
+          <label xml:lang="de" type="sort">schulden</label>
+        </item>
+        <item xml:id="lub-keywords-62">
+          <label xml:lang="de" type="main">Urbar</label>
+          <label xml:lang="de" type="sort">urbar</label>
+        </item>
+        <item xml:id="lub-keywords-63">
+          <label xml:lang="de" type="main">Juden</label>
+          <label xml:lang="de" type="sort">juden</label>
+        </item>
+        <item xml:id="lub-keywords-65">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Schutz und Schirm</label>
+          <label xml:lang="de" type="sort">schutz und schirm</label>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-66">
+          <label xml:lang="de" type="main">Bauernkrieg 1525</label>
+          <label xml:lang="de" type="sort">bauernkrieg 1525</label>
+        </item>
+        <item xml:id="lub-keywords-69">
+          <label xml:lang="de" type="main">Majestätsbeleidigung</label>
+          <label xml:lang="de" type="sort">majestaetsbeleidigung</label>
+        </item>
+        <item xml:id="lub-keywords-73">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Öffnungsgeld</label>
+          <label xml:lang="de" type="sort">oeffnungsgeld</label>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-74">
+          <label xml:lang="de" type="main">Genossenschaft</label>
+          <label xml:lang="de" type="sort">genossenschaft</label>
+        </item>
+        <item xml:id="lub-keywords-79">
+          <label xml:lang="de" type="main">Vorkaufsrecht</label>
+          <label xml:lang="de" type="sort">vorkaufsrecht</label>
+        </item>
+        <item xml:id="lub-keywords-81">
+          <label xml:lang="de" type="main">Dienst</label>
+          <label xml:lang="de" type="sort">dienst</label>
+        </item>
+        <item xml:id="lub-keywords-84">
+          <label xml:lang="de" type="main">Grenzsicherung</label>
+          <label xml:lang="de" type="sort">grenzsicherung</label>
+        </item>
+        <item xml:id="lub-keywords-86">
+          <label xml:lang="de" type="main">Dienstvertrag</label>
+          <label xml:lang="de" type="sort">dienstvertrag</label>
+        </item>
+        <item xml:id="lub-keywords-87">
+          <label xml:lang="de" type="main">Befestigungsanlage</label>
+          <label xml:lang="de" type="sort">befestigungsanlage</label>
+        </item>
+        <item xml:id="lub-keywords-89">
+          <label xml:lang="de" type="main">Schiesspulver</label>
+          <label xml:lang="de" type="sort">schiesspulver</label>
+        </item>
+        <item xml:id="lub-keywords-91">
+          <label xml:lang="de" type="main">Munition</label>
+          <label xml:lang="de" type="sort">munition</label>
+        </item>
+        <item xml:id="lub-keywords-95">
+          <label xml:lang="de" type="main">Waffe</label>
+          <label xml:lang="de" type="sort">waffe</label>
+        </item>
+        <item xml:id="lub-keywords-97">
+          <label xml:lang="de" type="main">Pfandsumme</label>
+          <label xml:lang="de" type="sort">pfandsumme</label>
+        </item>
+        <item xml:id="lub-keywords-98">
+          <label xml:lang="de" type="main">Schuldenerlass</label>
+          <label xml:lang="de" type="sort">schuldenerlass</label>
+        </item>
+        <item xml:id="lub-keywords-99">
+          <label xml:lang="de" type="main">Reparatur</label>
+          <label xml:lang="de" type="sort">reparatur</label>
+        </item>
+        <item xml:id="lub-keywords-100">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Frevel</label>
+          <label xml:lang="de" type="sort">frevel</label>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-106">
+          <label xml:lang="de" type="main">Schmalz</label>
+          <label xml:lang="de" type="sort">schmalz</label>
+        </item>
+        <item xml:id="lub-keywords-107">
+          <label xml:lang="de" type="main">Wochenmarkt</label>
+          <label xml:lang="de" type="sort">wochenmarkt</label>
+        </item>
+        <item xml:id="lub-keywords-108">
+          <label xml:lang="de" type="main">Jagdrecht</label>
+          <label xml:lang="de" type="sort">jagdrecht</label>
+        </item>
+        <item xml:id="lub-keywords-110">
+          <label xml:lang="de" type="main">Wild</label>
+          <label xml:lang="de" type="sort">wild</label>
+        </item>
+        <item xml:id="lub-keywords-111">
+          <label xml:lang="de" type="main">Verpflegung</label>
+          <label xml:lang="de" type="sort">verpflegung</label>
+        </item>
+        <item xml:id="lub-keywords-112">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Passbrief</label>
+          <label xml:lang="de" type="sort">passbrief</label>
+          <note type="description" xml:lang="de">
+            <p>(Reise)Pass, Passierschein, Ausweis</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-113">
+          <label xml:lang="de" type="main">Hausrat</label>
+          <label xml:lang="de" type="sort">hausrat</label>
+        </item>
+        <item xml:id="lub-keywords-118">
+          <label xml:lang="de" type="main">Landgericht</label>
+          <label xml:lang="de" type="sort">landgericht</label>
+        </item>
+        <item xml:id="lub-keywords-120">
+          <label xml:lang="de" type="main">Lebensmittelknappheit</label>
+          <label xml:lang="de" type="sort">lebensmittelknappheit</label>
+        </item>
+        <item xml:id="lub-keywords-121">
+          <label xml:lang="de" type="main">Geld</label>
+          <label xml:lang="de" type="sort">geld</label>
+        </item>
+        <item xml:id="lub-keywords-122">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Strasse</label>
+          <label xml:lang="de" type="sort">strasse</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-124">
+          <label xml:lang="de" type="main">Strassenbau</label>
+          <label xml:lang="de" type="sort">strassenbau</label>
+        </item>
+        <item xml:id="lub-keywords-125">
+          <label xml:lang="de" type="main">Brücke</label>
+          <label xml:lang="de" type="sort">bruecke</label>
+        </item>
+        <item xml:id="lub-keywords-126">
+          <label xml:lang="de" type="main">Verlassenschaft</label>
+          <label xml:lang="de" type="sort">verlassenschaft</label>
+          <note type="description" xml:lang="de">
+            <p>Hinterlassenschaft</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-127">
+          <label xml:lang="de" type="main">Wirtshaus</label>
+          <label xml:lang="de" type="sort">wirtshaus</label>
+        </item>
+        <item xml:id="lub-keywords-131">
+          <label xml:lang="de" type="main">Beamter</label>
+          <label xml:lang="de" type="sort">beamter</label>
+        </item>
+        <item xml:id="lub-keywords-133">
+          <label xml:lang="de" type="main">Krankheit</label>
+          <label xml:lang="de" type="sort">krankheit</label>
+        </item>
+        <item xml:id="lub-keywords-134">
+          <label xml:lang="de" type="main">Tod</label>
+          <label xml:lang="de" type="sort">tod</label>
+        </item>
+        <item xml:id="lub-keywords-135">
+          <label xml:lang="de" type="main">Landvogtei</label>
+          <label xml:lang="de" type="sort">landvogtei</label>
+        </item>
+        <item xml:id="lub-keywords-138">
+          <label xml:lang="de" type="main">Wein</label>
+          <label xml:lang="de" type="sort">wein</label>
+        </item>
+        <item xml:id="lub-keywords-139">
+          <label xml:lang="de" type="main">Einnahme</label>
+          <label xml:lang="de" type="sort">einnahme</label>
+        </item>
+        <item xml:id="lub-keywords-140">
+          <label xml:lang="de" type="main">Pfarrei</label>
+          <label xml:lang="de" type="sort">pfarrei</label>
+          <note type="description" xml:lang="de">
+            <p>Pfarre</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-143">
+          <label xml:lang="de" type="main">Acker</label>
+          <label xml:lang="de" type="sort">acker</label>
+        </item>
+        <item xml:id="lub-keywords-147">
+          <label xml:lang="de" type="main">Totschlag</label>
+          <label xml:lang="de" type="sort">totschlag</label>
+        </item>
+        <item xml:id="lub-keywords-148">
+          <label xml:lang="de" type="main">Korn</label>
+          <label xml:lang="de" type="sort">korn</label>
+        </item>
+        <item xml:id="lub-keywords-149">
+          <label xml:lang="de" type="main">Kloster</label>
+          <label xml:lang="de" type="sort">kloster</label>
+        </item>
+        <item xml:id="lub-keywords-150">
+          <label xml:lang="de" type="main">Vieh</label>
+          <label xml:lang="de" type="sort">vieh</label>
+        </item>
+        <item xml:id="lub-keywords-151">
+          <label xml:lang="de" type="main">Weide</label>
+          <label xml:lang="de" type="sort">weide</label>
+        </item>
+        <item xml:id="lub-keywords-152">
+          <label xml:lang="de" type="main">Nutzungsrecht</label>
+          <label xml:lang="de" type="sort">nutzungsrecht</label>
+        </item>
+        <item xml:id="lub-keywords-153">
+          <label xml:lang="de" type="main">Weibel</label>
+          <label xml:lang="de" type="sort">weibel</label>
+        </item>
+        <item xml:id="lub-keywords-154">
+          <label xml:lang="de" type="main">Geschworener</label>
+          <label xml:lang="de" type="sort">geschworener</label>
+        </item>
+        <item xml:id="lub-keywords-155">
+          <label xml:lang="de" type="main">Alp</label>
+          <label xml:lang="de" type="sort">alp</label>
+        </item>
+        <item xml:id="lub-keywords-156">
+          <label xml:lang="de" type="main">Alprecht</label>
+          <label xml:lang="de" type="sort">alprecht</label>
+        </item>
+        <item xml:id="lub-keywords-157">
+          <label xml:lang="de" type="main">Wald</label>
+          <label xml:lang="de" type="sort">wald</label>
+        </item>
+        <item xml:id="lub-keywords-159">
+          <label xml:lang="de" type="main">Einzäunung</label>
+          <label xml:lang="de" type="sort">einzaeunung</label>
+        </item>
+        <item xml:id="lub-keywords-161">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Fasnachtshenne</label>
+          <label xml:lang="de" type="sort">fasnachtshenne</label>
+          <note type="description" xml:lang="de">
+            <p>Abgabe</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-162">
+          <label xml:lang="de" type="main">Reichserbhofrichter</label>
+          <label xml:lang="de" type="sort">reichserbhofrichter</label>
+          <note type="description" xml:lang="de">
+            <p>Erbliches kaiserliches Richteramt in Rottweil.</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-163">
+          <label xml:lang="de" type="main">Holznutzung</label>
+          <label xml:lang="de" type="sort">holznutzung</label>
+        </item>
+        <item xml:id="lub-keywords-164">
+          <label xml:lang="de" type="main">Rodung</label>
+          <label xml:lang="de" type="sort">rodung</label>
+        </item>
+        <item xml:id="lub-keywords-165">
+          <label xml:lang="de" type="main">Obst</label>
+          <label xml:lang="de" type="sort">obst</label>
+        </item>
+        <item xml:id="lub-keywords-169">
+          <label xml:lang="de" type="main">Damm</label>
+          <label xml:lang="de" type="sort">damm</label>
+          <note type="description" xml:lang="de">
+            <p>Wuhr</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-170">
+          <label xml:lang="de" type="main">Weingarten</label>
+          <label xml:lang="de" type="sort">weingarten</label>
+        </item>
+        <item xml:id="lub-keywords-171">
+          <label xml:lang="de" type="main">Grundstück</label>
+          <label xml:lang="de" type="sort">grundstueck</label>
+          <note type="description" xml:lang="de">
+            <p>Gut</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-172">
+          <label xml:lang="de" type="main">Gerste</label>
+          <label xml:lang="de" type="sort">gerste</label>
+        </item>
+        <item xml:id="lub-keywords-173">
+          <label xml:lang="de" type="main">Mist</label>
+          <label xml:lang="de" type="sort">mist</label>
+        </item>
+        <item xml:id="lub-keywords-174">
+          <label xml:lang="de" type="main">Weizen</label>
+          <label xml:lang="de" type="sort">weizen</label>
+        </item>
+        <item xml:id="lub-keywords-175">
+          <label xml:lang="de" type="main">Weiderecht</label>
+          <label xml:lang="de" type="sort">weiderecht</label>
+        </item>
+        <item xml:id="lub-keywords-176">
+          <label xml:lang="de" type="main">Köhlerei</label>
+          <label xml:lang="de" type="sort">koehlerei</label>
+        </item>
+        <item xml:id="lub-keywords-179">
+          <label xml:lang="de" type="main">Landrecht</label>
+          <label xml:lang="de" type="sort">landrecht</label>
+        </item>
+        <item xml:id="lub-keywords-180">
+          <label xml:lang="de" type="main">Lebensmittel</label>
+          <label xml:lang="de" type="sort">lebensmittel</label>
+        </item>
+        <item xml:id="lub-keywords-182">
+          <label xml:lang="de" type="main">Pfründe</label>
+          <label xml:lang="de" type="sort">pfruende</label>
+          <note type="description" xml:lang="de">
+            <p>Pfrund</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-185">
+          <label xml:lang="de" type="main">Burgrecht</label>
+          <label xml:lang="de" type="sort">burgrecht</label>
+        </item>
+        <item xml:id="lub-keywords-186">
+          <label xml:lang="de" type="main">Ammann</label>
+          <label xml:lang="de" type="sort">ammann</label>
+        </item>
+        <item xml:id="lub-keywords-195">
+          <label xml:lang="de" type="main">Obrigkeit</label>
+          <label xml:lang="de" type="sort">obrigkeit</label>
+        </item>
+        <item xml:id="lub-keywords-197">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Raisen</label>
+          <label xml:lang="de" type="sort">raisen</label>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-203">
+          <label xml:lang="de" type="main">Vertrag</label>
+          <label xml:lang="de" type="sort">vertrag</label>
+        </item>
+        <item xml:id="lub-keywords-204">
+          <label xml:lang="de" type="main">Vogt</label>
+          <label xml:lang="de" type="sort">vogt</label>
+        </item>
+        <item xml:id="lub-keywords-206">
+          <label xml:lang="de" type="main">Pfändung</label>
+          <label xml:lang="de" type="sort">pfaendung</label>
+        </item>
+        <item xml:id="lub-keywords-207">
+          <label xml:lang="de" type="main">Schneefluchtrecht</label>
+          <label xml:lang="de" type="sort">schneefluchtrecht</label>
+        </item>
+        <item xml:id="lub-keywords-209">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Bestattung</label>
+          <label xml:lang="de" type="sort">bestattung</label>
+          <note type="description" xml:lang="de">
+            <p>Beerdigung</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-212">
+          <label xml:lang="de" type="main">Folter</label>
+          <label xml:lang="de" type="sort">folter</label>
+        </item>
+        <item xml:id="lub-keywords-214">
+          <label xml:lang="de" type="main">Gericht</label>
+          <label xml:lang="de" type="sort">gericht</label>
+        </item>
+        <item xml:id="lub-keywords-216">
+          <label xml:lang="de" type="main">Hinrichtung</label>
+          <label xml:lang="de" type="sort">hinrichtung</label>
+        </item>
+        <item xml:id="lub-keywords-217">
+          <label xml:lang="de" type="main">Kleidung</label>
+          <label xml:lang="de" type="sort">kleidung</label>
+        </item>
+        <item xml:id="lub-keywords-218">
+          <label xml:lang="de" type="main">Selbstmord</label>
+          <label xml:lang="de" type="sort">selbstmord</label>
+        </item>
+        <item xml:id="lub-keywords-222">
+          <label xml:lang="de" type="main">Lösegeld</label>
+          <label xml:lang="de" type="sort">loesegeld</label>
+        </item>
+        <item xml:id="lub-keywords-223">
+          <label xml:lang="de" type="main">Gefangenschaft</label>
+          <label xml:lang="de" type="sort">gefangenschaft</label>
+        </item>
+        <item xml:id="lub-keywords-228">
+          <label xml:lang="de" type="main">Kredit</label>
+          <label xml:lang="de" type="sort">kredit</label>
+        </item>
+        <item xml:id="lub-keywords-229">
+          <label xml:lang="de" type="main">Krieg</label>
+          <label xml:lang="de" type="sort">krieg</label>
+        </item>
+        <item xml:id="lub-keywords-232">
+          <label xml:lang="de" type="main">Bote</label>
+          <label xml:lang="de" type="sort">bote</label>
+        </item>
+        <item xml:id="lub-keywords-233">
+          <label xml:lang="de" type="main">Busse</label>
+          <label xml:lang="de" type="sort">busse</label>
+        </item>
+        <item xml:id="lub-keywords-234">
+          <label xml:lang="de" type="main">Gewalt</label>
+          <label xml:lang="de" type="sort">gewalt</label>
+        </item>
+        <item xml:id="lub-keywords-235">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Delikt</label>
+          <label xml:lang="de" type="sort">delikt</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-238">
+          <label xml:lang="de" type="main">Strafe</label>
+          <label xml:lang="de" type="sort">strafe</label>
+        </item>
+        <item xml:id="lub-keywords-242">
+          <label xml:lang="de" type="main">Taufe</label>
+          <label xml:lang="de" type="sort">taufe</label>
+        </item>
+        <item xml:id="lub-keywords-244">
+          <label xml:lang="de" type="main">Sakrament</label>
+          <label xml:lang="de" type="sort">sakrament</label>
+        </item>
+        <item xml:id="lub-keywords-245">
+          <label xml:lang="de" type="main">Geburt</label>
+          <label xml:lang="de" type="sort">geburt</label>
+        </item>
+        <item xml:id="lub-keywords-247">
+          <label xml:lang="de" type="main">Pfarrer</label>
+          <label xml:lang="de" type="sort">pfarrer</label>
+        </item>
+        <item xml:id="lub-keywords-248">
+          <label xml:lang="de" type="main">Pfarrhaus</label>
+          <label xml:lang="de" type="sort">pfarrhaus</label>
+        </item>
+        <item xml:id="lub-keywords-250">
+          <label xml:lang="de" type="main">Rente</label>
+          <label xml:lang="de" type="sort">rente</label>
+        </item>
+        <item xml:id="lub-keywords-252">
+          <label xml:lang="de" type="main">Fähre</label>
+          <label xml:lang="de" type="sort">faehre</label>
+        </item>
+        <item xml:id="lub-keywords-253">
+          <label xml:lang="de" type="main">Holz</label>
+          <label xml:lang="de" type="sort">holz</label>
+        </item>
+        <item xml:id="lub-keywords-254">
+          <label xml:lang="de" type="main">Transport</label>
+          <label xml:lang="de" type="sort">transport</label>
+        </item>
+        <item xml:id="lub-keywords-255">
+          <label xml:lang="de" type="main">Wegrecht</label>
+          <label xml:lang="de" type="sort">wegrecht</label>
+        </item>
+        <item xml:id="lub-keywords-256">
+          <label xml:lang="de" type="main">Tränke</label>
+          <label xml:lang="de" type="sort">traenke</label>
+        </item>
+        <item xml:id="lub-keywords-257">
+          <label xml:lang="de" type="main">Maiensäss</label>
+          <label xml:lang="de" type="sort">maiensaess</label>
+        </item>
+        <item xml:id="lub-keywords-258">
+          <label xml:lang="de" type="main">Wassernutzung</label>
+          <label xml:lang="de" type="sort">wassernutzung</label>
+        </item>
+        <item xml:id="lub-keywords-259">
+          <label xml:lang="de" type="main">Rechnung</label>
+          <label xml:lang="de" type="sort">rechnung</label>
+        </item>
+        <item xml:id="lub-keywords-260">
+          <label xml:lang="de" type="main">Armenwesen</label>
+          <label xml:lang="de" type="sort">armenwesen</label>
+        </item>
+        <item xml:id="lub-keywords-262">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Abgabe</label>
+          <label xml:lang="de" type="sort">abgabe</label>
+          <note type="description" xml:lang="de">
+            <p>Fasnachthenne - Steuer</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-263">
+          <label xml:lang="de" type="main">Trunkenheit</label>
+          <label xml:lang="de" type="sort">trunkenheit</label>
+        </item>
+        <item xml:id="lub-keywords-264">
+          <label xml:lang="de" type="main">Geselligkeit</label>
+          <label xml:lang="de" type="sort">geselligkeit</label>
+        </item>
+        <item xml:id="lub-keywords-265">
+          <label xml:lang="de" type="main">Sexualität</label>
+          <label xml:lang="de" type="sort">sexualitaet</label>
+        </item>
+        <item xml:id="lub-keywords-267">
+          <label xml:lang="de" type="main">Frau</label>
+          <label xml:lang="de" type="sort">frau</label>
+        </item>
+        <item xml:id="lub-keywords-268">
+          <label xml:lang="de" type="main">Pfand</label>
+          <label xml:lang="de" type="sort">pfand</label>
+        </item>
+        <item xml:id="lub-keywords-269">
+          <label xml:lang="de" type="main">Satzung</label>
+          <label xml:lang="de" type="sort">satzung</label>
+        </item>
+        <item xml:id="lub-keywords-270">
+          <label xml:lang="de" type="main">Ehe</label>
+          <label xml:lang="de" type="sort">ehe</label>
+        </item>
+        <item xml:id="lub-keywords-272">
+          <label xml:lang="de" type="main">Ehrenstrafe</label>
+          <label xml:lang="de" type="sort">ehrenstrafe</label>
+        </item>
+        <item xml:id="lub-keywords-273">
+          <label xml:lang="de" type="main">Kind</label>
+          <label xml:lang="de" type="sort">kind</label>
+        </item>
+        <item xml:id="lub-keywords-274">
+          <label xml:lang="de" type="main">Wilderei</label>
+          <label xml:lang="de" type="sort">wilderei</label>
+        </item>
+        <item xml:id="lub-keywords-275">
+          <label xml:lang="de" type="main">Ausweisung</label>
+          <label xml:lang="de" type="sort">ausweisung</label>
+        </item>
+        <item xml:id="lub-keywords-277">
+          <label xml:lang="de" type="main">Fluchen</label>
+          <label xml:lang="de" type="sort">fluchen</label>
+        </item>
+        <item xml:id="lub-keywords-278">
+          <label xml:lang="de" type="main">Pferd</label>
+          <label xml:lang="de" type="sort">pferd</label>
+        </item>
+        <item xml:id="lub-keywords-279">
+          <label xml:lang="de" type="main">Betrug</label>
+          <label xml:lang="de" type="sort">betrug</label>
+        </item>
+        <item xml:id="lub-keywords-281">
+          <label xml:lang="de" type="main">Aufenthaltsgebot</label>
+          <label xml:lang="de" type="sort">aufenthaltsgebot</label>
+        </item>
+        <item xml:id="lub-keywords-282">
+          <label xml:lang="de" type="main">Ehebruch</label>
+          <label xml:lang="de" type="sort">ehebruch</label>
+        </item>
+        <item xml:id="lub-keywords-283">
+          <label xml:lang="de" type="main">Testament</label>
+          <label xml:lang="de" type="sort">testament</label>
+        </item>
+        <item xml:id="lub-keywords-284">
+          <label xml:lang="de" type="main">Obstgarten</label>
+          <label xml:lang="de" type="sort">obstgarten</label>
+        </item>
+        <item xml:id="lub-keywords-285">
+          <label xml:lang="de" type="main">Dorfgemeinde</label>
+          <label xml:lang="de" type="sort">dorfgemeinde</label>
+        </item>
+        <item xml:id="lub-keywords-286">
+          <label xml:lang="de" type="main">Familie</label>
+          <label xml:lang="de" type="sort">familie</label>
+        </item>
+        <item xml:id="lub-keywords-288">
+          <label xml:lang="de" type="main">Wasser</label>
+          <label xml:lang="de" type="sort">wasser</label>
+        </item>
+        <item xml:id="lub-keywords-289">
+          <label xml:lang="de" type="main">Stiftung</label>
+          <label xml:lang="de" type="sort">stiftung</label>
+        </item>
+        <item xml:id="lub-keywords-292">
+          <label xml:lang="de" type="main">Wegzug</label>
+          <label xml:lang="de" type="sort">wegzug</label>
+        </item>
+        <item xml:id="lub-keywords-293">
+          <label xml:lang="de" type="main">Zuzug</label>
+          <label xml:lang="de" type="sort">zuzug</label>
+        </item>
+        <item xml:id="lub-keywords-294">
+          <label xml:lang="de" type="main">Erbrecht</label>
+          <label xml:lang="de" type="sort">erbrecht</label>
+        </item>
+        <item xml:id="lub-keywords-295">
+          <label xml:lang="de" type="main">Dienstbote</label>
+          <label xml:lang="de" type="sort">dienstbote</label>
+        </item>
+        <item xml:id="lub-keywords-296">
+          <label xml:lang="de" type="main">Amt</label>
+          <label xml:lang="de" type="sort">amt</label>
+        </item>
+        <item xml:id="lub-keywords-297">
+          <label xml:lang="de" type="main">Kaplan</label>
+          <label xml:lang="de" type="sort">kaplan</label>
+        </item>
+        <item xml:id="lub-keywords-298">
+          <label xml:lang="de" type="main">Katholizismus</label>
+          <label xml:lang="de" type="sort">katholizismus</label>
+        </item>
+        <item xml:id="lub-keywords-299">
+          <label xml:lang="de" type="main">Raub</label>
+          <label xml:lang="de" type="sort">raub</label>
+        </item>
+        <item xml:id="lub-keywords-300">
+          <label xml:lang="de" type="main">Beleidigung</label>
+          <label xml:lang="de" type="sort">beleidigung</label>
+        </item>
+        <item xml:id="lub-keywords-301">
+          <label xml:lang="de" type="main">Besoldung</label>
+          <label xml:lang="de" type="sort">besoldung</label>
+        </item>
+        <item xml:id="lub-keywords-302">
+          <label xml:lang="de" type="main">Heirat</label>
+          <label xml:lang="de" type="sort">heirat</label>
+          <note type="description" xml:lang="de">
+            <p>Eheschliessung</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-303">
+          <label xml:lang="de" type="main">Flucht</label>
+          <label xml:lang="de" type="sort">flucht</label>
+        </item>
+        <item xml:id="lub-keywords-304">
+          <label xml:lang="de" type="main">Hochgerichtsbarkeit</label>
+          <label xml:lang="de" type="sort">hochgerichtsbarkeit</label>
+        </item>
+        <item xml:id="lub-keywords-306">
+          <label xml:lang="de" type="main">Ware</label>
+          <label xml:lang="de" type="sort">ware</label>
+        </item>
+        <item xml:id="lub-keywords-307">
+          <label xml:lang="de" type="main">Markt</label>
+          <label xml:lang="de" type="sort">markt</label>
+        </item>
+        <item xml:id="lub-keywords-309">
+          <label xml:lang="de" type="main">Gut</label>
+          <label xml:lang="de" type="sort">gut</label>
+        </item>
+        <item xml:id="lub-keywords-312">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Ausweis</label>
+          <label xml:lang="de" type="sort">ausweis</label>
+          <note type="description" xml:lang="de">
+            <p>(Reise)Pass</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-313">
+          <label xml:lang="de" type="main">Brief</label>
+          <label xml:lang="de" type="sort">brief</label>
+        </item>
+        <item xml:id="lub-keywords-314">
+          <label xml:lang="de" type="main">Wiese</label>
+          <label xml:lang="de" type="sort">wiese</label>
+        </item>
+        <item xml:id="lub-keywords-315">
+          <label xml:lang="de" type="main">Freie</label>
+          <label xml:lang="de" type="sort">freie</label>
+        </item>
+        <item xml:id="lub-keywords-316">
+          <label xml:lang="de" type="main">Besitz</label>
+          <label xml:lang="de" type="sort">besitz</label>
+        </item>
+        <item xml:id="lub-keywords-317">
+          <label xml:lang="de" type="main">Hanf</label>
+          <label xml:lang="de" type="sort">hanf</label>
+        </item>
+        <item xml:id="lub-keywords-318">
+          <label xml:lang="de" type="main">Flachs</label>
+          <label xml:lang="de" type="sort">flachs</label>
+        </item>
+        <item xml:id="lub-keywords-319">
+          <label xml:lang="de" type="main">Handel</label>
+          <label xml:lang="de" type="sort">handel</label>
+        </item>
+        <item xml:id="lub-keywords-320">
+          <label xml:lang="de" type="main">Fischereirecht</label>
+          <label xml:lang="de" type="sort">fischereirecht</label>
+        </item>
+        <item xml:id="lub-keywords-321">
+          <label xml:lang="de" type="main">Militär</label>
+          <label xml:lang="de" type="sort">militaer</label>
+        </item>
+        <item xml:id="lub-keywords-322">
+          <label xml:lang="de" type="main">Niedergerichtsbarkeit</label>
+          <label xml:lang="de" type="sort">niedergerichtsbarkeit</label>
+        </item>
+        <item xml:id="lub-keywords-323">
+          <label xml:lang="de" type="main">Feuer</label>
+          <label xml:lang="de" type="sort">feuer</label>
+        </item>
+        <item xml:id="lub-keywords-324">
+          <label xml:lang="de" type="main">Fischerei</label>
+          <label xml:lang="de" type="sort">fischerei</label>
+        </item>
+        <item xml:id="lub-keywords-325">
+          <label xml:lang="de" type="main">Gefängnis</label>
+          <label xml:lang="de" type="sort">gefaengnis</label>
+        </item>
+        <item xml:id="lub-keywords-326">
+          <label xml:lang="de" type="main">Krone, Goldmünze</label>
+          <label xml:lang="de" type="sort">krone, goldmuenze</label>
+        </item>
+        <item xml:id="lub-keywords-327">
+          <label xml:lang="de" type="main">Verhör</label>
+          <label xml:lang="de" type="sort">verhoer</label>
+        </item>
+        <item xml:id="lub-keywords-328">
+          <label xml:lang="de" type="main">Kriegsvorbereitung</label>
+          <label xml:lang="de" type="sort">kriegsvorbereitung</label>
+        </item>
+        <item xml:id="lub-keywords-330">
+          <label xml:lang="de" type="main">Bier</label>
+          <label xml:lang="de" type="sort">bier</label>
+        </item>
+        <item xml:id="lub-keywords-331">
+          <label xml:lang="de" type="main">Getreide</label>
+          <label xml:lang="de" type="sort">getreide</label>
+        </item>
+        <item xml:id="lub-keywords-333">
+          <label xml:lang="de" type="main">Hof</label>
+          <label xml:lang="de" type="sort">hof</label>
+        </item>
+        <item xml:id="lub-keywords-337">
+          <label xml:lang="de" type="main">Bergbau</label>
+          <label xml:lang="de" type="sort">bergbau</label>
+        </item>
+        <item xml:id="lub-keywords-338">
+          <label xml:lang="de" type="main">Hexenwesen</label>
+          <label xml:lang="de" type="sort">hexenwesen</label>
+        </item>
+        <item xml:id="lub-keywords-339">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Heimgasse</label>
+          <label xml:lang="de" type="sort">heimgasse</label>
+          <note type="description" xml:lang="de">
+            <p>Weg, der von den Wohnstätten auf das Wies- und Weidland führt.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=heimweg&amp;firstterm=heimweg">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-340">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Leibgedinge</label>
+          <label xml:lang="de" type="sort">leibgedinge</label>
+          <note type="description" xml:lang="de">
+            <p>Witwengut, Wittum, Witwensitz</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-341">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Silbergeschirr</label>
+          <label xml:lang="de" type="sort">silbergeschirr</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-342">
+          <label xml:lang="de" type="main">Kauf</label>
+          <label xml:lang="de" type="sort">kauf</label>
+        </item>
+        <item xml:id="lub-keywords-343">
+          <label xml:lang="de" type="main">Ablass</label>
+          <label xml:lang="de" type="sort">ablass</label>
+        </item>
+        <item xml:id="lub-keywords-346">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hubmeister</label>
+          <label xml:lang="de" type="sort">hubmeister</label>
+          <note type="description" xml:lang="de">
+            <p>Finanzbeamter, Verwalter des Kammerguts</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-348">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Allmend</label>
+          <label xml:lang="de" type="sort">allmend</label>
+          <note type="description" xml:lang="de">
+            <p>ungeteilte Gemeindebesitz an Weideland</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-349">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Spend</label>
+          <label xml:lang="de" type="sort">spend</label>
+          <note type="description" xml:lang="de">
+            <p>Armenunterstützungseinrichtung, bei der Pfarrei und Gemeinde zusammenwirkten. Die Verwaltung der Spend oblag den "Spendmeistern" oder "Spendvögten".</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[HLFL](https://historisches-lexikon.li/Spend)</note>
+        </item>
+        <item xml:id="lub-keywords-350">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Schupflehen</label>
+          <label xml:lang="de" type="sort">schupflehen</label>
+          <note type="description" xml:lang="de">
+            <p>Befristetes, durch den Grundherrn kündbares Lehen.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-352">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Patsch</label>
+          <label xml:lang="de" type="sort">patsch</label>
+          <note type="description" xml:lang="de">
+            <p>Eine Art Messer.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Frühneuhochdeutsches Wörterbuch](https://fwb-online.de/lemma/patsch.s.0m?q=patsch&amp;page=1)</note>
+        </item>
+        <item xml:id="lub-keywords-353">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Ürte</label>
+          <label xml:lang="de" type="sort">uerte</label>
+          <note type="description" xml:lang="de">
+            <p>Trinkgesellschaft, Gastmahl, Essen und Trinken, Zeche, Rechnung</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Grimm, Wörterbuch](https://woerterbuchnetz.de/?sigle=DWB&amp;lemid=U14785)</note>
+        </item>
+        <item xml:id="lub-keywords-354">
+          <label xml:lang="de" type="main">Politik</label>
+          <label xml:lang="de" type="sort">politik</label>
+        </item>
+        <item xml:id="lub-keywords-355">
+          <label xml:lang="de" type="main">Salz</label>
+          <label xml:lang="de" type="sort">salz</label>
+        </item>
+        <item xml:id="lub-keywords-356">
+          <label xml:lang="de" type="main">Handlung</label>
+          <label xml:lang="de" type="sort">handlung</label>
+        </item>
+        <item xml:id="lub-keywords-357">
+          <label xml:lang="de" type="main">Wachs</label>
+          <label xml:lang="de" type="sort">wachs</label>
+        </item>
+        <item xml:id="lub-keywords-358">
+          <label xml:lang="de" type="main">Klerus</label>
+          <label xml:lang="de" type="sort">klerus</label>
+        </item>
+        <item xml:id="lub-keywords-359">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Landesgewähr</label>
+          <label xml:lang="de" type="sort">landesgewaehr</label>
+          <note type="description" xml:lang="de">
+            <p>Vom Rechtsverband garantiertes Besitzrecht an Gütern; Recht auf unangefochtenen Besitz von Gütern, insbesondere nach Ablauf der Verjährungs- bzw. Ersitzungsfrist.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=landgewaehr">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://fwb-online.de/lemma/landesgewer.s.1f">FWB</ref>
+              </bibl>
+              <bibl>Idiotikon</bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-360">
+          <label xml:lang="de" type="main">Zeuge</label>
+          <label xml:lang="de" type="sort">zeuge</label>
+        </item>
+        <item xml:id="lub-keywords-361">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">unfertig</label>
+          <label xml:lang="de" type="sort">unfertig</label>
+          <note type="description" xml:lang="de">
+            <p>Unrechtmässig</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">Idiotikon</note>
+        </item>
+        <item xml:id="lub-keywords-362">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Blume</label>
+          <label xml:lang="de" type="sort">blume</label>
+          <note type="description" xml:lang="de">
+            <p>Jährlicher Ertrag von Grundstücken, Einkünfte von einem Vermögen.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=blume">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://fwb-online.de/lemma/blume.s.1">FWB</ref>
+              </bibl>
+              <bibl>Idiotikon</bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-363">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Pirschbüchse</label>
+          <label xml:lang="de" type="sort">pirschbuechse</label>
+          <note type="description" xml:lang="de">
+            <p>Jagdgewehr</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[FWB](https://fwb-online.de/lemma/pirs_ch_b%C3%BCchse.s.1f)</note>
+        </item>
+        <item xml:id="lub-keywords-364">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Michaelstag</label>
+          <label xml:lang="de" type="sort">michaelstag</label>
+          <note type="description" xml:lang="de">
+            <p>29. September. Beliebter Termin für Miet-, Pacht- oder Zinszahlungen.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-365">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Martinstag</label>
+          <label xml:lang="de" type="sort">martinstag</label>
+          <note type="description" xml:lang="de">
+            <p>11. November. Beliebter Termin für Abgaben, besonders für Lehen-, Pacht- und Schuldzinsen.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-366">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Mannsspanne</label>
+          <label xml:lang="de" type="sort">mannsspanne</label>
+          <note type="description" xml:lang="de">
+            <p>Längenmass (Spannweite einer Männerhand).</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[DRW](https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Mannsspanne).</note>
+        </item>
+        <item xml:id="lub-keywords-367">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Fach</label>
+          <label xml:lang="de" type="sort">fach</label>
+          <note type="description" xml:lang="de">
+            <p>Fischfangvorrichtung aus Reisig auf flachem Grund in einem See oder Fluss, Fischwehr mit Reusen (=Sacknetzen)</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem014706.02)</note>
+        </item>
+        <item xml:id="lub-keywords-368">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Wartolf</label>
+          <label xml:lang="de" type="sort">wartolf</label>
+          <note type="description" xml:lang="de">
+            <p>Fischereigerät, meist aus Garn gestricktes, über mehrere Reifen gespanntes Netz mit trichterförmigem Eingang, Reuse (=Sacknetz).</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem014709.02)</note>
+        </item>
+        <item xml:id="lub-keywords-369">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Rüsche</label>
+          <label xml:lang="de" type="sort">ruesche</label>
+          <note type="description" xml:lang="de">
+            <p>Fischreuse, trichterförmiges Fischernetz.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem010121)</note>
+        </item>
+        <item xml:id="lub-keywords-371">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Federschnur</label>
+          <label xml:lang="de" type="sort">federschnur</label>
+          <note type="description" xml:lang="de">
+            <p>Angelschnur, Fischereigerät</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001549.02)</note>
+        </item>
+        <item xml:id="lub-keywords-372">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Har</label>
+          <label xml:lang="de" type="sort">har</label>
+          <note type="description" xml:lang="de">
+            <p>Hier: Schnur mit Köder (Hegenen bei der Angel)</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem015412)</note>
+        </item>
+        <item xml:id="lub-keywords-373">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Schöpfbere</label>
+          <label xml:lang="de" type="sort">schoepfbere</label>
+          <note type="description" xml:lang="de">
+            <p>Kleineres, trichter-, sack- oder haubenförmiges Netz, an einem Reifen oder (so in Basel, Bern) an gekreuzten Bögen befestigt, die ihrerseits an einem Stiel oder an einer Stange festgemacht sind.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001649">SSRQ</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-374">
+          <label xml:lang="de" type="main">Most</label>
+          <label xml:lang="de" type="sort">most</label>
+        </item>
+        <item xml:id="lub-keywords-375">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Etschkreuzer</label>
+          <label xml:lang="de" type="sort">etschkreuzer</label>
+          <note type="description" xml:lang="de">
+            <p>Tiroler Groschenmünze mit aufgeprägtem Doppelkreuz, benannt nach dem Fluss Etsch.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[DRW](https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Etschkreuzer)</note>
+        </item>
+        <item xml:id="lub-keywords-376">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Marende</label>
+          <label xml:lang="de" type="sort">marende</label>
+          <note type="description" xml:lang="de">
+            <p>Zwischenmahlzeit; einfaches, bescheidenes Essen</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://de.wikipedia.org/wiki/Zwischenmahlzeit#:~:text=Bei%20der%20Marende%20handelt%20es,f%C3%BCr%20die%20nachmitt%C3%A4gliche%20Zwischenmahlzeit%20ab">Wikipedia</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/40353/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-377">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Kirchweg</label>
+          <label xml:lang="de" type="sort">kirchweg</label>
+          <note type="description" xml:lang="de">
+            <p>Weg, der von den Wohnstätten zur Kirche führt.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-378">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Kreidenschuss</label>
+          <label xml:lang="de" type="sort">kreidenschuss</label>
+          <note type="description" xml:lang="de">
+            <p>Signalschuss</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">-[Grimm](https://woerterbuchnetz.de/?sigle=DWB&amp;lemid=K13160)</note>
+        </item>
+        <item xml:id="lub-keywords-379">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Esse</label>
+          <label xml:lang="de" type="sort">esse</label>
+          <note type="description" xml:lang="de">
+            <p>Substantivierung von lat. "esse" (sein): (heile) Existenz, (unversehrter) Zustand, das Bestehen, Sein.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Grimm, Wörterbuch (Neubearbeitung)](https://woerterbuchnetz.de/?sigle=DWB2&amp;lemid=E13513)</note>
+        </item>
+        <item xml:id="lub-keywords-380">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Garnrichte</label>
+          <label xml:lang="de" type="sort">garnrichte</label>
+          <note type="description" xml:lang="de">
+            <p>Ort, wo Netzfallen (für Tiere) aufgestellt sind.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id6.htm#!page/60463">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-381">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Zaunstelle</label>
+          <label xml:lang="de" type="sort">zaunstelle</label>
+          <note type="description" xml:lang="de">
+            <p>Linie, auf der ein Zaun steht oder einer stehen soll.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Idiotikon](https://digital.idiotikon.ch/idtkn/id11.htm#!page/110067/mode/1up)</note>
+        </item>
+        <item xml:id="lub-keywords-382">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Käner</label>
+          <label xml:lang="de" type="sort">kaener</label>
+          <note type="description" xml:lang="de">
+            <p>Wasserleitungsrinne; rinnenförmige Bodensenkung (im Gebirge)</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+        </item>
+        <item xml:id="lub-keywords-383">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Staffelgenosse</label>
+          <label xml:lang="de" type="sort">staffelgenosse</label>
+          <note type="description" xml:lang="de">
+            <p>Teilhaber an einer Alp.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001093">SSRQ</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-384">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Kuhweide</label>
+          <label xml:lang="de" type="sort">kuhweide</label>
+          <note type="description" xml:lang="de">
+            <p>Berechtigung, eine Kuh auf einer Alp zu sömmern.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=kuhweide">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-385">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Kuhwinterung</label>
+          <label xml:lang="de" type="sort">kuhwinterung</label>
+          <note type="description" xml:lang="de">
+            <p>Futtermenge, die für die Fütterung einer Kuh während des Winters ausreicht; Weideland von einer Grösse, dass der Ertrag zur Fütterung einer Kuh während des Winters ausreicht.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/160767/mode/1up">Idiotikon</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Kuhwinterung">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-386">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Krieche</label>
+          <label xml:lang="de" type="sort">krieche</label>
+          <note type="description" xml:lang="de">
+            <p>Unterart der Pflaume.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://de.wikipedia.org/wiki/Kriechen-Pflaume">Wikipedia</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-387">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Treijen</label>
+          <label xml:lang="de" type="sort">treijen</label>
+          <note type="description" xml:lang="de">
+            <p>Fussweg (im Gebirge), Viehweg.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id14.htm#!page/140713">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-388">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Säumer</label>
+          <label xml:lang="de" type="sort">saeumer</label>
+          <note type="description" xml:lang="de">
+            <p>Säumer (seltener Saumer, österreichisch auch Samer) waren Personen, die Lasten auf dem Rücken von Saumtieren über das Gebirge transportierten. Jahrhundertelang beförderten sie vor allem Salz und Wein auf Saumpfaden und über die Pässe der Alpen. Als Säumer musste man ein Pferd, einen Maulesel, ein Maultier oder einen Ochsen besitzen.Die Bezeichnung Säumer (oder Saumer usw.) bezieht sich meist auf diesen historischen Beruf, aber auch die Saumtiere wurden so bezeichnet. Das nicht mehr gebräuchliche Wort Saum bedeutet so viel wie „Last“.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://de.wikipedia.org/wiki/S%C3%A4umer">Wikipedia</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-389">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hauptvieh</label>
+          <label xml:lang="de" type="sort">hauptvieh</label>
+          <note type="description" xml:lang="de">
+            <p>Ausgewachsenes Stück (Rind)vieh.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id2.htm#!page/21495">Idiotikon</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?term=hauptvieh">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-390">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Schwein</label>
+          <label xml:lang="de" type="sort">schwein</label>
+          <objectType xml:lang="en">Event</objectType>
+        </item>
+        <item xml:id="lub-keywords-391">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Saltner</label>
+          <label xml:lang="de" type="sort">saltner</label>
+          <note type="description" xml:lang="de">
+            <p>Feld-, Wald- und Weinbergaufseher; Alpmeister</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Saltner">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/70871">Idiotikon</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=S00282">Lexer</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-392">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Anlage</label>
+          <label xml:lang="de" type="sort">anlage</label>
+          <note type="description" xml:lang="de">
+            <p>Steuer, Abgabe</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?term=anlage">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-393">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hirse</label>
+          <label xml:lang="de" type="sort">hirse</label>
+          <note type="description" xml:lang="de">
+            <p>Getreide</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm, Bd. 10, Sp. 1571.</note>
+        </item>
+        <item xml:id="lub-keywords-394">
+          <label xml:lang="de" type="main">Wallfahrt</label>
+          <label xml:lang="de" type="sort">wallfahrt</label>
+        </item>
+        <item xml:id="lub-keywords-395">
+          <label xml:lang="de" type="main">Kirchenbau</label>
+          <label xml:lang="de" type="sort">kirchenbau</label>
+        </item>
+        <item xml:id="lub-keywords-396">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Elisiv-Artikel</label>
+          <label xml:lang="de" type="sort">elisiv-artikel</label>
+          <note type="description" xml:lang="de">
+            <p>Beweismittel des Klägers gegen die Einreden des Beklagten.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://archive.org/details/bub_gb_FiNJAAAAcAAJ/page/n279/mode/2up">Oertel, Fremdwörterbuch, Bd. 1, S. 275</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://archive.org/details/bub_gb_eEtEAAAAcAAJ/page/50/mode/2up">Kuppermann, Juristisches Wörterbuch, S. 50</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+      </list>
+      <p/>
+    </body>
+  </text>
+</TEI>

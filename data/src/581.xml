@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-581">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid wegen ausstehender Zinszahlungen von Schuldnern in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-581">LI-LA, Schä U 55</ref> / Originaldatierung: 19. Juni 1536 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Vor dem Gericht, das unter dem Vorsitz von Adam Frick, Ammann der Herrschaft Vaduz, in Lukas Sattlers Haus in Vaduz tagt, klagt Wolf Pfefferli, Bevollmächtigter von Hans Quaderer, Kaplan am St.-Luzius-Altar in Schaan, dass Georg Konrad von Schaan und seine Frau Barbara Straub einen Zins nicht bezahlen, den sie laut einer Urkunde ab ihrem Acker im Gapetsch, ihrem Baumgarten in der Neyger Pünt und ihrem Weingarten in Schaan schulden. Das Gericht stellt dem Gläubiger darauf einen Zinsfallbrief aus, der es ihm erlaubt, auf die fraglichen Güter zuzugreifen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-268">Pfand</term>
+          <term ref="lub-keywords-143">Acker</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-284">Obstgarten</term>
+          <term ref="lub-keywords-106">Schmalz</term>
+          <term ref="lub-keywords-357">Wachs</term>
+          <term ref="lub-keywords-153">Weibel</term>
+          <term ref="lub-keywords-339">Heimgasse</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-347">Frick, Adam (1)</persName>
+          <date when="1536-06-19">19. Jun 1536</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-481" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-347">Adam Frickh</persName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vadut</placeName><supplied>z</supplied>, bekhenn offennlich und thue khundt allermenigklich mit dissem 
+<lb n="2"/>brieff, das ich von gnaden und empfelchnus des wolgepornen hern, hern <persName ref="lub-actors-8">Rudolffs graven zu Sultz</persName>, landtgraven im 
+<lb n="3"/><placeName ref="lub-places-18">Kleckhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, hern zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> etc., meins 
+<lb n="4"/>genedigen hern, auff heutigen tag datho ditz brieffs zu <placeName ref="lub-places-1">Vadutz</placeName> in <persName ref="lub-actors-526">Lucas Satlers</persName> haus offennlich zu gericht gesessen 
+<lb n="5"/>bin, da kham fur mich und offenn verpannen gericht der erber <persName ref="lub-actors-432">Wolff Pfefferlin</persName> von <placeName ref="lub-places-1">Vadutz</placeName> als volmechtiger gwalt
+<lb break="no" n="6"/>haber her <persName ref="lub-actors-527">Hansen Quaders</persName>, capplon <persName ref="lub-actors-985">sandt Lucis</persName> althar zu <placeName ref="lub-places-53">Schan</placeName>, legt fur mich in gericht ain bermentin, be
+<lb break="no" n="7"/>sigelten, gerechten, gantz unverserten zeinsbrieff, weissende von <persName ref="lub-actors-433">Geörg Conrat</persName> von <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-528">Barbara Straubin</persName>,
+<lb n="8"/>seinem elichen weibe, umb zechen schilling phening järlichs zeins von, ausser und ab irem aigen malackher in <placeName ref="lub-places-219">Gap
+<lb break="no" n="9"/>petsch</placeName> gelegen, stosst ainhalb an <persName ref="lub-actors-297">Jerg Thenis</persName>, zu der ander an <persName ref="lub-actors-986">Hans Conradts</persName>, oben an <persName ref="lub-actors-987">Conrat Conradts</persName> guter, abwert and
+<lb n="10"/><term ref="lub-keywords-339">haingassen</term>, item mer ab irem aigen pomgartlin zu <placeName ref="lub-places-53">Schan</placeName> in der <placeName ref="lub-places-226">Neyger Pundt</placeName> gelegen, stoss an dreyen seiten 
+<lb n="11"/>an <persName ref="lub-actors-988">Hans Neygers</persName>, oben an <persName ref="lub-actors-871">Cristan Thenis</persName> guter, darab gat <persName ref="lub-actors-1007">sandt Laurentzen</persName> ain mas schmaltz und <persName ref="lub-actors-1004">sandt Florin</persName> 
+<lb n="12"/>auch ain mas schmaltz, und darzu ab irem aigen stuckli weingart, auch zu <placeName ref="lub-places-53">Schan</placeName> gelegen, stosst zu dreyen seiten an 
+<lb n="13"/><persName ref="lub-actors-989">Hänsli Blenckhis</persName> kind, unden an <persName ref="lub-actors-990">Hänsli Chamerers</persName> gueter, darab gat ain drittayl ains vierdings wachs <persName ref="lub-actors-1007">sandt Laurenz<supplied>e</supplied>n</persName> 
+<lb n="14"/>zu <placeName ref="lub-places-53">Schan</placeName>, ab grundt, grat etc., wie dann bemelter zeinsbrieff mit mer worten inhelt. Und als der offennlich in gericht 
+<lb n="15"/>verlessen ward, redt darauff bemelter <persName ref="lub-actors-432">Wolff Pfefferlin</persName> durch seinen zu recht erlaupten fursprechen, wie gedachtem 
+<lb n="16"/>capplanen und althar nach ausweisung des verlessen zeinsbrieffs nit gezeinst worden, darumb er in willen, die 
+<lb n="17"/>bemelten underphand nach ditz gerichts recht zu des gemelten capplans und althars handen und gewalte ziechen und 
+<lb n="18"/>nemen, bat, im hiruber hie vom gericht ain zeinsfalbrieff zugeben, satzt das also zu recht, wie er im thun sölt, do
+<lb break="no" n="19"/>mit er recht und nit unrecht thät, dieweyl er doch nach laut der urtel, im am ersten zeitgericht ergangen, nit
+<lb n="20"/>vergniegt wer worden. Darumb fragt ich, aman, die urtelsprecher des rechten umb. Die haben zu recht erkhendt, 
+<lb n="21"/>das der geschworen waybel vor gericht selle gehört werden, ob er der sachen halb heut alher zum rechten dem wider
+<lb break="no" n="22"/>tayl, so die bemelten underphand inhendig, verkindt und furpotten hab. Darnach selt aber geschechen, was recht ist.
+<lb n="23"/>Und als der waybel vor mir und dem gericht bey seinem ayd und ampt offennlich sagt, er hab der sachen halb 
+<lb n="24"/>auff heut zum rechten denen, so die underphand inhand, verkhindt und furgepotten, haben die urtelsprecher aber zu 
+<lb n="25"/>recht erkhendt, das der vorgenant <persName ref="lub-actors-432">Wolff Pfefferlin</persName> warten sell, dieweyl auff heut dissen tag das gericht sitzt, 
+<lb n="26"/>khomen in der zeit die, so die underphandt inhand, oder jemant von iren wegen mit voller gewaltsami und geben zu 
+<lb n="27"/>recht andtwurt und fuerend inred, sellen gehört werden und darnach geschechen, was recht ist. Khomen sy aber nit 
+<lb n="28"/>noch jemant von iren wegen mit voller gewaltsami, die im rechten ichzit darwider reden, das dann der vorge
+<lb break="no" n="29"/>nant <persName ref="lub-actors-432">Wolff Pfefferlin</persName> als gwalthaber die bemelten underphand nach sag des verlessen zeinsbrieffs und des gerichts
+<lb n="30"/>recht wol zeinsfellig zu der genanten seiner gwaltheber handen und gewalte ziechen und nemen und furohin in haben, 
+<lb n="31"/>nutzen, niessen, brauchen, besetzen und entsetzen, verkauffen und in alweg und domit handlen, thun und lassen sellen 
+<lb n="32"/>und mögen, als mit anderm irem aigen gut und selle sy auch das gericht darzu und darbey handthaben, schitzen und 
+<lb n="33"/>schirmen nach landsrecht der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, doch denen, so elter zeins und jarzeit darauff habend, denselben 
+<lb n="34"/>unschedlich. Do diss geschach und niemandt also erscheinen, ist des rechten dem vorgenanten <persName ref="lub-actors-432">Wolff Pfefferlin</persName> 
+<lb n="35"/>als volmehtigen gwalthaber des beruerten capplans und althars ain zeinsfalbrieff mit urtel erkhendt zugeben 
+<lb n="36"/>und des zu warem urkhundt mit mein, amans, anhangenden ynsigel besigelt, doch mir und dem gericht onschaden. 
+<lb n="37"/>Beschechen auff <origDate>montag vor Johannis Baptiste nach Cristi, unsers hern, gepurtt feinffzechenhundert und im 
+<lb n="38"/>sechsunddreissigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-714">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kompassbrief betreffend einen Holzstreit</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 60](https://lub.anton.ch/objects/714) / Originaldatierung: 8. März 1604 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hieronimus Klöckler, Landrichter in Ober- und Niederschwaben gibt in einem Kompassbrief bekannt, dass Jakob Schultes aus Feldkirch gegen Rafael Paul aus Eschen und Andreas Mündle klagt, weil diese Holz, dass er gekauft hatte, beschlagnahmt haben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-253">Holz</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-947">Klöckler, Hieronymus</persName>
+          <date when="1604-03-08">8. Mär 1604</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-533" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-947">Hieronimus Klöckhler</persName>, des allerdurchleüchtigisten, grossmächtigisten fürssten unnd herren, herrn <persName ref="lub-actors-27">Ruedolphi</persName> des anndern, erwelten römischen kayßers, zue
+                    <lb n="2"/>allen zeytten mehrer deß <orgName ref="lub-actors-516">Reychs</orgName>, inn <placeName ref="lub-places-145">Germanien</placeName>, zue <placeName ref="lub-places-146">Hungern</placeName> unnd <placeName ref="lub-places-162">Böhem</placeName> etc. khönigß, unnd deß hochwürdigisten unnd durchleuchtigisten fürssten unnd herrn <persName ref="lub-actors-184">Maximiliani</persName>, beeder erzherzogen zue Össterreych
+                    <lb n="3"/>unnd fürssten zue <placeName ref="lub-places-78">Schwaben</placeName> etc., meiner allergneedigisten unnd gnedigisten herrn rath unnd frey lanndtrichtern inn <placeName ref="lub-places-396">Obern</placeName> unnd <placeName ref="lub-places-397">Nidern Schwaben</placeName>, auf <placeName ref="lub-places-395">Lewkiercher Haydt</placeName> unnd inn der <orgName ref="lub-actors-945">Gepeurß</orgName>, vonn gewalt unnd genaden
+                    <lb n="4"/>irer kayserlichen mayestät unnd fürstlichen durchlaucht etc. Thue kundt allen unnd jeden obrigkheitten unnd gerichten, denen dißer gegenwürttige compaßbrief fürgebracht unnd erzaigt würdet, daß zu verschine zeyt vor mir unnd offem verpannen
+                    <lb n="5"/>lanndtgericht, alß das damals in der statt <placeName ref="lub-places-398">Wanngen</placeName> an offner freyer keyßerlicher reychsstrass, besessen unnd gehaltten worden, erscheinen ist <persName ref="lub-actors-963">Jacob Schulttes,</persName> bürger unnd apotheckher zue <placeName ref="lub-places-10">Veldtkirch</placeName>, unnd hatt gegen unnd wider <persName ref="lub-actors-948">Raphael
+                    <lb n="6"/>Pauln</persName> zue <placeName ref="lub-places-35">Eschen</placeName> unnd <persName ref="lub-actors-949">Endreaß Mündtle</persName> zue <placeName ref="lub-places-30">Mauren</placeName>, gerichtlich clagende fürgebracht, sy, gemelte beclagte, haben ime, cleger, wider gott alle recht unnd billichayt, ein holtz, zue <placeName ref="lub-places-35">Eschen</placeName> gelegen, verarrestiert, wellichs
+                    <lb n="7"/>holtz ime, <persName ref="lub-actors-963">Schultteß</persName>, dann zue <placeName ref="lub-places-35">Eschen</placeName> vor drey jahren mit urthel unnd recht zuerkhenndt unnd haimbgesprochen. Ime auch vom selbigen richter, so die urthel gegeben, dasselbig holtz durch den geschwornen
+                    <lb n="8"/>waibel unnd anndere ehrliche gerichtßleuth zuegestelt unnd eingeantwurth worden, also, das er darmit alß mit seinem aigenthumb schaffen, hanndlen unnd umbgeen möge. Unnd derowegen gebetten,
+                    <lb n="9"/>sy, beclagte, von sollichenem holz mit urthel abzueweisen unnd das sy ime, clegern, den cossten abzuelegen schuldig sein sollen, iner zuegleich ufzuelegen. Unnd alß den beclagten solliche clag lanndtgerichtß gebrauch
+                    <lb n="10"/>nach, schrifftlich verkhündt worden, haben sy hernach anstatt irer verantwurthung aine abschrifft des urthel, so zue <placeName ref="lub-places-31">Rauffenberg</placeName> deßwegen erganngen, unnd darinne zue sechen seye, wie die sach ditz orths beschaffen,
+                    <lb n="11"/>gerichtlich eingelegt unnd darbey gebetten, weyl die sach daselbsten vorhin rechthengig gewest, sy widerumb dahin zue remittieren unnd zueweyßen. Nachgendts cleger abermalß uf sollichs fürgebracht, die
+                    <lb n="12"/>sach were also unnd annderst nit beschaffen, wie dann volgt. Nach deme er, <persName ref="lub-actors-963">Schulttes</persName>, lange zeyt unnd jar gegen <persName ref="lub-actors-964">Lutzen Brendlins</persName> frawen zue <placeName ref="lub-places-35">Eschen</placeName> inn rechten gestanden wegen einer suma geltß,
+                    <lb n="13"/>so ime ihr haußwürth seelig, <persName ref="lub-actors-964">Lutz Brendlin</persName>, in ir, der frawen, beysein aufrecht unnd redlich, vor achtzechen jahren ungefahrlich, bey rechnung schuldig worden, unnd so weit procediert, das vor drey jahren
+                    <lb n="14"/>er, <persName ref="lub-actors-963">Schulttes</persName>, der urthel (wie dan vorberüerte von den beclagten eingelegte abschrifft mit dißem inhalt klärlich außweißet, dieweyl noch inn höltzlin von ir, der frawen, haußwürth <persName ref="lub-actors-964">Lutzen Brendlin</persName>
+                    <lb n="15"/>verhannden, so solle inen sollich holtz in zweythail thaillen unnd ime, <persName ref="lub-actors-963">Schultteß</persName>en, darvon das halbe holtzlin zuestellen unnd aigenthumblich einantwurthen) wol content unnd zuefriden geweßen, unange
+                    <lb break="no" n="16"/>sechen, das sein ansprach vile mahl mehr angeloffen, dan sollichs höltzlin werth seye. Derweyl in solcher zeyt mehr göttlicher zinß aufgeloffen, alß wie gemelt dasselbig werth ist. Darüber er, <persName ref="lub-actors-963">Schulttes</persName>, hernach
+                    <lb n="17"/>zum amman ganngen unnd gebetten, das erganngner urthel würckhliche volg unnd statt gescheche, darauf ime gedachter amman ein tag ernenndt mit dem befelch, das er beeden jetz beclagten partheyen, umb dero willen
+                    <lb n="18"/>das sy sich nachgehendts der unwissenhait halber nit zue beschweren aldt zue beclagen hetten, darzue erfordern unnd vertagen solle, welchs dan auch durch den waibel beschechen. Also auf berüerten angesetzten
+                    <lb n="19"/>tag habe er, <persName ref="lub-actors-963">Schulttes</persName>, seine zwen söhn (weil er leibsschwachhait halber selbs persöhnlich nit erscheinen khönden) dahin gesandt unnd in irem ankhomenen, seye der herr amman mit ihnen unnd den jetz beclagten
+                    <lb n="20"/>beeden unnd anndern ehrlichen leuthen mehr, sampt dem waibel zum streittigen holtz hinauß geganngen, desselben marckhen aigendtlich besichtigt unnd sollich holtz ordenlich gethailt, darüber newe marckhen,
+                    <lb n="21"/>wie dann gebreuchig gesatzt. Unnd also seye in beeder beclagten beysein unnd gegenwürttigkheit das halbe holtz seinen beeden söhnnen für sein, alß deß vatters aigenthumblich gueth zuegestelt,
+                    <lb n="22"/>welchs seine söhne auch ohne widersprechen in seinem nammen angenommen. Unnd nach sollichem hab er, <persName ref="lub-actors-963">Schulttes</persName>, uf herrn ammans beschechen pitten, inen, den beclagten, (wiewohl ers nicht schuldig geweßen)
+                    <lb n="23"/><gap/>eytter zwelf wochen dergestalt zihl unnd tag gebe <gap/> wofer sy es in sollicher zeyt begern zue lößen, welle ers widerumb gern lößen lassen, doch auch mit erstattung deß expens, so ihme an hauptgueth,
+                    <lb n="24"/><gap/> cossten unnd allerlay schäden, innerhalb sechzechen jahren ongefahr, allendthalben wegen dißes hötzlins aufgan<gap/>, oder aber ihnen sonnsten in billichem kauf zuekhauffen geben, unnd in ire händt
+                    <lb n="25"/><gap/>ren lassen. Alß sy aber die beclagten nach vollendter zeyt unnd noch lang darüber nie nicht gekhommen, hab er, <persName ref="lub-actors-963">Schulttes</persName>, innen wider zuegesprochen, hierüber sy ime nur spottige reden angehenckht,
+                    <lb n="26"/>namblich sy wolttens nicht geschenckht nemmen. Auf solches seye er, <persName ref="lub-actors-963">Schulttes</persName>, billicher weyße verursacht worden, weil ime sollich holz sogar ungelegen unnd sy, die beclagten, die widerloßung oder den
+                    <lb n="27"/>kauf nit begert, dasselbig in ander weeg keufflichen hinzuegeben, wie dann auch albereith geschechen, unnd auch annderst nit, denn mit dißer beschwärnuß, das er dene keuffer achzig guldin inn
+                    <lb n="28"/>müntz umb gebürlichen zinß darzue habe leyhen müessen mit beschließlichem vermelden, das es also jetzunder schon drey jar anlauffe unnd sich erstreckhe, das ihme, <persName ref="lub-actors-963">Schultteß</persName>en, obgehörtter massen
+                    <lb n="29"/>sollich halb holtz ehe unnd zuvor sy, die beede beclagten, es angefochten oder verarrestieren lassen mit urthel unnd recht, unnd aller billichen thaillung für aigen zuerkhendt unnd eingeantworth worden
+                    <lb n="30"/>were. Auf söllichs deß clegerß verner fürbringen, haben beclagte in antworth fürgebracht, sy haben wol vernommen, das cleger in seinen schrifften fürtragen, es seye ime das offtgemelte
+                    <lb n="31"/>streittige höltzlin mit urthel unnd recht zuerkhenndt unnd sy, beclagte, ime das seinig wider recht unnd billichait, seinem vernemmen nach verbotten haben soltten, zue dem sagen sy nain
+                    <lb n="32"/>unnd sey gentzlich nit wahr, sonnder vilmehr wahr unnd unlaugbar, das er inen das ihrig verkhaufft hette unnd nit das seinig, dann ire vorelttern sollich höltzlin über die zwelf jar ungefahr
+                    <lb n="33"/>genutzt unnd gebraucht ohne menigclichs verhinderung, unnd auch unclagbar unnd wie recht ist, bezalt hetten. Gleichwohl aber wissen sy beneben nichts umb das, daß er, cleger, mit dem weib
+                    <lb n="34"/>gerechtet unnd der richter ime solches höltzlin zuegestelt, auch die execution der urthel, wie er fürgibt, verricht habe auß ursachen, das inen niemahlen zum rechten verkhündt worden, das er
+                    <lb n="35"/>dann auch fürgeben, man habe das streittige höltzlin in zwen thail gethaillet, unnd das halb thail ime mit urthel unnd recht zuerkhendt. Auch habe ers hernach drey jar ingehabt, deren dingen
+                    <lb n="36"/>neben dem, das ihnen niemahln darzue verkhündet worden, seye kheins wahr. Unnd weyl deme in warhayt also, so verhoffen sy genzlich, es sey in allen rechten breüchig, das den inhaber
+                    <lb n="37"/>der pfanden unnd güether, solle zum rechten verkhündt werden, welches aber bey inen nit beschechen, sonder inen unbewusst unnd hinderruggs ihrer, solche urthel außgesprochen unnd erganngen. Darumben sy
+                    <lb n="38"/>sich hoch zu überlegen haben, sonnderlich dieweyl die urthel weytter nit vermag, dan nach lautt der außthaillung, soll er seine schuldt bey dißem höltzlin behaltten mit vernerm vermelden, wover
+                    <lb n="39"/>man ime, cleger, das inventarium nach lauth der außthaillung, oder glaubwürdige zeugnuß, darvon einzuübenigen auferladen thette, wurde sich in denselbigen aigendtlich unnd gründtlich be
+                    <lb break="no" n="40"/>finden, wem das höltzlin zuegehöre, oder wer darauf gewißen seye. Dan deß <persName ref="lub-actors-964">Lutz Brendlins</persName> unnd seiner hawßfrawen haab unnd güether, allesampt unnd sonnders, nichtß außgenommen, seyen in
+                    <lb n="41"/>die außthaillung vor fünfzechen jahren khommen. Darzue habe man vil an ihnen verliehren müessen, unnd solte jetz under Jacob <persName ref="lub-actors-963">Schulttes</persName> zwaintzig guldin für siben guldin bekhomen,
+                    <lb n="42"/>wurde es sich doch gar nit rüemen, sonndern ein ungleichs ding sein unnd haissen etc. Unnd alß nun obgehörter massen beede beclagte sein, deß clegerß, eingebrachten clag unnd vorbringen nit
+                    <lb n="43"/>gestendig noch bekhanndtlich geweßen, unnd hinwiderumb (sowol alß cleger sein clag) ir vorgeschribne verantwurttung, unnd namblich des zue beweißen begert, das clagender <persName ref="lub-actors-963">Schulttes</persName> inen
+                    <lb n="44"/>das irig lautt obiger antwurth unbillich verkhaufft, <gap/> dann das von dem aman <persName ref="lub-actors-170">Jacob Grawen</persName>, sowol auch deß <persName ref="lub-actors-964">Lutz Brendlins</persName> haußfrawen vogt, <persName ref="lub-actors-965">Hannß Töhnie</persName>, inen lang vor der zeit (ehe
+                    <lb n="45"/>der <persName ref="lub-actors-963">Schulttes</persName> mit ihr, der frawen, für gericht khommen) das streittige holz kauffsweiß eingehendiget worden seye. Darumben sy dann auch die selbige frawen ohne clag außgericht unnd bezalt
+                    <lb n="46"/>haben etc. Ist derowegen ihnen beeden beclagten dißer compaßbrief in gegenwürttiger form uf ebenmeßig begern mit urthel erkhendt unnd gebürlich außgeferttiget worden. Unnd
+                    <lb n="47"/>dieweyl sich dann von rechts wegen gesprochner urthel zue befürderung der warhayt unnd gerechtigkhayt volnziechung unnd jedem gerichtßzwangen dem anndern darinnen hilf unnd fürder
+                    <lb break="no" n="48"/>ung zuethun gebürt. So gebeut ich euch allen unnd jeden obrigkheitten unnd gerichten, welliche obgehörtter massen mit dißem compaßbrieve ersuecht unnd ernandt werden, vonn
+                    <lb n="49"/>höchst genanndter meiner allergnedigisten unnd gnedigisten herrn, der römisch kayserlichen mayestät unnd fürstlichen durchlaucht etc. gewalte auß richterlichen ampt, das ir vil gemelten beclagten, oder irem anwaldt, die gezeugen,
+                    <lb n="50"/>so sy euch darbey ernennen werden. Deßgleichen die streittigen partheyen und sonderlich den cleger, die gezeugen zue sechen unnd hören, aufnemmen, geloben unnd schweren, auch interogatoria
+                    <lb n="51"/>unnd fragstückh, (ob sy wöllen) einzugeben unnd sich sonnsten irer notturfft rechtens zue gebrauchen, auf ainen bestimpten, fürderlichen unnd unverzognen tage unnd gelegen wahlstatt, für euch
+                    <lb n="52"/>citieren unnd haißen sy, die gezeugen, inhalt ergangner urthel auf oben gerierte eingebrachte clag unnd beweiß materi, auch die fragstückh, so euch überantwurth unnd ir inen fürhaltten werden
+                    <lb n="53"/>in iren khundtschafften, wie sich nach ordnung rechtens gebürt verhöret, daß alles aigendtlich beschreiben lasset unnd mir sampt den fragstückhen, auch dißem compaßbrief unnd allem
+                    <lb n="54"/>process, so euch fürgebracht werden möcht, verschlossen zue schickhen, daß, weil ich mich zue euch der billichait rechtens unnd gesprochner urthel nach zue geschechen, versechen, unnd ob sich ainer
+                    <lb n="55"/>oder mehr zeugen hierinnen khundtschafft zue geben speren wurde, den oder dieselben mit gewonlichen peen deß rechtens darzue zwingen unnd compelliern. Geben mit urthel unnd deß
+                    <lb n="56"/>lanndtgerichtß zuerugg aufgedrückhten innsigel besigelt auf <origDate>monntag, den achten monnatßtag martii, deß sechzechenhundert unnd vierten jarß</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1294" n="1"/><lb n="1"/>Compasbrieffe.
+                    <lb n="2"/>Raphael Pauln zue Eschen unnd Andreas
+                    <lb n="3"/>Mündtlein zue Mauren
+                    <lb n="4"/><gap/>
+                    <lb n="5"/><gap/> den 2.
+                    <lb n="6"/>April anno 604.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

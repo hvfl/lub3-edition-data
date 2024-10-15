@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-192">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vertrag zwischen der verwitweten Margaretha von Sulz und ihrem Sohn Johann Ludwig I.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hugo Graf von Montfort-Rothenfels, Friedrich Graf von Fürstenberg und Konrad Graf von Tübingen schliessen einen Vertrag zwischen Margaretha, verwitwete Gräfin von Sulz, und ihrem Sohn Johann Ludwig I. Grafen von Sulz ab, in dem sie ihrem Sohn die Herrschaften Vaduz, Blumenegg, Schellenberg, die Güter Altkirch und Rotenberg sowie die Einnahmen aus dem Salzbergwerk Hall in Tirol überlässt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-340">Leibgedinge</term>
+          <term ref="lub-keywords-203">Vertrag</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-283">Testament</term>
+          <term ref="lub-keywords-341">Silbergeschirr</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-151">Montfort-Rothenfels, Hugo XVI. Graf von</persName>
+          <placeName ref="lub-places-285">Überlingen</placeName>
+          <date when="1536-03-14">14. Mär 1536</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-289" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-151">Hug graff zu Monntfort und Rottenfells </persName>etc. <persName ref="lub-actors-152">Fridrich graff zu Fürstenperg und Hailligennberg</persName> etc. und <persName ref="lub-actors-111">Conrat graff zu Tübingen herr zue Liechtnegkh</persName> etc. bekhennen
+                    <lb n="2"/>offentlich mit dem brief, das an heut dato vor uns erschynnen seyen, die wolgeporn unser liebe baß, fraw <persName ref="lub-actors-47">Margreth gräfin zue Sultz</persName>, geporne grafin zue <placeName ref="lub-places-6">Sonnenburg</placeName>, weylend des
+                    <lb n="3"/>wolgepornen <persName ref="lub-actors-8">Ruedolffen graffen zue Sultz</persName>, landgraffen in <placeName ref="lub-places-18">Kleggaw</placeName> etc., römischer künigklicher maiestat statthalter der <placeName ref="lub-places-160">Oberosterreichischen Landen</placeName> etc. säliger gedechtnus verlassen
+                    <lb n="4"/>gemachel ains und der wolgeporn<gap/>lieber sün, unser vetter und swager <persName ref="lub-actors-35">Hans Ludwig graff zu Sultz</persName>, landgraff in <placeName ref="lub-places-18">Kleggaw</placeName>, des <orgName ref="lub-actors-516">Hailligen Reichs</orgName> hofrichter zu <placeName ref="lub-places-17">Rottweil</placeName> etc. anderstails
+                    <lb n="5"/>und hat bemelte gravin zu <persName ref="lub-actors-47">Sultz</persName> erstli<gap/> ain ordnung und vermecht, so weilend der obgedacht ir gemachel saliger, in zeitten seins lebens auffgericht, fürbracht und anzaigt, welchs anfang
+                    <lb n="6"/>lautt: Ich, <persName ref="lub-actors-8">Ruedolff graff zue Sultz</persName> etc. weyst am dato <date>sontags nach unsers herren fronleichnams tag, der da was der dreissigist des monats may von Cristi gepurt, gezelt fünffzehenhun
+                    <lb break="no" n="7"/>dert und im funffundtreissigisten jare</date> und under anderm in sich helt, wie sie auff desselben irs gemachels tödtlichen abgang zue rechtem leibgeding frey, ir leben lang und dieweil sy
+                    <lb n="8"/>unverendert auch in wittwenstand <gap/> unverthuelich inhaben, besitzen, nutzen und niessen solle, desselben, irs gemachels, herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-12">Pluemenegkh</placeName> und <placeName ref="lub-places-11">Schellenperg</placeName> mit allen
+                    <lb n="9"/>hohen, nidern und vorstlichen oberkaitten, herrlichaiten und gerichten, auch besetzung und entsetzung etc. Were ir maynung, sich nach vermug desselben zue den bewysten gaben zue thun.
+                    <lb n="10"/>Als nun der vorgemelt <persName ref="lub-actors-35">Hans Ludwig graff zue Sultz</persName> etc. solchs gehört, hat er durch uns sovil pittlich geworben, das wir an benenter gräfin zue <persName ref="lub-actors-47">Sultz</persName> etc., seiner fraw muetter, sovil ansuech
+                    <lb break="no" n="11"/>en getan, das sy sich auß müetterlicher trew, auff zulassen und bewilligen des wolgepornen <persName ref="lub-actors-151">Wolffgangen graffen zu Montfort und Rottenfels</persName> etc. irs lieben vettern und erkiesten vogts
+                    <lb n="12"/>begeben und bewilligett von den besitzungen und anderen gaben der obgenanten dreyen herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-12">Pluemnegkh</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>, guettlich zutretten, und umb auch für dieselben
+                    <lb n="13"/>die angezaigten baid herrschafften <placeName ref="lub-places-57">Altkirch</placeName> und <placeName ref="lub-places-60">Rattemberg</placeName>, in form, weiß, maß und gestalt inzuehaben, zenutzen, zubesitzen und zuverwalten, wie dan der gemachts brief durch gedach
+                    <lb break="no" n="14"/>ten iren gemachel vor angeregtem vermecht seins datumbs zue <placeName ref="lub-places-19">Ynsprugg</placeName> am <date>sibenden tag des monats octobris nach Cristi unsers lieben herren gepurt tausent funffhundert und
+                    <lb n="15"/>im dreissigisten jare</date> auffgericht, lau<gap/> vermag, welches gedachter, ir sune zue danckh angenomen und nach dem im eltern vermechts briefs ir järlich ir lebenlang ein zenemmen
+                    <lb n="16"/>zwen zins die sich baid zwayhundert funffundzwaintzig guldin erlaufen, bestympt sein und aber der ain die zeit her durch ablosung hinweg und ab umb und für sollich baid zinß
+                    <lb n="17"/>und ander ursachen, hat gedachter <gap/> <persName ref="lub-actors-35">Ludwig graff zue Sultz</persName>, seiner fraw muetter, fürtterhin auff form und mainung, wie das der jungst vermechtsbrief vermag auch einzenem
+                    <lb break="no" n="18"/>men bewilligt die drewhundert guldin auff der <placeName ref="lub-places-255">Saltzpfannen zue Hall im Yntal</placeName>, und solle sich die besitzung mit einnemung der gefäll der herrschafft <placeName ref="lub-places-57">Altkirch</placeName> und <placeName ref="lub-places-60">Rattem
+                    <lb break="no" n="19"/>berg</placeName> auff Martini und der benanten drewhundert gulden auff Georgi baid nechst auff ainander volgende anfengen. Die gab betreffend das silbergeschirr und den türgges,
+                    <lb n="20"/>sol nach sag desselben artickels dem jungen ordnungsbrief eingeleypt, bey seinen crefften bleiben. Doch was under demselben sylbergeschier noch verhanden, so bemel
+                    <lb break="no" n="21"/>tem graff <persName ref="lub-actors-35">Ludwigen</persName> und seiner gemahel auff ir hochzeit vererth dasselb sol ime geantwurt und ob ichts desselben verendert, sol ime von seiner fraw muetter anders dar
+                    <lb break="no" n="22"/>fürgegeben und erstatt werden. Doch soll sollichs gedachter graff <persName ref="lub-actors-35">Ludwig</persName> auch unverendert, inhaben, gleich wie sein fraw muetter ir verordneten silbergeschirrs halben, laut
+                    <lb n="23"/>jüngsten, vilgemelten vermechts <gap/> schuldig ist. Aber der andern gaben halber, im selben gemechtsbrief begriffen, soll von wegen diser vergleichung alle dieweil die sachen, wie
+                    <lb n="24"/>abgeret, in irem wesen sten unnd <gap/> weitter anfordrung beschehen. Es sol auch das gesäß weyerburg mit seinen zugehörden, so ehest imer muglich verkhaufft und der
+                    <lb n="25"/>kauffpfening desselbigen zue ablanung weylund gedachts graufe Ruedolfs verlassen schulden verwendt ich so sol auch durch obgenanten grauf <persName ref="lub-actors-35">Ludwigen</persName> all und jed benent seins
+                    <lb n="26"/>herren vattern seligen verlassen schulden, deßgleichen und auch all und jede zyns und beschwerden, so auff den herrschafften <placeName ref="lub-places-57">Alltkirch</placeName> und <placeName ref="lub-places-60">Rattemburg</placeName> steen, der zeitten seiner fraw
+                    <lb n="27"/>muetter leben, one derselben schaden, nachtail und costen, wie dan das der elter gemachtsbrief, lautter anzaigt bezalt und ob icht weitters auff den pfandschilling geschlagen wurde, gleich
+                    <lb break="no" n="28"/>er gestalt auch durch in außgericht. Deßgleichen auch hie zwischen und Martini nechst gedachte sein fraw muetter zue <placeName ref="lub-places-86">Küssenberg</placeName>, irem stand gemeß eerlich underhalten und ob
+                    <lb n="29"/>sy bedacht sein hie zwischen und Martini nechst gen <placeName ref="lub-places-19">Ynsprugg</placeName> hinein zeraisen sol ir von bemeltem graff <persName ref="lub-actors-35">Ludwigen</persName> zimliche und verliche zerung geraicht und sunst auch in al
+                    <lb break="no" n="30"/>weg von im all kuntliche lieb und trew bewisen werden. Dieweil auch zuvermueten, das die angezaigte baide vermecht umb erhaltung der verlassnen landgrafschafften her
+                    <lb break="no" n="31"/>schafften und pfandschafften durch weylund graff <persName ref="lub-actors-8">Ruedolffen</persName> zue nutz und geuttem desselben verlaßen sone und kindern beschehen. Ist durch graff <persName ref="lub-actors-35">Ludwigen</persName> vor uns seinen vettern
+                    <lb n="32"/>und swägern, auch seiner fraw muetter frey anzaigt, auch bey guettem glauben zugesagt, versprochen und verhaissen werden, sich ainer rechtmessigen, wesenlichen haußhaltung
+                    <lb n="33"/>seinem einkhomen gemäß zeschicken, <supplied>über</supplied>berfluß und nachtailigkait derselben abzuestellen und seine herrschafften, landgraffschafften, lewt, zins, gülten und guetter one gemainer
+                    <lb n="34"/>fruntschafft, auch seiner fraw muetter <gap/> willen und wissen, nicht zuversetzen, zuverkauffen, noch in ander wege, im und seinen kindern zu nachtail zuverwenden, alles ge
+                    <lb break="no" n="35"/>trewlich un ungeverlich. Und wie vorgemelte <persName ref="lub-actors-47">Margareta gräfin zue Sultz</persName> etc. bekhennen hiemit, das wir solchen vertrag mit wissen und willen, vorgedachts unsers
+                    <lb n="36"/>vettern und vogts <persName ref="lub-actors-809">Wolffgangen grafen zue Montfort</persName> etc. guettwillig angenommen und demselben in allen seinen puncten und artickln wie hie oben begriffen nachzekommen,
+                    <lb n="37"/>zugesagt und versprochen Wir, <persName ref="lub-actors-809">Wolfgang graff zue Montfort und Rottenfels</persName> etc. bekhennen auch hierin vögtlicher weiß, das unser liebe bas diß vertrags mit unserm
+                    <lb n="38"/>gunst, wissen und willen eingangen. Darumb wir zu guetter sicherhait für obgedachte unser liebe baß unser aigen insigel, doch uns und unsern erben an schaden hieran ge
+                    <lb break="no" n="39"/>hengt. Wir, <persName ref="lub-actors-35">Hans Ludwig graf zu Sultz</persName> etc. bekhennen auch das wir disen vertrag in all seinen begreiffungen angenomen und demselben nachzekhomen und in allweg
+                    <lb n="40"/>statt zetun zugesagt und versprochen <gap/> auch hierumb unser aigen insigel an disen brief thon henggen und des zue warer urkunt und merer sicherhait haben wir,
+                    <lb n="41"/>obgemelter <persName ref="lub-actors-151">Hug graf zue Montfort</persName> etc. <persName ref="lub-actors-152">Friederich graff zue Fürstenberg</persName> etc., <persName ref="lub-actors-111">Conrat graf zue Tübingen</persName>, unsere aigen innsigel doch uns und unsern erben in alweg ane
+                    <lb n="42"/>schaden hieran thon, hencken, diser vertragsbrief seind zwen gleichs laut ververdigt und jedem tail ainer behendigt worden. Beschehen zue <placeName ref="lub-places-285">Überlingen</placeName>, auff den
+                    <lb n="43"/><origDate>vierzehenden tag martii nach Christi <gap/>purt tausent fun<gap/>dert dr<gap/> und sechs</origDate> <gap/>
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-290" n="1"/><lb n="1"/>Vertrag
+                    <lb n="2"/>zwischen frewen <persName ref="lub-actors-47">Margretha grävin zu Sulz</persName><gap/><lb n="3"/>zu <placeName ref="lub-places-6">Sunnberg</placeName><lb n="4"/>und
+                    <lb n="5"/><persName ref="lub-actors-35">Johann Ludwiggen graven zue Sulz</persName> etc. anno 1536
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

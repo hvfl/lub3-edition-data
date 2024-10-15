@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-613">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Acker in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-613">LI-LA, Schä U 80</ref> / Originaldatierung: 11. November 1588 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Peter Gantner von Schaan und seine Frau Anna Ballasser verkaufen Adam Schierscher, Pfleger der Schaaner Frühmesserpfrund, für 20 Pfund Pfennig einen Zins von 1 Pfund ab ihrem Acker im Gapetsch in Schaan.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-143">Acker</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-479">Gantner, Peter</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-246">Quaderer, Heinrich</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-555">Ballasser, Anna (2)</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-500" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-479">Petter Gandtner</persName> von <placeName ref="lub-places-53">Schan</placeName> unnd <persName ref="lub-actors-555">Anna Ballesserin</persName>, sein ehliche hausfraw, bekhennen offennlich für unns, all unnsere erben unnd nachkhomen unnd thue khund allermenigclich mit disem brieve, das wir 
+<lb n="2"/>mit veraintem freyem gutem willen, wolbedachtem synn unnd muth zubefürderung unnsers bessern nutz, besonnder mit hannd deß ersamen unnd weysen <persName ref="lub-actors-246">Hainrichen Quaderer</persName>, der zeyt aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, auf
+<lb break="no" n="3"/>recht und redlich verkhaufft unnd zu khauffen geben haben aines besteeten, vessten, ewigen unnd ymerwerenden kauffs unnd geben auch hiemit wissentlich in crafft ditz briefs dem ersamen <persName ref="lub-actors-287">Adamen Schierßer</persName> als diser
+<lb n="4"/>zeyt verordnetem phleger oder vogt der früemeß zu <placeName ref="lub-places-53">Schane</placeName> unnd allen seinen nachkhomen anstatt gemelter früemeß namblichen ain pfundt pfening guter <placeName ref="lub-places-101">Costanntzer</placeName> müntz <placeName ref="lub-places-10">Veldtkhircher</placeName> werung rechtz, steets, ewigs, jer
+<lb break="no" n="5"/>lichs zinß unnd pfening gelts von, usser und abe unnserm aignen ackher in <placeName ref="lub-places-219">Gapetsch</placeName> gelegen, stoßt gegem berg an <persName ref="lub-actors-1141">Anna Balleßerin</persName>, <persName ref="lub-actors-1142">Hanns Knabenkhnechtz</persName> weibs, guth, ufwert an die Aw, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1143">Hainrich Wannger</persName>
+<lb n="6"/>unnd abwert dem lanndt nach an <persName ref="lub-actors-1144">Adam Frickhen</persName> weibs guth, alles ab grund, grad, veldt, wasen, wunn, waid, stockh, stain, gesteut, gereuth, gengen, stegen, wegen unnd sonnst gemainclich ab allen andern desselben rechten unnd 
+<lb n="7"/>zugehörden, benennten unnd unbenenten, auch für zinßfrey, ledig, los unnd gegen allermenigclich unverkhümbert. Unnd also ist der ewig, redlich kauf ergangen unnd beschehen benanntlichen umb zwaintzig pfundt pfenn
+<lb break="no" n="8"/>ing obgeschribner muntz unnd werung, dern wir aller gar von inen, den keuffern, erberlichen außgericht unnd bezalt worden seind nach unnserm willen unnd guten benüegen. Darumben sollen unnd wellen wir, all unsere
+<lb n="9"/>erben unnd nachkhomen ald anndere inhaber unnd besitzere vorgemelts unnderphandts den bestimbten zinß gesagtem vogte oder seinen nachkhomenden an statt mergesagter früemeß, inhabere ditz briefs, nunfürterhin ewigclich unnd 
+<lb n="10"/>alle jar jerlich auf <term ref="lub-keywords-365">sannt Marthins, deß heyligen bischoffs, tag</term>, achttag vor oder nach ungevarlich, güetlich richten, zinßen unnd zu iren sichern hannden unnd gewalt geben unnd anndtwurtten, für allermenigclichs verhefften, 
+<lb n="11"/>verbieten unnd enndtwehren, genntzlich ohne allen iren costen unnd schaden. Wann, wie oder welches jars dz aber also nit beschehe über khurtz oder lanng zeyt, so ist inen dz vorgemelt underphanndt, in seinen bestimbten marckhen 
+<lb n="12"/>begriffen, ganntz zinsfellig worden unnd dannenthin mit grund, grad, auch allen andern desselben obgenanndten rechten, besserung und zugehörden zu rechtem ewigen aigen haimgevallen unnd vervallen, ohne unnser, all 
+<lb n="13"/>unnßer erben unnd nachkhomen, auch sonst allermenigclichs von unnsert wegen irrung unnd widerred, ohn geverde. Hierauf ditz ewigen unnd redlichen kaufs umb zinsfellige, auch für all abganng unnd minderung deß ob
+<lb break="no" n="14"/>genannten underpfandts, haubtguts, zinß, schaden unnd aller obgeschribner dingen sollen unnd wellen wir dickhgeruerte verkheuffere, all unnsere erben unnd nachkhomen der mergesagten früemeß unnd allen jetzigen und khünfftigen
+<lb n="15"/>der selben vogten recht, gut unnd getrew crefftig gewehre, fürstannd unnd versprecher gegen allermenigclich sein, vor dem richter unnd gericht, darunder obgemelt underpfanndt gelegen ist, nach recht, wo, wie, wann oder 
+<lb n="16"/>gegen wem, als offt unnd dickh sy das nach dem rechten ymer bedürffen oder nottürfftig sein werden, alvart in unnserm aignen costen unnd ohne iren schaden, bey guten trewen, ohne alle widerred unnd aufzug. Unnd wiewol diser 
+<lb n="17"/>brief ainen ewigen kauf außweißt unnd sagt, doch hat unns der offtermelt <persName ref="lub-actors-287">Adam Schierßer</persName> als vogt, wie obsteet, disen volkhomnen gewalt geben unnd verwilliget, also dz wir oder unnsere erben unnd nachkhomen das 
+<lb n="18"/>obgemelt ain pfundt pfening zinß nunhinfuro ewigclich, wann, wie oder welches jars wir über khurtz oder lanng zeyt wellen, doch allweg vor zinsfal unnd auf <term ref="lub-keywords-365">sannt Marthins tag</term>, achttag vor oder nach ungevarlich, 
+<lb n="19"/>samenthafft mit den obgeschribnen zwaintzig pfundt pfening haubtgut sambt allen vervallen, ausstenndigen zinßen, auch mit guter müntz unnd werschafft, daran sye khainen verlurst noch abganng haben dörffen, ob sich 
+<lb n="20"/>die jetzige müntz in der zeyt verenndern wurde, ungevarlich. Unnd deß alles zu warem offen urkhundt haben wir, obgemelte verkheuffere, beede mit vleis unnd ernnst erbetten den obgedachten aman <persName ref="lub-actors-246">Hainrichen 
+<lb n="21"/>Quaderer</persName>, dz er sein aigen innsigel (doch ime, aman, unnd seinen erben ohne schaden) offennlich gehennckht hat an disen briefe, der geben ist <origDate>uf sannt Marthins, deß heyligen bischoffs, tag von Christi, unnsers lieben herrn unnd 
+<lb n="22"/>seligmachers geburt gezelt fünfftzehenhundert achtzig unnd acht jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

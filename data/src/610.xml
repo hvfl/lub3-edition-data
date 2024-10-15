@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-610">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verzeichnis der Amt- und Werkleute von Graf Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Das Dokument wurde im August 1856 bei Bauarbeiten am Schloss Vaduz gefunden.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-610">LI-LA, U 14</ref> / Originaldatierung: 15. Juli 1585 / Beschreibstoff: Pergament</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Verzeichnis der Amt- und Werkleute von Graf Karl Ludwig von Sulz, angelegt beim Bau der neuen Kanzlei im Schloss Vaduz im Jahr 1585.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-131">Beamter</term>
+          <term ref="lub-keywords-296">Amt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1585-07-15">15. Jul 1585</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-497" n="1"/><lb n="1"/>In anno etc. <date>1585</date><lb n="2"/>ist der wolgeborn herr, herr <persName ref="lub-actors-13">Carol Ludwig grave zue Sultz</persName>, 
+<lb n="3"/>landtgrave in <placeName ref="lub-places-18">Cleggew</placeName>, deß <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhoffrichter 
+<lb n="4"/>zue <placeName ref="lub-places-17">Rottweyl</placeName> etc., herr zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> etc., 
+<lb n="5"/>mein gnediger herr, regierender herr dises hauses und <placeName ref="lub-places-33">schloses 
+<lb n="6"/>Vadutz</placeName>, auch erstermellten herrschafften. 
+</p>
+        <p><lb n="7"/>Sind zue dero zeit ir gnaden 
+<lb n="8"/>ambtleut: 
+<lb n="9"/>hofmeister: <persName ref="lub-actors-1111">David Wild</persName> von <placeName ref="lub-places-32">Augspurg</placeName>; 
+<lb n="10"/>landtvogt: <persName ref="lub-actors-191">Philibert Rignoult von Brosswalden</persName>; 
+<lb n="11"/>undervogt: <persName ref="lub-actors-1112">Mürckh von der Halden, genannt Gabriel</persName>, zue <placeName ref="lub-places-28">Pludesch</placeName>; 
+<lb n="12"/>landtschreiber: <persName ref="lub-actors-793">Paulus Kranzegger</persName> von <placeName ref="lub-places-10">Veldtkurch</placeName>; 
+<lb n="13"/>burgvogt: <persName ref="lub-actors-1132">Wolf Dägeller</persName> von <placeName ref="lub-places-467">Laugingen</placeName>; 
+<lb n="14"/>hofschreiber: <persName ref="lub-actors-1133">Johann Scheifelin</persName> von <placeName ref="lub-places-468">Pfullendorff</placeName>. 
+</p>
+        <p><lb n="15"/>Herrschafft <placeName ref="lub-places-7">Vadutz</placeName>: 
+<lb n="16"/><persName ref="lub-actors-246">Hainrich Quaderer</persName>, amman daselbst; 
+<lb n="17"/><persName ref="lub-actors-214">Jacob Blänckhi</persName>, amman zue <placeName ref="lub-places-53">Schan</placeName>. 
+</p>
+        <p><lb n="18"/>Herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>: 
+<lb n="19"/><persName ref="lub-actors-165">Hannß Örin</persName>, am <placeName ref="lub-places-16">Eschnerberg</placeName> amman, uf <placeName ref="lub-places-31">Rouffenberg</placeName>. 
+</p>
+        <p><lb n="20"/>Herrschafft <placeName ref="lub-places-12">Bluemenegg</placeName>: 
+<lb n="21"/><persName ref="lub-actors-1134">Geörg Glarner</persName>, amman zue <placeName ref="lub-places-28">Pludesch</placeName>; 
+<lb n="22"/><persName ref="lub-actors-1135">Hannß Tscholl</persName>, amman zu <placeName ref="lub-places-469">Ludesch</placeName>; 
+<lb n="23"/><persName ref="lub-actors-844">Christa Schneider</persName>, ammann uf <placeName ref="lub-places-159">Raggal</placeName>. 
+</p>
+        <p><lb n="24"/>Werkhleut deß baweß der cantzlei 
+<lb n="25"/>und aldonen: 
+<lb n="26"/>maister <persName ref="lub-actors-1136">Joß Herman</persName> von <placeName ref="lub-places-10">Veldtkurch</placeName>, tischmacher; 
+<lb n="27"/>maister <persName ref="lub-actors-1137">Hanns Zymerman</persName> von <placeName ref="lub-places-12">Bluemenegg</placeName>; 
+<lb n="28"/>maister <persName ref="lub-actors-1138">Anthoni</persName> und sein brueder <persName ref="lub-actors-1139">Hainrich, die 
+<lb n="29"/>Hunen</persName> von <placeName ref="lub-places-470">Pursch</placeName>, die maurmaister; 
+<lb n="30"/><persName ref="lub-actors-1140">Mang Wörlin</persName>, bawmaister zue <placeName ref="lub-places-1">Vadutz</placeName>, von <placeName ref="lub-places-28">Pludesch</placeName>. 
+</p>
+        <p><lb n="31"/>Beschriben und eingelegt diser zettel <origDate>den funffzehenten tag july 
+<lb n="32"/>obermeltß jars</origDate> in den newen paw angedeuter newen canzlei. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

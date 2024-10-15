@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-621">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab Gütern in Schaan und Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 5](https://lub.anton.ch/objects/621) / Originaldatierung: 30. April 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Jäger von Schaan verkauft Jos Neyer, Siegler des Domstifts Chur, für 11 Pfund Pfennig einen Zins ab Gütern in Schaan. Neyer verwendet den Zins für eine Jahrzeitstiftung am St.-Thomas-Altar in Schaan.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-289">Stiftung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-488">Jäger, Hans</persName>
+          <date when="1513-04-30">30. Apr 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1513-04-30">30. Apr 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-517" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-488">Hanns Jeger</persName> von <placeName ref="lub-places-53">Schan</placeName>, beken offenlich fur mich, alle mine erben und nachkommen, und thun kundt mengclich mit dem bri
+                    <lb break="no" n="2"/>ef, das ich mit gutem willen wolbedacht, sunnder mit hand des ersamen und wysen <persName ref="lub-actors-296">Albrecht Wolfen</persName>, der zyt amann in der
+                    <lb n="3"/>herrschaft <placeName ref="lub-places-7">Vaduz</placeName>, recht und redlich verkouft und ze kouffen geben han, dem erwirdigen her <persName ref="lub-actors-489">Josen Näyer</persName>, insigler deß stifts zu
+                    <lb n="4"/><placeName ref="lub-places-102">Kur</placeName>, ains staten ewigen koufs, wissentlich in kraft diß briefs, ainlf schilling pfening costenzer mümz und veltkircher wär
+                    <lb break="no" n="5"/>ung, rechts, ewigs zins und järlichs pfening geltz, ze richten und ze geben von usser und ab minem aignen gut, in <placeName ref="lub-places-164">Sax</placeName> gelegen,
+                    <lb n="6"/>stost unna an der herrschaft gut, ainhalb an des <orgName ref="lub-actors-850">Blaichners</orgName> kinden gut, zu der andren syten an <persName ref="lub-actors-851">Hainrich Jegers</persName> gut, ufwert an
+                    <lb n="7"/>die landtstraß. Mer ab minem aignen tail zu <placeName ref="lub-places-1">Vaduz</placeName>, in der <placeName ref="lub-places-346">Halden</placeName> gelegen, stost ufwert an den Stain, abwert an mins bruder
+                    <lb n="8"/><persName ref="lub-actors-388">Ulrich Jegers</persName> stadel, neben zu der ainen syten an <persName ref="lub-actors-852">Greta Jegerin</persName> gut, und zu der andren syten aber an <persName ref="lub-actors-388">Ulrich Jegers</persName> gut. Mer ab mi
+                    <lb break="no" n="9"/>nem aignen stuck gut, zue <placeName ref="lub-places-347">Tannen</placeName> gelegen, stost gem dorff <placeName ref="lub-places-53">Schan</placeName> wert an <persName ref="lub-actors-853">Elsa Näyerin</persName>, <persName ref="lub-actors-297">Jörg Tönis</persName> wybs gut, zu zwayen syt
+                    <lb n="10"/>en an <persName ref="lub-actors-815">Nesa Vaistlin</persName> gut, niderwerrt an des <orgName ref="lub-actors-850">Blaichners</orgName> kinder gut. Und darzu ab minem aignen gut uff <placeName ref="lub-places-348">Rattitsch</placeName>, under dem <placeName ref="lub-places-349">Äg
+                    <lb break="no" n="11"/>ilgraben</placeName> gelegen, stost ufwert an <persName ref="lub-actors-344">Luzi Fricken</persName> gut, uswerrt gegen dem <placeName ref="lub-places-350">Giessen</placeName> an des Fritschen gut, abwert an <persName ref="lub-actors-852">Greta Jegerin</persName> gut,
+                    <lb n="12"/>gegen <placeName ref="lub-places-53">Schan</placeName> wert an des <orgName ref="lub-actors-850">Blaichners</orgName> kinden gut. Und alles abgennd grat, wun, waid, gebomen, zwyen, gengen, stegen und wegen, und
+                    <lb n="13"/>gemainlich ab allen andren iren rechten, nutzen, früchten und zugehörnden, benembten und unbenembten, und och für ledig, los und
+                    <lb n="14"/>vormals alle von allermengclichem unverkümbert. Und ist der ewig und redlich kouff beschehen um ainlf pfund pfening obgemelter
+                    <lb n="15"/>münz und wärung, deren ich von im also bar bezalt worden bin nach minem guten benügen. Und der genannt köffer, her <persName ref="lub-actors-489">Jos Näyer</persName>,
+                    <lb n="16"/>dise ainlf schilling pfening zins durch sinen vatter mueter, aller siner vordren und siner sel hail willen ludter, durch gotz willen ainen
+                    <lb n="17"/>jeden gegenwürtigen und künftigen caplon sant Thomas alter zu <placeName ref="lub-places-53">Schan</placeName> geben hat, die im alle jar järlich in die ewigkait dafür
+                    <lb n="18"/>messen und ander gozdienst, alles inhalt sines testiments nach des jarzit buchs zu Schan uswysung haben und begon söllend. Und darum
+                    <lb n="19"/>so söllen und wöllend ich, genannter verköffer <persName ref="lub-actors-488">Hans Jeger</persName>, alle mine erben und nachkomen, inhaber der egemelten underpfanden in iren
+                    <lb n="20"/>berürten marcken ainem jeden caplon des gemelten sant Thomas altar, die gemelten ainlf schilling pfening zins nunfürohyn ewig
+                    <lb break="no" n="21"/>clich und järlich, alle jär uff sant Martins tag, acht tag vor oder nach ungevarlich, tugentlich richten, zinsen und zu <placeName ref="lub-places-53">Schan</placeName> im dorff zu
+                    <lb n="22"/>iren sichern handen und gewalt antwurten und geben für allermengclichs hefften, verbieten und entweren und genzlich one allen ir
+                    <lb break="no" n="23"/>en costen und schaden, wann, wie oder welches jars. Das aber also über kurz oder lang zyt nit beschäch, so sind inen die egemelten under
+                    <lb break="no" n="24"/>pfand in iren bestimpten marcken begriffen, ganz zinsvellig worden und dannenthin mit grund, grat und mit allen iren rechten, nutzen,
+                    <lb n="25"/>früchten, beßrungen und zugehörnden, zu rechtem, ewigem aigen, imerme gevallen und vervallen, one unser und allermengclichs
+                    <lb n="26"/>von unsern wegen stimmen, irren und widersprechen. Und hieruf diß ewigen und redlichen koufs um zinsvellige und für alle abgeng der
+                    <lb n="27"/>obgemelten underpfanden, och zins, hoptgutz, schadens und aller obgemelter dingen, söllen und wöllend ich, genannter verköffer, alle mi
+                    <lb break="no" n="28"/>ne erben und nachkomen des genannten köffers, aller siner erben und och des bemelten sant Thomas altar und aines jeden caplons des
+                    <lb n="29"/>altars recht, gut und getruw, krefftig weren, fürstand und versprecher sin, uff allen gerichten, gaistlichen und weltlichen, und gemain
+                    <lb break="no" n="30"/>lich allenthalben, was des nach dem rechten iemer bedürffen und notdurfftig werdent, alwegen in unserm aignen costen, one allen iren
+                    <lb n="31"/>schaden, bi unsern guten, truwen, on alle widerred, uszug und gevärde. Und wie wol diser brief ainn ewigen kouff uswyst, dennocht hat
+                    <lb n="32"/>mir der genannt köffer, <persName ref="lub-actors-489">Jos Näyer</persName>, den gwalt gegeben, also das ich mine erben und nachkomen die ainlf schilling pfening zins von ainem
+                    <lb n="33"/>jeden caplon des bemelten altars wol widerkoffen und ablösen mugend. Nunfürohyn ewigclich, wenn und welches jars wir uber kurz oder
+                    <lb n="34"/>lang zyt wellend, doch vorzinsvallen und uff sant Martins tag, achttag vor oder nach ungevarlich, sammenthaft mit dem obgemelten
+                    <lb n="35"/>hoptgut mit sambt gevallnem zinse, und och mit der munz und wärung, daran si nit verlurst habend, alles ungevarlich. Und wenn sölche
+                    <lb n="36"/>losung beschicht, sol alweg ain caplon das hoptgut von stund an wider an zins legen, damit das testament in die ewigkait nit abga
+                    <lb break="no" n="37"/>ben. Und des alles zu warem offem urkund han ich, genannter verköffer <persName ref="lub-actors-488">Hans Jeger</persName>, flyssig eretten den obgenannten amann <persName ref="lub-actors-296">Abrecht
+                    <lb n="38"/>Wolfen</persName>, das er sin insigel im und sinem erben one schaden für mich, mine erben und nachkomen, offenlich gehengkt hat an den brief, der
+                    <lb n="39"/>geben ist an dem <origDate>mays abend nach Cristi geburt funfzehenhundert und drizehen jare</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1159" n="1"/><lb n="1"/><gap/> pfund altar zu <placeName ref="#lub-places-53">Schan</placeName>
+                    <lb n="2"/>11 schill. zünß <gap/>. <persName ref="lub-actors-488">Hannß Jäger</persName>
+                    <lb n="3"/><gap/>
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

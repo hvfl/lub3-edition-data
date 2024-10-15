@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-464">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid über die Kompetenzen der Geschworenen der Herrschaft Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-464">LI-GAE, AHV 03/08</ref> / Originaldatierung: 23. Mai 1520 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: <ref type="identifier" target="lub-objects-1107">LI-GAE, AHV 02/117a</ref> / Beschreibstoff: Papier</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: LI-LA, RA 71/13</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Gericht unter den Vorsitz von Hans Öhri, Landammann der Herrschaft Schellenberg, entscheidet auf die Klage der Geschworenen der Herrschaft Schellenberg, dass diese berechtigt sind, den Weibel anzuweisen, bei einer Person, die sie strafen wollen, eine Pfändung vorzunehmen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-153">Weibel</term>
+          <term ref="lub-keywords-154">Geschworener</term>
+          <term ref="lub-keywords-206">Pfändung</term>
+          <term ref="lub-keywords-131">Beamter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-209">Öhri, Hans (1)</persName>
+          <date when="1520-05-23">23. Mai 1520</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2341" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-209">Hanns Öhrin</persName>, diser zeit amman der herschaft <placeName ref="lub-places-11">Schellenberg</placeName>, beken mit dem brieff, 
+<lb n="2"/>das uf heut seiner dato, als ich von gnaden, haisens und befells wegen des wolge
+<lb break="no" n="3"/>bornen herren, herrn <persName ref="lub-actors-8">Rudolffen graven zu Sultz</persName>, landtgraven in <placeName ref="lub-places-18">Cleckaw</placeName>, des <orgName ref="lub-actors-516">Heiligen
+<lb n="4"/>Reichs</orgName> hofrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, her zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blumnegk</placeName> etc., meins gnedigen 
+<lb n="5"/>herren, uff <placeName ref="lub-places-31">Roffenberg</placeName> im wirtzhaus in obgemelter herschaft zu gericht gesessen bin, 
+<lb n="6"/>für mich und offen verbannen gericht erschinen seind die erbarn geschworn gemelter 
+<lb n="7"/>herschafft und liesen durch iren erlaupten fursprechen fürwenden und reden, wan 
+<lb n="8"/>sie wellend einen straffen umb büß, so einer verwürckt het, und dem selbigen mit dem 
+<lb n="9"/>waibel zu hauß und hof kommen und an waibel begern, das er inen pfand geb, wann 
+<lb n="10"/>dan einer die pfand uf recht verleg, so well inen der waibel kein pfand geben, dardurch 
+<lb n="11"/>sie niemand straffen kunden, vermenten, inen die pfand wie von alterher durch den 
+<lb n="12"/><unclear>w</unclear>aibel verfolgt werden, begerten <unclear>an einem</unclear> rechten <unclear>zu erfahrn, was</unclear> sie die pfand von  
+<lb n="13"/>den hinsselbigen zugen, damit sie recht und nit unrecht thetten und satztend es 
+<lb n="14"/>damit in recht. Unnd uf mein, richters, umbfrag einhefftigklich erkant und gesprochen, 
+<lb n="15"/>welhen die geschworn in ir straf heten, es wert umb klein oder gros heißen, so 
+<lb n="16"/>mögen sie den waibel nemen und dem selbigen zu hauss und zu hoff gann, die 
+<lb n="17"/>pfand erfordern und nemen, und ob einer soliche pfand zu recht verlegen wolt, 
+<lb n="18"/>mögen sie nicht destominder furfaren, vermeinte, <unclear>je</unclear> jemand, dem unrecht gescheh, 
+<lb n="19"/>der soll die geschwornen mit recht suchen, dem sie ouch fürderlichs rechtens 
+<lb n="20"/>sein sollen. Begerten durch iren fursprechen der urtheil ain brieff, der inen nach 
+<lb n="21"/>meiner umbfrag einhelligklich under meinem insigel erkant ward. Zu urkhund han 
+<lb n="22"/>ich, richter, inen disen brief mit meinem anhangenden insigell, als mir das 
+<lb n="23"/>urthail von des rechten wegen erkant ist, doch mir und dem gericht one schaden, 
+<lb n="24"/>besigelt und geben <origDate>uf mitwuch vor dem heilligen pfingstag nach Christi ge
+<lb break="no" n="25"/>burt fünffzehen hundert und im zwänzigisten jahr<unclear>s</unclear>. 1520</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-622">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 6](https://lub.anton.ch/objects/622) / Originaldatierung: 21. Juni 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Rudolf Martin von Balzers verkauft Augustin Munghofer, Kaplan am Marienaltar in der Kirche St. Laurentius in Schaan, für 16 Pfund Pfennig einen Zins von 16 Schilling ab seinen Gütern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-348">Allmend</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-490">Martin, Rudolf</persName>
+          <date when="1513-06-21">21. Jun 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1513-06-21">21. Jun 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-518" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-490">Rudolff Martin</persName>, zu <placeName ref="lub-places-71">Baltzers</placeName> gesessenn, bekenn offennlich mit dem briefe, das ich recht
+                    <lb n="2"/>und redlich verkofft und zu koffen geben hab, ouch insonnder mit gunst, wissen und willen
+                    <lb n="3"/><persName ref="lub-actors-296">Albrechten Wolffen,</persName> der zeit aman zu <placeName ref="lub-places-7">Vaduz</placeName> ains sitten, ymer werenden und ewigen koffs
+                    <lb n="4"/>dem erwirdigen herren <persName ref="lub-actors-491">Augennsteinen Munghofer</persName>, priester <placeName ref="lub-places-175">Churer</placeName> bistumbs, caplan uff
+                    <lb n="5"/>unnser lieben frowen alltar zu <placeName ref="lub-places-212">sant Lorentzen kilchen</placeName> zu <placeName ref="lub-places-53">Schan</placeName>, und allen sinen nachkomen
+                    <lb n="6"/>capplenen, sechzehenn schilling pfening costenntzer müntz und velkircher werung, rechts,
+                    <lb n="7"/>järlichs, ewigs und gewiss zins und pfening gelts von usser und ab denen menen aig
+                    <lb break="no" n="8"/>nen gutter. Zu dem erstenn ab ainem acker zu <placeName ref="lub-places-352">Briel</placeName> im <placeName ref="lub-places-313">Obern Veld </placeName>gelegen, stost ainhalb
+                    <lb n="9"/>annd allmain, zu der anndern sitten an <persName ref="lub-actors-854">Marx Gurtnetschers</persName> kynder, zu der dritten an das
+                    <lb n="10"/><placeName ref="lub-places-351">Hoffgutt</placeName>, zu der virden an die <placeName ref="lub-places-353">Fürhöptter</placeName>. Item ab ainem gut am berg, genant <placeName ref="lub-places-354">Mathaid</placeName>, stost
+                    <lb n="11"/>zu ring umb and allmain. Item ab ainer hoffstatt zu <placeName ref="lub-places-71">Baltzers</placeName>, stost ainhalb an <persName ref="lub-actors-855">Petter Gantners</persName>
+                    <lb n="12"/>kynder gut, zu dryen sitten and haingass. Item ab ainer wisen <placeName ref="lub-places-356">Anell</placeName>, stost uffwert an
+                    <lb n="13"/>den stain, abwert an <persName ref="lub-actors-856">Crista Wintzirles</persName>, ainhalb an <persName ref="lub-actors-857">Hanns Lampart</persName>, anderthalb an ander
+                    <lb n="14"/>mein verkoffer aigenn gut. Alles ab grund, ab gratt, ab wunn, ab waid, ab holtz, ab veld,
+                    <lb n="15"/>ab stock, ab stain und ganz gemainlich ab allen annderen zugehörden, gewonhaiten und
+                    <lb n="16"/>richtten, das ouch vormals in ander weg gannz ledig unnd unverkymbert ist. Und ist
+                    <lb n="17"/>der koff beschehen umb sechszehen pfund pfening obgeschribner müntz und werung, deren
+                    <lb n="18"/>ich von ime also bar zalt bin nach meinem willen. Darumb so söllen und wollenn
+                    <lb n="19"/>ich und all mein erben, ime und seinen nachkomen caplenen die zins nun hinfuro ymer
+                    <lb n="20"/>mer ewigklich und alle jar järlich, allwegen uff sant Martis tag, acht tag vor oder nach,
+                    <lb n="21"/>tugenntlich zinsen und zu ime sichern handen gen <placeName ref="lub-places-53">Schan</placeName> antwurtten fur mengklich, ver
+                    <lb break="no" n="22"/>hefftten, verbietten und niderlegen, und genzlich one iren costen und schaden. Dann wo das
+                    <lb n="23"/>nit geschehe und nit zinsetten uff zil und tag, wie oben stat, so sind ime und seinen nachkom
+                    <lb break="no" n="24"/>en caplenen die underpfand, in iren bestimbten marcken gantz zinsfellig worden und zu
+                    <lb n="25"/>luttrem aigen haimgefallen und verfallen one mein, meiner erben und mengklich von mein
+                    <lb break="no" n="26"/>et wegenn, somitt irren und widersprechen hieruff des koffs und aller gemelter ding, als
+                    <lb n="27"/>dann obenn stat, so sollen und wöllen ich und all mein erben, ime und seinen nachkomen
+                    <lb n="28"/>caplenen gut, weren sein vor allen lutten und gerichten, gaistlichen und weltlichen, nach
+                    <lb n="29"/>lannds recht und nach dem rechten, one iren costen und schaden. Und wie wol der brief
+                    <lb n="30"/>über kurz oder lang zeitt, welliches jars wir wöllen, allweg uff sant Martis tag, acht tag vor
+                    <lb n="31"/>oder nach, samentlich mit obgemeltem gut, ald acht schilling mit acht pfund pfening,
+                    <lb n="32"/>die muntz und werung, daran sie dhain verlurst haben, ob sich die verendern wird, zu urkund, so
+                    <lb n="33"/>hab ich mit vleyss erbetten den obgenanten aman, das er sein aigen insigel zu ainer waren
+                    <lb n="34"/>gezugknus der sach offenlich gehenckt hat an den brief, doch ime und seinen erben one schaden,
+                    <lb n="35"/>der geben ist uff <origDate>zinstag vor sant Johanns tag nach Cristi gepurt funffzehen hundert unnd
+                    <lb n="36"/>druwzehenn jar</origDate>.
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1160" n="1"/><lb n="1"/><persName ref="lub-actors-490">Rudolff Martin</persName><gap/><gap/> XVI ßd gibt Thoma<gap/>
+                    <lb n="2"/><gap/> <placeName ref="lub-places-71">Balzers</placeName> 1513
+                    <lb n="3"/>gegen unnßer frawen altar prundt zu <placeName ref="lub-places-53">Schan</placeName>.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

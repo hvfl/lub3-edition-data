@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-553">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urfehde von Hans Fritsch von Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-553">LI-LA, Schä U 32</ref> / Originaldatierung: 12. September 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Fritsch von Schaan, der von Graf Rudolf von Sulz und seinem Landvogt Georg Kräler in Gefangenschaft gesetzt worden war, weil er gegen die von den Geschworenen in Vaduz angeordnete Pfändung seines Viehs Widerstand geleistet hatte, schwört nach seiner Freilassung Urfehde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-8">Urfehde</term>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-206">Pfändung</term>
+          <term ref="lub-keywords-154">Geschworener</term>
+          <term ref="lub-keywords-52">Widerstand</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-346">Hubmeister</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-387">Fritsch, Hans</persName>
+          <date when="1513-09-12">12. Sep 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-18">Stuben, Joachim von</persName>
+          <date when="1513-09-12">12. Sep 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-424" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-387">Hanns Fritsch</persName> von <placeName ref="lub-places-53">Schan</placeName> bekenn offennlich und thun kunndt allerrmengclich mit dem brief, als mir dann <persName ref="lub-actors-388">Uolrich Jeger</persName> uß bevelch der geswornen zu <placeName ref="lub-places-1">Vadutz</placeName> min fäch gepfendt
+                  <lb n="2"/>hat, darumm ich im vyl hoher unzimblicher wort geben und angehengkt han, deßhalben unns ain gerichtz gesworner von <placeName ref="lub-places-53">Schan</placeName> frid potten hat, aber nichtzdestminder han ich mine
+                  <lb n="3"/>fräfenliche und unzimbliche wort gegen genantem <persName ref="lub-actors-388">Jeger</persName> gebrucht, deßhalben er trostung von mir begert hat, da han ich aber dem selben geswornen von <placeName ref="lub-places-53">Schan</placeName> trostung zu dryen ma<lb break="no"/>
+                  <lb n="4"/>len versagt und im nit trostung wellen geben, sonder dem selben geswornen och hochmütige und böse wort angehenckt und daran geben und nach dem fridpott und beger der trostung
+                  <lb n="5"/>genannten <persName ref="lub-actors-388">Ulrichen Jeger</persName> geschuldiget, das er mer von mir genomen habe, denn ich im schuldig sey, und och andren von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, geswornen und nit geswornen, etliche tröw worrt
+                  <lb n="6"/>mit sambt andren bosen worten geben hab, da mit ich wider die offnung und statuten, so der wolgeboren herr, herr <persName ref="lub-actors-8">Rudolff grauf zu Sultz</persName>, landtgraf im <placeName ref="lub-places-18">Clegköw</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName> etc., min
+                  <lb n="7"/>gnädiger her, in sinr gnaden herrschaft <placeName ref="lub-places-7">Vadutz</placeName> durch frid und süns willen gemacht und offenlich verkünden laussen hat, fräfenlich gehandlet und zerbrochen hab, deßhalben ich in des genann<lb break="no"/>
+                  <lb n="8"/>ten mines gnädigen herren <persName ref="lub-actors-8">graf Rudolfs von Sultz</persName> vengknuß gen <placeName ref="lub-places-33">Vadutz in das sloß</placeName> komen bin. Und hette der genant min gnädiger herr oder der ersam und wys <persName ref="lub-actors-238">Jörg Kräler</persName>, vogt zu <placeName ref="lub-places-7">Vadutz</placeName>,
+                  <lb n="9"/>an siner gnaden statt und namen mich an minem lyb und penlicher straff mit recht wol straffen mügen, aber uß pitt der nachgenanten, mins lieben bruders <persName ref="lub-actors-52">Ulrich Fritschen</persName> und andrer mi<lb break="no"/>
+                  <lb n="10"/>ner guten fründen und erbrer lüdten, hat mich der genannt vogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <persName ref="lub-actors-238">Jörg Kräler</persName>, der selben miner vengknuß und strauff widerumm gnädigclich ledig gezelt und gelassen, inmassen wie
+                  <lb n="11"/>hernach volgt: das ich dem genanten minem gnädigen heren sol geben zwaintzig guldi rinisch gemainer landswerung, namlich fünf guldi bar, fünf guldi uff <date when="1513-11-11">sant Martins tag</date>,
+                  <lb n="12"/>fünf guldi uff <date when="1514-02-02">unser lieben frowen tag zu liechtmeß</date> und die letzten fünf guldi zu gantzer und volkomner bezalung der zwaintzig guldi uff <date when="1514-04-25">sant Jörgen tag</date>, die bemelten drü zyl nä<lb break="no"/>
+                  <lb n="13"/>chst nach datum diß briefs, nach ainandren künftig sol geben und bezalen. Und han daruf mit gutem fryem willen ungetrungen und unbezwungen dem genanten vogt <persName ref="lub-actors-238">Jörgen Kräler</persName>
+                  <lb n="14"/>an statt und in nammen des gemelten mins gnädigen herren mit hand gegebnen trüwen gelobt und darzu ainen gelerten aid mit ufgehebten fingern lyplich zu gott und den hail<lb break="no"/>
+                  <lb n="15"/>gen gesworen, soliche vengknuß und alles, was mir darunder zu gangen ist, gegen genantem minem gnädigen herren <persName ref="lub-actors-8">von Sultz</persName>, siner gnaden vogt <persName ref="lub-actors-238">Jörgen Kräler</persName> und allen siner gna<lb break="no"/>
+                  <lb n="16"/>den gaistlichen und weltlichen, och gegen genantem <persName ref="lub-actors-388">Ulrich Jeger</persName> und andren miner vengknuss verwandten, denen, so verdacht sind und schuld, radt oder tadt daran oder dazu geholff<lb break="no"/>
+                  <lb n="17"/>en habend, hin für in ewig zyt niemer mer ze annden, ze äfern noch rechen mit worten, werchen, rädten noch getäten, haimlich noch offenlich, nicht thun noch schaffen gethon werden,
+                  <lb n="18"/>mit gaistlichen noch weltlichen lüdten, richtern noch gerichten, wie dann das jemand künd oder möcht erdencken, erfinden noch erfaren, ich noch sust niemands von minen wegen, noch
+                  <lb n="19"/>das nit gestattnen noch verhengen gethon werden. Und ob ich füro, die wyl ich leb, mit genanntem minem gnädigen herren <persName ref="lub-actors-8">graf Rudolffen von Sultz</persName>, allen den sinen, gaistlichen und weltlich<lb break="no"/>
+                  <lb n="20"/>en, obberürter massen icht zu sprechen oder zu handlen hette oder gewunne, umb was sachen das wäre, gar nütz usgenomen, darumm sol und wil ich mich alzyt an früntlichem
+                  <lb n="21"/>rechten laussen benügen und das von ir jedem nemen und geben an den enden, da es billich, und in den gerichten, da ain jeder gesessen und ingehorig ist, on all gevärd, und arg list hier
+                  <lb n="22"/>inn gantz usgeslossen und hindan gesetzt. Und ob ich der obgeschribnen stuck und artickel ainen oder mer nit hielte und zerbräche, es beschähe mit worten oder mit werchen, und mi<lb break="no"/>
+                  <lb n="23"/>ner eren und aides vergessen wurde, das got nit welle, und sich das von mir warlich erfunde, so bin ich von stunden an darnach ain trüwloser mainaider man und sol und mag als
+                  <lb n="24"/>dann der selb min gnädiger herr <persName ref="lub-actors-8">von Sultz</persName>, siner gnaden vögt und amptlüdt an siner gnaden statt mit mir handlen und handlen laussen als mit ainem, der gelübt und aid nit gehalt<lb break="no"/>
+                  <lb n="25"/>en hat. Und uff sölichs ist min obgenanter bruder <persName ref="lub-actors-52">Ulrich Fritsch</persName>, och <persName ref="lub-actors-389">Jos</persName> und <persName ref="lub-actors-390">Lentz die Fritschen</persName>, gebrüder, min lieb vetteren, all dry zu <placeName ref="lub-places-53">Schan</placeName> seßhaft, umb alle obgemelte stuck und ar<lb break="no"/>
+                  <lb n="26"/>tickel mine recht tröster worden. Wir obgenannten <persName ref="lub-actors-52">Ulrich</persName>, <persName ref="lub-actors-389">Jos</persName> und <persName ref="lub-actors-390">Lentz die Fritschen</persName> bekennen och in disem brief also, ob unser genanter bruder und vetter <persName ref="lub-actors-387">Hans Fritsch</persName> der obberürt<lb break="no"/>
+                  <lb n="27"/>en stuck und artickel ainen oder mer nit hielte, es beschäch über kurtz oder lang zyt, und och die bezalung der zwaintzig guldi, wie ob stät, nit tädte, wann wir dann von dem vylgenannten
+                  <lb n="28"/>unserm gnädigen herren <persName ref="lub-actors-8">von Sultz</persName> oder siner gnaden vogte oder ambtlüdten ermandt wurden, unsern obgenanten bruder und vettern <persName ref="lub-actors-387">Hansen Fritschen</persName> in das <placeName ref="lub-places-33">sloß Vadutz</placeName> zu antwürten, so söllen
+                  <lb n="29"/>wir samend oder sunders das on alle fürwort thun. Und so wir inn dann in das sloß geantwurrt habend, so söllend wir dann aller obberürter trostung ledig sin, es wäre denn, das die zwaintzig
+                  <lb n="30"/>guldi uff zyt und zyl, wie obstat, nit bezalt werind, darumm söllen wir für und für und och unsre erben haft und tröster sin also lang, bis das si bezalt syend. Und ob wir aber uff erman<lb break="no"/>
+                  <lb n="31"/>en unsers genannten gnädigen heren oder siner gnaden vögt oder amptlüten unsern genannten bruder und vettern <persName ref="lub-actors-387">Hans Fritschen</persName> nit in siner gnaden <placeName ref="lub-places-33">sloß Vadutz</placeName> antwurtend und er sin<lb break="no"/>
+                  <lb n="32"/>en gnaden oder siner gnaden vögten oder ambtlüdten oder siner gnaden gaistlichen oder weltlichen oder genantem <persName ref="lub-actors-388">Ulrichen Jegern</persName> oder anderen siner vangknuß verwandten, alles wie oben
+                  <lb n="33"/>stat, etwas schadens zu fügte oder schuffe gethon werden, wie der schad genannt wäre, umm den selben schaden allen söllen wir tröster sin und den selben schaden allen nach billichait bekeren
+                  <lb n="34"/>und widerlegen und dann umm die ungehorsam<supplied reason="Loch im Pg.">[i]</supplied> in unsers gemelten gnädigen heren straff ston. Des alles wir dem obgenannten vogt an statt unsers gemelten gnädigen heren mit uns<lb break="no"/>
+                  <lb n="35"/>ren handgegebnen trüwen an rechter aiden sta<supplied reason="Loch im Pg.">[tt]</supplied> zu halten und zethun gelobt habend, alles und jedes one all arg list und gevärde. Und des alles zu warem offem urkünd han ich
+                  <lb n="36"/>genannter sächer <persName ref="lub-actors-387">Hans Fritsch</persName> selbs und wir <persName ref="lub-actors-52">U<supplied reason="Loch im Pg.">[lri]</supplied>ch</persName>, <persName ref="lub-actors-389">Jos</persName> und <persName ref="lub-actors-390">Lentz die Fritschen</persName> als sin tröster ernstlich und flyssig gebetten und erbetten den edlen und vesten jungkher <persName ref="lub-actors-18">Jocham von Stub<lb break="no"/>
+                  <lb n="37"/>an</persName>, <term ref="lub-keywords-346">hubmaister</term> zu <placeName ref="lub-places-10">Veltkirch</placeName>, unsern günstigen jungkherrn, das er sin aigen insigel, doch im selbs und sinen erben one schaden, für uns offenlich gehengkt hat an den brief, der ge<lb break="no"/>
+                  <lb n="38"/>ben ist an <origDate>mentag vor des hailgen crütz tag siner erhöhung nach Cristi unsers lieben herren gebürt fünfzehenhundert und darnach in dem drizehenden jare</origDate>.
+            </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-425" n="1"/><lb n="1"/><unclear>Item</unclear> die ersten v guldi bar bezalt.
+                  <lb n="2"/>I<supplied reason="Fleck">[tem me]</supplied> v gulden uff <date when="1513-11-11">sant Martinstag</date>.
+                  <lb n="3"/>Item me v gulden uff <date when="1514-02-02">liechmyß</date>.
+                  <lb n="4"/>Item aber v gulden uff <date when="1514-04-25">sant Jürgen taag</date>.
+                  <lb n="5"/>Anno 1513
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

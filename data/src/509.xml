@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-509">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Balthasar von Ramschwag erhält als Burgvogt von Gutenberg 200 Gulden jährlich</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: [AT-TLA, U I 1484](https://lub.anton.ch/objects/509) / Originaldatierung: 29. November 1518 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Balthasar von Ramschwag, dessen Grossvater Ulrich von Ramschwag war, bekennt, dass er in Ansehung seiner Dienste zum Burgvogt von Schloss Gutenberg mit 200 Gulden Burghut jährlich - zahlbar aus dem Pfannhaus zu Hall auf Lebenszeit - ernannt wurde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-81">Dienst</term>
+          <term ref="lub-keywords-301">Besoldung</term>
+          <term ref="lub-keywords-204">Vogt</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-656">Franz, Friedrich</persName>
+          <placeName ref="lub-places-254">Wels</placeName>
+          <date when="1518-11-29">29. Nov 1518</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <placeName ref="lub-places-254">Wels</placeName>
+          <date when="1518-11-29">29. Nov 1518</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-512" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-156">Baltasar von Ramswag</persName>, romischer kayserlicher mayestatt etc. meiner allergenedigisten herrn diener, bekenn offennlich mit disem briefe unnd thun kunth allermenigclich.
+                    <lb n="2"/>Nachdem als weylenndt <persName ref="lub-actors-28">Ulrich von Ramswag</persName> mein enj das sloss <placeName ref="lub-places-13">Guettemberg</placeName> bisher etlich jar lanng vonn kayserlicher meyestatt pflegewise innengehept, auf solichs mir sein mayestatt von
+                    <lb n="3"/>wegen meiner getrewen dinstwillen, so ich irer meyestatt vonn jugennt auf am hof gethan hab unnd mich hinfüro solichs zu thun erpeut, zu irer meyestat purckvogt an statt obgemelts, meins
+                    <lb n="4"/>enj obgedachts sloss <placeName ref="lub-places-13">Guettemberg</placeName> in allermassen, wie er das bisher innengehapt hatt, aufgenomen unnd bestelt, mir auch solichs mein leben lanng eingeben unnd verschribenn, alles nach lautt
+                    <lb n="5"/>unnd innhalt irer mayestatt verschreibung mir deshalbenn darumben gefertigt unnd uberanntwort, so von wort zu wort also lauttet: Wir, <persName ref="lub-actors-4">Maximilian</persName> etc. bekennen offennlich mit disem
+                    <lb n="6"/>brief für unns, unnser erben, und thun kunth allermenigclich, als weylennd <persName ref="lub-actors-28">Ulrich vonn Ramswag</persName>, unnser slos <placeName ref="lub-places-13">Guettemberg</placeName> bisher ettliche jar lanng pflegsweise von unns inngehept, davon
+                    <lb n="7"/>wir ime dann alle jar unnd aines yeden jars besonnder, benenntlichen zweyhundert gulden reinisch zu purckhuet von dem einkommen unnsers <placeName ref="lub-places-255">Phanhaus zu Hall im Ynntal</placeName> geraicht und
+                    <lb n="8"/>betzalt, das wir demnach unnserm getrewen lieben <persName ref="lub-actors-156">Waltasarn vonn Ramswag</persName>, unnserm diener, umb seiner getrewen dinst willen, die er unns bißher an unnserm hous gethan hatt
+                    <lb n="9"/>unnd hinfüro wol thun mag und soll, zu unnserm purckvogt bemelts sloss <placeName ref="lub-places-13">Guettemberg</placeName> aufgenomen und bestelt, ime auch die berurten zweyhundert gulden reinisch purckhuet auf
+                    <lb n="10"/>und aus dem einkommen berurts unnsers <placeName ref="lub-places-255">Phanhaus zu Hall im Ynnthal</placeName> durch gegenwürtigen und künfftig unnsere saltzmair daselbst, sein lebenn lanng zu raichen und zu geben be
+                    <lb break="no" n="11"/>willigt, zugesagt unnd versprochen, unnd ime die in massen daz bemelter <persName ref="lub-actors-28">Ulrich Ramswag</persName>, sein enj, gehapt verschriben habenn. Nemen ine hiemit zu angetzaigtem unnserm burgkvogt
+                    <lb n="12"/>gedachts slos <placeName ref="lub-places-13">Guettemberg</placeName> auf und verschreibenn, ime die angetzaigten zweyhundert gulden reinisch, wie gemelt, wissenntlich in crafft ditz briefs also, das er bemelt <persName ref="lub-actors-156">Waltasar Ramswag</persName>
+                    <lb n="13"/>nun hinfüro auf berürtem unnserm sloss <placeName ref="lub-places-13">Guettemberg</placeName> unnser burgkvogt sein, dasselbs mitsampt den rennten, nutzen, zinssen, gülten unnd annderm darzu gehörig, inmassen das benennter
+                    <lb n="14"/>sein enj innengehapt hatt. Solich slos auch bey tag und nacht vleissig bewachen, verhueten unnd bewarn, unnd unns und wann wir nit weren, unnserm lieben sunen unnd ob die auch
+                    <lb n="15"/>nit weren, unnsern nagstenn erben damit gehorsam, getrew unnd gewertig sein unnd unns das offenn halten, unnd unns und die unnsern die wir yetzu tzeittenn dartzu schaffenn und ordnen
+                    <lb n="16"/>darein unnd darinnen ennthaltenn lassen, zu allen unnsern notturfften, so offt das begert wirdet menigclich niemand ausgenomen, doch auf unnsern selbst cossten unnd on mergclichen
+                    <lb n="17"/>iren schaden. Er soll auch on unnser sonnder willen, wissen unnd bevelh, dhainen krieg, vehd, oder angrif daraus anfalhen, treiben noch thun, sich auch damit gegen den veinten, ob wir
+                    <lb n="18"/>die yetzu zeitten haben würden befriedenn, oder fridlich anstennd annemen, auch unnser leut unnd holden zu dem selbenn slos gehörig uber die gewonndlich <gap/>s robaat dinst, gult, in unpillich
+                    <lb n="19"/>wege wider alts herkommen nit tringen noch beshwern. Sy auch nit steirn, auch vonn unnser herrligkait oberkait nicht enntziehenn lassenn, noch das yemand annderm zu thun ge
+                    <lb break="no" n="20"/>statten, in kain weis. Inmassen er unns dann solichs gelobt, sich auch des sunderlich gegen unns vershriben hat, und alles das thuen, das am getrewer burgkvogt seinem herrn zuthun
+                    <lb n="21"/>schuldig und pflichtig ist, alles getrewlich on geverde. Mit urkund dits briefs. Geben in unnser statt <placeName ref="lub-places-256">Gmundnen</placeName>, am <date>sibenntzehennden tag des monads novembris nach Cristi gepurt
+                    <lb n="22"/>fünfftzehenhundert unnd im achtzehenden</date> unnser Reiche, des <orgName ref="lub-actors-516">Römischen</orgName> im dreyunddreyssigistenn unnd des <placeName ref="lub-places-146">Hungerischen</placeName> im neunundtzwaintzigisten jaren. Darauff
+                    <lb n="23"/>gelob unnd versprich ich seiner kayserlichen meyestatt bey meinen eeren und trewen, auch bey dem ayd, so ich irer meyestatt deßhalben gethan und geschworn hab zue sag unnd thue ich
+                    <lb n="24"/>hiemit wissenntlich in crafft dits briefs allem dem, was die obbemelt kayserlich verschreybung ausweiset und innhaltet, demselben also nach meinem allerhöchstenn vleis unnd
+                    <lb n="25"/>vermögen gestrack nachzukommen, darwider nichts annders hanndeln tuen soll unnd will. Wo ich aber in einem oder mer artickel annderst hanndelte, dann die kayserlich verschreibung
+                    <lb n="26"/>ausweiset und innhaltet, des ir kayserlich meyestatt oder derselben erben durch mein verwarlosung oder sonnst geferlich ubersehen zu nachtayl oder schadenn käme, wie der dann fürpracht
+                    <lb n="27"/>würde, denselben shadenn soll unnd will ich irer meyestatt mit mein und meiner erben hab unnd güeter widerumb erstatten und betzalen trewlich und ungeferlich. Deszu siherer
+                    <lb n="28"/>und warem urkund hab ich mangels meines innsigels, so ich diser zeitt nit beyhenndig gehapt hab, den edeln und vessten <persName ref="lub-actors-656">Fridrichen Franntzen</persName>, obgemelter kayserlicher meyestat
+                    <lb n="29"/>rat und valckenmaister sein aigen innsigel anstatt meins hieunden an disen brief zu hencken mit vleis erpetten, doch ime und seinen erben on schadenn und zu merer sicherheyt
+                    <lb n="30"/>hab ich meinen namen mit aigner hannd hierunder geschriben. Bescheen zu <placeName ref="lub-places-254">Wells</placeName>, am n<origDate>eunundtzwaintzigisten tag des monats novembris anno domini etc. im achtzehennden</origDate>
+                </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-513" n="1"/><lb n="1"/><persName ref="lub-actors-156">Balthasar von Ramßwag</persName> revers betreffendt
+                    <lb n="2"/>das sloss <placeName ref="lub-places-13">Guettemberg</placeName> anno 1518
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>
