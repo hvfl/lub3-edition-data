@@ -9,7 +9,7 @@
         <edition>Liechtensteinisches Urkundenbuch 3 (LUB 3)</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>lub</publisher>
+        <publisher>https://lub.anton.ch</publisher>
         <pubPlace>Schaan, Liechtenstein</pubPlace>
         <date when="2024">2024</date>
         <availability>
@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-15 19:10:04 aus </p>
+        <p>Datenbankexport vom 2024-10-18 16:16:32 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1361,6 +1361,16 @@
             </note>
             <note type="sources">[HLFL](https://historisches-lexikon.li/Plenki,_Jakob)</note>
           </person>
+          <person xml:id="lub-actors-215">
+            <persName type="full" xml:lang="de">Senti, Wolf (1568–)</persName>
+            <persName type="main" xml:lang="de">Senti, Wolf</persName>
+            <persName type="sort" xml:lang="de">senti, wolf</persName>
+            <persName type="alternative" xml:lang="de">Sennti, Wolff</persName>
+            <birth when="1568-04-28"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Nendeln.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-216">
             <persName type="full" xml:lang="de">Kranz, Jakob (1568–1579)</persName>
             <persName type="main" xml:lang="de">Kranz, Jakob</persName>
@@ -2024,6 +2034,16 @@
               <p>Wohnhaft in Mauren. Gerichtsgeschworener.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-318">
+            <persName type="full" xml:lang="de">Knabenknecht, Thomas (1569–1611)</persName>
+            <persName type="main" xml:lang="de">Knabenknecht, Thomas</persName>
+            <persName type="sort" xml:lang="de">knabenknecht, thomas</persName>
+            <birth when="1569-09-27"/>
+            <death when="1611-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Schaan. Gerichtsgeschworener. Verheiratet mit <ref target="381">Lena Hilti</ref>.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-320">
             <persName type="full" xml:lang="de">Rig, Jakob (1573–1610)</persName>
             <persName type="main" xml:lang="de">Rig, Jakob</persName>
@@ -2065,6 +2085,17 @@
             <death when="1573-06-10"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Gerichtsgeschworener.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-327">
+            <persName type="full" xml:lang="de">Hilbe, Klaus (1569–1573)</persName>
+            <persName type="main" xml:lang="de">Hilbe, Klaus</persName>
+            <persName type="sort" xml:lang="de">hilbe, klaus</persName>
+            <persName type="alternative" xml:lang="de">Hylbe, Claß</persName>
+            <birth when="1569-09-27"/>
+            <death when="1573-06-10"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft im Guggerboda (Triesenberg).</p>
             </note>
           </person>
           <person xml:id="lub-actors-329">
@@ -2275,6 +2306,13 @@
             </note>
             <note type="sources">[HLFL](https://historisches-lexikon.li/Frick,_Luzius_(Lutzi))</note>
           </person>
+          <person xml:id="lub-actors-345">
+            <persName type="full" xml:lang="de">Brandis, Wolfhart V. von (1408–1459)</persName>
+            <persName type="main" xml:lang="de">Brandis, Wolfhart V. von</persName>
+            <persName type="sort" xml:lang="de">brandis, wolfhart v. von</persName>
+            <birth when="1408"/>
+            <death when="1459"/>
+          </person>
           <person xml:id="lub-actors-347">
             <persName type="full" xml:lang="de">Frick, Adam (1) (1517–1550)</persName>
             <persName type="main" xml:lang="de">Frick, Adam (1)</persName>
@@ -2295,6 +2333,17 @@
               <p>Zöllner.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-352">
+            <persName type="full" xml:lang="de">Hilbe, Hans (1569–1598)</persName>
+            <persName type="main" xml:lang="de">Hilbe, Hans</persName>
+            <persName type="sort" xml:lang="de">hilbe, hans</persName>
+            <persName type="alternative" xml:lang="de">Hylbe, Hanns</persName>
+            <birth when="1569-09-27"/>
+            <death when="1598-04-18"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-353">
             <persName type="full" xml:lang="de">Beck, Kaspar (1572–1604)</persName>
             <persName type="main" xml:lang="de">Beck, Kaspar</persName>
@@ -2304,6 +2353,28 @@
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Von Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-354">
+            <persName type="full" xml:lang="de">Beck, Ulrich (1) (1589–1602)</persName>
+            <persName type="main" xml:lang="de">Beck, Ulrich (1)</persName>
+            <persName type="sort" xml:lang="de">beck, ulrich (1)</persName>
+            <birth when="1589-09-22"/>
+            <death when="1602-10-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg. Gerichtsmann.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-356">
+            <persName type="full" xml:lang="de">Tanner, Klaus (1569–1598)</persName>
+            <persName type="main" xml:lang="de">Tanner, Klaus</persName>
+            <persName type="sort" xml:lang="de">tanner, klaus</persName>
+            <persName type="alternative" xml:lang="de">Danner, Clas</persName>
+            <persName type="alternative" xml:lang="de">Tanner, Claus</persName>
+            <birth when="1569-09-27"/>
+            <death when="1598-04-18"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
             </note>
           </person>
           <person xml:id="lub-actors-357">
@@ -3269,6 +3340,14 @@
             <note type="description" xml:lang="de">
               <p>Besitzer eines Weinbergs in Vaduz.</p>
             </note>
+          </person>
+          <person xml:id="lub-actors-472">
+            <persName type="full" xml:lang="de">Brandis, Wolfhart VI. von (1426–1477)</persName>
+            <persName type="main" xml:lang="de">Brandis, Wolfhart VI. von</persName>
+            <persName type="sort" xml:lang="de">brandis, wolfhart vi. von</persName>
+            <birth when="1426"/>
+            <death when="1477"/>
+            <note type="sources">[HLFL](https://historisches-lexikon.li/Brandis,_Wolfhart_VI._von)</note>
           </person>
           <person xml:id="lub-actors-475">
             <persName type="full" xml:lang="de">Risch, Ulrich (1585–)</persName>
@@ -5089,6 +5168,17 @@
               <p>Wohnhaft in Gamprin. Kirchenpfleger zu Bendern.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-821">
+            <persName type="full" xml:lang="de">Knabenknecht, Hans (2) (1566–1568)</persName>
+            <persName type="main" xml:lang="de">Knabenknecht, Hans (2)</persName>
+            <persName type="sort" xml:lang="de">knabenknecht, hans (2)</persName>
+            <birth when="1566-11-11"/>
+            <death when="1568-04-28"/>
+            <note type="description" xml:lang="de">
+              <p>1566 belegt als Ammann der Herrschaft Schellenberg.</p>
+            </note>
+            <note type="sources">[HLFL](https://historisches-lexikon.li/Knabenknecht,_Hans)</note>
+          </person>
           <person xml:id="lub-actors-823">
             <persName type="full" xml:lang="de">Wanger, Hans (2) (1566–1579)</persName>
             <persName type="main" xml:lang="de">Wanger, Hans (2)</persName>
@@ -5782,6 +5872,17 @@
             <note type="description" xml:lang="de">
               <p>wohnhaft in Ruggell</p>
             </note>
+          </person>
+          <person xml:id="lub-actors-934">
+            <persName type="full" xml:lang="de">Zürcher, Adam Hieronymus (1617–1619)</persName>
+            <persName type="main" xml:lang="de">Zürcher, Adam Hieronymus</persName>
+            <persName type="sort" xml:lang="de">zuercher, adam hieronymus</persName>
+            <birth when="1617"/>
+            <death when="1619"/>
+            <note type="description" xml:lang="de">
+              <p>Von Feldkirch und Bludenz. 1617 Landschreiber zu Vaduz. Zürcher wurde am 16.1.1619 zum Landvogt von Hohenems bestellt, im März 1619 war er zudem als Landvogt zu Vaduz tätig (wohl interimistisch). Später Stadtschreiber von Bludenz.</p>
+            </note>
+            <note type="sources">[HLFL](https://historisches-lexikon.li/Z%C3%BCrcher,_Adam_Hieronymus)</note>
           </person>
           <person xml:id="lub-actors-935">
             <persName type="full" xml:lang="de">Thöni, Hans Gallus (1541–)</persName>
@@ -7588,6 +7689,17 @@
               <p>Besitzer eines Guts in Triesenberg.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-1163">
+            <persName type="full" xml:lang="de">Schädler, Stefan (2) (1589–1600)</persName>
+            <persName type="main" xml:lang="de">Schädler, Stefan (2)</persName>
+            <persName type="sort" xml:lang="de">schaedler, stefan (2)</persName>
+            <birth when="1589-09-22"/>
+            <death when="1600"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † vor 1602-10-11.</p>
+              <p>Wohnhaft in Rizlina (Triesenberg).</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-1173">
             <persName type="full" xml:lang="de">Heider, Johannes (1591–)</persName>
             <persName type="main" xml:lang="de">Heider, Johannes</persName>
@@ -7723,6 +7835,16 @@
               </list>
             </note>
             <note type="sources">-[HLS](https://hls-dhs-dss.ch/de/articles/017961/2012-11-21/)</note>
+          </person>
+          <person xml:id="lub-actors-1193">
+            <persName type="full" xml:lang="de">Lampert, Christian (1) (1578–1589)</persName>
+            <persName type="main" xml:lang="de">Lampert, Christian (1)</persName>
+            <persName type="sort" xml:lang="de">lampert, christian (1)</persName>
+            <birth when="1578-07-15"/>
+            <death when="1589-09-22"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Vaduz.</p>
+            </note>
           </person>
           <person xml:id="lub-actors-1194">
             <persName type="full" xml:lang="de">Vogt, Ulrich (1416–1428)</persName>
@@ -8179,6 +8301,190 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Balzers.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1316">
+            <persName type="full" xml:lang="de">Plenki, Jörg (1579–)</persName>
+            <persName type="main" xml:lang="de">Plenki, Jörg</persName>
+            <persName type="sort" xml:lang="de">plenki, joerg</persName>
+            <persName type="alternative" xml:lang="de">Plenkhi, Jerg</persName>
+            <birth when="1579-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Schaan/Vaduz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1317">
+            <persName type="full" xml:lang="de">Thöni, Jos (2) (1569–)</persName>
+            <persName type="main" xml:lang="de">Thöni, Jos (2)</persName>
+            <persName type="sort" xml:lang="de">thoeni, jos (2)</persName>
+            <persName type="alternative" xml:lang="de">Thöni, Joß</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Schaan/Vaduz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1318">
+            <persName type="full" xml:lang="de">Lampert, Peter (1) (1569–)</persName>
+            <persName type="main" xml:lang="de">Lampert, Peter (1)</persName>
+            <persName type="sort" xml:lang="de">lampert, peter (1)</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Petter</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1319">
+            <persName type="full" xml:lang="de">Lampert, Hans (4) (1569–)</persName>
+            <persName type="main" xml:lang="de">Lampert, Hans (4)</persName>
+            <persName type="sort" xml:lang="de">lampert, hans (4)</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Hanß</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Masescha (Triesenberg).</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1320">
+            <persName type="full" xml:lang="de">Nägele, Christian (1) (1569–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Christian (1)</persName>
+            <persName type="sort" xml:lang="de">naegele, christian (1)</persName>
+            <persName type="alternative" xml:lang="de">Negelin, Christa</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1321">
+            <persName type="full" xml:lang="de">Beck, Thomas (1569–)</persName>
+            <persName type="main" xml:lang="de">Beck, Thomas</persName>
+            <persName type="sort" xml:lang="de">beck, thomas</persName>
+            <persName type="alternative" xml:lang="de">Beckh, Thoman</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1322">
+            <persName type="full" xml:lang="de">Eberle, Hans (2) (1569–)</persName>
+            <persName type="main" xml:lang="de">Eberle, Hans (2)</persName>
+            <persName type="sort" xml:lang="de">eberle, hans (2)</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1330">
+            <persName type="full" xml:lang="de">Engstler, Christian (2) (1569–)</persName>
+            <persName type="main" xml:lang="de">Engstler, Christian (2)</persName>
+            <persName type="sort" xml:lang="de">engstler, christian (2)</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Ammann in Sonntag und Raggal.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1331">
+            <persName type="full" xml:lang="de">Schurti, Luzius (1) (1569–)</persName>
+            <persName type="main" xml:lang="de">Schurti, Luzius (1)</persName>
+            <persName type="sort" xml:lang="de">schurti, luzius (1)</persName>
+            <persName type="alternative" xml:lang="de">Schurti, Lutzi</persName>
+            <persName type="alternative" xml:lang="de">Schurte, Lutzi</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesen.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1332">
+            <persName type="full" xml:lang="de">Frommelt, Klaus (1569–)</persName>
+            <persName type="main" xml:lang="de">Frommelt, Klaus</persName>
+            <persName type="sort" xml:lang="de">frommelt, klaus</persName>
+            <persName type="alternative" xml:lang="de">Frumolt, Claß</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg (?).</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1333">
+            <persName type="full" xml:lang="de">Fritsch, Jos (1) (1569–)</persName>
+            <persName type="main" xml:lang="de">Fritsch, Jos (1)</persName>
+            <persName type="sort" xml:lang="de">fritsch, jos (1)</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg (?).</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1334">
+            <persName type="full" xml:lang="de">Ganzmann, Christian (2) (1569–)</persName>
+            <persName type="main" xml:lang="de">Ganzmann, Christian (2)</persName>
+            <persName type="sort" xml:lang="de">ganzmann, christian (2)</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg (?).</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1335">
+            <persName type="full" xml:lang="de">Lachen, Ulrich von der (1354–1400)</persName>
+            <persName type="main" xml:lang="de">Lachen, Ulrich von der</persName>
+            <persName type="sort" xml:lang="de">lachen, ulrich von der</persName>
+            <birth when="1354"/>
+            <death when="1400"/>
+            <note type="description" xml:lang="de">
+              <p>Ammann der Grafen von Werdenberg-Sargans-Vaduz in Vaduz und Blumenegg.</p>
+            </note>
+            <note type="sources">[HLFL](https://historisches-lexikon.li/Lachen,_Ulrich_von_der)</note>
+          </person>
+          <person xml:id="lub-actors-1336">
+            <persName type="full" xml:lang="de">Rudolf, Hans (2) (1564–1569)</persName>
+            <persName type="main" xml:lang="de">Rudolf, Hans (2)</persName>
+            <persName type="sort" xml:lang="de">rudolf, hans (2)</persName>
+            <persName type="alternative" xml:lang="de">Ruedolff, Hanß</persName>
+            <birth when="1564"/>
+            <death when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Bludenz, dort Ratsherr und Baumeister. Ab 1564 Untervogt der Vogtei Bludenz.</p>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://texte.volare.vorarlberg.at/viewer/fulltext/0112256/38/">Sander, Beiträge, S. 34</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1337">
+            <persName type="full" xml:lang="de">Lew, Lienhart (1569–)</persName>
+            <persName type="main" xml:lang="de">Lew, Lienhart</persName>
+            <persName type="sort" xml:lang="de">lew, lienhart</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Ammann in Braz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1338">
+            <persName type="full" xml:lang="de">Ruesch, Hans (1569–)</persName>
+            <persName type="main" xml:lang="de">Ruesch, Hans</persName>
+            <persName type="sort" xml:lang="de">ruesch, hans</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Landammann in Rankweil und Sulz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1339">
+            <persName type="full" xml:lang="de">Zudrell, Luzius (1569–)</persName>
+            <persName type="main" xml:lang="de">Zudrell, Luzius</persName>
+            <persName type="sort" xml:lang="de">zudrell, luzius</persName>
+            <persName type="alternative" xml:lang="de">Zudrell, Lutz</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Baumeister in Bludenz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1340">
+            <persName type="full" xml:lang="de">Hausen, Christoph von (1569–)</persName>
+            <persName type="main" xml:lang="de">Hausen, Christoph von</persName>
+            <persName type="sort" xml:lang="de">hausen, christoph von</persName>
+            <persName type="alternative" xml:lang="de">Hausen, Christoff von</persName>
+            <birth when="1569-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>Landvogt im Klettgau.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1341">
@@ -9740,6 +10046,32 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
               <p>Balzers</p>
             </note>
           </person>
+          <person xml:id="lub-actors-1503">
+            <persName type="full" xml:lang="de">Berchtold, Heinrich (1589–)</persName>
+            <persName type="main" xml:lang="de">Berchtold, Heinrich</persName>
+            <persName type="sort" xml:lang="de">berchtold, heinrich</persName>
+            <persName type="alternative" xml:lang="de">Bertholdt, Hainrich</persName>
+            <birth when="1589-09-22"/>
+            <note type="description" xml:lang="de">
+              <p>1589 belegt als ehemaliger Ammann der Herrschaft Blumenegg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1504">
+            <persName type="full" xml:lang="de">Werdenberg-Sargans-Vaduz, Hartmann III. von (1305–1354)</persName>
+            <persName type="main" xml:lang="de">Werdenberg-Sargans-Vaduz, Hartmann III. von</persName>
+            <persName type="sort" xml:lang="de">werdenberg-sargans-vaduz, hartmann iii. von</persName>
+            <birth when="1305"/>
+            <death when="1354-08-27"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * ca. 1305, † 1354-08-27.</p>
+              <p>Begründer der Linie Werdenberg-Sargans-Vaduz.</p>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl><ref target="https://historisches-lexikon.li/Werdenberg_(-Sargans-Vaduz">HLFL</ref>,_Hartmann_III._(I.)_von)</bibl>
+              </listBibl>
+            </note>
+          </person>
           <person xml:id="lub-actors-1512">
             <persName type="full" xml:lang="de">Adam, N. (1520–)</persName>
             <persName type="main" xml:lang="de">Adam, N.</persName>
@@ -9826,11 +10158,12 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1520">
-            <persName type="full" xml:lang="de">Sax-Hohensax, Johann Philipp von (1553–)</persName>
+            <persName type="full" xml:lang="de">Sax-Hohensax, Johann Philipp von (1550–1596)</persName>
             <persName type="main" xml:lang="de">Sax-Hohensax, Johann Philipp von</persName>
             <persName type="sort" xml:lang="de">sax-hohensax, johann philipp von</persName>
             <persName type="alternative" xml:lang="de">Johann Philips zue der Hochensax</persName>
-            <birth when="1553"/>
+            <birth when="1550"/>
+            <death when="1596"/>
             <note type="description" xml:lang="de">
               <p>Lebensdaten: * 1550-04-01 auf Schloss Forstegg; † 1596-05-12 ebd.<br/>Seit 1587 verheiratet mit <ref target="1519">Adriana Franziska von Brederode</ref>. 1590-1596 Herr zu Sax-Forstegg.</p>
             </note>
@@ -9841,6 +10174,13 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
                 </bibl>
               </listBibl>
             </note>
+          </person>
+          <person xml:id="lub-actors-1521">
+            <persName type="full" xml:lang="de">Rig, Andres (1568–)</persName>
+            <persName type="main" xml:lang="de">Rig, Andres</persName>
+            <persName type="sort" xml:lang="de">rig, andres</persName>
+            <persName type="alternative" xml:lang="de">Reig, Andres</persName>
+            <birth when="1568-04-28"/>
           </person>
         </listPerson>
         <listOrg>
@@ -10134,7 +10474,7 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-10-15T19:10:05+02:00">teiHeader was automatically produced from the database 2024-10-15T19:10:05+02:00</change>
+      <change when="2024-10-18T16:16:33+02:00">teiHeader was automatically produced from the database 2024-10-18T16:16:33+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

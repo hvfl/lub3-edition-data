@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1032">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid zwischen Schaan und Vaduz einerseits und Triesenberg andererseits wegen Schneefluchtrechten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: LI-AAV, U 17 / Entstehungszeit: 20. August 1617 / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Nachdem im Konflikt um Schneefluchtrechte zwischen Schaan und Vaduz einerseits und Triesenberg andererseits Schaan und Vaduz bei Graf Alwig von Sulz gegen ein von Christian Engstler, Ammann in Sonntag und Raggal, gefälltes Urteil appelliert hatten, entscheidet der Graf, dass den Schaanern und Vaduznern das Schneefluchtrecht aus ihren drei Alpen Gritsch, Guschg und Malbun in das Gebiet zwischen dem Gamswald und dem Stossen Brunnen gegen Stafiniel und den Bach zustehen soll. Falls nötig, dürfen sie ihr Vieh für einen Tag auch ins das Gebiet hinter dem Stossen Brunnen treiben. Wenn sie danach mit ihrem Vieh noch nicht wieder auf die Alpen zurückkehren können, dürfen sie ihr Vieh ins Gut Gamswald treiben, müssen den Triesenbergern dafür aber eine von Unparteiischen festgelegte Entschädigung entrichten. Die Triesenberger dürfen im Gamswald mähen und heuem, wann es ihnen beliebt. Wer gegen den Vertrag verstösst, wird mit 100 Pfund gebüsst.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-207">Schneefluchtrecht</term>
+          <term ref="lub-keywords-155">Alp</term>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-398">Äberi</term>
+          <term ref="lub-keywords-399">Senntum</term>
+          <term ref="lub-keywords-362">Blume</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-9">Sulz, Alwig IX. Graf von</persName>
+          <date when="1569-09-27">27. Sep 1569</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2321" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-9">Alwig grave zue 
+<lb n="2"/>Sultz</persName>, lanndtgrave im <placeName ref="lub-places-18">Cleggew</placeName>, herr zu <placeName ref="lub-places-18">Vadutz</placeName>, 
+<lb n="3"/><placeName ref="lub-places-11">Schellennberg</placeName> unndt <placeName ref="lub-places-12">Pluemennegg</placeName>, furstlich durch
+<lb break="no" n="4"/>leüchtigkhaitt, erzherzog <persName ref="lub-actors-11">Ferdinannden zue Österreich</persName>,
+<lb n="5"/>rhatt, oberister haubtmann unndt lanndtvogt im <placeName ref="lub-places-422">Oberen 
+<lb n="6"/>Elsäs</placeName> etc., bekhennen offenntlich unndt thuen khundt 
+<lb n="7"/>allermenigclichen mit dem brieff, das vor unnß 
+<lb n="8"/>khomen unnd erschinen seind unnsere unnderthonen 
+<lb n="9"/>unnserer beider dörffer <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> durch ihre 
+<lb n="10"/>volkhomne ausschuß, aman <persName ref="lub-actors-246">Hainrich Quaderer</persName>, aman 
+<lb n="11"/><persName ref="lub-actors-361">Hannß Schierser</persName>, amann <persName ref="lub-actors-214">Jacob Plenggi</persName>, <persName ref="lub-actors-543">Jocham 
+<lb n="12"/>Quaderer</persName>, <persName ref="lub-actors-247">Anndres Schierser</persName>, <persName ref="lub-actors-1317">Joß Thöni</persName>, <persName ref="lub-actors-318">Thoman 
+<lb n="13"/>Knabennkhnecht</persName> unnd <persName ref="lub-actors-1316">Jerg Plenkhi</persName>, alle sybenn in 
+<lb n="14"/>bemelten baiden dörffern seßhafft, ahn ainem, 
+<lb n="15"/>unnd dann innamen unnd von wegen unnserer 
+<lb n="16"/>pergleuthen der gemaindt deß ganzen <placeName ref="lub-places-41">Trisner
+<lb break="no" n="17"/>bergs</placeName> derselben volkhomne ausschuß, <persName ref="lub-actors-1318">Petter
+<lb n="18"/>Lampart</persName>, <persName ref="lub-actors-648">Jörg Negelin</persName>, <persName ref="lub-actors-1319">Hanns Lampart</persName> auff 
+<lb n="19"/><placeName ref="lub-places-190">Moseschen</placeName>, <persName ref="lub-actors-356">Clas Danner</persName>, <persName ref="lub-actors-1320">Christa Negelin</persName>, <persName ref="lub-actors-1321">Thoman 
+<lb n="20"/>Beckh</persName>, <persName ref="lub-actors-352">Hanns Hylbe</persName> unndt <persName ref="lub-actors-1322">Hanns Eberli</persName>, alle achte 
+<pb facs="lub-media-2322" n="2"/>
+<lb n="21"/>ahn gemeltem <placeName ref="lub-places-41">Trisnerberg</placeName> seßhafft, am annderen thail, 
+<lb n="22"/>gabenn unnß unnderthenigclichen zuerkhennen, nach 
+<lb n="23"/>dem sy umb unnd von wegen schnefluchts gerechtigkait 
+<lb n="24"/>in etwaß speen unnd missverstanndt khomen 
+<lb n="25"/>unndt dardurch vor unnserem aman zum <placeName ref="lub-places-158">Suntag</placeName> 
+<lb n="26"/>unnd auff <placeName ref="lub-places-159">Raggal</placeName>, <persName ref="lub-actors-1330">Christann Engstler</persName>, alß ainem 
+<lb n="27"/>unparteyschen richter, unndt seinen zuegeordtneten 
+<lb n="28"/>unnparteyschen rechtsprecheren in recht erwachsen, 
+<lb n="29"/>clag unndt anntwurth eingefüert, khunndtschafft, auch 
+<lb n="30"/>brieff unnd sigl verhördt, den augennschein eingenomen 
+<lb n="31"/>unnd auf selbiges ain uhrtl erganngen, welicher 
+<lb n="32"/>rechts spann allennkhlich unndt clarlichen verschriben 
+<lb n="33"/>begriffen, so sie unnß fürgelegt unnd dan vonn worth 
+<lb n="34"/>zue worthen in sich haltet: Unnd erstlich 
+<lb n="35"/>deren von <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> rechtlich fürbrinngen ge
+<lb n="36"/>wesen, nachdem sich den verganngnen summer zue
+<lb break="no" n="37"/>getragen, das sy vonnöthen worden, mit irem vych
+<lb n="38"/>die schneflucht zu besuechen, seyen sy mit irem vych 
+<lb n="39"/>hinder des <placeName ref="lub-places-539">Stossen Brunnen</placeName>, alda es ain gemaine 
+<lb n="40"/>atzung seye, gefahren unnd vermainen, daselbs 
+<lb n="41"/>unnd von daselbs dannen biß an daß <placeName ref="lub-places-538">Guschgerthobl</placeName>
+<pb n="3"/>
+<lb n="42"/>recht unnd gerechtigkhaitt zu haben. Unnd imfahl, 
+<lb n="43"/>wo vonn nöthen, haben sy nit allain alda ihre schne
+<lb break="no" n="44"/>fluchts gerechtigkhaitt unnd gemaine atzunng,
+<lb n="45"/>sonnder auch die schneflucht in das guet <placeName ref="lub-places-368">Gambs
+<lb break="no" n="46"/>waldt</placeName>. Doch wofher sy die schneflucht in
+<lb n="47"/>das gueth <placeName ref="lub-places-368">Gambswald</placeName> besuechen thetten, er
+<lb break="no" n="48"/>pieten sie sich, vermög ihrer brieff unnd sigel
+<lb n="49"/>abthrag zuthuen unndt ahn dem zinß, den sy ihnen 
+<lb n="50"/>jährlich zu lehenzinß schuldig, abgehen zu lassen. 
+<lb n="51"/>Verhoffen dernnhalben, sy sollen unndt werdenn 
+<lb n="52"/>wie ihre eltfordernn bei ihren rechten bleiben. 
+<lb n="53"/>Dargegen deren ab dem <placeName ref="lub-places-41">Trisnerberg</placeName> antwurth, 
+<lb n="54"/>sie habenn iren, deren von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName>, einnge
+<lb break="no" n="55"/>füerte clag genuegsamb verstannden, unvonöthen
+<lb n="56"/>selbige zuerzellen, unnd wellen hiemit also 
+<lb n="57"/>anntwurthen: Sy khönnen noch werden nit kant
+<lb break="no" n="58"/>lich seinn, das der <placeName ref="lub-places-368">Gambswaldt</placeName> von des <placeName ref="lub-places-539">Stossen
+<lb n="59"/>Brunnen</placeName> biss ans <placeName ref="lub-places-538">Guschgerthobl</placeName> ain gemainne 
+<lb n="60"/>atzung seye, dann obschonn selbiges ain gemaine  
+<lb n="61"/>atzunng gewesen, seye es aber doch khaine mehr, 
+<lb n="62"/>sonnder derselbig <placeName ref="lub-places-368">Gambswaldt</placeName> seye thailt undt 
+<pb facs="lub-media-2323" n="4"/>
+<lb n="63"/>ordennliche markhstain gesezt unnd aufgericht worden, 
+<lb n="64"/>wie dann wissenntlich unnd sich die thailunng angezogen 
+<lb n="65"/>in brieff unnd sigl lauter befinnden werde. Sy von <placeName ref="lub-places-1">Vadutz</placeName> 
+<lb n="66"/>unnd <placeName ref="lub-places-53">Schaan</placeName> sollen auch ahnn dem vorderen thail vonn 
+<lb n="67"/>deß <placeName ref="lub-places-539">Stossen Brunnen</placeName> biß ahn die markhenn khainn 
+<lb n="68"/>sollich recht unnd gerechtigkhait ganntz unnd gahr nit 
+<lb n="69"/>haben. Sy, die anntwurther, habenns auch 
+<lb n="70"/>über menntschen gedächtnuss ohne der cleger 
+<lb n="71"/>unnd menigclichs einred für aigen rüebigkhlichenn 
+<lb n="72"/>innenngehabt unnd genossen unnd seye auch ihr aigen 
+<lb n="73"/>guett. Aber sovil die schne flucht in das 
+<lb n="74"/>guet <placeName ref="lub-places-368">Gambßwaldt</placeName> belannge, reden sy ihnen nichts 
+<lb n="75"/>darein, wie dann beschaidennlich in brieff unnd sigl 
+<lb n="76"/>unnd mit wellicher gestalt innen der abtrag 
+<lb n="77"/>unnd bezahlung beschechen solle, befunnden werde. 
+<lb n="78"/>Verhoffen dernnhalben, sy sollen bei solichem bleiben 
+<lb n="79"/>unnd ire gegennthail güettlich darvon gewisen, 
+<lb n="80"/>wo nit, als dann rechtlich erkhenndt werden.  
+<lb n="81"/>Darauff volgt deren von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schann</placeName> 
+<lb n="82"/>weitter fürbrinngen, unngevarlich ihren clag 
+<lb n="83"/>wie vormals widerumb erneweret. Unnd seye
+<pb n="5"/>
+<lb n="84"/>ihr vermainen, das solliches von deß <placeName ref="lub-places-539">Stossen Brunnen</placeName> 
+<lb n="85"/>biß ihnns <placeName ref="lub-places-538">Guschgerthobl</placeName> ain gemaine atzung seye, 
+<lb n="86"/>wie dann brieff unndt sygl lautterlichen außweisen  
+<lb n="87"/>unndt genuegsamben bericht geben. Unndt ob 
+<lb n="88"/>schonn die thaylung beschechen, seye aber doch 
+<lb n="89"/>solliche inn annder weg zuverstehen unndt an dem 
+<lb n="90"/>waidganng zu solicher ihrer warthennder 
+<lb n="91"/>notturfft nihtzit benomben worden. Verhoffen 
+<lb n="92"/>derowegen nochmalß, daß sy von des <placeName ref="lub-places-539">Stossen 
+<lb n="93"/>Prunnen</placeName> biß inns <placeName ref="lub-places-538">Guschgerthobl</placeName> woll 
+<lb n="94"/>zu sollicher ihrer notturfft, wann schnee 
+<lb n="95"/>unndt wetters noth verhannden, mit ihrem vych 
+<lb n="96"/>denn waidganng brauchen sollen unndt mugen, 
+<lb n="97"/>ohne verhinnderung menigkhlichs. Darauff 
+<lb n="98"/>ihr pit, sy, die pergleuth, wellen güetlich 
+<lb n="99"/>darvon abstehn. Wo nit, thraweten sy gott 
+<lb n="100"/>unndt dem rechten, sy sollenn mit recht dahin 
+<lb n="101"/>gewysen werden, unnd berueffen sich hierauff, 
+<lb n="102"/>im fahl der noth leüth unnd brief zuverhören. 
+<lb n="103"/>Deren ab dem <placeName ref="lub-places-41">Thrisnerberg</placeName> darauff gevolgte 
+<lb n="104"/>andere antworth, sy haben deren von <placeName ref="lub-places-1">Vadutz</placeName> 
+<lb n="105"/>unndt <placeName ref="lub-places-53">Schaan</placeName> anndere clag abermalß genuegsamb  
+<lb n="106"/>verstannden, sagen darauff unnd lassens auch unn
+<lb break="no" n="107"/>gevarlich bey ihrer negstgegebnen antwurt bleiben
+<pb facs="lub-media-2324" n="6"/>
+<lb n="108"/>unnd wellen gahr unnd genntzlich nit gestenndig 
+<lb n="109"/>sein, daß sy ainn solliche gerechtigkhaitt 
+<lb n="110"/>der atzung von deß <placeName ref="lub-places-539">Stossen Prunnen</placeName> biß 
+<lb n="111"/>ahnn die markhstainn haben noch zuegehören 
+<lb n="112"/>solle, sonnder es seye vonn des <placeName ref="lub-places-539">Stossen Prunnen</placeName> 
+<lb n="113"/>biß ahnn die kunndtpahren markhstainn vermög 
+<lb n="114"/>brieff unnd sygl unnd darinn verleibten thailung 
+<lb n="115"/>ihr, der pergleuthen, aigen gueth. Waß 
+<lb n="116"/>aber ausserhalb den markhen gegen <placeName ref="lub-places-538">Guschger
+<lb break="no" n="117"/>thobl</placeName>, reden sy inen nichts darein. Unnd so
+<lb n="118"/>sy die schneflucht in das guet <placeName ref="lub-places-368">Gambßwaldt</placeName>, 
+<lb n="119"/>wie vorsteet, auß noth besuechen unnd brauchen 
+<lb n="120"/>miessen, solle inen doch sollihes nach sag, 
+<lb n="121"/>brief unnd sigl bezallt werden. Seyenn 
+<lb n="122"/>allso gueter hofnunng, dieweyl sy soliches ob 
+<lb n="123"/>menntschen gedechtnuß unnd ob hundert jahren 
+<lb n="124"/>für aigen gueth rüebigkhlichen innengehabt, 
+<lb n="125"/>eß solle innen noch allso pleiben. Und 
+<lb n="126"/>im fahl der noth so haben sy brieff und sigl, 
+<lb n="127"/>daß sollicher <placeName ref="lub-places-368">Gambßwaldt</placeName> gethaillt, 
+<lb n="128"/>deren wellen sy sich auch hiemit berueffen haben etc. 
+<lb n="129"/>Nach beschechnem fürtrag, dieweyl sich baide 
+<lb n="130"/>gemainnden auf kunndtschafft, auch brieff unnd 
+<lb n="131"/>sigl fürzustellen unnd einzelegen gezogen,
+<pb n="7"/>
+<lb n="132"/>seye zu recht erkhenndt worden, daß erstlich 
+<lb n="133"/>der clagenndt unndt volgendts der antwurtend 
+<lb n="134"/>thail leüth oder brieff fürstellen und einlegen 
+<lb n="135"/>solten, unnd so dieselben benennt, für
+<lb break="no" n="136"/>gestellt unnd, waß thaugennlich, verhördt,
+<lb n="137"/>auch die brieff unndt sigl verlesen, darnach 
+<lb n="138"/>fernner ergehen solte, was recht were. 
+<lb n="139"/>Darauf haben die von <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> ire 
+<lb n="140"/>khunndtschafft benennt mit nahmen <persName ref="lub-actors-763">Paule  
+<lb n="141"/>Khindle</persName> von <placeName ref="lub-places-71">Balzers</placeName>, <persName ref="lub-actors-1331">Lutzi Schurti</persName> von <placeName ref="lub-places-79">Trysann</placeName>, 
+<lb n="142"/><persName ref="lub-actors-761">Paule Ballasser</persName> von <placeName ref="lub-places-71">Balzerß</placeName>, <persName ref="lub-actors-327">Claß Hylbe</persName>  
+<lb n="143"/>unnd <persName ref="lub-actors-356">Claß Danner</persName>, baid ab dem <placeName ref="lub-places-41">Thrüsnerberg</placeName>, 
+<lb n="144"/>welliche obgemelte persohnen, daß es ainn 
+<lb n="145"/>allter, lanng verganngner hanndl unnd 
+<lb n="146"/>insonnderhait <persName ref="lub-actors-327">Clas Hylbe</persName> unnd <persName ref="lub-actors-356">Claß Danner</persName>, daß inen soliches zu gewynn oder verlurst dienen möchte, khunndtschafft zu geben sich verwideret haben. So seyen aber die erstgemelten drey kundtschafft personen, <persName ref="lub-actors-763">Paule Kindle</persName>, <persName ref="lub-actors-1331">Luzi Schurte</persName>, <persName ref="lub-actors-761">Paule Ballasser</persName>, kundtschafft zu geben erkhendt unnd aber die anderen übrigen beed, <persName ref="lub-actors-327">Claß Hylbe</persName> und <persName ref="lub-actors-356">Claß Danner</persName>, 
+<lb n="147"/>auß fürgewenndter uhrsachen khundtschafft zu 
+<lb n="148"/>geben erlassen worden. Unnd erstlich 
+<lb n="149"/><persName ref="lub-actors-763">Paule Khindle</persName> gesagt, wie es sich unngefahr 
+<lb n="150"/>vor fünff unnd vierzig jahren begeben, daß er 
+<lb n="151"/>auf <placeName ref="lub-places-132">Gritsch</placeName> gehüet, seye deren von <placeName ref="lub-places-53">Schaan</placeName> diener 
+<lb n="152"/>gewesen. Im selben seyen sy herab gefahren 
+<lb n="153"/>unnd inn <placeName ref="lub-places-133">Vallülen</placeName> an <placeName ref="lub-places-542">Gatter</placeName> khomen, alda die 
+<lb n="154"/><placeName ref="lub-places-79">Trüsner</placeName> auch gewesen, unnd wie die <placeName ref="lub-places-79">Thrüsner</placeName> khain 
+<lb n="155"/><term ref="lub-keywords-398">äabere</term> in <placeName ref="lub-places-133">Vallülen</placeName> gehebt, seyen sy darauß 
+<pb facs="lub-media-2325" n="8"/>
+<lb n="156"/>inns <placeName ref="lub-places-540">Schedlers Bodenn</placeName> gefahren. Do habennde die 
+<lb n="157"/>vonn <placeName ref="lub-places-79">Thrüsen</placeName> gefragt, wie sy sich halten wellen. 
+<lb n="158"/>Gleich nit lanng seye <persName ref="lub-actors-1333">Joß Fritsch</persName> unndt <persName ref="lub-actors-1334">Christen 
+<lb n="159"/>Ganntzmann</persName> unnd sonnst zween zu inen khommen 
+<lb n="160"/>unnd gesagt, wie haben sich die nachpauren 
+<lb n="161"/>gehallten. Folgennds seyen sy mit den drey <term ref="lub-keywords-399">senn
+<lb break="no" n="162"/>thumber</term> hinnder die wyss gefahren. Darbey
+<lb n="163"/>habenn die nachpauren ab dem perg die annderen 
+<lb n="164"/>gebethen, sy sollen ain mitleiden mit inen haben, 
+<lb n="165"/>so wellen sy auch ain mitleiden mit ihnen haben. 
+<lb n="166"/>Gleichsfahls habe <persName ref="lub-actors-1332">Claß Frumolt</persName> soliches auch 
+<lb n="167"/>zu inen geredt. Darauf die <placeName ref="lub-places-1">Vaduzer</placeName> und <placeName ref="lub-places-53">Schaner</placeName> 
+<lb n="168"/>vorzue unnd strichs weiß geezt. Damit sein khundt
+<lb break="no" n="169"/>schafft sag beschlossen. <persName ref="lub-actors-1331">Lutzi Schurte</persName>, der
+<lb n="170"/>ander gezeug, gesagt, nachdem er bey seinem vater 
+<lb n="171"/>auf <placeName ref="lub-places-541">Dürrenboden</placeName> gewesen, gehüet unnd gesenneth, 
+<lb n="172"/>hab er selbiger zeit die von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> 
+<lb n="173"/>mit ihrem vych auß <placeName ref="lub-places-42">Melbunn</placeName> unnder der wiss 
+<lb n="174"/>här genannt daß guet <placeName ref="lub-places-368">Gambßwaldt</placeName>, so eingezeünt 
+<lb n="175"/>gewesen wie noch, sehen fahren biß zu des <placeName ref="lub-places-539">Stossen 
+<lb n="176"/>Brunnen</placeName>, alda die von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> daß vieh 
+<lb n="177"/>aufgehebt unndt nit weiter ghon lassen etc. <persName ref="lub-actors-761">Paule 
+<lb n="178"/>Ballasser</persName>, der drith unndt letst gezeüg, gesagt, 
+<lb n="179"/>ob er gleichwol allt ehni unnd vater gehabt,
+<pb n="9"/>
+<lb n="180"/>sey aber so jung von inen unnd von <placeName ref="lub-places-79">Thrüsan</placeName> khomen, 
+<lb n="181"/>daß er der sachen, ob sy schon von sollihem etwaß 
+<lb n="182"/>geredt, nit acht geben, undt seye ime deshalb 
+<lb n="183"/>nichts inn wissen. Dise vorgenante khundt
+<lb n="184"/>schafft persohnen haben ire reden mit aufgehebten 
+<lb n="185"/>fingeren unnd gelerthem ayd bestettiget. Unnd 
+<lb n="186"/>nach verhörung der gemelten khundtschafften 
+<lb n="187"/>seyen gleichwol zuvor unnd nachwendigs aber
+<lb break="no" n="188"/>malß ihren zu baiderseits habenden brieff unndt
+<lb n="189"/>sigl nach lennge verlesen worden, da doch 
+<lb n="190"/>baide partheyen ihre clag unnd anntwurth 
+<lb n="191"/>widerumb einbracht haben, unnd auf ver
+<lb break="no" n="192"/>hörunng aller vorgeschribner hanndlung zu recht
+<lb n="193"/>gesezt. Darauf nach eingefüerter clag, antwort, 
+<lb n="194"/>red, widerred, verhörung der khundtschafften 
+<lb n="195"/>unnd einlegung baider parteyen spruch und lehenn
+<lb break="no" n="196"/>brieff, von <persName ref="lub-actors-1335">Ulrichen von der Lachen</persName> unnd herr
+<lb n="197"/>Wolffharten von Branndiß<note><persName ref="lub-actors-345">Wolfhart V.</persName> oder <persName ref="lub-actors-472">Wolfhart VI. von Brandis</persName>.</note> aufgericht ausganngen, 
+<lb n="198"/>unnd allem rechtlichem fürwanndt durh die uhrtl
+<lb break="no" n="199"/>sprecher ainhellig zu recht erkhenndt worden:
+<lb n="200"/>Dieweyll sich in herr Wolffhart vonn Branndiß brieff 
+<lb n="201"/>unnd sigl aigenntlich angezogen befinde, dass 
+<lb n="202"/>sollicher <placeName ref="lub-places-368">Gambßwaldt</placeName> gethailt, daß eß 
+<lb n="203"/>dernnhalben bei derselben thailung beleiben und 
+<lb n="204"/>daß sy von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> nit weiter dan zwischen 
+<pb facs="lub-media-2326" n="10"/>
+<lb n="205"/>des <placeName ref="lub-places-539">Stossen Brunnen</placeName>, auch waß gegen dem perg 
+<lb n="206"/><placeName ref="lub-places-543">Staviniel</placeName>, guet <placeName ref="lub-places-368">Gambßwaldt</placeName> undt gegen dem 
+<lb n="207"/>bach, zu notturfft gebrauchen sollen und mögen, 
+<lb n="208"/>doch sovil die schneflucht in daß eingezeünnt 
+<lb n="209"/>guet <placeName ref="lub-places-368">Gambßwaldt</placeName> unnd sonst andere inhaltende 
+<lb n="210"/>puncten, in den briefen einverleibt, betreffe, 
+<lb n="211"/>sollen dieselben brieff unnd sigl bey ihren würden 
+<lb n="212"/>unnd crefften bleiben. Waß dann unnser darinen 
+<lb n="213"/>verleibten puess unnd straff belannge, solle unnß 
+<lb n="214"/>vorbehallten sein. Dann costen unnd schaden halben 
+<lb n="215"/>sey fernner zu recht erkhenndt, daß die pergleuth 
+<lb n="216"/>ire aufgeloffne costen dem gericht fürlegen sollen, 
+<lb n="217"/>unnd waß dann dieselben für zimlich unnd billih 
+<lb n="218"/>erkhennen unnd taxieren, bei demselben soll es 
+<lb n="219"/>beleiben etc. Dise uhrtl seye umb 
+<lb n="220"/>besserer erleütterung und rechtens willen 
+<lb n="221"/>den <date when="1565-08-22">acht unndt zwaintzigisten tag des monats augusti 
+<lb n="222"/>dess fünffzehenhundert fünff undt sechzigisten 
+<lb n="223"/>jahrs</date> darvon für unnß alß regierennden und 
+<lb n="224"/>lanndtsherrn diser herrschafft durch die clegere 
+<lb n="225"/>offenntlich nach unnsers grichtsbrauch nach ordnung 
+<lb n="226"/>appelliert worden etc. Alß wier nun 
+<lb n="227"/>innmassen vorbeschaiden die hanndlung verlesen 
+<lb n="228"/>lassen unnd notturfftigkhlich angehört, sy 
+<lb n="229"/>unnß auch offtmalß zu ausrichtung angedeüther ap
+<pb n="11"/>
+<lb break="no" n="230"/>pellation unnderthenigkhlichen ersuecht, angehalten, 
+<lb n="231"/>anngerueffen unnd gebethen, wir aber vil
+<lb break="no" n="232"/>mahlen auß fürgefallnen unnseren geschefften
+<lb n="233"/>nit statt oder gelegenhait haben mögen. Aber 
+<lb n="234"/>zu unnser jezigen annkhunfft haben wier unß 
+<lb n="235"/>enntschlossen, solliche ire habende unnd schwebende 
+<lb n="236"/>speen unnd erkhlärung diser appellations 
+<lb n="237"/>sach mit sambt etlicher, der sachen erlernnet unnd 
+<lb n="238"/>verstendiget, so wier erbethen und zu unß gezogen, 
+<lb n="239"/>die ehrendthafften unnd fürnemben <persName ref="lub-actors-1336">Hanß Ruedolff</persName>, 
+<lb n="240"/>unndervogt zu <placeName ref="lub-places-205">Bludentz</placeName>, aman <persName ref="lub-actors-1337">Lienhart Lew</persName> 
+<lb n="241"/>von <placeName ref="lub-places-644">Bratz</placeName>, <persName ref="lub-actors-1338">Hanß Ruesch</persName>, lanndaman zu <placeName ref="lub-places-40">Rannkh
+<lb break="no" n="242"/>weül</placeName> und <placeName ref="lub-places-99">Sulz</placeName>, unnd <persName ref="lub-actors-1339">Lutz Zudrell</persName>, pawmaister
+<lb n="243"/>zu <placeName ref="lub-places-46">Bludentz</placeName> etc., nach unnser bessten verstendtnuß 
+<lb n="244"/>auszusprechen. Dieweyl aber nun die 
+<lb n="245"/>gemelten, unnsere zuegezognen, der vorge
+<lb break="no" n="246"/>melten erganngnen hanndlungen nit genuegsamen
+<lb n="247"/>bericht empfanngen, sonnder geursacht wurden, 
+<lb n="248"/>auf den augenschein zu kheren, wellihes sy 
+<lb n="249"/>ain tag gleich vor dato diß brieffs für
+<lb break="no" n="250"/>nambenndt, sich mit sambt dem edlen und vessten
+<lb n="251"/><persName ref="lub-actors-1340">Christoffen von Hausen</persName>, unserem lieben undt ge
+<lb break="no" n="252"/>threwen landtvogt im <placeName ref="lub-places-18">Cleggew</placeName>, so in unnserem
+<pb facs="lub-media-2327" n="12"/>
+<lb n="253"/>nahmen ahnn unnser statt geordnet war, 
+<lb n="254"/>auf den augennschein verfüegten, denselben 
+<lb n="255"/>aingenomben, auch ihre mundtliche und weiter 
+<lb n="256"/>fürgebrachte clag, anntwurth alles in vorgehender
+<lb break="no" n="257"/>massen unndt benanntlichen aber umb sovil
+<lb n="258"/>mehr, das die von <placeName ref="lub-places-1">Vaduz</placeName> undt <placeName ref="lub-places-53">Schaan</placeName> reden lassen, 
+<lb n="259"/>die weyll die pergleuth sy doch also gernn 
+<lb n="260"/>von gemelter gerechtigkhait abtrinngen 
+<lb n="261"/>unnd in daß gemelt guet <placeName ref="lub-places-368">Gambßwaldt</placeName> (da 
+<lb n="262"/>es inen bezallt und doch nit mehr, wie in 
+<lb n="263"/>den brieff unnd sigeln unngevarlich vermuetlich 
+<lb n="264"/>zuverstehen begriffen, an dem zinß abgohn und wol 
+<lb n="265"/>so baldt nit mehr, denn ann dem zinß abgohn zu lassen, 
+<lb n="266"/>gegeben werden solle) weysen wellen, deß sy 
+<lb n="267"/>doch verhoffen, sy weren inen nit mehr, dann der 
+<lb n="268"/>lehenn zinß erthragen mög, zubezahlen schuldig. 
+<lb n="269"/>Auch sy, die pergleuth, inen, den von <placeName ref="lub-places-1">Vaduz</placeName> unnd 
+<lb n="270"/><placeName ref="lub-places-53">Schaann</placeName>, alß dises guets lehennherrn, alß lehenns
+<lb break="no" n="271"/>leüth sonnsten ihren schaden zu wännden undt zu
+<lb n="272"/>warnnen und iren nuz zu fürderen von rechts unnd 
+<lb n="273"/>billigkhait wegen zuthuen schuldig weren, zu dem 
+<lb n="274"/>auch, daß solliches gueth eheender nit weder 
+<lb n="275"/>gemäet noch gehöwet solle werden, biß sy soliher
+<pb n="13"/>
+<lb n="276"/>noth fürüber, nit mehr gewertig wehren undt 
+<lb n="277"/>daß allso der <term ref="lub-keywords-362">pluemen</term> auf dem guet zu 
+<lb n="278"/>irer noth warten solte. Verhoffen diser ihr 
+<lb n="279"/>fürwanndt nothwendig, billich undt recht 
+<lb n="280"/>zu sein. Darüber die pergleuth 
+<lb n="281"/>iren antwurth geben, eß seye gleichwol 
+<lb n="282"/>wahr, daß sy sollich guet von inen vermüg 
+<lb n="283"/>lehen unnd spruchbrieffs zu lehen innhabennd, 
+<lb n="284"/>es geben aber die gemelten lehenn und spruch
+<lb break="no" n="285"/>brieff zue, daß sy mit demselben handlen,
+<lb n="286"/>schaffen, thuen unnd lassen sollen unnd mügen, wie 
+<lb n="287"/>innen gefellig unnd lieb sey. So sey auch wol 
+<lb n="288"/>vermuetlich, daß daß guet <placeName ref="lub-places-368">Gambßwaldt</placeName> 
+<lb n="289"/>zu derzeit, alß inen solliches zu lehen innhendig 
+<lb n="290"/>gemacht worden, nit ainn sollich sauber gueth ( 
+<lb n="291"/>wie es dann jezt vor augen), sonnder schlecht 
+<lb n="292"/>unnd rauch gewesen, welches sy dann 
+<lb n="293"/>mit ihrer herten unnd schweren arbait gezembt 
+<lb n="294"/>unnd gebesseret. Unnd so sy daselbs die schne
+<lb break="no" n="295"/>flucht besuechen unnd nit, nachdem sich der schaden
+<lb n="296"/>erfunde, ihnen abtrag widerfahren solte, 
+<lb n="297"/>sonnder nur allain an dem lehenzinß abgezogen 
+<lb n="298"/>werden, hetten sy ihren herte ahrbait 
+<lb n="299"/>schlechtennlich angelegt, so es doch vor gott 
+<pb facs="lub-media-2328" n="14"/>
+<lb n="300"/>unnd menigklichen billich unnd recht, jhe 
+<lb n="301"/>nachdem sich ain schaden erfinde, daß umb 
+<lb n="302"/>denselben billiche bezahlung erstattet werde. 
+<lb n="303"/>So werden auch ann annderen orthen alle lehengüeter 
+<lb n="304"/>genuzt, gebraucht unnd zu rechter und gueter zeit 
+<lb n="305"/>der <term ref="lub-keywords-362">pluemmen</term> darvon genomben, wie sy auch 
+<lb n="306"/>thonn habenn. Seyen auch dessen befuegt gewesen, 
+<lb n="307"/>darumben sy dann den aufgelegten järlichen 
+<lb n="308"/>lehennzinß geraicht unndt gegeben, deshalben 
+<lb n="309"/>ihr verthrawen, bey disem irem recht
+<lb break="no" n="310"/>messigen füergeben gehanndthabt, geschuzt
+<lb n="311"/>unnd geschirmbt zuwerden. 
+<lb n="312"/>Unnd nach genuegsamer anhörung dessen alles 
+<lb n="313"/>unndt fürgelegten verleßnen brieffs unndt 
+<lb n="314"/>siglen haben sy, die zuegezognen, unnß 
+<lb n="315"/>der sachen besstes vleiß unnderthenigkhlichen 
+<lb n="316"/>bericht. Wie wier unnß aber berat
+<lb break="no" n="317"/>schlagten unnd unnß für besser ansache
+<lb n="318"/>ahn sy baid thail zu begeren, sollihe ire 
+<lb n="319"/>speenn güetlich unnd ohne rechtlichs auß
+<lb break="no" n="320"/>sprechen, doch zu offner hanndt, vertragen
+<lb n="321"/>zu lassen, desselben sich gleichwol die 
+<lb n="322"/>pergleuth höchlich verwiderten der uhrsachen, 
+<lb n="323"/>daß sy von iren gemainden unndt napbauren
+<pb n="15"/>
+<lb n="324"/>khainen annderen bevelch, weder mehr zubegehren 
+<lb n="325"/>noch hinzulassen, dann allain der uhrtl zu erwarten, 
+<lb n="326"/>unnd haben dessen enntlichen nit macht. Aber 
+<lb n="327"/>unnanngesehen sollicher uhrsachen, dieweyl wier 
+<lb n="328"/>allß iren ordennliche oberkhait soliches begerend, 
+<lb n="329"/>seyen sy inn hoffnung, wier werden inen nichts 
+<lb n="330"/>desster weniger umb gnedige mitl verhilflich 
+<lb n="331"/>sein unnd bey dem ihrigen alß arme leuth 
+<lb n="332"/>unnd gethrewe unnderthonen gnedigkhlichenn 
+<lb n="333"/>schutzen unnd schirmen. Darauf haben wier 
+<lb n="334"/>die rechtlich erkhanntnuß eingestellt 
+<lb n="335"/>unndt mit sambt denn zuegezognen etlihe mitl 
+<lb n="336"/>für unnß genomben, so wier alsbaldt in 
+<lb n="337"/>schrifft verfassen unnd inen baiden thailen 
+<lb n="338"/>fürlesen lassen, so allso lautenndt: 
+<lb n="339"/>Erstlichen, das alle spenn, stöß unnd unnwill, 
+<lb n="340"/>so dahör lanngennd, zwischen den benachparten 
+<lb n="341"/>gemainden <placeName ref="lub-places-1">Vaduz</placeName>, <placeName ref="lub-places-53">Schaan</placeName> unnd <placeName ref="lub-places-41">Thrysnerberg</placeName> 
+<lb n="342"/>tod, ab unnd khain thaill solliches dem annderen 
+<lb n="343"/>in unnfreünndtschafft oder unnguetem nümmermehr 
+<lb n="344"/>gedennkhen soll, sonnder jederzeit in lieb unnd 
+<lb n="345"/>laid ainannderen beystenndig beholffen unndt be
+<lb break="no" n="346"/>rathen sein. Zum annderem,
+<pb facs="lub-media-2329" n="16"/>
+<lb n="347"/>so die von <placeName ref="lub-places-1">Vadutz</placeName> unndt <placeName ref="lub-places-53">Schaan</placeName> auß iren jezt 
+<lb n="348"/>habennden drey allpen, alß benanntlichen <placeName ref="lub-places-132">Grytsch</placeName>, 
+<lb n="349"/><placeName ref="lub-places-42">Melbunn</placeName> unnd <placeName ref="lub-places-369">Guschg</placeName>, schneeß unndt weters 
+<lb n="350"/>halben samentlich oder sonnders mit ihrem 
+<lb n="351"/>vych weichen miessten unnd zu schneefluchten 
+<lb n="352"/>vonnöthen sein wurden, daß sy alsdann ver
+<lb break="no" n="353"/>mög vom vorigen richter, aman <persName ref="lub-actors-1340">Enngstler</persName>, er
+<lb break="no" n="354"/>ganngnen urthl, die da weisst, zwischenn
+<lb n="355"/>dem gueth <placeName ref="lub-places-368">Gambswaldt</placeName> unnd <placeName ref="lub-places-539">Stossen 
+<lb n="356"/>Prunnen</placeName> gegen dem perg <placeName ref="lub-places-543">Staviniel</placeName> und gegenn 
+<lb n="357"/>pach daselbsten woll schneeflucht besuechen 
+<lb n="358"/>unnd etzenn sollen unnd mögen, bey demselben 
+<lb n="359"/>es auch bleiben solle. Zum 3., im 
+<lb n="360"/>fahll aber die noth dermassen verhannden, das 
+<lb n="361"/>sich das vych daselbs, wie obsteet, nit mehr 
+<lb n="362"/>behelffen khönndte unnd auch nit wider 
+<lb n="363"/>hinder sich sambt oder sonnders auf die gemelten 
+<lb n="364"/>ire alpen khomen möchten, daß sy als
+<lb break="no" n="365"/>dann baß hinauß über deß <placeName ref="lub-places-539">Stossen Prunnen</placeName>
+<lb n="366"/>fahren unnd ain tag daselbs bleiben und etzen 
+<lb n="367"/>söllen unnd mögen, doch strichßweiß zum 
+<lb n="368"/>minsten schaden, unnd zimliche notturfft brauchen. 
+<lb n="369"/>Unndt nit allain, so sy in ainen summer sollihe schnefluht ainmall
+<pb n="17"/>
+<lb n="370"/>besuecht hetten, denselben summer dannen gewisen 
+<lb n="371"/>sein sollten, sonnder sollen unnd mögen, so  
+<lb n="372"/>offt es gehörtermassen den summer vonnöthen sein 
+<lb n="373"/>wurde unnd die notturfft ervorderte, sy 
+<lb n="374"/>von <placeName ref="lub-places-53">Schaan</placeName> unnd von <placeName ref="lub-places-1">Vaduz</placeName> allwegen sollihe 
+<lb n="375"/>schneflucht erstlichs biß zu des <placeName ref="lub-places-539">Stossen 
+<lb n="376"/>Brunnen</placeName> unnd, so sy sich daselbs, wie vorsteet, 
+<lb n="377"/>nit mehr behelffen unnd auch nit wider auff 
+<lb n="378"/>ihre alpen fahren unnd khomen möchten, 
+<lb n="379"/>alsdann ain tag hinauß unnd über des <placeName ref="lub-places-539">Stossen Prunnen</placeName> 
+<lb n="380"/>fahren, etzen unnd prauchen sollen mit be
+<lb break="no" n="381"/>schaidenhait unnd minsten schaden, inmassen
+<lb n="382"/>vorsteeth. Zum 4., 
+<lb n="383"/>so dann die gemellten von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> die 
+<lb n="384"/>schneeflucht, wie vorgemellt, besuechen 
+<lb n="385"/>müesten unnd mit ihrem vych an die bestimbten 
+<lb n="386"/>orth fahren thetten, sollen sy, so baldt sy wider
+<lb break="no" n="387"/>umb dem schnee nach hindersich auf ihre alpen,
+<lb n="388"/>samentlich oder sonnders, khomen unndt fahren 
+<lb n="389"/>mögen, dannen zuweihen unnd weeg zufahren 
+<lb n="390"/>schuldig sein. Zum 5., wan 
+<lb n="391"/>sich nun solliche dermassen notturfft einrisse, 
+<lb n="392"/>daß die gemellten von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> den 
+<pb facs="lub-media-2330" n="18"/>
+<lb n="393"/>summer ainß oder mehrmall die schneeflucht 
+<lb n="394"/>ainen tag über deß <placeName ref="lub-places-539">Stossen Prunnen</placeName> hinauß be
+<lb break="no" n="395"/>suechten unnd denselben ganzen tag daselbs
+<lb n="396"/>verharren müesten, sollen sy doch, die von 
+<lb n="397"/><placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName>, alsdann allwegen nach auß
+<lb break="no" n="398"/>ganng desselben tags, sy mögen gleich in ihre
+<lb n="399"/>allpen khomen oder nit, dannen zu fahren unnd 
+<lb n="400"/>abzuweychen schuldig sein. Doch sover sy 
+<lb n="401"/>vonn <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> nach ausganng solihes 
+<lb n="402"/>tags aussert deß <placeName ref="lub-places-539">Stossen Brunnen</placeName> nit in ire 
+<lb n="403"/>alpen khomen unnd fahren möchten, sollen und mögen sy 
+<lb n="404"/>alsdann mit ihrem vych in daß eingezeünte guet 
+<lb n="405"/><placeName ref="lub-places-368">Gambßwaldt</placeName> vermög brieff unnd sigl, es 
+<lb n="406"/>sye gemäeth oder nit, fahren undt daselbß 
+<lb n="407"/>ihr nottürfftige schneflucht besuechen. Doch 
+<lb n="408"/>soll enntgegen inen, den pergleuthen, umb solliher 
+<lb n="409"/>niessung willen nach unnparteyscher biderwerleuthen 
+<lb n="410"/>erkhanntnuß, so hoch sich der schaden erfünndt, 
+<lb n="411"/>bezahlung unnd abtrag darumben beschechen. 
+<lb n="412"/>Unnd so es der lehennzinß, denn die pergleuth 
+<lb n="413"/>denen von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> järlich zu geben 
+<lb n="414"/>schuldig, ertragen möchte, solle es, nach 
+<lb n="415"/>dem der tax durch die unnparteyschen leuth gemacht,
+<pb n="19"/>
+<lb n="416"/>darann abzogen werden. Befennde sich aber 
+<lb n="417"/>solliher tax umb vill oder wenig mehr unnd 
+<lb n="418"/>höcher, sollen volgenndts sy von <placeName ref="lub-places-1">Vadutz</placeName> unndt 
+<lb n="419"/><placeName ref="lub-places-53">Schaan</placeName> selbiges darauff zuerstatten unnd 
+<lb n="420"/>zubezahlen schuldig sein. Zum 
+<lb n="421"/>6. solle auch den pergleuthen zuge
+<lb break="no" n="422"/>lassen sein unndt bey ihrem gueten willen ston,
+<lb n="423"/>daß sy sollen und mögen, wann es inen gelegen ist, 
+<lb n="424"/>daß gemelt eingezeünt guet <placeName ref="lub-places-368">Gambßwald</placeName> mäenn, 
+<lb n="425"/>hawen, ohne verhindert deren <placeName ref="lub-places-1">von Vadutz</placeName> 
+<lb n="426"/>unnd <placeName ref="lub-places-53">Schaan</placeName> unnd menigkhlichß. Zum 
+<lb n="427"/>7., sovil die thaylung deß waldts in 
+<lb n="428"/>herr Wolffhart von Branndeß brieff an
+<lb break="no" n="429"/>gezogen betrüfft, solle es bey derselben
+<lb n="430"/>thaylung, doch ohne schmelerung obgemelter 
+<lb n="431"/>gemittelten sachen, verpleiben. Waß 
+<lb n="432"/>aber sonnsten der pergleuthen lehenbrieflin, 
+<lb n="433"/>auch zween brieff, unnder <persName ref="lub-actors-1335">Ulrichen dem aman 
+<lb n="434"/>von der Lachen</persName> unnd zwen brieff unnder herr 
+<lb n="435"/>Wolffharten von Brandiß, deren jetweder 
+<lb n="436"/>thaill zwen beyhannden, aufgericht, umb die 
+<lb n="437"/>darinnen verleibte lehenn zinß oder anndere ge
+<lb break="no" n="438"/>rechtigkhaiten unndt puncten über die obgemellten
+<pb facs="lub-media-2331" n="20"/>
+<lb n="439"/>gemittelten unnd erkhlärten sachen innhaltennd 
+<lb n="440"/>unnd außweisendt, söllen dieselben bey ihren 
+<lb n="441"/>würden unnd crefften bleiben. Zum 8. 
+<lb n="442"/>unndt letsten, ob gleichwol in herr Wolfharten 
+<lb n="443"/>von Brandiß vertrags brieff aigenntlich 
+<lb n="444"/>begriffen unnd anngehenkht, wellicher 
+<lb n="445"/>thaill denn vor erganngnen und demselbigen 
+<lb n="446"/>vertrag brieff unnd sigl zuwider hanndlen 
+<lb n="447"/>wurde, daß der widerwertig unnd verlurstig 
+<lb n="448"/>thaill der herrschafft zu pueß, nemblich 
+<lb n="449"/>ainhundert pfundt pfening unnachläßlicher 
+<lb n="450"/>straff, zu bezahlen verfallen sein solle, 
+<lb n="451"/>welliche straff wier aber aus uhrsachen, 
+<lb n="452"/>daß sie sich allso güetlich veräunigen unnd 
+<lb n="453"/>vertragen, eingestellt unnd auß gnaden 
+<lb n="454"/>erlassen. Wier sezen, maynen 
+<lb n="455"/>unnd wellen aber, waver zuekhünnfftigen 
+<lb n="456"/>zeyten disem vertrag oder anderenn vorgeenden 
+<lb n="457"/>brieff unnd sigln von ainem oder dem anderen 
+<lb n="458"/>thaill zuwider gehanndlet unnd gethonn 
+<lb n="459"/>würde, alß offt daß gescheche, das der
+<lb break="no" n="460"/>selbig widerwertig unnd verlurstige thaill
+<lb n="461"/>unnss oder unnseren erben unnd nachkhomen
+<pb n="21"/>
+<lb n="462"/>ainhundert pfund pfenning zu straff unndt 
+<lb n="463"/>pueß verfallen unnd zubezahlen schuldig sein solle, 
+<lb n="464"/>cössten unnd schäden halben unvonnöthen zuver
+<lb break="no" n="465"/>melden. Auf sollihes alles auf
+<lb n="466"/>annhörunng baider partheyen dises unnsers güet
+<lb break="no" n="467"/>lichen spruchs unndt entschaids haben erstgemelte
+<lb n="468"/>von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schaan</placeName> gemaind volkhomne auß
+<lb break="no" n="469"/>schüß, wie die hievornnen mit iren namen
+<lb n="470"/>benennt, an ainem, unnd die ab denn <placeName ref="lub-places-41">Trisner
+<lb break="no" n="471"/>berg</placeName> auch durch ihre volkhomne ausschuß, so
+<lb n="472"/>hievornnen mit iren namben benennt, zu under
+<lb break="no" n="473"/>thenigem dankh angenomben unnd zu
+<lb n="474"/>bevesstigung vorgemeltem unserem landt
+<lb break="no" n="475"/>vogt in <placeName ref="lub-places-18">Cleggew</placeName> für sy, ire erben unnd nach
+<lb break="no" n="476"/>khomen mit mund unnd handen zuegesagt
+<lb n="477"/>unnd versprochen, wahr, vesst, steeth und 
+<lb n="478"/>unverprechenlich zu halten, darwider 
+<lb n="479"/>nümermehr zethuen, dessen zethuen ge
+<lb break="no" n="480"/>statten noch schaffen gethon ze werdenn
+<lb n="481"/>in khain weiß noch weeg, alleß 
+<lb n="482"/>bey ihren wahren unnd guten threwen, 
+<lb n="483"/>ahn argelisst, sonder geverde. Dem 
+<lb n="484"/>allem nach paten unnd begerten vorgenante 
+<lb n="485"/>von <placeName ref="lub-places-1">Vadutz</placeName> undt <placeName ref="lub-places-53">Schaan</placeName> volkhomne ausschuß 
+<pb facs="lub-media-2332" n="22"/>
+<lb n="486"/>unnderthenigkhlichen, ihnen dises unnsers 
+<lb n="487"/>güettigen spruchss unnd erganngnen 
+<lb n="488"/>hanndels brieff unnd sigl gnedigkhlichen 
+<lb n="489"/>mit zuthailen, dessen wier unnß gnedig
+<lb break="no" n="490"/>khlichen bewilligen thetten. Und darauff
+<lb n="491"/>zuverrichtung der sachen haben wier ganzen 
+<lb n="492"/>erganngnen handlß ainen brieff fertigen 
+<lb n="493"/>unnd zu uhrkhundt unnsern anngeborn insigl 
+<lb n="494"/>darann hennkhen lassen, danneben unnß auch 
+<lb n="495"/>mit aignen hannden unnderschriben (doch unß, 
+<lb n="496"/>unnseren erben unnd nachkhomen an unnser 
+<lb n="497"/>ober- unnd herrlich recht unnd gerechtig
+<lb break="no" n="498"/>khaiten in allweg ohn schaden), unnd
+<lb n="499"/>geben den <origDate>syben und zwainzigisten tag des 
+<lb n="500"/>monats septembris nach Christi, unnsers 
+<lb n="501"/>lieben herrn unnd seeligmachers, gepurt gezelt 
+  <lb n="502"/>funffzehenhundert neun und sechzig jahr</origDate>. 
+</p>
+        <p><lb n="503"/>Abgeschriben unnd collationiert durch mich 
+  <lb n="504"/><persName ref="lub-actors-934">Hieronymen Zürchern</persName>, der zeit landtschreibern der 
+  <lb n="505"/>graf- und herrschafften <placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>, 
+  <lb n="506"/>den <date when="1617-08-20">20ten augusti 1617</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

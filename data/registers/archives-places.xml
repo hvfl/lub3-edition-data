@@ -9,7 +9,7 @@
         <edition>Liechtensteinisches Urkundenbuch 3 (LUB 3)</edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>lub</publisher>
+        <publisher>https://lub.anton.ch</publisher>
         <pubPlace>Schaan, Liechtenstein</pubPlace>
         <date when="2024">2024</date>
         <availability>
@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-15 19:10:07 aus </p>
+        <p>Datenbankexport vom 2024-10-18 16:16:36 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1103,6 +1103,21 @@
             </location>
             <idno type="lub-places-id">118</idno>
           </place>
+          <place type="T" xml:id="lub-places-119">
+            <placeName type="main" xml:lang="de">Rutzen</placeName>
+            <placeName type="full" xml:lang="de">Rutzen / Eschen oder Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">rutzen</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen oder Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">119</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden) \("Ruzen")</note>
+            <note type="description" xml:lang="de">
+              <p>Nicht lokalisierbar, wohl am Nendler Berg</p>
+            </note>
+          </place>
           <place type="A" xml:id="lub-places-120">
             <placeName type="main" xml:lang="de">Burgund</placeName>
             <placeName type="full" xml:lang="de">Burgund</placeName>
@@ -1239,6 +1254,21 @@
             <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
             <note type="description" xml:lang="de">
               <p>Alp östlich über der Alp Valüna (Triesen), erstreckt sich vom Naafkopf bis zum Vaduzer Hahnenspiel. Zur Alpgenossenschaft gehören die Alpen Gritsch und Mittlervalorsch.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-133">
+            <placeName type="main" xml:lang="de">Valüna</placeName>
+            <placeName type="full" xml:lang="de">Valüna / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">valuena</placeName>
+            <location>
+              <settlement xml:lang="de">Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">133</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Alp im südlichen, hinteren Teil des Saminatals.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-134">
@@ -3534,6 +3564,51 @@ SchäU 35 im Jahr 1518.</note>
               <p>Unbekannt. Nördlich des Dorfes, westlich der Au (1).</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-367">
+            <placeName type="main" xml:lang="de">Horlaubena</placeName>
+            <placeName type="full" xml:lang="de">Horlaubena / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">horlaubena</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">367</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Nicht lokalisiert.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-368">
+            <placeName type="main" xml:lang="de">Gamswald</placeName>
+            <placeName type="full" xml:lang="de">Gamswald / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">gamswald</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">368</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Wald im Hochtal Malbun, nordwestlich unterhalb des Gamsgrads.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-369">
+            <placeName type="main" xml:lang="de">Guschg</placeName>
+            <placeName type="full" xml:lang="de">Guschg / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">guschg</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">369</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Alp am Fusse des Schönbergs. Zur Alpgenossenschaft gehören die Alpen Guschg, Stachler und Vordervalorsch.</p>
+            </note>
+          </place>
           <place type="R" xml:id="lub-places-371">
             <placeName type="main" xml:lang="de">Fina</placeName>
             <placeName type="full" xml:lang="de">Fina / Schaan</placeName>
@@ -5413,6 +5488,122 @@ SchäU 35 im Jahr 1518.</note>
               <p>Unbekannt. An der Grenze zu Frastanz gelegen.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-538">
+            <placeName type="main" xml:lang="de">Guschgertobel</placeName>
+            <placeName type="full" xml:lang="de">Guschgertobel / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">guschgertobel</placeName>
+            <placeName type="alternative" xml:lang="de">Guschgerthobl</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">538</idno>
+            <note type="sources">[Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Nicht sicher lokalisierbar, möglicherweise Grenze zwischen Bärgi (Triesenberg) und Stachler.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-539">
+            <placeName type="main" xml:lang="de">Stossen Brunnen</placeName>
+            <placeName type="full" xml:lang="de">Stossen Brunnen</placeName>
+            <placeName type="sort" xml:lang="de">stossen brunnen</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">539</idno>
+            <note type="description" xml:lang="de">
+              <p>Nicht im Namenbuch.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-540">
+            <placeName type="main" xml:lang="de">Schädlersboden</placeName>
+            <placeName type="full" xml:lang="de">Schädlersboden / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">schaedlersboden</placeName>
+            <placeName type="alternative" xml:lang="de">Schedlers Bodenn</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">540</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Namenbuch</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Umfasste vermutlich das heutige Gebiet Chleistäg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-541">
+            <placeName type="main" xml:lang="de">Düraboda</placeName>
+            <placeName type="full" xml:lang="de">Düraboda / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">dueraboda</placeName>
+            <placeName type="alternative" xml:lang="de">Dürrenboden</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">541</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Namenbuch</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Weidhang auf der Alp Sücka, nördlich des Dürabodawalds. Umfasst die Gebiete Obera Düraboda und Undera Düraboda.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-542">
+            <placeName type="main" xml:lang="de">Gatter, beim</placeName>
+            <placeName type="full" xml:lang="de">Gatter, beim / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">gatter, beim</placeName>
+            <location>
+              <settlement xml:lang="de">Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">542</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Namenbuch</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Im Gebiet Valüna.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-543">
+            <placeName type="main" xml:lang="de">Stafiniel</placeName>
+            <placeName type="full" xml:lang="de">Stafiniel / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">stafiniel</placeName>
+            <placeName type="alternative" xml:lang="de">Staviniel</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">543</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Namenbuch</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Alp östlich oberhalb von Steg. Örtlich identisch mit Bärgi.</p>
+            </note>
+          </place>
           <place type="V" xml:id="lub-places-545">
             <placeName type="main" xml:lang="de">Äuli</placeName>
             <placeName type="full" xml:lang="de">Äuli / Vaduz</placeName>
@@ -6065,6 +6256,151 @@ SchäU 35 im Jahr 1518.</note>
               <p>Wiesenmulde im Gebiet Masescha, westlich unterhalb des Gebiets Marchamguad, oberhalb der Strasse; teilweise bewaldet.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-587">
+            <placeName type="main" xml:lang="de">Tüftobel</placeName>
+            <placeName type="full" xml:lang="de">Tüftobel / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">tueftobel</placeName>
+            <placeName type="alternative" xml:lang="de">Teufdobel</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">587</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Tiefer Berggraben im Stachler, mündet in den Malbunbach.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-588">
+            <placeName type="main" xml:lang="de">Zaunegg</placeName>
+            <placeName type="full" xml:lang="de">Zaunegg / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">zaunegg</placeName>
+            <placeName type="alternative" xml:lang="de">Zaunsegg</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">588</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Auf der Alp Malbun, an der Gemeindegrenze zu Triesenberg.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-590">
+            <placeName type="main" xml:lang="de">Schlucher</placeName>
+            <placeName type="full" xml:lang="de">Schlucher</placeName>
+            <placeName type="sort" xml:lang="de">schlucher</placeName>
+            <placeName type="alternative" xml:lang="de">Schluchenbach</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">590</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Berghang und Bach im Malbun, südwestlich unterhalb des Gamsgrads, steil, felsig.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-591">
+            <placeName type="main" xml:lang="de">Schluach</placeName>
+            <placeName type="full" xml:lang="de">Schluach</placeName>
+            <placeName type="sort" xml:lang="de">schluach</placeName>
+            <placeName type="alternative" xml:lang="de">Schluoch</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">591</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref> (Schluch&lt;sup&gt;2&lt;/sup&gt;)</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Im Hochtal Malbun; lokaler Zusammenhang mit Schlucher ist sehr wahrscheinlich.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-592">
+            <placeName type="main" xml:lang="de">Flua</placeName>
+            <placeName type="full" xml:lang="de">Flua / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">flua</placeName>
+            <placeName type="alternative" xml:lang="de">Fluoch</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">592</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Weidhang im Hochtal Malbun, an der Grenze zu Sass (Schaan), östlich oberhalb des Tschugga, teilweise flach.</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-593">
+            <placeName type="main" xml:lang="de">Schluchenbrunnen</placeName>
+            <placeName type="full" xml:lang="de">Schluchenbrunnen / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">schluchenbrunnen</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">593</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Im Hochtal Malbun, vermutlich auf dem Schlucher.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-594">
+            <placeName type="main" xml:lang="de">Täli</placeName>
+            <placeName type="full" xml:lang="de">Täli / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">taeli</placeName>
+            <placeName type="alternative" xml:lang="de">Vadutzer Thäli</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">594</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Weide auf der Alp Pradamee, im südwestlichen Teil der Alp, von Kuppen und Runsen durchzogen.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-595">
+            <placeName type="main" xml:lang="de">Heita</placeName>
+            <placeName type="full" xml:lang="de">Heita / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">heita</placeName>
+            <placeName type="alternative" xml:lang="de">Heyte</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">595</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Wieshang im Hochtal Malbun, westlich des Milbunerbach, südlich der Büala, an der Gemeindegrenze zu Vaduz.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-596">
+            <placeName type="main" xml:lang="de">Stafel</placeName>
+            <placeName type="full" xml:lang="de">Stafel / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">stafel</placeName>
+            <placeName type="alternative" xml:lang="de">Stafil</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">596</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden) (Stafel&lt;sup&gt;2&lt;/sup&gt;).</note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen im Hochtal Malbun, westlich des Milbunerbachs, zwischen Büala und Rüfi.</p>
+            </note>
+          </place>
           <place type="V" xml:id="lub-places-605">
             <placeName type="main" xml:lang="de">Lumser</placeName>
             <placeName type="full" xml:lang="de">Lumser / Ruggell</placeName>
@@ -6157,6 +6493,54 @@ SchäU 35 im Jahr 1518.</note>
               <p>Herrschaft rund um die Burg Untermettingen. Vom 16. Jahrhundert bis 1610 im Besitz der Grafen von Sulz.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-609">
+            <placeName type="main" xml:lang="de">Bomres</placeName>
+            <placeName type="full" xml:lang="de">Bomres / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">bomres</placeName>
+            <placeName type="alternative" xml:lang="de">Pom Riß</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">609</idno>
+            <note type="sources">[Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-610">
+            <placeName type="main" xml:lang="de">Höres</placeName>
+            <placeName type="full" xml:lang="de">Höres / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">hoeres</placeName>
+            <placeName type="alternative" xml:lang="de">Hew Riß</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">610</idno>
+            <note type="sources">[Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Runse am Nendler Berg, vom Mösleberg zum Rüttiwald abfallend, grenzt an den Wuerwald (Eschen).</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-611">
+            <placeName type="main" xml:lang="de">Erlabach</placeName>
+            <placeName type="full" xml:lang="de">Erlabach / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">erlabach</placeName>
+            <placeName type="alternative" xml:lang="de">Eerlapach</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">611</idno>
+            <note type="sources">[Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Wasserlauf südöstlich des Dorfes Eschen, im Riet, verläuft vom Ziegelmad in Nendeln nordwestlich nach Eschen, mündet beim Belzeböchel in die Esche.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -6204,7 +6588,7 @@ SchäU 35 im Jahr 1518.</note>
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-10-15T19:10:08+02:00">teiHeader was automatically produced from the database 2024-10-15T19:10:08+02:00</change>
+      <change when="2024-10-18T16:16:38+02:00">teiHeader was automatically produced from the database 2024-10-18T16:16:38+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
