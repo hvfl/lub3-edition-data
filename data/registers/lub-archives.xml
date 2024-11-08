@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-actors">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liechtensteinisches Urkundenbuch 3 (LUB 3)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Liechtensteinisches Urkundenbuch 3 (LUB 3)</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>https://lub.anton.ch</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Datenbankexport vom 2024-11-08T14:35:22+01:00 aus https://lub.anton.ch</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listOrg>
+          <head>Archive</head>
+                    <org xml:id="li-la">
+            <orgName xml:lang="de">Liechtensteinisches Landesarchiv, Vaduz</orgName>
+            <abbr>LI-LA</abbr>
+          </org>
+                    <org xml:id="de-ffa-donaueschingen">
+            <orgName xml:lang="de">Grafen von Sulz</orgName>
+            <abbr>DE-FFA Donaueschingen</abbr>
+          </org>
+                    <org xml:id="at-vla">
+            <orgName xml:lang="de">Vorarlberger Landesarchiv, Bregenz</orgName>
+            <abbr>AT-VLA</abbr>
+          </org>
+                    <org xml:id="at-hal">
+            <orgName xml:lang="de">Hausarchiv der Fürsten von Liechtenstein</orgName>
+            <abbr>AT-HAL</abbr>
+          </org>
+                    <org xml:id="at-tla">
+            <orgName xml:lang="de">Tiroler Landesarchiv</orgName>
+            <abbr>AT-TLA</abbr>
+          </org>
+                    <org xml:id="cz-soat">
+            <orgName xml:lang="de">Státní oblastní archív Třeboň</orgName>
+            <abbr>CZ-SOAT</abbr>
+          </org>
+                    <org xml:id="at-osta">
+            <orgName xml:lang="de">Österreichisches Staatsarchiv</orgName>
+            <abbr>AT-ÖStA</abbr>
+          </org>
+                    <org xml:id="li-gae">
+            <orgName xml:lang="de">Gemeindearchiv Eschen</orgName>
+            <abbr>LI-GAE</abbr>
+          </org>
+                    <org xml:id="li-gag">
+            <orgName xml:lang="de">Gemeindearchiv Gamprin</orgName>
+            <abbr>LI-GAG</abbr>
+          </org>
+                    <org xml:id="li-gap">
+            <orgName xml:lang="de">Gemeindearchiv Planken</orgName>
+            <abbr>LI-GAP</abbr>
+          </org>
+                    <org xml:id="li-gar">
+            <orgName xml:lang="de">Gemeindearchiv Ruggell</orgName>
+            <abbr>LI-GAR</abbr>
+          </org>
+                    <org xml:id="li-gas">
+            <orgName xml:lang="de">Gemeindearchiv Schaan</orgName>
+            <abbr>LI-GAS</abbr>
+          </org>
+                    <org xml:id="li-gatb">
+            <orgName xml:lang="de">Gemeindearchiv Triesenberg</orgName>
+            <abbr>LI-GATb</abbr>
+          </org>
+                    <org xml:id="ch-stasg">
+            <orgName xml:lang="de">Staatsarchiv St. Gallen</orgName>
+            <abbr>CH-StASG</abbr>
+          </org>
+                    <org xml:id="li-aav">
+            <orgName xml:lang="de">Alparchiv Vaduz</orgName>
+            <abbr>LI-AAV</abbr>
+          </org>
+                    <org xml:id="at-gaf">
+            <orgName xml:lang="de">Gemeindearchiv Frastanz</orgName>
+            <abbr>AT-GAF</abbr>
+          </org>
+                  </listOrg>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-11-08T14:35:22+01:00">teiHeader was automatically produced by get-anton-data.sh 2024-11-08T14:35:22+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>
