@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-18 16:16:39 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-08 10:44:08 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-10-18T16:16:39+02:00">teiHeader was automatically produced from the database 2024-10-18T16:16:39+02:00</change>
+      <change when="2024-11-08T10:44:08+01:00">teiHeader was automatically produced from the database 2024-11-08T10:44:08+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1026,6 +1026,26 @@
               </bibl>
             </listBibl>
           </note>
+        </item>
+        <item xml:id="lub-keywords-381">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Zaunstelle</label>
+          <label xml:lang="de" type="sort">zaunstelle</label>
+          <note type="description" xml:lang="de">
+            <p>Linie, auf der ein Zaun steht oder einer stehen soll.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Idiotikon](https://digital.idiotikon.ch/idtkn/id11.htm#!page/110067/mode/1up)</note>
+        </item>
+        <item xml:id="lub-keywords-382">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Käner</label>
+          <label xml:lang="de" type="sort">kaener</label>
+          <note type="description" xml:lang="de">
+            <p>Wasserleitungsrinne; rinnenförmige Bodensenkung (im Gebirge)</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
         </item>
         <item xml:id="lub-keywords-383">
           <objectType xml:lang="de">Quellenbegriff</objectType>

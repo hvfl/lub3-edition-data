@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-18 16:16:32 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-08 10:44:03 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1464,6 +1464,15 @@
               <p>Von Schönäbüel, Eschen. 1516 Urteilssprecher am Gericht am Eschnerberg.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-223">
+            <persName type="full" xml:lang="de">Gabriel, Marx (1578–)</persName>
+            <persName type="main" xml:lang="de">Gabriel, Marx</persName>
+            <persName type="sort" xml:lang="de">gabriel, marx</persName>
+            <birth when="1578-07-15"/>
+            <note type="description" xml:lang="de">
+              <p>Untervogt der Herrschaft Blumenegg.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-224">
             <persName type="full" xml:lang="de">Graf, Christmann (1596–)</persName>
             <persName type="main" xml:lang="de">Graf, Christmann</persName>
@@ -1562,6 +1571,14 @@
               <p>1589 Pfleger der Frühmesspfründe in Schaan. 1623-1626 Landammann der Grafschaft Vaduz.</p>
             </note>
             <note type="sources">[HLFL](https://historisches-lexikon.li/B%C3%BCrkli,_Georg_(J%C3%B6rg)_(erw%C3%A4hnt_1600_bis_23.4.1626))</note>
+          </person>
+          <person xml:id="lub-actors-233">
+            <persName type="full" xml:lang="de">Brandis, Sigmund I. von (1444–1493)</persName>
+            <persName type="main" xml:lang="de">Brandis, Sigmund I. von</persName>
+            <persName type="sort" xml:lang="de">brandis, sigmund i. von</persName>
+            <birth when="1444"/>
+            <death when="1493"/>
+            <note type="sources">[HLFL](https://historisches-lexikon.li/Brandis,_Sigmund_I._von)</note>
           </person>
           <person xml:id="lub-actors-234">
             <persName type="full" xml:lang="de">Tschol, Hans (1) (1501–1516)</persName>
@@ -4017,6 +4034,7 @@
             <persName type="full" xml:lang="de">Ramschwag, Hector von (1569–1602)</persName>
             <persName type="main" xml:lang="de">Ramschwag, Hector von</persName>
             <persName type="sort" xml:lang="de">ramschwag, hector von</persName>
+            <persName type="alternative" xml:lang="de">Ramschwag, Hektor von</persName>
             <birth when="1569"/>
             <death when="1602"/>
             <note type="description" xml:lang="de">
@@ -4762,12 +4780,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-755">
-            <persName type="full" xml:lang="de">Kaufmann, Lienhart (1565–)</persName>
+            <persName type="full" xml:lang="de">Kaufmann, Lienhart (1559–1565)</persName>
             <persName type="main" xml:lang="de">Kaufmann, Lienhart</persName>
             <persName type="sort" xml:lang="de">kaufmann, lienhart</persName>
-            <birth when="1565-11-11"/>
+            <persName type="alternative" xml:lang="de">Kaufmann, Leonhard</persName>
+            <birth when="1559-07-27"/>
+            <death when="1565-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer eines Guts in Balzers.</p>
+              <p>Besitzer eines Guts in Balzers, wohnhaft in Triesenberg</p>
             </note>
           </person>
           <person xml:id="lub-actors-756">
@@ -10474,7 +10494,7 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-10-18T16:16:33+02:00">teiHeader was automatically produced from the database 2024-10-18T16:16:33+02:00</change>
+      <change when="2024-11-08T10:44:05+01:00">teiHeader was automatically produced from the database 2024-11-08T10:44:05+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

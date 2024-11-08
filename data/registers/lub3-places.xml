@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-18 16:16:36 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-08 10:44:06 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1209,6 +1209,27 @@
             <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
             <note type="description" xml:lang="de">
               <p>Unbekannt. Vermutlich teilweise örtlich identisch mit Alpzinka.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-127">
+            <placeName type="main" xml:lang="de">Hanaböda</placeName>
+            <placeName type="full" xml:lang="de">Hanaböda / Planken/Eschen</placeName>
+            <placeName type="sort" xml:lang="de">hanaboeda</placeName>
+            <location>
+              <geo>47.19022 9.56399</geo>
+              <settlement xml:lang="de">Planken/Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">127</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10356685"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Hanaböda (1), Planken: Weidhang mit Alphütte nordwestlich unter Gafadura, nördlicher Teil des Alpzinka, an der Gemeindegrenze zu Eschen und Gamprin. Örtlich identisch mit Böda.<br/>Hanaböda (2), Eschen: Waldteil östlich ob Nendeln, nördlich der Alp Gafadura (Planken), nördlich des Gebiets Obem Alpzinka.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-129">
@@ -5274,6 +5295,67 @@ SchäU 35 im Jahr 1518.</note>
               <p>Unbekannt. Im Gebiet Fanola.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-497">
+            <placeName type="main" xml:lang="de">Gudelaner Tobel</placeName>
+            <placeName type="full" xml:lang="de">Gudelaner Tobel / Planken</placeName>
+            <placeName type="sort" xml:lang="de">gudelaner tobel</placeName>
+            <location>
+              <settlement xml:lang="de">Planken</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">497</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Tobel beim Alpzinka. Vermutlich örtlich identisch mit Höbergtobel.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-498">
+            <placeName type="main" xml:lang="de">Molkares</placeName>
+            <placeName type="full" xml:lang="de">Molkares / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">molkares</placeName>
+            <placeName type="alternative" xml:lang="de">Molckhenriß</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">498</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nach der Ospelt-Karte im Gebiet Am Höberg an der Grenze zu Planken gelegen.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-500">
+            <placeName type="main" xml:lang="de">Gudelana Rain</placeName>
+            <placeName type="full" xml:lang="de">Gudelana Rain / Planken</placeName>
+            <placeName type="sort" xml:lang="de">gudelana rain</placeName>
+            <location>
+              <settlement xml:lang="de">Planken</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">500</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Stelle beim Alpzinka.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-501">
+            <placeName type="main" xml:lang="de">Egg</placeName>
+            <placeName type="full" xml:lang="de">Egg / Planken</placeName>
+            <placeName type="sort" xml:lang="de">egg</placeName>
+            <location>
+              <settlement xml:lang="de">Planken</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">501</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Weidhang auf Gafadura, nördlich des Höbergtobels, östlich ob dem Alpzinka, an der Gemeindegrenze zu Eschen.</p>
+            </note>
+          </place>
           <place type="P" xml:id="lub-places-502">
             <placeName type="main" xml:lang="de">Rheineck</placeName>
             <placeName type="full" xml:lang="de">Rheineck (St. Gallen)</placeName>
@@ -6588,7 +6670,7 @@ SchäU 35 im Jahr 1518.</note>
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-10-18T16:16:38+02:00">teiHeader was automatically produced from the database 2024-10-18T16:16:38+02:00</change>
+      <change when="2024-11-08T10:44:08+01:00">teiHeader was automatically produced from the database 2024-11-08T10:44:08+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
