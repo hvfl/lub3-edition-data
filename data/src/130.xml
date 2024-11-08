@@ -12,10 +12,14 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>- Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/BlumeneggReichshft/6914/charter?q=Sulz)</p>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-130">AT-VLA, RH Blumenegg Urk. 6914</ref> (<orgName corr="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Papier, 6 Seiten</witness>
-          <witness xmlid="Vgl. [monasterium.net](https">Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/BlumeneggReichshft/6914/charter?q=Sulz)</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-130">AT-VLA, RH Blumenegg Urk. 6914</ref> (<orgName corresp="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Papier, 6 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
