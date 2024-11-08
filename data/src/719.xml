@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 65](https://lub.anton.ch/objects/719) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / 2 Siegel: 1. fehlt, 2. aufgedrückt</witness>
-          <witness xml:id="B">B: Abschrift, Signatur LI-PfABe A 27/12</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-719">LI-LA, U 65</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / 2 Siegel: 1. fehlt, 2. aufgedrückt (Editionsvorlage)</witness>
+          <witness xmlid="B">B: Kopie (Abschrift), Signatur LI-PfABe A 27/12</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-592">LI-LA, Schä U 60</ref> / Originaldatierung: 25. Januar 1550 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-592">LI-LA, Schä U 60</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 25. Januar 1550 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-53">Lang, Marx</persName>
+          <date when="1550-01-25">25. Jan 1550</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-449">Brandiser, Wolfgang</persName>
           <date when="1550-01-25">25. Jan 1550</date>
         </correspAction>
       </correspDesc>

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness/>
+          <witness xmlid=""/>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -49,6 +49,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1511-12-16">16. Dez 1511</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-508">Leuener, Ulrich</persName>
           <date when="1511-12-16">16. Dez 1511</date>
         </correspAction>
       </correspDesc>

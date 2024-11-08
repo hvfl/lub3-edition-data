@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness/>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-844">AT-VLA, LSt Urk. 5586</ref> (<orgName cor="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 15. April 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/LandstaendeVorarlb/5586/charter)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -35,6 +35,12 @@
         <correspAction type="sent">
           <persName ref="lub-actors-26">Habsburg, Ferdinand I. von</persName>
           <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1561-04-15">15. Apr 1561</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-749">Vorarlberger Landstände</persName>
           <date when="1561-04-15">15. Apr 1561</date>
         </correspAction>
       </correspDesc>

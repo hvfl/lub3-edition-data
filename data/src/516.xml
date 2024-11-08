@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: [AT-TLA, U I 8347](https://lub.anton.ch/objects/516) / Originaldatierung: 8. November 1517 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-516">AT-TLA, U I 8347</ref> (<orgName cor="AT-TLA" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 8. November 1517 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -34,6 +34,12 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1517-11-08">8. Nov 1517</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-4">Habsburg, Maximilian I. von</persName>
           <date when="1517-11-08">8. Nov 1517</date>
         </correspAction>
       </correspDesc>

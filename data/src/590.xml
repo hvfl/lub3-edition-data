@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-590">LI-LA, Schä U 58</ref> / Originaldatierung: 6. November 1544 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-590">LI-LA, Schä U 58</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. November 1544 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -43,6 +43,28 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-530">Thöni, Verena</persName>
+          <date when="1544-11-06">6. Nov 1544</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-532">Schedel, Stefan</persName>
+          <date when="1544-11-06">6. Nov 1544</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-533">Schedel, Agatha</persName>
+          <date when="1544-11-06">6. Nov 1544</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-534">Schedel, Anna</persName>
+          <date when="1544-11-06">6. Nov 1544</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-535">Schedel, Margaretha</persName>
+          <date when="1544-11-06">6. Nov 1544</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-536">Schedel, Ursula</persName>
           <date when="1544-11-06">6. Nov 1544</date>
         </correspAction>
       </correspDesc>

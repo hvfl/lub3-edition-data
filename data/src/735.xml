@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: LI-LA, PfäfA 22</witness>
-          <witness xml:id="B">B: Abschrift, Signatur: [LI-LA, PfäA 21/04](https://lub.anton.ch/objects/735) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
+          <witness xmlid="A">A: Original, Signatur: LI-LA, PfäfA 22</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>

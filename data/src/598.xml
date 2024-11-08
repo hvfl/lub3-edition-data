@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-598">LI-LA, Schä U 67</ref> / Originaldatierung: 11. November 1560 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-598">LI-LA, Schä U 67</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1560 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,6 +45,16 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-292">Frommelt, Stefan (1)</persName>
+          <date when="1560-11-11">11. Nov 1560</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-543">Quaderer, Joachim (2)</persName>
+          <date when="1560-11-11">11. Nov 1560</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-544">Fritsch, Lorenz (2)</persName>
           <date when="1560-11-11">11. Nov 1560</date>
         </correspAction>
       </correspDesc>

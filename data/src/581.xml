@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-581">LI-LA, Schä U 55</ref> / Originaldatierung: 19. Juni 1536 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-581">LI-LA, Schä U 55</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 19. Juni 1536 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -41,6 +41,12 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="lub-actors-347">Frick, Adam (1)</persName>
+          <date when="1536-06-19">19. Jun 1536</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-432">Pfefferli, Wolf</persName>
           <date when="1536-06-19">19. Jun 1536</date>
         </correspAction>
       </correspDesc>

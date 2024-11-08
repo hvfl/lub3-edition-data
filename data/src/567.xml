@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-567">LI-LA, Schä U 29</ref> / Originaldatierung: 10. November 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-567">LI-LA, Schä U 29</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 10. November 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1512-11-10">10. Nov 1512</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-417">Compar, Simon</persName>
           <date when="1512-11-10">10. Nov 1512</date>
         </correspAction>
       </correspDesc>

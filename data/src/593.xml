@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-593">LI-LA, Schä U 30</ref> / Originaldatierung: 6. April 1627 / Beschreibstoff: Papier</witness>
+          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-593">LI-LA, Schä U 30</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. April 1627 / Beschreibstoff: Papier</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -33,6 +33,12 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="lub-actors-452">Ehrmann, Georg</persName>
+          <date when="1550-05-10">10. Mai 1550</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
           <date when="1550-05-10">10. Mai 1550</date>
         </correspAction>
       </correspDesc>

@@ -14,9 +14,10 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-611">LI-LA, Schä U 79</ref> / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt / Unter der Plica Unterschriften von Kaiser Rudolf II. und von Jakob Kurtz von Senftenau, Verwalter der Reichshofkanzlei, auf der Plica mit dem Vermerk "Ad mandatum sacrae caesareae maiestatis proprium" Unterschrift des Sekretärs Johann Engelhofer / Auf der Rückseite Registraturvermerk von Georg Pichl von Pichlberg und Taxvermerk von Werner Braitschwert (Editionsvorlage)</witness>
-          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-129">AT-VLA, Blumenegg Reichsherrschaft 6913</ref> / Beschreibstoff: Papier</witness>
-          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-23">AT-ÖStA, HHStA, Reichshofrat, Gratialia et Feudalia, Reichslehensakten deutsche Expedition 187 unfol.</ref> / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-611">LI-LA, Schä U 79</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt / Unter der Plica Unterschriften von Kaiser Rudolf II. und von Jakob Kurtz von Senftenau, Verwalter der Reichshofkanzlei, auf der Plica mit dem Vermerk "Ad mandatum sacrae caesareae maiestatis proprium" Unterschrift des Sekretärs Johann Engelhofer / Auf der Rückseite Registraturvermerk von Georg Pichl von Pichlberg und Taxvermerk von Werner Braitschwert (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-129">AT-VLA, Blumenegg Reichsherrschaft 6913</ref> (<orgName cor="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Beschreibstoff: Papier</witness>
+          <witness xml:id="E">E: Eintrag (Handschrift), Signatur: <ref type="identifier" target="lub-objects-1123">AT-VLA, Kleiners Urkundenbuch I S. 127-130</ref> (<orgName cor="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-23">AT-ÖStA, HHStA, Reichshofrat, Gratialia et Feudalia, Reichslehensakten deutsche Expedition 187 unfol.</ref> (<orgName cor="AT-ÖStA" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Edition: Schädler, Regesten, S. 120-122 \(online auf [e-archiv.li](https://www.e-archiv.li/D48470)\)</bibl>
@@ -40,6 +41,12 @@
         <correspAction type="sent">
           <persName ref="lub-actors-27">Habsburg, Rudolf II. von</persName>
           <placeName ref="lub-places-25">Prag</placeName>
+          <date when="1587-06-17">17. Jun 1587</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
           <date when="1587-06-17">17. Jun 1587</date>
         </correspAction>
       </correspDesc>

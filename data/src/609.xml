@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-609">LI-LA, Schä U 77</ref> / Originaldatierung: 10. November 1585 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-609">LI-LA, Schä U 77</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 10. November 1585 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-246">Quaderer, Heinrich</persName>
+          <date when="1585-11-10">10. Nov 1585</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-287">Schierscher, Adam</persName>
           <date when="1585-11-10">10. Nov 1585</date>
         </correspAction>
       </correspDesc>

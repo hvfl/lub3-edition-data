@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness/>
+          <witness xmlid=""/>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,6 +45,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-524">Grüstle, Nesa</persName>
+          <date when="1530-06-24">24. Jun 1530</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-525">Kindle, Werner</persName>
           <date when="1530-06-24">24. Jun 1530</date>
         </correspAction>
       </correspDesc>

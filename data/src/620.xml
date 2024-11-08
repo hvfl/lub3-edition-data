@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: [LI-LA, U 4](https://lub.anton.ch/objects/620) / Originaldatierung: 17. März 1511 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-620">LI-LA, U 4</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. März 1511 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,20 @@
         <correspAction type="sent">
           <persName ref="lub-actors-296">Wolf, Albrecht</persName>
           <date when="1511-03-17">17. Mär 1511</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-212">Frick, Gabriel</persName>
+          <date when="1511-03-17">17. Mär 1511</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-297">Thöni, Jörg (1)</persName>
+          <date when="1511-03-17">17. Mär 1511</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-389">Fritsch, Josef</persName>
+          <date>ohne Datum</date>
         </correspAction>
       </correspDesc>
     </profileDesc>

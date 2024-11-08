@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: [AT-TLA, U I 8348](https://lub.anton.ch/objects/517) / Originaldatierung: 6. Mai 1523 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-517">AT-TLA, U I 8348</ref> (<orgName cor="AT-TLA" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 6. Mai 1523 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -36,6 +36,12 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1523-05-06">6. Mai 1523</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-26">Habsburg, Ferdinand I. von</persName>
           <date when="1523-05-06">6. Mai 1523</date>
         </correspAction>
       </correspDesc>

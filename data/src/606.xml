@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-606">LI-LA, Schä U 74</ref> / Originaldatierung: 2. Februar 1574 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-606">LI-LA, Schä U 74</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 2. Februar 1574 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -50,6 +50,12 @@
         <correspAction type="sent">
           <persName ref="lub-actors-214">Plenki, Jakob</persName>
           <date when="1574-02-01">1. Feb 1574</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1574-02-02">2. Feb 1574</date>
         </correspAction>
       </correspDesc>
     </profileDesc>

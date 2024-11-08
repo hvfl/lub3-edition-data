@@ -14,9 +14,9 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-624">LI-LA, U 46</ref> / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
-          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-479">LI-GAS, U 8</ref> / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
-          <witness>Kopie: LI-AAV, U 17 (unbeglaubigte Abschrift, 17./18. Jh.)</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-624">LI-LA, U 46</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-479">LI-GAS, U 8</ref> (<orgName cor="LI-GAS" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xmlid="B">B: Kopie, Signatur: LI-AAV, U 17 / Entstehungszeit: 17./18. Jahrhundert</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-601">LI-LA, Schä U 68</ref> / Originaldatierung: 11. November 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-601">LI-LA, Schä U 68</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -43,6 +43,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-361">Schierscher, Hans (2)</persName>
+          <date when="1561-11-11">11. Nov 1561</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-314">Rig, Hans (1)</persName>
           <date when="1561-11-11">11. Nov 1561</date>
         </correspAction>
       </correspDesc>

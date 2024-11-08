@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-589">LI-LA, Schä U 57</ref> / Originaldatierung: 20. März 1542 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-589">LI-LA, Schä U 57</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. März 1542 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -49,6 +49,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-529">Hilbe, Anna</persName>
+          <date when="1542-03-20">20. Mär 1542</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-525">Kindle, Werner</persName>
           <date when="1542-03-20">20. Mär 1542</date>
         </correspAction>
       </correspDesc>

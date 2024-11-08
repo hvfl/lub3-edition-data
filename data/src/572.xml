@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-572">LI-LA, Schä U 47</ref> / Originaldatierung: 21. Dezember 1529 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-572">LI-LA, Schä U 47</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 21. Dezember 1529 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -42,6 +42,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-209">Öhri, Hans (1)</persName>
+          <date when="1529-12-21">21. Dez 1529</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-514">Walch, Ulrich</persName>
           <date when="1529-12-21">21. Dez 1529</date>
         </correspAction>
       </correspDesc>

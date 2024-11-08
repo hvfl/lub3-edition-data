@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-613">LI-LA, Schä U 80</ref> / Originaldatierung: 11. November 1588 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-613">LI-LA, Schä U 80</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,6 +45,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-555">Ballasser, Anna (2)</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-287">Schierscher, Adam</persName>
           <date when="1588-11-11">11. Nov 1588</date>
         </correspAction>
       </correspDesc>

@@ -14,18 +14,18 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-LA, U 86</ref> / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 5 Siegel abh., 1 Siegel fehlt</witness>
-          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-652">CH-StASG, AA 3 U 15</ref> / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 3 Siegel abh., 3 Siegel fehlen</witness>
-          <witness xml:id="A3">A3: Original, Signatur: CH-StASG, AA 3 A 13-2 / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 01/09/3</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 01/09/10/8</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 15/4/274 / Originaldatierung: um 1800</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 41/08/04</witness>
-          <witness>Kopie, Signatur: CH-StASG, AA 3 A 13-2</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2401:036, S. 129-135 / Originaldatierung: um 1570 - Auszug</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2432:001 / Originaldatierung:  17. Jh. -  Auszug</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2432:002 / Originaldatierung:  17. Jh. -  Auszug</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2468:005</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-LA, U 86</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 5 Siegel abh., 1 Siegel fehlt</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-652">CH-StASG, AA 3 U 15</ref> (<orgName cor="CH-StASG" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 3 Siegel abh., 3 Siegel fehlen</witness>
+          <witness xmlid="A3">A3: Original, Signatur: CH-StASG, AA 3 A 13-2 / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier</witness>
+          <witness xmlid="Kopie, Signatur">Kopie, Signatur: LI-LA, RA 01/09/3</witness>
+          <witness xmlid="Kopie, Signatur">Kopie, Signatur: LI-LA, RA 01/09/10/8</witness>
+          <witness xmlid="Kopie, Signatur">Kopie, Signatur: LI-LA, RA 15/4/274 / Originaldatierung: um 1800</witness>
+          <witness xmlid="Kopie, Signatur">Kopie, Signatur: LI-LA, RA 41/08/04</witness>
+          <witness xmlid="Kopie, Signatur">Kopie, Signatur: CH-StASG, AA 3 A 13-2</witness>
+          <witness xmlid="Kopie">Kopie: Signatur: CH-LAGL, AG III.2401:036, S. 129-135 / Originaldatierung: um 1570 - Auszug</witness>
+          <witness xmlid="Kopie">Kopie: Signatur: CH-LAGL, AG III.2432:001 / Originaldatierung:  17. Jh. -  Auszug</witness>
+          <witness xmlid="Kopie">Kopie: Signatur: CH-LAGL, AG III.2432:002 / Originaldatierung:  17. Jh. -  Auszug</witness>
+          <witness xmlid="Kopie">Kopie: Signatur: CH-LAGL, AG III.2468:005</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Edition (nach A2): [SSRQ SG III/4, Nr. 134](https://editio.ssrq-online.ch/SG/III_4/134-1.html)</bibl>

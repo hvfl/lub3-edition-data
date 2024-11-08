@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-596">LI-LA, Schä U 65</ref> / Originaldatierung: 4. November 1557 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-596">LI-LA, Schä U 65</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 4. November 1557 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -44,6 +44,12 @@
         </correspAction>
         <correspAction type="sent">
           <persName ref="lub-actors-541">Kaufmann, Katharina</persName>
+          <date when="1557-11-04">4. Nov 1557</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-449">Brandiser, Wolfgang</persName>
           <date when="1557-11-04">4. Nov 1557</date>
         </correspAction>
       </correspDesc>

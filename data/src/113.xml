@@ -14,11 +14,11 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: [AT-VLA, Rankweil PfA 203](https://lub.anton.ch/objects/113) / Originaldatierung: 25. April 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage) - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/RankweilPfA/203/charter)</witness>
-          <witness xml:id="A2">A2: Original, Signatur: [LI-LA, Schä U 31](https://lub.anton.ch/objects/15)</witness>
-          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: [AT-VLA, Feldkirch Vogteiamt 3345](https://lub.anton.ch/objects/19)</witness>
-          <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur:  [AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v](https://lub.anton.ch/objects/1005)</witness>
-          <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: [AT-HAL, H 2637 unfol.](https://lub.anton.ch/objects/1117)</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-113">AT-VLA, PfA Rankweil Urk. 203</ref> (<orgName cor="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 25. April 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage) - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/RankweilPfA/203/charter)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-15">LI-LA, Schä U 31</ref> (<orgName cor="LI-LA" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
+          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: <ref type="identifier" target="lub-objects-19">AT-VLA, Vogteiamt Feldkirch, Urk. 3345</ref> (<orgName cor="AT-VLA" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3345/charter)</witness>
+          <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur:  <ref type="identifier" target="lub-objects-1005">AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v</ref> (<orgName cor="AT-ÖStA" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>)</witness>
+          <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: <ref type="identifier" target="lub-objects-1117">AT-HAL, H 2637 unfol.</ref> (<orgName cor="AT-HAL" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
