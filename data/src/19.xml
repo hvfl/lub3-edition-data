@@ -16,10 +16,15 @@
         <listWit>
           <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-113">AT-VLA, PfA Rankweil Urk. 203</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>)</witness>
           <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-15">LI-LA, Schä U 31</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
-          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: <ref type="identifier" target="lub-objects-19">AT-VLA, Vogteiamt Feldkirch,  Urk. 3345</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Entstehungszeitraum: 11. April 1654 in Feldkirch / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten, 1 Notariatssiegel aufgedrückt - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3345/charter?)</witness>
+          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: <ref type="identifier" target="lub-objects-19">AT-VLA, Vogteiamt Feldkirch,  Urk. 3345</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Entstehungszeitraum: 11. April 1654 in Feldkirch / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten, 1 Notariatssiegel aufgedrückt</witness>
           <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur: <ref type="identifier" target="lub-objects-1005">AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v</ref> (<orgName corresp="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>)</witness>
           <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: <ref type="identifier" target="lub-objects-1117">AT-HAL, H 2637 unfol.</ref> (<orgName corresp="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>)</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3345/charter?">monasterium.net</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

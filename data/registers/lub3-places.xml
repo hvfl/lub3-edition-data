@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-08 14:39:26 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-11 10:25:05 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1423,6 +1423,18 @@
             <note type="description" xml:lang="de">
               <p>Ehemaliges Königreich.</p>
             </note>
+          </place>
+          <place type="P" xml:id="lub-places-147">
+            <placeName type="main" xml:lang="de">Sevelen</placeName>
+            <placeName type="full" xml:lang="de">Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">sevelen</placeName>
+            <placeName type="alternative" xml:lang="de">Seveln</placeName>
+            <location>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">147</idno>
           </place>
           <place type="P" xml:id="lub-places-151">
             <placeName type="main" xml:lang="de">Werdenberg (Stadt)</placeName>
@@ -6483,6 +6495,57 @@ SchäU 35 im Jahr 1518.</note>
               <p>Wiesen im Hochtal Malbun, westlich des Milbunerbachs, zwischen Büala und Rüfi.</p>
             </note>
           </place>
+          <place type="R" xml:id="lub-places-597">
+            <placeName type="main" xml:lang="de">Grippelsweg</placeName>
+            <placeName type="full" xml:lang="de">Grippelsweg / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">grippelsweg</placeName>
+            <placeName type="alternative" xml:lang="de">Grippels weg</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">597</idno>
+            <note type="sources">https://www.namenbuch.li/</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Weg nordöstlich oberhalb des Dorfes, vermutlich durch die Gebiete Uf Tid und Schwarzwald führend.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-598">
+            <placeName type="main" xml:lang="de">Jägersplatz</placeName>
+            <placeName type="full" xml:lang="de">Jägersplatz / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">jaegersplatz</placeName>
+            <placeName type="alternative" xml:lang="de">Jegers plaz</placeName>
+            <placeName type="alternative" xml:lang="de">Jägers plaz</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">598</idno>
+            <note type="sources">https://www.namenbuch.li/</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Östlich oberhalb des Gebiets Uf Tid.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-599">
+            <placeName type="main" xml:lang="de">Eibeneck</placeName>
+            <placeName type="full" xml:lang="de">Eibeneck / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">eibeneck</placeName>
+            <placeName type="alternative" xml:lang="de">Eiben egckh</placeName>
+            <placeName type="alternative" xml:lang="de">Eyben</placeName>
+            <placeName type="alternative" xml:lang="de">Eyben egkh</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">599</idno>
+            <note type="sources">https://www.namenbuch.li/</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Im Gebiet Uf Tid/Moggawald/Schwarzwald.</p>
+            </note>
+          </place>
           <place type="V" xml:id="lub-places-605">
             <placeName type="main" xml:lang="de">Lumser</placeName>
             <placeName type="full" xml:lang="de">Lumser / Ruggell</placeName>
@@ -6623,6 +6686,61 @@ SchäU 35 im Jahr 1518.</note>
               <p>Wasserlauf südöstlich des Dorfes Eschen, im Riet, verläuft vom Ziegelmad in Nendeln nordwestlich nach Eschen, mündet beim Belzeböchel in die Esche.</p>
             </note>
           </place>
+          <place type="S" xml:id="lub-places-613">
+            <placeName type="main" xml:lang="de">Gamplaschg</placeName>
+            <placeName type="full" xml:lang="de">Gamplaschg / Schruns (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">gamplaschg</placeName>
+            <location>
+              <settlement xml:lang="de">Schruns</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">613</idno>
+            <note type="description" xml:lang="de">
+              <p>Weiler</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-614">
+            <placeName type="main" xml:lang="de">Bartholomäberg</placeName>
+            <placeName type="full" xml:lang="de">Bartholomäberg (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">bartholomaeberg</placeName>
+            <placeName type="alternative" xml:lang="de">St. Bartholomä</placeName>
+            <placeName type="alternative" xml:lang="de">St. Bartleme</placeName>
+            <location>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">614</idno>
+          </place>
+          <place type="H" xml:id="lub-places-615">
+            <placeName type="main" xml:lang="de">Ill</placeName>
+            <placeName type="full" xml:lang="de">Ill (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">ill</placeName>
+            <placeName type="alternative" xml:lang="de">Yll</placeName>
+            <location>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">615</idno>
+            <note type="description" xml:lang="de">
+              <p>Fluss</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-616">
+            <placeName type="main" xml:lang="de">Gamprätz</placeName>
+            <placeName type="full" xml:lang="de">Gamprätz / Schruns (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">gampraetz</placeName>
+            <placeName type="alternative" xml:lang="de">Gampparez</placeName>
+            <location>
+              <settlement xml:lang="de">Schruns</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">616</idno>
+            <note type="description" xml:lang="de">
+              <p>Weiler</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -6670,7 +6788,7 @@ SchäU 35 im Jahr 1518.</note>
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-11-08T14:39:27+01:00">teiHeader was automatically produced from the database 2024-11-08T14:39:27+01:00</change>
+      <change when="2024-11-11T10:25:06+01:00">teiHeader was automatically produced from the database 2024-11-11T10:25:06+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

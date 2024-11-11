@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-08 14:39:24 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-11 10:25:03 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1915,11 +1915,12 @@
             <note type="sources">[HLFL](https://historisches-lexikon.li/Werdenberg_(-Sargans-Vaduz),_Heinrich_V._(I.)_von)</note>
           </person>
           <person xml:id="lub-actors-300">
-            <persName type="full" xml:lang="de">Lew, Bartholomäus (1531–1536)</persName>
+            <persName type="full" xml:lang="de">Lew, Bartholomäus (1531–1562)</persName>
             <persName type="main" xml:lang="de">Lew, Bartholomäus</persName>
             <persName type="sort" xml:lang="de">lew, bartholomaeus</persName>
+            <persName type="alternative" xml:lang="de">Löw, Barlome</persName>
             <birth when="1531-05-17"/>
-            <death when="1536-04-10"/>
+            <death when="1562"/>
             <note type="description" xml:lang="de">
               <p>Ratsherr von Feldkirch.</p>
             </note>
@@ -5831,6 +5832,17 @@
             <birth when="1516-01-24"/>
             <note type="description" xml:lang="de">
               <p>aus Triesen</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-918">
+            <persName type="full" xml:lang="de">Zürcher, Konrad (1527–1548)</persName>
+            <persName type="main" xml:lang="de">Zürcher, Konrad</persName>
+            <persName type="sort" xml:lang="de">zuercher, konrad</persName>
+            <persName type="variant" xml:lang="de">Zürcher, Cunradt</persName>
+            <birth when="1527-10-26"/>
+            <death when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Bludenz. Ratsherr, Untervogt.</p>
             </note>
           </person>
           <person xml:id="lub-actors-923">
@@ -10092,6 +10104,40 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
               </listBibl>
             </note>
           </person>
+          <person xml:id="lub-actors-1505">
+            <persName type="full" xml:lang="de">Mock, Jakob (1572–)</persName>
+            <persName type="main" xml:lang="de">Mock, Jakob</persName>
+            <persName type="sort" xml:lang="de">mock, jakob</persName>
+            <persName type="alternative" xml:lang="de">Mock, Jacob</persName>
+            <birth when="1572-10-25"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>aus Ragaz, Untertane des Klosters Päfers, verheiratet mit Elsa Rei aus Triesen.</item>
+              </list>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1507">
+            <persName type="full" xml:lang="de">Mosheim, Johann Jakob von (1572–)</persName>
+            <persName type="main" xml:lang="de">Mosheim, Johann Jakob von</persName>
+            <persName type="sort" xml:lang="de">mosheim, johann jakob von</persName>
+            <persName type="alternative" xml:lang="de">Moßheim, Johann Jacob von</persName>
+            <birth when="1572-10-25"/>
+            <note type="description" xml:lang="de">
+              <p>1568-1570 Abt von Pfäfers</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1508">
+            <persName type="full" xml:lang="de">Rei, Elsa (1572–)</persName>
+            <persName type="main" xml:lang="de">Rei, Elsa</persName>
+            <persName type="sort" xml:lang="de">rei, elsa</persName>
+            <persName type="alternative" xml:lang="de">Reyin, Elßa</persName>
+            <birth when="1572-10-25"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>aus Triesen, verheiratet mit Jakob Mock aus Ragaz.</item>
+              </list>
+            </note>
+          </person>
           <person xml:id="lub-actors-1512">
             <persName type="full" xml:lang="de">Adam, N. (1520–)</persName>
             <persName type="main" xml:lang="de">Adam, N.</persName>
@@ -10201,6 +10247,65 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             <persName type="sort" xml:lang="de">rig, andres</persName>
             <persName type="alternative" xml:lang="de">Reig, Andres</persName>
             <birth when="1568-04-28"/>
+          </person>
+          <person xml:id="lub-actors-1531">
+            <persName type="full" xml:lang="de">Salzgeber, Klaus (1548–)</persName>
+            <persName type="main" xml:lang="de">Salzgeber, Klaus</persName>
+            <persName type="sort" xml:lang="de">salzgeber, klaus</persName>
+            <persName type="variant" xml:lang="de">Saltzgeberr, Clauß</persName>
+            <birth when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>wohnhaft in Gamplaschg, Ehemann von Greta Zelf</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1532">
+            <persName type="full" xml:lang="de">Zelf, Greta (1548–)</persName>
+            <persName type="main" xml:lang="de">Zelf, Greta</persName>
+            <persName type="sort" xml:lang="de">zelf, greta</persName>
+            <persName type="variant" xml:lang="de">Zelfin, Gratha</persName>
+            <birth when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>wohnhaft in Gamplaschg, Ehefrau von Klaus Salzgeber</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1533">
+            <persName type="full" xml:lang="de">Mathies, Hans (1548–)</persName>
+            <persName type="main" xml:lang="de">Mathies, Hans</persName>
+            <persName type="sort" xml:lang="de">mathies, hans</persName>
+            <persName type="variant" xml:lang="de">Mathyess, Hanns</persName>
+            <birth when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Bartholomäberg, Ehemann von Lena Mathies.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1534">
+            <persName type="full" xml:lang="de">Mathies, Lena (1548–)</persName>
+            <persName type="main" xml:lang="de">Mathies, Lena</persName>
+            <persName type="sort" xml:lang="de">mathies, lena</persName>
+            <persName type="variant" xml:lang="de">Mathyess, Lena</persName>
+            <birth when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Bartholomäberg, Ehefrau von Hans Mathies.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1535">
+            <persName type="full" xml:lang="de">Bürger, Hans (1548–)</persName>
+            <persName type="main" xml:lang="de">Bürger, Hans</persName>
+            <persName type="sort" xml:lang="de">buerger, hans</persName>
+            <persName type="alternative" xml:lang="de">Bürger, Hanns</persName>
+            <birth when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Gamprätz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1536">
+            <persName type="full" xml:lang="de">Büzermenn, Balzer (1548–)</persName>
+            <persName type="main" xml:lang="de">Büzermenn, Balzer</persName>
+            <persName type="sort" xml:lang="de">buezermenn, balzer</persName>
+            <birth when="1548-09-24"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Gamprätz.</p>
+            </note>
           </person>
         </listPerson>
         <listOrg>
@@ -10510,7 +10615,7 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-11-08T14:39:25+01:00">teiHeader was automatically produced from the database 2024-11-08T14:39:25+01:00</change>
+      <change when="2024-11-11T10:25:04+01:00">teiHeader was automatically produced from the database 2024-11-11T10:25:04+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

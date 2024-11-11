@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-774">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schreiben betreffend den Zoll in der Herrschaft Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl/>
+        </listBibl>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Abt von Pfäfers bittet, dass sein Kloster wie bis anhin vom Zoll in der Herrschaft Vaduz befreit bleibt. Wenn das aber nicht möglich sein sollte, dann würde er diesen entrichten und deswegen keinen Streit beginnen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-9">Zoll</term>
+          <term ref="lub-keywords-388">Säumer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1555-07-31">31. Jul 1555</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1821" n="1"/><lb n="1"/><persName ref="lub-actors-1074">Rudolffuß</persName> von gottes gnaden  
+<lb n="2"/>abbtt des gotzhus zu <orgName ref="lub-actors-309">Pfevers</orgName>. 
+</p>
+        <p><lb n="3"/>Unsern früntlichen gruß mit erbiettung aller eren, liebs  
+<lb n="4"/>und gutz zuvor, edlervester, insunders günstiger lieber  
+<lb n="5"/>herr landtvogt. Wir werdend durch unsern <term ref="lub-keywords-388">sömer</term>  
+<lb n="6"/>bericht, wie dann eurer und der herrschafft zu <placeName ref="lub-places-7">Vadutz</placeName>  
+<lb n="7"/>zoller ime abermalen den zol anforderend, wiewol  
+<lb n="8"/>nit weniger, wie sölichs für kein gerechttigkeit nit habend.  
+<lb n="9"/>Diewil aber weder unsern fervarern noch unß an dem  
+<lb n="10"/>ort nie keiner abgenomen, besunder alles das, so  
+<lb n="11"/>dieselbigen und wir by unsern ziten alda fürtze
+<lb break="no" n="12"/>veretten, gehept, fruntlicher und nachpürlicher meinung 
+<lb n="13"/>varen laßen. Uff sölichs nachmaln an euch unser  
+<lb n="14"/>flissig begern, unß wie von altter herr beliben  
+<lb n="15"/>zelaßen, des erpüttend wir unß gegen der herschafft  
+<lb n="16"/><placeName ref="lub-places-7">Vadutz</placeName> euch und die eueren, wo müglich günstigklichen  
+<lb n="17"/>und nachpürlichen zeverdienen. So aber sölichs  
+<lb n="18"/>je nit beschechen, des wir doch nit hoffendt, so wendt  
+<lb n="19"/>wir unserm <term ref="lub-keywords-388">sömer</term> bevelchen, mit dem zoler umb  
+<lb n="20"/>alles, so er da fürgemercket, ab zereiten und zebezalen,  
+<lb n="21"/>dan wir kein unwilen von sölcher clein fügen summa  
+<lb n="22"/>wilen uff unß laden wölend. Hiemit euwer früntlichen  
+<lb n="23"/>antwurt begerend und dem almechtigen got bevelchen. 
+<lb n="24"/>Datum <orgName ref="lub-actors-309">Pfevers</orgName>, den <origDate>letsten tags julius anno lv</origDate> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1822" n="1"/><lb n="1"/>Der herr abt zu <orgName ref="lub-actors-309">Pfefers</orgName> verlan
+<lb break="no" n="2"/>get, man möchte sein gotteshaus wie 
+<lb n="3"/>biesher in der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> mit  
+<lb n="4"/>der zollabgab verschonen, man  
+<lb n="5"/>mache kein recht darunder. Wan nun  
+<lb n="6"/>aber nicht seyn könne, so habe er  
+<lb n="7"/>den zoll zu entrichten befohlen und  
+<lb n="8"/>möge sich wegen dieser kleinigkeit  
+<lb n="9"/>nicht abwerten. <orgName ref="lub-actors-309">Pfefers</orgName> am  
+<lb n="10"/><origDate>letzten tag julii 1555</origDate>. 
+</p>
+        <p><lb n="11"/>Apt von <orgName ref="lub-actors-309">Pfeffers</orgName> zols 
+<lb n="12"/>halben 
+<lb n="13"/>1555. 
+</p>
+        <p><lb n="14"/>Dem edlen vesten <persName ref="lub-actors-24">Juvynalißen von K.</persName> 
+<lb n="15"/>landtvogt der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="16"/>unserm besundern lieben frundt  
+<lb n="17"/>und nachpuren. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

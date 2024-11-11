@@ -14,8 +14,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-146">AT-VLA, Vogteiamt Bludenz, Urk. 4988</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 30. Mai 1608 / Beschreibstoff: Papier, 14 Seiten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/BludenzVogteiA/4988/charter?q=Vaduz)</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-146">AT-VLA, Vogteiamt Bludenz, Urk. 4988</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 30. Mai 1608 / Beschreibstoff: Papier, 14 Seiten</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/AT-VLA/BludenzVogteiA/4988/charter?q=Vaduz">monasterium.net</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

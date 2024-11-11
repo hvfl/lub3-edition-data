@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1099">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Waldordnung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1099">LI-LA, RA 10/2/08/2/02</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 15. Mai 1530 / Beschreibstoff: Papier, 8 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ordnung und Beschreibung der Waldnutzung in den Bannwäldern der Grafschaft Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-157">Wald</term>
+          <term ref="lub-keywords-269">Satzung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <date when="1530-05-15">15. Mai 1530</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2302" n="1"/><lb n="1"/>Vermerckht, wie und welche hölzer in denn  
+<lb n="2"/>khilchsperg <placeName ref="lub-places-53">Schann</placeName> und <placeName ref="lub-places-1">Vaduz</placeName> durch deß wol
+<lb break="no" n="3"/>gebornen herren, herren <persName ref="lub-actors-8">Ruedolffs graven 
+<lb n="4"/>zu Sulz</persName> etc., unsers genedigen herren vogt zu  
+<lb n="5"/><placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-155">Caspar Mammendorffer</persName>, auch alle  
+<lb n="6"/>dorffs geschwornen bemelter kilchsperg  
+<lb n="7"/><placeName ref="lub-places-53">Schann</placeName> und <placeName ref="lub-places-1">Vaduz</placeName>, auff den <origDate>fünffzehenden  
+<lb n="8"/>tag deß monats may nach Cristi unsers  
+<lb n="9"/>lieben herren gepurtt fünffzechen hundert  
+<lb n="10"/>und im dreissigisten jar</origDate>, in bann und ver
+<lb break="no" n="11"/>pott gelegt seind, auch welcher gestalt ain 
+<lb n="12"/>jeder, so uber diß verpott in sollichen  
+<lb n="13"/>bannhölzern hawen und betretten wurd,  
+<lb n="14"/>gestrafft soll werden. Doch bemeltem  
+<lb n="15"/>unserm gnedigen herren ahn seiner genaden  
+<lb n="16"/>freyhaiten und herligkhaiten in alweg  
+<lb n="17"/>unschädlich und unvergreiffen. 
+<lb n="18"/>Item deß ersten soll ain jeder bey seinem  
+<lb n="19"/>ayde, sein getrew aufsechen, auf die wild
+<lb break="no" n="20"/>fäng und zway graber haben und welcher 
+<lb n="21"/>ain frembden oder aussgesessnen in der  
+<lb n="22"/>herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, so zweig in perg oder tal  
+<lb n="23"/>grieb, und in also ahn der thatt betretten  
+<lb n="24"/>undergreiffen wurd, derselb soll ganz  
+<lb n="25"/>vollen macht und gewalt haben, in umb  
+<lb n="26"/>jedes zwig, besonder, so er also gegraben 
+<pb facs="lub-media-2303" n="2"/>
+<lb n="27"/>hat, umb fünff schilling pfening zu straffen,  
+<lb n="28"/>und soll alßdan dieselb straff halber der  
+<lb n="29"/>gemaindt und halber dem, so also gestrafft  
+<lb n="30"/>het zugehören. 
+<lb n="31"/>Item wann aber ain haimbscher oder inge
+<lb break="no" n="32"/>sessner der kilchspel <placeName ref="lub-places-53">Schann</placeName> und <placeName ref="lub-places-1">Vaduz</placeName>, 
+<lb n="33"/>wildfeng und zwey, dito daß im berg oder  
+<lb n="34"/>tal were, die er dan ausserhalb der ge
+<lb break="no" n="35"/>nanten kilchspel <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vaduz</placeName> verkhauffen 
+<lb n="36"/>oder verschenckhen wurd, derselb soll von  
+<lb n="37"/>den geschwornen umb zechen schilling pfening  
+<lb n="38"/>unablesslich gestrafft werden. 
+<lb n="39"/>Item es soll auch khain haimscher oder gesessner  
+<lb n="40"/>in bemelten kilchsperg <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vaduz</placeName>, wild
+<lb break="no" n="41"/>feng und zweig, in der ebne landts und der 
+<lb n="42"/>thälen, bey vorangezaigter straff der fünff  
+<lb n="43"/>schilling pfening graben, aber zu besserung  
+<lb n="44"/>und underhaltung seiner gerten und pömen,  
+<lb n="45"/>soll und mag ain jeder haimbscher und einge
+<lb break="no" n="46"/>sessner vorgenanter kilsperg <placeName ref="lub-places-53">Schan</placeName> und 
+<lb n="47"/><placeName ref="lub-places-1">Vaduz</placeName> in der höche und her gen zway unnd  
+<lb n="48"/>wildfeng, wie und waß er will, zu seiner  
+<lb n="49"/>notturfft doch nämblich nit wuesstlich  
+<lb n="50"/>oder verderbklich graben. 
+<lb n="51"/>Item die awen under und oberhalb  
+<lb n="52"/>wur gelegen, sollen bey der geschwornen  
+<lb n="53"/>straff, wie von alterher in bann ligen. 
+</p>
+        <p><pb facs="lub-media-2304" n="3"/><lb n="54"/>Item all forhen, klain und groß, in stillen  
+<lb n="55"/>ferung und allenthalben in den ebnen  
+<lb n="56"/>welden sollen, auch in bann, bey der ge
+<lb break="no" n="57"/>schwornen straff gehalten werden.
+</p>
+        <p><lb n="58"/>Item waß forhen auch in der höche pergen,  
+<lb n="59"/>und anderstwo, so prunnendeichel geben,  
+<lb n="60"/>oder darzu erwachsen mogen, seind auch  
+<lb n="61"/>alle bey der geschwornen straff in bann  
+<lb n="62"/>gelegt. 
+</p>
+        <p><lb n="63"/>Item es soll auch khainer, weder in perg  
+<lb n="64"/>oder in tal, klain noch groß, forhen on  
+<lb n="65"/>vorangezaigt und erlaubtnuß der geschwor
+<lb break="no" n="66"/>nen hawen bey der pueß und straff, wie 
+<lb n="67"/>vorbemelt ist. 
+</p>
+        <p><lb n="68"/>Item all ainichen fruchtbar und geperend  
+<lb n="69"/>pöm, dergleichen alle alber, wo die er
+<lb break="no" n="70"/>wachsen sollen, bey der geschwornen straff, 
+<lb n="71"/>auch in bann sein. 
+</p>
+        <p><lb n="72"/>Item all thannen und forhen, klain unnd  
+<lb n="73"/>groß, auf Plaz, <placeName ref="lub-places-2">Raggell</placeName> und auf baiden  
+<lb n="74"/>theyden ob deß <placeName ref="lub-places-597">Grippels weg</placeName>, krad hin
+<lb break="no" n="75"/>auf von deß <placeName ref="lub-places-598">Jegers plaz</placeName>, dem weg 
+<lb n="76"/>nach biß in die <placeName ref="lub-places-599">Eiben egckh</placeName> und der  
+<lb n="77"/><placeName ref="lub-places-599">Eyben</placeName> nach wider herab in die rüffi,  
+<lb n="78"/>sollen auch bey der geschwornen pueß  
+<lb n="79"/>und straff gehalten werden, in bann wie
+<lb break="no" n="80"/>vor angezaigt ist.
+</p>
+        <p><pb facs="lub-media-2305" n="4"/><lb n="81"/>Item was auch von forhen, thannen gerdt  
+<lb n="82"/>standen, auch ander bom, klain und groß,  
+<lb n="83"/>under dem ruffi, wir under Raggel, zwischen  
+<lb n="84"/>dem perg und dem weg, der gegen <placeName ref="lub-places-2">Raggel</placeName>  
+<lb n="85"/>wiß gath, ist alles in bann bey der ge
+<lb break="no" n="86"/>schwornen straff gelegt.
+<lb n="87"/>Item der wald Montona und Berenboden,  
+<lb n="88"/>auch sonst alle forhen und thannen, klain  
+<lb n="89"/>und groß, so ob dem weg, der auff Planckhen  
+<lb n="90"/>gat, alles der höche nach, biß in den Wasser
+<lb break="no" n="91"/>zug und in Platten tobel, auch die so in das 
+<lb n="92"/>tobel vollplanckhen gedeyen und raichen  
+<lb n="93"/>mögen, sollen in bann, wie von alter  
+<lb n="94"/>her in der geschwornen straff gehaissen  
+<lb n="95"/>und gehalten werden. 
+<lb n="96"/>Item auch all ander wäld und böm, so  
+<lb n="97"/>vormals in bann gelegt seind, sollen  
+<lb n="98"/>auch nochmalß fürohin wie von alter  
+<lb n="99"/>her in bann beleyben. 
+<lb n="100"/>Item es soll auch kainer, wer der sey,  
+<lb n="101"/>in den welden und hölzern, so nit in bann  
+<lb n="102"/>gelegt seind, weder zu verkhauffen noch  
+<lb n="103"/>zuverschenckhen, noch sonst in ander weg  
+<lb n="104"/>wuesstlich und verderbkhlich anderst  
+<lb n="105"/>dan allain zu seiner notturfft, aller
+<lb break="no" n="106"/>lay holz hawen, sover daß er zu Wey
+<lb break="no" n="107"/>nächten nit mer dan ain fueder alt 
+<lb n="108"/>scheiter ungevorlich bey seinem hauß hab  
+<pb facs="lub-media-2306" n="5"/>
+<lb n="109"/>und hievor khain scheitter beig hinzuthun  
+<lb n="110"/>noch machen, one bewilligung bey der straff  
+<lb n="111"/>und pueß vorbemelts unsers gnedigen herren  
+<lb n="112"/>straff. 
+<lb n="113"/>Item und ob ainer oder mehr in den vorbe
+<lb break="no" n="114"/>nambten und sonst andern bannholzern, 
+<lb n="115"/>so also holz darinnen gehawen, betreten  
+<lb n="116"/>und ergriffen, oder desselbigen sonst überwißen  
+<lb n="117"/>möcht werden, soll nach der verhandlung  
+<lb n="118"/>und thaten, so offts ainer übsehen wurd,  
+<lb n="119"/>bey der geschwornen straff, doch alweg nach  
+<lb n="120"/>dem abgehawenen stumpen oder stamen ge
+<lb break="no" n="121"/>strafft werden.
+</p>
+        <p><lb n="122"/>Item welcher aber der wer, so sich an der ge
+<lb break="no" n="123"/>schwornen straff und pueß nit halten, sondern 
+<lb n="124"/>weiter darüber in vorbemelten und sonst  
+<lb n="125"/>andern bannholzern, wie und was daß  
+<lb n="126"/>für holz wär, hawen wurd, gegen demselben  
+<lb n="127"/>soll und will obbemelter unser gnediger  
+<lb n="128"/>herr, seiner gnaden straff hierinne vor
+<lb break="no" n="129"/>behalten haben und one noch leßig.
+</p>
+        <p><lb n="130"/>Item die geschwornen genanter kilchperg  
+<lb n="131"/><placeName ref="lub-places-53">Schann</placeName> und <placeName ref="lub-places-1">Vaduz</placeName> sampt und sonders sollen  
+<lb n="132"/>auch bey iren gethannen pflichten, glupten  
+<lb n="133"/>und ayden, ir getrew fleissig aufsehen  
+<lb n="134"/>haben, dann sover sy ainen oder mehr andern  
+<lb n="135"/>in bemelter straff verschonen, übersehen 
+<pb facs="lub-media-2307 " n="6"/>
+<lb n="136"/>oder sonst hinlössig sein, wurde obgenanter  
+<lb n="137"/>unser genediger herr, sy darumbe unge
+<lb break="no" n="138"/>zwifflt nit ungestrafft lassen, darnach 
+<lb n="139"/>hab sich ain jeder zurichten und im selbs  
+<lb n="140"/>vor schaden zu sein. 
+</p>
+        <p><lb n="141"/>Item dann auch der wegen im <placeName ref="lub-places-218">under</placeName> und  
+<lb n="142"/>obern Poffl halben soll benantlich ain  
+<lb n="143"/>jeder, so gueter darine hat, wo oder ann  
+<lb n="144"/>welche orten und enden dieselbige ge
+<lb break="no" n="145"/>legen synnd, alweg zu der rechten veldhuerd 
+<lb n="146"/>infahren und von danethin den rechten  
+<lb n="147"/>wegen nach ain jeder auf und ob dem seinen  
+<lb n="148"/>zum aller negsten und unschedlichsten. 
+</p>
+        <p><lb n="149"/>Item es soll auch khainer, wer der ist, dem  
+<lb n="150"/>dem andern über seine gueter wider unnd  
+<lb n="151"/>on sein willen, anderst dan da ain jeder recht  
+<lb n="152"/>hat faren. 
+<lb n="153"/>Item welcher oder welliche aber rechten  
+<lb n="154"/>wegen zufahren, nit bericht wären, oder  
+<lb n="155"/>sonst zwen, sich derselbigen wegen gegen  
+<lb n="156"/>und nit ain andern nit vergleichen, möchten  
+<lb n="157"/>sy, die geschwornen, dehalben ansuechen  
+<lb n="158"/>und pitten, dieselbigen sollen alßdann  
+<lb n="159"/>an verzug, wo sy der rechten wegen selbs  
+<lb n="160"/>nit guet wissen, hetten, anderlauth zu inen  
+<lb n="161"/>ziechen und den unwissenden guet under
+<lb break="no" n="162"/>richt der rechtgen wegen geben.
+</p>
+        <p><pb facs="lub-media-2308" n="7"/><lb n="163"/>Item disse ordnung, auch all und jetlich  
+<lb n="164"/>vorbeschriben artickhel, sollen fürohin in  
+<lb n="165"/>kainen weg gemindert, gemeret, noch  
+<lb n="166"/>abgethan werden an erlaubtnuß, wissen  
+<lb n="167"/>und willen, obgenants unsers genedigen  
+<lb n="168"/>herrn ald yedes dan zu zeiten seiner  
+<lb n="169"/>gnaden vogt zu <placeName ref="lub-places-7">Vaduz</placeName>, deß zu urkhund , 
+<lb n="170"/>befesstigung und bestettigung hab ich,  
+<lb n="171"/>obgedachter vogt <persName ref="lub-actors-155">Caspar Mammendorffer</persName>,  
+<lb n="172"/>sollichs alles wie vorstatt, mit meiner  
+<lb n="173"/>aigen hand underschriben und bezaichnet. 
+<lb n="174"/>Beschehen auf sontag wie vorgeschriben steet  
+<lb n="175"/>anno etc. 
+<lb n="176"/>Caspar Mamendorffer  
+<lb n="177"/>vogt zu <placeName ref="lub-places-7">Vaduz</placeName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2309" n="1"/><lb n="1"/>Ordnung der bannhölzer  
+<lb n="2"/>anno 1530. 
+<lb n="3"/>1. zu Weynächten nit mehr alß ein fuder ohngefehr  
+<lb n="4"/>alte scheiter bey hauß zu haben. 
+<lb n="5"/>2. steeg undt weeg im under und obern Poffell  
+<lb n="6"/>wie solche zu nehmen etc. 
+</p>
+        <p><lb n="7"/>Ordnung, welche auen und wälder in bann  
+<lb n="8"/>gelegt werden sollen. De dato 15. may 1530. 
+<lb n="9"/>Unter Rudolph  
+<lb n="10"/>graven von  
+<lb n="11"/>Sulz 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

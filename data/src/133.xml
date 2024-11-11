@@ -14,8 +14,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-133">AT-VLA, Vogteiamt Feldkirch, Urk. 3421</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1604 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3421/charter?q=Mauren)</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-133">AT-VLA, Vogteiamt Feldkirch, Urk. 3421</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1604 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/AT-VLA/FeldkirchVogteiA/3421/charter?q=Mauren">monasterium.net</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

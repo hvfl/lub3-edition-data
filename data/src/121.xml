@@ -14,8 +14,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-121">AT-VLA, RH Blumenegg Urk. 6899</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 31. Januar 1529 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/BlumeneggReichshft/6899/charter?q=Sulz)</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-121">AT-VLA, RH Blumenegg Urk. 6899</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 31. Januar 1529 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/AT-VLA/BlumeneggReichshft/6899/charter?q=Sulz">monasterium.net</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

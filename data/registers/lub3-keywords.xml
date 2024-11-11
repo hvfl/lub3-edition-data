@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-08 14:39:28 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-11 10:25:07 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-11-08T14:39:28+01:00">teiHeader was automatically produced from the database 2024-11-08T14:39:28+01:00</change>
+      <change when="2024-11-11T10:25:07+01:00">teiHeader was automatically produced from the database 2024-11-11T10:25:07+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1243,6 +1243,40 @@
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/71007/mode/1up">Idiotikon</ref>
               </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-404">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Streichwuhr</label>
+          <label xml:lang="de" type="sort">streichwuhr</label>
+          <note type="description" xml:lang="de">
+            <p>Parallel zur Flussrichtung erbauter Damm.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://historisches-lexikon.li/Wuhrsysteme">HLFL</ref>
+              </bibl>
+              <bibl>Johannes Georg KRÜNITZ, Oekonomische Encyklopädie, oder allgemeines System der Staats-, Stadt-, Haus- u. Landwirthschaft, in alphabetischer Ordnung, Bd. 235, Leipzig 1785, S. 539.</bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-405">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Schupfwuhr</label>
+          <label xml:lang="de" type="sort">schupfwuhr</label>
+          <note type="description" xml:lang="de">
+            <p>Ein Stoss- oder Schupfwuhr lenkte das Wasser von einem Ufer zum anderen.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://historisches-lexikon.li/Wuhrsysteme">HLFL</ref>
+              </bibl>
+              <bibl>Lukas Heinzmann, Die Emme im Kanton Solothurn – Nutzungsformen,</bibl>
             </listBibl>
           </note>
         </item>
