@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-11 10:44:58 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-11-22 09:04:14 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-11-11T10:44:58+01:00">teiHeader was automatically produced from the database 2024-11-11T10:44:58+01:00</change>
+      <change when="2024-11-22T09:04:14+01:00">teiHeader was automatically produced from the database 2024-11-22T09:04:14+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -127,6 +127,10 @@
         <item xml:id="lub-keywords-35">
           <label xml:lang="de" type="main">Protestantismus</label>
           <label xml:lang="de" type="sort">protestantismus</label>
+        </item>
+        <item xml:id="lub-keywords-38">
+          <label xml:lang="de" type="main">Walser</label>
+          <label xml:lang="de" type="sort">walser</label>
         </item>
         <item xml:id="lub-keywords-41">
           <label xml:lang="de" type="main">Jagd</label>
@@ -699,6 +703,10 @@
           <label xml:lang="de" type="main">Kriegsvorbereitung</label>
           <label xml:lang="de" type="sort">kriegsvorbereitung</label>
         </item>
+        <item xml:id="lub-keywords-331">
+          <label xml:lang="de" type="main">Getreide</label>
+          <label xml:lang="de" type="sort">getreide</label>
+        </item>
         <item xml:id="lub-keywords-333">
           <label xml:lang="de" type="main">Hof</label>
           <label xml:lang="de" type="sort">hof</label>
@@ -1208,6 +1216,16 @@
               </bibl>
             </listBibl>
           </note>
+        </item>
+        <item xml:id="lub-keywords-393">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hirse</label>
+          <label xml:lang="de" type="sort">hirse</label>
+          <note type="description" xml:lang="de">
+            <p>Getreide</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm, Bd. 10, Sp. 1571.</note>
         </item>
         <item xml:id="lub-keywords-397">
           <objectType xml:lang="de">Quellenbegriff</objectType>
