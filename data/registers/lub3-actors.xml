@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-22 09:04:08 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-12-10 07:16:18 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1030,6 +1030,17 @@
               </listBibl>
             </note>
           </person>
+          <person xml:id="lub-actors-161">
+            <persName type="full" xml:lang="de">Schmid, Michl (1525–1538)</persName>
+            <persName type="main" xml:lang="de">Schmid, Michl</persName>
+            <persName type="sort" xml:lang="de">schmid, michl</persName>
+            <persName type="alternative" xml:lang="de">Schmied, Michel</persName>
+            <birth when="1525"/>
+            <death when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Rädelsführer im Bauernaufstand. Seine Erben zinsen von seiner Taverne 1538 in Schaan.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-165">
             <persName type="full" xml:lang="de">Öhri, Hans (3) (1579–1589)</persName>
             <persName type="main" xml:lang="de">Öhri, Hans (3)</persName>
@@ -1330,13 +1341,16 @@
             <note type="sources">[HLFL](https://historisches-lexikon.li/Degen_(Thegen),_J%C3%B6rg)</note>
           </person>
           <person xml:id="lub-actors-212">
-            <persName type="full" xml:lang="de">Frick, Gabriel (1511–1520)</persName>
+            <persName type="full" xml:lang="de">Frick, Gabriel (1511–1613)</persName>
             <persName type="main" xml:lang="de">Frick, Gabriel</persName>
             <persName type="sort" xml:lang="de">frick, gabriel</persName>
+            <persName type="alternative" xml:lang="de">Frickh, Gabriel</persName>
             <birth when="1511-03-17"/>
-            <death when="1520-05-19"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Vaduz. Pfleger der St.-Thomas-Pfründe in Schaan.</p>
+              <list>
+                <item>1511 wohnhaft in Vaduz. Pfleger der St.-Thomas-Pfründe in Schaan.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-213">
@@ -1540,10 +1554,15 @@
             <persName type="full" xml:lang="de">Walser, Thomas (1584–1613)</persName>
             <persName type="main" xml:lang="de">Walser, Thomas</persName>
             <persName type="sort" xml:lang="de">walser, thomas</persName>
+            <persName type="alternative" xml:lang="de">Wallser</persName>
             <birth when="1584"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Von Schaan, Wirt. 1596, 1597, 1601 und 1611 als Landammann der Grafschaft Vaduz erwähnt.</p>
+              <list>
+                <item>1582 in Schaan wohnhaft.</item>
+                <item>Wirt.</item>
+                <item>1596, 1597, 1601 und 1611 als Landammann der Grafschaft Vaduz erwähnt.</item>
+              </list>
             </note>
             <note type="sources">[HLFL](https://historisches-lexikon.li/Walser,_Thomas_(ca._1584%E2%80%931613))</note>
           </person>
@@ -1896,13 +1915,16 @@
             <note type="sources">[HLFL](https://historisches-lexikon.li/Wolf,_Albrecht_(Abrecht))</note>
           </person>
           <person xml:id="lub-actors-297">
-            <persName type="full" xml:lang="de">Thöni, Jörg (1) (1511–1536)</persName>
+            <persName type="full" xml:lang="de">Thöni, Jörg (1) (1511–1613)</persName>
             <persName type="main" xml:lang="de">Thöni, Jörg (1)</persName>
             <persName type="sort" xml:lang="de">thoeni, joerg (1)</persName>
+            <persName type="alternative" xml:lang="de">Thöni, Jeorg</persName>
             <birth when="1511-03-17"/>
-            <death when="1536-06-19"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Vaduz. Urteilssprecher. Pfleger der St.-Thomas-Pfründe in Schaan. Ehemann von <ref target="853">Elsa Neyer</ref>.</p>
+              <list>
+                <item>1511 wohnhaft in Vaduz. Urteilssprecher. Pfleger der St.-Thomas-Pfründe in Schaan. Ehemann von <ref target="853">Elsa Neyer</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-298">
@@ -2343,14 +2365,17 @@
             <death when="1459"/>
           </person>
           <person xml:id="lub-actors-347">
-            <persName type="full" xml:lang="de">Frick, Adam (1) (1517–1550)</persName>
+            <persName type="full" xml:lang="de">Frick, Adam (1) (1517–1538)</persName>
             <persName type="main" xml:lang="de">Frick, Adam (1)</persName>
             <persName type="sort" xml:lang="de">frick, adam (1)</persName>
             <persName type="alternative" xml:lang="de">Frickh, Adam</persName>
             <birth when="1517-09-13"/>
-            <death when="1550-01-25"/>
+            <death when="1538"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Vaduz. 1523-1528, 1536-1538 als Landammann der Grafschaft Vaduz belegt.</p>
+              <list>
+                <item>Wohnhaft in Vaduz. 1523-1528, 1536-1538 als Landammann der Grafschaft Vaduz belegt.</item>
+                <item>Gutsbesitzer in Triesen.</item>
+              </list>
             </note>
             <note type="sources">[HLFL](https://historisches-lexikon.li/Frick,_Adam)</note>
           </person>
@@ -2454,12 +2479,17 @@
             <note type="sources">[HLFL](https://historisches-lexikon.li/Schierscher,_Hans)</note>
           </person>
           <person xml:id="lub-actors-364">
-            <persName type="full" xml:lang="de">Lampert, Peter (2) (1610–)</persName>
+            <persName type="full" xml:lang="de">Lampert, Peter (2) (1610–1613)</persName>
             <persName type="main" xml:lang="de">Lampert, Peter (2)</persName>
             <persName type="sort" xml:lang="de">lampert, peter (2)</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Petter</persName>
             <birth when="1610-11-11"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Von Wangerbärg (Triesenberg).</p>
+              <list>
+                <item>Von Wangerbärg (Triesenberg).</item>
+                <item>1594 Gutsbesitzer in Triesen.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-378">
@@ -3065,12 +3095,18 @@
             </note>
           </person>
           <person xml:id="lub-actors-437">
-            <persName type="full" xml:lang="de">Tanner, Hans (1) (1553–)</persName>
+            <persName type="full" xml:lang="de">Tanner, Hans (1) (1553–1613)</persName>
             <persName type="main" xml:lang="de">Tanner, Hans (1)</persName>
             <persName type="sort" xml:lang="de">tanner, hans (1)</persName>
+            <persName type="alternative" xml:lang="de">Tanner, Hans</persName>
             <birth when="1553-02-09"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesen.</p>
+              <list>
+                <item>Lebensdaten: † vor 1575.</item>
+                <item>1553 wohnhaft in Triesen.</item>
+                <item>Gutsbesitzer in Triesenberg.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-438">
@@ -3147,13 +3183,18 @@
             </note>
           </person>
           <person xml:id="lub-actors-448">
-            <persName type="full" xml:lang="de">Bertsch, Christian (1550–)</persName>
+            <persName type="full" xml:lang="de">Bertsch, Christian (1550–1613)</persName>
             <persName type="main" xml:lang="de">Bertsch, Christian</persName>
             <persName type="sort" xml:lang="de">bertsch, christian</persName>
             <persName type="alternative" xml:lang="de">Pertsch, Cristan</persName>
+            <persName type="alternative" xml:lang="de">Pertsch, Christa</persName>
             <birth when="1550-06-29"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesen.</p>
+              <list>
+                <item>Wohnhaft in Triesen.</item>
+                <item>Besitz 1550 eine Wein- und einen Baumgarten in Triesen.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-449">
@@ -3506,12 +3547,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-484">
-            <persName type="full" xml:lang="de">Frommelt, Jörg (2) (1594–)</persName>
+            <persName type="full" xml:lang="de">Frommelt, Jörg (2) (1594–1613)</persName>
             <persName type="main" xml:lang="de">Frommelt, Jörg (2)</persName>
             <persName type="sort" xml:lang="de">frommelt, joerg (2)</persName>
+            <persName type="alternative" xml:lang="de">Frumoldt, Jerg</persName>
+            <persName type="alternative" xml:lang="de">Frumoldt, Georg</persName>
             <birth when="1594-11-11"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesenberg. Verheiratet mit <ref target="485">Elsa Lampert</ref>.</p>
+              <p>Wohnhaft in Triesenberg. Verheiratet mit <ref target="485">Elsa Lampert</ref>. Besitzer des Underguad. 1613 bereits verstorben.</p>
             </note>
           </person>
           <person xml:id="lub-actors-485">
@@ -3657,7 +3701,8 @@
             <persName type="full" xml:lang="de">Hohenems, Marx Sittich III. (1529–1564)</persName>
             <persName type="main" xml:lang="de">Hohenems, Marx Sittich III.</persName>
             <persName type="sort" xml:lang="de">hohenems, marx sittich iii.</persName>
-            <persName type="alternative" xml:lang="de">Ems</persName>
+            <persName type="alternative" xml:lang="de">Embs, Merck Sittichen</persName>
+            <persName type="alternative" xml:lang="de">Embs, Merckh Syttichen</persName>
             <birth when="1529"/>
             <death when="1564"/>
             <note type="description" xml:lang="de">
@@ -3807,15 +3852,19 @@
             <birth when="1550-01-25"/>
           </person>
           <person xml:id="lub-actors-538">
-            <persName type="full" xml:lang="de">Lifer, Lienhart (1538–1550)</persName>
+            <persName type="full" xml:lang="de">Lifer, Lienhart (1538–1613)</persName>
             <persName type="main" xml:lang="de">Lifer, Lienhart</persName>
             <persName type="sort" xml:lang="de">lifer, lienhart</persName>
             <persName type="alternative" xml:lang="de">Liffrer, Lienhart</persName>
             <persName type="alternative" xml:lang="de">Lyffer, Liennhart</persName>
+            <persName type="alternative" xml:lang="de">Lifer, Leonhardt</persName>
             <birth when="1538-02-22"/>
-            <death when="1550-01-25"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesen. Verheiratet mit <ref target="539">Margaretha Gantner</ref>. Bruder von <ref target="998">Jacob</ref>.</p>
+              <list>
+                <item>Wohnhaft in Triesen. Verheiratet mit <ref target="539">Margaretha Gantner</ref>. Bruder von <ref target="998">Jacob</ref>.</item>
+                <item>1550 Gutsbesitzer in Triesen.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-539">
@@ -3909,11 +3958,18 @@
             </note>
           </person>
           <person xml:id="lub-actors-556">
-            <persName type="full" xml:lang="de">Plenki, Peter (1589–)</persName>
+            <persName type="full" xml:lang="de">Plenki, Peter (1589–1613)</persName>
             <persName type="main" xml:lang="de">Plenki, Peter</persName>
             <persName type="sort" xml:lang="de">plenki, peter</persName>
             <persName type="alternative" xml:lang="de">Blennckhi, Petter</persName>
+            <persName type="alternative" xml:lang="de">Blenckhe, Petter</persName>
             <birth when="1589-11-11"/>
+            <death when="1613"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>1586 besitzt Gut in Vaduz.</item>
+              </list>
+            </note>
           </person>
           <person xml:id="lub-actors-557">
             <persName type="full" xml:lang="de">Schuler, Peter (–1588)</persName>
@@ -3985,14 +4041,19 @@
             </note>
           </person>
           <person xml:id="lub-actors-603">
-            <persName type="full" xml:lang="de">Beck, Hans (2) (1550–1600)</persName>
+            <persName type="full" xml:lang="de">Beck, Hans (2) (1550–1613)</persName>
             <persName type="main" xml:lang="de">Beck, Hans (2)</persName>
             <persName type="sort" xml:lang="de">beck, hans (2)</persName>
+            <persName type="alternative" xml:lang="de">Beckh, Hans</persName>
             <birth when="1550-10-13"/>
-            <death when="1600"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Lebensdaten: † vor 1602-10-11.</p>
-              <p>Wohnhaft in Üenaboda (Triesenberg). Verheiratet mit Ursula Pfeiffer.</p>
+              <list>
+                <item>Wohnhaft in Üenaboda (Triesenberg).</item>
+                <item>Verheiratet mit <ref target="604">Ursula Pfeiffer</ref>.</item>
+                <item>1575 Gutsbesitzer in Triesenberg.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-604">
@@ -4001,7 +4062,7 @@
             <persName type="sort" xml:lang="de">pfeiffer, ursula</persName>
             <birth when="1550-10-13"/>
             <note type="description" xml:lang="de">
-              <p>Verheiratet mit Hans Beck.</p>
+              <p>Verheiratet mit <ref target="603">Hans Beck</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-606">
@@ -4308,23 +4369,35 @@
             </note>
           </person>
           <person xml:id="lub-actors-644">
-            <persName type="full" xml:lang="de">Hilbe, Ulrich (1) (1527–)</persName>
+            <persName type="full" xml:lang="de">Hilbe, Ulrich (1) (1527–1613)</persName>
             <persName type="main" xml:lang="de">Hilbe, Ulrich (1)</persName>
             <persName type="sort" xml:lang="de">hilbe, ulrich (1)</persName>
             <persName type="alternative" xml:lang="de">Hilbi</persName>
+            <persName type="alternative" xml:lang="de">Hilbig, Ulli</persName>
             <birth when="1527"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>aus Triesenberg</p>
+              <list>
+                <item>Wohnhaft in Triesenberg.</item>
+                <item>1569 als Gutsbesitzer in Triesenberg genannt.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-645">
-            <persName type="full" xml:lang="de">Nägele, Hans (1) (1527–)</persName>
+            <persName type="full" xml:lang="de">Nägele, Hans (1) (1527–1613)</persName>
             <persName type="main" xml:lang="de">Nägele, Hans (1)</persName>
             <persName type="sort" xml:lang="de">naegele, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Negele</persName>
+            <persName type="alternative" xml:lang="de">Negelin, Hans</persName>
             <birth when="1527"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesenberg.</p>
+              <list>
+                <item>Wohnhaft in Triesenberg.</item>
+                <item>1569 Gutsbesitzer in Triesenberg, das Wisli(2).</item>
+                <item>Sohn von <ref target="647">Ulrich Negele</ref>.</item>
+                <item>1569 Ehemann von <ref target="1650">Lena Frommelt</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-646">
@@ -4723,10 +4796,17 @@
             </note>
           </person>
           <person xml:id="lub-actors-740">
-            <persName type="full" xml:lang="de">Frommelt, Peter (1511–)</persName>
+            <persName type="full" xml:lang="de">Frommelt, Peter (1511–1613)</persName>
             <persName type="main" xml:lang="de">Frommelt, Peter</persName>
             <persName type="sort" xml:lang="de">frommelt, peter</persName>
+            <persName type="alternative" xml:lang="de">Frumoldt, Pertter</persName>
             <birth when="1511-03-17"/>
+            <death when="1613"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>1511 Gutsbesitzer in Schaan.</item>
+              </list>
+            </note>
           </person>
           <person xml:id="lub-actors-741">
             <persName type="full" xml:lang="de">Bitschi, Eva (1511–)</persName>
@@ -5196,12 +5276,17 @@
             </note>
           </person>
           <person xml:id="lub-actors-805">
-            <persName type="full" xml:lang="de">Vaistli, Heinrich (–1500)</persName>
+            <persName type="full" xml:lang="de">Vaistli, Heinrich (1501–1613)</persName>
             <persName type="main" xml:lang="de">Vaistli, Heinrich</persName>
             <persName type="sort" xml:lang="de">vaistli, heinrich</persName>
-            <death when="1500"/>
+            <persName type="alternative" xml:lang="de">Vaistlin, Hainrich</persName>
+            <birth when="1501"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer von Gütern in Vaduz.</p>
+              <list>
+                <item>Besitzer von Gütern in Vaduz.</item>
+                <item>um 1501 bereits verstorben.</item>
+              </list>
             </note>
             <note type="sources">Vgl. LUB II, Urk. vom 23.8.1507 (BAC).</note>
           </person>
@@ -5270,6 +5355,17 @@
             <death when="1579-08-17"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Dort Kirchenpfleger.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-826">
+            <persName type="full" xml:lang="de">Marxer, Lienhart (1538–1568)</persName>
+            <persName type="main" xml:lang="de">Marxer, Lienhart</persName>
+            <persName type="sort" xml:lang="de">marxer, lienhart</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Lienhartt</persName>
+            <birth when="1538"/>
+            <death when="1568-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Bendern. Dort Kirchmeier. Zinst in Mauren</p>
             </note>
           </person>
           <person xml:id="lub-actors-836">
@@ -5823,10 +5919,17 @@
             </note>
           </person>
           <person xml:id="lub-actors-902">
-            <persName type="full" xml:lang="de">Beck, Adam (1550–)</persName>
+            <persName type="full" xml:lang="de">Beck, Adam (1550–1613)</persName>
             <persName type="main" xml:lang="de">Beck, Adam</persName>
             <persName type="sort" xml:lang="de">beck, adam</persName>
+            <persName type="alternative" xml:lang="de">Beckh, Adam</persName>
             <birth when="1550-10-13"/>
+            <death when="1613"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>1569 Gutsbesitzer in Triesenberg.</item>
+              </list>
+            </note>
           </person>
           <person xml:id="lub-actors-903">
             <persName type="full" xml:lang="de">Muhel, Hans (1550–)</persName>
@@ -6503,23 +6606,29 @@
             </note>
           </person>
           <person xml:id="lub-actors-997">
-            <persName type="full" xml:lang="de">Bertsch, Bastian (–1550)</persName>
-            <persName type="main" xml:lang="de">Bertsch, Bastian</persName>
-            <persName type="sort" xml:lang="de">bertsch, bastian</persName>
-            <death when="1550-01-25"/>
+            <persName type="full" xml:lang="de">Bertsch, Sebastian (1550–1613)</persName>
+            <persName type="main" xml:lang="de">Bertsch, Sebastian</persName>
+            <persName type="sort" xml:lang="de">bertsch, sebastian</persName>
+            <persName type="alternative" xml:lang="de">Bertsch, Bastian</persName>
+            <birth when="1550-01-25"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Lebensdaten: † vor 1550-01-25</p>
               <p>Besitzer eines Guts in Triesen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-998">
-            <persName type="full" xml:lang="de">Lifer, Jacob (1550–)</persName>
-            <persName type="main" xml:lang="de">Lifer, Jacob</persName>
-            <persName type="sort" xml:lang="de">lifer, jacob</persName>
+            <persName type="full" xml:lang="de">Lifer, Jakob (1550–1613)</persName>
+            <persName type="main" xml:lang="de">Lifer, Jakob</persName>
+            <persName type="sort" xml:lang="de">lifer, jakob</persName>
             <persName type="alternative" xml:lang="de">Liffer, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Lifer, Jacob</persName>
             <birth when="1550-01-25"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer eines Guts in Triesen. Bruder von <ref target="538">Lienhart</ref>.</p>
+              <list>
+                <item>Besitzer eines Guts in Triesen um 1550. Bruder von <ref target="538">Lienhart</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-999">
@@ -6718,15 +6827,19 @@
             </note>
           </person>
           <person xml:id="lub-actors-1026">
-            <persName type="full" xml:lang="de">Gassner, Georg (2) (1601–1610)</persName>
+            <persName type="full" xml:lang="de">Gassner, Georg (2) (1601–1613)</persName>
             <persName type="main" xml:lang="de">Gassner, Georg (2)</persName>
             <persName type="sort" xml:lang="de">gassner, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Gaßner, Geörg</persName>
             <persName type="alternative" xml:lang="de">Gosner, Jerg</persName>
+            <persName type="alternative" xml:lang="de">Ga0ner, Jerg</persName>
             <birth when="1601"/>
-            <death when="1610"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesen.</p>
+              <list>
+                <item>Wohnhaft in Triesen.</item>
+                <item>Gutsbesitzer in Triesenberg.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1027">
@@ -6737,11 +6850,19 @@
             <birth when="1610"/>
           </person>
           <person xml:id="lub-actors-1028">
-            <persName type="full" xml:lang="de">Kindle, Debus</persName>
+            <persName type="full" xml:lang="de">Kindle, Debus (1610–1613)</persName>
             <persName type="main" xml:lang="de">Kindle, Debus</persName>
             <persName type="sort" xml:lang="de">kindle, debus</persName>
             <persName type="alternative" xml:lang="de">Kindli, Debas</persName>
             <persName type="alternative" xml:lang="de">Debaß</persName>
+            <persName type="alternative" xml:lang="de">Kündli, Debus</persName>
+            <birth when="1610"/>
+            <death when="1613"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>Wohnhaft in Triesen. Vogt von <ref target="1653">Christian Beck</ref>.</item>
+              </list>
+            </note>
           </person>
           <person xml:id="lub-actors-1029">
             <persName type="full" xml:lang="de">Banzer, Lorenz (1610–)</persName>
@@ -6820,13 +6941,17 @@
             </note>
           </person>
           <person xml:id="lub-actors-1037">
-            <persName type="full" xml:lang="de">Bargetze, Jakob (1610–)</persName>
+            <persName type="full" xml:lang="de">Bargetze, Jakob (1610–1613)</persName>
             <persName type="main" xml:lang="de">Bargetze, Jakob</persName>
             <persName type="sort" xml:lang="de">bargetze, jakob</persName>
             <persName type="alternative" xml:lang="de">Bargeze, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Bargezi, Jacob</persName>
             <birth when="1610"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>wohnhaft in Triesen</p>
+              <list>
+                <item>Wohnhaft in Triesen</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1038">
@@ -7187,15 +7312,18 @@
             <note type="sources">-[HS]( https://hls-dhs-dss.ch/de/articles/021840/2011-12-19/)</note>
           </person>
           <person xml:id="lub-actors-1075">
-            <persName type="full" xml:lang="de">Düntel, Jakob (1579–1604)</persName>
+            <persName type="full" xml:lang="de">Düntel, Jakob (1579–1613)</persName>
             <persName type="main" xml:lang="de">Düntel, Jakob</persName>
             <persName type="sort" xml:lang="de">duentel, jakob</persName>
             <persName type="alternative" xml:lang="de">Tündtl, Jacob</persName>
             <persName type="alternative" xml:lang="de">Tüntel, Jacob</persName>
             <birth when="1579-08-17"/>
-            <death when="1604-03-07"/>
+            <death when="1613-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan.</p>
+              <list>
+                <item>Gutsbesitzer in Schaan.</item>
+                <item>1586 besitzt Gut in Vaduz.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1076">
@@ -7210,13 +7338,18 @@
             </note>
           </person>
           <person xml:id="lub-actors-1077">
-            <persName type="full" xml:lang="de">Wanger, Zeno (1585–)</persName>
+            <persName type="full" xml:lang="de">Wanger, Zeno (1585–1613)</persName>
             <persName type="main" xml:lang="de">Wanger, Zeno</persName>
             <persName type="sort" xml:lang="de">wanger, zeno</persName>
             <persName type="alternative" xml:lang="de">Wangner, Zenus</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Zynus</persName>
             <birth when="1585-11-10"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan.</p>
+              <list>
+                <item>Gutsbesitzer in Schaan.</item>
+                <item>1582 Gutsbesitzer in Schaan.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1078">
@@ -7697,24 +7830,33 @@
             </note>
           </person>
           <person xml:id="lub-actors-1143">
-            <persName type="full" xml:lang="de">Wanger, Heinrich (2) (1585–1604)</persName>
+            <persName type="full" xml:lang="de">Wanger, Heinrich (2) (1585–1613)</persName>
             <persName type="main" xml:lang="de">Wanger, Heinrich (2)</persName>
             <persName type="sort" xml:lang="de">wanger, heinrich (2)</persName>
             <persName type="alternative" xml:lang="de">Wanger, Hainrich</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Hainrich</persName>
             <birth when="1585-11-11"/>
-            <death when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan.</p>
+              <list>
+                <item>Gutsbesitzer in Schaan.</item>
+                <item>1582 wohnhaft in Schaan.</item>
+                <item>Ehemann von <ref target="1639">Katharina Konrad</ref>.</item>
+                <item>1613 bereits verstorben.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1144">
-            <persName type="full" xml:lang="de">Frick, Adam (2) (1585–1604)</persName>
+            <persName type="full" xml:lang="de">Frick, Adam (2) (1585–1613)</persName>
             <persName type="main" xml:lang="de">Frick, Adam (2)</persName>
             <persName type="sort" xml:lang="de">frick, adam (2)</persName>
             <birth when="1585-11-11"/>
-            <death when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Schaan. Ehemann von Anna Verling.</p>
+              <list>
+                <item>Schaan. Ehemann von Anna Verling.</item>
+                <item>Gutsbesitzer in Triesen.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1145">
@@ -7728,13 +7870,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-1146">
-            <persName type="full" xml:lang="de">Hilti, Peter (1589–1604)</persName>
+            <persName type="full" xml:lang="de">Hilti, Peter (1589–1613)</persName>
             <persName type="main" xml:lang="de">Hilti, Peter</persName>
             <persName type="sort" xml:lang="de">hilti, peter</persName>
             <persName type="alternative" xml:lang="de">Hülti, Petter</persName>
             <persName type="alternative" xml:lang="de">Hülti, Peter</persName>
+            <persName type="alternative" xml:lang="de">Hilti, Petter</persName>
             <birth when="1589-09-22"/>
-            <death when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz. Güterbesitzer in Vaduz und Schaan.</p>
             </note>
@@ -7753,22 +7896,27 @@
             </note>
           </person>
           <person xml:id="lub-actors-1149">
-            <persName type="full" xml:lang="de">Pfeiffer, Jörg (1594–)</persName>
+            <persName type="full" xml:lang="de">Pfeiffer, Jörg (1594–1613)</persName>
             <persName type="main" xml:lang="de">Pfeiffer, Jörg</persName>
             <persName type="sort" xml:lang="de">pfeiffer, joerg</persName>
             <persName type="alternative" xml:lang="de">Pfiffer, Jörg</persName>
+            <persName type="alternative" xml:lang="de">Pfeiffer, Jeorg</persName>
             <birth when="1594-11-11"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Gutsbesitzer in Prufatscheng (Triesenberg).</p>
             </note>
           </person>
           <person xml:id="lub-actors-1150">
-            <persName type="full" xml:lang="de">Oswald, Uli (1594–)</persName>
-            <persName type="main" xml:lang="de">Oswald, Uli</persName>
-            <persName type="sort" xml:lang="de">oswald, uli</persName>
+            <persName type="full" xml:lang="de">Ospelt, Uli (1594–1613)</persName>
+            <persName type="main" xml:lang="de">Ospelt, Uli</persName>
+            <persName type="sort" xml:lang="de">ospelt, uli</persName>
+            <persName type="alternative" xml:lang="de">Oswald, Uli</persName>
             <persName type="alternative" xml:lang="de">Oschwald, Uli</persName>
             <persName type="alternative" xml:lang="de">Oschwalt, Uli</persName>
+            <persName type="alternative" xml:lang="de">Oschwaldt, Ullin</persName>
             <birth when="1594-11-11"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Gutsbesitzer in Prufatscheng (Triesenberg). Das Namenbuch normalisiert zu Ospelt.</p>
             </note>
@@ -8238,12 +8386,17 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1219">
-            <persName type="full" xml:lang="de">Thöni, Jörg (2) (1596–)</persName>
+            <persName type="full" xml:lang="de">Thöni, Jörg (2) (1596–1613)</persName>
             <persName type="main" xml:lang="de">Thöni, Jörg (2)</persName>
             <persName type="sort" xml:lang="de">thoeni, joerg (2)</persName>
+            <persName type="alternative" xml:lang="de">Thöni, Jeorg</persName>
             <birth when="1596-08-09"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Vaduz.</p>
+              <list>
+                <item>Wohnhaft in Vaduz bis mind. 1613.</item>
+                <item>Gutsbesitzer in Schaan im Jahr 1584.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1220">
@@ -8968,14 +9121,19 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1290">
-            <persName type="full" xml:lang="de">Strub, Hans (4) (1514–1538)</persName>
+            <persName type="full" xml:lang="de">Strub, Hans (4) (1514–1613)</persName>
             <persName type="main" xml:lang="de">Strub, Hans (4)</persName>
             <persName type="sort" xml:lang="de">strub, hans (4)</persName>
             <persName type="alternative" xml:lang="de">Straub, Hans</persName>
+            <persName type="alternative" xml:lang="de">Strauben, Hannß</persName>
             <birth when="1514"/>
-            <death when="1538"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Mauren. Um 1538 bereits verstorben. Seine Erben zinsen in Schaan.</p>
+              <list>
+                <item>erw. in Mauren</item>
+                <item>um 1501 besitzt seine Frau ein Gut in Vaduz.</item>
+                <item>um 1538 bereits verstorben. Seine Erben zinsen in Schaan.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1291">
@@ -9144,14 +9302,18 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1313">
-            <persName type="full" xml:lang="de">Ganzmann, Christian (4) (1597–1604)</persName>
+            <persName type="full" xml:lang="de">Ganzmann, Christian (4) (1597–1613)</persName>
             <persName type="main" xml:lang="de">Ganzmann, Christian (4)</persName>
             <persName type="sort" xml:lang="de">ganzmann, christian (4)</persName>
             <persName type="alternative" xml:lang="de">Gantzman, Cristian</persName>
+            <persName type="alternative" xml:lang="de">Ganzman, Christa</persName>
             <birth when="1597-02-21"/>
-            <death when="1604-03-07"/>
+            <death when="1613-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan.</p>
+              <list>
+                <item>Wohnhaft in Schaan.</item>
+                <item>1586 Gutsbesitz in Vaduz.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1314">
@@ -9195,14 +9357,17 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1318">
-            <persName type="full" xml:lang="de">Lampert, Peter (1) (1538–1569)</persName>
+            <persName type="full" xml:lang="de">Lampert, Peter (1) (1538–1613)</persName>
             <persName type="main" xml:lang="de">Lampert, Peter (1)</persName>
             <persName type="sort" xml:lang="de">lampert, peter (1)</persName>
             <persName type="alternative" xml:lang="de">Lampart, Petter</persName>
             <birth when="1538"/>
-            <death when="1569-09-27"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesenberg.</p>
+              <p>Lebensdaten: † vor 1575.</p>
+              <list>
+                <item>Wohnhaft in Triesenberg und Gutsbesitzer.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1319">
@@ -9226,13 +9391,18 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1321">
-            <persName type="full" xml:lang="de">Beck, Thomas (1569–)</persName>
+            <persName type="full" xml:lang="de">Beck, Thomas (1569–1613)</persName>
             <persName type="main" xml:lang="de">Beck, Thomas</persName>
             <persName type="sort" xml:lang="de">beck, thomas</persName>
             <persName type="alternative" xml:lang="de">Beckh, Thoman</persName>
+            <persName type="alternative" xml:lang="de">Bekch, Thoman</persName>
             <birth when="1569-09-27"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesenberg.</p>
+              <list>
+                <item>Wohnhaft in Triesenberg.</item>
+                <item>1581 sesshaft auf der Gnalp in Triesenberg. Besitzt ein Gut in Alesch.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1322">
@@ -9300,14 +9470,19 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1331">
-            <persName type="full" xml:lang="de">Schurti, Luzius (1) (1569–)</persName>
+            <persName type="full" xml:lang="de">Schurti, Luzius (1) (1569–1613)</persName>
             <persName type="main" xml:lang="de">Schurti, Luzius (1)</persName>
             <persName type="sort" xml:lang="de">schurti, luzius (1)</persName>
             <persName type="alternative" xml:lang="de">Schurti, Lutzi</persName>
             <persName type="alternative" xml:lang="de">Schurte, Lutzi</persName>
+            <persName type="alternative" xml:lang="de">Schurthi, Lucius</persName>
             <birth when="1569-09-27"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Triesen.</p>
+              <list>
+                <item>Wohnhaft in Triesen.</item>
+                <item>Zinst noch im Jahr 1613.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1332">
@@ -9434,13 +9609,17 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1344">
-            <persName type="full" xml:lang="de">Ballasser, Peter (1604–)</persName>
+            <persName type="full" xml:lang="de">Ballasser, Peter (1604–1613)</persName>
             <persName type="main" xml:lang="de">Ballasser, Peter</persName>
             <persName type="sort" xml:lang="de">ballasser, peter</persName>
             <persName type="alternative" xml:lang="de">Ballaßer, Petter</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Schaan</p>
+              <list>
+                <item>Gutsbesitzer in Schaan,</item>
+                <item>Seine Ehefrau hat einen Weingarten in Schaa.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1345">
@@ -9541,13 +9720,14 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1355">
-            <persName type="full" xml:lang="de">Brandiser, Wolfgang (1) (1604–)</persName>
+            <persName type="full" xml:lang="de">Brandiser, Wolfgang (1) (1604–1613)</persName>
             <persName type="main" xml:lang="de">Brandiser, Wolfgang (1)</persName>
             <persName type="sort" xml:lang="de">brandiser, wolfgang (1)</persName>
             <persName type="alternative" xml:lang="de">Brandiser, Wollf</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Schaan</p>
+              <p>Wohnhaft in Schaan.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1356">
@@ -9693,25 +9873,35 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1370">
-            <persName type="full" xml:lang="de">Frick, Matthäus (1604–)</persName>
+            <persName type="full" xml:lang="de">Frick, Matthäus (1604–1613)</persName>
             <persName type="main" xml:lang="de">Frick, Matthäus</persName>
             <persName type="sort" xml:lang="de">frick, matthaeus</persName>
             <persName type="alternative" xml:lang="de">Frickh, Mathis</persName>
-            <persName type="alternative" xml:lang="de">Frickh, Theiß</persName>
+            <persName type="alternative" xml:lang="de">Frickh, Theiß, Frickh, Theweß</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Schaan - Vaduz</p>
+              <list>
+                <item>1604 besitzt Gut in Schaan.</item>
+                <item>1586 besitzt Gut in Vaduz.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1371">
-            <persName type="full" xml:lang="de">Frommelt, Christian (1604–)</persName>
+            <persName type="full" xml:lang="de">Frommelt, Christian (1604–1613)</persName>
             <persName type="main" xml:lang="de">Frommelt, Christian</persName>
             <persName type="sort" xml:lang="de">frommelt, christian</persName>
             <persName type="alternative" xml:lang="de">Frumold, Cristian</persName>
             <persName type="alternative" xml:lang="de">Frumoldt, Stoffel</persName>
+            <persName type="alternative" xml:lang="de">Frumoldt, Christa</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan und Vaduz</p>
+              <list>
+                <item>Wohnhaft in Vaduz.</item>
+                <item>Gutsbesitzer in Schaan und Vaduz</item>
+                <item>Ehemann von Barfla.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1372">
@@ -9876,9 +10066,9 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1389">
-            <persName type="full" xml:lang="de">Negele, Anna (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Anna</persName>
-            <persName type="sort" xml:lang="de">negele, anna</persName>
+            <persName type="full" xml:lang="de">Nägele, Anna (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Anna</persName>
+            <persName type="sort" xml:lang="de">naegele, anna</persName>
             <persName type="alternative" xml:lang="de">Negeli</persName>
             <birth when="1604-03-07"/>
             <note type="description" xml:lang="de">
@@ -10002,13 +10192,17 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1403">
-            <persName type="full" xml:lang="de">Jäger, Georg (1604–)</persName>
+            <persName type="full" xml:lang="de">Jäger, Georg (1604–1613)</persName>
             <persName type="main" xml:lang="de">Jäger, Georg</persName>
             <persName type="sort" xml:lang="de">jaeger, georg</persName>
             <persName type="alternative" xml:lang="de">Jeger, Jerg</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Vaduz</p>
+              <list>
+                <item>Gutsbesitzer in Vaduz.</item>
+                <item>Gutsbesitzer in Schaan.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1404">
@@ -10173,13 +10367,16 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1421">
-            <persName type="full" xml:lang="de">Konrad, Augustin (1604–)</persName>
+            <persName type="full" xml:lang="de">Konrad, Augustin (1604–1613)</persName>
             <persName type="main" xml:lang="de">Konrad, Augustin</persName>
             <persName type="sort" xml:lang="de">konrad, augustin</persName>
             <persName type="alternative" xml:lang="de">Conradt, Augustin</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Schaan.</p>
+              <list>
+                <item>Ab 1582 in Schaan erw.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1422">
@@ -10425,10 +10622,10 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1449">
-            <persName type="full" xml:lang="de">Negele, Adam (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Adam</persName>
-            <persName type="sort" xml:lang="de">negele, adam</persName>
-            <persName type="alternative" xml:lang="de">Nägele, Adam</persName>
+            <persName type="full" xml:lang="de">Nägele, Adam (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Adam</persName>
+            <persName type="sort" xml:lang="de">naegele, adam</persName>
+            <persName type="alternative" xml:lang="de">Negele, Adam</persName>
             <birth when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Schaan. Ehemann von Anna Müller.</p>
@@ -10444,13 +10641,20 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1451">
-            <persName type="full" xml:lang="de">Negele, Hans (2) (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Hans (2)</persName>
-            <persName type="sort" xml:lang="de">negele, hans (2)</persName>
+            <persName type="full" xml:lang="de">Nägele, Hans (6) (1604–1613)</persName>
+            <persName type="main" xml:lang="de">Nägele, Hans (6)</persName>
+            <persName type="sort" xml:lang="de">naegele, hans (6)</persName>
+            <persName type="alternative" xml:lang="de">Negele, Hans</persName>
             <persName type="alternative" xml:lang="de">Nägele, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Negelin, Hans</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Landammann von Vaduz zw. 1600 und 1620.</p>
+              <list>
+                <item>Landammann von Vaduz zw. 1600 und 1620.</item>
+                <item>Wohnhaft in Vaduz.</item>
+                <item>Gutsbesitzer in Triesenberg.</item>
+              </list>
             </note>
             <note type="sources">
               <listBibl>
@@ -10459,10 +10663,10 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1452">
-            <persName type="full" xml:lang="de">Negele, Georg (4) (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Georg (4)</persName>
-            <persName type="sort" xml:lang="de">negele, georg (4)</persName>
-            <persName type="alternative" xml:lang="de">Nägele, Georg</persName>
+            <persName type="full" xml:lang="de">Nägele, Georg (4) (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Georg (4)</persName>
+            <persName type="sort" xml:lang="de">naegele, georg (4)</persName>
+            <persName type="alternative" xml:lang="de">Negele, Georg</persName>
             <birth when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Schaan. Ehemann von Barbara Ospelt (Oschwald).</p>
@@ -10479,9 +10683,10 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1454">
-            <persName type="full" xml:lang="de">Negele, Hans (3) (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Hans (3)</persName>
-            <persName type="sort" xml:lang="de">negele, hans (3)</persName>
+            <persName type="full" xml:lang="de">Nägele, Hans (3) (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Hans (3)</persName>
+            <persName type="sort" xml:lang="de">naegele, hans (3)</persName>
+            <persName type="alternative" xml:lang="de">Negele, Hans</persName>
             <persName type="alternative" xml:lang="de">Nägele, Hannß</persName>
             <birth when="1604-03-07"/>
             <note type="description" xml:lang="de">
@@ -10489,9 +10694,10 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1455">
-            <persName type="full" xml:lang="de">Negele, Klaus (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Klaus</persName>
-            <persName type="sort" xml:lang="de">negele, klaus</persName>
+            <persName type="full" xml:lang="de">Nägele, Klaus (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Klaus</persName>
+            <persName type="sort" xml:lang="de">naegele, klaus</persName>
+            <persName type="alternative" xml:lang="de">Negele, Klaus</persName>
             <persName type="alternative" xml:lang="de">Nägele, Clauß, Negeli, Clauß</persName>
             <birth when="1604-03-07"/>
             <note type="description" xml:lang="de">
@@ -10499,19 +10705,19 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1456">
-            <persName type="full" xml:lang="de">Negele, Thomas (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Thomas</persName>
-            <persName type="sort" xml:lang="de">negele, thomas</persName>
+            <persName type="full" xml:lang="de">Nägele, Thomas (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Thomas</persName>
+            <persName type="sort" xml:lang="de">naegele, thomas</persName>
             <persName type="alternative" xml:lang="de">Negeli, Thoman</persName>
             <persName type="alternative" xml:lang="de">Nägele, Thomas</persName>
             <birth when="1604-03-07"/>
           </person>
           <person xml:id="lub-actors-1457">
-            <persName type="full" xml:lang="de">Negele, Ulrich (2) (1604–)</persName>
-            <persName type="main" xml:lang="de">Negele, Ulrich (2)</persName>
-            <persName type="sort" xml:lang="de">negele, ulrich (2)</persName>
+            <persName type="full" xml:lang="de">Nägele, Ulrich (4) (1604–)</persName>
+            <persName type="main" xml:lang="de">Nägele, Ulrich (4)</persName>
+            <persName type="sort" xml:lang="de">naegele, ulrich (4)</persName>
             <persName type="alternative" xml:lang="de">Negeli, Ulin</persName>
-            <persName type="alternative" xml:lang="de">Nägele, Ulrich</persName>
+            <persName type="alternative" xml:lang="de">Negele, Ulrich</persName>
             <birth when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Planken</p>
@@ -10787,11 +10993,12 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1485">
-            <persName type="full" xml:lang="de">Tanner, Hans (3) (1604–)</persName>
+            <persName type="full" xml:lang="de">Tanner, Hans (3) (1604–1613)</persName>
             <persName type="main" xml:lang="de">Tanner, Hans (3)</persName>
             <persName type="sort" xml:lang="de">tanner, hans (3)</persName>
             <persName type="alternative" xml:lang="de">Tanner, Hannß</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Schaan. Bruder von Maria Tanner.</p>
             </note>
@@ -10816,12 +11023,12 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1488">
-            <persName type="full" xml:lang="de">Tobler, Thomas (1589–1604)</persName>
+            <persName type="full" xml:lang="de">Tobler, Thomas (1589–1613)</persName>
             <persName type="main" xml:lang="de">Tobler, Thomas</persName>
             <persName type="sort" xml:lang="de">tobler, thomas</persName>
             <persName type="alternative" xml:lang="de">Tobler, Thoman</persName>
             <birth when="1589-09-22"/>
-            <death when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz.</p>
             </note>
@@ -10884,13 +11091,18 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1495">
-            <persName type="full" xml:lang="de">Verling, Oschwald (1604–)</persName>
+            <persName type="full" xml:lang="de">Verling, Oschwald (1604–1613)</persName>
             <persName type="main" xml:lang="de">Verling, Oschwald</persName>
             <persName type="sort" xml:lang="de">verling, oschwald</persName>
             <persName type="alternative" xml:lang="de">Varling, Oschwaldt</persName>
+            <persName type="alternative" xml:lang="de">Verling, Oschwaldt</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Vaduz</p>
+              <list>
+                <item>1586 bereits verstorben, besass Gut in Vaduz.</item>
+                <item>1584, besass Gut in Schaan.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1496">
@@ -10924,13 +11136,21 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1499">
-            <persName type="full" xml:lang="de">Weinzierl, Hans (1) (1604–)</persName>
+            <persName type="full" xml:lang="de">Weinzierl, Hans (1) (1604–1613)</persName>
             <persName type="main" xml:lang="de">Weinzierl, Hans (1)</persName>
             <persName type="sort" xml:lang="de">weinzierl, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Weinzürl, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Weinzierlin, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Weinzierlin, Hanß</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Schaan</p>
+              <list>
+                <item>erw. in Schaan.</item>
+                <item>1585 besitzt Gut in Vaduz.</item>
+                <item>zinst 1613 in Vaduz.</item>
+                <item>Ehemann von <ref target="1635">Margaretha Hilti</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1500">
@@ -10944,12 +11164,14 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             </note>
           </person>
           <person xml:id="lub-actors-1501">
-            <persName type="full" xml:lang="de">Wolf, Toni (1604–)</persName>
+            <persName type="full" xml:lang="de">Wolf, Toni (1604–1613)</persName>
             <persName type="main" xml:lang="de">Wolf, Toni</persName>
             <persName type="sort" xml:lang="de">wolf, toni</persName>
             <persName type="alternative" xml:lang="de">Wolff, Thony</persName>
             <persName type="alternative" xml:lang="de">Wolf, Thäny</persName>
+            <persName type="alternative" xml:lang="de">Wolff, Thoni</persName>
             <birth when="1604-03-07"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Vaduz</p>
             </note>
@@ -11022,6 +11244,16 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
               <list>
                 <item>aus Triesen, verheiratet mit Jakob Mock aus Ragaz.</item>
               </list>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1509">
+            <persName type="full" xml:lang="de">Erliholzer, Georg (1566–)</persName>
+            <persName type="main" xml:lang="de">Erliholzer, Georg</persName>
+            <persName type="sort" xml:lang="de">erliholzer, georg</persName>
+            <persName type="alternative" xml:lang="de">Erliholtzer, Georig</persName>
+            <birth when="1566-10-25"/>
+            <note type="description" xml:lang="de">
+              <p>Konventual des Klosters St. Gallen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1510">
@@ -11425,6 +11657,680 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
             <birth when="1514"/>
             <death when="1515"/>
           </personGrp>
+          <person xml:id="lub-actors-1559">
+            <persName type="full" xml:lang="de">Beringer, Jerg (1538–)</persName>
+            <persName type="main" xml:lang="de">Beringer, Jerg</persName>
+            <persName type="sort" xml:lang="de">beringer, jerg</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Vaduz</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1560">
+            <persName type="full" xml:lang="de">Erhard, Hans (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Erhard, Hans (1)</persName>
+            <persName type="sort" xml:lang="de">erhard, hans (1)</persName>
+            <persName type="alternative" xml:lang="de">Erhart, Hans</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Balzers</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1561">
+            <persName type="full" xml:lang="de">Ruesch, Hans Gsellen (1538–)</persName>
+            <persName type="main" xml:lang="de">Ruesch, Hans Gsellen</persName>
+            <persName type="sort" xml:lang="de">ruesch, hans gsellen</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Balzers</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1562">
+            <persName type="full" xml:lang="de">Lifer, Klaus (1538–)</persName>
+            <persName type="main" xml:lang="de">Lifer, Klaus</persName>
+            <persName type="sort" xml:lang="de">lifer, klaus</persName>
+            <persName type="alternative" xml:lang="de">Liffer, Claus</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Triesen.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1563">
+            <persName type="full" xml:lang="de">Pfeiffer, Hartmann (1538–)</persName>
+            <persName type="main" xml:lang="de">Pfeiffer, Hartmann</persName>
+            <persName type="sort" xml:lang="de">pfeiffer, hartmann</persName>
+            <persName type="alternative" xml:lang="de">Pheiffer, Hartman</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Triesen.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1564">
+            <persName type="full" xml:lang="de">Lampert, Adam (1538–)</persName>
+            <persName type="main" xml:lang="de">Lampert, Adam</persName>
+            <persName type="sort" xml:lang="de">lampert, adam</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Adam</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg. Verwandt mit <ref target="1318">Peter Lampert</ref>.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1565">
+            <persName type="full" xml:lang="de">Beck, Paul (1538–)</persName>
+            <persName type="main" xml:lang="de">Beck, Paul</persName>
+            <persName type="sort" xml:lang="de">beck, paul</persName>
+            <persName type="alternative" xml:lang="de">Peckg, Pauli</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1566">
+            <persName type="full" xml:lang="de">Lampert, Klaus (1538–)</persName>
+            <persName type="main" xml:lang="de">Lampert, Klaus</persName>
+            <persName type="sort" xml:lang="de">lampert, klaus</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Claus</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1567">
+            <persName type="full" xml:lang="de">Hilti, Matthäus (1538–)</persName>
+            <persName type="main" xml:lang="de">Hilti, Matthäus</persName>
+            <persName type="sort" xml:lang="de">hilti, matthaeus</persName>
+            <persName type="alternative" xml:lang="de">Hilti, Theis</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehen in Vaduz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1568">
+            <persName type="full" xml:lang="de">Mastral, Hans (1538–)</persName>
+            <persName type="main" xml:lang="de">Mastral, Hans</persName>
+            <persName type="sort" xml:lang="de">mastral, hans</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Vaduz.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1569">
+            <persName type="full" xml:lang="de">Eichler, Ulrich (1538–)</persName>
+            <persName type="main" xml:lang="de">Eichler, Ulrich</persName>
+            <persName type="sort" xml:lang="de">eichler, ulrich</persName>
+            <persName type="alternative" xml:lang="de">Aychler, Ulrich</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Vaduz als Lehenträger.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1571">
+            <persName type="full" xml:lang="de">Gstach, Thomas (1538–)</persName>
+            <persName type="main" xml:lang="de">Gstach, Thomas</persName>
+            <persName type="sort" xml:lang="de">gstach, thomas</persName>
+            <persName type="alternative" xml:lang="de">Gsthach, Thoma Miller</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst als Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1572">
+            <persName type="full" xml:lang="de">Spiegel, Cristan (1538–)</persName>
+            <persName type="main" xml:lang="de">Spiegel, Cristan</persName>
+            <persName type="sort" xml:lang="de">spiegel, cristan</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1573">
+            <persName type="full" xml:lang="de">Spiegel, Dorothe (1538–)</persName>
+            <persName type="main" xml:lang="de">Spiegel, Dorothe</persName>
+            <persName type="sort" xml:lang="de">spiegel, dorothe</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan vom Gut namens Fina (Vingen).</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1574">
+            <persName type="full" xml:lang="de">Fritsch, Georg (1538–)</persName>
+            <persName type="main" xml:lang="de">Fritsch, Georg</persName>
+            <persName type="sort" xml:lang="de">fritsch, georg</persName>
+            <persName type="alternative" xml:lang="de">Fritsch, Jerg</persName>
+            <persName type="alternative" xml:lang="de">Fritsch, Jörg</persName>
+            <persName type="alternative" xml:lang="de">Fryttsch, Jerg</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst als Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1575">
+            <persName type="full" xml:lang="de">Mesmer, Hans (1538–)</persName>
+            <persName type="main" xml:lang="de">Mesmer, Hans</persName>
+            <persName type="sort" xml:lang="de">mesmer, hans</persName>
+            <persName type="alternative" xml:lang="de">Messmer, Hänsli</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1576">
+            <persName type="full" xml:lang="de">Mauter, Bartholomäus (1538–)</persName>
+            <persName type="main" xml:lang="de">Mauter, Bartholomäus</persName>
+            <persName type="sort" xml:lang="de">mauter, bartholomaeus</persName>
+            <persName type="alternative" xml:lang="de">Mauter, Bartholome</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan anstelle von Hans Peter.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1577">
+            <persName type="full" xml:lang="de">Marxer, Hans (1538–)</persName>
+            <persName type="main" xml:lang="de">Marxer, Hans</persName>
+            <persName type="sort" xml:lang="de">marxer, hans</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1578">
+            <persName type="full" xml:lang="de">Blaichinger, Hans (1538–)</persName>
+            <persName type="main" xml:lang="de">Blaichinger, Hans</persName>
+            <persName type="sort" xml:lang="de">blaichinger, hans</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1579">
+            <persName type="full" xml:lang="de">Lorenz, Veit (1538–)</persName>
+            <persName type="main" xml:lang="de">Lorenz, Veit</persName>
+            <persName type="sort" xml:lang="de">lorenz, veit</persName>
+            <persName type="alternative" xml:lang="de">Laurenz, Veit</persName>
+            <persName type="alternative" xml:lang="de">Laurenz, Vitt</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Hofs in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1580">
+            <persName type="full" xml:lang="de">Grass, Veiner (1538–)</persName>
+            <persName type="main" xml:lang="de">Grass, Veiner</persName>
+            <persName type="sort" xml:lang="de">grass, veiner</persName>
+            <persName type="alternative" xml:lang="de">Graß, Veiner</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzt eine Taverne in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1581">
+            <persName type="full" xml:lang="de">Senn, Bernhard (1538–)</persName>
+            <persName type="main" xml:lang="de">Senn, Bernhard</persName>
+            <persName type="sort" xml:lang="de">senn, bernhard</persName>
+            <persName type="alternative" xml:lang="de">Senn, Bernart</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1582">
+            <persName type="full" xml:lang="de">Schmied, Ronni (1538–)</persName>
+            <persName type="main" xml:lang="de">Schmied, Ronni</persName>
+            <persName type="sort" xml:lang="de">schmied, ronni</persName>
+            <persName type="alternative" xml:lang="de">Schmid, Roni</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1583">
+            <persName type="full" xml:lang="de">Dilger, Georg (1538–)</persName>
+            <persName type="main" xml:lang="de">Dilger, Georg</persName>
+            <persName type="sort" xml:lang="de">dilger, georg</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1584">
+            <persName type="full" xml:lang="de">Weinzierl, Wolf (1538–1613)</persName>
+            <persName type="main" xml:lang="de">Weinzierl, Wolf</persName>
+            <persName type="sort" xml:lang="de">weinzierl, wolf</persName>
+            <persName type="alternative" xml:lang="de">Weinzürli, Wolf</persName>
+            <persName type="alternative" xml:lang="de">Weinzierlin, Wolffen</persName>
+            <birth when="1538"/>
+            <death when="1613"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>1538 bereits verstorben, zinste in Schaan.</item>
+                <item>1501 als Besitzer eines Baumgarten in Vaduz erwähnt.</item>
+                <item>Bruder von <ref target="1633">Diet Weinzierl</ref>.</item>
+              </list>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1585">
+            <persName type="full" xml:lang="de">Quaderer, Christoph (1538–)</persName>
+            <persName type="main" xml:lang="de">Quaderer, Christoph</persName>
+            <persName type="sort" xml:lang="de">quaderer, christoph</persName>
+            <persName type="alternative" xml:lang="de">Quader, Stoffel</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1586">
+            <persName type="full" xml:lang="de">Völki, Luzius (1538–)</persName>
+            <persName type="main" xml:lang="de">Völki, Luzius</persName>
+            <persName type="sort" xml:lang="de">voelki, luzius</persName>
+            <persName type="alternative" xml:lang="de">Völcky, Lucy</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1587">
+            <persName type="full" xml:lang="de">Baltasar, Heinrich (1538–)</persName>
+            <persName type="main" xml:lang="de">Baltasar, Heinrich</persName>
+            <persName type="sort" xml:lang="de">baltasar, heinrich</persName>
+            <persName type="alternative" xml:lang="de">Balthasar, Hainrich</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1588">
+            <persName type="full" xml:lang="de">Gantner, Peter (3) (1538–)</persName>
+            <persName type="main" xml:lang="de">Gantner, Peter (3)</persName>
+            <persName type="sort" xml:lang="de">gantner, peter (3)</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Planken.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1589">
+            <persName type="full" xml:lang="de">Gantner, Christoph (1538–)</persName>
+            <persName type="main" xml:lang="de">Gantner, Christoph</persName>
+            <persName type="sort" xml:lang="de">gantner, christoph</persName>
+            <persName type="alternative" xml:lang="de">Gantner, Stoffel</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Planken.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1590">
+            <persName type="full" xml:lang="de">Henni, Hans (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Henni, Hans (1)</persName>
+            <persName type="sort" xml:lang="de">henni, hans (1)</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Planken.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1591">
+            <persName type="full" xml:lang="de">Heuss, Jakob (1538–)</persName>
+            <persName type="main" xml:lang="de">Heuss, Jakob</persName>
+            <persName type="sort" xml:lang="de">heuss, jakob</persName>
+            <persName type="alternative" xml:lang="de">Heutt, Jacob</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1592">
+            <persName type="full" xml:lang="de">Marsell, Jacob (1538–)</persName>
+            <persName type="main" xml:lang="de">Marsell, Jacob</persName>
+            <persName type="sort" xml:lang="de">marsell, jacob</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1593">
+            <persName type="full" xml:lang="de">Lampert, Kaspar (1538–)</persName>
+            <persName type="main" xml:lang="de">Lampert, Kaspar</persName>
+            <persName type="sort" xml:lang="de">lampert, kaspar</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Caspar</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Triesenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1594">
+            <persName type="full" xml:lang="de">Jochim, Barbara (1538–)</persName>
+            <persName type="main" xml:lang="de">Jochim, Barbara</persName>
+            <persName type="sort" xml:lang="de">jochim, barbara</persName>
+            <persName type="alternative" xml:lang="de">Jochimine, Barbara</persName>
+            <persName type="alternative" xml:lang="de">Jochum, Barbara</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1595">
+            <persName type="full" xml:lang="de">Christli, NN (1538–)</persName>
+            <persName type="main" xml:lang="de">Christli, NN</persName>
+            <persName type="sort" xml:lang="de">christli, nn</persName>
+            <persName type="alternative" xml:lang="de">Cristly, NN</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnaft in Balzers.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1596">
+            <persName type="full" xml:lang="de">Thöni, Hans (4) (1538–)</persName>
+            <persName type="main" xml:lang="de">Thöni, Hans (4)</persName>
+            <persName type="sort" xml:lang="de">thoeni, hans (4)</persName>
+            <persName type="alternative" xml:lang="de">Theni, Hans</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1597">
+            <persName type="full" xml:lang="de">Thöni, Ulrich (1538–)</persName>
+            <persName type="main" xml:lang="de">Thöni, Ulrich</persName>
+            <persName type="sort" xml:lang="de">thoeni, ulrich</persName>
+            <persName type="alternative" xml:lang="de">Theny, Ulrich</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1599">
+            <persName type="full" xml:lang="de">Brunhart, Luzius (1538–)</persName>
+            <persName type="main" xml:lang="de">Brunhart, Luzius</persName>
+            <persName type="sort" xml:lang="de">brunhart, luzius</persName>
+            <persName type="alternative" xml:lang="de">Braunhart, Lucj</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1600">
+            <persName type="full" xml:lang="de">Grüschli, Florin jung (1538–)</persName>
+            <persName type="main" xml:lang="de">Grüschli, Florin jung</persName>
+            <persName type="sort" xml:lang="de">grueschli, florin jung</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1601">
+            <persName type="full" xml:lang="de">Wanger, Ulrich (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Wanger, Ulrich (1)</persName>
+            <persName type="sort" xml:lang="de">wanger, ulrich (1)</persName>
+            <persName type="alternative" xml:lang="de">Wangner, Uli</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Uli</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1602">
+            <persName type="full" xml:lang="de">Hitt, Jacob (1538–)</persName>
+            <persName type="main" xml:lang="de">Hitt, Jacob</persName>
+            <persName type="sort" xml:lang="de">hitt, jacob</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1603">
+            <persName type="full" xml:lang="de">Graf, Bernhard (1538–)</persName>
+            <persName type="main" xml:lang="de">Graf, Bernhard</persName>
+            <persName type="sort" xml:lang="de">graf, bernhard</persName>
+            <persName type="alternative" xml:lang="de">Graw, Bernhart</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1604">
+            <persName type="full" xml:lang="de">Lang, Ulin (1538–)</persName>
+            <persName type="main" xml:lang="de">Lang, Ulin</persName>
+            <persName type="sort" xml:lang="de">lang, ulin</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1605">
+            <persName type="full" xml:lang="de">Brendle, Augustin (1538–)</persName>
+            <persName type="main" xml:lang="de">Brendle, Augustin</persName>
+            <persName type="sort" xml:lang="de">brendle, augustin</persName>
+            <persName type="alternative" xml:lang="de">Brendlin, Augustin</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzt Weingärten in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1606">
+            <persName type="full" xml:lang="de">Grüschli, Sebastian (1538–)</persName>
+            <persName type="main" xml:lang="de">Grüschli, Sebastian</persName>
+            <persName type="sort" xml:lang="de">grueschli, sebastian</persName>
+            <persName type="alternative" xml:lang="de">Grüschli, Basthian</persName>
+            <birth when="1538"/>
+          </person>
+          <person xml:id="lub-actors-1607">
+            <persName type="full" xml:lang="de">Weinzierl, Hans (2) (1538–)</persName>
+            <persName type="main" xml:lang="de">Weinzierl, Hans (2)</persName>
+            <persName type="sort" xml:lang="de">weinzierl, hans (2)</persName>
+            <persName type="alternative" xml:lang="de">Weinzürli, Hans (Dieg)</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1608">
+            <persName type="full" xml:lang="de">Frommelt, Thomas (1538–)</persName>
+            <persName type="main" xml:lang="de">Frommelt, Thomas</persName>
+            <persName type="sort" xml:lang="de">frommelt, thomas</persName>
+            <persName type="alternative" xml:lang="de">Frumolt, Thoma</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Seine Erben zinsen in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1609">
+            <persName type="full" xml:lang="de">Hilti, Hans (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Hilti, Hans (1)</persName>
+            <persName type="sort" xml:lang="de">hilti, hans (1)</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1610">
+            <persName type="full" xml:lang="de">Strauss, Konrad (1538–)</persName>
+            <persName type="main" xml:lang="de">Strauss, Konrad</persName>
+            <persName type="sort" xml:lang="de">strauss, konrad</persName>
+            <persName type="alternative" xml:lang="de">Straus, Conradt</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzt Weingärten in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1611">
+            <persName type="full" xml:lang="de">Knabenknecht, Thomas (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Knabenknecht, Thomas (1)</persName>
+            <persName type="sort" xml:lang="de">knabenknecht, thomas (1)</persName>
+            <persName type="alternative" xml:lang="de">Knabenknecht, Thoma</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1612">
+            <persName type="full" xml:lang="de">Bartlome, Christian (1538–)</persName>
+            <persName type="main" xml:lang="de">Bartlome, Christian</persName>
+            <persName type="sort" xml:lang="de">bartlome, christian</persName>
+            <persName type="alternative" xml:lang="de">Bartholomeus, Cristan</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Dessen Witwe zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1613">
+            <persName type="full" xml:lang="de">Mader, Adam (1538–)</persName>
+            <persName type="main" xml:lang="de">Mader, Adam</persName>
+            <persName type="sort" xml:lang="de">mader, adam</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Dessen Erben zinsen in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1614">
+            <persName type="full" xml:lang="de">Abrecht, Joseph (1538–)</persName>
+            <persName type="main" xml:lang="de">Abrecht, Joseph</persName>
+            <persName type="sort" xml:lang="de">abrecht, joseph</persName>
+            <persName type="alternative" xml:lang="de">Abrecht, Joss</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1615">
+            <persName type="full" xml:lang="de">Bürzle, Kaspar (1538–)</persName>
+            <persName type="main" xml:lang="de">Bürzle, Kaspar</persName>
+            <persName type="sort" xml:lang="de">buerzle, kaspar</persName>
+            <persName type="alternative" xml:lang="de">Bierzli, Caspar</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehenträger in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1616">
+            <persName type="full" xml:lang="de">Tanner, Christian (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Tanner, Christian (1)</persName>
+            <persName type="sort" xml:lang="de">tanner, christian (1)</persName>
+            <persName type="alternative" xml:lang="de">Tanner, Cristan</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1617">
+            <persName type="full" xml:lang="de">Plenki, Jakob (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Plenki, Jakob (1)</persName>
+            <persName type="sort" xml:lang="de">plenki, jakob (1)</persName>
+            <persName type="alternative" xml:lang="de">Plenngcky, Jacob</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Schaan.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1618">
+            <persName type="full" xml:lang="de">Hub, Hans (1538–)</persName>
+            <persName type="main" xml:lang="de">Hub, Hans</persName>
+            <persName type="sort" xml:lang="de">hub, hans</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Schlosser in Feldkirch. Zinst in Schellenberg.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1619">
+            <persName type="full" xml:lang="de">Fürst, Jakob Marhart, Jakob (1538–)</persName>
+            <persName type="main" xml:lang="de">Fürst, Jakob Marhart, Jakob</persName>
+            <persName type="sort" xml:lang="de">fuerst, jakob marhart, jakob</persName>
+            <persName type="alternative" xml:lang="de">Marhart, Jacob genannt Fürsst</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1620">
+            <persName type="full" xml:lang="de">Gassner, Ludwig (1538–)</persName>
+            <persName type="main" xml:lang="de">Gassner, Ludwig</persName>
+            <persName type="sort" xml:lang="de">gassner, ludwig</persName>
+            <persName type="alternative" xml:lang="de">Gasner, Ludwig</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1621">
+            <persName type="full" xml:lang="de">Bläsi, Kasper (1538–)</persName>
+            <persName type="main" xml:lang="de">Bläsi, Kasper</persName>
+            <persName type="sort" xml:lang="de">blaesi, kasper</persName>
+            <persName type="alternative" xml:lang="de">Bläßi, Caspar</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst Hubsteuer in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1622">
+            <persName type="full" xml:lang="de">Kranz, Sigmund (1538–)</persName>
+            <persName type="main" xml:lang="de">Kranz, Sigmund</persName>
+            <persName type="sort" xml:lang="de">kranz, sigmund</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1623">
+            <persName type="full" xml:lang="de">Güfel, Hans (1538–)</persName>
+            <persName type="main" xml:lang="de">Güfel, Hans</persName>
+            <persName type="sort" xml:lang="de">guefel, hans</persName>
+            <persName type="alternative" xml:lang="de">Giffel</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1624">
+            <persName type="full" xml:lang="de">Brunner, Jakob (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Brunner, Jakob (1)</persName>
+            <persName type="sort" xml:lang="de">brunner, jakob (1)</persName>
+            <persName type="alternative" xml:lang="de">Brunner, Jacob</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehen in Mauren. Ident mit Jakob Brunner, genannt Herzog?</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1625">
+            <persName type="full" xml:lang="de">Kranz, Simon (1538–)</persName>
+            <persName type="main" xml:lang="de">Kranz, Simon</persName>
+            <persName type="sort" xml:lang="de">kranz, simon</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1626">
+            <persName type="full" xml:lang="de">Hemmerle, Ulrich (1538–)</persName>
+            <persName type="main" xml:lang="de">Hemmerle, Ulrich</persName>
+            <persName type="sort" xml:lang="de">hemmerle, ulrich</persName>
+            <persName type="alternative" xml:lang="de">Hemerli, Ulrich</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1627">
+            <persName type="full" xml:lang="de">Schächle, Greg (1538–)</persName>
+            <persName type="main" xml:lang="de">Schächle, Greg</persName>
+            <persName type="sort" xml:lang="de">schaechle, greg</persName>
+            <persName type="alternative" xml:lang="de">Schächly</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1628">
+            <persName type="full" xml:lang="de">Bernhard, Rudolf (1538–)</persName>
+            <persName type="main" xml:lang="de">Bernhard, Rudolf</persName>
+            <persName type="sort" xml:lang="de">bernhard, rudolf</persName>
+            <persName type="alternative" xml:lang="de">Bernhartt, Rudolff</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Mauren.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1629">
+            <persName type="full" xml:lang="de">Mader, Bartholomäus (1) (1538–)</persName>
+            <persName type="main" xml:lang="de">Mader, Bartholomäus (1)</persName>
+            <persName type="sort" xml:lang="de">mader, bartholomaeus (1)</persName>
+            <persName type="alternative" xml:lang="de">Mader, Barthlome</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <list>
+                <item>1539 bereit verstorben. Seine Erben zinsen als Lehenträger in Eschen.</item>
+              </list>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1630">
+            <persName type="full" xml:lang="de">Schreiber, Andreas (1538–)</persName>
+            <persName type="main" xml:lang="de">Schreiber, Andreas</persName>
+            <persName type="sort" xml:lang="de">schreiber, andreas</persName>
+            <persName type="alternative" xml:lang="de">Schreiber, Andras, genannt Prinz</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Zinst in Eschen. (Im Namenbuch im Jahr 1698 zu Schönabüel erwähnt).</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-1631">
+            <persName type="full" xml:lang="de">Ilg, Georg (1538–)</persName>
+            <persName type="main" xml:lang="de">Ilg, Georg</persName>
+            <persName type="sort" xml:lang="de">ilg, georg</persName>
+            <persName type="alternative" xml:lang="de">Jilg, Jerg</persName>
+            <birth when="1538"/>
+            <note type="description" xml:lang="de">
+              <p>Lehenträger in Mauren.</p>
+            </note>
+          </person>
         </listPerson>
         <listOrg>
           <org xml:id="lub-actors-195">
@@ -11760,7 +12666,7 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-11-22T09:04:10+01:00">teiHeader was automatically produced from the database 2024-11-22T09:04:10+01:00</change>
+      <change when="2024-12-10T07:16:20+01:00">teiHeader was automatically produced from the database 2024-12-10T07:16:20+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-22 09:04:12 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-12-10 07:16:22 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -145,6 +145,7 @@
             <placeName type="alternative" xml:lang="de">Veldtkirch</placeName>
             <placeName type="alternative" xml:lang="de">Veltkirch</placeName>
             <placeName type="alternative" xml:lang="de">Veldkirch</placeName>
+            <placeName type="alternative" xml:lang="de">Veldtkhirch</placeName>
             <location>
               <settlement xml:lang="de">Feldkirch</settlement>
               <country xml:lang="de">Österreich</country>
@@ -191,6 +192,7 @@
             <placeName type="alternative" xml:lang="de">Guetenberg</placeName>
             <placeName type="alternative" xml:lang="de">Guttenberg</placeName>
             <placeName type="alternative" xml:lang="de">Gutenperg</placeName>
+            <placeName type="alternative" xml:lang="de">Guettenberg</placeName>
             <location>
               <settlement xml:lang="de">Balzers</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -645,6 +647,18 @@
             </location>
             <idno type="lub-places-id">60</idno>
           </place>
+          <place type="P" xml:id="lub-places-61">
+            <placeName type="main" xml:lang="de">Hall in Tirol</placeName>
+            <placeName type="full" xml:lang="de">Hall in Tirol (Tirol)</placeName>
+            <placeName type="sort" xml:lang="de">hall in tirol</placeName>
+            <placeName type="alternative" xml:lang="de">Hall im Eintal</placeName>
+            <location>
+              <settlement xml:lang="de">Hall in Tirol</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">61</idno>
+          </place>
           <place type="S" xml:id="lub-places-66">
             <placeName type="main" xml:lang="de">Montclair, Burg(ruine)</placeName>
             <placeName type="full" xml:lang="de">Montclair, Burg(ruine) / Mettlach (Saarland)</placeName>
@@ -997,6 +1011,7 @@
             <placeName type="main" xml:lang="de">St. Luzisteig</placeName>
             <placeName type="full" xml:lang="de">St. Luzisteig / Pass (Graubünden)</placeName>
             <placeName type="sort" xml:lang="de">st. luzisteig</placeName>
+            <placeName type="alternative" xml:lang="de">Staig</placeName>
             <location>
               <geo>47.02994 9.52732</geo>
               <settlement xml:lang="de">Pass</settlement>
@@ -1340,6 +1355,7 @@
             <placeName type="sort" xml:lang="de">neuburg</placeName>
             <placeName type="alternative" xml:lang="de">Nüburrg</placeName>
             <placeName type="alternative" xml:lang="de">Newburg</placeName>
+            <placeName type="alternative" xml:lang="de">Neyburg</placeName>
             <location>
               <settlement xml:lang="de">Koblach</settlement>
               <country xml:lang="de">Österreich</country>
@@ -1613,6 +1629,22 @@
             </location>
             <idno type="lub-places-id">166</idno>
           </place>
+          <place type="V" xml:id="lub-places-168">
+            <placeName type="main" xml:lang="de">Selvaplana</placeName>
+            <placeName type="full" xml:lang="de">Selvaplana / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">selvaplana</placeName>
+            <placeName type="alternative" xml:lang="de">Selvaplon</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">168</idno>
+            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Gut an der Grenze von Balzers zu Triesen.</p>
+            </note>
+          </place>
           <place type="A" xml:id="lub-places-172">
             <placeName type="main" xml:lang="de">Sargans (Grafschaft)</placeName>
             <placeName type="full" xml:lang="de">Sargans (Grafschaft) (St. Gallen)</placeName>
@@ -1647,6 +1679,7 @@
             <placeName type="full" xml:lang="de">Rotaboda / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">rotaboda</placeName>
             <placeName type="alternative" xml:lang="de">Rottenboden</placeName>
+            <placeName type="alternative" xml:lang="de">Rodten Boden</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -1810,6 +1843,7 @@
             <placeName type="main" xml:lang="de">Bludenz (Vogtei)</placeName>
             <placeName type="full" xml:lang="de">Bludenz (Vogtei) (Vorarlberg)</placeName>
             <placeName type="sort" xml:lang="de">bludenz (vogtei)</placeName>
+            <placeName type="alternative" xml:lang="de">Bludennz</placeName>
             <location>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
@@ -1877,12 +1911,16 @@
             <placeName type="main" xml:lang="de">St. Florin, Kapelle</placeName>
             <placeName type="full" xml:lang="de">St. Florin, Kapelle / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">st. florin, kapelle</placeName>
+            <placeName type="alternative" xml:lang="de">Sanct Florin</placeName>
             <location>
               <settlement xml:lang="de">Vaduz</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">210</idno>
+            <note type="description" xml:lang="de">
+              <p>Kapelle (Kirche) in Vaduz, heute Kathedrale von Liechtenstein.</p>
+            </note>
           </place>
           <place type="S" xml:id="lub-places-211">
             <placeName type="main" xml:lang="de">Egerta</placeName>
@@ -1993,16 +2031,24 @@
             </note>
           </place>
           <place type="V" xml:id="lub-places-218">
-            <placeName type="main" xml:lang="de">Bofel, undera; under Poffl</placeName>
-            <placeName type="full" xml:lang="de">Bofel, undera; under Poffl / Schaan</placeName>
-            <placeName type="sort" xml:lang="de">bofel, undera; under poffl</placeName>
+            <placeName type="main" xml:lang="de">Bofel, undera</placeName>
+            <placeName type="full" xml:lang="de">Bofel, undera / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">bofel, undera</placeName>
+            <placeName type="alternative" xml:lang="de">under Poffl</placeName>
+            <placeName type="alternative" xml:lang="de">undern Bovel</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">218</idno>
-            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+                </bibl>
+              </listBibl>
+            </note>
             <note type="description" xml:lang="de">
               <p>Unbekannt. Ev. ident. mit Bofel 2: Ebene, grosse Kulturlandfläche nordwestlich des Dorfes, südlich des Gebiets Meder.</p>
             </note>
@@ -2178,6 +2224,7 @@
             <placeName type="main" xml:lang="de">Underguad</placeName>
             <placeName type="full" xml:lang="de">Underguad / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">underguad</placeName>
+            <placeName type="alternative" xml:lang="de">Underguet</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -2194,6 +2241,7 @@
             <placeName type="full" xml:lang="de">Alpgasse / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">alpgasse</placeName>
             <placeName type="alternative" xml:lang="de">Alpgaß</placeName>
+            <placeName type="alternative" xml:lang="de">Alp Gassen</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -3323,6 +3371,7 @@ SchäU 35 im Jahr 1518.</note>
             <placeName type="main" xml:lang="de">Malanser</placeName>
             <placeName type="full" xml:lang="de">Malanser / Eschen</placeName>
             <placeName type="sort" xml:lang="de">malanser</placeName>
+            <placeName type="alternative" xml:lang="de">Malanßer</placeName>
             <location>
               <settlement xml:lang="de">Eschen</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -3727,6 +3776,7 @@ SchäU 35 im Jahr 1518.</note>
             <placeName type="sort" xml:lang="de">buxerau</placeName>
             <placeName type="alternative" xml:lang="de">Bauxeraw</placeName>
             <placeName type="alternative" xml:lang="de">Buxerow</placeName>
+            <placeName type="alternative" xml:lang="de">Buxeraw</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -5144,6 +5194,7 @@ SchäU 35 im Jahr 1518.</note>
             <placeName type="sort" xml:lang="de">gnalp</placeName>
             <placeName type="alternative" xml:lang="de">Gränalp</placeName>
             <placeName type="alternative" xml:lang="de">Gurtnalp</placeName>
+            <placeName type="alternative" xml:lang="de">Guerthnalp</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -7364,6 +7415,45 @@ SchäU 35 im Jahr 1518.</note>
               <p>Steile Waldparzelle westlich unterhalb von Oberplanken, unten an die Plankner Strasse anschliessend. Im Norden und oben grenzt das Gebiet an Wiesland der Gemeinde Planken. Örtlich identisch mit †Guggerbodawald; vgl. auch †Unterguggerboden.</p>
             </note>
           </place>
+          <place type="S" xml:id="lub-places-625">
+            <placeName type="main" xml:lang="de">Prufatscheng</placeName>
+            <placeName type="full" xml:lang="de">Prufatscheng / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">prufatscheng</placeName>
+            <placeName type="alternative" xml:lang="de">Broventschengkh</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">625</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Triesenberg">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Einstige Weiler nordwestlich von Masescha. Umfasst Vorder und Hinder Prufatscheng.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-626">
+            <placeName type="main" xml:lang="de">Reberle</placeName>
+            <placeName type="full" xml:lang="de">Reberle / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">reberle</placeName>
+            <placeName type="alternative" xml:lang="de">im kleinen Räberlin</placeName>
+            <placeName type="alternative" xml:lang="de">im kleinen Reberle</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">626</idno>
+            <note type="sources">-[LNB](https://www.namenbuch.li/Personennamen/Buch)</note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen, Häuser und Strasse im Dorf, nordöstlich der Kirche1. Der Strassenname wird offiziell mit Präposition (Im Reberle) verwendet.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -7411,7 +7501,7 @@ SchäU 35 im Jahr 1518.</note>
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-11-22T09:04:14+01:00">teiHeader was automatically produced from the database 2024-11-22T09:04:14+01:00</change>
+      <change when="2024-12-10T07:16:23+01:00">teiHeader was automatically produced from the database 2024-12-10T07:16:23+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

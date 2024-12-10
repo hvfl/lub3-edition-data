@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-22 09:04:14 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-12-10 07:16:24 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-11-22T09:04:14+01:00">teiHeader was automatically produced from the database 2024-11-22T09:04:14+01:00</change>
+      <change when="2024-12-10T07:16:24+01:00">teiHeader was automatically produced from the database 2024-12-10T07:16:24+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -252,6 +252,10 @@
         <item xml:id="lub-keywords-138">
           <label xml:lang="de" type="main">Wein</label>
           <label xml:lang="de" type="sort">wein</label>
+        </item>
+        <item xml:id="lub-keywords-139">
+          <label xml:lang="de" type="main">Einnahme</label>
+          <label xml:lang="de" type="sort">einnahme</label>
         </item>
         <item xml:id="lub-keywords-140">
           <label xml:lang="de" type="main">Pfarrei</label>
@@ -494,6 +498,10 @@
         <item xml:id="lub-keywords-253">
           <label xml:lang="de" type="main">Holz</label>
           <label xml:lang="de" type="sort">holz</label>
+        </item>
+        <item xml:id="lub-keywords-254">
+          <label xml:lang="de" type="main">Transport</label>
+          <label xml:lang="de" type="sort">transport</label>
         </item>
         <item xml:id="lub-keywords-258">
           <label xml:lang="de" type="main">Wassernutzung</label>
@@ -1397,6 +1405,35 @@
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/31209/mode/1up">Idiotikon</ref>
               </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-418">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">furleiti</label>
+          <label xml:lang="de" type="sort">furleiti</label>
+          <note type="description" xml:lang="de">
+            <p>Abgabe, die auf gewissen Routen fremde Säumer, Schiffer oder Fuhrleute von ihren Waaren zahlen mussten, wenn sie deren Weiterbeförderung selbst besorgen und nicht den Einheimischen, bzw. denen überlassen wollten, welche daselbst ein Anrecht auf den Gütertransport hatten</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>LI-LA, U 51</bibl>
+              <bibl>Schweizerisches Idiotikon, Bd. III, Sp. 1495/6 [gedruckt 1895]</bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-419">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">tschuggeld</label>
+          <label xml:lang="de" type="sort">tschuggeld</label>
+          <note type="description" xml:lang="de">
+            <p>Mögl. eine andere Bezeichung für "Wegegeld".</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>LI-LA, U 51</bibl>
             </listBibl>
           </note>
         </item>
