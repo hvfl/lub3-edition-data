@@ -19,7 +19,7 @@
       </notesStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-130">AT-VLA, RH Blumenegg Urk. 6914</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Papier, 6 Seiten</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-130">AT-VLA, RH Blumenegg U 6914</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Papier, 6 Seiten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -51,6 +51,14 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6914-0005.jpg" xml:id="lub-media-757" source="1588-11-11-vla-blumenegg-reichsherrschaft-6914-01.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6914-0005.jpg" xml:id="lub-media-758" source="1588-11-11-vla-blumenegg-reichsherrschaft-6914-02.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6914-0005.jpg" xml:id="lub-media-759" source="1588-11-11-vla-blumenegg-reichsherrschaft-6914-03.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6914-0005.jpg" xml:id="lub-media-760" source="1588-11-11-vla-blumenegg-reichsherrschaft-6914-04.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6914-0005.jpg" xml:id="lub-media-761" source="1588-11-11-vla-blumenegg-reichsherrschaft-6914-05.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6914-0006.jpg" xml:id="lub-media-763" source="1588-11-11-vla-blumenegg-reichsherrschaft-6914-06.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

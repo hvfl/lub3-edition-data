@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-3">LI-LA, U 87</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. September 1515 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-3">LI-LA, U 87</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. September 1515 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -50,6 +50,10 @@ Streit um einen Hirsch, der zu Zeiten von Ludwig von Brandis von Wölfen gerisse
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li_la,_u87-0001.jpg" xml:id="lub-media-5" source="li-la-u-087-c.jpg" corresp="A"/>
+    <graphic url="li-la,_u_87-0002.jpg" xml:id="lub-media-1191" source="u-087-b.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

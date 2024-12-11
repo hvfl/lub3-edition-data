@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-1090">LI-LA, RA 01/12/2</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 25. Januar 1513 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-1090">LI-LA, RA 01/12/2</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 25. Januar 1513 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_01_12_2-0001.jpg" xml:id="lub-media-2197" source="ra-01-12-02-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_01_12_2-0002.jpg" xml:id="lub-media-2198" source="ra-01-12-02-s02.jpg" corresp="A"/>
+    <graphic url="li-la__ra_01_12_2-0003.jpg" xml:id="lub-media-2199" source="ra-01-12-02-s03.jpg" corresp="A"/>
+    <graphic url="li-la__ra_01_12_2-0004.jpg" xml:id="lub-media-2200" source="ra-01-12-02-s04.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

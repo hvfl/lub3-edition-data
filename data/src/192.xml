@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-192">CZ-SOAT, Cizí statky 5 II 30 2</ref> (<orgName corresp="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 14. März 1536 / Beschreibstoff: Pergament / Siegel: 5 Siegel, 3 gut erhalten, 2 fehlen - Vgl. [monasterium.net](https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/5/charter)</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-192">CZ-SOAT, Cizí statky 5 II 30 2</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 14. März 1536 / Beschreibstoff: Pergament / Siegel: 5 Siegel, 3 gut erhalten, 2 fehlen - Vgl. [monasterium.net](https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/5/charter)</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -48,6 +48,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="cizí_statky_5_ii_30_2,_karton_2-0001.jpg" xml:id="lub-media-289" source="1536-03-14-soat-cizistatkytrebon-5-r.jpg" corresp="A"/>
+    <graphic url="cizí_statky_5_ii_30_2,_karton_2-0002.jpg" xml:id="lub-media-290" source="1536-03-14-soat-cizistatkytrebon-5-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

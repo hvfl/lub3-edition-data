@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-554">LI-LA, U 47</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)  / Originaldatierung: 24. Januar 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-554">LI-LA, U 47</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)  / Originaldatierung: 24. Januar 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -46,6 +46,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_47-0001.jpg" xml:id="lub-media-426" source="u-047-v.jpg" corresp="A"/>
+    <graphic url="li-la,_u_47-0002.jpg" xml:id="lub-media-427" source="u-047-r.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

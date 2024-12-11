@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-625">
   <teiHeader>
     <fileDesc>
@@ -12,14 +13,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <listBibl>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-625">LI-LA, U 48</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 30. Juni 1516 / Beschreibstoff: Pergament / Libell, 18 Seiten / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-547">LI-GATb, U 32</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Originaldatierung: 30. Juni 1516 / Beschreibstoff: Pergament / Libell, 20 Seiten / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+        <listBibl type="publications">
           <bibl>Büchel, Johann Baptist. Geschichte der Pfarrei Triesen. In: JBL 2 (1902), S. 185ff.</bibl>
           <bibl>Klenze, Hippolyt Ludwig v. Die Alpwirtschaft im Fürstentum Liechtenstein. [Nachdruck der Ausgabe 1879]. Vaduz 1985. S. 38f.</bibl>
           <bibl>Schädler, Albert. Regesten zu den Urkunden der liechtensteinischen Gemeindearchive und Alpgenossenschaften. In: JBL 8 (1908), S. 115, Nr. 35 (nur einen Teil betreffend).</bibl>
         </listBibl>
-        <listWit>
-          <witness>In zwei Exemplaren ausgefertigt. Das Triesenberger Or. in [LI-GATb, U 32](547).</witness>
-        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,6 +49,46 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_48-0001.jpg" xml:id="lub-media-539" source="u-048-001.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0002.jpg" xml:id="lub-media-540" source="u-048-002.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0003.jpg" xml:id="lub-media-541" source="u-048-003.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0004.jpg" xml:id="lub-media-542" source="u-048-004.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0005.jpg" xml:id="lub-media-543" source="u-048-006.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0006.jpg" xml:id="lub-media-544" source="u-048-005.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0007.jpg" xml:id="lub-media-545" source="u-048-007.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0008.jpg" xml:id="lub-media-546" source="u-048-008.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0009.jpg" xml:id="lub-media-547" source="u-048-010.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0010.jpg" xml:id="lub-media-548" source="u-048-009.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0011.jpg" xml:id="lub-media-549" source="u-048-012.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0012.jpg" xml:id="lub-media-550" source="u-048-011.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0013.jpg" xml:id="lub-media-551" source="u-048-014.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0014.jpg" xml:id="lub-media-552" source="u-048-013.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0015.jpg" xml:id="lub-media-553" source="u-048-015.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0016.jpg" xml:id="lub-media-554" source="u-048-016.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0017.jpg" xml:id="lub-media-555" source="u-048-017.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_48-0018.jpg" xml:id="lub-media-556" source="u-048-018.jpg" corresp="A1"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2246" source="gatb-u-032-t-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2247" source="gatb-u-032-s-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2248" source="gatb-u-032-r-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2249" source="gatb-u-032-q-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2250" source="gatb-u-032-p-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2251" source="gatb-u-032-o-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2252" source="gatb-u-032-n-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2253" source="gatb-u-032-m-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2254" source="gatb-u-032-i-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2255" source="gatb-u-032-j-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2256" source="gatb-u-032-k-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2257" source="gatb-u-032-l-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2258" source="gatb-u-032-h-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2259" source="gatb-u-032-g-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2260" source="gatb-u-032-f-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2261" source="gatb-u-032-e-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2262" source="gatb-u-032-d-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2263" source="gatb-u-032-c-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2264" source="gatb-u-032-b-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_32-0002.jpg" xml:id="lub-media-2265" source="gatb-u-032-a-klein.jpg" corresp="A2"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="K">K: Konzept, Signatur: <ref type="identifier" target="lub-objects-626">LI-LA, U 43</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1509 / Beschreibstoff: Papier / Heft, 12 Seiten</witness>
+          <witness xml:id="K">K: Konzept, Signatur: <ref type="identifier" target="lub-objects-626">LI-LA, U 43</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1509 / Beschreibstoff: Papier / Heft, 12 Seiten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Die entsprechende Passage im Brandisischen Urbar ediert in LUB I/4, S. 276-278.</bibl>
@@ -42,6 +42,20 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_43-0001.jpg" xml:id="lub-media-1480" source="u-043-001.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0002.jpg" xml:id="lub-media-1481" source="u-043-002.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0003.jpg" xml:id="lub-media-1482" source="u-043-003.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0004.jpg" xml:id="lub-media-1483" source="u-043-004.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0005.jpg" xml:id="lub-media-1484" source="u-043-005.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0006.jpg" xml:id="lub-media-1485" source="u-043-006.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0007.jpg" xml:id="lub-media-1486" source="u-043-007.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0008.jpg" xml:id="lub-media-1487" source="u-043-008.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0009.jpg" xml:id="lub-media-1488" source="u-043-009.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0010.jpg" xml:id="lub-media-1489" source="u-043-010.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0011.jpg" xml:id="lub-media-1490" source="u-043-011.jpg" corresp="K"/>
+    <graphic url="li-la,_u_43-0012.jpg" xml:id="lub-media-1491" source="u-043-012.jpg" corresp="K"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

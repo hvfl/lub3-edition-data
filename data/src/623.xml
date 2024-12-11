@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-623">
   <teiHeader>
     <fileDesc>
@@ -12,11 +13,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <listBibl>
-          <bibl/>
-        </listBibl>
         <listWit>
-          <witness/>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-623">LI-LA, U 45</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeit: ca. 1514 /Beschreibstoff: Papier, 27 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -41,13 +39,42 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_45-0001.jpg" xml:id="lub-media-1163" source="u-045-001.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0002.jpg" xml:id="lub-media-1164" source="u-045-002.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0003.jpg" xml:id="lub-media-1165" source="u-045-003.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0004.jpg" xml:id="lub-media-1166" source="u-045-004.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0005.jpg" xml:id="lub-media-1167" source="u-045-005.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0006.jpg" xml:id="lub-media-1168" source="u-045-006.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0007.jpg" xml:id="lub-media-1169" source="u-045-007.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0008.jpg" xml:id="lub-media-1170" source="u-045-008.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0009.jpg" xml:id="lub-media-1171" source="u-045-009.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0010.jpg" xml:id="lub-media-1172" source="u-045-010.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0011.jpg" xml:id="lub-media-1173" source="u-045-011.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0012.jpg" xml:id="lub-media-1174" source="u-045-012.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0013.jpg" xml:id="lub-media-1175" source="u-045-013.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0014.jpg" xml:id="lub-media-1176" source="u-045-014.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0015.jpg" xml:id="lub-media-1177" source="u-045-015.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0016.jpg" xml:id="lub-media-1178" source="u-045-016.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0017.jpg" xml:id="lub-media-1179" source="u-045-017.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0018.jpg" xml:id="lub-media-1180" source="u-045-018.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0019.jpg" xml:id="lub-media-1181" source="u-045-019.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0020.jpg" xml:id="lub-media-1182" source="u-045-020.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0021.jpg" xml:id="lub-media-1183" source="u-045-021.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0022.jpg" xml:id="lub-media-1184" source="u-045-022.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0023.jpg" xml:id="lub-media-1185" source="u-045-023.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0024.jpg" xml:id="lub-media-1186" source="u-045-024.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0025.jpg" xml:id="lub-media-1187" source="u-045-025.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0026.jpg" xml:id="lub-media-1188" source="u-045-026.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0027.jpg" xml:id="lub-media-1189" source="u-045-027.jpg" corresp="B"/>
+    <graphic url="li-la,_u_45-0028.jpg" xml:id="lub-media-1190" source="u-045-028.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">
         <p><pb facs="lub-media-1163" n="1"/><lb n="1"/>Der her<gap/><lb n="2"/>berg gese<gap/><lb n="3"/>So aber uff <gap/><lb n="4"/>tag im xiii<gap/><lb n="5"/>ist. 
 </p>
-        <p><pb facs="lub-media-1164" n="2"/><lb n="6"/><placeName ref="lub-places-30">Muran</placeName> 
-<lb n="7"/><persName ref="lub-actors-890">Jörg Harrtman</persName>, lehentrager, iii schöfflil <supplied>waissen</supplied> 
+        <p><pb facs="lub-media-1164" n="2"/><lb n="6"/><placeName ref="lub-places-30">Muran</placeName><lb n="7"/><persName ref="lub-actors-890">Jörg Harrtman</persName>, lehentrager, iii schöfflil <supplied>waissen</supplied> 
 <lb n="8"/>iiiii schöfflil korn viii ß. d. und  
 <lb n="9"/>l ayer. 
 </p>
@@ -130,8 +157,7 @@
         <p><lb n="43"/><persName ref="lub-actors-1236">Ulrich Bernhart</persName> zue <placeName ref="lub-places-118"><supplied>N</supplied>endlen</placeName>  
 <lb n="44"/>zinst xx d. 
 </p>
-        <p><lb n="45"/><persName ref="lub-actors-1232">Lienhart Beder </persName>im <placeName ref="lub-places-8">Schanwald</placeName>  
-<lb n="46"/>zinst 1 schöfflel summer waissen  
+        <p><lb n="45"/><persName ref="lub-actors-1232">Lienhart Beder </persName>im <placeName ref="lub-places-8">Schanwald</placeName><lb n="46"/>zinst 1 schöfflel summer waissen  
 <lb n="47"/>und viii ß. d.  
 </p>
         <p><lb n="48"/><persName ref="lub-actors-1253">Hans Kouffman</persName>, lehentrager, zinst ii sch
@@ -198,8 +224,7 @@
         <p><lb n="91"/><persName ref="lub-actors-1249">Bernhart Herrman</persName> zinst hubstur  
 <lb n="92"/>i lib. viii ß. d.  
 </p>
-        <p><pb facs="lub-media-1174" n="9"/><lb n="93"/><placeName ref="lub-places-35">Eschen</placeName>  
-<lb n="94"/><persName ref="lub-actors-222">Hug Knabenknecht</persName> zinst vi schöfflil  
+        <p><pb facs="lub-media-1174" n="9"/><lb n="93"/><placeName ref="lub-places-35">Eschen</placeName><lb n="94"/><persName ref="lub-actors-222">Hug Knabenknecht</persName> zinst vi schöfflil  
 <lb n="95"/>waissen und i fiertil waissen. 
 <lb n="96"/>Zinst me zu sin halbtail von  
 <lb n="97"/>der müli zu <placeName ref="lub-places-521">Marx</placeName> iii lib. d.  
@@ -271,8 +296,7 @@
 <lb n="143"/>waibel zu <placeName ref="lub-places-10">Veldkirch</placeName> vii. 
 <lb n="144"/><date when="1515-03-13">Zinstag nach Oculi im xv jar</date>. 
 </p>
-        <p><pb facs="lub-media-1179" n="14"/><lb n="145"/><placeName ref="lub-places-36">Bennderrn</placeName> 
-<lb n="146"/><persName ref="lub-actors-1230">Hans Albar</persName> in <placeName ref="lub-places-116">Salums</placeName> zinst iiii sch
+        <p><pb facs="lub-media-1179" n="14"/><lb n="145"/><placeName ref="lub-places-36">Bennderrn</placeName><lb n="146"/><persName ref="lub-actors-1230">Hans Albar</persName> in <placeName ref="lub-places-116">Salums</placeName> zinst iiii sch
 <lb break="no" n="147"/>öffel waissen, iii schöffel korn co 
 <lb n="148"/>ayer und iiii hüner. 
 </p>
@@ -329,7 +353,7 @@
         <p><lb n="184"/><persName ref="lub-actors-1242">Jacob Frick</persName> uff <placeName ref="lub-places-520">Schuttenacker</placeName> zinst  
 <lb n="185"/>ii fiertil waissen. 
 </p>
-        <p><lb n="186"/><persName ref="lub-actors-1295">Ulrich Hop</persName> <placeName ref="lub-places-525">uff der Egg</placeName> zinst i lib. d  
+        <p><lb n="186"/><persName ref="lub-actors-1295">Ulrich Hop</persName><placeName ref="lub-places-525">uff der Egg</placeName> zinst i lib. d  
 <lb n="187"/>nach sag der lehenbriefen. 
 </p>
         <p><lb n="188"/><persName ref="lub-actors-1299">Jos Wyß</persName> zu <placeName ref="lub-places-2">Ruggäll</placeName> zinst vi ß. d. 

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-135">AT-VLA, Vogteiamt Feldkirch, Urk. 3375</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 10. Oktober 1545 / Beschreibstoff: Papier, 8 Seiten</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-135">AT-VLA, Vogteiamt Feldkirch, U 3375</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 10. Oktober 1545 / Beschreibstoff: Papier, 8 Seiten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -45,6 +45,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="feldkirch_vogteiamt_3375-0001.jpg" xml:id="lub-media-156" source="k-mom-bilddateien-vlajpgweb-vla-15451011-03375-01.jpg" corresp="B"/>
+    <graphic url="feldkirch_vogteiamt_3375-0002.jpg" xml:id="lub-media-157" source="k-mom-bilddateien-vlajpgweb-vla-15451011-03375-02.jpg" corresp="B"/>
+    <graphic url="feldkirch_vogteiamt_3375-0003.jpg" xml:id="lub-media-158" source="k-mom-bilddateien-vlajpgweb-vla-15451011-03375-03.jpg" corresp="B"/>
+    <graphic url="feldkirch_vogteiamt_3375-0004.jpg" xml:id="lub-media-159" source="k-mom-bilddateien-vlajpgweb-vla-15451011-03375-04.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

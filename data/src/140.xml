@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-140">AT-VLA, Vogteiamt Bludenz, Urk. 6539</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 3. Oktober 1552 / Beschreibstoff: Papier, 8 Seiten / Siegel: 7 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-140">AT-VLA, Vogteiamt Bludenz, U 6539</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 3. Oktober 1552 / Beschreibstoff: Papier, 8 Seiten / Siegel: 7 Siegel, gut erhalten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -63,6 +63,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="bludenz_vogteiamt_6539-0001.jpg" xml:id="lub-media-168" source="k-mom-bilddateien-vlajpgweb-vla-15521003-06539-01.jpg" corresp="A"/>
+    <graphic url="bludenz_vogteiamt_6539-0002.jpg" xml:id="lub-media-169" source="k-mom-bilddateien-vlajpgweb-vla-15521003-06539-02.jpg" corresp="A"/>
+    <graphic url="bludenz_vogteiamt_6539-0003.jpg" xml:id="lub-media-170" source="k-mom-bilddateien-vlajpgweb-vla-15521003-06539-03.jpg" corresp="A"/>
+    <graphic url="bludenz_vogteiamt_6539-0004.jpg" xml:id="lub-media-171" source="k-mom-bilddateien-vlajpgweb-vla-15521003-06539-04.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

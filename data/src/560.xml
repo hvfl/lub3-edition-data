@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-560">LI-LA, Schä U 38</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. April 1525 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-560">LI-LA, Schä U 38</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. April 1525 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -48,6 +48,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_38-0001.jpg" xml:id="lub-media-438" source="schae-u-038-r.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_38-0002.jpg" xml:id="lub-media-439" source="schae-u-038-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

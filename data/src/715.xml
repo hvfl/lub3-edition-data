@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-715">LI-LA, U 61</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 7. März 1604 / Beschreibstoff: Pergament / Libell, 61 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-715">LI-LA, U 61</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 7. März 1604 / Beschreibstoff: Pergament / Libell, 61 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -38,6 +38,69 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_61-0001.jpg" xml:id="lub-media-1295" source="u-061-001.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0002.jpg" xml:id="lub-media-1296" source="u-061-002.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0003.jpg" xml:id="lub-media-1297" source="u-061-003.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0004.jpg" xml:id="lub-media-1298" source="u-061-004.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0005.jpg" xml:id="lub-media-1299" source="u-061-005.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0006.jpg" xml:id="lub-media-1300" source="u-061-006.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0007.jpg" xml:id="lub-media-1301" source="u-061-007.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0008.jpg" xml:id="lub-media-1302" source="u-061-008.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0009.jpg" xml:id="lub-media-1303" source="u-061-009.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0010.jpg" xml:id="lub-media-1304" source="u-061-010.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0011.jpg" xml:id="lub-media-1305" source="u-061-011.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0012.jpg" xml:id="lub-media-1306" source="u-061-012.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0013.jpg" xml:id="lub-media-1307" source="u-061-013.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0014.jpg" xml:id="lub-media-1308" source="u-061-014.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0015.jpg" xml:id="lub-media-1309" source="u-061-015.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0016.jpg" xml:id="lub-media-1310" source="u-061-016.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0017.jpg" xml:id="lub-media-1311" source="u-061-017.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0018.jpg" xml:id="lub-media-1312" source="u-061-018.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0019.jpg" xml:id="lub-media-1313" source="u-061-019.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0020.jpg" xml:id="lub-media-1314" source="u-061-020.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0021.jpg" xml:id="lub-media-1315" source="u-061-021.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0022.jpg" xml:id="lub-media-1316" source="u-061-022.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0023.jpg" xml:id="lub-media-1317" source="u-061-023.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0024.jpg" xml:id="lub-media-1318" source="u-061-024.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0025.jpg" xml:id="lub-media-1319" source="u-061-025.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0026.jpg" xml:id="lub-media-1320" source="u-061-026.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0027.jpg" xml:id="lub-media-1321" source="u-061-027.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0028.jpg" xml:id="lub-media-1322" source="u-061-028.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0029.jpg" xml:id="lub-media-1323" source="u-061-029.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0030.jpg" xml:id="lub-media-1324" source="u-061-030.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0031.jpg" xml:id="lub-media-1325" source="u-061-031.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0032.jpg" xml:id="lub-media-1326" source="u-061-032.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0033.jpg" xml:id="lub-media-1327" source="u-061-033.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0034.jpg" xml:id="lub-media-1328" source="u-061-034.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0035.jpg" xml:id="lub-media-1329" source="u-061-035.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0036.jpg" xml:id="lub-media-1330" source="u-061-036.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0037.jpg" xml:id="lub-media-1331" source="u-061-037.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0038.jpg" xml:id="lub-media-1332" source="u-061-038.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0039.jpg" xml:id="lub-media-1333" source="u-061-039.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0040.jpg" xml:id="lub-media-1334" source="u-061-040.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0041.jpg" xml:id="lub-media-1335" source="u-061-041.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0042.jpg" xml:id="lub-media-1336" source="u-061-042.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0043.jpg" xml:id="lub-media-1337" source="u-061-043.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0044.jpg" xml:id="lub-media-1338" source="u-061-044.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0045.jpg" xml:id="lub-media-1339" source="u-061-045.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0046.jpg" xml:id="lub-media-1340" source="u-061-046.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0047.jpg" xml:id="lub-media-1341" source="u-061-047.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0048.jpg" xml:id="lub-media-1342" source="u-061-048.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0049.jpg" xml:id="lub-media-1343" source="u-061-049.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0050.jpg" xml:id="lub-media-1344" source="u-061-050.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0051.jpg" xml:id="lub-media-1345" source="u-061-051.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0052.jpg" xml:id="lub-media-1346" source="u-061-052.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0053.jpg" xml:id="lub-media-1347" source="u-061-053.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0054.jpg" xml:id="lub-media-1348" source="u-061-054.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0055.jpg" xml:id="lub-media-1349" source="u-061-055.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0056.jpg" xml:id="lub-media-1350" source="u-061-056.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0057.jpg" xml:id="lub-media-1351" source="u-061-057.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0058.jpg" xml:id="lub-media-1352" source="u-061-058.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0059.jpg" xml:id="lub-media-1353" source="u-061-059.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0060.jpg" xml:id="lub-media-1354" source="u-061-060.jpg" corresp="A"/>
+    <graphic url="li-la,_u_61-0061.jpg" xml:id="lub-media-1355" source="u-061-061.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

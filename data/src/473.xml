@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-473">LI-GAP, U 3</ref> (<orgName corresp="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 10. April 1579 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-473">LI-GAP, U 3</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 10. April 1579 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -55,6 +55,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gap__u_3-0002.jpg" xml:id="lub-media-2179" source="gap-u-003-v.jpg" corresp="A"/>
+    <graphic url="li-gap__u_3-0002.jpg" xml:id="lub-media-2180" source="gap-u-003-r-klein.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

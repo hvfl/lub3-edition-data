@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-606">LI-LA, Schä U 74</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 2. Februar 1574 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-606">LI-LA, Schä U 74</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 2. Februar 1574 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -60,6 +60,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_74-0001.jpg" xml:id="lub-media-494" source="schae-u-074.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_74-0002.jpg" xml:id="lub-media-700" source="schae-u-074-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

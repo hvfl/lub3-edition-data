@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-593">LI-LA, Schä U 30</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. April 1627 / Beschreibstoff: Papier</witness>
+          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-593">LI-LA, Schä U 30</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. April 1627 / Beschreibstoff: Papier</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -44,6 +44,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_61-0001.jpg" xml:id="lub-media-485" source="schae-u-061.jpg" corresp="K"/>
+    <graphic url="li-la__sch-_u_61-0002.jpg" xml:id="lub-media-1528" source="schae-u-061-v.jpg" corresp="K"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

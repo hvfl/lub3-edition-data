@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-734">LI-LA, PfäA 06</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. November 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-734">LI-LA, PfäA 06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. November 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -43,6 +43,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_06-0001.jpg" xml:id="lub-media-1533" source="pfafa-06-s01.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_06-0002.jpg" xml:id="lub-media-1534" source="pfafa-06-s02.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

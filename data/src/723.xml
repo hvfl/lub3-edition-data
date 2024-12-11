@@ -14,21 +14,20 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-LA, U 86</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 5 Siegel abh., 1 Siegel fehlt</witness>
-          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-652">CH-StASG, AA 3 U 15</ref> (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 3 Siegel abh., 3 Siegel fehlen</witness>
-          <witness>A3: Original, Signatur: CH-StASG, AA 3 A 13-2 / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 01/09/3</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 01/09/10/8</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 15/4/274 / Originaldatierung: um 1800</witness>
-          <witness>Kopie, Signatur: LI-LA, RA 41/08/04</witness>
-          <witness>Kopie, Signatur: CH-StASG, AA 3 A 13-2</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2401:036, S. 129-135 / Originaldatierung: um 1570 - Auszug</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2432:001 / Originaldatierung:  17. Jh. -  Auszug</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2432:002 / Originaldatierung:  17. Jh. -  Auszug</witness>
-          <witness>Kopie: Signatur: CH-LAGL, AG III.2468:005</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-LA, U 86</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 5 Siegel abh., 1 Siegel fehlt</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-652">CH-StASG, AA 3 U 15</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 3 Siegel abh., 3 Siegel fehlen</witness>
+          <witness xml:id="A3">A3: Original, Signatur: (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>), AA 3 A 13-2 / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier</witness>
+          <witness xml:id="A4">A4: Original, Signatur: (<orgName corresp="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>), H 2603 unfol / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier, 14 Seiten / Siegel: 4 Siegel, gut erhalten</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>), RA 01/09/3</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>), RA 01/09/10/8</witness>
+          <witness xml:id="B3">B3: Kopie, Signatur: (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>), AA 3 A 13-2</witness>
+          <witness xml:id="B4">B4: Kopie: Signatur: (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>), AG III.2401:036, S. 129-135 / Originaldatierung: um 1570 - Auszug</witness>
+          <witness xml:id="B5">B5: Kopie: Signatur: (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>), AG III.2432:001 / Originaldatierung:  17. Jh. -  Auszug</witness>
+          <witness xml:id="B6">B6: Kopie: Signatur: (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>), AG III.2432:002 / Originaldatierung:  17. Jh. -  Auszug</witness>
+          <witness xml:id="B7">B7: Kopie: Signatur: (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>), AG III.2468:005</witness>
         </listWit>
         <listBibl type="publications">
-          <bibl>Edition (nach A2): [SSRQ SG III/4, Nr. 134](https://editio.ssrq-online.ch/SG/III_4/134-1.html)</bibl>
+          <bibl>Edition (nach A2): <ref target="https://editio.ssrq-online.ch/SG/III_4/134-1.html">SSRQ SG III/4, Nr. 134</ref></bibl>
         </listBibl>
       </sourceDesc>
     </fileDesc>
@@ -81,6 +80,10 @@ Aussteller und Konfliktparteien siegeln.</p>
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_86-0001.jpg" xml:id="lub-media-557" source="u-086.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_86-0002.jpg" xml:id="lub-media-1492" source="u-086-v.jpg" corresp="A1"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

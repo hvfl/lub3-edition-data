@@ -14,13 +14,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1057">LI-LA, RA 73/12</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1516 / Beschreibstoff: Papier, 5 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1057">LI-LA, RA 73/12</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1516 / Beschreibstoff: Papier, 5 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Spruchbrief, ausgestellt von Rudolf V. von Sulz, zwischen den Bewohner von Triesen und den Walsern am Triesnerberg wegen dem Holzrecht innerhalb des Kulm. Darin wird festgehalten, dass die Triesner den Bann und die Strafe von 5 Pfundpfennig, die zwei Teile der Herrschaft und der dritte Teil den Triesner gehört.</p>
+        <p>Spruchbrief, ausgestellt von Rudolf V. von Sulz, zwischen den Bewohner von Triesen und den Walsern am Triesnerberg wegen dem Holzrecht innerhalb des Kulm. Darin wird festgehalten, dass die Triesner den Bann und die Strafe von 5 Pfundpfennig erhalten, zwei Teile der Herrschaft und der dritte Teil den Triesner gehört.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -38,6 +38,13 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_12-0001.jpg" xml:id="lub-media-1729" source="ra-73-12-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0002.jpg" xml:id="lub-media-1730" source="ra-73-12-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0003.jpg" xml:id="lub-media-1731" source="ra-73-12-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0004.jpg" xml:id="lub-media-1732" source="ra-73-12-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0005.jpg" xml:id="lub-media-1733" source="ra-73-12-s05.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

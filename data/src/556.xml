@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-556">LI-LA, Schä U 34</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 27. Oktober 1517 / Beschreibstoff: Papier / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-556">LI-LA, Schä U 34</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 27. Oktober 1517 / Beschreibstoff: Papier / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -62,6 +62,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_34-0001.jpg" xml:id="lub-media-430" source="schae-u-034-r.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_34-0002.jpg" xml:id="lub-media-431" source="schae-u-034-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

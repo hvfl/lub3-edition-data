@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-12-10 10:34:58 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-12-11 11:10:13 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -69,6 +69,7 @@
             <placeName type="alternative" xml:lang="de">Raggel</placeName>
             <placeName type="alternative" xml:lang="de">Raggell</placeName>
             <placeName type="alternative" xml:lang="de">Ruggäll</placeName>
+            <placeName type="alternative" xml:lang="de">Roggell</placeName>
             <location>
               <settlement xml:lang="de">Ruggell</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -218,6 +219,7 @@
             <placeName type="main" xml:lang="de">Eschnerberg</placeName>
             <placeName type="full" xml:lang="de">Eschnerberg</placeName>
             <placeName type="sort" xml:lang="de">eschnerberg</placeName>
+            <placeName type="alternative" xml:lang="de">Eschnerperg</placeName>
             <location>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
@@ -403,6 +405,8 @@
             <placeName type="full" xml:lang="de">Bendern</placeName>
             <placeName type="sort" xml:lang="de">bendern</placeName>
             <placeName type="alternative" xml:lang="de">Bennderrn</placeName>
+            <placeName type="alternative" xml:lang="de">Benndern</placeName>
+            <placeName type="alternative" xml:lang="de">Benderen</placeName>
             <location>
               <settlement xml:lang="de">Bendern</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -828,6 +832,7 @@
             <placeName type="alternative" xml:lang="de">Trüssen</placeName>
             <placeName type="alternative" xml:lang="de">Thrüssen</placeName>
             <placeName type="alternative" xml:lang="de">Trissen</placeName>
+            <placeName type="alternative" xml:lang="de">Trisan</placeName>
             <location>
               <settlement xml:lang="de">Triesen</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -905,8 +910,9 @@
           </place>
           <place type="T" xml:id="lub-places-97">
             <placeName type="main" xml:lang="de">Arlberg</placeName>
-            <placeName type="full" xml:lang="de">Arlberg</placeName>
+            <placeName type="full" xml:lang="de">Arlberg (Tirol/Vorarlberg)</placeName>
             <placeName type="sort" xml:lang="de">arlberg</placeName>
+            <placeName type="alternative" xml:lang="de">Arlaberg</placeName>
             <location>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
@@ -1289,6 +1295,7 @@
             <placeName type="main" xml:lang="de">Gritsch</placeName>
             <placeName type="full" xml:lang="de">Gritsch / Schaan</placeName>
             <placeName type="sort" xml:lang="de">gritsch</placeName>
+            <placeName type="alternative" xml:lang="de">Garetsch</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -1304,6 +1311,7 @@
             <placeName type="main" xml:lang="de">Valüna</placeName>
             <placeName type="full" xml:lang="de">Valüna / Triesen</placeName>
             <placeName type="sort" xml:lang="de">valuena</placeName>
+            <placeName type="alternative" xml:lang="de">Vallülen</placeName>
             <location>
               <settlement xml:lang="de">Triesen</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -3056,6 +3064,7 @@
             <placeName type="full" xml:lang="de">Mühlbach / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">muehlbach</placeName>
             <placeName type="alternative" xml:lang="de">Mühlpach</placeName>
+            <placeName type="alternative" xml:lang="de">Mülbach</placeName>
             <location>
               <settlement xml:lang="de">Vaduz</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -3284,6 +3293,7 @@
             <placeName type="full" xml:lang="de">Gamprin</placeName>
             <placeName type="sort" xml:lang="de">gamprin</placeName>
             <placeName type="alternative" xml:lang="de">Gampryn</placeName>
+            <placeName type="alternative" xml:lang="de">Gampprin</placeName>
             <location>
               <settlement xml:lang="de">Gamprin</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -7501,7 +7511,7 @@ SchäU 35 im Jahr 1518.</note>
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-12-10T10:35:00+01:00">teiHeader was automatically produced from the database 2024-12-10T10:35:00+01:00</change>
+      <change when="2024-12-11T11:10:15+01:00">teiHeader was automatically produced from the database 2024-12-11T11:10:15+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

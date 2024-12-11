@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift, kollationiert), Signatur: <ref type="identifier" target="lub-objects-959">LI-LA, RA 73/23</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 15. Juli 1591 / Beschreibstoff: Papier, 12 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift, kollationiert), Signatur: <ref type="identifier" target="lub-objects-959">LI-LA, RA 73/23</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 15. Juli 1591 / Beschreibstoff: Papier, 12 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -44,6 +44,20 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_23-0001.jpg" xml:id="lub-media-1663" source="ra-73-23-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0002.jpg" xml:id="lub-media-1664" source="ra-73-23-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0003.jpg" xml:id="lub-media-1665" source="ra-73-23-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0004.jpg" xml:id="lub-media-1666" source="ra-73-23-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0005.jpg" xml:id="lub-media-1667" source="ra-73-23-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0006.jpg" xml:id="lub-media-1668" source="ra-73-23-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0007.jpg" xml:id="lub-media-1669" source="ra-73-23-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0008.jpg" xml:id="lub-media-1670" source="ra-73-23-s08.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0009.jpg" xml:id="lub-media-1671" source="ra-73-23-s09.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0010.jpg" xml:id="lub-media-1672" source="ra-73-23-s10.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0011.jpg" xml:id="lub-media-1673" source="ra-73-23-s11.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_23-0012.jpg" xml:id="lub-media-1674" source="ra-73-23-s12.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

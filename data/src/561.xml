@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-561">LI-LA, Schä U 39</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. September 1526 / Beschreibstoff: Papier / Siegel: 1 Siegel,  gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-561">LI-LA, Schä U 39</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. September 1526 / Beschreibstoff: Papier / Siegel: 1 Siegel,  gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -44,6 +44,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_39-0001.jpg" xml:id="lub-media-444" source="schae-u-039-v.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_39-0002.jpg" xml:id="lub-media-445" source="schae-u-039-r.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

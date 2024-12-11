@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-605">LI-LA, Schä U 73</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. August 1573 / Beschreibstoff: Papier / Siegel: 1 Siegel, nur noch Spuren</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-605">LI-LA, Schä U 73</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. August 1573 / Beschreibstoff: Papier / Siegel: 1 Siegel, nur noch Spuren</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -50,6 +50,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_73-0001.jpg" xml:id="lub-media-493" source="schae-u-073.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_73-0002.jpg" xml:id="lub-media-699" source="schae-u-073-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

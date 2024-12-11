@@ -14,7 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-119">AT-VLA, St Johann Priorat Urk. 5388</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 17. November 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-119">AT-VLA, St Johann Priorat U 5388</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 17. November 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag (Handschrift), Signatur: <ref type="identifier" target="lub-objects-1124">AT-VLA, Kleiners Urkundenbuch II S. 121-126</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 20. Januar 1529 / Beschreibstoff: Papier, 6 Seiten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -58,6 +59,16 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="st__johann_feldkirch_priorat_5388-0002.jpg" xml:id="lub-media-123" source="k-mom-bilddateien-vlajpgweb-vla-15290120-05388-r.jpg" corresp="A"/>
+    <graphic url="st__johann_feldkirch_priorat_5388-0003.jpg" xml:id="lub-media-124" source="k-mom-bilddateien-vlajpgweb-vla-15290120-05388-v.jpg" corresp="A"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_ii_s__121-126-0001.jpg" xml:id="lub-media-2444" source="vla-kleiners-urkundenbuch-band-ii-arnegger001.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_ii_s__121-126-0002.jpg" xml:id="lub-media-2445" source="vla-kleiners-urkundenbuch-band-ii-arnegger002.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_ii_s__121-126-0003.jpg" xml:id="lub-media-2446" source="vla-kleiners-urkundenbuch-band-ii-arnegger003.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_ii_s__121-126-0004.jpg" xml:id="lub-media-2447" source="vla-kleiners-urkundenbuch-band-ii-arnegger004.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_ii_s__121-126-0005.jpg" xml:id="lub-media-2448" source="vla-kleiners-urkundenbuch-band-ii-arnegger005.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_ii_s__121-126-0006.jpg" xml:id="lub-media-2449" source="vla-kleiners-urkundenbuch-band-ii-arnegger006.jpg" corresp="E"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

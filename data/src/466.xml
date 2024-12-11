@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-466">LI-GAE, AHV 03/15</ref> (<orgName corresp="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 17. November 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-466">LI-GAE, AHV 03/15</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 17. November 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -43,6 +43,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gae_ahv_03_15-0002.jpg" xml:id="lub-media-2333" source="gae-u-ahv-03-15-r.jpg" corresp="A"/>
+    <graphic url="li-gae_ahv_03_15-0002.jpg" xml:id="lub-media-2334" source="gae-u-ahv-03-15-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

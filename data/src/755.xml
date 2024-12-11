@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-755">LI-LA, RA 01/12/1</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1594 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, fehlt / Unterschrift: Moritz von Altmannshausen</witness>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-755">LI-LA, RA 01/12/1</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1594 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, fehlt / Unterschrift: Moritz von Altmannshausen</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -37,6 +37,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_01_12-0001.jpg" xml:id="lub-media-1587" source="ra-01-12-01-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_01_12-0002.jpg" xml:id="lub-media-1588" source="ra-01-12-01-s02.jpg" corresp="A"/>
+    <graphic url="li-la__ra_01_12-0003.jpg" xml:id="lub-media-1589" source="ra-01-12-01-s03.jpg" corresp="A"/>
+    <graphic url="li-la__ra_01_12-0004.jpg" xml:id="lub-media-1590" source="ra-01-12-01-s04.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1116">AT-VLA, PfA Bartholomäberg, Urk. 353</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 24. September 1548 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten.</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1116">AT-VLA, PfA Bartholomäberg, U 353</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 24. September 1548 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten.</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -45,6 +45,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-vla_bartholom-berg_pfarrarchiv_353-0001.jpg" xml:id="lub-media-2434" source="vla-204-gemde-archiv-nenzing-sign204002.jpg" corresp="A"/>
+    <graphic url="at-vla_bartholom-berg_pfarrarchiv_353-0002.jpg" xml:id="lub-media-2435" source="vla-204-gemde-archiv-nenzing-sign204003.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

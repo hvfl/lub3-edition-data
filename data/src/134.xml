@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-134">AT-VLA, Vogteiamt Feldkirch, Urk. 3349</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 18. Oktober 1520 / Beschreibstoff: Pergament, beschädigt / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-134">AT-VLA, Vogteiamt Feldkirch, U 3349</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 18. Oktober 1520 / Beschreibstoff: Pergament, beschädigt / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -46,6 +46,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="feldkirch_vogteiamt_3349-0001.jpg" xml:id="lub-media-154" source="k-mom-bilddateien-vlajpgweb-vla-15201018-03349-r.jpg" corresp="A"/>
+    <graphic url="feldkirch_vogteiamt_3349-0002.jpg" xml:id="lub-media-155" source="k-mom-bilddateien-vlajpgweb-vla-15201018-03349-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

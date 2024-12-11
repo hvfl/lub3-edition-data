@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-942">
   <teiHeader>
     <fileDesc>
@@ -12,11 +13,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <listBibl>
-          <bibl/>
-        </listBibl>
         <listWit>
-          <witness/>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-942">LI-LA, RA 41/08/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum:  ca. 1562 / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -31,8 +29,8 @@
         <keywords>
           <term ref="lub-keywords-169">Damm</term>
           <term ref="lub-keywords-46">Konflikt</term>
-          <term ref="lub-keywords-405">Schupfwehr</term>
-          <term ref="lub-keywords-404">Streichwehr</term>
+          <term ref="lub-keywords-405">Schupfwuhr</term>
+          <term ref="lub-keywords-404">Streichwuhr</term>
         </keywords>
       </textClass>
       <correspDesc>
@@ -49,6 +47,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_41_08_03-0001.jpg" xml:id="lub-media-2028" source="ra-41-08-03-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_08_03-0002.jpg" xml:id="lub-media-2029" source="ra-41-08-03-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_08_03-0003.jpg" xml:id="lub-media-2030" source="ra-41-08-03-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_08_03-0004.jpg" xml:id="lub-media-2031" source="ra-41-08-03-s04.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

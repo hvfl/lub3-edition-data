@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-774">
   <teiHeader>
     <fileDesc>
@@ -12,11 +13,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <listBibl>
-          <bibl/>
-        </listBibl>
         <listWit>
-          <witness/>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-774">LI-LA, RA 06/08/5/1</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 31. Juli 1555 / Beschreibstoff: Papier, 2 Seiten / Siegel: 2 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +38,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_06_08_5_1-0001.jpg" xml:id="lub-media-1821" source="ra-06-08-5-1-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_06_08_5_1-0002.jpg" xml:id="lub-media-1822" source="ra-06-08-5-1-s02.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">
@@ -86,9 +88,7 @@
 <lb n="12"/>halben 
 <lb n="13"/>1555. 
 </p>
-        <p><lb n="14"/>Dem edlen vesten <persName ref="lub-actors-24">Juvynalißen von K.</persName> 
-<lb n="15"/>landtvogt der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>  
-<lb n="16"/>unserm besundern lieben frundt  
+        <p><lb n="14"/>Dem edlen vesten <persName ref="lub-actors-24">Juvynalißen von K.</persName><lb n="15"/>landtvogt der herrschafft <placeName ref="lub-places-7">Vaduz</placeName><lb n="16"/>unserm besundern lieben frundt  
 <lb n="17"/>und nachpuren. 
 </p>
       </div>

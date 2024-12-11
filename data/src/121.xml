@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-121">AT-VLA, RH Blumenegg Urk. 6899</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 31. Januar 1529 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-121">AT-VLA, RH Blumenegg U 6899</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 31. Januar 1529 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -50,6 +50,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="blumenegg_reichsherrschaft_6899-0001.jpg" xml:id="lub-media-125" source="k-mom-bilddateien-vlajpgweb-vla-15290131-06899-r.jpg" corresp="A"/>
+    <graphic url="blumenegg_reichsherrschaft_6899-0002.jpg" xml:id="lub-media-126" source="k-mom-bilddateien-vlajpgweb-vla-15290131-06899-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

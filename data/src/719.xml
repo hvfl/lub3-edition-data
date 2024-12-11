@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-719">LI-LA, U 65</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / 2 Siegel: 1. fehlt, 2. aufgedrückt (Editionsvorlage)</witness>
-          <witness>B: Kopie (Abschrift), Signatur LI-PfABe A 27/12</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-719">LI-LA, U 65</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / 2 Siegel: 1. fehlt, 2. aufgedrückt (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: (<orgName corresp="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>), A 27/12</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_65-0001.jpg" xml:id="lub-media-1495" source="u-65-r-600ppi.jpg" corresp="A"/>
+    <graphic url="li-la,_u_65-0002.jpg" xml:id="lub-media-1496" source="u-65-v-600ppi.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-752">LI-LA, RA 01/09/1</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Orignaldatierung: 27. Februar 1559 / Beschreibstoff: Papier, 17 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-752">LI-LA, RA 01/09/1</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Orignaldatierung: 27. Februar 1559 / Beschreibstoff: Papier, 17 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,25 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_01_09_1-0001.jpg" xml:id="lub-media-1734" source="ra-01-09-1-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0002.jpg" xml:id="lub-media-1735" source="ra-01-09-1-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0003.jpg" xml:id="lub-media-1736" source="ra-01-09-1-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0004.jpg" xml:id="lub-media-1737" source="ra-01-09-1-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0005.jpg" xml:id="lub-media-1738" source="ra-01-09-1-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0006.jpg" xml:id="lub-media-1739" source="ra-01-09-1-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0007.jpg" xml:id="lub-media-1740" source="ra-01-09-1-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0008.jpg" xml:id="lub-media-1741" source="ra-01-09-1-s08.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0009.jpg" xml:id="lub-media-1742" source="ra-01-09-1-s09.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0010.jpg" xml:id="lub-media-1743" source="ra-01-09-1-s10.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0011.jpg" xml:id="lub-media-1744" source="ra-01-09-1-s11.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0012.jpg" xml:id="lub-media-1745" source="ra-01-09-1-s12.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0013.jpg" xml:id="lub-media-1746" source="ra-01-09-1-s13.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0014.jpg" xml:id="lub-media-1747" source="ra-01-09-1-s14.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0015.jpg" xml:id="lub-media-1748" source="ra-01-09-1-s15.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0016.jpg" xml:id="lub-media-1749" source="ra-01-09-1-s16.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_1-0017.jpg" xml:id="lub-media-1750" source="ra-01-09-1-s17.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

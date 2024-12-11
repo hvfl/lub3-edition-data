@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-464">LI-GAE, AHV 03/08</ref> (<orgName corresp="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 23. Mai 1520 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
-          <witness xml:id="B1">B1: Kopie, Signatur: <ref type="identifier" target="lub-objects-1107">LI-GAE, AHV 02/117a</ref> (<orgName corresp="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Papier</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-464">LI-GAE, AHV 03/08</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 23. Mai 1520 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: <ref type="identifier" target="lub-objects-1107">LI-GAE, AHV 02/117a</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Papier</witness>
           <witness xml:id="B2">B2: Kopie, Signatur: (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>), RA 71/13</witness>
         </listWit>
       </sourceDesc>
@@ -43,6 +43,14 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gae_ahv_03_08-0002.jpg" xml:id="lub-media-2341" source="gae-u-ahv-03-08-r.jpg" corresp="A"/>
+    <graphic url="li-gae_ahv_03_08-0002.jpg" xml:id="lub-media-2342" source="gae-u-ahv-03-08-v.jpg" corresp="A"/>
+    <graphic url="li-gae_ahv_02_117a-0001.jpg" xml:id="lub-media-2361" source="gae-ahv-021-117a-bild-01.jpg" corresp="B1"/>
+    <graphic url="li-gae_ahv_02_117a-0002.jpg" xml:id="lub-media-2362" source="gae-ahv-021-117a-bild-02.jpg" corresp="B1"/>
+    <graphic url="li-gae_ahv_02_117a-0003.jpg" xml:id="lub-media-2363" source="gae-ahv-021-117a-bild-03.jpg" corresp="B1"/>
+    <graphic url="li-gae_ahv_02_117a-0004.jpg" xml:id="lub-media-2364" source="gae-ahv-021-117a-bild-04.jpg" corresp="B1"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

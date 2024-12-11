@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-753">LI-LA, RA 01/09/2</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. Januar 1559 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-753">LI-LA, RA 01/09/2</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. Januar 1559 / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_01_09_2-0001.jpg" xml:id="lub-media-1751" source="ra-01-09-2-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_2-0002.jpg" xml:id="lub-media-1752" source="ra-01-09-2-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_2-0003.jpg" xml:id="lub-media-1753" source="ra-01-09-2-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_01_09_2-0004.jpg" xml:id="lub-media-1754" source="ra-01-09-2-s04.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

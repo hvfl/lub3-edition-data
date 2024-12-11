@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-759">LI-LA, RA 06/03</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 23. Juni 1593 / Beschreibstoff: Papier,  5 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-759">LI-LA, RA 06/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 23. Juni 1593 / Beschreibstoff: Papier,  5 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -38,6 +38,13 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_06_03_01-02-0001.jpg" xml:id="lub-media-1766" source="ra-06-03-01-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_06_03_01-02-0002.jpg" xml:id="lub-media-1767" source="ra-06-03-01-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_06_03_01-02-0003.jpg" xml:id="lub-media-1768" source="ra-06-03-01-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_06_03_01-02-0004.jpg" xml:id="lub-media-1769" source="ra-06-03-01-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_06_03_01-02-0005.jpg" xml:id="lub-media-1770" source="ra-06-03-01-s05.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

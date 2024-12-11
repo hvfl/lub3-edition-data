@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-714">LI-LA, U 60</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 8. März 1604 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-714">LI-LA, U 60</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 8. März 1604 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_60-0001.jpg" xml:id="lub-media-533" source="u-060.jpg" corresp="A"/>
+    <graphic url="li-la,_u_60-0002.jpg" xml:id="lub-media-1294" source="u-060-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

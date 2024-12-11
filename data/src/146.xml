@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-146">AT-VLA, Vogteiamt Bludenz, Urk. 4988</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 30. Mai 1608 / Beschreibstoff: Papier, 14 Seiten</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-146">AT-VLA, Vogteiamt Bludenz, U 4988</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 30. Mai 1608 / Beschreibstoff: Papier, 14 Seiten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -52,6 +52,15 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0009.jpg" xml:id="lub-media-505" source="1608-05-30-vla-bludenz-vogteiamt-4988-01-1.jpg" corresp="B"/>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0010.jpg" xml:id="lub-media-506" source="1608-05-30-vla-bludenz-vogteiamt-4988-4988-02-1.jpg" corresp="B"/>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0011.jpg" xml:id="lub-media-507" source="1608-05-30-vla-bludenz-vogteiamt-4988-4988-03-1.jpg" corresp="B"/>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0012.jpg" xml:id="lub-media-508" source="1608-05-30-vla-bludenz-vogteiamt-4988-4988-04.jpg" corresp="B"/>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0013.jpg" xml:id="lub-media-509" source="1608-05-30-vla-bludenz-vogteiamt-4988-4988-05-1.jpg" corresp="B"/>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0014.jpg" xml:id="lub-media-510" source="1608-05-30-vla-bludenz-vogteiamt-4988-4988-06-1.jpg" corresp="B"/>
+    <graphic url="at-vla_bludenz_vogteiamt_4988-0015.jpg" xml:id="lub-media-511" source="1608-05-30-vla-bludenz-vogteiamt-4988-4988-07.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

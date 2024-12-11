@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-757">
   <teiHeader>
     <fileDesc>
@@ -12,11 +13,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <listBibl>
-          <bibl/>
-        </listBibl>
         <listWit>
-          <witness/>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-757">LI-LA, RA 02/6/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 2. Januar 1571 / Beschreibstoff: Papier, 11 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +38,19 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_02_6_01-0001.jpg" xml:id="lub-media-2146" source="ra-06-6-01-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0002.jpg" xml:id="lub-media-2147" source="ra-06-6-01-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0003.jpg" xml:id="lub-media-2148" source="ra-06-6-01-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0004.jpg" xml:id="lub-media-2149" source="ra-06-6-01-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0005.jpg" xml:id="lub-media-2150" source="ra-06-6-01-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0006.jpg" xml:id="lub-media-2151" source="ra-06-6-01-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0007.jpg" xml:id="lub-media-2152" source="ra-06-6-01-s08.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0008.jpg" xml:id="lub-media-2153" source="ra-06-6-01-s09.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0009.jpg" xml:id="lub-media-2154" source="ra-06-6-01-s10.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0010.jpg" xml:id="lub-media-2155" source="ra-06-6-01-s11.jpg" corresp="B"/>
+    <graphic url="li-la__ra_02_6_01-0011.jpg" xml:id="lub-media-2156" source="ra-06-6-01-s12.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">
@@ -108,8 +119,7 @@
 <lb n="57"/>unnd dergleichen klainen richtern, für sein belonung  
 <lb n="58"/>ain guldin gegeben werden. 
 </p>
-        <p><lb n="59"/>Zum sechsten, so der nachrichter uf ain tag zu <placeName ref="lub-places-45">Bregennz</placeName>  
-<lb n="60"/>richt, soll ime für das richtermal unnd für strickh  
+        <p><lb n="59"/>Zum sechsten, so der nachrichter uf ain tag zu <placeName ref="lub-places-45">Bregennz</placeName><lb n="60"/>richt, soll ime für das richtermal unnd für strickh  
 <lb n="61"/>unnd henndschuech ain halber guldin, und so er ain groß  
 <lb n="62"/>richten thuet, darzu er aines knechz zu seiner raichen  
 <lb n="63"/>notturfftig ist, soll demselben knecht für das  

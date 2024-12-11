@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-475">LI-GAP, U 5</ref> (<orgName corresp="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament / Siegel: 3 Siegel, gut erhalten (Editionsvorlage)</witness>
-          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-1104">AT-GAF, U 53</ref> (<orgName corresp="at-gaf" ref="lub-objects-1105">Gemeindearchiv Frastanz</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament / Siegel: 3 Siegel</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-475">LI-GAP, U 5</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament / Siegel: 3 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-1104">AT-GAF, U 53</ref> (<orgName key="at-gaf" ref="lub-objects-1105">Gemeindearchiv Frastanz</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament / Siegel: 3 Siegel</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>LUB I/4, S. 199-206, Nr. 49</bibl>
@@ -60,6 +60,20 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2183" source="gap-u-005-001.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2184" source="gap-u-005-002.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2185" source="gap-u-005-003.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2186" source="gap-u-005-004.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2187" source="gap-u-005-005.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2188" source="gap-u-005-006.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2189" source="gap-u-005-007.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2190" source="gap-u-005-008.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2191" source="gap-u-005-009.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2192" source="gap-u-005-010.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2193" source="gap-u-005-011.jpg" corresp="A1"/>
+    <graphic url="li-gap__u_5-0002.jpg" xml:id="lub-media-2194" source="gap-u-005-012.jpg" corresp="A1"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

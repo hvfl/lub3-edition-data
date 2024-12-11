@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-609">LI-LA, Schä U 77</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 10. November 1585 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-609">LI-LA, Schä U 77</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 10. November 1585 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -51,6 +51,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_77-0001.jpg" xml:id="lub-media-497" source="schae-u-077.jpg" corresp="A"/>
+    <graphic url="li-la__sch-_u_77-0002.jpg" xml:id="lub-media-1521" source="schae-u-077-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

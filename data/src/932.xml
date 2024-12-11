@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-932">LI-LA, RA 33/6/63</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. August 1603 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-932">LI-LA, RA 33/6/63</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. August 1603 / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_33_6_063-0001.jpg" xml:id="lub-media-1980" source="ra-33-6-63-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_33_6_063-0002.jpg" xml:id="lub-media-1981" source="ra-33-6-63-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_33_6_063-0003.jpg" xml:id="lub-media-1982" source="ra-33-6-63-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_33_6_063-0004.jpg" xml:id="lub-media-1983" source="ra-33-6-63-s04.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

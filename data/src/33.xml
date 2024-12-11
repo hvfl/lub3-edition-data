@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-33">LI-LA, U 19</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 4. Juni 1537 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-33">LI-LA, U 19</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 4. Juni 1537 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Regest: Joseph Ospelt: Ausführliche Regesten aus den Urkunden des fürstlich liechtensteinischen Regierungsarchivs, in: JBL 26 (1926), S. 111-134, hier S. 120-122.</bibl>
@@ -51,6 +51,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li_la,_u_19-0001.jpg" xml:id="lub-media-96" source="u-019-v.jpg" corresp="A"/>
+    <graphic url="li_la,_u_19-0002.jpg" xml:id="lub-media-97" source="u-019-r.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

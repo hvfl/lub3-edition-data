@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1033">LI-AAV, U 22b</ref> (<orgName corresp="li-aav" ref="lub-objects-1029">Alparchiv Vaduz</orgName>) / Entstehungszeit: 18. Jahrhundert / Beschreibstoff: Papier</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1033">LI-AAV, U 22b</ref> (<orgName key="li-aav" ref="lub-objects-1029">Alparchiv Vaduz</orgName>) / Entstehungszeit: 18. Jahrhundert / Beschreibstoff: Papier</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -41,6 +41,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-aav__u_22b-0001.jpg" xml:id="lub-media-2316" source="alpa-vaduz-u22b-1v-2r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_22b-0002.jpg" xml:id="lub-media-2317" source="alpa-vaduz-u22b-1r-5v.jpg" corresp="B"/>
+    <graphic url="li-aav__u_22b-0003.jpg" xml:id="lub-media-2318" source="alpa-vaduz-u22b-3v-4r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_22b-0004.jpg" xml:id="lub-media-2319" source="alpa-vaduz-u22b-2v-3r.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

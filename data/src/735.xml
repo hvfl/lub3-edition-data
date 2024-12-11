@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness>A: Original, Signatur: LI-LA, PfäfA 22</witness>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
+          <witness xml:id="A">A: Original, Signatur: (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>), PfäfA 22</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,11 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_21_04-0001.jpg" xml:id="lub-media-1535" source="pfafa-21-04-s01.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_04-0002.jpg" xml:id="lub-media-1536" source="pfafa-21-04-s02.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_04-0003.jpg" xml:id="lub-media-1537" source="pfafa-21-04-s03.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

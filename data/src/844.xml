@@ -14,8 +14,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-844">AT-VLA, LSt Urk. 5586</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 15. April 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten - Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/LandstaendeVorarlb/5586/charter)</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-844">AT-VLA, LSt U 5586</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 15. April 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/AT-VLA/LandstaendeVorarlb/5586/charter">monasterium.net</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -46,6 +51,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-vla_vorarlberger_landständen_5586-0001.jpg" xml:id="lub-media-685" source="k-mom-bilddateien-vlajpgweb-vla-15610415-05586-r.jpg" corresp="A"/>
+    <graphic url="at-vla_vorarlberger_landständen_5586-0002.jpg" xml:id="lub-media-686" source="k-mom-bilddateien-vlajpgweb-vla-15610415-05586-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

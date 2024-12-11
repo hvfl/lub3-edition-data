@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-468">LI-LA, Schä U 64</ref> (<orgName corresp="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 17. März 1556 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-468">LI-LA, Schä U 64</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 17. März 1556 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,6 +45,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gae_ahv_03_18-0002.jpg" xml:id="lub-media-2335" source="gae-u-ahv-03-18-r.jpg" corresp="A"/>
+    <graphic url="li-gae_ahv_03_18-0002.jpg" xml:id="lub-media-2336" source="gae-u-ahv-03-18-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

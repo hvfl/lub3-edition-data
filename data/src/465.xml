@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-465">LI-GAE, AHV 03/09</ref> (<orgName corresp="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: September 1598 / Beschreibstoff: Pergament / 1 Siegel, fehlt / Unterschrift und Notariatssignet von Johann Jakob Beck</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-465">LI-GAE, AHV 03/09</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: September 1598 / Beschreibstoff: Pergament / 1 Siegel, fehlt / Unterschrift und Notariatssignet von Johann Jakob Beck</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -38,6 +38,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gae_ahv_03_09-0002.jpg" xml:id="lub-media-2343" source="gae-u-ahv-03-09-r.jpg" corresp="A"/>
+    <graphic url="li-gae_ahv_03_09-0002.jpg" xml:id="lub-media-2344" source="gae-u-ahv-03-09-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

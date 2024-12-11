@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1099">LI-LA, RA 10/2/08/2/02</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 15. Mai 1530 / Beschreibstoff: Papier, 8 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1099">LI-LA, RA 10/2/08/2/02</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 15. Mai 1530 / Beschreibstoff: Papier, 8 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,16 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_10_2_08_2_02-0001.jpg" xml:id="lub-media-2302" source="ra-10-2-08-2-02-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0002.jpg" xml:id="lub-media-2303" source="ra-10-2-08-2-02-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0003.jpg" xml:id="lub-media-2304" source="ra-10-2-08-2-02-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0004.jpg" xml:id="lub-media-2305" source="ra-10-2-08-2-02-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0005.jpg" xml:id="lub-media-2306" source="ra-10-2-08-2-02-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0006.jpg" xml:id="lub-media-2307" source="ra-10-2-08-2-02-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0007.jpg" xml:id="lub-media-2308" source="ra-10-2-08-2-02-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_10_2_08_2_02-0008.jpg" xml:id="lub-media-2309" source="ra-10-2-08-2-02-s08.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

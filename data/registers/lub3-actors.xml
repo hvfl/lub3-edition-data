@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-12-10 10:34:55 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2024-12-11 11:10:10 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -669,6 +669,7 @@
             <persName type="full" xml:lang="de">Brendle, Peter (1550–1570)</persName>
             <persName type="main" xml:lang="de">Brendle, Peter</persName>
             <persName type="sort" xml:lang="de">brendle, peter</persName>
+            <persName type="alternative" xml:lang="de">Brendli, Petter</persName>
             <birth when="1550"/>
             <death when="1570-12-14"/>
             <note type="description" xml:lang="de">
@@ -1225,6 +1226,7 @@
             <persName type="main" xml:lang="de">Litscher, Josef</persName>
             <persName type="sort" xml:lang="de">litscher, josef</persName>
             <persName type="alternative" xml:lang="de">Lutscher, Joseph</persName>
+            <persName type="alternative" xml:lang="de">Litscher, Joseph</persName>
             <birth when="1514-08-18"/>
             <death when="1534"/>
             <note type="description" xml:lang="de">
@@ -5319,6 +5321,7 @@
             <persName type="full" xml:lang="de">Vaistli, Agnes (1513–1514)</persName>
             <persName type="main" xml:lang="de">Vaistli, Agnes</persName>
             <persName type="sort" xml:lang="de">vaistli, agnes</persName>
+            <persName type="alternative" xml:lang="de">Vaistli, Agnesa</persName>
             <birth when="1513-04-30"/>
             <death when="1514-08-19"/>
             <note type="description" xml:lang="de">
@@ -5329,6 +5332,7 @@
             <persName type="full" xml:lang="de">Walch, Jos (1562–1579)</persName>
             <persName type="main" xml:lang="de">Walch, Jos</persName>
             <persName type="sort" xml:lang="de">walch, jos</persName>
+            <persName type="alternative" xml:lang="de">Walchen, Joß</persName>
             <birth when="1562-11-11"/>
             <death when="1579-08-17"/>
             <note type="description" xml:lang="de">
@@ -5339,6 +5343,7 @@
             <persName type="full" xml:lang="de">Knabenknecht, Hans (2) (1566–1568)</persName>
             <persName type="main" xml:lang="de">Knabenknecht, Hans (2)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, hans (2)</persName>
+            <persName type="alternative" xml:lang="de">Knabennknecht, Hanns</persName>
             <birth when="1566-11-11"/>
             <death when="1568-04-28"/>
             <note type="description" xml:lang="de">
@@ -5350,7 +5355,8 @@
             <persName type="full" xml:lang="de">Wanger, Hans (2) (1566–1579)</persName>
             <persName type="main" xml:lang="de">Wanger, Hans (2)</persName>
             <persName type="sort" xml:lang="de">wanger, hans (2)</persName>
-            <persName type="alternative" xml:lang="de">Wagner</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Hans</persName>
+            <persName type="alternative" xml:lang="de">Wannger, Hanns</persName>
             <birth when="1566-11-11"/>
             <death when="1579-08-17"/>
             <note type="description" xml:lang="de">
@@ -5362,6 +5368,7 @@
             <persName type="main" xml:lang="de">Marxer, Lienhart</persName>
             <persName type="sort" xml:lang="de">marxer, lienhart</persName>
             <persName type="alternative" xml:lang="de">Marxer, Lienhartt</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Liennhardt</persName>
             <birth when="1538"/>
             <death when="1568-11-11"/>
             <note type="description" xml:lang="de">
@@ -12666,7 +12673,7 @@ Bütler, Placid. (1910 - 1913) - In: Anzeiger für Schweizerische Geschichte Ser
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-12-10T10:34:57+01:00">teiHeader was automatically produced from the database 2024-12-10T10:34:57+01:00</change>
+      <change when="2024-12-11T11:10:12+01:00">teiHeader was automatically produced from the database 2024-12-11T11:10:12+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

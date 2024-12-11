@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-562">LI-LA, Schä U 40</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 25. Juli 1526 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-562">LI-LA, Schä U 40</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 25. Juli 1526 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,6 +45,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_40-0001.jpg" xml:id="lub-media-440" source="schae-u-040-r.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_40-0002.jpg" xml:id="lub-media-441" source="schae-u-040-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

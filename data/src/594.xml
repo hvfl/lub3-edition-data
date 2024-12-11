@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-594">LI-LA, Schä U 62</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 31. Mai 1552 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-594">LI-LA, Schä U 62</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 31. Mai 1552 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -56,6 +56,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_62-0001.jpg" xml:id="lub-media-486" source="schae-u-062.jpg" corresp="A"/>
+    <graphic url="li-la__sch-_u_62-0002.jpg" xml:id="lub-media-1527" source="schae-u-062-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

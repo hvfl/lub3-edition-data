@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-775">LI-LA, RA 06/08/5/2</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 13. Oktober 1575 / Beschreibstoff: Papier, 3 Seiten / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-775">LI-LA, RA 06/08/5/2</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 13. Oktober 1575 / Beschreibstoff: Papier, 3 Seiten / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -41,6 +41,11 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_06_08_5_2-0001.jpg" xml:id="lub-media-1823" source="ra-06-08-5-01-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_06_08_5_2-0002.jpg" xml:id="lub-media-1824" source="ra-06-08-5-01-s02.jpg" corresp="A"/>
+    <graphic url="li-la__ra_06_08_5_2-0003.jpg" xml:id="lub-media-1825" source="ra-06-08-5-01-s03.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

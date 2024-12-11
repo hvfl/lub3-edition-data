@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1032">LI-AAV, U 17</ref> (<orgName corresp="li-aav" ref="lub-objects-1029">Alparchiv Vaduz</orgName>) / Entstehungszeit: 20. August 1617 / Beschreibstoff: Papier</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1032">LI-AAV, U 17</ref> (<orgName key="li-aav" ref="lub-objects-1029">Alparchiv Vaduz</orgName>) / Entstehungszeit: 20. August 1617 / Beschreibstoff: Papier</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -44,6 +44,21 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-aav__u_7-0001.jpg" xml:id="lub-media-2320" source="alpa-vaduz-u7-1r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0002.jpg" xml:id="lub-media-2321" source="alpa-vaduz-u7-1v-2r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0003.jpg" xml:id="lub-media-2322" source="alpa-vaduz-u7-2v-3r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0004.jpg" xml:id="lub-media-2323" source="alpa-vaduz-u7-3v-4r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0005.jpg" xml:id="lub-media-2324" source="alpa-vaduz-u7-4v-5r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0006.jpg" xml:id="lub-media-2325" source="alpa-vaduz-u7-5v-6r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0007.jpg" xml:id="lub-media-2326" source="alpa-vaduz-u7-6v-7r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0008.jpg" xml:id="lub-media-2327" source="alpa-vaduz-u7-7v-8r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0009.jpg" xml:id="lub-media-2328" source="alpa-vaduz-u7-8v-9r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0010.jpg" xml:id="lub-media-2329" source="alpa-vaduz-u7-9v-10r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0011.jpg" xml:id="lub-media-2330" source="alpa-vaduz-u7-10v-11r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0012.jpg" xml:id="lub-media-2331" source="alpa-vaduz-u7-11v-12r.jpg" corresp="B"/>
+    <graphic url="li-aav__u_7-0013.jpg" xml:id="lub-media-2332" source="alpa-vaduz-u7-12v-13r.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

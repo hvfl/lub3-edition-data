@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-748">LI-LA, PfäA 26/05</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 18. September 1591 / Beschreibstoff: Papier. 4 Seiten / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-748">LI-LA, PfäA 26/05</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 18. September 1591 / Beschreibstoff: Papier. 4 Seiten / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_26_05-0001.jpg" xml:id="lub-media-1579" source="pfafa-26-05-s01.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_26_05-0002.jpg" xml:id="lub-media-1580" source="pfafa-26-05-s02.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_26_05-0003.jpg" xml:id="lub-media-1581" source="pfafa-26-05-s03.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_26_05-0004.jpg" xml:id="lub-media-1582" source="pfafa-26-05-s04.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

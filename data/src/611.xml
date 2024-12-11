@@ -14,10 +14,10 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-611">LI-LA, Schä U 79</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt / Unter der Plica Unterschriften von Kaiser Rudolf II. und von Jakob Kurtz von Senftenau, Verwalter der Reichshofkanzlei, auf der Plica mit dem Vermerk "Ad mandatum sacrae caesareae maiestatis proprium" Unterschrift des Sekretärs Johann Engelhofer / Auf der Rückseite Registraturvermerk von Georg Pichl von Pichlberg und Taxvermerk von Werner Braitschwert (Editionsvorlage)</witness>
-          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-129">AT-VLA, Blumenegg Reichsherrschaft 6913</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Beschreibstoff: Papier</witness>
-          <witness xml:id="E">E: Eintrag (Handschrift), Signatur: <ref type="identifier" target="lub-objects-1123">AT-VLA, Kleiners Urkundenbuch I S. 127-130</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier, 4 Seiten</witness>
-          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-23">AT-ÖStA, HHStA, Reichshofrat, Gratialia et Feudalia, Reichslehensakten deutsche Expedition 187 unfol.</ref> (<orgName corresp="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-611">LI-LA, Schä U 79</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt / Unter der Plica Unterschriften von Kaiser Rudolf II. und von Jakob Kurtz von Senftenau, Verwalter der Reichshofkanzlei, auf der Plica mit dem Vermerk "Ad mandatum sacrae caesareae maiestatis proprium" Unterschrift des Sekretärs Johann Engelhofer / Auf der Rückseite Registraturvermerk von Georg Pichl von Pichlberg und Taxvermerk von Werner Braitschwert (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-129">AT-VLA, Blumenegg Reichsherrschaft 6913</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Beschreibstoff: Papier</witness>
+          <witness xml:id="E">E: Eintrag (Handschrift), Signatur: <ref type="identifier" target="lub-objects-1123">AT-VLA, Kleiners Urkundenbuch I S. 127-130</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="K">K: Entwurf, Signatur: <ref type="identifier" target="lub-objects-23">AT-ÖStA, HHStA, Reichshofrat, Gratialia et Feudalia, Reichslehensakten deutsche Expedition 187 unfol.</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 17. Juni 1587 / Beschreibstoff: Papier</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Edition: Schädler, Regesten, S. 120-122 \(online auf <ref target="https://www.e-archiv.li/D48470">e-archiv.li</ref>\)</bibl>
@@ -52,6 +52,23 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_79-0001.jpg" xml:id="lub-media-499" source="schae-u-079.jpg" corresp="A"/>
+    <graphic url="li-la,_schä_u_79-0002.jpg" xml:id="lub-media-696" source="schae-u-079-c.jpg" corresp="A"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6913-0001.jpg" xml:id="lub-media-752" source="1587-06-17-vla-blumenegg-reichsherrschaft-6913-01.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6913-0002.jpg" xml:id="lub-media-753" source="1587-06-17-vla-blumenegg-reichsherrschaft-6913-02.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6913-0003.jpg" xml:id="lub-media-754" source="1587-06-17-vla-blumenegg-reichsherrschaft-6913-03.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6913-0004.jpg" xml:id="lub-media-755" source="1587-06-17-vla-blumenegg-reichsherrschaft-6913-04.jpg" corresp="B"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_6913-0005.jpg" xml:id="lub-media-756" source="1587-06-17-vla-blumenegg-reichsherrschaft-6913-05.jpg" corresp="B"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_i_s__127-130-0001.jpg" xml:id="lub-media-2440" source="vla-kleiners-urkundenbuch-band-i-arnegger00003-1587-06-17-blutbann.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_i_s__127-130-0002.jpg" xml:id="lub-media-2441" source="vla-kleiners-urkundenbuch-band-i-arnegger00004.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_i_s__127-130-0003.jpg" xml:id="lub-media-2442" source="vla-kleiners-urkundenbuch-band-i-arnegger00005.jpg" corresp="E"/>
+    <graphic url="at-vla__kleiners_urkundenbuch_i_s__127-130-0004.jpg" xml:id="lub-media-2443" source="vla-kleiners-urkundenbuch-band-i-arnegger00006.jpg" corresp="E"/>
+    <graphic url="hhsta,_rhr,_rla_dt__exo__187,_unfol_-0001.jpg" xml:id="lub-media-58" source="1587-06-17-hhsta-rhr-rla-dt-exp-187-1r-sulz.jpg" corresp="K"/>
+    <graphic url="hhsta,_rhr,_rla_dt__exo__187,_unfol_-0002.jpg" xml:id="lub-media-59" source="1587-06-17-hhsta-rhr-rla-dt-exp-187-2r.jpg" corresp="K"/>
+    <graphic url="hhsta,_rhr,_rla_dt__exo__187,_unfol_-0003.jpg" xml:id="lub-media-60" source="1587-06-17-hhsta-rhr-rla-dt-exp-187-2v.jpg" corresp="K"/>
+    <graphic url="hhsta,_rhr,_rla_dt__exo__187,_unfol_-0004.jpg" xml:id="lub-media-61" source="1587-06-17-hhsta-rhr-rla-dt-exp-187-1v.jpg" corresp="K"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

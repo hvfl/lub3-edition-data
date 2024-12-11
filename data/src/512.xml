@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-512">AT-TLA, U II 3409</ref> (<orgName corresp="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. Dezember 1538 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-512">AT-TLA, U II 3409</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. Dezember 1538 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -39,6 +39,11 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_schatzarchiv_urkunde_ii_3409-0001.jpg" xml:id="lub-media-569" source="tla-urkundenreihe-ii-3409-01.jpg" corresp="A"/>
+    <graphic url="at-tla_schatzarchiv_urkunde_ii_3409-0002.jpg" xml:id="lub-media-570" source="tla-urkundenreihe-ii-3409-02.jpg" corresp="A"/>
+    <graphic url="at-tla_schatzarchiv_urkunde_ii_3409-0003.jpg" xml:id="lub-media-571" source="tla-urkundenreihe-ii-3409-03.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

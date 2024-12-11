@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-147">AT-VLA, PfA Schlins Urk. 2994</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 21. September 1581 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-147">AT-VLA, PfA Schlins U 2994</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 21. September 1581 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -46,6 +46,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="schlins_pfarrarchiv_2994-0001.jpg" xml:id="lub-media-230" source="k-mom-bilddateien-vlajpgweb-vla-15810921-02994-r.jpg" corresp="A"/>
+    <graphic url="schlins_pfarrarchiv_2994-0002.jpg" xml:id="lub-media-231" source="k-mom-bilddateien-vlajpgweb-vla-15810921-02994-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

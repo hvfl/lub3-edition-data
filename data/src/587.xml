@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-587">LI-LA, RA 73/22</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 19. Februar 1591 / Beschreibstoff: Papier, 6 Seiten / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-587">LI-LA, RA 73/22</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 19. Februar 1591 / Beschreibstoff: Papier, 6 Seiten / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -56,6 +56,14 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_22-0001.jpg" xml:id="lub-media-1657" source="ra-73-22-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_22-0002.jpg" xml:id="lub-media-1658" source="ra-73-22-s02.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_22-0003.jpg" xml:id="lub-media-1659" source="ra-73-22-s03.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_22-0004.jpg" xml:id="lub-media-1660" source="ra-73-22-s04.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_22-0005.jpg" xml:id="lub-media-1661" source="ra-73-22-s05.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_22-0006.jpg" xml:id="lub-media-1662" source="ra-73-22-s06.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

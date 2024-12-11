@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-476">LI-GAP, U 6</ref> (<orgName corresp="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 7. Januar 1605 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-476">LI-GAP, U 6</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 7. Januar 1605 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
           <witness xml:id="B1">B1: Kopie, Signatur: (<orgName corresp="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>), U 16 / Entstehungszeit: 28. Juli 1763 / Beschreibstoff: Papier</witness>
           <witness xml:id="B2">B2: Kopie, Signatur: (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>), RA 29/01/01 / Beschreibstoff: Papier</witness>
         </listWit>
@@ -46,6 +46,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gap__u_6-0003.jpg" xml:id="lub-media-2195" source="gap-u-006-r.jpg" corresp="A"/>
+    <graphic url="li-gap__u_6-0003.jpg" xml:id="lub-media-2196" source="gap-u-006-v.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

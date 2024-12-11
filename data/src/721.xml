@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-721">
   <teiHeader>
     <fileDesc>
@@ -13,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="V">V: Verwaltungsschriftgut,  Signatur: <ref type="identifier" target="lub-objects-721">LI-LA, U 51</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1538 / Beschreibstoff: Papier / Heft, 33 Seiten, gebunden</witness>
+          <witness xml:id="V">V: Verwaltungsschriftgut,  Signatur: <ref type="identifier" target="lub-objects-721">LI-LA, U 51</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1538 / Beschreibstoff: Papier / Heft, 33 Seiten, gebunden</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -38,6 +39,41 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_51-0001.jpg" xml:id="lub-media-1197" source="u-051-001.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0002.jpg" xml:id="lub-media-1198" source="u-051-002.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0003.jpg" xml:id="lub-media-1199" source="u-051-003.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0004.jpg" xml:id="lub-media-1200" source="u-051-004.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0005.jpg" xml:id="lub-media-1201" source="u-051-005.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0006.jpg" xml:id="lub-media-1202" source="u-051-006.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0007.jpg" xml:id="lub-media-1203" source="u-051-007.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0008.jpg" xml:id="lub-media-1204" source="u-051-008.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0009.jpg" xml:id="lub-media-1205" source="u-051-009.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0010.jpg" xml:id="lub-media-1206" source="u-051-010.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0011.jpg" xml:id="lub-media-1207" source="u-051-011.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0012.jpg" xml:id="lub-media-1208" source="u-051-012.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0013.jpg" xml:id="lub-media-1209" source="u-051-013.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0014.jpg" xml:id="lub-media-1210" source="u-051-014.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0015.jpg" xml:id="lub-media-1211" source="u-051-015.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0016.jpg" xml:id="lub-media-1212" source="u-051-016.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0017.jpg" xml:id="lub-media-1213" source="u-051-017.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0018.jpg" xml:id="lub-media-1214" source="u-051-018.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0019.jpg" xml:id="lub-media-1215" source="u-051-019.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0020.jpg" xml:id="lub-media-1216" source="u-051-020.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0021.jpg" xml:id="lub-media-1217" source="u-051-021.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0022.jpg" xml:id="lub-media-1218" source="u-051-022.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0023.jpg" xml:id="lub-media-1219" source="u-051-023.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0024.jpg" xml:id="lub-media-1220" source="u-051-024.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0025.jpg" xml:id="lub-media-1221" source="u-051-025.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0026.jpg" xml:id="lub-media-1222" source="u-051-026.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0027.jpg" xml:id="lub-media-1223" source="u-051-027.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0028.jpg" xml:id="lub-media-1224" source="u-051-028.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0029.jpg" xml:id="lub-media-1225" source="u-051-029.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0030.jpg" xml:id="lub-media-1226" source="u-051-030.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0031.jpg" xml:id="lub-media-1227" source="u-051-031.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0032.jpg" xml:id="lub-media-1228" source="u-051-032.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0033.jpg" xml:id="lub-media-1229" source="u-051-033.jpg" corresp="V"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">
@@ -47,8 +83,7 @@
 </p>
         <p><pb facs="lub-media-1198" n="2"/><lb n="4"/>Herschafft <placeName ref="lub-places-7">Vaduz</placeName>. 
 </p>
-        <p><lb n="5"/>Item von der steur in der herschafft <placeName ref="lub-places-7">Vaduz</placeName> 
-<lb n="6"/>gevallen auf <date>Martini</date> lxxxxvii lb.d. 
+        <p><lb n="5"/>Item von der steur in der herschafft <placeName ref="lub-places-7">Vaduz</placeName><lb n="6"/>gevallen auf <date>Martini</date> lxxxxvii lb.d. 
 <lb n="7"/>Thut zu guldin	 i c. x. guldin. li kr. ii d. 
 <lb n="8"/>Darin hab ich von dem  
 <lb n="9"/>waibl den <date>xv thag 
@@ -114,8 +149,7 @@
         <p><pb facs="lub-media-1201" n="5"/><lb n="56"/>Item <persName ref="lub-actors-1560">Hans Erharts</persName> seligen erben  
 <lb n="57"/>zeinßen ab der wyß <placeName ref="lub-places-168">Selvaplon</placeName> x ß.d. 
 </p>
-        <p><lb n="58"/>Item <persName ref="lub-actors-1561">Hans Ruesch genant Gsellen</persName>  
-<lb n="59"/>seligen erben zeinßen laut ains  
+        <p><lb n="58"/>Item <persName ref="lub-actors-1561">Hans Ruesch genant Gsellen</persName><lb n="59"/>seligen erben zeinßen laut ains  
 <lb n="60"/>zeinsbrieffs i lb.d. 
 <lb n="61"/>Summa i lb. x ß.d. 
 </p>
@@ -136,8 +170,11 @@
 </p>
         <p><lb n="72"/>Summa vii lib. xv ß.d.  
 </p>
-        <p><pb facs="lub-media-1203" n="7"/><lb n="73"/><placeName ref="lub-places-41">Trissnerberg</placeName> 
-</p>
+        <p>
+          <pb facs="lub-media-1203" n="7"/>
+          <lb n="73"/>
+          <placeName ref="lub-places-41">Trissnerberg</placeName>
+        </p>
         <p><lb n="74"/>Item <persName ref="lub-actors-1318">Peter</persName> und <persName ref="lub-actors-1564">Adam</persName> die Lamparten  
 <lb n="75"/>zeinßen iii ß.d. 
 </p>
@@ -286,8 +323,11 @@
 </p>
         <p><lb n="168"/>Summa i lib. xi ß.d. 
 </p>
-        <p><pb facs="lub-media-1210" n="14"/><lb n="169"/><placeName ref="lub-places-124">Blanckhen</placeName>  
-</p>
+        <p>
+          <pb facs="lub-media-1210" n="14"/>
+          <lb n="169"/>
+          <placeName ref="lub-places-124">Blanckhen</placeName>
+        </p>
         <p><lb n="170"/>Item <persName ref="lub-actors-1589">Stoffel Gantner</persName> zeinst i lib.d. 
 </p>
         <p><lb n="171"/>Item <persName ref="lub-actors-1590">Hans Henni</persName> und <persName ref="lub-actors-1588">Peter Gantner</persName>  
@@ -329,8 +369,7 @@
 <lb n="200"/>Detto <persName ref="lub-actors-1594">Barbara Jochimine</persName>  
 <lb n="201"/>i fuder schmalz. 
 </p>
-        <p><lb n="202"/>Item ain jeder miller zu <placeName ref="lub-places-71">Balthers</placeName>  
-<lb n="203"/>zeinst an schmalz ii fuder. 
+        <p><lb n="202"/>Item ain jeder miller zu <placeName ref="lub-places-71">Balthers</placeName><lb n="203"/>zeinst an schmalz ii fuder. 
 <lb n="204"/>Detto <persName ref="lub-actors-1595">Cristly</persName> von <placeName ref="lub-places-71">Baltterß</placeName>  
 <lb n="205"/>ii fuder schmalz. 
 </p>
@@ -480,8 +519,7 @@
 </p>
         <p><lb n="308"/>Item <persName ref="lub-actors-1582">Roni Schmid</persName> zeinst an waissen x fuder. 
 </p>
-        <p><lb n="309"/>Gytt <persName ref="lub-actors-1614">Joss Abrecht</persName>  
-<lb n="310"/>Item <del>Thoma Miller</del> Gstach zeinst 
+        <p><lb n="309"/>Gytt <persName ref="lub-actors-1614">Joss Abrecht</persName><lb n="310"/>Item <del>Thoma Miller</del> Gstach zeinst 
 <lb n="311"/>vom ackher im klainen <placeName ref="lub-places-626">Räberlin</placeName>  
 <lb n="312"/>an khorn iiii fuder. 
 </p>
@@ -567,8 +605,7 @@
         <p><lb n="373"/>Daran hab ich durch  
 <lb n="374"/>handen des schreibers  
 <lb n="375"/>empfangen xx guldin. 
-<lb n="376"/>Me <persName ref="lub-actors-1559">Jerg Beringern</persName>  
-<lb n="377"/>geben x guldin. 
+<lb n="376"/>Me <persName ref="lub-actors-1559">Jerg Beringern</persName><lb n="377"/>geben x guldin. 
 <lb n="378"/>Me maister <persName ref="lub-actors-1618">Hanns   
 <lb n="379"/>Hubn</persName> dem schlosser  
 <lb n="380"/>zu <placeName ref="lub-places-10">Veldkirch</placeName> x guldin. 
@@ -580,8 +617,11 @@
         <p><lb n="385"/>Von disser steur inzuziechen gehärt  
 <lb n="386"/>dem waybel daselbst zu lon v lib.d. 
 </p>
-        <p><pb facs="lub-media-1223" n="27"/><lb n="387"/><placeName ref="lub-places-30">Mauren</placeName>  
-</p>
+        <p>
+          <pb facs="lub-media-1223" n="27"/>
+          <lb n="387"/>
+          <placeName ref="lub-places-30">Mauren</placeName>
+        </p>
         <p><lb n="388"/>Item <persName ref="lub-actors-1233">Lucas Beder</persName> zeinst iiii ß.d. 
 </p>
         <p><lb n="389"/>Mer zeinst <persName ref="lub-actors-1233">Lucas Beder</persName> i lib.d. 
@@ -615,8 +655,7 @@
 </p>
         <p><lb n="408"/>Mer zeinst <persName ref="lub-actors-944">Ulrich Schechin</persName> viiii ß.d. 
 </p>
-        <p><lb n="409"/>Weiter zeinst <persName ref="lub-actors-944">Ulrich Schechlin</persName>  
-<lb n="410"/>laut ains zeinsbrieffs i lib. iiii ß.d. 
+        <p><lb n="409"/>Weiter zeinst <persName ref="lub-actors-944">Ulrich Schechlin</persName><lb n="410"/>laut ains zeinsbrieffs i lib. iiii ß.d. 
 </p>
         <p><lb n="411"/>Item <persName ref="lub-actors-1621">Caspar Bläßi</persName> zeinst hueb
 <lb break="no" n="412"/>steur v ß. viiii d.
@@ -682,8 +721,11 @@
 <lb n="452"/>ii fuder 
 <lb n="453"/>An waissen vi scheffl ii fuder</del> 
 </p>
-        <p><pb facs="lub-media-1227" n="31"/><lb n="454"/><placeName ref="lub-places-35">Eschen</placeName>  
-</p>
+        <p>
+          <pb facs="lub-media-1227" n="31"/>
+          <lb n="454"/>
+          <placeName ref="lub-places-35">Eschen</placeName>
+        </p>
         <p><lb n="455"/>Item ain pharherr zu <placeName ref="lub-places-35">Eschen</placeName> zeinst  
 <lb n="456"/>vom kirchensaz daselbst i lib.d. 
 </p>

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-509">AT-TLA, U I 1484</ref> (<orgName corresp="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. November 1518 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-509">AT-TLA, U I 1484</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. November 1518 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -49,6 +49,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_schatzarchiv_urkunde_i_1484-0001.jpg" xml:id="lub-media-512" source="tla-urkundenreihe-i-1484-01.jpg" corresp="A"/>
+    <graphic url="at-tla_schatzarchiv_urkunde_i_1484-0002.jpg" xml:id="lub-media-513" source="tla-urkundenreihe-i-1484-02.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

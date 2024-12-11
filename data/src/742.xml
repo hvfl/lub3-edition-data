@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-742">LI-LA, PfäfA 22/05</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. August 1579 / Beschreibstoff: Papier, 11 Seiten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-742">LI-LA, PfäfA 22/05</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 17. August 1579 / Beschreibstoff: Papier, 11 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -37,6 +37,19 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_22_05-0001.jpg" xml:id="lub-media-1555" source="pfafa-22-05-s01.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0002.jpg" xml:id="lub-media-1556" source="pfafa-22-05-s02.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0003.jpg" xml:id="lub-media-1557" source="pfafa-22-05-s03.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0004.jpg" xml:id="lub-media-1558" source="pfafa-22-05-s04.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0005.jpg" xml:id="lub-media-1559" source="pfafa-22-05-s05.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0006.jpg" xml:id="lub-media-1560" source="pfafa-22-05-s06.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0007.jpg" xml:id="lub-media-1561" source="pfafa-22-05-s07.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0008.jpg" xml:id="lub-media-1562" source="pfafa-22-05-s08.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0009.jpg" xml:id="lub-media-1563" source="pfafa-22-05-s09.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0010.jpg" xml:id="lub-media-1564" source="pfafa-22-05-s10.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_22_05-0011.jpg" xml:id="lub-media-1565" source="pfafa-22-05-s11.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

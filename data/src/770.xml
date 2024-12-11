@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-770">
   <teiHeader>
     <fileDesc>
@@ -13,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-770">LI-LA, RA 06/08/2/03</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 24. Oktober 1566 / Beschreibstoff: Papier, 2 Seiten / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-770">LI-LA, RA 06/08/2/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 24. Oktober 1566 / Beschreibstoff: Papier, 2 Seiten / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -37,6 +38,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_06_08_2_03-0001.jpg" xml:id="lub-media-1812" source="ra-06-08-2-03-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_06_08_2_03-0002.jpg" xml:id="lub-media-1813" source="ra-06-08-2-03-s02.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

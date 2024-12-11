@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-954">
   <teiHeader>
     <fileDesc>
@@ -12,11 +13,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <listBibl>
-          <bibl/>
-        </listBibl>
         <listWit>
-          <witness/>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-954">LI-LA, RA 73/17</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 25. Oktober 1572 / Beschreibstoff: Papier, 3 Seiten / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -46,6 +44,11 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_17-0001.jpg" xml:id="lub-media-1617" source="ra-73-17-s01.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_17-0002.jpg" xml:id="lub-media-1618" source="ra-73-17-s02.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_17-0003.jpg" xml:id="lub-media-1619" source="ra-73-17-s03.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">
@@ -113,8 +116,7 @@
       <div type="back">
         <p><pb facs="lub-media-1619" n="1"/><lb n="1"/>Dem fromen ehrnvesten unnd wysen  
 <lb n="2"/><persName ref="lub-actors-24">Juvenalis Kreder</persName>, diser zytt landt
-<lb break="no" n="3"/>vogt beider herrschafften <placeName ref="lub-places-7">Vadutz</placeName> 
-<lb n="4"/>unnd <placeName ref="lub-places-117">Schällenbärg</placeName>, unnserem  
+<lb break="no" n="3"/>vogt beider herrschafften <placeName ref="lub-places-7">Vadutz</placeName><lb n="4"/>unnd <placeName ref="lub-places-117">Schällenbärg</placeName>, unnserem  
 <lb n="5"/>sonders lieben herrn unnd gutten  
 <lb n="6"/>fründ. 
 </p>

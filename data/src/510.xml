@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-510">AT-TLA, U I 8336</ref> (<orgName corresp="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Mai 1523 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-510">AT-TLA, U I 8336</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Mai 1523 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -41,6 +41,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_schatzarchiv_urkunde_i_8336-0001.jpg" xml:id="lub-media-562" source="tla-urkundenreihe-i-8336-01.jpg" corresp="A"/>
+    <graphic url="at-tla_schatzarchiv_urkunde_i_8336-0002.jpg" xml:id="lub-media-563" source="tla-urkundenreihe-i-8336-02.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

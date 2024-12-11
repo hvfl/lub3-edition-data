@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-467">LI-GAE, AHV 03/17</ref> (<orgName corresp="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen (Editionsvorlage)</witness>
-          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-780">LI-GAR, U 20</ref> (<orgName corresp="li-gar" ref="lub-objects-778">Gemeindearchiv Ruggell</orgName>) / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. gut erhalten, 2. beschädigt</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-467">LI-GAE, AHV 03/17</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-780">LI-GAR, U 20</ref> (<orgName key="li-gar" ref="lub-objects-778">Gemeindearchiv Ruggell</orgName>) / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. gut erhalten, 2. beschädigt</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -49,6 +49,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-gae_ahv_03_17-0002.jpg" xml:id="lub-media-2337" source="gae-u-ahv-03-17-r.jpg" corresp="A1"/>
+    <graphic url="li-gae_ahv_03_17-0002.jpg" xml:id="lub-media-2338" source="gae-u-ahv-03-17-v.jpg" corresp="A1"/>
+    <graphic url="li-gar,_u_20-0001.jpg" xml:id="lub-media-573" source="gar-u-020-r-1520-05-19.jpg" corresp="A2"/>
+    <graphic url="li-gar,_u_20-0002.jpg" xml:id="lub-media-1499" source="1520-05-19-gar-u-020-v.jpg" corresp="A2"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

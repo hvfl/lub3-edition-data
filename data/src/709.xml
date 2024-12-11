@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-709">LI-LA, U 55</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. September 1565 / Beschreibstoff: Pergament / Siegel: 1 Siegel, abgefallen</witness>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-924">LI-LA, RA 12/3/1/06</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. September 1565 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-709">LI-LA, U 55</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. September 1565 / Beschreibstoff: Pergament / Siegel: 1 Siegel, abgefallen</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-924">LI-LA, RA 12/3/1/06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. September 1565 / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,6 +40,14 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_55-0001.jpg" xml:id="lub-media-1493" source="u-55-r-600ppi.jpg" corresp="A"/>
+    <graphic url="li-la,_u_55-0002.jpg" xml:id="lub-media-1494" source="u-55-v-600ppi.jpg" corresp="A"/>
+    <graphic url="li-la__ra_12_3_1_06-0001.jpg" xml:id="lub-media-1918" source="ra-12-3-1-06-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_06-0002.jpg" xml:id="lub-media-1919" source="ra-12-3-1-06-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_06-0003.jpg" xml:id="lub-media-1920" source="ra-12-3-1-06-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_06-0004.jpg" xml:id="lub-media-1921" source="ra-12-3-1-06-s04.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

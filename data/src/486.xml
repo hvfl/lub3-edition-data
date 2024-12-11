@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-486">AT-TLA, U I 4576</ref> (<orgName corresp="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Juli 1525 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-486">AT-TLA, U I 4576</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Juli 1525 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -56,6 +56,10 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_schatzarchiv_urkunde_i_4576-0001.jpg" xml:id="lub-media-558" source="tla-urkundenreihe-i-4576-01.jpg" corresp="A"/>
+    <graphic url="at-tla_schatzarchiv_urkunde_i_4576-0002.jpg" xml:id="lub-media-559" source="tla-urkundenreihe-i-4576-02.jpg" corresp="A"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

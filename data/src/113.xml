@@ -14,11 +14,11 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-113">AT-VLA, PfA Rankweil Urk. 203</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 25. April 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
-          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-15">LI-LA, Schä U 31</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
-          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: <ref type="identifier" target="lub-objects-19">AT-VLA, Vogteiamt Feldkirch, Urk. 3345</ref> (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>)</witness>
-          <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur:  <ref type="identifier" target="lub-objects-1005">AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v</ref> (<orgName corresp="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>)</witness>
-          <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: <ref type="identifier" target="lub-objects-1117">AT-HAL, H 2637 unfol.</ref> (<orgName corresp="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>)</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-113">AT-VLA, PfA Rankweil U 203</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 25. April 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-15">LI-LA, Schä U 31</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
+          <witness xml:id="B1">B1: Kopie (notariell beglaubigte Abschrift), Signatur: <ref type="identifier" target="lub-objects-19">AT-VLA, Vogteiamt Feldkirch, U 3345</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>)</witness>
+          <witness xml:id="B2">B2: Kopie (Abschrift von A1), Signatur:  <ref type="identifier" target="lub-objects-1005">AT-HHStA, Staatenabteilung Schweiz Helvetica 3 fol. 234r-247v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>)</witness>
+          <witness xml:id="C">C: Kopie (Abschrift von B1), Signatur: <ref type="identifier" target="lub-objects-1117">AT-HAL, H 2637 unfol.</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>)</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>
@@ -60,6 +60,26 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="at-vla_rankweil_pfarrarchiv_203-0001.jpg" xml:id="lub-media-108" source="k-mom-bilddateien-vlajpgweb-vla-15130425-00203-r.jpg" corresp="A1"/>
+    <graphic url="at-vla_rankweil_pfarrarchiv_203-0002.jpg" xml:id="lub-media-109" source="k-mom-bilddateien-vlajpgweb-vla-15130425-00203-v.jpg" corresp="A1"/>
+    <graphic url="li-la,_schä_u_31-0001.jpg" xml:id="lub-media-475" source="schae-u-031.jpg" corresp="A2"/>
+    <graphic url="at-vla_feldkirch_vogteiamt_3345-0001.jpg" xml:id="lub-media-2382" source="1513-04-25-vla-feldkirch-vogteiamt-3345-r.jpg" corresp="B1"/>
+    <graphic url="at-vla_feldkirch_vogteiamt_3345-0002.jpg" xml:id="lub-media-2383" source="1513-04-25-vla-feldkirch-vogteiamt-3345-v.jpg" corresp="B1"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_3_fol__243r-245r-0001.jpg" xml:id="lub-media-720" source="img-3468-1513-04-25-at-hhsta-stabt-schweiz-3-243r.jpg" corresp="B2"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_3_fol__243r-245r-0002.jpg" xml:id="lub-media-721" source="img-3469-1513-04-25-at-hhsta-stabt-schweiz-3-243v.jpg" corresp="B2"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_3_fol__243r-245r-0003.jpg" xml:id="lub-media-722" source="img-3470-1513-04-25-at-hhsta-stabt-schweiz-3-244r.jpg" corresp="B2"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_3_fol__243r-245r-0004.jpg" xml:id="lub-media-723" source="img-3471-1513-04-25-at-hhsta-stabt-schweiz-3-244v.jpg" corresp="B2"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_3_fol__243r-245r-0005.jpg" xml:id="lub-media-724" source="img-3472-1513-04-25-at-hhsta-stabt-schweiz-3-245r.jpg" corresp="B2"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_3_fol__243r-247v-0006.jpg" xml:id="lub-media-725" source="img-3475-1513-04-25-at-hhsta-stabt-schweiz-3-247v.jpg" corresp="B2"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0001.jpg" xml:id="lub-media-2384" source="1513-04-25-hal-h-2637-1-freizuegigkeit.jpg" corresp="C"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0002.jpg" xml:id="lub-media-2385" source="1513-04-25-hal-h-2637-2.jpg" corresp="C"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0003.jpg" xml:id="lub-media-2386" source="1513-04-25-hal-h-2637-3.jpg" corresp="C"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0004.jpg" xml:id="lub-media-2387" source="1513-04-25-hal-h-2637-4.jpg" corresp="C"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0005.jpg" xml:id="lub-media-2388" source="1513-04-25-hal-h-2637-5.jpg" corresp="C"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0006.jpg" xml:id="lub-media-2389" source="1513-04-25-hal-h-2637-6.jpg" corresp="C"/>
+    <graphic url="at-hal_h_2637_unfol__1513_april_25-0007.jpg" xml:id="lub-media-2390" source="1513-04-25-hal-h-2637-7.jpg" corresp="C"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">

@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-736">LI-LA, PfäfA 21/05</ref> (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1570 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-736">LI-LA, PfäfA 21/05</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1570 / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -37,6 +37,12 @@
       </correspDesc>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_21_05-0001.jpg" xml:id="lub-media-1538" source="pfafa-21-05-s01.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_05-0002.jpg" xml:id="lub-media-1539" source="pfafa-21-05-s02.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_05-0003.jpg" xml:id="lub-media-1540" source="pfafa-21-05-s03.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_05-0004.jpg" xml:id="lub-media-1541" source="pfafa-21-05-s04.jpg" corresp="B"/>
+  </facsimile>
   <text>
     <body>
       <div type="main">
