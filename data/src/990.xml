@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-990">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Acker in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-990">LI-PfABe, U 27</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 11. November 1568 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Kind von Ruggell und seine Frau Anna Graber verkaufen mit Hand von Ammann Peter Brendli einen Zins von Schilling ab ihrem Acker in der Öhriau in Ruggell an Lienhart Marxer von Bendern, Kirchenmeier der Kirche Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-824">Kind, Hans</persName>
+          <date when="1568-11-11">11. Nov 1568</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-825">Graber, Anna</persName>
+          <date when="1568-11-11">11. Nov 1568</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-65">Brendle, Peter</persName>
+          <date when="1568-11-11">11. Nov 1568</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-826">Marxer, Lienhart</persName>
+          <date when="1568-11-11">11. Nov 1568</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_27-0001.jpg" xml:id="lub-media-2471" source="pfabe-u-027-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_27-0002.jpg" xml:id="lub-media-2472" source="pfabe-u-027-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2471" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-824">Hanns Kind</persName> von <placeName ref="lub-places-2">Raggel</placeName> unnd ich <persName ref="lub-actors-825">Anna Graberin</persName> sein eeliche hausfrow, bekhennen offennlich unnd thuen kundt allermenigclich mit dem brief, das wir  
+<lb n="2"/>mit veraintem guettem willen, wolbedachtem synn unnd mueth, zu fürderung unnsers nuz, besonnder mit hannd des ersamen weysen <persName ref="lub-actors-65">Petter Brend
+<lb break="no" n="3"/>lis</persName>, der zeit aman der herrschafft <placeName ref="lub-places-11">Schellennperg</placeName> am <placeName ref="lub-places-16">Eschnerperg</placeName>, aufrecht unnd redlich verkhaufft unnd zue khauffen gegeben haben, unnd geben auch also 
+<lb n="4"/>hiemit wissenndtlich in crafft dis briefs dem erbern <persName ref="lub-actors-826">Liennhardten Marxer</persName> von <placeName ref="lub-places-36">Benndern</placeName>, als verordneter kirchenmayr, <placeName ref="lub-places-312">Unnser Liebenn  
+<lb n="5"/>Frawen kirchenn</placeName> zu <placeName ref="lub-places-36">Benndern</placeName>, unnd allen derselben nachkhomen, nemlich fünf schilling pfening guetter costennzer münz veldkhircher werung, rechts,  
+<lb n="6"/>eewigs, jerlichs zins unnd pfening gelz, von ausser unnd ab unnserm aignen ackher zu <placeName ref="lub-places-2">Raggel</placeName> in der <placeName ref="lub-places-341">Öri aw</placeName> gelegen, stost aufwert an <persName ref="lub-actors-1667">Jörgen Öri</persName>, aus
+<lb break="no" n="7"/>wert gegem <placeName ref="lub-places-103">Rein</placeName> an der <placeName ref="lub-places-341">Öri aw</placeName>, zur unndern seitten an <persName ref="lub-actors-1668">Uli Wolwennden</persName>, unnd inwert an <persName ref="lub-actors-1669">Jacob Spalten</persName> etc. Alles ab grund, grat, veld, wasen, wun, waid, 
+<lb n="8"/>stockh, stain, gesteudt, gereut, genngen, stegen unnd wegen, unnd gemainlich mit allen anndern seinen rechten unnd zueghörden, benembten unnd unbe
+<lb break="no" n="9"/>nembten, auch füer ledig unnd gegen allermenigclich unverkhümbert. Unnd also ist der eewig redlich kauf erganngen unnd beschechen benenntlich 
+<lb n="10"/>umb fünf pfundt pfening guetter vorgeschribner münz unnd werung, dero wir aller gar von ime, kirchenmayr, erberlich ausgericht unnd bezalt  
+<lb n="11"/>worden sind, nach unserm guetten bemüegen. Darumben sollen unnd wöllen wir, auch all unser erben unnd nachkhomen, oder wer das obgenennt  
+<lb n="12"/>unnderpfanndt nach unns ymmer innenhat, nuzet unnd prauchet, gedachten zins, die fünf schilling pfening gelz, vorgenenntem kirchenmayr und  
+<lb n="13"/>allen seinen nachkhomen, nunhinennthin ymmer eewigclich unnd ye jerlich, alle jar auf sanndt Marthins tag, achttag vor oder nach ungevarlich, guetlich  
+<lb n="14"/>ausrichten, zinsen unnd zu iren sichern hannden unnd gewalt, füer alles verhefften, verpietten unnd enndtweren, gennzlichen one allen iren costen  
+<lb n="15"/>unnd schaden, geben unnd anndtwurtten. Wann wir oder weliches jars das aber also nit bescheche, über kurz oder lanng zeit, so ist inen das obgemelt  
+<lb n="16"/>underpfandt in seinen bestimbten marckhen begriffen, gannz zinsfellig worden. Unnd dannenthin mit grund, grat unnd mit allen seinen obgenanten  
+<lb n="17"/>rechten, pesserungen und zuegehörden, zu rechtem eewigem aigen ymmermer haimbgevallen unnd vervallen, on unnser, aller unnser erben unnd  
+<lb n="18"/>nachkhomen und allermenigclichs von unnserntwegen irrung unnd widersprechen. Unnd hierauf dis eewigen, redlichen kaufs umb zinsfelligi,  
+<lb n="19"/>auch fuer all abgenng unnd minderung des obgenannten unnderpfandts, auch hauptguez, zins unnd schadens, unnd aller obgenannten ding, söllen unnd wöllen  
+<lb n="20"/>wir, auch all unnser erben unnd nachkhomen des gemelten kilchenmayrs, aller seiner erben unnd nachkhomenden kirhenmayr, recht, guet unnd ge
+<lb break="no" n="21"/>trew, krefftig geweren, füerstanndt und versprechen gegen allermenigclich sein vor dem richter unnd gericht, darunder obgemelter und
+<lb break="no" n="22"/>erpfanndt gelegen ist, nach recht wa, wie, wenn, oder gegen wem, als offt unnd dickh sy des nach dem rechten ymmer bedürfftig, oder not
+<lb break="no" n="23"/>türfftig werden, alfart in unnserm aignen costen, on iren schaden, bei unnsern waren unnd guetten trewen, on alle widerred, aufzug und 
+<lb n="24"/>geverde. Unnd wiewoll der brief einen eewigen kauf ausweist, nicht dester weniger mügen wir, auch all unnser erben und nach
+<lb break="no" n="25"/>khomen, den gemelten zins, die fünf schilling pfening gelz, von ime, kirchenmayr, unnd allen seinen nachkhomen, woll widerumben 
+<lb n="26"/>kauffen unnd ablösen. Nunhinenndthin wann unnd welichs jars wir wellend, über kurz oder lanng zeit, doch vor zinsfall, und auf sant  
+<lb n="27"/>Marthins tag, achttag vor oder nach, ungevarlich samendthafft mit dem obgeschriebnen hauptguet, den fünf pfundt pfening unnd  
+<lb n="28"/>albegen mit gevallnen ausstenndigen zinsen, auch mit guetter münz unnd weerschafft, daran sy kainen verlurst noch abgang  
+<lb n="29"/>haben, ob sich die yezig münz in der zeit verenndern würde, alles unvärlich. Unnd des zu warem urkhund haben wir <gap/> 
+<lb n="30"/>ime und seinen erben on schaden) offennlich an disen brief gehennckht hat. Der geben ist <origDate>an sandt Marthins tag im fünf  
+<lb n="31"/>zechennhundert acht und sechzigisten jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2472" n="1"/><lb n="1"/>Schuld-verschreibung  
+<lb n="2"/>von <persName ref="lub-actors-824">Hanß Kind</persName> zu <placeName ref="lub-places-2">Roggel</placeName> per 5 lb. dt. 
+<lb n="3"/>gegen <placeName ref="lub-places-312">Unser Lieben Frawen pfarrkürchen</placeName> zu <placeName ref="lub-places-36">Bendern</placeName>  
+<lb n="4"/>underpfandt  
+<lb n="5"/>ein ackher zu <placeName ref="lub-places-2">Roggell</placeName> in der <placeName ref="lub-places-341">Öri aw</placeName> gelegen  
+<lb n="6"/>zünß falt uff Martini 5 schilling dt. anno 1568 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-618">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid zum Unterhalt der Wassergräben auf der Alpgasse in Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-618">LI-LA, Schä U 114</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. Oktober 1602 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Thomas Walser, Ammann der Grafschaft Vaduz, Johann Jakob Strauss, Landschreiber, und Ital Pauli, Müller in Triesen, entscheiden den Streit zwischen Ulrich Beck von Triesenberg, Gerichtsmann, als Vertreter der Gemeinde Triesenberg, und Christian Lampert von Triesenberg um den Unterhalt der Gräben, die das Wasser von der Triesenberger Alpgasse ableiten. Zudem legen sie fest, dass alle das von den Dächern herabrinnende Wasser auf ihre eigenen Grundstücke leiten soll.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-155">Alp</term>
+          <term ref="lub-keywords-288">Wasser</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-122">Strasse</term>
+          <term ref="lub-keywords-421">Naturgefahr</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-486">Strauss, Johann Jakob</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1602-10-11">11. Okt 1602</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_114-0001.jpg" xml:id="lub-media-477" source="schae-u-114.jpg" corresp="A"/>
+    <graphic url="li-la__sch-_u_114-0002.jpg" xml:id="lub-media-1532" source="schae-u-114-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-477" n="1"/><lb n="1"/>Kundt unndt zuwissen gethon seye allermanniglichen hiemitt, alß sich spen unndt 
+<lb n="2"/>mißverstendt erregt unndt zugedragen haben enttzwischen dem ehrsamen unnd beschaidenen <persName ref="lub-actors-354">Ulin Becken</persName> abm <placeName ref="lub-places-41">Thrysener Berg</placeName>, gerichtsman, ahn statt unndt 
+<lb n="3"/>wegen einer gantzen gemain ahm berg ahm einem, so den <persName ref="lub-actors-559">Christian Lamparten</persName> daselbsten anders theils umb unndt von wegen sibenzehen wasser gräben, 
+<lb n="4"/>dardurch das wasser auß der <placeName ref="lub-places-235">Alp Gassen</placeName>, dieselbige in irrem fortgang zuerhalten, solte gefürt werden, welche sibenzehen wasser gräben nachvolgendt personen 
+<lb n="5"/>ahn <unclear>j</unclear>etzo besitzen: den ersten, welcher der negst ahm <placeName ref="lub-places-138">Gulmen</placeName> oben, <persName ref="lub-actors-1159">Michael Eberlin</persName> seligen erben; den andern <persName ref="lub-actors-1160">Andreas Lampart</persName>; den dritten 
+<lb n="6"/><persName ref="lub-actors-603">Hannß Becken</persName> <placeName ref="lub-places-472">Jonabodens</placeName> erben; den vierten zwen brüeder, <persName ref="lub-actors-1161">Hannß</persName> unndt <persName ref="lub-actors-1162">Clauß Stoffel</persName>; den fünfften undt sechsten <persName ref="lub-actors-1163">Steffans Schädlers</persName> erben auß 
+<lb n="7"/><placeName ref="lub-places-473">Ritzlina</placeName>; den sibenden <persName ref="lub-actors-1162">Clauß Stoffel</persName> allein; den achten <persName ref="lub-actors-1159">Michael Eberlins</persName> erben; den neunten <persName ref="lub-actors-1164">Paulli Negelins</persName> seligen erben in <placeName ref="lub-places-474">Laventina</placeName>; 
+<lb n="8"/>den zehenden <persName ref="lub-actors-1166">Martin Beck</persName>, <persName ref="lub-actors-1165">Ulin Becken</persName> sohn auff <placeName ref="lub-places-475">Gränalp</placeName>; den elfften <persName ref="lub-actors-1167">Joß Kauffmans</persName> seligen erben; die fünff nacheinander volgende wasser 
+<lb n="9"/>gräben biß auff den sibenzehenden unndt letzsten, doch disen auß geschlossen, gehören <persName ref="lub-actors-559">Christian Lamparten</persName>, darunder er den ersten, der in ordine der 
+<lb n="10"/>zwelfft, von <persName ref="lub-actors-1168">Hannß Becken</persName> söhnen erkaufft, den andern, sonst der dreyzehendt, hatt er von <persName ref="lub-actors-1169">Thoma Bürtzlin</persName>, seinem schwäher seligen, ererbt, den drit
+<lb break="no" n="11"/>ten, sonst der vierzehendt, von <persName ref="lub-actors-1170">Martin Becken</persName> seligen erkaufft, den vierten, sonst der fünffzehendtist, von <persName ref="lub-actors-373">Hannß Tann<unclear>er</unclear></persName> zum <placeName ref="lub-places-476">Brunnen</placeName> erckaufft,
+<lb n="12"/>den fünfften, sonst der sechzehendist, widerumb von <persName ref="lub-actors-1169">Thoman Bürtzlin</persName>, seinem schwäher seligen ererbt; der sibenzehendist unndt letzst wasser gra
+<lb break="no" n="13"/>ben gehört <persName ref="lub-actors-1171">Clauß Becken</persName>, <persName ref="lub-actors-1172">Georgen</persName> sohn <placeName ref="lub-places-477">im Boden</placeName>. In dem nuhn sich <persName ref="lub-actors-354">Ulin Beck</persName> in nammen einer gantzen gemein abm <placeName ref="lub-places-41">Thrysener Berg</placeName> gegen
+<lb n="14"/><persName ref="lub-actors-559">Christian Lamparten</persName> wegen seiner fünff gesagten wasser gräben höchlich beschwerth, das dardurch das wasser, wie von alter heer geschehen, 
+<lb n="15"/>nit werde auß unndt eingricht, <persName ref="lub-actors-559">Christian Lampart</persName> aber vermeint, er dasselbig ordenlicher weiß halte und richte, aber diser ierer spän sich nitt 
+<lb n="16"/>haben können undereinander vergleichen, derohalben auch die <orgName ref="lub-actors-687">oberamptleuth</orgName> miessen sollicitieren undt betten, sie ihnen zwen oder drey un
+<lb break="no" n="17"/>partheysche schidtleütt ampts halben <gap/>lten vergunnen, welche sich auff ein bestimbten tag auff den augenschein begebten, daselbß vonn
+<lb n="18"/>beden partheyen clag unndt antwort ahnhörten unndt, wo müglich, beede durch ein spruch endtscheidten, welches als ihnen von der oberkeitt 
+<lb n="19"/>vergundt. Haben sich alß bald undenbeschrybene zusambt <persName ref="lub-actors-486">Johann Jacob Straussen</persName>, domaln gräfflichen <orgName ref="lub-actors-7">sultzischen</orgName> landtschreiber zue <placeName ref="lub-places-7">Vadutz</placeName>, 
+<lb n="20"/>auff gemeltem augenschein begeben, den selben bester massen eingenommen, clag undt andtwort gehört undt volgendts darauff auff beeder partteyen 
+<lb n="21"/>ahngeloben nachvolgender massen gesprochen: das nuhn hinführo obengemelte sibenzehen wasser gräben, wie sie auff einander volgen, 
+<lb n="22"/>alle mitt einander unndt ein jedtweder in sonderheitt auff der geschwornen, so ahm <placeName ref="lub-places-41">Trysenerberg</placeName>, erkantnuß mit guetten, starcken höltzern 
+<lb n="23"/>in undt ausserhalb der <placeName ref="lub-places-235">Alp Gassen</placeName> solle gemacht werden, also undt der gestalt, damit das wasser inderzeitt seinn gueten lauff undt auß
+<lb break="no" n="24"/>gang gewinnen undt haben möge. Ihm fahl undt aber auß disen der sibenzehen wasser gräben besitzern undt inhabern einer oder mehr,
+<lb n="25"/>wer der sey, hinlässig oder saumselig solte gefunden werden, der oder die nach der geschwornen erkandtnuß die gräben nit hatten versorgt, 
+<lb n="26"/>solle der oder dieselbige von ihnen gebürender weiß abgestrafft werden unndt sich diß orts gegen der geschwornen gebott niemandt setzen, 
+<lb n="27"/>sonst in der oberkeitt straff sein gefallen. So dan etwan, daß doch der allmächtig gott gnädig abwendt, ein gewaltige riven oder starcker über
+<lb break="no" n="28"/>fluß kemme, das man die wasser gräben nitt köndte ferchen, sonder die <placeName ref="lub-places-235">Alp Gassen</placeName> hinab fliesse, soll man allßdan den gewalt under
+<lb break="no" n="29"/>halb bey <persName ref="lub-actors-1171">Clauß Becken</persName> graben, do die gassen scheiden, zue halben theilen, damit der gantze gewalt in einer gassen mitt <unclear>g</unclear>rössern schaden
+<lb n="30"/>nitt verbleibe, außtheilen. Als dan eben auch damalen sich wegen des tachtrauffs in der <placeName ref="lub-places-79">Thrysener</placeName> <placeName ref="lub-places-235">Alp Gassen</placeName> ierung erhoben, ist gleichfals gesprochen, 
+<lb n="31"/>ein jedweder sein tachtrauff in sein eygen guet solle führen undt richten, domitt der gemeinen <placeName ref="lub-places-235">Alpgassen</placeName> zum wenigsten schaden werde 
+<lb n="32"/>zuegefüegt, welches doch alle zeitt zu der geschwornen erkantnuß stehen sollt. Dem allem nach zukommen haben beede partheyen, 
+<lb n="33"/><persName ref="lub-actors-354">Ulin Beck</persName> in statt einr gantzen gemein abm berg undt dan <persName ref="lub-actors-559">Christian Lampart</persName> für sich selb, herrn amman <persName ref="lub-actors-229">Thoman Walsern</persName>, welcher den spruch auß
+<lb break="no" n="34"/>gesprochen, angelobt, alles trewlich undt ohngefahrlich. Dabey sonsten gegenwertig gewesen undt den spruch geben obgemelter landtschreyber
+<lb n="35"/><persName ref="lub-actors-486">Johann Jacob Strauß</persName> undt <persName ref="lub-actors-286">Intel Pauli</persName>, miller zue <placeName ref="lub-places-79">Thrysen</placeName>. Dessen zu wahren urkundt beede partheyen in nammen einer gemain von ihme, 
+<lb n="36"/>landtschreybern, under unsers gnädigen herrn<note>Graf <persName ref="lub-actors-13">Karl Ludwig von Sulz</persName></note> insigel brieff undt sigel zuverfertigen begert, welches ihnen hiemitt vergundt worden. Actum <placeName ref="lub-places-1">Vadutz</placeName> 
+<lb n="37"/><origDate>den elfften octobris im jaar nach Christi geburt sechzehenhundert unndt zweytten</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

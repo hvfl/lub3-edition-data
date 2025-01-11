@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-988">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Acker in Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-988">LI-PfABe, U 25</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 11. November 1562 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Dictus Singer von Bendern und seine Schwestern verkaufen mit Hand von Ammann Michael Graf einen Zins von 8 Schilling ab ihrem Acker im Haugen Reutti an Jos Walch von Gamprin, Kirchenpfleger zu Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-816">Singer, Benedikt</persName>
+          <date when="1562-11-11">11. Nov 1562</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1562-11-11">11. Nov 1562</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-818">Walch, Jos</persName>
+          <date when="1562-11-11">11. Nov 1562</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_25-0001.jpg" xml:id="lub-media-2467" source="pfabe-u-025-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_25-0002.jpg" xml:id="lub-media-2468" source="pfabe-u-025-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2467" n="1"/><lb n="1"/>Wir nachbenannte mit namen <persName ref="lub-actors-816">Dictus Singer</persName> von <placeName ref="lub-places-36">Benndern</placeName>, auch Anna, Gretha, Elsa und <persName ref="lub-actors-1663">Barbara</persName>, seine eeleibliche geschwustergith,   
+<lb n="2"/>bekennen offennlich, gemainlich unnd unverschaidennlich, unnd thuen kundt allermenigclich mit dem brief, das wir mit veraintem, guetem  
+<lb n="3"/>willen, wolbedachtem synn unnd mueth, zu fürderung unnsers nuz, besonnders mit hand des ersamen weisen <persName ref="lub-actors-817">Michel Grawen</persName>, der zeit  
+<lb n="4"/>aman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerperg</placeName>, aufrecht unnd redlich verkhaufft unnd zu khauffen gegeben haben, unnd geben auch  
+<lb n="5"/>hiemit wissenndtlich in crafft diß briefs dem erbern <persName ref="lub-actors-818">Joß Walchen</persName> von <placeName ref="lub-places-328">Gampperin</placeName>, als kirchenphleger <placeName ref="lub-places-312">Unnser Liebe Frawen kirchen</placeName>  
+<lb n="6"/>zu <placeName ref="lub-places-36">Benndern</placeName>, unnd allen seinen nachkhommenden phlegern bemelter kirchen, nemlich acht schilling pfening guetter costennzer münz, veld
+<lb break="no" n="7"/>khircher werung, rechts, eewigs, jerlichs zins unnd pfening gelz, von ausser unnd ab unnserm aignen ackher ins <placeName ref="lub-places-339">Haugen Reuttin</placeName> gelegen, 
+<lb n="8"/>stost gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1661">Jörgen Wannger</persName>, unnsern schwager, abwert an <persName ref="lub-actors-1662">Jos Struben</persName>, zum dritten ort an mich, obgemelte mitverkheufferi,  
+<lb n="9"/><persName ref="lub-actors-1663">Barbara Singerin</persName>, unnd zum vierten ordt auch an mich, obgeruerten mitverkheuffer <persName ref="lub-actors-816">Dict Singer</persName> etc. Alles ab grund, gratt, veld, wasen,  
+<lb n="10"/>wun, waid, stockh, stain, gesteud, gereut, genngen, stegen unnd wegen, unnd gemainlich mit allen anndern seinen rechten unnd zuegehörden,  
+<lb n="11"/>benembten unnd unbenembten, auch für ledig unnd gegen allermenigclich unverkhümbert. Unnd also ist der eewig, redlich kauf  
+<lb n="12"/>erganngen unnd beschechen benenntlichen umb acht pfundt pfening guetter vorgeschribner münz unnd werung, dero wir aller gar von  
+<lb n="13"/>ime, kirchenphleger, erberlich ausgericht unnd bezalt worden sind, nach unnserm guetten willen unnd bemuegen. Darumben sollen  
+<lb n="14"/>unnd wöllen wir, auch all unnser erben unnd nachkhomen, oder wer das obgemelt underpfandt nach uns ymer innhat, nuzet unnd  
+<lb n="15"/>prauchet, gedachtem kirchenphleger als keuffer, auch allen seinen nachkhomennden innhabern diß briefs, nunfürtherhin ymer, eewig
+<lb break="no" n="16"/>clich unnd ye jerlich, alle jar auf sanndt Marthins tag, achttag vor oder nach ungevarlich, den bemelten zins die acht schilling pfening gelz 
+<lb n="17"/>guettlich ausrichten, zinsen unnd zu iren sichern hannden unnd gewalt für alles verhefften, verpietten und enndtweren, gennzlichen one  
+<lb n="18"/>allen iren costen unnd schaden, geben unnd anndtwurten. Wann, wie, oder weliches jars das aber also nit bescheche, über kurz oder lang  
+<lb n="19"/>zeit, so ist inen das obgemelt unnderpfandt in seinen bestimbten marckhen begriffen, gannz zinsfellig worden. Unnd dannenthin  
+<lb n="20"/>mit grund, grat unnd mit allen anndern seinen obgenannten rechten, pesserungen und zuegehörden, zu rechtem, eewigen aigen ymer
+<lb break="no" n="21"/>mer haimbgevallen unnd verfallen, on unnser, aller unnser erben unnd nachkhomen und allermenigclichs von unnserntwegen irrung 
+<lb n="22"/>unnd widersprechen. Unnd hierauf diß eewigen, redlichen kaufs umb zinsfellige, auch für all abgenng unnd minderung des  
+<lb n="23"/>obgenannten unnderpfanndts, auch hauptguez, zins unnd schadenns, unnd aller obgenannter ding, söllen unnd wöllen wir, auch alle  
+<lb n="24"/>unnser erben unnd nachkhomen des genannten kirchenphlegers als keuffer, unnd allen seinen nachkhomenden kirchenphlegern, recht,  
+<lb n="25"/>guet und getrew, krefftig geweren, fürstanndt unnd versprecher gegen allermenigclich sein vor dem richter unnd gericht, darunder  
+<lb n="26"/>obgemelt unnderpfanndt gelegen und der kauf beschechen ist, nach recht wa, wie, wenn, oder gegen wem, als offt unnd dickh sy des  
+<lb n="27"/>nach dem rechten ymmer bedürffen, oder nottürfftig werden, alfart in unnserm aignen costen on iren schaden, bei guetten trewen,  
+<lb n="28"/>on alle widerred, aufzug unnd geverde. Unnd wiewoll der brief ainen eewigen kauf ausweist, nicht dester weniger mügen  
+<lb n="29"/>wir, auch all unnser erben unnd nachkhomen, den bemelten zins, die acht schilling pfening gelz, von ime, kirchenphleger, unnd allen  
+<lb n="30"/>seinen nachkhomennden kirchenphlegern, woll widerumben kauffen unnd ablösen. Nunhinenndthin wann und weliches jars wir  
+<lb n="31"/>wellennd, über kurz oder lanng zeit, doch vor zinsfall unnd auf sanndt Marthins tag, achttag vor oder nach ungevarlich, samendt
+<lb break="no" n="32"/>hafft mit dem obgeschribnen hauptguet den acht pfundt pfeningen, unnd albegen mit gevallnen ausstenndigen zinsen, auch mit 
+<lb n="33"/>guetter münz unnd weerschafft, daran sy kainen verlursst noch abganng haben, ob sich die yezig münz in der zeit  verendern  
+<lb n="34"/>würde, alles ungevarlich. Unnd des zu warem urkhundt haben wir, obgemelte verkheuffere, mit vleys unnd ernst  
+<lb n="35"/>erpetten, den obgedachten aman <persName ref="lub-actors-817">Michel Grawen</persName>, das der sein innsigel für unns gemainlich unnd unnser erben (doch ime  
+<lb n="36"/>unnd seinen erben on schaden) offennlich an disen brief gehennckht hat. Der geben ist <origDate>an sanndt Marthins tag im fünf
+<lb break="no" n="37"/>zechennhundert zweyundsechzigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2468" n="1"/><lb n="1"/>Schuld-verschreibung  
+<lb n="2"/>von <persName ref="lub-actors-816">Dicuß Singer</persName> zu <placeName ref="lub-places-36">Benderen</placeName> sambt aderen per 8 lb. dt. 
+<lb n="3"/>Gegen unser lieben pfarrkürchen zu <placeName ref="lub-places-36">Bendern</placeName>  
+<lb n="4"/>underpffandt. 
+<lb n="5"/>Ein ackher, im <placeName ref="lub-places-339">Haugen krütten</placeName> gelegen. 
+<lb n="6"/>Zünß falt uff Martini 8 schill. dt. anno 1562. 
+</p>
+        <p><lb n="7"/><placeName ref="lub-places-312">Unnser Frowen</placeName> zu <placeName ref="lub-places-36">Benndern</placeName> zünsbrief  
+<lb n="8"/>umb viii ß.d. järlichen zins auf <persName ref="lub-actors-816">Dictus Singer</persName>  
+<lb n="9"/>unnd seine mitverwandten lautennd. 
+<lb n="10"/>1502. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -11,18 +11,18 @@
       <publicationStmt>
         <publisher>https://lub.anton.ch</publisher>
         <pubPlace>Schaan, Liechtenstein</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-12-11 11:10:15 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-01-11 14:49:56 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-12-11T11:10:15+01:00">teiHeader was automatically produced from the database 2024-12-11T11:10:15+01:00</change>
+      <change when="2025-01-11T14:49:56+01:00">teiHeader was automatically produced from the database 2025-01-11T14:49:56+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -43,6 +43,25 @@
           <label xml:lang="de" type="sort">ausbuerger</label>
           <note type="description" xml:lang="de">
             <p>Ausburger</p>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-4">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Schnitz</label>
+          <label xml:lang="de" type="sort">schnitz</label>
+          <note type="description" xml:lang="de">
+            <p>Steuer, Abgabe, inbesondere die Steuer, mit der die Landesherren die Reichssteuern auf die Untertanen umlegten.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=schnitz">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://historisches-lexikon.li/Schnitz">HLFL</ref>
+              </bibl>
+            </listBibl>
           </note>
         </item>
         <item xml:id="lub-keywords-7">
@@ -232,6 +251,12 @@
         <item xml:id="lub-keywords-111">
           <label xml:lang="de" type="main">Verpflegung</label>
           <label xml:lang="de" type="sort">verpflegung</label>
+        </item>
+        <item xml:id="lub-keywords-122">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Strasse</label>
+          <label xml:lang="de" type="sort">strasse</label>
+          <objectType xml:lang="en">Event</objectType>
         </item>
         <item xml:id="lub-keywords-127">
           <label xml:lang="de" type="main">Wirtshaus</label>
@@ -592,9 +617,17 @@
           <label xml:lang="de" type="main">Obstgarten</label>
           <label xml:lang="de" type="sort">obstgarten</label>
         </item>
+        <item xml:id="lub-keywords-285">
+          <label xml:lang="de" type="main">Dorfgemeinde</label>
+          <label xml:lang="de" type="sort">dorfgemeinde</label>
+        </item>
         <item xml:id="lub-keywords-286">
           <label xml:lang="de" type="main">Familie</label>
           <label xml:lang="de" type="sort">familie</label>
+        </item>
+        <item xml:id="lub-keywords-288">
+          <label xml:lang="de" type="main">Wasser</label>
+          <label xml:lang="de" type="sort">wasser</label>
         </item>
         <item xml:id="lub-keywords-289">
           <label xml:lang="de" type="main">Stiftung</label>
@@ -662,6 +695,10 @@
         <item xml:id="lub-keywords-314">
           <label xml:lang="de" type="main">Wiese</label>
           <label xml:lang="de" type="sort">wiese</label>
+        </item>
+        <item xml:id="lub-keywords-315">
+          <label xml:lang="de" type="main">Freie</label>
+          <label xml:lang="de" type="sort">freie</label>
         </item>
         <item xml:id="lub-keywords-316">
           <label xml:lang="de" type="main">Besitz</label>
@@ -1408,6 +1445,50 @@
             </listBibl>
           </note>
         </item>
+        <item xml:id="lub-keywords-414">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Exstanz</label>
+          <label xml:lang="de" type="sort">exstanz</label>
+          <note type="description" xml:lang="de">
+            <p>Ausstand</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+        </item>
+        <item xml:id="lub-keywords-415">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Abzugsgeld</label>
+          <label xml:lang="de" type="sort">abzugsgeld</label>
+          <note type="description" xml:lang="de">
+            <p>Abgabe auf Vermögenswerte, die Abwanderung, Verkauf, Schenkung oder Erbschaft der Besteuerung in einem Herrschaftsbereich entzogen werden.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=nachsteuer">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-416">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Anfall</label>
+          <label xml:lang="de" type="sort">anfall</label>
+          <note type="description" xml:lang="de">
+            <p>Eintreten (einer Erbschaft) als Rechtsvorgang; Erbteil; Erbanspruch.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://fwb-online.de/lemma/anfal.s.0m">FNB</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=anfall">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
         <item xml:id="lub-keywords-418">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">furleiti</label>
@@ -1436,6 +1517,26 @@
               <bibl>LI-LA, U 51</bibl>
             </listBibl>
           </note>
+        </item>
+        <item xml:id="lub-keywords-420">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Schneeschleife</label>
+          <label xml:lang="de" type="sort">schneeschleife</label>
+          <note type="description" xml:lang="de">
+            <p>breiter schneebedeckter Bergrücken bzw. Wasserscheide, als Grenzmarkierung</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=schneeschleife">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-421">
+          <label xml:lang="de" type="main">Naturgefahr</label>
+          <label xml:lang="de" type="sort">naturgefahr</label>
         </item>
       </list>
       <p/>

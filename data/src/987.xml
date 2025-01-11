@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-987">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Revers über Zehntrechte in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-987">LI-PfABe, U 20</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 19. August 1514 / Beschreibstoff: Pergament / Siegel: fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hieronymus Triet von Vaduz bekennt, dass ihm Graf Rudolf von Sulz eine Reihe von Zehntrechten in Vaduz, die er von Josef Litscher und dessen Frau Agnes Vaistli gekauft hat, verliehen hat.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-138">Wein</term>
+          <term ref="lub-keywords-165">Obst</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-814">Triedt, Hieronymus</persName>
+          <date when="1514-08-19">19. Aug 1514</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
+          <date when="1514-08-19">19. Aug 1514</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_20-0001.jpg" xml:id="lub-media-2465" source="pfabe-u-020-r-1.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_20-0002.jpg" xml:id="lub-media-2466" source="pfabe-u-020-v-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2465" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-814">Jheronimus Trydt</persName>, seßhaft zu <placeName ref="lub-places-1">Vaduz</placeName>, beken offennlich und thue kundt allermengclich mit dem briefe, als dann der wol
+<lb break="no" n="2"/>geborn herr, her <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName>, landtgrauf im <placeName ref="lub-places-18">Cleggöw</placeName>, herr ze <placeName ref="lub-places-7">Vaduz</placeName> etc. min gnädiger herr, mir etliche gerechtigkai
+<lb break="no" n="3"/>ten in und an dem winzechenden zu <placeName ref="lub-places-1">Vaduz</placeName>. Darzu och ainen achten<gap/> <gap/> winzächenden ainen vierden tail alles kornzächen
+<lb n="4"/>den, ops zächenden, räben zächenden, hüner zächenden und clain<gap/> <supplied>zechenden</supplied>, die Vaistli vor jarn von dem Säger erkouft und  
+<lb n="5"/>ich jez von <persName ref="lub-actors-196">Josephen Litscher</persName>, bürger zu <placeName ref="lub-places-10">Veltkirch</placeName>, und <persName ref="lub-actors-815">Agnesa Vaistli</persName> <gap/> frowen och erkoft, alles nach sag der köff  
+<lb n="6"/>und lechen briefen, so si bishär <gap/> und ich jez inhab, alles <gap/> dem <placeName ref="lub-places-311">Mülbach</placeName> gelegen, mit worten und  
+<lb n="7"/>handen, als <gap/> und lehens <gap/> <gap/> hat, was dann sie <gap/> <gap/> wegem daran lychen sol und mag.  
+<lb n="8"/>Also das ich genanntem minem gnedigen herren, och siner gnaden erben <gap/> g<gap/>eren sin sol, iren schaden warrnen und  
+<lb n="9"/>wönnden, und iren nuz fürdern und schaffen, als dann ain lehenman sinem lehenherren von lehens wegen zu thun  
+<lb n="10"/>schuldig und pflichtig ist. Als ich dann das zu gott und den hailigen ainen aid geschworen hab ze thund, ich sol unnd  
+<lb n="11"/>wil och das obgemelt lehen samend noch sunders one des genannten mines gnädigen herren, och siner gnaden erben wiss
+<lb break="no" n="12"/>en und willen, weder versezen, verkouffen, noch in kainen weg veraberhandlen, alles getrülich und ungevarlich, wissentli
+<lb break="no" n="13"/>ch in kraft diß briefs. Und des zu warem offem und vestem urkund, so han ich, obgenannter <persName ref="lub-actors-814">Jheronimus Trydt</persName>, min 
+<lb n="14"/>aigen insigel zu ainer meren gezügkhnuß der sach offennlich gehengkt an den brief, der geben ist <origDate>an sambstag nach  
+<lb n="15"/>unser lieben frowen tag im ogsten, nach Cristi geburt fünfzehenhunderrt und vierzehen jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2466" n="1"/><lb n="1"/><placeName ref="lub-places-7">Faduz</placeName>. Lehenbrieffs revers  
+<lb n="2"/><persName ref="lub-actors-814">Hieronimus Trydt</persName> zu <placeName ref="lub-places-1">Vadutz</placeName> uber  
+<lb n="3"/>allenhandt zehenden zu <placeName ref="lub-places-1">Vadutz</placeName>  
+<lb n="4"/>her dißhalb dem <placeName ref="lub-places-311">Mülbach</placeName> gelegen  
+<lb n="5"/><gap/> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

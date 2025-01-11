@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-600">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ordnung zu Steuern und Weg- und Zuzügern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-600">LI-PfABe, U 17</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 18. Februar 1513 / Beschreibstoff: Pergament / Siegel: fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Rudolf von Sulz urk.: Vor ihm sind erschienen etliche Gerichtsleute und Gewalthaber der Dörfer und Gnossen Vaduz, Schaan, Triesen und Balzers und forderte, dass "ordnung, stattutten unnd brüch" gemacht werden betr. Steuern, was man von Leuten, die aus dem Land wegziehen und ihre Güter verkaufen, erheben soll, ob man von Leuten, die aus dem Land über die vier Schneeschleipfen wegziehen, den Leibschilling erheben soll, wie man Leute, die in die Gnossen ziehen, behandeln soll, und ob man die, die Wunn und Weid, Holz und Feld überschlagen, nicht entsprechend besteuern soll. Es wird Folgendes festgesetzt:&#13;
+1. Ein Erbfall soll in den Jahrsteuerzetteln des Dorf, in dem er nach den Jahrsteuerzetteln fällt, bleiben. Bei Käufen und Verkäufen soll die Steuer auf dem Gut bleiben gemäss den Steuerzetteln, wie die Steuerer bei ihren anderen steuern.&#13;
+2. Wegzüger, die ihre Güter verkaufen, sollen der Gnoss von 30lb. 1lb. und von 15lb. 10ß geben.&#13;
+3. Wer über die Schneeschleipfen, nämlich Bodensee, Arlberg, Walensee und Landquart, wegzieht, soll den Leibschilling geben.&#13;
+4. Zuzüger nach Vaduz sollen der Gnoss und dem Grafen oder seinen Erben je 4fl. geben. Zuzüger müssen um Erlaubnis fragen, die Gnoss und der Grafen dürfen sie ablehnen.&#13;
+5. Freie, Walser usw., die in eine Gnoss ziehen, müssen schwören, sich zu verdienen wie ein Eigenmann mit Steuern, Tagwan, Fasnachtshühnern, Schnitzen, Bruchen, Fällen, Lässen, Betmist, nichts ausgenommen. Wenn sie wieder wegziehen, sollen sie von ihren Eiden entbunden werden.&#13;
+6. Wer Allmenden, Holz, Feld, Wunn, Waid zu "gefarlich überschlieg [?]" und einer Gnoss "zuo überlegenn" wäre, darf von der Gnoss nach Billigkeit besteuert werden.&#13;
+7. Allfällige ältere Regelungen bleiben vorbehalten. [?, schlecht lesbar wg. Loch]&#13;
+Die Regelungen sollen den Rechten der Herrschaft unschädlich sein. Diese behält sich spätere Änderungen vor.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-262">Abgabe</term>
+          <term ref="lub-keywords-58">Leibeigenschaft</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-152">Nutzungsrecht</term>
+          <term ref="lub-keywords-285">Dorfgemeinde</term>
+          <term ref="lub-keywords-292">Wegzug</term>
+          <term ref="lub-keywords-293">Zuzug</term>
+          <term ref="lub-keywords-315">Freie</term>
+          <term ref="lub-keywords-420">Schneeschleife</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
+          <date when="1513-02-18">18. Feb 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfab,_u_17-0001.jpg" xml:id="lub-media-471" source="pfabe-u-017-v.jpg" corresp="A"/>
+    <graphic url="li-pfab,_u_17-0002.jpg" xml:id="lub-media-472" source="pfabe-u-017-r.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-472" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName>, lanndgraf im <placeName ref="lub-places-18">Kleggew</placeName>, herr zu <placeName ref="lub-places-7">Fadutz</placeName> etc. Bekennen offennlich unnd thun kunth allermengklich mit  
+<lb n="2"/>dem briefe, so den ansehend, das für unns komen unnd erschinen seind etlich gerichtslütt unnd gewalthaber, von den vier dörffern und gnossen <placeName ref="lub-places-1">Vaduz</placeName>,  
+<lb n="3"/><placeName ref="lub-places-53">Schan</placeName>, <placeName ref="lub-places-79">Trisan</placeName> unnd <placeName ref="lub-places-71">Balzers</placeName>, unnd hielltten unns für, wie inen nott were, ordnung der sinen halb zu machen. Ouch wann sich ainer us dem lannd  
+<lb n="4"/>ziehen unnd das sine verkoffenn wellte, was man ime beheben welte. Ouch wann sich ainer aus dem lannd über die vier <term ref="lub-keywords-420">schnee schlaipffin</term> ziehenn  
+<lb n="5"/>welltte, ob man ime den lib schiling beheben sollte. Ouch wann ainer in die gnossen ziehen welte, wie der gehalten sölle, werdenn iem, ob die nit  
+<lb n="6"/>billich, so wunn und waid, holz und veld, zu gefarlichen über schliegen, darnach gesturtt sölltten werden. Unnd batten uns diemietiklich, inen dar
+<lb break="no" n="7"/>inn zu ratten unnd zu vergönnen, disshalb ordnung, stattutten unnd brüch, nach gelegennhait yegklichs artikeln zu machen und zu vergonnen, dan
+<lb break="no" n="8"/>nach sein wir nur inen undergesessenn, unnd uns hierinn bedacht unnd desshalb ordnunng unnd stattuten gemacht und gesetzt, wie hernach volgett, 
+<lb n="9"/>sitzen, ordnen unnd machen in krafft unnd macht diz briefs. Zu dem ersten in wellichem dorff nach innhalt irer stürzedel ain erbfall fallt, oder  
+<lb n="10"/>vallenn wirtt, derselb erfall soll in demselben stürzedel beliben und darinn dienen, wellicher kofft oder verkofftt, dieselb stür sol alle eigenn in derselben  
+<lb n="11"/>stür, darinnn sie kofft oder verkoft wirt, sol uf dem gut beliben, innhalt der stürzedeln alsdann die stürer bey iren aiden stürend. Zu dem andern, wellicher  
+<lb n="12"/>oder wellichen die weren, so sich us den gnossenn ussern unnd hinweg ziehen unnd das ir verendern und verkoffenn wurdenn, dieselben söllen schuldig  
+<lb n="13"/>sein, ainer gnoss, daraus sie ziehenn, von dryssig pfunden, ain pfund, und von fünffzehen pfunden pfeningen, zehchen schilling pfening hinder inen  
+<lb n="14"/>zu lassenn. Ob dann ainer in höhenn, merren oder myndern, vermögen dann oben stat, sol nach anzal und marckzall des anlegens aber hinder im  
+<lb n="15"/>zu lassenn. Zu dem dritten, wellicher oder wellichen die weren, so also hinweg über die vier <term ref="lub-keywords-420">schneeschlaipffinen</term>, namlichen <placeName ref="lub-places-266">Bodennsee</placeName>, <placeName ref="lub-places-97">Arla
+<lb break="no" n="16"/>berg</placeName>, <placeName ref="lub-places-264">Wallennsee</placeName> unnd die <placeName ref="lub-places-639">Lanngkwart</placeName> ziehen würdenn, denselben soll man den lib schilling innbeheben. Zu dem vierden, wellicher oder welliche 
+<lb n="17"/>die seind, so sich in die herrschafftt ziehen, in weliche gnos das wer, dieselbenn sollen schuldig sein, ainer gnoss, darin sie ziehen, vier guldin unnd unns, oder  
+<lb n="18"/>unnsern erben, ouch vier guldin schuldig sein zu gebenn. Doch sollenn wir unnd gnos, darin ainer ziehen wurd, darumb gefragett werden. Als dann haben  
+<lb n="19"/>wir macht, ainen anzunemen oder nit. Zu dem fünfftten, wann dann ainer, in welliche gnos das ist, ziecht, frey lüt, <orgName ref="lub-actors-941">Wallser</orgName> etc., söllen ainen  
+<lb n="20"/>aid schweren, sich zu verdienen, wie ain aigen man, mit stüren, tagwan, fasnacht hennen, schnitzen, bruchen, vellen, gelessen, bettmist, nichtz usgenomen,  
+<lb n="21"/>doch wann ainer allso widerhinweg ziechen unnd derselbig unnd dieselben söllen, dann ine aiden, so sie thann hette, wider entbunden und aller  
+<lb n="22"/>pflicht ganntz ledig sein. Zu dem sechsden, wer die werennd, so die allmainen holz unnd veld, wunn unnd waid, zu gefarlich überschlieg,  
+<lb n="23"/>ain und ainer gnoss in söllichem zu überlegenn seind, habenn dieselb gnoss macht unnd vollenn gewalt, bey iren aiden nach gelegennhait  
+<lb n="24"/>ains yeg<supplied>..</supplied> vermögenns zu stürenn. Zu dem <supplied>siben</supplied>den, ob etwas vor zeittenn unnd ie unnd die brief gemacht ist angesehen und <gap/>  
+<lb n="25"/>gesetzt <gap/> selbenn sol es b<gap/>benn. Und ge<gap/> denn alles trwlich und ungefarlich. Sollichs alles, wie oben stat, sol<gap/>  
+<lb n="26"/>unnser <gap/>nd nachkomen, an unnsern herr l<gap/> herkomen unnd bruchenn, nichtz hindern noch schadenn. Wir behalten <gap/>  
+<lb n="27"/>unnsern <gap/> nachkomen, sollichs alles, wie ob<gap/> sondern zu meren, zu verendern und zu verkerenn, oder gar ab zu thu, <gap/>  
+<lb n="28"/>des alles <gap/> unnd warem urkund, yetz unnd her<gap/> wir unnser aigenn innsigel zu ainer waren gezugknus diser sachenn offenn  
+<lb n="29"/>lich an disen brief lassenn henncken, der gebenn ist <origDate>uff <gap/> nach dem sonntag Invocavit in der vastenn, als man zallt von der gepürtt </origDate> 
+<lb n="30"/><gap/> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-471" n="1"/><lb n="1"/><gap/>zug brieff 
+<lb n="2"/>Anno 1513 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

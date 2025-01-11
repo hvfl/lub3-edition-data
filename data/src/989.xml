@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-989">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Acker in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-989">LI-PfABe, U 26</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 11. November 1566 / Beschreibstoff: Pergament / Siegel: fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Peter Wohlwend von Ruggell und seine Frau Anna Wider verkaufen mit der Hand von Ammann Hans Knabenknecht einen Zins von 9 Schilling ab ihrem halben Acker an Hans Wanger von Bendern und Jörg Reinger von Ruggell, beide Kirchenpfleger zu Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-819">Wohlwend, Peter</persName>
+          <date when="1566-11-11">11. Nov 1566</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-820">Wider, Anna</persName>
+          <date when="1566-11-11">11. Nov 1566</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-821">Knabenknecht, Hans (2)</persName>
+          <date when="1566-11-11">11. Nov 1566</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-823">Wanger, Hans (2)</persName>
+          <date when="1566-11-11">11. Nov 1566</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-822">Reinger, Jörg</persName>
+          <date when="1566-11-11">11. Nov 1566</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_26-0001.jpg" xml:id="lub-media-2469" source="pfabe-u-026-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_26-0002.jpg" xml:id="lub-media-2470" source="pfabe-u-026-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2469" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-819">Petter Wolwennd</persName> von <placeName ref="lub-places-2">Raggel</placeName> unnd ich, <persName ref="lub-actors-820">Anna Widerin</persName>, sein eeliche hausfrow, bekhennen offennlich füer unns, all unnser erben unnd nachkhomen und thuen khundt  
+<lb n="2"/>allermenigclich mit dem brief, das wir mit veraintem guettem willen, wolbedachtem synn unnd mueth, zu fürderung unnsers nuz, besonnder mit hand  
+<lb n="3"/>des ersamen weysen <persName ref="lub-actors-821">Hannsen Knabennknechts</persName>, der zeit aman der herrschafft <placeName ref="lub-places-11">Schellenperg</placeName> em <placeName ref="lub-places-16">Eschnerperg</placeName>, aufrecht unnd redlich verkhaufft unnd zue khauff
+<lb break="no" n="4"/>en gegeben haben, unnd geben auch also hiemit wissenndtlich in crafft dis briefs, den erbern <persName ref="lub-actors-823">Hannsen Wanngner</persName> von <placeName ref="lub-places-36">Benndern</placeName> unnd <persName ref="lub-actors-822">Jörgenn 
+<lb n="5"/>Rainger</persName> von <placeName ref="lub-places-2">Raggel</placeName>, als verordnette gewalthaber <placeName ref="lub-places-312">Unnser Lieben Frawen kirchen</placeName> zu <placeName ref="lub-places-36">Benndern</placeName>, unnd allen derselben nachkhomenden gewalthabern,  
+<lb n="6"/>nemlich neun schilling phening guetter costennzer münz veldkhircher werung, rechts, eewigs, jerlichs zins unnd phening gelz, von ausser unnd ab  
+<lb n="7"/>unnserm aignen halben ackher zu <placeName ref="lub-places-2">Raggel</placeName>, in <placeName ref="lub-places-340">Othmans wiß</placeName> gelegen, stost selbiger halber ackher aufwert dem lannd nach an unnser guett, gegem <placeName ref="lub-places-103">Rein</placeName> ann  
+<lb n="8"/><persName ref="lub-actors-1664">Bernnhardt Wolwennden</persName> unnd <persName ref="lub-actors-1665">Liennhardt Wolwennden</persName>, abwert aber an <persName ref="lub-actors-1664">Bernnhardt Wolwennden</persName>, unnd gegem perg an <persName ref="lub-actors-1666">Simon Wolwennden</persName> etc. 
+<lb n="9"/>Alles ab grund, grat, veld, wasen, wun, waid, stockh, stain, gesteudt, gereut, genngen, stegen unnd wegen, unnd gemainlich mit allen anndern seinen rechten  
+<lb n="10"/>unnd zuegehörden, benembten unnd unbenembten, auch füer ledig unnd gegen allermenigclich unverkhümbert. Unnd also ist der eewig, redlich kauf  
+<lb n="11"/>erganngen unnd beschechen, benenntlichen umb neun phundt phening guetter vorgeschribner münz unnd werung, dero wir aller gar von inen, den  
+<lb n="12"/>keuffern erberlich ausgericht unnd bezalt worden sind, nach unnserm guetten willen unnd bemüegen. Darumb sollen unnd wöllen wir, auch all unser  
+<lb n="13"/>erben unnd nachkhomen, oder wer das obgemelt unnderpfanndt nach unns ymmer innenhat, nuzet unnd prauchet, gedachten zins, die neun schilling  
+<lb n="14"/>phening gelz, vorernennten keuffern, allen iren nachkhomennden gewalthabern, nunhinenndthin ymmer, eewigclich und ye jerlich, alle jar auf sanndt  
+<lb n="15"/>Marthins tag, achttag vor oder nach ungevarlich, guetlich ausrichten, zinsen unnd zu iren sichern hannden unnd gewalt, füer alles verhefften, verpiettenn  
+<lb n="16"/>unnd enndtweren, gennzlichen one allen iren costen unnd schaden geben unnd anndtwurtten. Wann, wie, oder weliches jars das aber also nit be
+<lb break="no" n="17"/>scheche, über kurz oder lanng zeit, so ist inen das obgemelt unnderpfanndt in seinen bestimbten marckhen begriffen, gannz zinsfellig worden unnd 
+<lb n="18"/>dannennthin mit grund, grat unnd mit allen anndern seinen obgenannten rechten, pesserungen unnd zuegehörden, zu rechtem, eewigem aigen, ymmer  
+<lb n="19"/>mer haimbgevallen unnd vervallen, on unnser aller, unnser erben unnd nachkhomen, unnd allermenigclichs von unnserntwegen, irrung unnd wid
+<lb break="no" n="20"/>ersprechen. Unnd hierauf dis eewigen redlichen kaufs umb zinsfelligi, auch fuer all abgenng unnd minderung das obgenanten unnderpfanndt, auch 
+<lb n="21"/>hauptguez zins unnd schadenns, unnd aller obgenannter ding, sollen unnd wöllen wir, auch all unnser erben unnd nachkhomen, der genannten ge
+<lb break="no" n="22"/>walthaber unnd allen iren nachkhomen, recht, guet unnd getrew, krefftig geweren, füerstanndt unnd versprecher gegen allermenigclich sein, vor 
+<lb n="23"/>dem richter unnd gericht, darunnder obgemelt unnderpfanndt gelegen ist, nach recht, wa, wie, wenn oder gegen wem, als offt unnd dickh sy des  
+<lb n="24"/>frewen, on alle widerred, aufzug unnd geverde. Unnd wiewoll der brief ainen eewigen kauf ausweyst, nicht dester weniger mögen wir,  
+<lb n="25"/>auch all unnser erben unnd nachkhomen, den gemelten zins die neun schilling phening gelz, von inen, den gewalthabern, unnd allen iren nachkhomen  
+<lb n="26"/>woll widerumben kauffen unnd ablösen. Nunhinenndthin, wann unnd weliches jars, wir wellennd über kurz oder lanng zeit, doch vor zins
+<lb break="no" n="27"/>fall unnd auf sanndt Marthins tag, achttag vor oder nach ungevarlich, samenndthafft mit dem obgeschribnen hauptguet, den neun phundt pheningen 
+<lb n="28"/>unnd albegen mit gevallnen ausstenndigen zinsen, auch mit gueter münz unnd weerschafft, daran sy kainen verlurst noch abganng haben, ob sich  
+<lb n="29"/>die yezig münz in der zeit verenndern würde, alles ungevarlich. Unnd des zu warem urkhundt haben wir mit vleys unnd ernst  
+<lb n="30"/>erpetten, den obgedachten aman <persName ref="lub-actors-821">Hannsen Knabennkhnecht</persName>, das der sein innsigel füer unns unnd unnser erben (doch ime unnd seinen erbenn  
+<lb n="31"/>on schaden) offennlich an disen brief gehennckht hat, der geben ist <origDate>an sanndt Marthins tag im fünffzechennhundert sechsundsechzigisten  
+<lb n="32"/>jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2470" n="1"/><lb n="1"/>Schuld-verschreibung 
+<lb n="2"/>von <persName ref="lub-actors-819">Peter Wohlwend</persName> zu <placeName ref="lub-places-2">Roggell</placeName> per 9 lb. dt. 
+<lb n="3"/>Gegen unser <placeName ref="lub-places-312">Lieben Frawen pfarrkürchen</placeName> zu <placeName ref="lub-places-36">Benderen</placeName>. 
+<lb n="4"/>Underpfandt. 
+<lb n="5"/>Ein halber ackher zu <placeName ref="lub-places-2">Roggell</placeName> im <placeName ref="lub-places-340">Ochmans Wüß</placeName> gelegen,  
+<lb n="6"/>uff Martini falt zünß 9 schilling dt. anno 1566. 
+</p>
+        <p><lb n="7"/><placeName ref="lub-places-312">Unnser Frowen kirchen</placeName> in <placeName ref="lub-places-36">Benndern</placeName> zinsbrief an <persName ref="lub-actors-819">Petter  
+<lb n="8"/>Wolwennden</persName> unnd sein hausfrau umb vx ß.d. gelz lautt 
+<lb n="9"/>1566. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

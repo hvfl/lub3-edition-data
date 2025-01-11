@@ -17,7 +17,7 @@
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-578">LI-LA, Schä U 53</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 24. August 1531 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
         </listWit>
         <listBibl type="publications">
-          <bibl>Druck: Schädler, Rechtsgewohnheiten, S. 44-49.</bibl>
+          <bibl>Schädler, Rechtsgewohnheiten, S. 44-49</bibl>
         </listBibl>
       </sourceDesc>
     </fileDesc>
@@ -43,7 +43,7 @@
       </textClass>
       <correspDesc>
         <correspAction type="sent">
-          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
           <date when="1531-08-24">24. Aug 1531</date>
         </correspAction>
       </correspDesc>

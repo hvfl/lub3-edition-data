@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-616">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Haus und Hof in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-616">LI-LA, Schä U 83</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1590 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Josef Gassner von Schaan und seine Frau Christina Lerch verkaufen einen Zins von 1 Pfund ab ihrem Haus und Hof in Schaan für 20 Pfund Pfennig an Georg Bürkli von Schaan, Pfleger der Schaaner Frühmesspfrund.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-339">Heimgasse</term>
+          <term ref="lub-keywords-365">Martinstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-483">Gassner, Josef (2)</persName>
+          <date when="1590-11-11">11. Nov 1590</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-482">Lerch, Christina</persName>
+          <date when="1590-11-11">11. Nov 1590</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-287">Schierscher, Adam</persName>
+          <date when="1590-11-11">11. Nov 1590</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-232">Bürkli, Georg</persName>
+          <date when="1590-11-11">11. Nov 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_schä_u_83-0001.jpg" xml:id="lub-media-503" source="schae-u-083.jpg" corresp="A"/>
+    <graphic url="li-la__sch-_u_83-0002.jpg" xml:id="lub-media-1530" source="schae-u-083-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-503" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-483">Joseph Gasner</persName> zu <placeName ref="lub-places-53">Schan</placeName> unnd mit ime ich, <persName ref="lub-actors-482">Christina Lerchin</persName>, sein ehliche hausfraw, bekhennen offennlich für unns, all unnsere erben unnd nachkhomen unnd 
+<lb n="2"/>thue khund allermenigclich mit dem briefe, dz wir mit veraintem freyem guten willen, wolbedachtem synn unnd muth zu befürderung unnsers beßern nutz, 
+<lb n="3"/>besonnder mit hannd deß ersamen unnd weysen <persName ref="lub-actors-287">Adamen Schierßers</persName>, der zeyt aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, aufrecht unnd redlich verkhaufft unnd zukhauffen 
+<lb n="4"/>geben haben aines besteeten, vesten, ewigen unnd ymerwerenden kaufs unnd geben auch hiemit wißenndtlich in crafft ditz briefs dem erbern <persName ref="lub-actors-232">Geörgen 
+<lb n="5"/>Bürckhli</persName> zu <placeName ref="lub-places-53">Schan</placeName> als verordnetem unnd gesatzten phleger der früemeß daselbst zu <placeName ref="lub-places-53">Schan</placeName> unnd allen seinen nachkhomen namblichen ain pfundt pfening gueter 
+<lb n="6"/><placeName ref="lub-places-101">Costanntzer</placeName> müntz <placeName ref="lub-places-10">Veldtkhircher</placeName> werung rechtz, steets, ewigs zinß unnd pfening gelts von ußer unnd abe unnserm aignen hauß unnd hof daselbst zu <placeName ref="lub-places-53">Schan</placeName> gelegen, 
+<lb n="7"/>stoßt ufwert dem lanndtnach an <persName ref="lub-actors-543">Joachim Quaders</persName> änichlis hauß unnd hofstatt, gegem <placeName ref="lub-places-103">Rein</placeName> an aman <persName ref="lub-actors-287">Adamen Schierßers</persName> guth, abwert dem lanndtnach an die 
+<lb n="8"/><term ref="lub-keywords-339">haimgaß</term> unnd gegem berg an die lanndtstras, alles ab grund, gradt, veldt, wasen, wunn, waid, stockh, stain, gesteut, gereuth, gengen, stegen, wegen unnd sonnst ge
+<lb break="no" n="9"/>mainclich ab allen anndern deßelben rechten unnd zugehörden, benennten unnd unbenennten, darzue für zinßfrey, ledig, los unnd gegen allermenigclich unverkhümb<unclear>ert</unclear>.
+<lb n="10"/>Unnd also ist der ewig, redlich kauf erganngen unnd beschehen benanndtlichen umb zwaintzig pfundt pfening obgeschribner müntz und werung, dern wir aller gar 
+<lb n="11"/>von ime, dem keuffer, erberlichen außgericht und bezalt worden seind, nach unnserm willen und guten benüegen. Darumben so sollen unnd wellen wir, all unsere erben 
+<lb n="12"/>unnd nachkhomen inhabere unnd besitzer erstgenants underpfandts den bestimbten zinß gesagtem phleger oder seinen nachkhomen an statt der früemeß nunfurt
+<lb break="no" n="13"/>erhin <unclear>ee</unclear>hwigclich und alle jar jerlich auf <term ref="lub-keywords-365">sannt Marthins, deß hailigen bischoffs, tag</term>, achttag vor oder nach ungevarlich, güetlich richten, zinßen und zu sinen
+<lb n="14"/>sichern handen unnd gewalte geben und andtwurten, für allermenigclichs verhefften, verbieten und endtweren, gentzlich ohne allen iren costen unnd schaden. Wann, 
+<lb n="15"/>wie oder welches jars das aber also nit beschehe, über khurtz oder lang zeyt, so ist inen dz vorgeschriben underpfandt, in seinen bestimbten marckhen begriffen, ganntz 
+<lb n="16"/>zinsfellig worden, dannenthin mit grund, grad, auch allen andern deßelben obgenannten rechten, beßerung unnd zugehörden zu rechtem ewigem aigen ymer 
+<lb n="17"/>gevallen und vervallen, ohne unnser, all unnser erben und nachkhomen, auch sonnst allermenigclich von unsertwegen irrung und widerred, ohn geverde. Hier
+<lb break="no" n="18"/>auf ditz ewigen und redlichen kaufs umb zinsfellige, auch für all abganng unnd minderung deß mergenannten underpfandts, haubtgut, zinß, schadenns
+<lb n="19"/>unnd aller vorgeschribner dingen sollen unnd wellen wir, die verkheuffere, all unsere erben unnd nachkhomen der gerüerten früemeß recht, gut und getrew 
+<lb n="20"/>crefftig gewehrn, fürstannd und versprecher gegen allermenigclich sein, vor dem richter unnd gericht, darunder mergesagt underpfanndt gelegen ist, nach 
+<lb n="21"/>recht, wo, wie, wenn oder gegen wem, als offt unnd dickh sy dz nach dem rechten ymer bedürffen oder notwenndig werden, alvort in unnserm aignen costen unnd 
+<lb n="22"/>ohne iren schaden, bey guten trewen, ohne alle widerred und aufzug. Unnd wiewol diser brief ainen ewigen kauf außweißt unnd sagt, dannocht hat vil
+<lb break="no" n="23"/>bemelter phleger uns zugelaßen und bewilliget, allso dz wir, auch all unnsere erben unnd nachkhomen, gemelt ain pfundt pfening zinß von ime, phleger, oder
+<lb n="24"/>seinen nackhomen an statt der früemeß wol wider khauffen unnd ablösen mögen nunhinfuro ewigclich, wann unnd welches jars wir über khurtz oder 
+<lb n="25"/>lang zeyt wellen, doch allweg vor zinsfal unnd auf <term ref="lub-keywords-365">sannt Marthins tag</term>, achttag vor oder nach ungevarlich, samenthafft mit den obgeschribnen zwaintz
+<lb break="no" n="26"/>ig pfundt pfening haubtgut, sambt allen vervallnen und ausstendigen zinßen, auch mit gueter müntz und werschafft, daran sy khainen verlurst noch ab
+<lb break="no" n="27"/>gang haben dörffen, ob sich die jetzige müntz verendern wurde, ungevarlich. Beschließlichen nachdeme wir, die verkheuffere, besorgen, es möchte wol so
+<lb break="no" n="28"/>bald hierumben vor diser zeit auch ain zinßbrief verferttiget sein, derowegen so derselbig hinfüro über khurtz oder lang herfürkhomen solt oder wurde,
+<lb n="29"/>das derselbig nichtzit gelten und caßiert unnd uncrefftig sein <unclear>soll</unclear>. Des alles zu warem urkhund haben wir mit vleis unnd ernst erbetten den obge
+<lb break="no" n="30"/>dachten aman, dz er sein aigen innsigel (doch ime unnd seinen erben ohne schaden) offennlich gehennckht hat an disen briefe, der geben ist <origDate>auf sannt
+<lb n="31"/>Marthins, deß hailigen bischoffs, tag nach Christi geburt gezelt fünffzehenhundert unnd neunzig jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

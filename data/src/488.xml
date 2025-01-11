@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-488">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Wuhrstreit zwischen Vaduz und Schaan einerseits und Sevelen andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-488">LI-GAS, U 9</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 19. März 1558 / Beschreibstoff: Papier / Siegel: keine Besiegelung</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Balthasar von Ramschwag, Vogt auf Gutenberg, als Vertreter des Landvogtes der Herrschaft Vaduz, und Joachim Müller, Landvogt der Herrschaft Werdenberg, entscheiden den Streit zwischen den Gemeinden Vaduz und Schaan einerseits und Sevelen andererseits um ein Wuhr am Rhein, das die Seveler oberhalb des Grenzsteins erbaut haben. Den Sevelern wird ein Ausbau des Wuhrs rheinabwärts verboten, ein Ausbau rheinaufwärts hingegen unter der Bedingung gestattet, dass sie die Vaduzer und Schaaner vorgängig informieren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1558-03-19">19. Mär 1558</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-243">Müller, Joachim</persName>
+          <date when="1558-03-19">19. Mär 1558</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gas__u_9-0002.jpg" xml:id="lub-media-2211" source="gas-u-9-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2211" n="1"/><lb n="1"/>Zuowissen unnd kundt gethon sey menigclich mit disem spannzedel, nachdem sich zwuschen den ersamen gemainden der dörfer <placeName ref="lub-places-1">Vaduz</placeName> 
+<lb n="2"/>unnd <placeName ref="lub-places-53">Schann</placeName> ains und denen von <placeName ref="lub-places-147">Seveln</placeName> annderstails spenn und zweytracht von wegen des wuers, so oberhalb deren von <placeName ref="lub-places-147">Seveln</placeName> marckhstain, so sy gegen denen 
+<lb n="3"/>von <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schann</placeName> haben, steet, das dann die von <placeName ref="lub-places-147">Seveln</placeName> begert, zuerpessern unnd noch weiter zuerstreckhen vergonnen und zuzelassen. Darauf dann 
+<lb n="4"/>die gemaindtsleut der dorffer <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schann</placeName> inen mit anndtwurt begegnet, sy kunen unnd haben inen hierinnen nichts zu vergonnen oder zuze
+<lb break="no" n="5"/>lassen (sy haben auch solich wuer zum thail wider ier wissen unnd willen unnd zuvor wider brief unnd sigel dargeschlagen, so inen dann geberlichen schadenn
+<lb n="6"/>unnd nachtail bringe), auss ursachen, <gap/> sy solich wuer, als sy verhoffen, nit auf ieren grund unnd poden, sonnder auf deren von <placeName ref="lub-places-79">Drissen</placeName> grund unnd poden 
+<lb n="7"/>geschlagen haben, so zuwider brief unnd sigel, auch der schweinung zu nachtail unnd eingriff gehanndlt seye. Deshalben well inen nit gepuren auf irn 
+<lb n="8"/>genachburten, deren von <placeName ref="lub-places-79">Drissen</placeName>, grund unnd poden was zuvergonnen, dann sy dessen weder fueg, recht noch gewalt haben, sonnder begerten an sy, 
+<lb n="9"/>die von <placeName ref="lub-places-147">Seveln</placeName>, das sy das geschlagen wuer zum thail gar widerumben hinweeg thuen wolten. Soliches spanns sich bed partheyen in der guetig
+<lb break="no" n="10"/>khait gegen ainanndern nit verainigen unnd vertragen mugen. Unnd haben demnach solich ieren spann unnd zweytracht vermug des anlass, auch brief
+<lb n="11"/>unnd sigel, so aigenntlich ausweisen imfaal, ob sich was spenn unnd stöss enndtzwüschen gedachten beden nachpurschafften zuetruegen unnd sy sich derselbigen 
+<lb n="12"/>selbs nit vertragen unnd vergleichen könnden oder möchten, das sy alsdann soliche iere spenn unnd zweytracht von unnd aus ieren hannden unnd gewalt zu
+<lb break="no" n="13"/>hannden unnd gewalt ierer zu baiderseits lanndtvöggten guetwilligclichen mit unnderthenigem pith ubergeben unnd darinnen ain mitl unnd enndtlichen enndt
+<lb break="no" n="14"/>schid sprechen lassen sollen. Demnach haben beruert bed nachpurschafften solichen ieren vermelten spann unnd zweytracht von ieren hannden den
+<lb n="15"/>edlen unnd ernvessten junckher <persName ref="lub-actors-156">Ba<gap/>hasern von Rambschwag</persName>, römisch kayserlicher majestat etc. voggt zu <placeName ref="lub-places-13">Guetemberg</placeName>, anstat unnd innamen herrn landtvoggts der herr
+<lb break="no" n="16"/>schafft <placeName ref="lub-places-7">Vaduz</placeName>, auch <persName ref="lub-actors-243">Joachim Muller</persName>, lanndtvoggt der herrschafft <placeName ref="lub-places-73">Werdennberg</placeName>, als ieren verordne<supplied>t</supplied>en enndtschid leut ubergeben unnd bevolchen. Dem
+<lb break="no" n="17"/>nach haben sich bestimbte bed herrn obleut auf anrueffen, pithen unnd begern beder nachburschafften der hanndlung unnderfanngen unnd ainen enndtlichenn
+<lb n="18"/>enndtschid darinnen gegeben, wie es von beden seiten des wuers halben gehalten werden soll. Der also laut, das die von <placeName ref="lub-places-147">Seveln</placeName> das <term ref="lub-keywords-405">wuer 
+<lb n="19"/>unnd schupfin</term> unnden ain wuer, gegen dem oberisten marckhstain dem <placeName ref="lub-places-103">Rein</placeName> nachzaigt unnd ligt achtzechen weer klaffter lanng (thuet achtzechenn 
+<lb n="20"/>kessten), weder mit klainem noch grossem holz, auch stauden noch stainen erpessern unnd erpauwen, sonnder sich desselbigen gennzlich müessigen 
+<lb n="21"/>unnd, wie es yezmallen vor augen, also unverenndert unnd unverarckhwonet bleiben unnd dem <placeName ref="lub-places-103">Rein</placeName> sein ruewigen unnd unverhinderten ganng 
+<lb n="22"/>lassen. Unnd was aber oberhalb der achtzechen klaffter, das mugen sy woll erpessern, erpawen unnd in notturfftigen eeren erhalten unnd 
+<lb n="23"/>haben. Doch imfaal, so sy dasselb zuthuen vorhabenns, sollen sy, die gemaindtsleut von <placeName ref="lub-places-147">Seveln</placeName>, schuldig sein, denen von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> soliches 
+<lb n="24"/>zuverkhunden, damit zu yederzeit zugesechen unnd ain gleichait gehalten werden muge, mit dem verern anhanng unnd vorbehalt, das solicher endt
+<lb break="no" n="25"/>schid, brief, sigel unnd der schweinung in albeg onschedlich unnd hiemit denen von <placeName ref="lub-places-147">Seveln</placeName> kain kunfftige gerechtigkhait zugelassen oder gegeben sein
+<lb n="26"/>solt etc. Unnd sollen hiemit auch bed nachburschafften gegen ainanndern freundtlich unnd nachpeurlich deshalben veraint unnd vertragen 
+<lb n="27"/>sein, auch ain anndern nachpeurlichen willen wie bisheer unnd nit weniger beweisen unnd erzaigen. Unnd zuvor die von <placeName ref="lub-places-147">Seveln</placeName> brief unnd 
+<lb n="28"/>sigel bass dann bissheer geleben unnd nachkhomen sollen, damit guete nachpurschafft erhalten unnd geuffet werde. Solichen guetigen enndt
+<lb break="no" n="29"/>schid haben offtgenannte bed partheyen unnd nachburschafften mit hochvleissiger dannckhsagung angenomen unnd darauf den herrn obleuten
+<lb n="30"/>zuegesagt unnd versprochen, dennselben in allen puncten unnd artickhlen zuhalten unnd zugeleben, bei ieren waren unnd gueten trewen, alles one 
+<lb n="31"/>geverde. Unnd des zu ainer gezeugkhnus sind dises vertrags zwenn gleichlautennd spannzedl gemacht, mit ainer hannd geschriben, aus
+<lb break="no" n="32"/>ainanndern geschniten unnd yeder p<supplied>a</supplied>rtheyen auf begern ainer zugestelt worden. Unnd ob ain thail den ierigen verlure, soll nichts desterweniger
+<lb n="33"/>der annder bei seinen crefften pleiben unnd gueter glaub geben werden, trewlich unnd ungeverlich. Beschechen <origDate>am sambstag vor lettare im funff
+<lb break="no" n="34"/>zechenn hundert acht unnd funfzigisten jare</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

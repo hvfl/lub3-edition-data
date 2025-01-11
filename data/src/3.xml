@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Vertrag zwischen Maximilian I. und Rudolf von Sulz betr. Grenzen</title>
+        <title>Vertrag zwischen Maximilian I. und Rudolf von Sulz über die Herrschaftsgrenzen</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
@@ -15,16 +15,16 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-3">LI-LA, U 87</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 6. September 1515 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: (<orgName corresp="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>), Regierungskopialbuch, Buch Walgau, Bd. 2, fol. 67a, 67b</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>), Rh. Blumenegg, Hs. 160, fol. 199</witness>
+          <witness xml:id="B3">B3: Kopie, Signatur: (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>), Rh. Blumenegg, Hs. 161, fol. 157-160</witness>
+          <witness xml:id="B4">B4: Kopie, Signatur: (<orgName corresp="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>), Rh. Blumenegg, Hs. 164, fol. 20-22</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>1. Die Grenzen zwischen der Grafschaft Sonnenberg und der Herrschaft Vaduz werden wie folgt festgelegt: vom Saminabach den Fall hinab der höchsten Egg nach bis auf den höchsten Grat, dem Grat nach, der zwischen den Nenzingern und Frastanzer Alpen und den Alpen der Walser am Wysmerberg [Triesenberg?] liegt, bis zum Gemsgrat, der "hinunmb" (?) an der Nenzinger Ochsenalp liegt, auf dem höchsten Grat zum Serrisgrat [Sareisgrat] hinüber in Gurfian [Gorfion], der zwischen Stafflidan [Stafeldon, Nenzinger Alp] und Guffell [Güfel, Nenzinger Alp] liegt, auf dem höchsten Grat hinunter zur Soldneregg [Naafkopf], das bei der Nenzinger Alp Partinnell [Barthümelalpe] und der Schaaner Gritsch liegt. Auf der Seite der Grenze, wo das Wasser in die Meng fliesst, sollen alle Rechte - hohe und niedere Gerichte, Wälder, Wildbann, Zwing und Bann - dem Kaiser gehören, auf der anderen Seite, wo das Wasser Richtung Vaduz fliesst, sollen alle Rechte dem Grafen gehören.&#13;
-2. Betr. Grenze im Schaanwald beim Schmelzhof: Der unter dem Schmelzhof gefundene Markstein soll weiterhin gelten, ebenso die zwei anderen Grenzsteine und die Grenze im Wildgrab.&#13;
-Kundschaften haben ergeben, dass die Grenze vom Pfandbrunnen zum Gantenstein über Gampösch zum alten Bad Brunnen Nofels über das Ried zum Hasenbach in die Spirs und in den Rhein geht.&#13;
-Streit um einen Hirsch, der zu Zeiten von Ludwig von Brandis von Wölfen gerissen wurde.&#13;
-3. Grenze Damüls - Sonntag.</p>
+        <p>Vertrag zwischen Maximilian I. und Graf Rudolf von Sulz über die Grenzen zwischen den Herrschaften Sonnenberg und Vaduz, zwischen den Herrschaften Schellenberg und Feldkirch beim Schmelzhof im Schaanwald und zwischen Damüls und Sonntag.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -40,11 +40,11 @@ Streit um einen Hirsch, der zu Zeiten von Ludwig von Brandis von Wölfen gerisse
       </textClass>
       <correspDesc>
         <correspAction type="sent">
-          <persName ref="lub-actors-4">Habsburg, Maximilian I. von</persName>
+          <persName ref="lub-actors-4">Maximilian I.</persName>
           <date when="1515-09-06">6. Sep 1515</date>
         </correspAction>
         <correspAction type="sent">
-          <persName ref="lub-actors-8">Sulz, Rudolf V. Graf von</persName>
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
           <date when="1515-09-06">6. Sep 1515</date>
         </correspAction>
       </correspDesc>
@@ -74,15 +74,15 @@ Streit um einen Hirsch, der zu Zeiten von Ludwig von Brandis von Wölfen gerisse
 <lb n="16"/>als zwischen der herrschafft <placeName ref="lub-places-10"><placeName ref="lub-places-10">Veltkirch</placeName></placeName>, auch der herrschafft <placeName ref="lub-places-7"><placeName ref="lub-places-7">Vadutz</placeName></placeName> und <placeName ref="lub-places-11"><placeName ref="lub-places-11">Schellennperg</placeName></placeName> als hernach volgt, nach dem bayd tail zwischen der hohen braiten Ruffin zu obrisst im Wald unnd dem <placeName ref="lub-places-381"><placeName ref="lub-places-381">Phanntbrunnen</placeName></placeName>, der zwayer benempten kant
 <lb break="no" n="17"/>lichen märckhen des wildhags halben span gehabt, unnd aber durch konntschafft ain grosser scheinparer marckhstain zwischen bemelten zwayer märckhen erfunden ist, der da steet unnder dem <placeName ref="lub-places-380"><placeName ref="lub-places-380">Schmelzhof</placeName></placeName>, unnder dem stall hinab,
 <lb n="18"/>unnder dem zawn im Egkh am Ryed, der für ainen marckhstain erkannt ist, auf sölhen angezaigten erfunden märckhen soll grave <persName ref="lub-actors-8"><persName ref="lub-actors-8">Ruedolff von Sulz</persName></persName> bey bemeltem hagstall unnd jagen, wie dann er unnd seine vorfordern
-<lb n="19"/>Veiten von <orgName ref="lub-actors-744">Branndiss</orgName> daz bysheer laut der khuntschafft ruewilligclich heerbracht und gebraucht haben, hinfür beleiben unnd dieweil zwischen bemelter hohen<gap/>ffin und dem marckhstain under dem <placeName ref="lub-places-380">Schmelzhof</placeName>, noch zwen marckh
+<lb n="19"/>vettern von <orgName ref="lub-actors-744">Branndiss</orgName> daz bysheer laut der khuntschafft ruewilligclich heerbracht und gebraucht haben, hinfür beleiben unnd dieweil zwischen bemelter hohen<gap/>ffin und dem marckhstain under dem <placeName ref="lub-places-380">Schmelzhof</placeName>, noch zwen marckh
 <lb break="no" n="20"/>stain anzaigt unnd erfunden worden sint, und under dem marckhstain ain marckh, genant der Wildgrab, auch für ain marckh anzaigt ist, so lasst man dieselben<gap/>märckhen noch beleiben in irem wesen unnd will inen hiemit nichts
 <lb n="21"/>genomen noch gegeben haben. So ist auch an bayder tail khuntschafft aigentlich erfaren, daz die märckh aus bemeltem <placeName ref="lub-places-381">Phanntbrunen</placeName> gat unnd<gap/>soll, entwerchs hinaus in <placeName ref="lub-places-382">Ganndenstain</placeName>, unnd vom <placeName ref="lub-places-382">Ganndenstain</placeName>
 <lb n="22"/>hinumb, hinüber in <placeName ref="lub-places-383">Gaempösch</placeName>, unnd von <placeName ref="lub-places-383">Gaempösch</placeName> zu alten <placeName ref="lub-places-384">Padprunen</placeName> zu <placeName ref="lub-places-267">Nofels</placeName>, unnd vom <placeName ref="lub-places-384">Padbrunnen</placeName> hinüber in daz Ryed in <placeName ref="lub-places-385">Hasenpach</placeName>, vom <placeName ref="lub-places-385">Hasenpach</placeName> hinab in den pach, genant <placeName ref="lub-places-386">Spürs</placeName>, unnd vom selben pach in <placeName ref="lub-places-103">Rein</placeName>, welher
-<lb n="23"/>yezgemelter marckhen bayde, obgenannte tail, also anainander bekenntlich unnd gestendig gewesen sein. Dann des hyrsch halben, so vor etlicher jaren im <placeName ref="lub-places-8">Schanwald</placeName> von wolfen nydergelegen ist, bey herrn Ludwigen von
-<lb n="24"/><orgName ref="lub-actors-744">Branndiss</orgName> zeiten, da ist bey grave <persName ref="lub-actors-8">Ruedolffen</persName> amptleuten unnd anwalden befunden, daz der auf kayserlichen mayestat obrigkaitten grunt unnd boden nydergelegen seye, damit grave <persName ref="lub-actors-8">Ruedolff</persName> von derselben ausprach auch gestanden
+<lb n="23"/>yezgemelter marckhen bayde, obgenannte tail, also anainander bekenntlich unnd gestendig gewesen sein. Dann des hyrsch halben, so vor etlicher jaren im <placeName ref="lub-places-8">Schanwald</placeName> von wolfen nydergelegen ist, bey herrn <persName ref="lub-actors-1670">Ludwigen von
+<lb n="24"/>Branndiss</persName> zeiten, da ist bey grave <persName ref="lub-actors-8">Ruedolffen</persName> amptleuten unnd anwalden befunden, daz der auf kayserlichen mayestat obrigkaitten grunt unnd boden nydergelegen seye, damit grave <persName ref="lub-actors-8">Ruedolff</persName> von derselben ausprach auch gestanden
 <lb n="25"/>ist. Dann des dritten spans, so sich gehalten hat auf <placeName ref="lub-places-70">Tamüls</placeName> unnd zum <placeName ref="lub-places-158">Sonnentag</placeName>, zwischen beruerter kayserlichen mayestat unnd grave <persName ref="lub-actors-8">Ruedolffen von Sulz</persName>, antreffent die obrigkait unnd gericht, auch den vorsst und wild
 <lb break="no" n="26"/>pann, dazwischen ist ain marckh gemacht. Nemblichen also, des erssten, daz für ain marckh gehalten sol werden der alt marckhstain, so am Mätsch auf dem Pühl in Hanns Kauffmans guet steet, unnd vom selben marckhstain soll die
-<lb n="27"/>marckh gan hinaus wert in <placeName ref="lub-places-390">Grasellen</placeName> tobel unnd pach, unnd demselben pach unnd tobel nach hinauf wie von alteerheer unnd von bemeltem marckhstain am <placeName ref="lub-places-391">Turtsch</placeName>, sol die marckh dem <placeName ref="lub-places-391">Turtschen</placeName> nach hinein gan durch die aussern
+<lb n="27"/>marckh gan hinaus wert in <placeName ref="lub-places-387">Grasellen</placeName> tobel unnd pach, unnd demselben pach unnd tobel nach hinauf wie von alteerheer unnd von bemeltem marckhstain am <placeName ref="lub-places-391">Turtsch</placeName>, sol die marckh dem <placeName ref="lub-places-391">Turtschen</placeName> nach hinein gan durch die aussern
 <lb n="28"/>unnd ynndern <placeName ref="lub-places-392">Funtnellen</placeName> bis in die marckh, die zwischen aman Spangls haws unnd stadel steet. Unnd dann hinuber am <placeName ref="lub-places-394">Garlut</placeName> in die Tharrn, unnd dem <placeName ref="lub-places-394">Garlut</placeName> hinuber in <placeName ref="lub-places-393">Seewald</placeName>, under dem see in die hochsten Koph. Unnd
 <lb n="29"/>was ob den yetzbestumbten marckhen von lewten unnd gut syzt unnd gelegen ist, daz soll der kayserlichen mayestat mit hohen unnd nydern gerichten gen <placeName ref="lub-places-70">Thamuls</placeName> in die herrschafft <placeName ref="lub-places-10">Veltkirch</placeName> zugehören, doch nit annders, dann
 <lb n="30"/>wie man an denen orten die gericht phligt gegenainannder zu gebrauchen, wie daz von altheer komen ist. Unnd was under den bemelten märckhen von lewten unnd guet gelegen ist, daz soll graf <persName ref="lub-actors-8">Ruedolffen von Sulz</persName>
