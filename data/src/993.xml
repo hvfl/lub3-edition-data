@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-993">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einer Bündt in Gamprin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-993">LI-PfABe, U 31</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 4. Februar 1606 / Beschreibstoff: Pergament / Siegel: fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Signer von Bendern und seiner Frau Ursula Bläsi verkaufen mit Hand von Ammann Hans Marxer einen Zins von 1fl. 15kr. ab ihrer Bündt zu Gamprin an Hans Heeb von Ruggell, Kirchenpfleger zu Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-832">Signer, Georg</persName>
+          <date when="1606-02-04">4. Feb 1606</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-833">Bläsi, Ursula</persName>
+          <date when="1606-02-04">4. Feb 1606</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-834">Marxer, Hans (3)</persName>
+          <date when="1606-02-04">4. Feb 1606</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-835">Heeb, Hans</persName>
+          <date when="1606-02-04">4. Feb 1606</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_31-0001.jpg" xml:id="lub-media-2479" source="pfabe-u-031-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_31-0002.jpg" xml:id="lub-media-2480" source="pfabe-u-031-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2479" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-832">Georg Signer</persName> zue <placeName ref="lub-places-36">Bendern</placeName> in der gräfflichen sulzischen  
+<lb n="2"/>herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> wohnhafft, undt mit mier <persName ref="lub-actors-833">Ursula Bläsin</persName> mein eheliche hausfraw, bekennen offentlich undt thuen kundt männiglich mit disem brieff,  
+<lb n="3"/>das wir mit vereinten gueten willen, wolbedachten sinn undt mueth, zue fürderung unsers nuzes, besonnder mit handt des ehrsamen undt weissen <persName ref="lub-actors-834">Hanßen  
+<lb n="4"/>Marxern</persName>, der zeit geschworner landtamman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, auffrecht undt redlich verkaufft undt zue kauffen geben haben, undt geben hiemit  
+<lb n="5"/>wissentlich in crafft diß brieffs dem erbaren <persName ref="lub-actors-835">Hannsen Hewen</persName> von <placeName ref="lub-places-2">Ruggel</placeName>, als verordneten pflegern unser <placeName ref="lub-places-312">Lieben Frawen</placeName> pfaarkirchen zue <placeName ref="lub-places-36">Ben
+<lb break="no" n="6"/>dern</placeName>, undt allen seinen nachkommenden kirchenpflegern, namblich ein gulden fünffzechen kreizer gelt, gueter costanzer münz, veldtkircher 
+<lb n="7"/>wehrung, rechts, ewigs, jarlichs zinß und gelts, von ausser und ab unser eigenen bündt zue <placeName ref="lub-places-328">Gambrin</placeName> under <persName ref="lub-actors-1678">Georg Haßlers</persName> hauß gelegen, stost  
+<lb n="8"/>gegen dem <placeName ref="lub-places-8">Schannwaldt</placeName> an die landtstraß, aufwerth dem landt nach an amman <persName ref="lub-actors-493">Wagnern</persName>, gegen dem <placeName ref="lub-places-103">Rehin</placeName> an <placeName ref="lub-places-638">Schleiffweg</placeName> und abwerth ahn  
+<lb n="9"/><persName ref="lub-actors-1679">Petter Mader</persName>, alles ab grundt, gradt, wun, waidt, stockh, stein, gesteundt, gereit, gengen, steegen, weegen undt gemainlich mit allen andern seinen  
+<lb n="10"/>rechten und zuegehorden, benandten undt unbenandten, auch ledig undt loß gegen männiglich. Unndt also ist der ewig, redlich kauff beschehen  
+<lb n="11"/>undt ergangen umb zwainzig und fünff gulden gelts, gueter vorgeschribner münz und wehrung, dero wier aller gar von ihnen, den keuffern, erbarlichen  
+<lb n="12"/>außgericht undt bezalt worden sein, nach unsern gueten vermüegen. Darumben so sollen undt wellen wir auch, alle unsere erben undt nachkom
+<lb break="no" n="13"/>men, oder wer das verschriben underpfandt nach unß immer inhat, nuzet undt braucht, den genandten <placeName ref="lub-places-312">Unser Lieben Frawen</placeName> pfarkirchen 
+<lb n="14"/>zue <placeName ref="lub-places-36">Bendern</placeName>, jezigen undt allen dessen nachkommenden pflegern den gesagten ain gulden und fünffzehen kreizer jarlichs zinß nun hinfüro  
+<lb n="15"/>ewiglichen undt alle jar järlichen auf unser lieben frawen <date when="0001-02-02">Liechtmeß</date> tag, acht tag vor oder darnach ohngefehrdlich, guetiglich außrichten,  
+<lb n="16"/>zinsen undt zue ieren sichern handen undt gewalt für allermänniglich verhefften, verbieten und endtwehren, geben undt antworten, ohn al
+<lb break="no" n="17"/>len ieren costen und schaden. Wan, wie, oder welches jars das aber also nit beschehe uber kurz oder lange zeit, so ist inen das obgemelt 
+<lb n="18"/>pfandt ganz zinßfällig worden, undt dannenhin mit grundt, gradt undt allen andern rechten, besserungen undt zuegehörden, zue rechtem   
+<lb n="19"/>ewigen eigen heimbgefallen undt verfallen, ohn unser, aller unser erben undt allermänniglichs von unsertwegen ierung und wider
+<lb break="no" n="20"/>sprechen. Undt hierauf des ewigen, redlichen kauffs umb zinßfellig undt für alle abgang undt minderung des obgemelten 
+<lb n="21"/>undterpfandts, auch haubtguets, zinß undt schadens undt aller vorgenandten ding, sollen und wöllen wier, mehrgesagte verkeuffer,  
+<lb n="22"/>auch alle unser erben undt nachkommen, dem genandten <placeName ref="lub-places-312">Unser Lieben Frawen</placeName> pfarkierchen zue <placeName ref="lub-places-36">Bendern</placeName>, jezigen undt nachkommenden  
+<lb n="23"/>pflegern recht, guet und getrew cräfftig geweren, fürsteher undt versprecher sein, vor dem richter und gericht, darunder obgenandt pfandt  
+<lb n="24"/>gelegen ist, wa, wie, wann, oder gegen wem, als offt undt dickh sie deß nach dem rechten und gericht, darunder obgenandt pfandt  
+<lb n="25"/>gelegen ist, wa, wie, wann, oder gegen wem, als offt undt dickh sie deß nach dem rechten immer bedürffen, alzeit in unserm eigenen  
+<lb n="26"/>costen undt ohne ieren schaden, bey gueten threwen, ohn alle widerred, aufzug undt gefehrd. Undt wiewol diser brief ein ewigen kauff  
+<lb n="27"/>außweist, dannach mögen wir, alle unsere erben undt nachkommen, den gestimbten ain gulden und fünffzehen kreizer gelts, jarlichs zinß  
+<lb n="28"/>von dem vorgenandten <placeName ref="lub-places-312">Unser Liebe Frawen</placeName> pfarkierchen jezigen undt nachkommenden pflegern wol wider kauffen undt ablösen nun  
+<lb n="29"/>fürterhin, wan undt welches jars wir wöllen, über kurz oder lange zeit, doch vor zinßfahl und auf unser lieben frawen <date when="0001-02-02">Liechtmeß</date> tag,  
+<lb n="30"/>achttag vor oder darnach ohngefar, sammethafft mit obgeschribenen haubtguet der zwainzig undt fünff gulden undt allweg mit gefahllen austendigen  
+<lb n="31"/>zinßen, auch gueter minz undt wehrung, alles ohn gefehrd. Undt deß zue urkundt haben wir, obgenandte verkeuffer, mit vleiß gebeten  
+<lb n="32"/>undt erbeten den obgenandt amman <persName ref="lub-actors-834">Hanß Marxern</persName>, das er sein eigen insigel für unß undt unsere erben (doch im undt seinen erben  
+<lb n="33"/>ohn schaden) offentlich gehenckht hat an disen brief, der geschehen <origDate>m<supplied>ont</supplied>ag nach unser lieben frawen Liechtmeß tag im jar nach Christi  
+<lb n="34"/>unnsers seligmachers geburt, gezalt sechzehenhundert undt <gap/>s etc.</origDate> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2480" n="1"/><lb n="1"/>Schuld-verschreibung  
+<lb n="2"/><persName ref="lub-actors-832">Georg Signer</persName> zu <placeName ref="lub-places-36">Bendern</placeName> per 25 fl. 
+<lb n="3"/><gap/> <placeName ref="lub-places-312">Unser Lieben Frawen</placeName> pfarrkürchen zu  <placeName ref="lub-places-36">Benderen</placeName>  
+<lb n="4"/>underpfandt  
+<lb n="5"/>ein bündt zu <placeName ref="lub-places-328">Gamprin</placeName> gelegen  
+<lb n="6"/>uff <date when="0001-02-02">Liechtmess</date> falt zünß 1 fl. 15 x. 
+<lb n="7"/>Anno <origDate>1606</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

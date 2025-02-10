@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="V">V: Verwaltungsschriftgut,  Signatur: <ref type="identifier" target="lub-objects-721">LI-LA, U 51</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1538 / Beschreibstoff: Papier / Heft, 33 Seiten, gebunden</witness>
+          <witness xml:id="A">A: Original,  Signatur: <ref type="identifier" target="lub-objects-721">LI-LA, U 51</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1538 / Beschreibstoff: Papier / Heft, 33 Seiten, gebunden</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,39 +40,39 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="li-la,_u_51-0001.jpg" xml:id="lub-media-1197" source="u-051-001.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0002.jpg" xml:id="lub-media-1198" source="u-051-002.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0003.jpg" xml:id="lub-media-1199" source="u-051-003.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0004.jpg" xml:id="lub-media-1200" source="u-051-004.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0005.jpg" xml:id="lub-media-1201" source="u-051-005.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0006.jpg" xml:id="lub-media-1202" source="u-051-006.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0007.jpg" xml:id="lub-media-1203" source="u-051-007.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0008.jpg" xml:id="lub-media-1204" source="u-051-008.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0009.jpg" xml:id="lub-media-1205" source="u-051-009.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0010.jpg" xml:id="lub-media-1206" source="u-051-010.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0011.jpg" xml:id="lub-media-1207" source="u-051-011.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0012.jpg" xml:id="lub-media-1208" source="u-051-012.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0013.jpg" xml:id="lub-media-1209" source="u-051-013.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0014.jpg" xml:id="lub-media-1210" source="u-051-014.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0015.jpg" xml:id="lub-media-1211" source="u-051-015.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0016.jpg" xml:id="lub-media-1212" source="u-051-016.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0017.jpg" xml:id="lub-media-1213" source="u-051-017.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0018.jpg" xml:id="lub-media-1214" source="u-051-018.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0019.jpg" xml:id="lub-media-1215" source="u-051-019.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0020.jpg" xml:id="lub-media-1216" source="u-051-020.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0021.jpg" xml:id="lub-media-1217" source="u-051-021.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0022.jpg" xml:id="lub-media-1218" source="u-051-022.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0023.jpg" xml:id="lub-media-1219" source="u-051-023.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0024.jpg" xml:id="lub-media-1220" source="u-051-024.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0025.jpg" xml:id="lub-media-1221" source="u-051-025.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0026.jpg" xml:id="lub-media-1222" source="u-051-026.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0027.jpg" xml:id="lub-media-1223" source="u-051-027.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0028.jpg" xml:id="lub-media-1224" source="u-051-028.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0029.jpg" xml:id="lub-media-1225" source="u-051-029.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0030.jpg" xml:id="lub-media-1226" source="u-051-030.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0031.jpg" xml:id="lub-media-1227" source="u-051-031.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0032.jpg" xml:id="lub-media-1228" source="u-051-032.jpg" corresp="V"/>
-    <graphic url="li-la,_u_51-0033.jpg" xml:id="lub-media-1229" source="u-051-033.jpg" corresp="V"/>
+    <graphic url="li-la,_u_51-0001.jpg" xml:id="lub-media-1197" source="u-051-001.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0002.jpg" xml:id="lub-media-1198" source="u-051-002.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0003.jpg" xml:id="lub-media-1199" source="u-051-003.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0004.jpg" xml:id="lub-media-1200" source="u-051-004.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0005.jpg" xml:id="lub-media-1201" source="u-051-005.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0006.jpg" xml:id="lub-media-1202" source="u-051-006.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0007.jpg" xml:id="lub-media-1203" source="u-051-007.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0008.jpg" xml:id="lub-media-1204" source="u-051-008.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0009.jpg" xml:id="lub-media-1205" source="u-051-009.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0010.jpg" xml:id="lub-media-1206" source="u-051-010.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0011.jpg" xml:id="lub-media-1207" source="u-051-011.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0012.jpg" xml:id="lub-media-1208" source="u-051-012.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0013.jpg" xml:id="lub-media-1209" source="u-051-013.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0014.jpg" xml:id="lub-media-1210" source="u-051-014.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0015.jpg" xml:id="lub-media-1211" source="u-051-015.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0016.jpg" xml:id="lub-media-1212" source="u-051-016.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0017.jpg" xml:id="lub-media-1213" source="u-051-017.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0018.jpg" xml:id="lub-media-1214" source="u-051-018.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0019.jpg" xml:id="lub-media-1215" source="u-051-019.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0020.jpg" xml:id="lub-media-1216" source="u-051-020.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0021.jpg" xml:id="lub-media-1217" source="u-051-021.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0022.jpg" xml:id="lub-media-1218" source="u-051-022.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0023.jpg" xml:id="lub-media-1219" source="u-051-023.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0024.jpg" xml:id="lub-media-1220" source="u-051-024.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0025.jpg" xml:id="lub-media-1221" source="u-051-025.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0026.jpg" xml:id="lub-media-1222" source="u-051-026.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0027.jpg" xml:id="lub-media-1223" source="u-051-027.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0028.jpg" xml:id="lub-media-1224" source="u-051-028.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0029.jpg" xml:id="lub-media-1225" source="u-051-029.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0030.jpg" xml:id="lub-media-1226" source="u-051-030.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0031.jpg" xml:id="lub-media-1227" source="u-051-031.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0032.jpg" xml:id="lub-media-1228" source="u-051-032.jpg" corresp="A"/>
+    <graphic url="li-la,_u_51-0033.jpg" xml:id="lub-media-1229" source="u-051-033.jpg" corresp="A"/>
   </facsimile>
   <text>
     <body>
@@ -162,10 +162,10 @@
 <lb n="66"/>Martini laut ains zeinsbrieffs viiii ß.d. 
 </p>
         <p><lb n="67"/>Gytt <persName ref="lub-actors-538">Liennhart Lyffer</persName> ii lib. xii ß.d. 
-<lb n="68"/><del>Item <persName ref="lub-actors-1562">Claus Liffers</persName> seligen erben und  
+<lb n="68"/><del>Item <persName ref="lub-actors-420">Claus Liffers</persName> seligen erben und  
 <lb n="69"/>ire mithelffer zeinßen</del> 
 </p>
-        <p><lb n="70"/>Mer zeinßen <persName ref="lub-actors-1562">Claus Liffers</persName> seligen  
+        <p><lb n="70"/>Mer zeinßen <persName ref="lub-actors-420">Claus Liffers</persName> seligen  
 <lb n="71"/>erben laut ains zeinsbrieffs xiiii ß.d.  
 </p>
         <p><lb n="72"/>Summa vii lib. xv ß.d.  

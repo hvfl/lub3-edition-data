@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-985">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Hof zu Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-985">LI-PfABe, U 15</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 11. November 1583 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Maurer, wohnhaft in Bendern, und seine Frau Margarethe Wanger verkaufen mit der Hand von Ammann Heinrich Quaderer einen Zins von 7 Schilling ab ihrem Haus und Hof in Bendern an Urban Hoop, Kirchenpfleger zu Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-810">Maurer, Georg</persName>
+          <date when="1583-11-11">11. Nov 1583</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-811">Wanger, Margarethe</persName>
+          <date when="1583-11-11">11. Nov 1583</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-246">Quaderer, Heinrich</persName>
+          <date when="1583-11-11">11. Nov 1583</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-812">Hoop, Urban</persName>
+          <date when="1583-11-11">11. Nov 1583</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_15-0001.jpg" xml:id="lub-media-2461" source="pfabe-u-015-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_15-0002.jpg" xml:id="lub-media-2462" source="pfabe-u-015-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2461" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-810">Georg Maurer</persName>, seßhafft zu <placeName ref="lub-places-36">Benndern</placeName>, unnd mit ime ich, <persName ref="lub-actors-811">Margretha Wangerin</persName> sein ehliche hausfraw, bekhennen offenlich für unns, all  
+<lb n="2"/>unnsere erben unnd nachkhomen, und thuen khundt allermenigclich mit disem briefe, das wir mit veraintem, freyem, gutem willen, wolbedachtem  
+<lb n="3"/>synn und muth, zu befürderung unsers beßern nuz, besonnder mit hannd deß ersamen und weysen <persName ref="lub-actors-246">Hainrichen Quaders</persName>, der zeyt aman der herrschafft  
+<lb n="4"/><placeName ref="lub-places-7">Vaduz</placeName>, ufrecht unnd redlich verkhaufft unnd zu khauffen gegeben haben. Unnd geben auch hiemit wißentlich in crafft diz briefs, dem erbern <persName ref="lub-actors-812">Urban Hoppen</persName>,  
+<lb n="5"/>als diser zeyt verordneter kirchenpfleger <placeName ref="lub-places-312">Unnser Lieben Frawen</placeName> pfarrkhirchen zu <placeName ref="lub-places-36">Benndern</placeName> unnd allen seinen nachkhomenden pflegern, namblichen  
+<lb n="6"/>siben schilling pfening guter costannzer münz veldtkhircher werung, rechts, steets, jerlichs zinß unnd pfening gelts, von ußer unnd ab unnserm aignen  
+<lb n="7"/>hauß, hofstatt unnd stadel, daselbst zu <placeName ref="lub-places-36">Benndern</placeName> gelegen, stoßt abwert dem land nach an unnser schwiger unnd muter <persName ref="lub-actors-1671">Agatha Herttnerin</persName>, zur andern seyten an  
+<lb n="8"/><persName ref="lub-actors-1672">Ullin Schreiber</persName>, zur dritten an die lanndtstras unnd zur vierten seyten an ander unnser der verzinßere aigen guth. Alles ab grund, gradt, veldt, wasen, wun, waid,  
+<lb n="9"/>tach, gemach, zymer, gemeur, stockh, stain, gesteut, gereuth, gengen, stegen, wegen unnd sonst gemainclich ab allen anndern derselben rechten unnd zugehörden,  
+<lb n="10"/>benenten unnd unbenennten, auch für frey, ledig, los unnd gegen allermenigclichen gannz unverkhümbert. Unnd also ist der ewig redlich kauf ergangen  
+<lb n="11"/>unnd beschehen benanntlichen umb siben pfunndt pfening obgeschribner werung, dern wir aller gar von ime, pflegern, außgericht unnd bezalt worden seind,  
+<lb n="12"/>nach unnserm willen unnd guten bemüegen. Darumben so sollen unnd wellen wir, alle unnsere erben unnd nachkhomen, den bestimbten zinß gesagten kheuffer  
+<lb n="13"/>unnd allen seinen nachkhomen pflegern diser, <placeName ref="lub-places-312">Unser Lieben Frawen</placeName>, pfarrkhirchen nunhinfürter ewigclich unnd alle jar jerlich uf sannt Marthins deß  
+<lb n="14"/>hayligen bischoffs tag, achttag vor oder nach ungevarlich, güetlich richten, zinsen unnd zu iren sichern hannden unnd gewalt geben unnd anndtwurtten,  
+<lb n="15"/>für allermenigclichs verhefften, verpieten und entweren, genzlich ohne allen iren costen und schaden. Wann, wie, oder welches jars das aber also nit  
+<lb n="16"/>beschehe, über khurz oder lanng zeyt, so seind inen die obgemelten underpfanndt in iren bestimbten marckhen begriffen, ganz zinsfellig worden. Und dannent
+<lb break="no" n="17"/>hin mit grund, gradt unnd allen andern iren obgenanten rechten, beßerungen unnd zugehörden, zu rechtem, ewigem aigen haimengevallen und vervallen, 
+<lb n="18"/>ohne unnser, all unnser erben und nachkhomen, auch allermenigclichs von unnsertwegen irrung unnd widersprechen ohn geverde. Und hierauf  
+<lb n="19"/>diz ewigen unnd redlichen kaufs umb zinsfellige, auch für all abganng unnd minderung der obgemelten underpfanndt, auch haubtguts, zinß, schadens und  
+<lb n="20"/>aller obgeschribner ding, sollen unnd wellen wir, dickh genannte verkheuffere, alle unnsere erben unnd nachkhomen deß gemelten pflegers, und allen andern  
+<lb n="21"/>seinen nachkhomenden pflegern ernannter pfarrkhirchen, recht gut unnd getrew crefftig gewern, schürm, fürstand unnd versprecher gegen allermenigclich  
+<lb n="22"/>vor dem richter unnd gericht, darunder obgemelte underpfanndt gelegen sein, nach recht, wo, wie, wenn, oder gegen wem, als offt unnd dickh sy das nach dem rechten  
+<lb n="23"/>ymer bedürffen, oder notturfftig werden, alvart in unnserm aignen costen unnd genzlich ohne iren schaden, bey guten trewen, ohne alle ein- unnd widerred, uf
+<lb n="24"/>zug unnd geverde. Unnd wiewol diser brief ainen ewigen kauf außweyßt unnd sagt, dannocht haben unns die mer gedacht pfleger disen volkhomnen gewalt  
+<lb n="25"/>geben unnd verwilliget. Also das wir, all unnsere erben unnd nachkhomen, auch allermenigclichs von unsertwegen, gemelte siben schilling pfening zinß, nun
+<lb break="no" n="26"/>hinfüro wann unnd welches jars, über khurz oder lanng zeyt wellen, doch allwegen vor zinsfal unnd auf sannct Marthins tag, achttag vor oder nach ungevar
+<lb break="no" n="27"/>lich, samenthafft mit den obgeschribnen siben pfundt pfening haubtgut, mitsambt gevallnen zinß, von ime unnd allen seinen nachkhomenden pflegern 
+<lb n="28"/>wol wider khauffen unnd ablösen mögen. Doch all wegen mit guter munz unnd werung, daran sy khainen verlurst noch abgang haben dörffen, ob sich  
+<lb n="29"/>die jezig münz in der zeyt verendern würde, getrewlich ungevarlich. Unnd deß zu warem unnd vesten urkhundt haben wir, obbekhennende beede ehe
+<lb break="no" n="30"/>personen, mit vleis unnd ernst erpetten den obgedachten aman <persName ref="lub-actors-246">Hainrich Quaderer</persName>, das er sein aigen innsigel, doch ime, aman unnd sein erben, ohne schaden, offen
+<lb break="no" n="31"/>lich gehenckht hat. Der geben ist uf <origDate>sannct Marthins deß hayligen bischofs tag nach Christi geburt gezalt fünffzehenhundert achzig unnd drey jar</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2462" n="1"/><lb n="1"/>Schuld-verschreibung. 
+<lb n="2"/>Von <persName ref="lub-actors-810">Georg Maurer</persName> zu <placeName ref="lub-places-36">Bendern</placeName> per 7 lb. dt. 
+<lb n="3"/>gegen <placeName ref="lub-places-312">Unser Lieben Frawen</placeName> pfarrkürchen zu <placeName ref="lub-places-36">Bendern</placeName>. 
+<lb n="4"/>Underpfandt  
+<lb n="5"/>hauß, hoffstatt und stadl, zu <placeName ref="lub-places-36">Benderen</placeName> gelegen. 
+<lb n="6"/>Uff Martini zünß 7 schilling dt. Anno 1583. 
+</p>
+        <p><lb n="7"/>Zünnßbrief <placeName ref="lub-places-312">Unnser Lieben Frawen</placeName> pfarrkhirchen zu  
+<lb n="8"/><placeName ref="lub-places-36">Benndern</placeName> von <persName ref="lub-actors-810">Georgen Maurer</persName> und seiner hauß
+<lb break="no" n="9"/>frawen daselbsten per 7 ß. d. jerlichs zinß.
+<lb n="10"/>1583. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

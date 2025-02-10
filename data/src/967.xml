@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-967">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zinsurbar der Kapelle St. Florin in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-967">LI-LA, RA 73/38/1</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeit: ca. 1613 / Beschreibstoff: Papier, 13 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Aufstellung der Personen, die Abgaben an Geld und Schmalz für St. Florin in Vaduz zwischen 1511 und 1613 leisteten mit Angabe der Höhe und Menge.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1613">1613</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_38_1-0001.jpg" xml:id="lub-media-1692" source="ra-73-38-1-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0002.jpg" xml:id="lub-media-1693" source="ra-73-38-1-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0003.jpg" xml:id="lub-media-1694" source="ra-73-38-1-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0004.jpg" xml:id="lub-media-1695" source="ra-73-38-1-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0005.jpg" xml:id="lub-media-1696" source="ra-73-38-1-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0006.jpg" xml:id="lub-media-1697" source="ra-73-38-1-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0007.jpg" xml:id="lub-media-1698" source="ra-73-38-1-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0008.jpg" xml:id="lub-media-1699" source="ra-73-38-1-s08.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0009.jpg" xml:id="lub-media-1700" source="ra-73-38-1-s09.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0010.jpg" xml:id="lub-media-1701" source="ra-73-38-1-s10.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0011.jpg" xml:id="lub-media-1702" source="ra-73-38-1-s11.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0012.jpg" xml:id="lub-media-1703" source="ra-73-38-1-s12.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_38_1-0013.jpg" xml:id="lub-media-1704" source="ra-73-38-1-s13.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1692" n="1"/><lb n="1"/>Zinß urbar  
+<lb n="2"/>des einkhomens <placeName ref="lub-places-210">Sanct Florini</placeName>  
+<lb n="3"/>zu <placeName ref="lub-places-1">Vaduz</placeName> an gellt und schmalz  
+<lb n="4"/>järlicher zinsen. 
+<lb n="5"/>Anno etc. 1613. 
+</p>
+        <p><pb facs="lub-media-1693" n="2"/><lb n="6"/>Verzaichnus <placeName ref="lub-places-210">Sanct Florini</placeName> einkhomens  
+<lb n="7"/>und briefen, so in desselben lad ligen, an  
+<lb n="8"/>pfennig und schmalz zinsen, so den pflegern  
+<lb n="9"/>einzuziechen anbefolchen. Anno etc. 1613. 
+</p>
+        <p><lb n="10"/>1.  
+<lb n="11"/><placeName ref="lub-places-1">Vaduz</placeName><lb n="12"/>1 lb. 2 ß.d. 
+<lb n="13"/>Erstlichen ain zinßbrief haltet ein 1 lb. 2 ß. 
+<lb n="14"/>lautet uff <persName ref="lub-actors-1633">Dieten</persName> und <persName ref="lub-actors-1584">Wolffen Weinzierlin</persName>,  
+<lb n="15"/>gebrueder, von usser ihren baumbgarthen  
+<lb n="16"/>zue <placeName ref="lub-places-1">Vaduz</placeName> im dorff gelegen, stost unden  
+<lb n="17"/>und zur ainen seithen an <persName ref="lub-actors-805">Hainrich Vaistlins</persName>  
+<lb n="18"/>seeligen erben, uffwerth an ander unser  
+<lb n="19"/>verkheuffer, <persName ref="lub-actors-805">Hainrich Vaistlins</persName> erben  
+<lb n="20"/>und <persName ref="lub-actors-1634">Albrecht Weinzierlins</persName> gemaine hofstath,  
+<lb n="21"/>gegen berg werth an <persName ref="lub-actors-1290">Hannß Strauben</persName>  
+<lb n="22"/>weibs und auch an <persName ref="lub-actors-1634">Albrecht Weinzierlins</persName>  
+<lb n="23"/>guetter. Datum anno 1501. No: 4. 
+<lb n="24"/>Litera D. 
+<lb n="25"/>Zinset iez <persName ref="lub-actors-1499">Hannß Weinzierlin</persName> sambt  
+<lb n="26"/>seiner eehhausfrawen <persName ref="lub-actors-1635">Margretha Hiltin</persName>  
+<lb n="27"/>zue gemelltem <placeName ref="lub-places-1">Vaduz</placeName> etc. 
+</p>
+        <p><lb n="28"/>2.  
+<lb n="29"/><placeName ref="lub-places-1">Vaduz</placeName><lb n="30"/>1 lb. v ß. 
+<lb n="31"/>Ithem ain zinßbrieff haltet 1 lb. 5 ß.  
+<lb n="32"/>lautet uf <persName ref="lub-actors-1636">Bastion Brandiser</persName> zue  
+<lb n="33"/><placeName ref="lub-places-1">Vaduz</placeName>, von usser ihrem aigen stuckh guet,  
+<lb n="34"/>in <placeName ref="lub-places-628">Vaduzer Veldt</placeName> gelegen, stost abwerth  
+<lb n="35"/>dem landt nach an <persName ref="lub-actors-1370">Theweß Frickhen</persName>, uf
+<lb break="no" n="36"/>Latus 2 lb. 7 ß.
+<pb facs="lub-media-1694" n="3"/>
+<lb n="37"/>werth gegen berg an die haimbgassen, uf
+<lb break="no" n="38"/>werth dem landt nach an <persName ref="lub-actors-1499">Hanß Weinzierlins</persName> 
+<lb n="39"/>guet, gegen <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1495">Oschwaldt Verlings</persName> kinder  
+<lb n="40"/>guet. Mehr ain stuckh wisen, uf <placeName ref="lub-places-373">Buxeraw</placeName>  
+<lb n="41"/>gelegen, stost gegen <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1637">Barthlin Hiltin</persName>,  
+<lb n="42"/>ufwerth dem landt nach an <persName ref="lub-actors-556">Petter Blenckhe</persName>,  
+<lb n="43"/>abwerth an <persName ref="lub-actors-1075">Jacob Tüntel</persName> und <persName ref="lub-actors-1313">Christa Ganzman</persName>,  
+<lb n="44"/>ufwerth an <placeName ref="lub-places-629">Schaner Awlin</placeName>. Datum anno 1586. 
+<lb n="45"/>No: 12. Litera N: 
+<lb n="46"/>Daran  
+<lb n="47"/>zinst iezt jung <persName ref="lub-actors-1219">Jeorg Thöni</persName> von <placeName ref="lub-places-1">Vaduz</placeName> jarlich  
+<lb n="48"/>14 ß. 6 d. Deßgleichen <persName ref="lub-actors-1355">Wolff Brandiser</persName>  
+<lb n="49"/>von <placeName ref="lub-places-53">Schan</placeName> 10 ß. 6. d. 
+</p>
+        <p><lb n="50"/>3.  
+<lb n="51"/><placeName ref="lub-places-53">Schan</placeName><lb n="52"/>1 lb. 4 ß. 
+<lb n="53"/>Ithem ain brief von <persName ref="lub-actors-1638">Hannß Neyer</persName> umb 1 lb. 4 ß.  
+<lb n="54"/>jarlichs zinß, wellicher aber gegen ama  
+<lb n="55"/><persName ref="lub-actors-229">Wallseren</persName> zue <placeName ref="lub-places-53">Schan</placeName> umb 1 ½ fl. järlichs  
+<lb n="56"/>zinß abgetauscht worden, lauth aines brieffß,  
+<lb n="57"/>so verhanden, anfangendt: "Ich <persName ref="lub-actors-1143">Hainrich Wag
+<lb break="no" n="58"/>ner</persName> zue <placeName ref="lub-places-53">Schan</placeName>, und mit ime ich, <persName ref="lub-actors-1639">Catharina 
+<lb n="59"/>Cuenrdin</persName> etc." Endet: "der geben ist uff st. Martis  
+<lb n="60"/>des hailligen bischoffs tag nach Christi ge
+<lb break="no" n="61"/>purth 1582." Unnderpfandt hauß und 
+<lb n="62"/>hoff zue <placeName ref="lub-places-53">Schan</placeName> an der <placeName ref="lub-places-630">Obern Gassen</placeName> gelegen,  
+<lb n="63"/>stost gegen dem <placeName ref="lub-places-103">Rein</placeName> an aman <persName ref="lub-actors-1470">Hainrich  
+<lb n="64"/>Quaderers</persName> hauß und hoff, inwerth gegen  
+<pb facs="lub-media-1695" n="4"/>
+<lb n="65"/><placeName ref="lub-places-1">Vaduz</placeName> ahn <persName ref="lub-actors-1077">Zynus Wagner</persName>, gegen dem berg  
+<lb n="66"/>an <persName ref="lub-actors-1421">Augustin Conradt</persName>, und außwerth  
+<lb n="67"/>an ain haimbgassen etc. Diser brief und  
+<lb n="68"/>die 1 ½ järlichs zinß gehörth aniezt <placeName ref="lub-places-210">St. 
+<lb n="69"/>Florino</placeName> für den obgesezden brief an <persName ref="lub-actors-1638">Hanß  
+<lb n="70"/>Neyer</persName> lutet und 1 lb. 4 ß. in sich haltet etc. 
+<lb n="71"/>No: 1. Litera A. 
+<lb n="72"/>Zinst jezt <persName ref="lub-actors-1143">Hainrich Wagners</persName> seelig hausfrau  
+<lb n="73"/>zue <placeName ref="lub-places-53">Schan</placeName>. 
+</p>
+        <p><lb n="74"/>4. <placeName ref="lub-places-53">Schan</placeName><lb n="75"/>1 lb.d. 
+<lb n="76"/>Ithem ain brief haltet in zinß 1 lb.d. lautet  
+<lb n="77"/>uf <persName ref="lub-actors-1640">Hannß Frumoldt</persName> den jungen zue <placeName ref="lub-places-53">Schan</placeName>  
+<lb n="78"/>von usser ainem aigen weingarth in <placeName ref="lub-places-233">Lattura</placeName>,  
+<lb n="79"/><placeName ref="lub-places-53">Schaner</placeName> kirchspel gelegen. Stost ufwerth gegen  
+<lb n="80"/>berg an <persName ref="lub-actors-1403">Jerg Jeger</persName>, abwerth dem landt  
+<lb n="81"/>nach an <persName ref="lub-actors-1495">Oschwaldts Verlings</persName> kinder guet, gegen  
+<lb n="82"/><placeName ref="lub-places-103">Rein</placeName> an elltern <persName ref="lub-actors-1219">Jeorg Thöni</persName> unnd uffwerth  
+<lb n="83"/>an <persName ref="lub-actors-1344">Petter Ballasers</persName> frawen weingarthen. 
+<lb n="84"/>Datum 1584. No: 3. litera C. 
+<lb n="85"/>Zinst iezt <persName ref="lub-actors-1641">Hainrich Walser</persName> zue <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="86"/>sambt seiner hausfrawen <persName ref="lub-actors-1642">Eelisabeth  
+<lb n="87"/>Quadererin</persName> etc. 
+</p>
+        <p><lb n="88"/>5. <placeName ref="lub-places-53">Schan</placeName><lb n="89"/>ain viertl schmalz,  
+<lb n="90"/>so die fruemeß zu 
+<lb n="91"/><placeName ref="lub-places-53">Schan</placeName> zinst. 
+<lb n="92"/>Ithem ain brief auf <persName ref="lub-actors-212">Gabriel Frickhen</persName> und <persName ref="lub-actors-297">Jeorg  
+<lb n="93"/>Thöni</persName> zue <placeName ref="lub-places-1">Vaduz</placeName> lautendt, 
+<lb n="94"/>halltet ain viertl schmalz von  
+<lb n="95"/>usser ainer halben hofraitin zue <placeName ref="lub-places-53">Schan</placeName> under 
+<lb n="96"/>des pfarrers hauß gelegen, stosst ufwerth  
+</p>
+        <p><lb n="97"/>Latus gelt 2 fl. 9 q. 2 kr. 2 d. 
+<lb n="98"/>schmalz 1 viertl 
+</p>
+        <p><pb facs="lub-media-1696" n="5"/><lb n="99"/>an die landtstrass, ußwerth an <persName ref="lub-actors-741">Eva  
+<lb n="100"/>Brütschin</persName>, niderwert an <persName ref="lub-actors-740">Pertter Frumoldts</persName>  
+<lb n="101"/>und seiner kinder guet, herwerth an  
+<lb n="102"/>der pfruendtguet. Datum anno etc. 1511. 
+<lb n="103"/>No: 5. Litera E. 
+</p>
+        <p><lb n="104"/>6. <placeName ref="lub-places-79">Trisen</placeName><lb n="105"/>1 lb.d. 
+<lb n="106"/>Ithem ain zinßbrief lautet uf <persName ref="lub-actors-448">Christan Pertsch</persName>  
+<lb n="107"/>zue <placeName ref="lub-places-79">Trisen</placeName>, haltet 1 lb.d. von usser und  
+<lb n="108"/>ab aigen stuckh weingarth und baumgarthen. 
+<lb n="109"/>Zue <placeName ref="lub-places-79">Trisen</placeName> gelegen, stossen in ainem ein
+<lb break="no" n="110"/>fang, uffwerth an <persName ref="lub-actors-997">Bastian Bertsch</persName> erben, 
+<lb n="111"/>gegen dem <placeName ref="lub-places-103">Rein</placeName> an aman <persName ref="lub-actors-347">Adam Frickh</persName>, ab
+<lb break="no" n="112"/>werth an <persName ref="lub-actors-538">Leonhardt Lifers</persName> brueder unnd 
+<lb n="113"/>schwager <persName ref="lub-actors-998">Jacob Lifer</persName>, gegen berg an <persName ref="lub-actors-1643">Jeorg  
+<lb n="114"/>Rigen</persName> witibs guet etc. Datum anno 1550 mit  
+<lb n="115"/>no: 2 und litera B. 
+<lb n="116"/>Zinst an iezt <persName ref="lub-actors-1331">Lucius Schurthi</persName> von <placeName ref="lub-places-79">Trisen</placeName> etc. 
+</p>
+        <p><lb n="117"/>7. <placeName ref="lub-places-79">Trisen</placeName><lb n="118"/>18 ß. Daruof  
+<lb n="119"/><placeName ref="lub-places-210">St. Florino</placeName> 3 ß.d. 
+<lb n="120"/>Ithem ain brief haltet 18 ß.d., lautet auf  
+<lb n="121"/><persName ref="lub-actors-1644">Fabian Pertsch</persName> von <placeName ref="lub-places-79">Trisen</placeName> und <persName ref="lub-actors-1645">Elsa Bürckhlin</persName>  
+<lb n="122"/>sein hausfraw, von usser ihr aigen halden,  
+<lb n="123"/><placeName ref="lub-places-636">Michel Bürckhlins Halden</placeName> genant. Zue <placeName ref="lub-places-79">Trisen</placeName>  
+<lb n="124"/>oben im dorff gelegen, zue dreyen seithen an  
+<lb n="125"/>die allmaindt und zur vierten seiten an  
+<lb n="126"/>ain gässlin. Datum anno 1547. No: 10. Litera L. 
+<lb n="127"/>NB. Disem brief ist nachzufragen, dann nicht  
+<lb n="128"/>mehr als 3 ß. järlichs eingenomen worden. 
+<lb n="129"/>Zue merckhen lautt brieffs nach seiner ausstailung gehört dem  
+<lb n="130"/>hailligen <placeName ref="lub-places-210">Florino</placeName> nit mehr alß 3 ß.d. 
+<lb n="131"/>Latus 1 lb. 18 ß. 
+</p>
+        <p><pb facs="lub-media-1697" n="6"/><lb n="132"/>8. <placeName ref="lub-places-79">Trisen</placeName><lb n="133"/>12 bazen. 
+<lb n="134"/>Ithem ain brieff, haltet 12 bazen, lautet  
+<lb n="135"/>uff <persName ref="lub-actors-1646">Luz Albrecht</persName> von <placeName ref="lub-places-79">Trisen</placeName>, von usser  
+<lb n="136"/>und ab aigen hauß und hoffe zue <placeName ref="lub-places-79">Trisen</placeName>  
+<lb n="137"/>im dorff gelegen, stost uffwert dem landt  
+<lb n="138"/>nach und gegen dem <placeName ref="lub-places-103">Rein</placeName> an ain haimbgass,  
+<lb n="139"/>abwerth dem landt nach an <persName ref="lub-actors-1647">Barthli Lamparts</persName>,  
+<lb n="140"/>und gegen dem berg an <persName ref="lub-actors-364">Petter Lamparts</persName>  
+<lb n="141"/>guet etc. Datum anno 1594 No: 13. Litera O. 
+<lb n="142"/>Zinsen iezt <persName ref="lub-actors-1646">Luz Albrechts</persName> seeligen kinder  
+<lb n="143"/>zue <placeName ref="lub-places-79">Trisen</placeName> 
+</p>
+        <p><lb n="144"/>9. <placeName ref="lub-places-41">Trisnerberg</placeName><lb n="145"/>1 lb. 5 ß. 
+<lb n="146"/>Ithem ain zinßbrief haltet zinß järlichs  
+<lb n="147"/>1 lb. 5 ß. und haubtguet 25 lb. Lautet  
+<lb n="148"/>auf <persName ref="lub-actors-484">Jerg Frumoldt</persName>, von usser und ab  
+<lb n="149"/>aigen stuckh guet, gelegen am <placeName ref="lub-places-41">Trißnerberg</placeName>,  
+<lb n="150"/>genant <placeName ref="lub-places-234">Underguet</placeName>, stost ufwerth dem land  
+<lb n="151"/>nach an die allmain und kilchweeg, gegen  
+<lb n="152"/>dem <placeName ref="lub-places-103">Rein</placeName> wider an die allmain und <persName ref="lub-actors-1149">Jeorg  
+<lb n="153"/>Pfeiffer</persName>, abwerth dem landt nach an <persName ref="lub-actors-1150">Ullin  
+<lb n="154"/>Oschwaldts</persName> guet, und ufwerth gegen dem  
+<lb n="155"/>berg aber an den kilchweeg, alles ab gruendt,  
+<lb n="156"/>Latus 2 fl. 3 b. 1 kr. 2 ½ d. 
+<pb facs="lub-media-1698" n="7"/>
+<lb n="157"/>gradt, veldt, wasen und waidt, mit allen  
+<lb n="158"/>seinen gerechtigkhaiten etc. Datum im jahr  
+<lb n="159"/>1594. No: 6. Litera F. 
+<lb n="160"/>Zinsen iez <persName ref="lub-actors-484">Georg Frumoldts</persName> seeligen kinder etc. 
+</p>
+        <p><lb n="161"/>10. 
+<lb n="162"/><placeName ref="lub-places-41">Trisnerberg</placeName><lb n="163"/>1 lb. 6 ß. 
+<lb n="164"/>Ithem ain zinßbrief, haltet 1 lb. 6 ß. lautet  
+<lb n="165"/>auf <persName ref="lub-actors-1648">Jeorg Frumoldt</persName> uff <placeName ref="lub-places-41">Trißnerberg</placeName> und  
+<lb n="166"/><persName ref="lub-actors-278">Ursula Hilbin</persName> sein hausfraw, von usser ihrem  
+<lb n="167"/>aignen stückh guet, in <placeName ref="lub-places-181">Rodten Boden</placeName> am <placeName ref="lub-places-41">Triß
+<lb break="no" n="168"/>nerberg</placeName> gelegen, stost ufwerth dem landt nach 
+<lb n="169"/>an <persName ref="lub-actors-1026">Jerg Gaßners</persName> guet, gegen <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-645">Hanß  
+<lb n="170"/>Negelins</persName> von <placeName ref="lub-places-1">Vaduz</placeName> guet, abwerth dem  
+<lb n="171"/>landt nach aber an Gaßners und an  
+<lb n="172"/><persName ref="lub-actors-645">Hannß Negelins</persName>, <persName ref="lub-actors-453">Ullrichs</persName> sohn, guet, und gegen  
+<lb n="173"/>berg an Gaßners guet, genant der  
+<lb n="174"/><placeName ref="lub-places-631">Wißlin</placeName> und an die allmain. Datum anno etc. 
+<lb n="175"/>1569. No: 7. Litera G. 
+<lb n="176"/>Zinset jez <persName ref="lub-actors-1649">Adam Lamparth</persName>, allt <persName ref="lub-actors-228">Thoman  
+<lb n="177"/>Lamparts</persName> sohn, uf dem <placeName ref="lub-places-41">Trißnerberg</placeName>. 
+</p>
+        <p><lb n="178"/>11.  
+<lb n="179"/><placeName ref="lub-places-41">Trißnerberg</placeName><lb n="180"/>15 ß.d. 
+<lb n="181"/>Ithem ain zinßbrief halt 15 ß.d. lautet  
+<lb n="182"/>uf <persName ref="lub-actors-645">Hannß Negelin</persName> uff dem <placeName ref="lub-places-634">Tobl</placeName> und <persName ref="lub-actors-1650">Lena  
+<lb n="183"/>Frumoldtin</persName>, sein hausfraw von usser ihrem  
+<lb n="184"/>aignen stückh guet, an der <placeName ref="lub-places-633">Eggen</placeName> an dem  
+<lb n="185"/><placeName ref="lub-places-41">Trißnerberg</placeName> gelegen, stosset  uffwerth  
+<lb n="186"/>dem landt nach an <persName ref="lub-actors-902">Adam Beckhen</persName>, gegen  
+<lb n="187"/>Latus 2 fl. 1 ß. 
+<pb facs="lub-media-1699" n="8"/>
+<lb n="188"/>dem <placeName ref="lub-places-103">Rein</placeName> an des <placeName ref="lub-places-637">Hilbis Tobl</placeName>, abwerth dem  
+<lb n="189"/>landt nach aber an <persName ref="lub-actors-902">Adam Beckhen</persName> und gegen  
+<lb n="190"/>berg an <persName ref="lub-actors-644">Ulli Hilbin</persName> etc. Datum anno etc. 1569. 
+<lb n="191"/>No: 8. Litera H. 
+<lb n="192"/>Zinst iezt <persName ref="lub-actors-1651">Franz Hilbin</persName> uf dem <placeName ref="lub-places-41">Trißnerberg</placeName> etc. 
+</p>
+        <p><lb n="193"/>12. 
+<lb n="194"/><placeName ref="lub-places-41">Trisnerberg</placeName><lb n="195"/>1 fl. 
+<lb n="196"/>Ithem ain zinßbrief, hellt in 1 fl., lautet  
+<lb n="197"/>uf <persName ref="lub-actors-1321">Thoman Beckhen</persName>, sesshafft uf <placeName ref="lub-places-475">Gurth
+<lb break="no" n="198"/>nalp</placeName>, von usser aignem stuckh guet am 
+<lb n="199"/><placeName ref="lub-places-632">Alesch</placeName> gelegen, stost uffwerth dem landt  
+<lb n="200"/>nach an <persName ref="lub-actors-1652">Christa Martins</persName> guet, gegen dem  
+<lb n="201"/><placeName ref="lub-places-103">Rein</placeName> an die <placeName ref="lub-places-235">Alp Gassen</placeName>, abwerth dem  
+<lb n="202"/>landt nach und gegen dem berg an <persName ref="lub-actors-1170">Martin  
+<lb n="203"/>Beckhen</persName> guet. Datum anno etc. 1581. No: 9.  
+<lb n="204"/>Litera K. 
+<lb n="205"/>Zinset iezt <persName ref="lub-actors-1028">Debus Kündlin</persName> von <placeName ref="lub-places-79">Trisen</placeName> als  
+<lb n="206"/>voggt <persName ref="lub-actors-1653">Christan Beckhen </persName>uf dem berg. 
+</p>
+        <p><lb n="207"/>13. 
+<lb n="208"/><placeName ref="lub-places-41">Trisnberberg</placeName><lb n="209"/>½ fl. 
+<lb n="210"/>Ithem ain zinßbrief haltet 1 fl., lautet  
+<lb n="211"/>uff <persName ref="lub-actors-1652">Christan Martin</persName> ufm <placeName ref="lub-places-41">Trißnerberg</placeName>  
+<lb n="212"/>in der <placeName ref="lub-places-635">Zechendtwiß</placeName> sesshafft, unnd  
+<lb n="213"/><persName ref="lub-actors-797">Ursula Dannerin</persName> sein hausfraw, von usser  
+<lb n="214"/>ihrem aigen hauß und hove in der <placeName ref="lub-places-635">Zechendt
+<lb break="no" n="215"/>wise</placeName> und <placeName ref="lub-places-79">Trisner</placeName> kilchspel gelegen, 
+<lb n="216"/>stost gegen <placeName ref="lub-places-103">Rein</placeName> werth an <persName ref="lub-actors-603">Hanß Beckhen</persName>,  
+<lb n="217"/>gegen berg und abwerths dem landt nach  
+<lb n="218"/>Latus 1 fl. 
+<pb facs="lub-media-1700" n="9"/>
+<lb n="219"/>an <persName ref="lub-actors-1318">Petter Lamparts</persName> seeligen erben unnd  
+<lb n="220"/>uffwerth dem landt nach an <persName ref="lub-actors-437">Hannß Thanners</persName>  
+<lb n="221"/>zue <placeName ref="lub-places-79">Trisen</placeName> seeligen erben etc. Datum anno etc.  
+<lb n="222"/>1575. No: 11. Litera M. 
+<lb n="223"/>Zinset iez<persName ref="lub-actors-1172"> Jeorg Beckh</persName>, <persName ref="lub-actors-1501">Thoni Wolffen</persName>  
+<lb n="224"/>schwager uf dem berg. 
+</p>
+        <p><lb n="225"/>14.  
+<lb n="226"/><placeName ref="lub-places-41">Trisnberberg</placeName><lb n="227"/>1 fl. 
+<lb n="228"/><persName ref="lub-actors-1654">Jacob Frumoldt</persName> ab dem <placeName ref="lub-places-41">Trißnerberg</placeName>, den  
+<lb n="229"/>man nembt, des Erblis Jacob, zinst jär
+<lb break="no" n="230"/>lich dem hailligen <placeName ref="lub-places-210">St. Florino</placeName> 1 fl. Ist ain 
+<lb n="231"/>brief darumben gewest, aber abhandt  
+<lb n="232"/>khomen. Ist gleichwol sein hauß und  
+<lb n="233"/>hof in sollichem brief eingesezt. 
+<lb n="234"/>NB. Er solle ainen andern brieff eeist  
+<lb n="235"/>aufrichten lassen etc. Der solle hierunder ein
+<lb break="no" n="236"/>gesezt und gezaichnet werden.
+<lb n="237"/>Latus 1 fl. 
+</p>
+        <p><pb facs="lub-media-1701" n="10"/><lb n="238"/><persName ref="lub-actors-1146">Petter Hiltin</persName> von <placeName ref="lub-places-1">Vaduz</placeName> hat auch ain brief  
+<lb n="239"/>aufgericht per 1 lb. järlichs zinß, so  
+<lb n="240"/>ab ainem ackher im <placeName ref="lub-places-218">undern Bovel</placeName> zue  
+<lb n="241"/><placeName ref="lub-places-53">Schan</placeName> gehn sollen. Ist der brief auch nit  
+<lb n="242"/>verhanden. Im fahl er nit mehr zue  
+<lb n="243"/>bekhomen, soll auch ain anderer aufge
+<lb break="no" n="244"/>richt und hierin gezaichnet werden.
+<lb n="245"/>Zinst iezt <persName ref="lub-actors-1485">Hannß Tanner </persName>von <placeName ref="lub-places-53">Schan</placeName> etc. 
+</p>
+        <p><lb n="246"/>Hernachfolgende sollen <placeName ref="lub-places-210">Sanct Florino</placeName><lb n="247"/>järlichs zinß, lauth jarzeitbuechs. 
+</p>
+        <p><lb n="248"/><persName ref="lub-actors-1655">Hannß Jeger</persName> zue <placeName ref="lub-places-1">Vaduz</placeName> sambt seiner  
+<lb n="249"/>hausfrawen, Barfla genant, soll lauth  
+<lb n="250"/>jarzeitbuechs järlichs zinß 3 ß.d. 
+</p>
+        <p><lb n="251"/>Ithem <persName ref="lub-actors-1488">Thomas Tobler</persName> zue <placeName ref="lub-places-1">Vaduz</placeName> zinst  
+<lb n="252"/>auch laut jarzeitbuechs järlich 8 ß.d. 
+</p>
+        <p><lb n="253"/>Ithem <persName ref="lub-actors-1371">Christa Frumoldt </persName>zue <placeName ref="lub-places-1">Vaduz</placeName><lb n="254"/>und Barfla sein hausfrau zinsen  
+<lb n="255"/>järlich luth jarzeitbuechs 3 ß. 
+</p>
+        <p><lb n="256"/>Ithem <persName ref="lub-actors-1656">Agatha Gorthi</persName> von <placeName ref="lub-places-166">beschissnen  
+<lb n="257"/>Möllß</placeName> zinst järlich luth jarzeit
+<lb break="no" n="258"/>buechs <placeName ref="lub-places-210">St. Florino</placeName> 10 ß.
+<lb n="259"/>Latus 2 lb. 4 ß. 
+</p>
+        <p><pb facs="lub-media-1702" n="11"/><lb n="260"/>Ithem <persName ref="lub-actors-1657">Margretha Dieprechtin</persName>, <persName ref="lub-actors-1658">Galluß  
+<lb n="261"/>Hemerlins</persName> witib zue <placeName ref="lub-places-1">Vaduz</placeName> soll  
+<lb n="262"/>järlich luth jarzeitbuechs 2 ß. 
+</p>
+        <p><lb n="263"/>Einkhomen ahn  
+<lb n="264"/>schmalz ausserhalb  
+<lb n="265"/>der fruemess. 
+<lb n="266"/><persName ref="lub-actors-1037">Jacob Bargezi</persName> von <placeName ref="lub-places-79">Trisen</placeName> zinst  
+<lb n="267"/>jarlich mit der allten Friesin, auch  
+<lb n="268"/>zue <placeName ref="lub-places-79">Trisen</placeName>, ab ainem baumbgarthen,  
+<lb n="269"/>wellicher sich nendt des <placeName ref="lub-places-642">Haugen  
+<lb n="270"/>Baumbgarth</placeName>, daselbsten an gellt 2 ß.  
+<lb n="271"/>an schmalz 6 lb. 
+</p>
+        <p><lb n="272"/><persName ref="lub-actors-1660">Fridli Gaßner</persName> zue <placeName ref="lub-places-1">Vaduz</placeName> gibt järlich  
+<lb n="273"/>an schmalz 3 lb. 
+</p>
+        <p><lb n="274"/><persName ref="lub-actors-1349">Moriz Billi</persName> von <placeName ref="lub-places-1">Vaduz</placeName> gibt järlich  
+<lb n="275"/>an schmalz, so von <persName ref="lub-actors-1143">Hainrich Wag
+<lb break="no" n="276"/>ner</persName> herruert 9 lb.
+<lb n="277"/>Latus gellt 4 ß. 
+<lb n="278"/>schmalz 18 lb. 
+</p>
+        <p><pb facs="lub-media-1703" n="12"/><lb n="279"/>Summarum alles järlichs  
+<lb n="280"/>einkhomen thuet an  
+<lb n="281"/>gellt 16 fl. 12 h. 3 d. 
+<lb n="282"/>schmalz 1 viertl 18 lb. 
+</p>
+        <p>
+          <pb facs="lub-media-1704" n="13"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

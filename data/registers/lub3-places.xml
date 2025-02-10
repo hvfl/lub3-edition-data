@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-01-11 14:49:54 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-02-10 15:35:39 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -75,6 +75,7 @@
             <placeName type="alternative" xml:lang="de">Raggell</placeName>
             <placeName type="alternative" xml:lang="de">Ruggäll</placeName>
             <placeName type="alternative" xml:lang="de">Roggell</placeName>
+            <placeName type="alternative" xml:lang="de">Roggäl</placeName>
             <location>
               <geo>47.23799 9.5254</geo>
               <settlement xml:lang="de">Ruggell</settlement>
@@ -122,12 +123,29 @@
             <placeName type="sort" xml:lang="de">vaduz (grafschaft)</placeName>
             <placeName type="alternative" xml:lang="de">Vadutz</placeName>
             <placeName type="alternative" xml:lang="de">Faduz</placeName>
-            <placeName type="alternative" xml:lang="de">Fadutz</placeName>
+            <placeName type="alternative" xml:lang="de">Fadutz, Vadnuz</placeName>
             <location>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">7</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Grafschaft_Vaduz"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q831378"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Vaduz-region-Liechtenstein"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4328009-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/236520934"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl><ref target="https://historisches-lexikon.li/Vaduz_(Grafschaft">HLFL</ref>)</bibl>
@@ -273,6 +291,7 @@
             <placeName type="alternative" xml:lang="de">Schellennberg</placeName>
             <placeName type="alternative" xml:lang="de">Schellenberrg</placeName>
             <placeName type="alternative" xml:lang="de">Schällenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Schellnperg</placeName>
             <location>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
@@ -294,11 +313,20 @@
             <placeName type="alternative" xml:lang="de">Pluemenegg</placeName>
             <placeName type="alternative" xml:lang="de">Pluemenegkh</placeName>
             <placeName type="alternative" xml:lang="de">Plumeneckh</placeName>
+            <placeName type="alternative" xml:lang="de">Plummeneckh</placeName>
             <location>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
             </location>
             <idno type="lub-places-id">12</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Blumenegg"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q886216"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl>
@@ -324,7 +352,10 @@
             <idno type="lub-places-id">13</idno>
             <listBibl>
               <bibl>
-                <ptr type="geonames" target="https://www.geonames.org/10348287"/>
+                <ptr type="geonames" target="https://www.geonames.org/2777208"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2241348"/>
               </bibl>
             </listBibl>
             <note type="sources">
@@ -340,6 +371,7 @@
             <placeName type="main" xml:lang="de">Hohenems</placeName>
             <placeName type="full" xml:lang="de">Hohenems (Vorarlberg)</placeName>
             <placeName type="sort" xml:lang="de">hohenems</placeName>
+            <placeName type="alternative" xml:lang="de">Hochen Embs</placeName>
             <location>
               <geo>47.36121 9.68694</geo>
               <settlement xml:lang="de">Hohenems</settlement>
@@ -377,10 +409,22 @@
             <placeName type="sort" xml:lang="de">eschnerberg</placeName>
             <placeName type="alternative" xml:lang="de">Eschnerperg</placeName>
             <location>
+              <geo>47.240369013746 9.566169685958</geo>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">16</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Eschnerberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1367118"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803297966"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl>
@@ -410,6 +454,24 @@
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2843636"/>
               </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q82960"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Rottweil"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80067540"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007104"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4050742-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/312797851"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Seit dem Mittelalter bestand in Rottweil das kaiserliche Hofgericht, welches für Zivilverfahren zuständig war. Das Hofrichteramt war erblich und wurde zwischen 1360 und 1687 von den Grafen von Sulz ausgeübt.</p>
@@ -424,9 +486,30 @@
             <placeName type="alternative" xml:lang="de">Kleggew</placeName>
             <placeName type="alternative" xml:lang="de">Cleggeuw</placeName>
             <location>
+              <geo>47.69382 8.50016</geo>
               <settlement xml:lang="de">Klettgau</settlement>
             </location>
             <idno type="lub-places-id">18</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3205662"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q694156"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4398925-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/8453148390852710830001"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Klettgau"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007545"/>
+              </bibl>
+            </listBibl>
             <note type="description" xml:lang="de">
               <p>Landschaft und Region im südbadischen Landkreis Waldshut und in den Schweizer Kantonen Aargau, Schaffhausen und Zürich.</p>
             </note>
@@ -437,6 +520,7 @@
             <placeName type="sort" xml:lang="de">innsbruck</placeName>
             <placeName type="alternative" xml:lang="de">Ynnsprug</placeName>
             <placeName type="alternative" xml:lang="de">Ynnsprugg</placeName>
+            <placeName type="alternative" xml:lang="de">Ynsprugg</placeName>
             <location>
               <geo>47.26266 11.39454</geo>
               <settlement xml:lang="de">Innsbruck</settlement>
@@ -781,6 +865,7 @@
             <placeName type="full" xml:lang="de">Eschen</placeName>
             <placeName type="sort" xml:lang="de">eschen</placeName>
             <placeName type="alternative" xml:lang="de">Eschach</placeName>
+            <placeName type="alternative" xml:lang="de">Öschen</placeName>
             <location>
               <geo>47.21071 9.52223</geo>
               <settlement xml:lang="de">Eschen</settlement>
@@ -946,6 +1031,9 @@
             <placeName type="alternative" xml:lang="de">Trysnerberg</placeName>
             <placeName type="alternative" xml:lang="de">Trüssnerberg</placeName>
             <placeName type="alternative" xml:lang="de">Trissnerberg</placeName>
+            <placeName type="alternative" xml:lang="de">Trißnerberg</placeName>
+            <placeName type="alternative" xml:lang="de">Trisnberberg</placeName>
+            <placeName type="alternative" xml:lang="de">Thrisner Berg</placeName>
             <location>
               <geo>47.11815 9.54197</geo>
               <settlement xml:lang="de">Triesenberg</settlement>
@@ -1153,6 +1241,36 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="A" xml:id="lub-places-47">
+            <placeName type="main" xml:lang="de">Sonnenberg</placeName>
+            <placeName type="full" xml:lang="de">Sonnenberg (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">sonnenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Sonnenburg</placeName>
+            <location>
+              <settlement xml:lang="de">Sonnenberg</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">47</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Grafschaft_Sonnenberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q537082"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Sonnenberg">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die im 15. Jahrhundert entstandene Grafschaft (später Herrschaft) Sonnenberg umfasste das Gebiet der heutigen Vorarlberger Gemeinden Frastanz und Nenzing (Kleine Gnoss) sowie Bürs, Bürserberg, Brand, Nüziders, Innerbraz, Dalaas, Klösterle und den Lecher Ortsteil Omesberg (Grosse Gnoss), bis 1695 auch das städtische Umland von Bludenz. Benannt ist sie nach der um 1410 von «Nüziders» in Sonnenberg umbenannten und 1473 zerstörten Burg.</p>
+            </note>
+          </place>
           <place type="A" xml:id="lub-places-48">
             <placeName type="main" xml:lang="de">Montafon</placeName>
             <placeName type="full" xml:lang="de">Montafon (Vorarlberg)</placeName>
@@ -1271,6 +1389,11 @@
               <country xml:lang="en">Switzerland</country>
             </location>
             <idno type="lub-places-id">51</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4033237"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl>
@@ -1616,6 +1739,8 @@
             <placeName type="alternative" xml:lang="de">Baltzers</placeName>
             <placeName type="alternative" xml:lang="de">Balthers</placeName>
             <placeName type="alternative" xml:lang="de">Baltterß</placeName>
+            <placeName type="alternative" xml:lang="de">Ballzers</placeName>
+            <placeName type="alternative" xml:lang="de">Ballzerss</placeName>
             <location>
               <geo>47.06665 9.50251</geo>
               <settlement xml:lang="de">Balzers</settlement>
@@ -1701,6 +1826,17 @@
               <country xml:lang="en">Switzerland</country>
             </location>
             <idno type="lub-places-id">73</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Grafschaft_Werdenberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1541835"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4196593-0"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl><ref target="https://historisches-lexikon.li/Werdenberg_(Grafschaft,_Landvogtei">HLFL</ref>)</bibl>
@@ -1856,6 +1992,7 @@
             <placeName type="main" xml:lang="de">Triesen</placeName>
             <placeName type="full" xml:lang="de">Triesen</placeName>
             <placeName type="sort" xml:lang="de">triesen</placeName>
+            <placeName type="alternative" xml:lang="de">Trießen</placeName>
             <placeName type="alternative" xml:lang="de">Trisen</placeName>
             <placeName type="alternative" xml:lang="de">Trissen</placeName>
             <placeName type="alternative" xml:lang="de">Drüssen</placeName>
@@ -1867,12 +2004,20 @@
             <placeName type="alternative" xml:lang="de">Thrüssen</placeName>
             <placeName type="alternative" xml:lang="de">Trissen</placeName>
             <placeName type="alternative" xml:lang="de">Trisan</placeName>
+            <placeName type="alternative" xml:lang="de">Trisner</placeName>
+            <placeName type="alternative" xml:lang="de">Trißen</placeName>
             <location>
+              <geo>47.10752 9.52815</geo>
               <settlement xml:lang="de">Triesen</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">79</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3042035"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
                 <bibl>
@@ -1965,6 +2110,45 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="A" xml:id="lub-places-83">
+            <placeName type="main" xml:lang="de">Graubünden</placeName>
+            <placeName type="full" xml:lang="de">Graubünden (Graubünden)</placeName>
+            <placeName type="sort" xml:lang="de">graubuenden</placeName>
+            <placeName type="alternative" xml:lang="de">Bindten</placeName>
+            <placeName type="alternative" xml:lang="de">Binden</placeName>
+            <location>
+              <geo>46.6587 9.62296</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">83</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2660522"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q11925"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Graubunden"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81003377"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007391"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/142538950/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4021881-8"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kanton_Graubünden"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="P" xml:id="lub-places-86">
             <placeName type="main" xml:lang="de">Küssaberg</placeName>
             <placeName type="full" xml:lang="de">Küssaberg (Baden-Württemberg)</placeName>
@@ -2038,6 +2222,7 @@
             <placeName type="main" xml:lang="de">Tirol</placeName>
             <placeName type="full" xml:lang="de">Tirol</placeName>
             <placeName type="sort" xml:lang="de">tirol</placeName>
+            <placeName type="alternative" xml:lang="de">Tyrol</placeName>
             <location/>
             <idno type="lub-places-id">96</idno>
             <listBibl>
@@ -2480,8 +2665,33 @@
             <placeName type="full" xml:lang="de">Burgund</placeName>
             <placeName type="sort" xml:lang="de">burgund</placeName>
             <placeName type="alternative" xml:lang="de">Burgundi</placeName>
-            <location/>
+            <location>
+              <geo>47.25 4.16667</geo>
+            </location>
             <idno type="lub-places-id">120</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3030967"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1173"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Burgundy"/>
+              </bibl>
+              <bibl>
+                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/03068a.htm"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79091183"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4129468-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/6603147786777368220009"/>
+              </bibl>
+            </listBibl>
             <note type="description" xml:lang="de">
               <p>Ehemaliges Herzogtum.</p>
             </note>
@@ -2493,8 +2703,16 @@
             <placeName type="alternative" xml:lang="de">Brabannt</placeName>
             <location/>
             <idno type="lub-places-id">121</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Brabant"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q227702"/>
+              </bibl>
+            </listBibl>
             <note type="description" xml:lang="de">
-              <p>Ehemaliges Herzogtum, heute Teil von Belgien und den Niederlanden.</p>
+              <p>Brabant (deutsch [bʁa'bant], niederländisch [ˈbraːbɑnt], französisch [bʁa.bɑ̃]) ist ein historisches Gebiet, das in etwa aus den belgischen Provinzen Antwerpen und Brabant (heute in Flämisch-Brabant, Wallonisch-Brabant und die Region Brüssel-Hauptstadt geteilt) sowie der im Süden der Niederlande gelegenen Provinz Noord-Brabant besteht.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-122">
@@ -2506,6 +2724,14 @@
               <country xml:lang="en">Croatia</country>
             </location>
             <idno type="lub-places-id">122</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Königreich_Dalmatien"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q698248"/>
+              </bibl>
+            </listBibl>
             <note type="description" xml:lang="de">
               <p>Ehemaliges Königreich, heute Teil von Kroatien.</p>
             </note>
@@ -2521,8 +2747,16 @@
               <country xml:lang="en">Croatia</country>
             </location>
             <idno type="lub-places-id">123</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Kroatien_im_Staatsverband_mit_Ungarn">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
             <note type="description" xml:lang="de">
-              <p>Ehemaliges Königreich</p>
+              <p>Seit Vladislav II. (1490–1516) gesellte sich zu dem ungarischen Königstitel „rex Dalmatiae et Croatiae“ (König Dalmatiens und Kroatiens) der Beisatz „et Slavoniae“ (und Slawonien). Infolge der türkischen Eroberung wurde ein Teil Slawoniens später (siehe oben) als „Kroatien“ von „Slawonien“ im engeren Sinn (Virovitica, Požega und Sirmien) geschieden. Die Türkenherrschaft verschlang großenteils diese Gebiete. Unter Kaiser Leopold I. wurde ganz Slawonien zurückerobert und im Karlowitzer Frieden 1699 an das Habsburgerreich abgetreten.</p>
+              <p>Im 15. Jahrhundert wurde fast ganz Kroatien von den Osmanen erobert und schrumpfte auf einen kleinen Streifen zwischen Adria und Drau. 1527 wählte der kroatische Sabor in der Burg Cetin „völlig frei und ohne fremde Beeinflussung“ Ferdinand I. von Habsburg zu ihrem König (siehe Charta von Cetingrad). Dabei erhofften sie sich eine effektivere militärische Hilfe bei der Verteidigung Kroatiens gegen die vordringenden Osmanen. Ferdinand I. sammelte Soldaten und stellte Geldmittel für Verteidigungszwecke zur Verfügung. Kroatien blieb seitdem mit kurzen Unterbrechungen in verschiedener Form bis zum Jahre 1918 unter der Herrschaft der Habsburger mit dem Königreich Ungarn vereinigt.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-124">
@@ -2813,6 +3047,7 @@
             <placeName type="alternative" xml:lang="de">Nüburrg</placeName>
             <placeName type="alternative" xml:lang="de">Newburg</placeName>
             <placeName type="alternative" xml:lang="de">Neyburg</placeName>
+            <placeName type="alternative" xml:lang="de">Newburg am Rein</placeName>
             <location>
               <geo>47.3244 9.62361</geo>
               <settlement xml:lang="de">Koblach</settlement>
@@ -3240,6 +3475,9 @@
             <placeName type="main" xml:lang="de">Böhmen</placeName>
             <placeName type="full" xml:lang="de">Böhmen</placeName>
             <placeName type="sort" xml:lang="de">boehmen</placeName>
+            <placeName type="alternative" xml:lang="de">Beheim</placeName>
+            <placeName type="alternative" xml:lang="de">Behaim</placeName>
+            <placeName type="alternative" xml:lang="de">Behmen</placeName>
             <location>
               <country xml:lang="de">Tschechien</country>
               <country xml:lang="en">Czech Republic</country>
@@ -3350,11 +3588,13 @@
           </place>
           <place type="V" xml:id="lub-places-168">
             <placeName type="main" xml:lang="de">Selvaplana</placeName>
-            <placeName type="full" xml:lang="de">Selvaplana / Balzers</placeName>
+            <placeName type="full" xml:lang="de">Selvaplana / Balzers und Triesen</placeName>
             <placeName type="sort" xml:lang="de">selvaplana</placeName>
             <placeName type="alternative" xml:lang="de">Selvaplon</placeName>
+            <placeName type="alternative" xml:lang="de">Salveplanen</placeName>
+            <placeName type="alternative" xml:lang="de">Salvaplann</placeName>
             <location>
-              <settlement xml:lang="de">Balzers</settlement>
+              <settlement xml:lang="de">Balzers und Triesen</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
@@ -3457,6 +3697,28 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/1086403401"/>
               </bibl>
             </listBibl>
+          </place>
+          <place type="V" xml:id="lub-places-180">
+            <placeName type="main" xml:lang="de">Weissen Blatten</placeName>
+            <placeName type="full" xml:lang="de">Weissen Blatten / Schaan / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">weissen blatten</placeName>
+            <placeName type="alternative" xml:lang="de">Weißen Blaten</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan / Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">180</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nicht genau lokalisierbar; im Grenzgebiet der Alpen Gritsch und Valüna (Triesen).</p>
+            </note>
           </place>
           <place type="S" xml:id="lub-places-181">
             <placeName type="main" xml:lang="de">Rotaboda</placeName>
@@ -3584,6 +3846,9 @@
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Luzern"/>
               </bibl>
             </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Eidgenössischer Ort. Luzern besass 1485–1493 die Herrschaften Werdenberg und Wartau.</p>
+            </note>
           </place>
           <place type="S" xml:id="lub-places-190">
             <placeName type="main" xml:lang="de">Masescha</placeName>
@@ -3922,7 +4187,7 @@
             <placeName type="main" xml:lang="de">St. Florin, Kapelle</placeName>
             <placeName type="full" xml:lang="de">St. Florin, Kapelle / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">st. florin, kapelle</placeName>
-            <placeName type="alternative" xml:lang="de">Sanct Florin</placeName>
+            <placeName type="alternative" xml:lang="de">Sanct Florin, St. Florino</placeName>
             <location>
               <geo>47.1364 9.5229</geo>
               <settlement xml:lang="de">Vaduz</settlement>
@@ -3988,7 +4253,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>1900 abgebrochene Pfarrkirche von Schaan, rund 200 Meter süflich der heuigen Kirche. Erhalten blieben nur der Turm und der Friedhof.</p>
+              <p>1900 abgebrochene Pfarrkirche von Schaan, rund 200 Meter südlich der heutigen Kirche. Erhalten blieben nur der Turm und der Friedhof.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-213">
@@ -4888,6 +5153,7 @@
             <placeName type="full" xml:lang="de">Steiermark</placeName>
             <placeName type="sort" xml:lang="de">steiermark</placeName>
             <placeName type="alternative" xml:lang="de">Steier</placeName>
+            <placeName type="alternative" xml:lang="de">Steyr</placeName>
             <location>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
@@ -4902,6 +5168,7 @@
             <placeName type="full" xml:lang="de">Kärnten</placeName>
             <placeName type="sort" xml:lang="de">kaernten</placeName>
             <placeName type="alternative" xml:lang="de">Kernten</placeName>
+            <placeName type="alternative" xml:lang="de">Kernthen</placeName>
             <location>
               <country xml:lang="de">Österreich</country>
               <country xml:lang="en">Austria</country>
@@ -4929,6 +5196,7 @@
             <placeName type="main" xml:lang="de">Württemberg</placeName>
             <placeName type="full" xml:lang="de">Württemberg</placeName>
             <placeName type="sort" xml:lang="de">wuerttemberg</placeName>
+            <placeName type="alternative" xml:lang="de">Wierttemberg</placeName>
             <location>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
@@ -5519,13 +5787,21 @@
             <placeName type="main" xml:lang="de">Slawonien</placeName>
             <placeName type="full" xml:lang="de">Slawonien</placeName>
             <placeName type="sort" xml:lang="de">slawonien</placeName>
+            <placeName type="alternative" xml:lang="de">Sclavonien</placeName>
             <location>
               <country xml:lang="de">Kroatien</country>
               <country xml:lang="en">Croatia</country>
             </location>
             <idno type="lub-places-id">294</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Slawonien#Geschichte">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
             <note type="description" xml:lang="de">
-              <p>Historische Region im Osten Kroatiens.</p>
+              <p>Das Zwischenstromland der Drau und Save geriet seit dem Emporkommen der kroatischen Fürsten unter deren Herrschaft und hieß ungarisch „Tótország“, „Slavonia“ im lateinischen, „windisches“ Land im deutschen Sprachgebrauch, zum Unterschied vom südlich angrenzenden Altkroatien (ung. „Horvátország“). Erst nach wiederholten Kämpfen mit dem byzantinischen Kaiserreich blieb das Gebiet seit 1165 endgültig in ungarischem Besitz. Seit Vladislav II. 1491–1516 gesellte sich dann zum ungarischen Königstitel rex Dalmatiae et Croatiae (Dalmatien und Hochkroatien) der Beisatz et Slavoniae.Die Grenzen des historischen Territoriums, auf das sich der Name Slawonien bezieht, haben sich im Laufe der Zeit deutlich verschoben. Im Mittelalter wurde der gesamte in der Donau- und Savetiefebene gelegene Teil des damaligen Königreiches Dalmatien, Kroatien und Slawonien als Slawonien (lateinisch Regnum Slavoniae) bezeichnet. Das politische Zentrum des mittelalterlichen Slawoniens war die heutige kroatische Hauptstadt Zagreb.Nachdem infolge der türkischen Eroberungen im 16. Jahrhundert der größte Teil des Königreiches Dalmatien, Kroatien und Slawonien mit Ausnahme des Gebietes um Zagreb vom Osmanischen Reich erobert worden war, wurde Kroatien von Slawonien im engeren Sinn (Virovitica, Požega und Sirmien) unterschieden. Zagreb wurde infolgedessen politisches Zentrum des Restgebietes, also des westlichen Teils des mittelalterlichen Slawoniens. Der Name Slawonien bezeichnet seitdem nur noch den östlichen Teil dieses Gebietes.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-295">
@@ -9211,6 +9487,7 @@
             <placeName type="full" xml:lang="de">Üenaboda / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">ueenaboda</placeName>
             <placeName type="alternative" xml:lang="de">Jonaboden</placeName>
+            <placeName type="alternative" xml:lang="de">Jona Boden</placeName>
             <location>
               <geo>47.11862 9.54119</geo>
               <settlement xml:lang="de">Triesenberg</settlement>
@@ -9297,6 +9574,7 @@
             <placeName type="alternative" xml:lang="de">Gränalp</placeName>
             <placeName type="alternative" xml:lang="de">Gurtnalp</placeName>
             <placeName type="alternative" xml:lang="de">Guerthnalp</placeName>
+            <placeName type="alternative" xml:lang="de">Gurthnalp</placeName>
             <location>
               <geo>47.12286 9.55352</geo>
               <settlement xml:lang="de">Triesenberg</settlement>
@@ -10275,23 +10553,16 @@
             </note>
           </place>
           <place type="H" xml:id="lub-places-519">
-            <placeName type="main" xml:lang="de">Letzibach</placeName>
-            <placeName type="full" xml:lang="de">Letzibach / Vaduz</placeName>
-            <placeName type="sort" xml:lang="de">letzibach</placeName>
-            <placeName type="alternative" xml:lang="de">Läuzerbach</placeName>
+            <placeName type="main" xml:lang="de">Lenzbach</placeName>
+            <placeName type="full" xml:lang="de">Lenzbach / Sennwald / Lienz</placeName>
+            <placeName type="sort" xml:lang="de">lenzbach</placeName>
+            <placeName type="alternative" xml:lang="de">Läntzerbach</placeName>
             <location>
-              <settlement xml:lang="de">Vaduz</settlement>
-              <country xml:lang="de">Liechtenstein</country>
-              <country xml:lang="en">Liechtenstein</country>
+              <settlement xml:lang="de">Sennwald / Lienz</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
             </location>
             <idno type="lub-places-id">519</idno>
-            <note type="sources">
-              <listBibl>
-                <bibl>
-                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
-                </bibl>
-              </listBibl>
-            </note>
           </place>
           <place type="V" xml:id="lub-places-520">
             <placeName type="main" xml:lang="de">Schuttenacker</placeName>
@@ -10518,6 +10789,7 @@
             <placeName type="full" xml:lang="de">Falgedin / Ruggell</placeName>
             <placeName type="sort" xml:lang="de">falgedin</placeName>
             <placeName type="alternative" xml:lang="de">Falgedyn</placeName>
+            <placeName type="alternative" xml:lang="de">Valgadin</placeName>
             <location>
               <settlement xml:lang="de">Ruggell</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -12346,6 +12618,7 @@
             <placeName type="main" xml:lang="de">Mettingen (Herrschaft)</placeName>
             <placeName type="full" xml:lang="de">Mettingen (Herrschaft) / Ühlingen-Birkendorf (Baden-Württemberg)</placeName>
             <placeName type="sort" xml:lang="de">mettingen (herrschaft)</placeName>
+            <placeName type="alternative" xml:lang="de">Metingen</placeName>
             <location>
               <geo>47.701892 8.346337</geo>
               <settlement xml:lang="de">Ühlingen-Birkendorf</settlement>
@@ -12448,6 +12721,21 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Wasserlauf südöstlich des Dorfes Eschen, im Riet, verläuft vom Ziegelmad in Nendeln nordwestlich nach Eschen, mündet beim Belzeböchel in die Esche.</p>
+            </note>
+          </place>
+          <place type="L" xml:id="lub-places-612">
+            <placeName type="main" xml:lang="de">Orosen Wuhr</placeName>
+            <placeName type="full" xml:lang="de">Orosen Wuhr / Schaan/Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">orosen wuhr</placeName>
+            <placeName type="alternative" xml:lang="de">Orosen Wuerli</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan/Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">612</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt, nicht im Namenbuch.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-613">
@@ -12775,6 +13063,264 @@
               <p>Wiesen, Häuser und Strasse im Dorf, nordöstlich der Kirche. Der Strassenname wird offiziell mit Präposition (Im Reberle) verwendet.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-628">
+            <placeName type="main" xml:lang="de">Feld</placeName>
+            <placeName type="full" xml:lang="de">Feld / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">feld</placeName>
+            <placeName type="alternative" xml:lang="de">Vaduzer Veldt</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">628</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Erwähnt 1586.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-629">
+            <placeName type="main" xml:lang="de">Schaaner Au</placeName>
+            <placeName type="full" xml:lang="de">Schaaner Au / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">schaaner au</placeName>
+            <placeName type="alternative" xml:lang="de">Schaner Awlin</placeName>
+            <location>
+              <geo>47.142708 9.511472</geo>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">629</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Äcker nordwestlich des Dorfes, westlich des Haberfelds, zwischen Kanal und Binnendamm. Vgl. auch Neufeld.</p>
+            </note>
+          </place>
+          <place type="R" xml:id="lub-places-630">
+            <placeName type="main" xml:lang="de">Obergass</placeName>
+            <placeName type="full" xml:lang="de">Obergass / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">obergass</placeName>
+            <placeName type="alternative" xml:lang="de">Obern Gassen</placeName>
+            <location>
+              <geo>47.16317 9.510448</geo>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">630</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Dorfteil und Strasse von der Landstrasse bei St. Peter vorbei bis zum Wegkreuz im Gebiet Bim Krüz. Vgl. auch † St. Petersgasse.</p>
+            </note>
+          </place>
+          <place type="L" xml:id="lub-places-631">
+            <placeName type="main" xml:lang="de">Wisli</placeName>
+            <placeName type="full" xml:lang="de">Wisli / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">wisli</placeName>
+            <placeName type="alternative" xml:lang="de">Wißlin</placeName>
+            <location>
+              <geo>47.1123 9.57151</geo>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">631</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref> ("Wisli 2")</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Häuser im Weiler Rotaboda.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-632">
+            <placeName type="main" xml:lang="de">Alesch</placeName>
+            <placeName type="full" xml:lang="de">Alesch / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">alesch</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">632</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt, nicht lokalisierbar.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-633">
+            <placeName type="main" xml:lang="de">Egga</placeName>
+            <placeName type="full" xml:lang="de">Egga / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">egga</placeName>
+            <placeName type="alternative" xml:lang="de">Eggen</placeName>
+            <location>
+              <geo>47.12465 9.54</geo>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">633</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10353590"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref> ("Egga 1")</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Häuser an der Strasse nach Rotaboda, nördlich von Gschind und Trischel 2.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-634">
+            <placeName type="main" xml:lang="de">Tobel</placeName>
+            <placeName type="full" xml:lang="de">Tobel / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">tobel</placeName>
+            <placeName type="alternative" xml:lang="de">Tobl</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">634</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>("Tobel 2")</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Häuser im Weiler Rotaboda.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-635">
+            <placeName type="main" xml:lang="de">Sennwis</placeName>
+            <placeName type="full" xml:lang="de">Sennwis / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">sennwis</placeName>
+            <placeName type="alternative" xml:lang="de">Zechendtwiß</placeName>
+            <placeName type="alternative" xml:lang="de">Zechendtwise</placeName>
+            <location>
+              <geo>47.11854 9.54516</geo>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">635</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10353635"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Häuser östlich oberhalb von Üenaboda, reicht bis zum Guferwald.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-636">
+            <placeName type="main" xml:lang="de">Michel Bürklins Halden</placeName>
+            <placeName type="full" xml:lang="de">Michel Bürklins Halden / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">michel buerklins halden</placeName>
+            <placeName type="alternative" xml:lang="de">Michel Bürckhlins Halden</placeName>
+            <location>
+              <settlement xml:lang="de">Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">636</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Gut im Oberdorf.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-637">
+            <placeName type="main" xml:lang="de">Hilbistobel</placeName>
+            <placeName type="full" xml:lang="de">Hilbistobel / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">hilbistobel</placeName>
+            <placeName type="alternative" xml:lang="de">Hilbis Tobl</placeName>
+            <location>
+              <geo>47.12231 9.53228</geo>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">637</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10353597"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Örtlich identisch mit Eichholztobel.</p>
+            </note>
+          </place>
+          <place type="R" xml:id="lub-places-638">
+            <placeName type="main" xml:lang="de">Schleifweg</placeName>
+            <placeName type="full" xml:lang="de">Schleifweg / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">schleifweg</placeName>
+            <placeName type="alternative" xml:lang="de">Schlaifweeg</placeName>
+            <placeName type="alternative" xml:lang="de">Schleiffweg</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">638</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nicht genau lokalisierbar. Gemäss den Belegen befindet sich ein solcher Schleifweg in Eschen und einer in Nendeln.</p>
+            </note>
+          </place>
           <place type="P" xml:id="lub-places-639">
             <placeName type="main" xml:lang="de">Landquart</placeName>
             <placeName type="full" xml:lang="de">Landquart (Graubünden)</placeName>
@@ -12803,6 +13349,59 @@
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Landquart_GR"/>
               </bibl>
             </listBibl>
+          </place>
+          <place type="L" xml:id="lub-places-642">
+            <placeName type="main" xml:lang="de">Haugen Baumgart</placeName>
+            <placeName type="full" xml:lang="de">Haugen Baumgart / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">haugen baumgart</placeName>
+            <placeName type="alternative" xml:lang="de">Haugen Baumbgarth</placeName>
+            <location>
+              <settlement xml:lang="de">Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">642</idno>
+            <note type="sources">-[LNB](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nicht lokalisierbar.</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-643">
+            <placeName type="main" xml:lang="de">Mülbach</placeName>
+            <placeName type="full" xml:lang="de">Mülbach / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">muelbach</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">643</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Bach von der Bleika durch Rietli, Üenaboda, Hofi, Müli und Leitawis. Im obersten Teil heisst er Bleikabach.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-644">
+            <placeName type="main" xml:lang="de">Steinbös</placeName>
+            <placeName type="full" xml:lang="de">Steinbös / Mauren</placeName>
+            <placeName type="sort" xml:lang="de">steinboes</placeName>
+            <placeName type="alternative" xml:lang="de">Stonbech</placeName>
+            <location>
+              <settlement xml:lang="de">Mauren</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">644</idno>
+            <note type="sources">-[LNB](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="description" xml:lang="de">
+              <p>Abfallende Wiesen mit Häusern im oberen Dorfteil, nordöstlich des Wegacker, westlich von Gaggalätsch und Neusträssle.</p>
+            </note>
           </place>
         </listPlace>
       </settingDesc>
@@ -12851,7 +13450,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-01-11T14:49:56+01:00">teiHeader was automatically produced from the database 2025-01-11T14:49:56+01:00</change>
+      <change when="2025-02-10T15:35:42+01:00">teiHeader was automatically produced from the database 2025-02-10T15:35:42+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

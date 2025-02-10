@@ -17,6 +17,11 @@
           <witness xml:id="B1">B1: Kopie (Insert), Signatur: <ref type="identifier" target="lub-objects-1030">LI-AAV, U 19</ref> (<orgName key="li-aav" ref="lub-objects-1029">Alparchiv Vaduz</orgName>) / Entstehungszeit: 20. Mai 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
           <witness xml:id="B2">B2: Kopie (Insert), Signatur: <ref type="identifier" target="lub-objects-470">LI-GAP, U 1</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Entstehungszeit: 20. Mai 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D50717">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

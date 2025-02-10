@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1118">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grenze zwischen den Alpen Valuna und Gritsch</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (notariell beglaubigte Abschrift), Signatur: <ref type="identifier" target="lub-objects-1118">LI-PfABe, U 29</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Entstehungszeitraum: 1. Juli 1601 / Beschreibstoff: Pergament / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Obervogt  des Grafen von Sulz,  Johann Jakob Beck,  erneuert einen Spruchbrief von Sigmund von Brandis aus dem Jahr 1474 die Grenzen zwischen Valüna und Gritsch betreffend</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-156">Alprecht</term>
+          <term ref="lub-keywords-207">Schneefluchtrecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-177">Beck, Johann Jakob (von)</persName>
+          <date when="1601-07-01">1. Jul 1601</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_29-0001.jpg" xml:id="lub-media-2475" source="pfabe-u-029-r.jpg" corresp="B"/>
+    <graphic url="li-pfabe__u_29-0002.jpg" xml:id="lub-media-2476" source="pfabe-u-029-v.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2475" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-177">Johann Jacob Beckh</persName>, kaiserlicher adprobir<supplied>ter</supplied> und exmmatriculirter notarius, dißer zeit gräflicher  
+<lb n="2"/>sultzischer obervogt der herrschafft <placeName ref="lub-places-608">Metingen</placeName>, und landtschreiber der <supplied>graf-</supplied> und herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Plummeneckh</placeName>. Bekhenne und thun  
+<lb n="3"/>kundt allermeniglich hiemit dißem offnen brieve, daß die ersamen, weisen <persName ref="lub-actors-229">Thoman Walßer</persName> von <placeName ref="lub-places-53">Schaan</placeName>, dißer zeit landtamman der grafschafft <placeName ref="lub-places-7">Vaduz</placeName>, und  
+<lb n="4"/><persName ref="lub-actors-232">Jörg Bürckhlin</persName> von <placeName ref="lub-places-53">Schaan</placeName>, deß gerichts, alß abgeordnete außschüz der gemeindt daselbsten, bey mir, alß kayßerlichen notario und geschwornen  
+<lb n="5"/>landtschreiber, angesucht, inen einen vertragsbrief, betreffendt die baide alpen <placeName ref="lub-places-132">Garetsch</placeName> und <placeName ref="lub-places-133">Vallülen</placeName>, der angeschrifft, anfange etwaß  
+<lb n="6"/>blaich und unleßlich zu werden, von neuwen abzucopiren, umbzuschreiben und zu vidimirn, und inen dessen glaubwürdigen schein anstatt deß rechten  
+<lb n="7"/>originals haben zugebrauchen, mitzutheilen. Demnach hab ich auß tragendem ambt und habender volmacht sollichen vertragsbrief empfangen,  
+<lb n="8"/>denselben verleßen und durchauß an pergamen, geschrifft und anhangendem insigel, ganz unversert und unargwönig, allein die dinten und buch
+<lb break="no" n="9"/>staben etwaß blaich, aber doch noch wol leßlich befunden, und lautet desselbig original von wort zue wortten also. Ich, <persName ref="lub-actors-233">Sigmundt frey
+<lb break="no" n="10"/>herr von Brandiß</persName>, bekhenn offenlich mit dißem brieve, alß dann die erbern gantze gemeindt von <placeName ref="lub-places-53">Schaan</placeName> an einem, und gantze gemeindt von <placeName ref="lub-places-79">Trißen</placeName> 
+<lb n="11"/>deß andern theils, etwaß spenn und uneinigkheit von den zweyen alpen wegen, <placeName ref="lub-places-132">Garetsch</placeName> und <placeName ref="lub-places-133">Vallülen</placeName>. Jedtweder theil vermeint, der ander  
+<lb n="12"/>im uf dem seinen geweidet gehelet haben. Darumb sy dann zum dickhern mal zu tagen und am letsten zu recht khommen seind. Und aber nun from, erbar leut  
+<lb n="13"/>darübert geredt und sy vom recht uf mich in der güetigkheit zurichten, alß iren natürlichen herrn betedinget haben in der gestalt, daß ich  
+<lb n="14"/>zu mir züehen müge, wer mir darzu gefellig ist. Und ich sy mitsambt den zugezognen, oder allein in der güetigkheit sollicher irer spen endtschaide,  
+<lb n="15"/>darbey sollen sy bleiben. Darumb sy mir zu baider seit ir geloptne trauw in mein handt gegeben haben, demnach zu khommen und zu halten, und von deß  
+<lb n="16"/>getreuwesten wegen und der weidern costung, auch uf beeder theil ernstlichs anrueffen, hab ich inen uf die stöß tag gesetzt und sy alda verhört, nach  
+<lb n="17"/>allen iren bemügen, auch entschaiden und von einandern gemarckhlert, wie dann hernach volgt. Item deß ersten so soll aller unwill darzwüschen ufer
+<lb break="no" n="18"/>standen, gantz todt abheißen sein und bleiben. Und ist die erst marckht in dem ursprung deß Brunes uf dem Stain bey der <placeName ref="lub-places-180">Weißen Blaten</placeName>, uß demselben brunnen 
+<lb n="19"/>den graben uf in ainge<gap/> marckhstein, uß demselben marckhstein uf gegen der rechten hand aber in ain gesetznen marckhstein. Und von demselbigen   
+<lb n="20"/>marckhstain grad aufn <gap/> höchsten spitz. Und da soll jedtwed<supplied>er</supplied> <supplied>the</supplied>il hünder den gestümpten marckhen bleiben, doch den von <placeName ref="lub-places-53">Schaan</placeName> ire schneflüchten,  
+<lb n="21"/>steg und weg, wie dann daß von alter herkhomen ist und sy gegen<supplied>eina</supplied>ndern gehalten haben, vorbehalten, so offt sy daß dann notürfftig werden und da
+<lb break="no" n="22"/>mit geschlicht und gericht sein und bleiben, alleß ungevorlich. <supplied>Al</supplied>leß zu wahrem urkhundt hab ich, <persName ref="lub-actors-233">Sigmundt freyherr von Brandiß</persName>, mein aigen 
+<lb n="23"/>insigel, doch mir und meinen erben ohne schaden offenlich lassen henckhen an dißen brief, der geben ist uf <date when="1474-07-11">montag nach sanct Ulrich deß heyligen  
+<lb n="24"/>bischoffs tag nach Christi geburt viertzehenhundert und im vier und sibentzigisten jare</date>. Und dißem nach, wann gegenwertige abschrifft durch  
+<lb n="25"/>mich, den notarium und geschwornen landtschreiber selbsten, gegen dem rechten waren original also collationirt und gerecht befunden. Hierumben  
+<lb n="26"/>so hab ich solliches in diße form gebracht und obligender geschefften halber durch meinen geschwornen substituten ingrossirn und schreiben lassen,  
+<lb n="27"/>zue welches waren urkhundt ich mein aigen unsigel hieunden angehangen, auch aigner handen underschriben und gewonlichen signet hieaufgetruckht,  
+<lb n="28"/>so geben und beschehen ist den e<origDate>rsten monats tag july nach Christi geburt im sechtzehenhundert und ersten jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2476" n="1"/><lb n="1"/>der gemeindt <placeName ref="lub-places-53">Schann</placeName> und <placeName ref="lub-places-79">Trießen</placeName>  
+<lb n="2"/>ihren allpen <placeName ref="lub-places-132">Garetsch</placeName> und <placeName ref="lub-places-133">Valülen</placeName>  
+<lb n="3"/>marckhen betreffende schneeflüchten etc. 
+<lb n="4"/>1474 
+</p>
+        <p><lb n="5"/>Gefunden untern  
+<lb n="6"/>schloß felsen 1799. 
+<lb n="7"/>Joseph Antony Ospelt 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

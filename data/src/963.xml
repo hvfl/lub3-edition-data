@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-963">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schreiben betreffend die Landsrettung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Extrakt, Signatur: <ref type="identifier" target="lub-objects-963">LI-LA, RA 73/29</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 30. Juni 1607 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Vorarlberger Amtleute bekräftigen angesichts der Unruhen in Graubünden die Konföderation mit den Herrschaften Vaduz und Schellenberg im Sinne der alten Ordnungen und Landsrettungen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-321">Militär</term>
+          <term ref="lub-keywords-84">Grenzsicherung</term>
+          <term ref="lub-keywords-378">Kreidenschuss</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1607-06-30">30. Jun 1607</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_29-0001.jpg" xml:id="lub-media-1677" source="ra-73-29-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_29-0002.jpg" xml:id="lub-media-1678" source="ra-73-29-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_29-0003.jpg" xml:id="lub-media-1679" source="ra-73-29-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_29-0004.jpg" xml:id="lub-media-1680" source="ra-73-29-s04.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1677" n="1"/><lb n="1"/>Extract. 
+<lb n="2"/>Auß der relation beschechner abhandlung, so der  
+<lb n="3"/>fürstlichen durchleucht erzhertzogen <persName ref="lub-actors-184">Maximillian</persName> zue  
+<lb n="4"/>Österreich etc. von den dreyen herrn vögten vor  
+<lb n="5"/>dem <placeName ref="lub-places-97">Arlberg</placeName> wegen jetzwerenden unrue in  
+<lb n="6"/>den <placeName ref="lub-places-83">Bindten</placeName> geschechen den <date when="1607-01-31">lezten Januarii  
+<lb n="7"/>anno 1607</date>. 
+</p>
+        <p><lb n="8"/>Unnd nach dem aber inhalt der alten ordnungen und landts
+<lb break="no" n="9"/>rettungen in der gleichen zueständen die herrn graven <orgName ref="lub-actors-7">von 
+<lb n="10"/>Sulz</orgName> wegen irer herrschafften <placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>,  
+<lb n="11"/>alß die negsten under der <placeName ref="lub-places-107">Staig</placeName>, endtzwischen dem schloß  
+<lb n="12"/><placeName ref="lub-places-13">Guettenberg</placeName> und der herrschafft <placeName ref="lub-places-10">Veldkirch</placeName> gelegen, je und  
+<lb n="13"/>allwegen sich mit und neben den arlbergischen herrschafften  
+<lb n="14"/>eingelaßen, mit ihnen gehebt und gelegt, alß haben wir  
+<lb n="15"/>herrn graven <persName ref="lub-actors-13">Carle Ludwigs von Sulz</persName> etc. beambten  
+<lb n="16"/>zue diser tagsazung auch beschriben, darauf dann sein, herrn  
+<lb n="17"/>graven, landtschreiber besagter herrschafft <placeName ref="lub-places-7">Vaduz</placeName> vor  
+<lb n="18"/>unß erscheinen. Deme wir, waß von euer fürstlich durchleucht  
+<lb n="19"/>unnß in bevelch aufgetragen, fürgehalten, zuemahlen  
+<lb n="20"/>auch, wie und waß gstalt sich die herrn graven <orgName ref="lub-actors-7">von Sulz</orgName>  
+<lb n="21"/>von alterhero mit den arlbergischen herrschafften je und  
+<lb n="22"/>alwegen confederiert, ettliche alte ordnungen für und ab
+<lb break="no" n="23"/>gelessen. Darüber auch von ime, wessen wier unnß 
+<lb n="24"/>auff begebende fähl gegen vermelten beeden herrschafften  
+<lb n="25"/>und ihnen, den beampten, zue getrösten, seiner erclör
+<lb break="no" n="26"/>ung begert.
+</p>
+        <p><lb n="27"/>Darauff er, der sulzisch landtschreiber, kurtzlichen angezaigt,   
+<lb n="28"/>weillen die sachen der massen beschaffen, das er und seine  
+<lb n="29"/>mitbeambten ein solches, wie es irendthalben gleich
+<lb break="no" n="30"/>wol die notturfft erforderte, ahn iren herrn um bevelch 
+<lb n="31"/>und beschaidt nit gelangen lassen könden und also peri
+<lb break="no" n="32"/>culum in mora, daß werckh kainen anstandt leiden möchte, 
+<lb n="33"/>hiebey auch, auß erschein und ableßung der alten ordnungen  
+<lb n="34"/>und landtsrettungen, so viel vermerckhte, daß sich  
+<lb n="35"/>die herrn graven <orgName ref="lub-actors-7">von Sulz</orgName> neben den arlbergischen öster
+<lb break="no" n="36"/>reichischen herrschafften in zuetragenden nothfahln jeder
+<lb break="no" n="37"/>zeit eingelassen und sich mit ihnen verbünden, so halte 
+<lb n="38"/>er gentzlich darfür, daß sein herr gleich selbsten gegewärt
+<lb break="no" n="39"/>ig, daß er es bey alter nachbarlicher vertrawlicher cor
+<lb break="no" n="40"/>respondenz allerdings verbleiben lassen und deß orts 
+<lb n="41"/>nichts, so altem herkomen endtgegen, fürnemen würdte. 
+</p>
+        <p><pb facs="lub-media-1678" n="2"/><lb n="42"/>Inmassen er sich dann schließlich dahin ohnerbiet und er
+<lb break="no" n="43"/>botten haben wolte, waß zue schuz und schirmung deß 
+<lb n="44"/>hochlöblichen hauß <orgName ref="lub-actors-172">Österreich</orgName>, derßelben underthanen und  
+<lb n="45"/>herrschafften immer dienlich und fürtügig, das er und  
+<lb n="46"/>seine mittbeampte, so starckh sie in iren anvertrowen  
+<lb n="47"/>herrschafften, diß orts ires thails nichtzit abgehn oder  
+<lb n="48"/>erwinden zuelassen. 
+</p>
+        <p><lb n="49"/>Hierüber wir in beysein bemelts sulzischen landtschreibers  
+<lb n="50"/>ferner berathschlaget und abgeredt, wann sich bey den  
+<lb n="51"/><placeName ref="lub-places-83">Binden</placeName>, wie gänzlich zue besorggen, waß beschwerlichs,   
+<lb n="52"/>thätlichs, oder widerwertigs zuetragen, es were, daß die  
+<lb n="53"/><orgName ref="lub-actors-515">13 Orth</orgName> mit bewerter handt die unririgen bindtischen  
+<lb n="54"/>bauwren überziehen, oder aber sie, die <orgName ref="lub-actors-1632">Bindter</orgName>, einen auß
+<lb n="55"/>oder einfahl gegen disen herrschafft zue thuen sich understhen  
+<lb n="56"/>und der vogt auff <placeName ref="lub-places-13">Guettenberg</placeName> dessen bericht  
+<lb n="57"/>empfangen würdt, etc., daß in eum eventum verög alter  
+<lb n="58"/>landtsrettungen und ordnungen, von stundtahn die  
+<lb n="59"/>drey gewohnliche kreyschüz, erstlich durch in den vogt  
+<lb n="60"/>auf <placeName ref="lub-places-13">Guettenberg</placeName>, hernach aufm schloß <placeName ref="lub-places-33">Vaduz</placeName> und  
+<lb n="61"/>zue <placeName ref="lub-places-36">Bendern</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName> im kirchenthurn, fürters  
+<lb n="62"/>im schloß zue <placeName ref="lub-places-10">Veldtkhirch</placeName> und dann, damit mans auf  
+<lb n="63"/><placeName ref="lub-places-139">Neyburg</placeName> desto leichter vernemen und hören möge, auch  
+<lb n="64"/>im thurn auß <placeName ref="lub-places-399">Tosters</placeName>. Deßgleichen gegen dem <placeName ref="lub-places-97">Arlberg</placeName>  
+<lb n="65"/>werths zue <placeName ref="lub-places-43">Nenzingen</placeName> und <placeName ref="lub-places-205">Bludenz</placeName>, nachgehendts auf  
+<lb n="66"/><placeName ref="lub-places-139">Neuburg</placeName>, <placeName ref="lub-places-14">Hochen Embs</placeName>, <placeName ref="lub-places-45">Bregenz</placeName>, wie von alterhero ergehn  
+<lb n="67"/>und beschechen sollen. Und darauf sobaldt solche khrey
+<lb break="no" n="68"/>schüz ergangen und gehört, so tags, so nachts eigene 
+<lb n="69"/>reidende bodten von einem ort zum andern geschickht,  
+<lb n="70"/>und wie die sachen beschaffen, bericht gethann, daß volckh  
+<lb n="71"/>in die wehr gemahnet, damit durch den obristen haubt
+<lb break="no" n="72"/>man inhalt und vermög ob ahngeregter, der in anno 1603 
+<lb n="73"/>aufgerichter ordnungen und landtrettunng, der zuezug  
+<lb n="74"/>und defension der manschafft, nach dem es die notturfft  
+<lb n="75"/>erfördert und es denselben für nottwendig und gut  
+<lb n="76"/>ansehen würdt, bestelt und fürgenomen werden möge. 
+</p>
+        <p><pb facs="lub-media-1679" n="3"/><lb n="77"/>Inn mitels aber sollen die sulzischen beampten daß schloß  
+<lb n="78"/><placeName ref="lub-places-33">Vaduz</placeName> gestrackhts nach erfolgten ersten <term ref="lub-keywords-378">kreyschuzen</term>  
+<lb n="79"/>nottürfftiglich besezen und mit iren übrigen  
+<lb n="80"/>ampts underthan so starckh sie khönnen und mögen, den  
+<lb n="81"/>paß und die gräniz under der <placeName ref="lub-places-107">Staig</placeName> und daselbst umb  
+<lb n="82"/>mit besten vorthel einnemben und dieselben neben den  
+<lb n="83"/>österreichischen underthonen, so inen in facto nachvolgen  
+<lb n="84"/>und zuegeschickht werden sollen, bewahren und erhalten  
+<lb n="85"/>helffen. 
+</p>
+        <p><lb n="86"/>Nota. 
+<lb n="87"/>Dißes der österreichischen ambtleut  
+<lb n="88"/>schreiben ist von ir fürstlich durchleucht erzherzog  
+<lb n="89"/><persName ref="lub-actors-184">Maximiliano</persName> ratificirt und geut gehaissen  
+<lb n="90"/>worden. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1680" n="1"/><lb n="1"/>Extract. 
+<lb n="2"/>Auß der relation, so der fürstlichen  
+<lb n="3"/>durchleucht erzherzogen <persName ref="lub-actors-184">Maximiliano</persName>  
+<lb n="4"/>zue Österreich etc. die herren drey  
+<lb n="5"/>vogt vorm <placeName ref="lub-places-97">Arlberg</placeName> wegen der  
+<lb n="6"/>bindtischen unruew und khriegs
+<lb break="no" n="7"/>ordnungen gethan, den lezten 
+<lb n="8"/>junii anno 1607, so weil die  
+<lb n="9"/>herrschafft <placeName ref="lub-places-7">Vaduz</placeName> unnd <placeName ref="lub-places-11">Schel
+<lb break="no" n="10"/>lenberg</placeName> anthrifft.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

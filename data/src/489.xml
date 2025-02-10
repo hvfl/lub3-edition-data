@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-489">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Wuhrstreit zwischen Vaduz und Schaan einerseits und Sevelen andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-489">LI-GAS, U 10</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 11. März 1566 / Beschreibstoff: Papier / Siegel: 2 Siegel, nur noch Spuren / Unterschriften von Jakob Schuler und Juvenalis Kreder (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>), AG III.2423:018 / Entstehungszeit: Ende 16. Jahrhundert / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42820">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Schuler, Glarner Ratsherr und derzeit Landvogt der Herrschaft Werdenberg, und Juvenalis Kreder, Landvogt der Herrschaften Vaduz, Schellenberg und Blumenegg, entscheiden die Konflikte zwischen dem Kirchspiel Sevelen einerseits und dem Kirchspiel Schaan und Vaduz andererseits, die entstanden waren, nachdem die Schaaner und Vaduzer ein von den Sevelern gestelltes Gesuch um Bewilligung zum Ausbau ihres untern Wuhrs abgelehnt hatten. Den Sevelern wird ein weiterer Ausbau des umstrittenen Wuhrs untersagt. Die Schaaner und Vaduzer sollen ihr weiter oben gelegenes kleines Streichwuhr abbrechen oder zumindest den mit Pfählen befestigen Reisighaufen beim Orosen Wuhr entfernen. Im Übrigen sollen die bestehenden Wuhrverträge in Kraft bleiben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-404">Streichwuhr</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-244">Schuler, Jakob</persName>
+          <date when="1566-03-11">11. Mär 1566</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1566-03-11">11. Mär 1566</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gas__u_10-0002.jpg" xml:id="lub-media-2212" source="gas-u-10-1-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_10-0002.jpg" xml:id="lub-media-2213" source="gas-u-10-2-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_10-0002.jpg" xml:id="lub-media-2214" source="gas-u-10-3-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_10-0002.jpg" xml:id="lub-media-2215" source="gas-u-10-4-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_10-0002.jpg" xml:id="lub-media-2216" source="gas-u-10-5-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2212" n="1"/><lb n="1"/>Wir mit namen <persName ref="lub-actors-244">Jacob Schueler</persName>, des raths zu <placeName ref="lub-places-72">Glaris</placeName><lb n="2"/>unnd der zeit lanndtvoggt der herrschafft <placeName ref="lub-places-73">Werdennberg</placeName>, und 
+<lb n="3"/><persName ref="lub-actors-24">Juvennalis Kreder</persName>, der zeit lanndtvoggt der herrschafftenn 
+<lb n="4"/><placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> unnd <placeName ref="lub-places-12">Pluemennegg</placeName>, bekhennen 
+<lb n="5"/>offennlich, gemainlich unnd unverschaidennlich unnd thuen 
+<lb n="6"/>kundt allermenigclich mit dem brief, als sich 
+<lb n="7"/>zwuschen unnsern ambtsunnderthonen, erstlich den nachpaurn 
+<lb n="8"/>des kilspels <placeName ref="lub-places-147">Sevelen</placeName> an ainem unnd den genachpaurten 
+<lb n="9"/>des kilspels <placeName ref="lub-places-53">Schan</placeName> unnd <placeName ref="lub-places-1">Vadutz</placeName> am anndern thail, volgennder 
+<lb n="10"/>sachen halben, wuerenns am <placeName ref="lub-places-103">Rein</placeName>, spenn unnd irrung 
+<lb n="11"/>zuegetragen, nemlich deren von <placeName ref="lub-places-147">Sevelen</placeName> fuertrag, nach
+<lb break="no" n="12"/>dem inen an irem unndern wuer zue wueren von nötten,
+<lb n="13"/>deshalben die von <placeName ref="lub-places-53">Schan</placeName> unnd <placeName ref="lub-places-1">Vadutz</placeName> vermög brief unnd sigel 
+<lb n="14"/>erfordert unnd zu solicher ir notturfft zuewueren zu
+<lb break="no" n="15"/>zelassen begert. Darauf die von <placeName ref="lub-places-53">Schan</placeName>
+<lb n="16"/>unnd <placeName ref="lub-places-1">Vadutz</placeName> anndtwurten liessen, sy haben gleichwoll 
+<lb n="17"/>ir anmuetten unnd begeren, bei diser unnd zuvor zway 
+<lb n="18"/>taglaistungen genuegsam verstannden unnd 
+<lb n="19"/>vermaindten, es were zuvor der ennden wider brief 
+<lb n="20"/>unnd sigel, auch iro unersuecht, gewuret worden, können 
+<lb n="21"/>dernwegen nichttzit darein bewilligen, es seye dann 
+<lb n="22"/>dasselbig zuvorderst wider hinweeg geschlissen, inmassen 
+<lb n="23"/>sy oberhalb auch thuen muessen. Wann soliches 
+<lb n="24"/>beschechen, wellen sy sich dann aller gepur halten. 
+<lb n="25"/>Unnd wiewoll sich die bemelten von <placeName ref="lub-places-147">Sevelen</placeName> widerumb 
+<lb n="26"/>beratschlagten unnd in irem fuerbringen beruemenn 
+<lb n="27"/>liessen, das inen selbiges vor verscheiner jaren guetlich  
+<pb facs="lub-media-2213" n="2"/>
+<lb n="28"/>unnd guetwillig vergonndt sey worden, desselben 
+<lb n="29"/>aber die von <placeName ref="lub-places-53">Schan</placeName> unnd <placeName ref="lub-places-1">Vadutz</placeName> nit bekhanndtlich sein wellen 
+<lb n="30"/>unnd besonnder sich auf jungsten spruch, auch anndere alte 
+<lb n="31"/>brief unnd sigel (weliche dann, wie man sich in solichen 
+<lb n="32"/>välen unnd notturfften halten solle, weysung unnd mass 
+<lb n="33"/>gebennd) getzogen, neben baider thailen vil mer fuer
+<lb break="no" n="34"/>wenndungen, so hie zuerzellen von unnötten. Dernhalben
+<lb n="35"/>ward die sach auf baiderthail pitten unnd begern durch unns 
+<lb n="36"/>austzesprechen (doch zu offner hannd) zu unnser guetlich 
+<lb n="37"/>erkhanndtnus gesetzt. Desselben wir unns 
+<lb n="38"/>auf vorgemelt ir pith unnd begern unnd sonnderm ge
+<lb break="no" n="39"/>naigten willen, damit frid, ainigkhait unnd guette nach
+<lb break="no" n="40"/>paurschafft gepflanntzt unnd erhalten, auch unnachpaurschafft,
+<lb n="41"/>mueh, cösten unnd scheden verhuet werde, sonnder guetwillig 
+<lb n="42"/>unnderfanngen. Also nach villem 
+<lb n="43"/>irem fuerbringen, auch einnemung des augennscheins, 
+<lb n="44"/>so wir in der mitlern taglaistung besichtigt, haben 
+<lb n="45"/>wir unns ainer guetlichen, ainhelligen erkhanndtnus berat
+<lb break="no" n="46"/>schlagt unnd enndtschlossen, so wir in schrifft verfassen
+<lb n="47"/>unnd in bei wesen baider thail fuerläsen lassen. So 
+<lb n="48"/>also lauth nemlich: Das unangesechen angeregts 
+<lb n="49"/>streits, die von <placeName ref="lub-places-147">Sevelen</placeName> die ross<note>Hier: Bauteile und Vorrichtungen, die als Träger oder Stützen dienen.</note> oder pöckh<note>Hier: Holzbock mit zwei Füssen, der zum Schutz des Ufers ins Wasser gestellt wird.</note>, so sy on ange
+<lb break="no" n="50"/>suecht oder erlaubt gemacht, woll pessern unnd laden mögen,
+<lb n="51"/>doch aber one erlaubt lennger nit erstreckhen söllen, in
+<lb break="no" n="52"/>massen dann brief unnd sigel zuegeben. Dar
+<lb break="no" n="53"/>gegen auch deren von <placeName ref="lub-places-53">Schan</placeName> unnd <placeName ref="lub-places-1">Vadutz</placeName> aberkhenndt
+<lb n="54"/><term ref="lub-keywords-404">streichwuerli</term>, so oberhalb, sich schleissen sollen. Wann 
+<pb facs="lub-media-2214" n="3"/>
+<lb n="55"/>der hauffen reiss, so nechst am <placeName ref="lub-places-612">Orosen Wuerli</placeName> lige, hinweeg gethon, 
+<lb n="56"/>auch die pfell, so solich reiss aufgehebt, sovil muglich abgehawen 
+<lb n="57"/>werden, das selbiges alsdann furohin auch pleiben 
+<lb n="58"/>solle, one inred deren von <placeName ref="lub-places-147">Sevelen</placeName> unnd menigclichs. 
+<lb n="59"/>Es sollen auch alle uberige sachen wuerenns halben am 
+<lb n="60"/><placeName ref="lub-places-103">Rein</placeName> bei den voraufgerichten brief unnd sigelen pleiben. 
+<lb n="61"/>Unnd benanntlichen so soll auch yedtwederer thail den anndern 
+<lb n="62"/>mit schmaitz wortten oder beschuldigung, wider brief unnd 
+<lb n="63"/>sigel gehanndlet zehaben, genntzlich muessigen, auch beschechne 
+<lb n="64"/>sachen, so fueruber sein, berueen unnd pleiben lassen unnd 
+<lb n="65"/>furohin baide thail guette freundt unnd nachpauren pleiben, 
+<lb n="66"/>wie wir dann hieneben ernnstlich gebetten haben, doch 
+<lb n="67"/>zu baiden thailen herrschafften an deren privilegien, ober 
+<lb n="68"/>unnd herrlich-, auch recht unnd gerechtigkhaiten in albeg unver
+<lb break="no" n="69"/>griffen unnd unschedlich. Nach eröffnung
+<lb n="70"/>diser yetztgemelten unnser guetlichen erkhanndtnus habenn 
+<lb n="71"/>baide thail dieselbig durch ire verordnete ausschus zu frundt
+<lb break="no" n="72"/>lichem dannckh angenomen, darbei auch zuegesagt unnd
+<lb n="73"/>versprochen, war, vesst unnd steet, unverprechennlich zuhalten 
+<lb n="74"/>unnd nachtzekhomen, bei guetten trewen, one geverd. 
+<lb n="75"/>Unnd damit sy aber solicher guetlichen erkhanndtnus yetzt 
+<lb n="76"/>unnd hinnach bericht hetten, begerten baide thail an unns,  
+<lb n="77"/>baid lanndtvoggt, wir welten inen zwenn 
+<lb n="78"/>gleich lauttenndt brief aufrichten, auch mit aignen hannden 
+<lb n="79"/>unnderschreiben unnd mit unnsern pedtschieren verwaren, 
+<lb n="80"/>desselben wir unns auf gemelt ir pith bewilligten. 
+<pb facs="lub-media-2215" n="4"/>
+<lb n="81"/>Unnd des zu warem urkhundt haben wir zwen gleich
+<lb break="no" n="82"/>lauttenndt brief schreiben lassen, auch yeder sich
+<lb n="83"/>mit aignen hannden unnderschriben unnd mit unnsern 
+<lb n="84"/>pedtschieren verwart, nach verfertigung derselbenn 
+<lb n="85"/>yedem thail ainen zuegestelt (doch unns, allen unsern 
+<lb n="86"/>erben unnd nachkhomen in alweg on schaden). Geben 
+<lb n="87"/>unnd beschechen den <origDate>ailfften tag des monnats marti im 
+<lb n="88"/>funfftzechennhundert sechs unnd sechtzigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

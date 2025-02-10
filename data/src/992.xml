@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-992">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Revers über Zehntrechte in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-992">LI-PfABe, U 30</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 9. Juni 1603 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Öhri, Gerichtsgeschworener der Herrschaft Schellenberg, sowie Heinrich und Erasmus Fehr und Hans Hoop, alle drei von Ruggell und Ausgezogene dieser Gemeinde, bekennen, dass Simon Maurer, Abt des Klosters St. Luzi und Pfarrer von Bendern, den Korn- und Flachszehnten gegen einen jährlichen Zins von 70 Gulden der Gemeinde Ruggell geliehen hat. Siegler: Ammann Hans Wanger.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-148">Korn</term>
+          <term ref="lub-keywords-318">Flachs</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-828">Öhri, Hans (5)</persName>
+          <date when="1603-06-09">9. Jun 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-829">Fehr, Heinrich</persName>
+          <date when="1603-06-09">9. Jun 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-830">Fehr, Erasmus</persName>
+          <date when="1603-06-09">9. Jun 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-831">Hoop, Hans</persName>
+          <date when="1603-06-09">9. Jun 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-493">Wanger, Hans (3)</persName>
+          <date when="1603-06-09">9. Jun 1603</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-336">Maurer, Simon</persName>
+          <date when="1603-06-09">9. Jun 1603</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_30-0001.jpg" xml:id="lub-media-2477" source="pfabe-u-030-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_30-0002.jpg" xml:id="lub-media-2478" source="pfabe-u-030-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2477" n="1"/><lb n="1"/>Wir nachgenandte mit namen <persName ref="lub-actors-828">Hanß Öhrin</persName>, ge
+<lb break="no" n="2"/>richts geschworner der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, <persName ref="lub-actors-829">Heinrich</persName> und <persName ref="lub-actors-830">Eras</persName> die Feeren, und 
+<lb n="3"/><persName ref="lub-actors-831">Hanns Hopp</persName>, alle von <placeName ref="lub-places-2">Ruggell</placeName> und außgezogne von derselben gemaindt, bekhennen  
+<lb n="4"/>hiemit offentlich, thuen kundt manniglich mit undt in crafft diß brieffs, dem
+<lb break="no" n="5"/>nach der ehrwürdig und gaistlich herr, herr <persName ref="lub-actors-336">Simon</persName>, erwelter undt bestetter zue  
+<lb n="6"/>abbt deß würdigen gotteshauß <orgName ref="lub-actors-337">St. Lanzi</orgName>, ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, praemonß
+<lb break="no" n="7"/>trator ordens, und pfarrherr zue <placeName ref="lub-places-36">Bendern</placeName>, auf unser hochflehenlich bitten und an
+<lb break="no" n="8"/>suechen, unß undt der gemaindt zue <placeName ref="lub-places-2">Ruggell</placeName> den järlichen korn und flachs ze
+<lb break="no" n="9"/>hendt daselbst, so lang ir gnaden in leben undt regierung (derselben nachkhom
+<lb break="no" n="10"/>mende herrn praelatten an den zehendten gerechtigkheit solchen zue mindern, oder 
+<lb n="11"/>zue mehren nichts benommen) auß gnaden und erhaltung gueter nachbarschafft unndt  
+<lb n="12"/>kheiner gerechtigkheit willen geliehen und verlihen hatt, laut eines pargementinen lehen
+<lb break="no" n="13"/>brieffs, dessen anfang: Wir <persName ref="lub-actors-336">Simon</persName>, von gottes verhengnus erwohlter undt bestetter 
+<lb n="14"/>zue abbt deß würdigen gotteshauß <orgName ref="lub-actors-337">St. Luzi</orgName>, ob der statt <placeName ref="lub-places-175">Chur</placeName> gelegen, praemon
+<lb break="no" n="15"/>strator ordens undt pfarrher zue <placeName ref="lub-places-36">Bendern</placeName>, bekhennen hiemith unndt thuen. So geschechen den 
+<lb n="16"/><date when="1603-06-09">neunten tag brachmonaths im jar nach Christi geburdt, gezalt sechzehenhundert und drey</date> etc. 
+<lb n="17"/>Also undt in der gestalt, das so lang ir gnaden im leben undt die praelatur administrie
+<lb break="no" n="18"/>ren oder verweßen, werden wir, die pfarrkindern und gemaindt zue <placeName ref="lub-places-2">Ruggell</placeName>, ohn ir gna
+<lb break="no" n="19"/>den undt deß gottshauß costen und schaden in den pfarrhoff zue <placeName ref="lub-places-36">Bendern</placeName> järlich undt alle 
+<lb n="20"/>jar auf st. Martins deß heyligen bischoffs tag, acht tag vor oder darnach ohngefer
+<lb break="no" n="21"/>de, fürgemelten korn- undt flachszehenden an gueten paaren gelt liffern und bezahl
+<lb break="no" n="22"/>en sollen, so viel als sybenzig guet gulden, gueter costanzer münz und veltkhirch
+<lb break="no" n="23"/>er wehrung, unndt das alle zeit und jar, so lang ir gnaden regierendt, das korn und 
+<lb n="24"/>flachs gerathe gleich wohl oder übel, es wachse viel oder wenig, oder das gott darvor seye,  
+<lb n="25"/>ganz nichs, das wir nichs dessto weniger die gemelte sybenzig gulden sollen zue
+<lb break="no" n="26"/>bezahlen schuldig sein etc. Das wir solchen part undt vertrag in nammen einer ganzen ehr
+<lb break="no" n="27"/>samen gemaindt, mit wissenden dingen und gueten freyen willen auf undt angenommen. 
+<lb n="28"/>Versprechen auch hiemit solchem verding, alles getrawen vleiß embsiglich und ihne alles  
+<lb n="29"/>hinderhalten nachzuekhommen und zuegeleben. Unndt dessen alles zue wahren urkhundt  
+<lb n="30"/>unndt gezeugnus haben wir in nammen einer ehrsamen gemaindt zue <placeName ref="lub-places-2">Ruggell</placeName> mit  
+<lb n="31"/>sondern vleiß gebetten und erbetten, den ehrsamen und weisen Hannsen Wangner, der  
+<lb n="32"/>zeit geschwornen landtamman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, das er sein gewonlich  
+<lb n="33"/>insigel für unsern undt der gemaindt nammen offentlich gehenckht hatt (doch ime  
+<lb n="34"/>und seinen erben und nachkhommen ohne schaden) an disen revers brieff, so geschechen  
+<lb n="35"/>denn <origDate>neuntten tag brachmonaths im jar nach Christi geburdt gezalt sechzehenhundert und  
+<lb n="36"/>drey</origDate> etc. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2478" n="1"/><lb n="1"/>Revers  
+<lb n="2"/>betreffendt den verlichenen korn
+<lb n="3"/>und flachszehendten. zue <placeName ref="lub-places-2">Ruggell</placeName><lb n="4"/>umb 70 fl. sub <persName ref="lub-actors-336">Simone</persName> abt. 1603. 
+</p>
+        <p><lb n="5"/>für ipso facto <gap/> contrahentis  
+<lb n="6"/><gap/> erkhläret durch den hochwol
+<lb break="no" n="7"/>gebornen herrn herrn <persName ref="lub-actors-122">Casparn graven 
+<lb n="8"/>zu Hohenembs </persName>etc. anno 1624, den 3. junii  
+<lb n="9"/>im Schloß zu <placeName ref="lub-places-33">Vaduz</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
