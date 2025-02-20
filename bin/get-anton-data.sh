@@ -7,7 +7,7 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 SRC_DIR=$1
 API_TOKEN=$2
-URL=https://lub.anton.ch/api/tei
+URL=https://lub.anton.ch/api
 
 entities=( actors places keywords )
 
