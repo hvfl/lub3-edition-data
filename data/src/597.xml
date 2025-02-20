@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-597">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Einsetzung von Wolfgang Brandiser als Kaplan am Florinsaltar in der Kapelle St. Florin in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-597">LI-LA, U 49</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1. Juni 1521 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Nikolaus Brendli, Domherr in Chur, verleiht als Stellvertreter von Propst Johannes Koler die Pfründe am St.-Florins-Altar in der Kapelle St. Florin in Vaduz, die durch den Tod von Gallus Brandiser freigeworden ist, auf Bitte von Graf Rudolf V. von Sulz, dem das Patronatsrecht gehört, dem Priester Wolfgang Brandiser.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1807">Brendli, Nikolaus</persName>
+          <date when="1521-06-01">1. Jun 1521</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_49-0001.jpg" xml:id="lub-media-519" source="u-049.jpg" corresp="A"/>
+    <graphic url="li-la,_u_49-0002.jpg" xml:id="lub-media-1192" source="u-049-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-519" n="1"/><lb n="1"/><persName ref="lub-actors-1807">Nicolaus Brenndli</persName>, canonicus ecclesie <placeName ref="lub-places-102">Curiensis</placeName> atque venerabilis et egregii viri domini <persName ref="lub-actors-1158">Johannis Koler</persName>, decretorum doctoris, prepositi eiusdem ecclesie <placeName ref="lub-places-102">Curiensis</placeName>, procurator et rerumgestor 
+<lb n="2"/>ad subscripta faciendum ab eodem plenum mandatum habens, universis et singulis presentium inspectoribus, quorum interest seu interesse poterit quomodolibet 
+<lb n="3"/>nunc et in futurum, salutem in domino cum notitia subscriptorum. Ad capellaniam sive altare beati <persName ref="lub-actors-1004">Florini</persName> confessoris in <placeName ref="lub-places-1">Vadodulci</placeName>, perrochie <placeName ref="lub-places-53">Schan</placeName>, <placeName ref="lub-places-175">Curiensis diocesis</placeName>, 
+<lb n="4"/>generosus dominus <persName ref="lub-actors-8">Ruodolffus comes de Sultz</persName>, lanndtgravius in <placeName ref="lub-places-18">Kleckhew</placeName> etc., <orgName ref="lub-actors-516">Sacri Romani Imperii</orgName> judex curialis in <placeName ref="lub-places-17">Rottwil</placeName>, dominus in <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-12">Bluo
+<lb break="no" n="5"/>menneckh</placeName> et <placeName ref="lub-places-11">Schellennberg</placeName>, qui jus patronatus seu presentandi capellanum ad dictam capellaniam vel altare racione dominii <placeName ref="lub-places-7">Vadutz</placeName> ad se pleno jure asserit
+<lb n="6"/>pertinere, honorabilem dominum <persName ref="lub-actors-449">Wolfgangum Branndisser</persName>, presbyterum eiusdem diocesis, pro capellano prefati altaris sancti <persName ref="lub-actors-1004">Florini</persName>, siti in capella <placeName ref="lub-places-1">Vadidulcis</placeName>, 
+<lb n="7"/>eidem domino preposito <placeName ref="lub-places-102">Curiensis</placeName> ordinario seu consuetudinario capellanorum dicte capelle investitori seu institutori seu michi procurio nomine quo supra 
+<lb n="8"/>per suas patentes litteras sigillo eius secreto munitas investiendum et instituendum legitime presentavit petens et requirens instanter, ut dictum dominum 
+<lb n="9"/><persName ref="lub-actors-449">Wolfgangum Brandisser</persName>, presbyterum, ad eandem capellaniam sancti Florini actu per obitum quondam domini <persName ref="lub-actors-1680">Galli Branndissers</persName> immediati eiusdem 
+<lb n="10"/>possessoris vacantem investire et instituere dignarer. Ego vero, petitioni et requisitioni huiusmodi predictis annuens et parere volens, ipsum dominum 
+<lb n="11"/><persName ref="lub-actors-449">Wolfgangum Branndisser</persName> prefatum auctoritate michi ab eodem domino preposito commissa ad dictam capellaniam seu altare sancti <persName ref="lub-actors-1004">Florini</persName> in <placeName ref="lub-places-1">Vadutz</placeName> 
+<lb n="12"/>(prestito tamen prius juramento corporali per eundem dominum <persName ref="lub-actors-449">Wolffgangum</persName> de obediendo prenominato domino preposito eiusque successoribus eorumque 
+<lb n="13"/>vicariis pro tempore existentibus in omnibus et singulis licitis et honestis atque de non alienando redditus et <unclear>proven</unclear>tus jura ac emolimenta dicte capel
+<lb break="no" n="14"/>lanie, sed potius deperdita recuperando) investiendium duco et investio atque instituo ipsum quoque presentium vigore in possessionem omnium et singulorum
+<lb n="15"/>bonarum, fructuum, proventuum et emolimentorum pretacte capellanie induco et induci volo. Datum <placeName ref="lub-places-102">Curie</placeName> anno domini millesimoquingentesimo vi
+<lb break="no" n="16"/>cesimo primo mensis vero junii die prima indictione nona sub sigillo prefati domini prepositi eiusque prepositure ecclesie <placeName ref="lub-places-102">Curiensis</placeName> sepedicte in fidem
+<lb n="17"/>et testimonium omnium et singulorum premissorum appenso. 
+        </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-1192" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

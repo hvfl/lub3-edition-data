@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-02-10 15:35:43 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-02-20 18:01:04 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-02-10T15:35:43+01:00">teiHeader was automatically produced from the database 2025-02-10T15:35:43+01:00</change>
+      <change when="2025-02-20T18:01:04+01:00">teiHeader was automatically produced from the database 2025-02-20T18:01:04+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -32,18 +32,22 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Grenze</label>
           <label xml:lang="de" type="sort">grenze</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-2">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Freizügigkeit</label>
           <label xml:lang="de" type="sort">freizuegigkeit</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-3">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Ausbürger</label>
           <label xml:lang="de" type="sort">ausbuerger</label>
           <note type="description" xml:lang="de">
             <p>Ausburger</p>
           </note>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-4">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -52,53 +56,75 @@
           <note type="description" xml:lang="de">
             <p>Steuer, Abgabe, inbesondere die Steuer, mit der die Landesherren die Reichssteuern auf die Untertanen umlegten.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=schnitz">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=schnitz">DRW</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://historisches-lexikon.li/Schnitz">HLFL</ref>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Schnitz">HLFL</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
         </item>
         <item xml:id="lub-keywords-7">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Steuer</label>
           <label xml:lang="de" type="sort">steuer</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-8">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Urfehde</label>
           <label xml:lang="de" type="sort">urfehde</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-9">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Zoll</label>
           <label xml:lang="de" type="sort">zoll</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-11">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Ehevertrag</label>
           <label xml:lang="de" type="sort">ehevertrag</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-13">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Diebstahl</label>
           <label xml:lang="de" type="sort">diebstahl</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-16">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Güterverkauf</label>
           <label xml:lang="de" type="sort">gueterverkauf</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-17">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Zins</label>
           <label xml:lang="de" type="sort">zins</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-18">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Türkenkrieg</label>
           <label xml:lang="de" type="sort">tuerkenkrieg</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-19">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Bürgschaft</label>
           <label xml:lang="de" type="sort">buergschaft</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-20">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -107,60 +133,82 @@
           <note type="description" xml:lang="de">
             <p>Nachrichter</p>
           </note>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-21">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Privileg</label>
           <label xml:lang="de" type="sort">privileg</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-26">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Erbschaft</label>
           <label xml:lang="de" type="sort">erbschaft</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-27">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Lehen</label>
           <label xml:lang="de" type="sort">lehen</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-28">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Haus</label>
           <label xml:lang="de" type="sort">haus</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-30">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Verkauf</label>
           <label xml:lang="de" type="sort">verkauf</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-32">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Untertanen</label>
           <label xml:lang="de" type="sort">untertanen</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-33">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Aufruhr</label>
           <label xml:lang="de" type="sort">aufruhr</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-34">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Frondienst</label>
           <label xml:lang="de" type="sort">frondienst</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-35">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Protestantismus</label>
           <label xml:lang="de" type="sort">protestantismus</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-38">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Walser</label>
           <label xml:lang="de" type="sort">walser</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-41">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Jagd</label>
           <label xml:lang="de" type="sort">jagd</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-42">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Türkensteuer</label>
           <label xml:lang="de" type="sort">tuerkensteuer</label>
           <note type="description" xml:lang="de">
             <p>Türkenhilfe</p>
           </note>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-46">
           <label xml:lang="de" type="main">Konflikt</label>
@@ -190,7 +238,7 @@
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">Schutz und Schirm</label>
           <label xml:lang="de" type="sort">schutz und schirm</label>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-66">
           <label xml:lang="de" type="main">Bauernkrieg 1525</label>
@@ -200,7 +248,7 @@
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">Öffnungsgeld</label>
           <label xml:lang="de" type="sort">oeffnungsgeld</label>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-74">
           <label xml:lang="de" type="main">Genossenschaft</label>
@@ -234,7 +282,7 @@
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">Frevel</label>
           <label xml:lang="de" type="sort">frevel</label>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-106">
           <label xml:lang="de" type="main">Schmalz</label>
@@ -256,7 +304,7 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Strasse</label>
           <label xml:lang="de" type="sort">strasse</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-127">
           <label xml:lang="de" type="main">Wirtshaus</label>
@@ -333,7 +381,7 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Einzäunung</label>
           <label xml:lang="de" type="sort">einzaeunung</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-161">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -342,7 +390,7 @@
           <note type="description" xml:lang="de">
             <p>Abgabe</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-162">
           <label xml:lang="de" type="main">Reichserbhofrichter</label>
@@ -440,7 +488,7 @@
           <note type="description" xml:lang="de">
             <p>Beerdigung</p>
           </note>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-212">
           <label xml:lang="de" type="main">Folter</label>
@@ -490,7 +538,7 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Delikt</label>
           <label xml:lang="de" type="sort">delikt</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-238">
           <label xml:lang="de" type="main">Strafe</label>
@@ -543,7 +591,7 @@
           <note type="description" xml:lang="de">
             <p>Fasnachthenne - Steuer</p>
           </note>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-263">
           <label xml:lang="de" type="main">Trunkenheit</label>
@@ -763,14 +811,18 @@
           <note type="description" xml:lang="de">
             <p>Weg, der von den Wohnstätten auf das Wies- und Weidland führt.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=heimweg&amp;firstterm=heimweg">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=heimweg&amp;firstterm=heimweg">DRW</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -782,13 +834,13 @@
           <note type="description" xml:lang="de">
             <p>Witwengut, Wittum, Witwensitz</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-341">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Silbergeschirr</label>
           <label xml:lang="de" type="sort">silbergeschirr</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-342">
           <label xml:lang="de" type="main">Kauf</label>
@@ -801,7 +853,7 @@
           <note type="description" xml:lang="de">
             <p>Finanzbeamter, Verwalter des Kammerguts</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-348">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -810,7 +862,7 @@
           <note type="description" xml:lang="de">
             <p>ungeteilte Gemeindebesitz an Weideland</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-349">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -819,7 +871,7 @@
           <note type="description" xml:lang="de">
             <p>Armenunterstützungseinrichtung, bei der Pfarrei und Gemeinde zusammenwirkten. Die Verwaltung der Spend oblag den "Spendmeistern" oder "Spendvögten".</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[HLFL](https://historisches-lexikon.li/Spend)</note>
         </item>
         <item xml:id="lub-keywords-350">
@@ -829,7 +881,7 @@
           <note type="description" xml:lang="de">
             <p>Befristetes, durch den Grundherrn kündbares Lehen.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-352">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -838,7 +890,7 @@
           <note type="description" xml:lang="de">
             <p>Eine Art Messer.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[Frühneuhochdeutsches Wörterbuch](https://fwb-online.de/lemma/patsch.s.0m?q=patsch&amp;page=1)</note>
         </item>
         <item xml:id="lub-keywords-353">
@@ -848,7 +900,7 @@
           <note type="description" xml:lang="de">
             <p>Trinkgesellschaft, Gastmahl, Essen und Trinken, Zeche, Rechnung</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[Grimm, Wörterbuch](https://woerterbuchnetz.de/?sigle=DWB&amp;lemid=U14785)</note>
         </item>
         <item xml:id="lub-keywords-357">
@@ -862,16 +914,22 @@
           <note type="description" xml:lang="de">
             <p>Vom Rechtsverband garantiertes Besitzrecht an Gütern; Recht auf unangefochtenen Besitz von Gütern, insbesondere nach Ablauf der Verjährungs- bzw. Ersitzungsfrist.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=landgewaehr">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=landgewaehr">DRW</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://fwb-online.de/lemma/landesgewer.s.1f">FWB</ref>
+                <bibl>
+                  <ref target="https://fwb-online.de/lemma/landesgewer.s.1f">FWB</ref>
+                </bibl>
               </bibl>
-              <bibl>Idiotikon</bibl>
+              <bibl>
+                <p>Idiotikon</p>
+              </bibl>
             </listBibl>
           </note>
         </item>
@@ -886,7 +944,7 @@
           <note type="description" xml:lang="de">
             <p>Unrechtmässig</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">Idiotikon</note>
         </item>
         <item xml:id="lub-keywords-362">
@@ -894,18 +952,24 @@
           <label xml:lang="de" type="main">Blume</label>
           <label xml:lang="de" type="sort">blume</label>
           <note type="description" xml:lang="de">
-            <p>Jährlicher Ertrag von Grundstücken, Einkünfte von einem Vermögen.</p>
+            <p>Jährlicher Ertrag von Grundstücken, Einkünfte aus einem Vermögen.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=blume">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=blume">DRW</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://fwb-online.de/lemma/blume.s.1">FWB</ref>
+                <bibl>
+                  <ref target="https://fwb-online.de/lemma/blume.s.1">FWB</ref>
+                </bibl>
               </bibl>
-              <bibl>Idiotikon</bibl>
+              <bibl>
+                <p>Idiotikon</p>
+              </bibl>
             </listBibl>
           </note>
         </item>
@@ -916,7 +980,7 @@
           <note type="description" xml:lang="de">
             <p>Jagdgewehr</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[FWB](https://fwb-online.de/lemma/pirs_ch_b%C3%BCchse.s.1f)</note>
         </item>
         <item xml:id="lub-keywords-364">
@@ -926,7 +990,7 @@
           <note type="description" xml:lang="de">
             <p>29. September. Beliebter Termin für Miet-, Pacht- oder Zinszahlungen.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-365">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -935,7 +999,7 @@
           <note type="description" xml:lang="de">
             <p>11. November. Beliebter Termin für Abgaben, besonders für Lehen-, Pacht- und Schuldzinsen.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-366">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -944,7 +1008,7 @@
           <note type="description" xml:lang="de">
             <p>Längenmass (Spannweite einer Männerhand).</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[DRW](https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Mannsspanne).</note>
         </item>
         <item xml:id="lub-keywords-367">
@@ -954,7 +1018,7 @@
           <note type="description" xml:lang="de">
             <p>Fischfangvorrichtung aus Reisig auf flachem Grund in einem See oder Fluss, Fischwehr mit Reusen (=Sacknetzen)</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem014706.02)</note>
         </item>
         <item xml:id="lub-keywords-368">
@@ -964,7 +1028,7 @@
           <note type="description" xml:lang="de">
             <p>Fischereigerät, meist aus Garn gestricktes, über mehrere Reifen gespanntes Netz mit trichterförmigem Eingang, Reuse (=Sacknetz).</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem014709.02)</note>
         </item>
         <item xml:id="lub-keywords-369">
@@ -974,7 +1038,7 @@
           <note type="description" xml:lang="de">
             <p>Fischreuse, trichterförmiges Fischernetz.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem010121)</note>
         </item>
         <item xml:id="lub-keywords-371">
@@ -984,7 +1048,7 @@
           <note type="description" xml:lang="de">
             <p>Angelschnur, Fischereigerät</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001549.02)</note>
         </item>
         <item xml:id="lub-keywords-372">
@@ -994,7 +1058,7 @@
           <note type="description" xml:lang="de">
             <p>Hier: Schnur mit Köder (Hegenen bei der Angel)</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[SSRQ](https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem015412)</note>
         </item>
         <item xml:id="lub-keywords-373">
@@ -1004,11 +1068,13 @@
           <note type="description" xml:lang="de">
             <p>Kleineres, trichter-, sack- oder haubenförmiges Netz, an einem Reifen oder (so in Basel, Bern) an gekreuzten Bögen befestigt, die ihrerseits an einem Stiel oder an einer Stange festgemacht sind.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001649">SSRQ</ref>
+                <bibl>
+                  <ref target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001649">SSRQ</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1020,7 +1086,7 @@
           <note type="description" xml:lang="de">
             <p>Tiroler Groschenmünze mit aufgeprägtem Doppelkreuz, benannt nach dem Fluss Etsch.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[DRW](https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Etschkreuzer)</note>
         </item>
         <item xml:id="lub-keywords-376">
@@ -1030,14 +1096,18 @@
           <note type="description" xml:lang="de">
             <p>Zwischenmahlzeit; einfaches, bescheidenes Essen</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://de.wikipedia.org/wiki/Zwischenmahlzeit#:~:text=Bei%20der%20Marende%20handelt%20es,f%C3%BCr%20die%20nachmitt%C3%A4gliche%20Zwischenmahlzeit%20ab">Wikipedia</ref>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Zwischenmahlzeit#:~:text=Bei%20der%20Marende%20handelt%20es,f%C3%BCr%20die%20nachmitt%C3%A4gliche%20Zwischenmahlzeit%20ab">Wikipedia</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/40353/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/40353/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1049,7 +1119,7 @@
           <note type="description" xml:lang="de">
             <p>Weg, der von den Wohnstätten zur Kirche führt.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-378">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -1058,7 +1128,7 @@
           <note type="description" xml:lang="de">
             <p>Signalschuss</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[Grimm](https://woerterbuchnetz.de/?sigle=DWB&amp;lemid=K13160)</note>
         </item>
         <item xml:id="lub-keywords-380">
@@ -1068,14 +1138,18 @@
           <note type="description" xml:lang="de">
             <p>Ort, wo Netzfallen (für Tiere) aufgestellt sind.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Liechtensteiner Namenbuch</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id6.htm#!page/60463">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id6.htm#!page/60463">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1087,7 +1161,7 @@
           <note type="description" xml:lang="de">
             <p>Linie, auf der ein Zaun steht oder einer stehen soll.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[Idiotikon](https://digital.idiotikon.ch/idtkn/id11.htm#!page/110067/mode/1up)</note>
         </item>
         <item xml:id="lub-keywords-382">
@@ -1097,7 +1171,7 @@
           <note type="description" xml:lang="de">
             <p>Wasserleitungsrinne; rinnenförmige Bodensenkung (im Gebirge)</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
         </item>
         <item xml:id="lub-keywords-383">
@@ -1107,11 +1181,13 @@
           <note type="description" xml:lang="de">
             <p>Teilhaber an einer Alp.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001093">SSRQ</ref>
+                <bibl>
+                  <ref target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-lemma.xq?id=lem001093">SSRQ</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1123,11 +1199,13 @@
           <note type="description" xml:lang="de">
             <p>Berechtigung, eine Kuh auf einer Alp zu sömmern.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=kuhweide">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=kuhweide">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1139,14 +1217,18 @@
           <note type="description" xml:lang="de">
             <p>Futtermenge, die für die Fütterung einer Kuh während des Winters ausreicht; Weideland von einer Grösse, dass der Ertrag zur Fütterung einer Kuh während des Winters ausreicht.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/160767/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/160767/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Kuhwinterung">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Kuhwinterung">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1158,11 +1240,13 @@
           <note type="description" xml:lang="de">
             <p>Unterart der Pflaume.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://de.wikipedia.org/wiki/Kriechen-Pflaume">Wikipedia</ref>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Kriechen-Pflaume">Wikipedia</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1174,11 +1258,13 @@
           <note type="description" xml:lang="de">
             <p>Fussweg (im Gebirge), Viehweg.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id14.htm#!page/140713">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id14.htm#!page/140713">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1190,11 +1276,13 @@
           <note type="description" xml:lang="de">
             <p>Säumer (seltener Saumer, österreichisch auch Samer) waren Personen, die Lasten auf dem Rücken von Saumtieren über das Gebirge transportierten. Jahrhundertelang beförderten sie vor allem Salz und Wein auf Saumpfaden und über die Pässe der Alpen. Als Säumer musste man ein Pferd, einen Maulesel, ein Maultier oder einen Ochsen besitzen.Die Bezeichnung Säumer (oder Saumer usw.) bezieht sich meist auf diesen historischen Beruf, aber auch die Saumtiere wurden so bezeichnet. Das nicht mehr gebräuchliche Wort Saum bedeutet so viel wie „Last“.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://de.wikipedia.org/wiki/S%C3%A4umer">Wikipedia</ref>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/S%C3%A4umer">Wikipedia</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1206,14 +1294,18 @@
           <note type="description" xml:lang="de">
             <p>Ausgewachsenes Stück (Rind)vieh.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id2.htm#!page/21495">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id2.htm#!page/21495">Idiotikon</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?term=hauptvieh">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?term=hauptvieh">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1222,7 +1314,7 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Schwein</label>
           <label xml:lang="de" type="sort">schwein</label>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-391">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -1231,17 +1323,23 @@
           <note type="description" xml:lang="de">
             <p>Feld-, Wald- und Weinbergaufseher; Alpmeister</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Saltner">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=Saltner">DRW</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/70871">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/70871">Idiotikon</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=S00282">Lexer</ref>
+                <bibl>
+                  <ref target="https://woerterbuchnetz.de/?sigle=Lexer&amp;lemid=S00282">Lexer</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1253,11 +1351,13 @@
           <note type="description" xml:lang="de">
             <p>Steuer, Abgabe</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?term=anlage">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?term=anlage">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1269,7 +1369,7 @@
           <note type="description" xml:lang="de">
             <p>Getreide</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm, Bd. 10, Sp. 1571.</note>
         </item>
         <item xml:id="lub-keywords-397">
@@ -1279,7 +1379,7 @@
           <note type="description" xml:lang="de">
             <p>Eiserne Kühe waren Kühe, die an ein Grundstück rechtlich gebunden waren, so dass sie bei einer Abtretung des Grundstückes oder Gutes oder bei einer Beendigung des Pachtvertrages in der gleichen Anzahl und Güte vorhanden sein oder ersetzt werden mussten (entsprechend auch: Eiserne Schafe).Andere Begriffe für Eiserne Kühe sind Ewigkühe oder Immerkühe. Wurde eine solche zum Beispiel zum Seelenheil an eine Wallfahrtskirche gestiftet, musste der Bauer, bei dem sie eingestellt war und der der Nutznießer der Milch und der Kälber der entsprechenden Kuh war, Abgaben an die Wallfahrtskirche leisten, im Falle der Wallfahrt Mariabrunn bei Heidenheim (Mittelfranken) jährlich ein Pfund Wachs.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">-[Wikipedia](https://de.wikipedia.org/wiki/Eiserne_K%C3%BChe)&#13;
 - LI-LA U 61</note>
         </item>
@@ -1290,7 +1390,7 @@
           <note type="description" xml:lang="de">
             <p>Vom Schnee befreiter Boden.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">[Idiotikon](https://digital.idiotikon.ch/idtkn/id1.htm#!page/10039/mode/1up)</note>
         </item>
         <item xml:id="lub-keywords-399">
@@ -1300,11 +1400,13 @@
           <note type="description" xml:lang="de">
             <p>Herde Vieh unter der Aufsicht eines Sennen.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/71007/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/71007/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1316,13 +1418,17 @@
           <note type="description" xml:lang="de">
             <p>Parallel zur Flussrichtung erbauter Damm.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://historisches-lexikon.li/Wuhrsysteme">HLFL</ref>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Wuhrsysteme">HLFL</ref>
+                </bibl>
               </bibl>
-              <bibl>Johannes Georg KRÜNITZ, Oekonomische Encyklopädie, oder allgemeines System der Staats-, Stadt-, Haus- u. Landwirthschaft, in alphabetischer Ordnung, Bd. 235, Leipzig 1785, S. 539.</bibl>
+              <bibl>
+                <p>Johannes Georg KRÜNITZ, Oekonomische Encyklopädie, oder allgemeines System der Staats-, Stadt-, Haus- u. Landwirthschaft, in alphabetischer Ordnung, Bd. 235, Leipzig 1785, S. 539.</p>
+              </bibl>
             </listBibl>
           </note>
         </item>
@@ -1333,13 +1439,17 @@
           <note type="description" xml:lang="de">
             <p>Ein Stoss- oder Schupfwuhr lenkte das Wasser von einem Ufer zum anderen.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://historisches-lexikon.li/Wuhrsysteme">HLFL</ref>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Wuhrsysteme">HLFL</ref>
+                </bibl>
               </bibl>
-              <bibl>Lukas Heinzmann, Die Emme im Kanton Solothurn – Nutzungsformen,</bibl>
+              <bibl>
+                <p>Lukas Heinzmann, Die Emme im Kanton Solothurn – Nutzungsformen,</p>
+              </bibl>
             </listBibl>
           </note>
         </item>
@@ -1350,17 +1460,23 @@
           <note type="description" xml:lang="de">
             <p>Gericht, das bei Bedarf nach einem anderen Gericht einberufen wird, auch als Appellationsgericht; Gerichtsversammlung.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://fwb-online.de/lemma/nach_gericht.rI.2n">FWB</ref>
+                <bibl>
+                  <ref target="https://fwb-online.de/lemma/nach_gericht.rI.2n">FWB</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=nachgericht-1&amp;firstterm=nachgericht-1">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=nachgericht-1&amp;firstterm=nachgericht-1">DRW</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://woerterbuchnetz.de/?sigle=DWB&amp;lemid=N00463">Grimm, Wörterbuch</ref>
+                <bibl>
+                  <ref target="https://woerterbuchnetz.de/?sigle=DWB&amp;lemid=N00463">Grimm, Wörterbuch</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1372,11 +1488,13 @@
           <note type="description" xml:lang="de">
             <p>Weide, Baumgarten; der dritte Graswuchs im Jahr</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/41043/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/41043/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1388,11 +1506,13 @@
           <note type="description" xml:lang="de">
             <p>Riedland</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Namenbuch</ref>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">Namenbuch</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1404,11 +1524,13 @@
           <note type="description" xml:lang="de">
             <p>Früchte vom Baum schütteln</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id8.htm#!page/81539/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id8.htm#!page/81539/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1420,11 +1542,13 @@
           <note type="description" xml:lang="de">
             <p>Dem Weidgang offen stehen, nicht eingezäunt sein, brachliegen</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/31211/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/31211/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1436,11 +1560,13 @@
           <note type="description" xml:lang="de">
             <p>Eingezäunt sein.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/31209/mode/1up">Idiotikon</ref>
+                <bibl>
+                  <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/31209/mode/1up">Idiotikon</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1452,7 +1578,7 @@
           <note type="description" xml:lang="de">
             <p>Ausstand</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-415">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -1461,11 +1587,13 @@
           <note type="description" xml:lang="de">
             <p>Abgabe auf Vermögenswerte, die Abwanderung, Verkauf, Schenkung oder Erbschaft der Besteuerung in einem Herrschaftsbereich entzogen werden.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=nachsteuer">DRW</ref>
+                <bibl>
+                  <ref target="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=nachsteuer">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1477,14 +1605,18 @@
           <note type="description" xml:lang="de">
             <p>Eintreten (einer Erbschaft) als Rechtsvorgang; Erbteil; Erbanspruch.</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://fwb-online.de/lemma/anfal.s.0m">FNB</ref>
+                <bibl>
+                  <ref target="https://fwb-online.de/lemma/anfal.s.0m">FNB</ref>
+                </bibl>
               </bibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=anfall">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=anfall">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1496,11 +1628,15 @@
           <note type="description" xml:lang="de">
             <p>Abgabe, die auf gewissen Routen fremde Säumer, Schiffer oder Fuhrleute von ihren Waaren zahlen mussten, wenn sie deren Weiterbeförderung selbst besorgen und nicht den Einheimischen, bzw. denen überlassen wollten, welche daselbst ein Anrecht auf den Gütertransport hatten</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
-              <bibl>LI-LA, U 51</bibl>
-              <bibl>Schweizerisches Idiotikon, Bd. III, Sp. 1495/6 [gedruckt 1895]</bibl>
+              <bibl>
+                <p>LI-LA, U 51</p>
+              </bibl>
+              <bibl>
+                <p>Schweizerisches Idiotikon, Bd. III, Sp. 1495/6 [gedruckt 1895]</p>
+              </bibl>
             </listBibl>
           </note>
         </item>
@@ -1511,10 +1647,12 @@
           <note type="description" xml:lang="de">
             <p>Mögl. eine andere Bezeichung für "Wegegeld".</p>
           </note>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
             <listBibl>
-              <bibl>LI-LA, U 51</bibl>
+              <bibl>
+                <p>LI-LA, U 51</p>
+              </bibl>
             </listBibl>
           </note>
         </item>
@@ -1525,11 +1663,13 @@
           <note type="description" xml:lang="de">
             <p>breiter schneebedeckter Bergrücken bzw. Wasserscheide, als Grenzmarkierung</p>
           </note>
-          <objectType xml:lang="en">Event</objectType>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
           <note type="sources">
             <listBibl>
               <bibl>
-                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=schneeschleife">DRW</ref>
+                <bibl>
+                  <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=schneeschleife">DRW</ref>
+                </bibl>
               </bibl>
             </listBibl>
           </note>
@@ -1537,6 +1677,54 @@
         <item xml:id="lub-keywords-421">
           <label xml:lang="de" type="main">Naturgefahr</label>
           <label xml:lang="de" type="sort">naturgefahr</label>
+        </item>
+        <item xml:id="lub-keywords-424">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Spiess</label>
+          <label xml:lang="de" type="sort">spiess</label>
+          <note type="description" xml:lang="de">
+            <p>Ein Spiess (auch Pike von französisch piquer ‚stechen‘) ist eine historische Stichwaffe zu Jagd- und Kriegszwecken, die im Unterschied zum Speer oder Wurfspieß nicht geworfen wird. Synonym wird oft das Wort Lanze verwendet, das jedoch eigentlich den Spieß des Reiters bezeichnet.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">-[Wikipedia](https://de.wikipedia.org/wiki/Spie%C3%9F)</note>
+        </item>
+        <item xml:id="lub-keywords-425">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hellebarde</label>
+          <label xml:lang="de" type="sort">hellebarde</label>
+          <note type="description" xml:lang="de">
+            <p>Die Hellebarde oder auch Helmbarte ist eine Mischform von Hieb- und Stichwaffe, die die Mannstoppwirkung eines Spießes mit der panzerbrechenden Wirkung der Axt kombinierte. Sie gehört zu den Stangenwaffen des Fußvolks und wurde vorwiegend vom 14. bis zum 16. Jahrhundert verwendet.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">-[Wikipedia](https://de.wikipedia.org/wiki/Hellebarde)</note>
+        </item>
+        <item xml:id="lub-keywords-426">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Harnisch</label>
+          <label xml:lang="de" type="sort">harnisch</label>
+          <note type="description" xml:lang="de">
+            <p>Schutzkleidung für den Kriegseinsatz.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+        </item>
+        <item xml:id="lub-keywords-427">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hakenbüchse (Arkebuse)</label>
+          <label xml:lang="de" type="sort">hakenbuechse (arkebuse)</label>
+          <note type="description" xml:lang="de">
+            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern[1] (nach anderen Angaben bis zu 25 Millimeter).</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">-[Wikipedia](https://de.wikipedia.org/wiki/Arkebuse)</note>
+        </item>
+        <item xml:id="lub-keywords-428">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Trommel</label>
+          <label xml:lang="de" type="sort">trommel</label>
+          <note type="description" xml:lang="de">
+            <p>Kriegsinstrument</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
       </list>
       <p/>

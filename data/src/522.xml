@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-522">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Wuhrstreit zwischen Triesen und Sevelen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>A1, Original, Signatur: <ref type="identifier" target="lub-objects-522">LI-GAT, U 23</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 10. April 1536 / Beschreibstoff: Pergament / Siegel: 1 Siegel abh.</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 197f.</bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 40, S. 116.</bibl>
+          <bibl>Regest und Edition von Claudius Gurt in <ref target="http://www.e-archiv.li/D42303">e-archiv.li</ref>. Nicht in SSRQ SG III/4.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Auf Vermittlung von Balthasar von Ramschwag, Vogt auf Gutenberg, und Pauli Schuler, Landvogt der Grafschaft Werdenberg, entscheidet ein unter dem Vorsitz des Ratsherrn Bartholomäus Lew von Feldkirch tagendes Gericht, bestehend aus Valentin von Vatscherin, Stadtvogt von Maienfeld, und Symon Zindel, Alt-Richter von Malans, als Vertreter von Sevelen und Baumeister Lienhart Hertner von Feldkirch und Heinrich Weidnauer, Ratsherr von Feldkirch, als Vertreter von Triesen die Klage der Seveler betreffend ein ihnen schädliches und ihrer Meinung nach von den Triesnern widerrechtlich erstelltes Wuhr. Gemäss dem Gerichtsentscheid sollen die bisher geschlossenen Wuhrverträge ihre Gültigkeit behalten, der Grenzverlauf jedoch, innerhalb welchem die Triesner berechtigt sind, künftig ihre Wuhren zu erstellen, soll festgelegt werden, das neu erstellte, zur Klage Anlass gegebene Wuhr, darf bestehen bleiben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-203">Vertrag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-300">Lew, Bartholomäus</persName>
+          <date when="1536-04-10">10. Apr 1536</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_23-0002.jpg" xml:id="lub-media-2413" source="gat-u-023-v.jpg" corresp="xml:id not found"/>
+    <graphic url="li-gat__u_23-0002.jpg" xml:id="lub-media-2414" source="gat-u-023-r-klein.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2414" n="1"/><lb n="1"/>Wir nachbenempten <persName ref="lub-actors-300">Barthlome Lew</persName>, bürger und des radts zue <placeName ref="lub-places-10">Veldkirch</placeName> als ain obman, <persName ref="lub-actors-301">Valentin von Vatscherin</persName>, der zeit statvogt zu <placeName ref="lub-places-106">Mayenfeld</placeName>, und <persName ref="lub-actors-302">Symon Zindel</persName>, alt richter zu <placeName ref="lub-places-645">Malanz</placeName>, als zugesazten auff  
+<lb n="2"/>der kleger seiten, <persName ref="lub-actors-303">Lienhart Hertner</persName>, der zeit pawmaister zu <placeName ref="lub-places-10">Veldkirch</placeName>, und <persName ref="lub-actors-304">Hainrich Weydnawer</persName>, bürger und des radts daselbst, auch paid als zugesazten auff der andtwurter seiten in nachgemelten sachen, bekhennen  
+<lb n="3"/>offennlich und thun khundt allermenigklich mit dissem brieve. Demnach sich irrung, zwytracht, spenn und stöss zwischen den erbern gemayn kylchgenosen zu <placeName ref="lub-places-147">Sevelen</placeName> der graffschafft <placeName ref="lub-places-73">Werdenberg</placeName> an ainem und  
+<lb n="4"/>auch der kilchgenoßen zu <placeName ref="lub-places-79">Trissen</placeName> der herschafft <placeName ref="lub-places-7">Vaduz</placeName> anders tayls, von wegen ains newen wurs, so die von <placeName ref="lub-places-79">Trissen</placeName> am <placeName ref="lub-places-103">Rhein</placeName> daselbst an der alt wur gemacht, geschlagen und angehenckht haben. Deshalben sy paid tayl  
+<lb n="5"/>etlich zeit här zu tagen einandern zu verderblichen cossten und schaden angehangen und aber durch geinstig underhandlung des edlen, vesten <persName ref="lub-actors-156">Balthasars von Ramschwags</persName>, der zeit römischer hungerischer und behemischer  
+<lb n="6"/>kunigklicher maygestat etc., unsers allergnedigisten herrn vogt auff <placeName ref="lub-places-13">Gutenberg</placeName> und des wolgeachten <persName ref="lub-actors-305">Pauli Schuelers</persName>, der zeit auch landtvogt zu <placeName ref="lub-places-73">Werdenberg</placeName>, unser geunstig, lieb junckher und herrn, auff uns mit  
+<lb n="7"/>ainem versigelten anlas guetlich und entlich verthädingt und khomen synd. Und nach dem uns derselb anlass uberandtwurt und wir den aus bevelch unßerer herrn und oberen angenomen und umb ir spenn und  
+<lb n="8"/>stöss beladen, haben wir inen ainen guetlichen tag gen <placeName ref="lub-places-79">Trissen</placeName> angesezt, alda sy zu paiderseit erscheinen synnd und alspald angeregter anlas verlessen ward (wie sich dann gepirret), haben die von <placeName ref="lub-places-147">Sevelen</placeName> reden  
+<lb n="9"/>lassen auff diß maynung wie die von <placeName ref="lub-places-79">Trissen</placeName> ain new wur (als obstat) gemacht, do dann die von <placeName ref="lub-places-147">Sevelen</placeName> vermaindten, selich angehenckht wur gemacht und geschlagen, sein weiter dann brieff und sygel,  
+<lb n="10"/>so sy zu paider seit haben, zugeben und vermugen, welche brieff und sygel lauter und klar inhaltend, wie vere und weyt die von <placeName ref="lub-places-79">Trissen</placeName> zuwuren haben. Uber und wider selichs alles die von <placeName ref="lub-places-79">Trissen</placeName> bemelt  
+<lb n="11"/>wur irs aigen gewalts on erlaupt und bewilligung irer herschafft und oberkhait vor und ausser erkhandten zeyl, marckhen und messes wider alle pillichait gemacht gemacht, geschlagen und angehenckht haben,  
+<lb n="12"/>welches inen zu mercklichen und verderblichen schaden raiche und lange, dann dardurch ire gueter, wyssen, äckher, awen, wun, wayden und straßen verwuesst, verderbt und hingenomen werden. Deshalben wer ir  
+<lb n="13"/>hochfleissig pitt und beger, die von <placeName ref="lub-places-79">Trissen</placeName> dehynn zu weißen, selich new gemacht, geschlagen und angehenckht wur guetlich widerumb von dannen zu schleissen und abzubrechen, welten sy zu nachpeurlichem willen  
+<lb n="14"/>annemen. Sover aber die von <placeName ref="lub-places-79">Trissen</placeName> das nit thun welten, selte sy doch das recht (als sy verhofftend) darzu erkhennen. Darauff und hinwider die von <placeName ref="lub-places-79">Trissen</placeName> andtwurten liessen, sy vermaindten alda khain  
+<lb n="15"/>unbillich wur gemacht haben, dann sy khain hauptwur, sonder new ain streichwur zu rettung und erhaltung irer aigen heußer, gueter und des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> und disser herschafft <placeName ref="lub-places-7">Vaduz</placeName> landtstraßen  
+<lb n="16"/>geschlagen haben, und benantlich khains wegs weder uber brieff, sygel, zeyl, marckhen noch meß gewuret, dann gleich an disser statt und orth, und auch weiter hinaus und hynab seyend vormals auch ain wur oder  
+<lb n="17"/>zway gestanden. Vermaynen deshalben daran nit unrecht gethan haben, mit dissen und dergleichen mer andern langen worten begerthen die von <placeName ref="lub-places-79">Trissen</placeName>, sy bey gemeltem newen angehenckhten wur zu beleiben  
+<lb n="18"/>lassen. Wo aber die von <placeName ref="lub-places-147">Sevelen</placeName> solichs nit thun welten, getrewten sy got und dem rechten durch uns also und darzu ob inen not sein wurde, daran noch weiter und meer zu machen und anzuhenckhen, zuerkhenen. Und  
+<lb n="19"/>als wir paidtayl iren klag und andtwurt auff maynung (wie jezgemelt) biß an ir selbs auffhären und beniegen genigsamlich verhärt, haben wir an paiden partheyen angehalten und begert, uns in der guetig
+<lb break="no" n="20"/>kait ausserhalb des anlas zwischen inen zu offner wissender thäding zu handlen und außzusprechen, zuvergunssten, solichs habend paid tayl umb ruw, freundtschafft und nachpaurschafft willens und zu 
+<lb n="21"/>verhuetung weiter widerwillens, mue, cossten und schadens, darein dann paid tayl zuversichtlich leichtlich gevallen hetten mugen, zu uns hyngesetzt. Darauff haben wir dieselben ire spenn und stöss gar aigent
+<lb break="no" n="22"/>lich besichtiget und alle pillichait betracht und ermessen und also ainhelligklich in der guetigkait erkhendt und gesprochen. Ersstlich, das alle vorausgegangen vertragsbrieve diz jetzigen obern und alter 
+<lb n="23"/>wuren, in krefften und wirden ausserhalb diß endtschids besteen und beleiben sellen. Am andern, das von paiden partheyen mitten von dem großen stain, so auff dem newen undern wur gelegen, ain  
+<lb n="24"/>schnur biß in den phal, so underthalb demselben wur ingeschlagen, gestreckht werden. Und sellen die von <placeName ref="lub-places-79">Trissen</placeName> nw furterhin ausserhalb disser schnur und meß gegen dem <placeName ref="lub-places-103">Rhein</placeName> nit weiter meer  
+<lb n="25"/>hynaus wuren, so inen aber wurens not sein wurd, sellen und mugen sy alsdann innerhalb der schnur und meß gegen <placeName ref="lub-places-79">Trissen</placeName> wert der kredi nach, wie sy dann not und gut sein bedunckht, unverhindert  
+<lb n="26"/>deren von <placeName ref="lub-places-147">Sevelen</placeName> wol wuren, laut und vermög vorausgegangen brieven. Am dritten, soll das new geschlagen wur zwischen beruertem grossem stain und phal, ausserhalb der schnur und meß gegen  
+<lb n="27"/>dem <placeName ref="lub-places-103">Rhein</placeName> beleiben, doch das die von <placeName ref="lub-places-79">Trissen</placeName> dasselb wur khainswegs mer vesstnen, pessern noch beladen, besonder und nämlich so sellen sy zu aller underst sechzig die grössten stain, damit dasselb wur  
+<lb n="28"/>ungevarlich beladen ist. Dergleichen auch die understen thannen und puchböm, so dem <placeName ref="lub-places-103">Rheinfluss</placeName> nach der lenge gelegt synd, hinder die schnur und meß gegen <placeName ref="lub-places-79">Trissen</placeName> wert thun und legen. Was aber ober
+<lb n="29"/>halb diß grossen stain (wie angezaigt) an dem wur daselbst gemacht ist, sellen und mugen die von <placeName ref="lub-places-79">Trissen</placeName>, ob inen not sein wurd oder wellen, also in eeren behalten und auch weiter vesstnen, hächern, be
+<lb break="no" n="30"/>schwären und laden irs gevallens, one deren von <placeName ref="lub-places-147">Sevelen</placeName> aller verhinderung. Am vierten, damit dann further zu ewigen zeiten diß malstatt des stains und phals (wie gezaiget ist) behalten, 
+<lb n="31"/>so sellen von paiden partheyen marckhstain gegen <placeName ref="lub-places-79">Trissen</placeName> wert gesetzt und vermarckht werden, so <placeName ref="lub-places-103">Rheins</placeName> halber unzergengklich beleiben mugen. Und dann von denselben marckhstainen auff gemelten  
+<lb n="32"/>phal und stain messen und wievil sich an dem meß und klaffter erlaufft und befindt, soll dann in dissen spruch und vertrag geschrifftlich verfasset und also zu wissender kundtschafft weitern span  
+<lb n="33"/>damit zu verhueten, behalten werden. Hiemit sellen paid tayl besonder und nämlich disser iren spenn und irrung gänzlich nichts außgenomen allentlich vergleicht, veraint und betragen, auch aller unwill und  
+<lb n="34"/>was sich unfreundtlichs biß auff datho diz brieffs zwischen inen verloffen und begeben hat, auffgehäpt tod und ab haissen und sein. Und sellen furthin paid partheyen einandern nachpeurliche trew, liebe und  
+<lb n="35"/>freundtschafft erzaigen und beweysen, in massen dann paid tayl selichen, unßern spruch und entschaid, danckbarlich angenomen und den zu volziechen krefftig fur sy, all ir erben und nachkomen, zugesagt und versprochen  
+<lb n="36"/>haben. Doch hirinnen dem wolgepornen herrn, herrn <persName ref="lub-actors-35">Johanns Ludwig graven zu Sulz</persName> etc. und den fursichtigen ersamen und weißen landtaman und radts zu <placeName ref="lub-places-72">Glaruss</placeName> etc., unßern genedigen und gunstigen  
+<lb n="37"/>herren an derselben herschafft <placeName ref="lub-places-7">Vaduz</placeName> und graffschafft <placeName ref="lub-places-73">Werdenberg</placeName> hochen oberkhaiten, freyhaiten, rechten, alten breuchen und herkhomen, dergeleichen auch paiden partheyen an iren wun, waiden, holz, awen,  
+<lb n="38"/>wyssen, veld, treyb, tratt, brieven, sygeln, auch alten breuchen und herkhomen und besonder denen, so dann in iren aigen guetern die marckhstain (als erkhendt ist) geßezt werden, an irem aigenthumb in alweg  
+<lb n="39"/>ganz unvergriffen und unschädlich. Demnach wir durch uns, obman und zugesazten, erkhendt und außgesprochen, wie jez mit lautern worten abgeredt und beschlossen worden ist, haben paid thayl  
+<lb n="40"/>zu volendung der sachen die marckhstain an nachbenempt malstett gesezt und bey der aller pessten kredi abgemessen und synd von dem marckhstain in <persName ref="lub-actors-1949">Hans Martins</persName> gut hinder <persName ref="lub-actors-1950">Hans Frumolts</persName> haus,  
+<lb n="41"/>biß in den grossen stain, so auff dem newen angehenckhtem wur gelegen ist, veinffzig und newn klaffter, minder ains schuchs, und von dem marckhstain in <placeName ref="lub-places-641">Spizen Dengen</placeName> biß in den phal, der under
+<lb break="no" n="42"/>halb demselben newen wur geschlagen ist, veinffzig und zway klaffter minder drithalben schuch, alles veldkircher wercklaffter, one geverde. Und des zu warem, offem, vessten und stätem urkhundt, so hab 
+<lb n="43"/>ich, obgenanter obman, fur mich selbs und auch meine vier zugesazten paiden partheyen disser spruch und vertragsbrieve ainen gleichformig einandern lauttend auff ir fleissig und ernstlich pitt und  
+<lb n="44"/>begeren, doch mir, auch obermelten zugesazten und aller unser erben und nachkomen one schaden, mit meinem angehenckhtem ynnsigel verfertigt geben. Wir obgenante gemayn kilchgenoßen  
+<lb n="45"/>zu <placeName ref="lub-places-147">Sevelen</placeName> und <placeName ref="lub-places-79">Trissen</placeName> bekhennen alle ainhelligklich krefftig fur uns, all unser erben und nachkomen, das alles das, so hievor an dissem brieff von uns geschriben stat, mit unßerm gunsst, wissen  
+<lb n="46"/>und guten willen gehandelt und volfuert ist. Bereden, geloben und versprechen auch darauff, bey unßern eeren und guten trewen an aydstatt wissentlich hiemit urkhundt und in krafft diz brieffs, dem allem getrewlich, gestrackhs, auffrecht und redlich nachzukhomen, darbey zu beleiben und darwider nit zuthun in khain weiß noch weg, alles getrewlich und ungevarlich. Beschechen am dem  
+<lb n="47"/><origDate>zechenden tag des monats aprilis nach der gepurtt Cristi unßers erlössers gezalt thaussent veinffhundert dreyssig und sechs jar</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2413" n="1"/><lb n="1"/><placeName ref="lub-places-79">Trießner</placeName> wuhrbrieff <gap/> 
+<lb n="2"/>sampt seinen zugesagten <gap/> gangen und <gap/> 
+<lb n="3"/>angenomen, darin aigentlich <gap/>  
+<lb n="4"/>viele <gap/> die von <placeName ref="lub-places-79">Trießen</placeName> <gap/>  
+<lb n="5"/>macht haben, <gap/> 1536. 
+<lb n="6"/>Die von <placeName ref="lub-places-147">Sevelen</placeName> betreffendt. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
