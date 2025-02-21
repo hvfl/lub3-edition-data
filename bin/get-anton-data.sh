@@ -24,6 +24,9 @@ for entity in ${entities[@]}; do
         exit 1;
     fi
 
-    wget --post-data "ids=$ids" $URL/$entity?api_token=$API_TOKEN -O ../registers/lub3-$entity.xml;
+    echo $ids;
+    echo $URL/$entity;
+
+    wget --post-data "ids=$ids&api_token=$API_TOKEN" $URL/$entity -O ../registers/lub3-$entity.xml;
 done
 exit 0;
