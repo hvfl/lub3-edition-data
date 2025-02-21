@@ -1,1 +1,292 @@
-Invalid access token
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="description" content="">
+        <meta name="keywords" lang="de" content="Archiv Anton">
+        <meta name="keywords" lang="en" content="Archives Anton">
+        <meta name="author" content="k-r, Zürich">
+        <meta name="csrf-token" content="CYG3NCggsGIIsdurL2QfRqLp8zjCuePVDaHfIj0F">
+
+        <meta property="og:title" content="">
+        <meta property="og:description" content="">
+        <meta property="og:url" content="https://lub.anton.ch">
+        <meta property="og:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200&refreshcache=67b85e60ae3c3">
+
+        <link rel="icon" sizes="256x256" type="image/png" href="/favicons/android-icon-256x256.png"><link rel="icon" sizes="192x192" type="image/png" href="/favicons/android-icon-192x192.png"><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png"><link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png"><link rel="icon" sizes="96x96" type="image/png" href="/favicons/favicon-96x96.png"><link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicons/favicon-32x32.png"><link rel="icon" sizes="16x16" type="image/png" href="/favicons/favicon-16x16.png"><link rel="manifest" href="/favicons/manifest.json"><link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
+        
+        <meta name="theme-color" content="#ffffff">
+
+        <title></title>
+        
+        <link rel="stylesheet" href="/css/anton-standard-style.css?id=06ed03365e8be830e952ef382eb83f79">
+
+        
+        <link rel="stylesheet" href="/css/fontawesome-all.min.css">
+
+        
+                    <style>
+                @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;1,300;1,400;1,600&display=swap');
+
+:root {
+    --navbar-bg-color: #fff;
+    --header-color: ##6aa241;
+    --link-color: #6aa241;
+    --body-color: #fff;
+    --navbar-links-color: black;
+    --navbar-links-color-active: #424242;
+    --primary-bg-color: #6aa241;
+}
+body {
+    font-family: 'fira_sansregular', sans-serif;
+}
+
+.navbar-default { 
+background-color: var(--navbar-bg-color); }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 600; color: var(--header-color)} 
+a { color: var(--link-color) }
+
+.navbar-default .navbar-nav > li > a:link, .languageswitcher a.active_language:link, .navbar-default .navbar-nav > li > a:visited, .languageswitcher a.active_language:visited { color: var(--navbar-links-color); -webkit-filter: invert(0); filter: invert(0); }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .languageswitcher a.active:link, .languageswitcher a.active:visited { color: var(--navbar-links-color-active);}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { color: var(navbar-links.color-active); background-color: #E7E7E7; }
+
+.pagination>li>a, .pagination>li>span {
+  color: var(--primary-bg-color) !important;
+}
+
+.pagination>.active>span {
+  color: white !important;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+  background-color: var(--primary-bg-color) !important;
+  border-color: var(--primary-bg-color) !important;
+}
+
+.btn-primary { color:#fff; background-color:var(--primary-bg-color); border-color: var(--primary-bg-color) }
+.btn-primary:hover { color:#424242; background-color:var(--primary-bg-color); border-color: var(--primary-bg-color)}
+
+#logo {
+  width: auto;
+  height: 50px;
+  margin-top: -3px;
+  margin-right: 20px;
+}
+            </style>
+        
+        
+        <script src="/js/anton-standard-script.js?id=89610b5e4f5209664acc903956fc68ab"></script>
+        <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}</style>
+<!-- Matomo -->
+<!-- End Matomo Code -->
+
+<!-- use a google font -->
+
+</head>
+    <body>
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                                            <a href="https://lub.anton.ch"><img id="logo" alt="" src="/logo/show" height="60"></a>
+                                    </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="/objects?parent=1">Katalog</a></li>
+
+
+    <li class="nav-item">
+        <a class="nav-link" href="https://lub.anton.ch/admin">Admin</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="https://lub.anton.ch/help">Hilfe</a>
+    </li>
+   
+
+
+                    </ul>
+                    <ul class="languageswitcher navbar-text nav navbar-nav navbar-right">
+                                            </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                                                    <li class="dropdown navbar-search">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="glyphicon glyphicon-search"></i></a>
+    <ul class="dropdown-menu dropdown-search">
+        <li>
+            <form method="GET" action="https://lub.anton.ch/objects/simplesearch" accept-charset="UTF-8" class="form">
+            <div class="input-group">
+                <input class="form-control" placeholder="Suche" name="fulltext" type="text" value="">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button>
+                </span>
+            </div>
+            </form>
+        </li>
+                    <li>
+                <a href="https://lub.anton.ch/objects/search"><span class="glyphicon glyphicon-search"></span> Erweiterte Suche</a>
+            </li>
+            <li>
+                <a href="/actors"><span class="glyphicon glyphicon-link"></span> Akteurinnen/Akteure</a>
+            </li>
+            <li>
+                <a href="/places"><span class="glyphicon glyphicon-link"></span> Orte</a>
+            </li>
+            <li>
+                <a href="/keywords"><span class="glyphicon glyphicon-link"></span> Schlagwörter</a>
+            </li>
+            </ul>
+</li>
+                        
+                        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            anton
+        </a>
+         <ul class="dropdown-menu">
+            <li><a href="https://lub.anton.ch/profile/1">Profil</a></li>
+                            <li><a href="https://lub.anton.ch/users/1/history">Editors History</a></li>
+                        <li><a href="https://lub.anton.ch/logout" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
+                <form id="logout-form"
+                  action="https://lub.anton.ch/logout"
+                  method="POST"
+                  style="display: none;">
+                  <input type="hidden" name="_token" value="CYG3NCggsGIIsdurL2QfRqLp8zjCuePVDaHfIj0F" autocomplete="off">
+                </form>
+            </li>
+        </ul>
+        </a>
+</li>
+                    </ul>
+                </div><!--/.navbar-collapse -->
+            </div>
+        </div>
+        <div class="container">
+                        <!-- check for flash notification message -->
+                        <!-- check for warning notification message -->
+                        <!-- check for error flash var -->
+                        <!-- check for error flash var -->
+                            <div id="flash_error" class="alert alert-danger alert-block alert-dismissible">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <ul><li>Name muss ausgefüllt sein.</li></ul>
+                </div>
+            
+    
+<div class="row">
+    <div class="col-md-6">
+                <h3>Liechtensteinisches Urkundenbuch (LUB III)</h3>
+<p>Anton dient der Quellensammlung für das LUB III.</p>
+<h4>Kontakt</h4>
+<p><a href="mailto:katharina.arnegger@historischerverein.li">katharina.arnegger@historischerverein.li</a><br />
+<a href="mailto:stefan.frey@historischerverein.li">stefan.frey@historischerverein.li</a></p>
+<address>
+Liechtensteinisches Urkundenbuch <br>
+c/o Historischer Verein für das Fürstentum Liechtenstein  <br>
+Plankner Strasse 39  <br>
+9494 Schaan  <br>
+Liechtenstein   <br>
+</address>
+
+        <br>
+                    </div>
+
+    <div class="col-md-6">
+                                    <div class="row">
+                    <div class="col-md-12 col-lg-10">
+                        <style>
+    .nopadding {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin: 0 !important;
+    }
+    .padding-left {
+        padding-right: 0 !important;
+        margin: 0 !important;
+    }
+</style>
+<div class="row">
+    <div class="col-md-12">
+        <h4>Suche</h4>
+            <form method="GET" action="https://lub.anton.ch/objects/simplesearch" accept-charset="UTF-8">
+        <div class="form-group">
+            <input class="form-control" placeholder="Volltext" name="fulltext" type="text" value="">
+        </div>
+        <div class="form-group">
+            <input class="form-control" placeholder="Signatur" name="identifier" type="text" value="">
+        </div>
+        <div class="form-row">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group ">
+                        <input class="form-control" placeholder="Entstehungsdatum (Start)" name="creation_min" type="text" value="">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input class="form-control" placeholder="Entstehungsdatum (Ende)" name="creation_max" type="text" value="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+           <button type="submit" class="btn btn-primary">Suche</button>
+        </div>
+        </form>
+    </div>
+</div>
+                        <br>
+                        <a href="https://lub.anton.ch/objects/search">Erweiterte Suche</a>
+                        <br>
+                        
+                                            <br>
+                </div>
+                </div>
+                        
+        
+        <div class="row">
+    <div class="col-xs-12">
+        <img src="https://lub.anton.ch/admin/images/image.jpg" class="img-responsive attachment-post-thumbnail" alt="">
+        <figcaption class="figcaption"></figcaption>
+    </div>
+</div>
+        
+            </div>
+</div>
+
+
+    <div class="row">
+        <hr class="footerline">
+    </div>
+    <footer class="footer">
+        <div class="row">
+            <div class="col-md-9 col-xs-12 col-sm-12">
+                <p><small>k &amp; r | Sihlfeldstrasse 89 | 8004 Zürich | +41 44 242 77 50 | <a href="mailto:anton@k-r.ch"><a href="mailto:anton@k-r.ch">anton@k-r.ch</a></a></small></p>
+
+            </div>
+                    <div class="col-md-3 hidden-xs col-sm-12 text-right">
+                <small>Anton v0.38.0 lub</small>
+            </div>
+                </div>
+    </footer>
+
+</div> <!-- /container -->
+
+<script src="/livewire/livewire.min.js?id=13b7c601"   data-csrf="CYG3NCggsGIIsdurL2QfRqLp8zjCuePVDaHfIj0F" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+
+<!-- Scripts are placed here -->
+<script src="/js/app.js?id=e8d50cd59860f2f4a6a31e790c3145b0"></script>
+<script src="/js/anton-edit-script.js?id=70b921a11889f5f238d277723c33e443"></script>
+
+</body>
