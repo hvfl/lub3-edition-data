@@ -17,6 +17,11 @@
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-463">LI-GAE, AHV 03/07</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Originaldatierung: 9. Juni 1533 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
           <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1108">LI-GAE, AHV 02/118</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Papier</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42686">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -34,8 +39,8 @@
           <term ref="lub-keywords-314">Wiese</term>
           <term ref="lub-keywords-159">Einzäunung</term>
           <term ref="lub-keywords-46">Konflikt</term>
-          <term ref="lub-keywords-411">ausliegen</term>
-          <term ref="lub-keywords-412">inliegen</term>
+          <term ref="lub-keywords-411">auslegen</term>
+          <term ref="lub-keywords-412">inlegen</term>
         </keywords>
       </textClass>
       <correspDesc>
