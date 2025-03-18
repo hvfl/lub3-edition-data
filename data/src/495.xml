@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-495">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid zwischen Schaan und Triesen betreffend das Schneefluchtrecht von der Alp Gritsch</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-495">LI-GAS, U 15</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 1. Mai 1602 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-496">LI-GAT, U 40</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 1. Mai 1602 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="B">B: Kopie, Signatur: LI-LA, Schä U 113 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="http://www.e-archiv.li/D42829">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Karl Ludwig von Sulz entscheidet die Konflikte zwischen den Gemeinden Schaan und Triesen wegen der Alpen Gritsch und Valüna:&#13;
+1. Er bestätigt den Schaanern das Schneefluchtrecht von der Alp Gritsch in die Alp Valüna, wie es ihnen 1474 in einer Urkunde von Sigmund I. von Brandis zugesichert worden war.&#13;
+2. Die Schaaner dürfen den Weg über Gampergritsch nach Gritsch jederzeit benutzen. Den Weg über Bärawang dürfen sie nur mit Erlaubnis der Triesner benutzen.&#13;
+3. Die Schaaner dürfen die Alp Gritsch mit Vieh aus anderen Orten besetzen, sofern dabei die Zahl der Kühe doppelt so gross ist wie die der Rinder.&#13;
+4. Die Triesner dürfen ihre Alp Valüna ebenfalls mit Vieh aus anderen Orten besetzen.&#13;
+5. Falls die Schaaner das Schneefluchtrecht nur kurze Zeit beanspruchen oder das Vieh nicht weiden lassen können, weil Schnee liegt, sind sie den Triesnern keine Entschädigung schuldig. Falls sie das Schneefluchtrecht länger beanspruchen, das Vieh aber vor der Melkzeit wieder wegtreiben, sollen sie die Triesner nach Absprache mit Schmalz oder Käse entschädigen. Falls sie das Schneefluchtrecht bis zur Melkzeit in Anspruch nehmen, sollen sie die Milch den Triesnern abtreten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-155">Alp</term>
+          <term ref="lub-keywords-207">Schneefluchtrecht</term>
+          <term ref="lub-keywords-150">Vieh</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <date when="1602-05-01">1. Mai 1602</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gas__u_15-0002.jpg" xml:id="lub-media-2234" source="gas-u-15-klein.jpg" corresp="A1"/>
+    <graphic url="li-gat__u_40-0002.jpg" xml:id="lub-media-2423" source="gat-u-040-r.jpg" corresp="A2"/>
+    <graphic url="li-gat__u_40-0002.jpg" xml:id="lub-media-2424" source="gat-u-040-v.jpg" corresp="A2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2234" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-13">Carl Ludwig grave zue Sultz</persName>, landtgrave in <placeName ref="lub-places-18">Cleggeuw</placeName>, des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhofrichter 
+<lb n="2"/>zue <placeName ref="lub-places-17">Rotweil</placeName>, herr zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Pluemenegg</placeName>, römischer kayserlicher majestät etc. hof kriegsrath, obrister veld- und lanndzeugmaister und obrister etc., thuen kund aller menigclich hie
+<lb break="no" n="3"/>mit disem offnen brief, als sich etwas nachperlicher spän entzwüschen unsern getrewen lieben underthanen, den seckhlern, geschwornen und gantzer gemaindt von <placeName ref="lub-places-53">Schan</placeName>, sonderlich den jenigen, die in alp <placeName ref="lub-places-132">Garetsch</placeName> tail und gemain haben,
+<lb n="4"/>an ainem unnd dann der gmaindt zue <placeName ref="lub-places-79">Trysen</placeName> der alp <placeName ref="lub-places-133">Vallüla</placeName> halber anderßtails umb und vonwegen der schneflucht, waidung, steeg, weeg, besatzung der alpen, melchens und anders dergleichen, das sich allain zuetregt in der 
+<lb n="5"/>zeit, wann die <placeName ref="lub-places-132">Garetscher</placeName> heraber aus irer alpen schnes halber weichen und schneflucht bei denen zue <placeName ref="lub-places-79">Trysen</placeName> suechen mueßen etc. Und wiewol baide tail etlich mal beisamen gewesen, haben sy sich doch diser irer mißverstenden 
+<lb n="6"/>und spänen nie vergleichen könden, sondern die sach umb guetliche entscheidung für uns und unnsere beambten glangen laßen. Wann dann unß solliche spänn zue fortpflantzung gueter, fridliebender ainigkeit, die wir jeder zeit gern 
+<lb n="7"/>bey unsern underthenen sehen, angelegen geweßen, so haben wir baide partheyen in die cantzlei für uns erfordert und sy in irem fürbringen, ein- und gegenreden, wie auch fürgelegten brief und sigeln und gebottnen kundtschafften not
+<lb break="no" n="8"/>turfftigelich verhört und ersehen und sye demnach güetlich geaindt und verglichen wie volgt: Erstlichen, sovil die schneeflücht belangt, obwol die von <placeName ref="lub-places-79">Trysen</placeName> vermaindt, denen von <placeName ref="lub-places-53">Schan</placeName> lenger nit dann nur drey teg
+<lb n="9"/>und nach <date when="--08-24">Bartlmei</date> gar khain schneeflucht mehr zuegestaten, so befinden wir aber doch aus ainem alten vertragßbrieflein, under weylandt herrn <persName ref="lub-actors-233">Sigmundt freyherrn von Brandiß</persName>, Crist seeliger gedechtnus, in anno <date when="1474">vierzehenhundert 
+<lb n="10"/>vierundsiebenzig</date> zwischen disen baiderseits alp genoßen aufgericht,<note>Vgl. LUB II, GemeindeA Schaan, U 03 (11. Juli 1474).</note> das die von <placeName ref="lub-places-53">Schan</placeName> ire schnefluchten, wie von alters herkhomen und zwischen baiden thailen seye gebra<unclear>ucht word</unclear>en, behalten und brauchen sollen, so offt sy deßen nottürfft
+<lb break="no" n="11"/>ig werdendt. Demnach so laßen wirs auch allerdings dabei bewenden mit diser vernern erleuterung, dieweil diser schneeflucht halber denen von <placeName ref="lub-places-53">Schan</placeName> weder zeit noch maß gesetzt, wie kurtz oder lanng sy alda zuo verbleiben, daß
+<lb n="12"/>sy sich diser gerechtsami der schneeflucht gebrauchen sollen und mögen, wann und wie offt sy deren vonnöten werden, khain zeit außgenomen. Jedoch sollen die von <placeName ref="lub-places-79">Trißen</placeName> nit schuldig sein, die <placeName ref="lub-places-132">Garetscher</placeName> alp genossen über den bach zuolaßen zue 
+<lb n="13"/>schnefluchten oder zuwaiden, sy gebens dann mit guetem willen zue. Zum andern, steeg und weegs halber, sprechen wir nach der kundtschafft sag, das die <placeName ref="lub-places-132">Garetscher</placeName> ir steeg und weeg zue irer alpen durch <placeName ref="lub-places-179">Gampagretsch</placeName> auf 
+<lb n="14"/>und nider nemen sollen und mögen jeder zeit. Und weil auch etwan vor disem die <placeName ref="lub-places-132">Garetscher</placeName> in schnefluchts zeitten auf deren von <placeName ref="lub-places-79">Trißen</placeName> knechten guete bewilligung durch den <placeName ref="lub-places-647">Berenwang</placeName> heraber in <placeName ref="lub-places-133">Vallüla</placeName> zu faren gelaßen werden, lassen wirs 
+<lb n="15"/>nochmalen also beschehen, ja wann die von <placeName ref="lub-places-79">Trißen</placeName> sollches mit guetem willen zugeben. Sonsten sollen sy daselbig zuthuen mit nichten schuldig sein. Zum dritten, wegen der alp satzung, geben wir den <placeName ref="lub-places-132">Garetschern</placeName> zue, wann sy ir alp 
+<lb n="16"/>mit irem aignen vich nit besetzen khonden, das sy aus andern orten, wo inen beliebt, vich annemen und dieselbig nach notturfft besetzen mögen, doch das frembde sollen küehen und nit rinder sein, damit denen von <placeName ref="lub-places-79">Trißen</placeName> in schne
+<lb break="no" n="17"/>fluchts zeiten an der milch nicht abgange, es were dann, da etwann einer ein kue vier hinein tete und dabei ungevarlich ein par rinderlen hete und anderwerts nit underkhomen mochten, ime dieselbigen wie auch ainem, der zwo
+<lb n="18"/>kuehen hinein tete, ein rindlin mit hinein genomen und in der schneeflucht passiert werden, doch gefar hierinnen außgeschaiden. Zum vierten, als sich die <placeName ref="lub-places-132">Garetscher</placeName> beclagt, die von <placeName ref="lub-places-79">Trißen</placeName> besetzen ir alp mit frembden 
+<lb n="19"/>vieh und hernach in schneefluchts zeiten find ir vieh dessto weniger zueßen etc., sovil disen puncten belanngt, die könten wir denen von <placeName ref="lub-places-79">Trißen</placeName> nit absein, das sy ir alp nach notturfft besetzen, dann ain sollches inen, denen 
+<lb n="20"/>von <placeName ref="lub-places-53">Schan</placeName>, auch zuegelaßen. Und sollen demnach sich in der schneeflucht guetlich, freundt- und nachperlich mitainandern leiden und gegenainandern khain vortail oder gefar gebrauchen. Zum fünfften, melchens halber wann 
+<lb n="21"/>die <placeName ref="lub-places-132">Garetscher</placeName> mit irem vich heraber in die schneeflucht gefarn und die waydung biß auf die melchens oder non zeit gebraucht, soll die milch denen von <placeName ref="lub-places-79">Trißen</placeName> zuegehörig sein. Wann aber die schneflucht nit lang werete, sondern 
+<lb n="22"/>die <placeName ref="lub-places-132">Garetscher</placeName> nur ein klaine weil auf ungevarlich ain stundt heraber gefahrn und nichts besonders oder nambhafftigs geetzt, sollen sy auch darfür nichts zu geben schuldig sein. Da sy aber darüber geetzt heten und wider hin
+<lb break="no" n="23"/>auf in ir alp <placeName ref="lub-places-132">Garetsch</placeName> faren und droben melchen wurden, sollen sy schuldig sein, sich mit denen von <placeName ref="lub-places-79">Trißen</placeName> umb die milch der gebür nach zuo vergleichen, wie von alters heero. Und als wir in der kundtschafft gehört haben, sy ungleich,
+<lb n="24"/>bißweiln ainhalbs und bisweiln ein gantzes viertl schmaltz geben, auch ein, zween oder drey keß ungevarlichen, je nachdem sy die wayd lanng gebraucht haben. Das sollen sie noch tuen. Und wann sach were, das die <placeName ref="lub-places-132">Garetsch
+<lb break="no" n="25"/>er</placeName> in der schneflucht heraber müessten und vor schnee nichts etz<gap/> kon<gap/>en und also in stafel stellten, auch den morgen darnach ungeetzt hinweckh fueren, es were haimbwerts oder wider gestrackhts in ir alp, sollen sy
+<lb n="26"/>nichts für die herberg schuldig sein. Ob sich dann auch begebe, das die <placeName ref="lub-places-132">Garetscher</placeName> gegen den abent heraber fuern und etzen, sollen sy den abent oder den morgen darnach melchen zulaßen schuldig sein, auch sich nit allain in disen, 
+<lb n="27"/>sonndern allem anderen, das sich zwischen inen zuetragen oder begeben möchte, jedertzeit nachperlich, schidlich und fridferttig gegen ainandern ertzaigen und halten, wie erlichen nachparn und underthenen eines herrn zuthuen gebürt 
+<lb n="28"/>und woll ansteet. Hiertzue wollen wir sy alles ernsts ermant und angewißen, auch hiemit also irer gehabten nachperlichen spännen (doch andern iren habenden brief und sigeln außer diser verglichnen puncten in alweg 
+<lb n="29"/>unschedlich) geainiget und vertragen haben in crafft ditz briefs, dern wir zween gleichlautende aufgericht und jedemtail einen behendigen, auch urkhundtlich mit unserm angehengten gräflichen cantzlei secret (doch uns, unseren 
+<lb n="30"/>erben und nachkomen an unnsern habenden rechten und gerechtigkaiten one schaden) becrefftigen laßen, so geben ist <origDate>den ersten may nach Cristi geburt im sechzehenhündertist und anderen jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

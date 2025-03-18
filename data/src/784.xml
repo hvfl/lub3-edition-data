@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-784">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Ruggell und Schellenberg um den Wuhrunterhalt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-784">LI-GASb, U 5</ref> (<orgName key="li-gasb" ref="lub-objects-782">Gemeindearchiv Schellenberg</orgName>) / Originaldatierung: 4. Februar 1579 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1036">AT-HAL H 2632 unfol</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Entstehungszeit: 6. Juli 1792 / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein in Eschen im Haus von Ammann Hans Öhri tagendes Gericht unter dem Vorsitz von Jakob Plenki, Ammann der Grafschaft Vaduz, entscheidet im Streit zwischen Ruggell, vertreten durch die Bevollmächtigten Hans Büchel, Hans Öhri und Jörg Öchen, und Schellenberg, vertreten durch die Geschworenen Urban Hoop, Hans Bläsi und Hans Öhri, dass die Schellenberger sich gemäss den bestehenden Verträgen an den Kosten für den Wuhrunterhalt zu beteiligen haben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-421">Naturgefahr</term>
+          <term ref="lub-keywords-348">Allmende</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-214">Plenki, Jakob (2)</persName>
+          <date when="1579-02-04">4. Feb 1579</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gasb__u_5-0001.jpg" xml:id="lub-media-2395" source="gasb-u-005-v-klein.jpg" corresp="A1"/>
+    <graphic url="li-gasb__u_5-0002.jpg" xml:id="lub-media-2396" source="gasb-u-005-r-klein.jpg" corresp="A1"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0001.jpg" xml:id="lub-media-1145" source="1579-02-04-hal-h-2632-1.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0002.jpg" xml:id="lub-media-1146" source="1579-02-04-hal-h-2632-2.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0003.jpg" xml:id="lub-media-1147" source="1579-02-04-hal-h-2632-3.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0004.jpg" xml:id="lub-media-1148" source="1579-02-04-hal-h-2632-4.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0005.jpg" xml:id="lub-media-1149" source="1579-02-04-hal-h-2632-5.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0006.jpg" xml:id="lub-media-1150" source="1579-02-04-hal-h-2632-6.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0007.jpg" xml:id="lub-media-1151" source="1579-02-04-hal-h-2632-7.jpg" corresp="B"/>
+    <graphic url="at-hal_h_2632_1579_februar_2-0008.jpg" xml:id="lub-media-1152" source="1579-02-04-hal-h-2632-8.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2396" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-214">Jacob Plenckhinn</persName>, derzeitt aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, als inn diser sachenn von der oberkaitt verordneter und hernachgemelten baiden partheyen erpettner unpartheyscher richter, bekhenn offentlich und thun khundt menigkhlich 
+<lb n="2"/>mitt dem brieve, das ich auff heütth datho von gnaden, gewaltz und empfelchnus wegen der wolgebornen, meiner gnedigen herren grävischer sultzischer vormundtschafft etc. auff anrüeffen der erbaren <persName ref="lub-actors-2067">Hansen Büchels</persName>, <persName ref="lub-actors-2068">Hansen Örins</persName> und <persName ref="lub-actors-2070">Jergen Öchins</persName> 
+<lb n="3"/>als vollmechtige gewaltthabere zu <placeName ref="lub-places-2">Raggel</placeName> zu <placeName ref="lub-places-35">Öschenn</placeName> in aman <persName ref="lub-actors-165">Hansen Örins</persName> hauss offen verpannen unpartheysch gericht gehaltten und besessen hab, vor mir und meinen beysitzern erscheinen seindt jetztgemelte gewaltthabere zu <placeName ref="lub-places-2">Raggel</placeName> innamen 
+<lb n="4"/>und von wegen ainer gantzen gemaindt daselbst, clegere, an ainem und <persName ref="lub-actors-2071">Urban Hopp</persName>, <persName ref="lub-actors-2072">Hans Pläsi</persName> der vorder uff <placeName ref="lub-places-117">Schellenperg</placeName> und <persName ref="lub-actors-2069">Hans Örin</persName> uss <placeName ref="lub-places-652">Carnielen</placeName> als dissmals verordnete geschworene auff <placeName ref="lub-places-117">Schellenperg</placeName>, anttwurtere, anderthails. Unnd als 
+<lb n="5"/>sich die zu baiderseitz nach form rechtens gegen ainander verfursprechten und verdinckhlich in recht gestaltten, liessen erstlich bemelte gewaltthabere zu <placeName ref="lub-places-2">Raggel</placeName> reden und furpringen nachvolgende maynung: Demnach der oberkaitt unnd 
+<lb n="6"/>menigkhlichem laider nur zewol bewüsst, welchermassen sie in gevarlichaitt des <placeName ref="lub-places-103">Rheins</placeName> fluss nicht allain heüriges jars, sonder auch verscheine jare mitt uberschwal und ausslauffenn desselbigen gantz und ghar uberlestiget, zum andern 
+<lb n="7"/>das sie auch dem wolgebornen herren, hern <persName ref="lub-actors-164">Ulrich Philipsen freyherren zu der Hohen Sax</persName> etc., und desselben underthonen wuorens halben nachraisen und hierumben red und anttwurtt geben müessen, durch welches alles dan nicht wenig costn 
+<lb n="8"/>uffgeloffen und angewandt, welchen costenn nachgh<gap/>ndts sie mitt hülff, <unclear>rha</unclear>tt und beysein der amptleuth diser herrschafft <placeName ref="lub-places-11">Schellenperg</placeName> zerthailt und obgemelten, iren nachpuren uff <placeName ref="lub-places-117">Schellenperg</placeName>, den beclagten, auch ain bürdlin zu irem gebürenden thail 
+<lb n="9"/>(so sie vermaindt der sachen nitt ungemess, sonder billich zeseinn) zugethailtt und neben andern iren wurmaistern bevolhen, solches von innen einzezeyhen, desse sie sich uff derselben erfordern zuerlegen verwideret. Dieweil aber dise, ire habende wuren, 
+<lb n="10"/>nicht allain ire aigne güettere, sonder auch die allmainden, so darhinder gelegen, dadurch beschirmpt und gehandthabett werden und sie, ire nachpuren ab <placeName ref="lub-places-117">Schellenperg</placeName>, die beclagten, mitt innen, den clegern, auff solchen almainden mitt irem vech zewunnen 
+<lb n="11"/>und zewaiden auch gleichvaals, sovil die allmainden anlangen und bethreffen thun, so wol als sie gerechtsame bey innen hetten, were ir, der clegere, bitt und begeren, sie, die beclagten, weltten (in erwegung, das sie desse wegen nicht uberlegt) 
+<lb n="12"/>solchen iren aufferlegten und zugethailtten costen güettlich erlegenn. Thetten s<supplied>i</supplied>e das, wol guett, wo nicht, verhofften sie, mitt recht dahin gewisen zewerden. Daendtgegenn vorgenandte geschworne ab <placeName ref="lub-places-117">Schellenperg</placeName> durch iren zu recht 
+<lb n="13"/>erlaupten fursprechenn anttwurtten lassen, sie dise clag angehörtt und <unclear>d</unclear>arneben ir begeren wol verstanden hettenn, were innen auch frembds, das diser begerte wuoren<unclear>s</unclear> costen uff die gemaine underthonen auff <placeName ref="lub-places-117">Schellenperg</placeName> gelegt werden 
+<lb n="14"/>soltt<gap/>, so man sich doch noch wol zuerinnern hette, das vor lang verscheinen jaren, bey vogt <persName ref="lub-actors-290">Frantz Landtmans</persName> seeligen zeitten, sie, die nachpurschafft, gleichvals wuerens wegen in costen khomen und selbigen halben ettwas mitainander stössig wordenn, 
+<lb n="15"/>da ain oberkhaitt so gnedig und güettig gewesst, sich der sachen undnomen und selbigen strittigen costen uff die underthonen auff <placeName ref="lub-places-117">Schellenperg</placeName>, so hinder dem <placeName ref="lub-places-103">Rhein</placeName> güetter ligen haben, und nicht auff die hausshaben daselbs gelegt, inmassen ab demselben 
+<lb n="16"/>spruchbrieve, so sie hiemitt furgelegt, zuersehen. Weül aber sie auch sonsten noch mehr altte spruch und urthelbrieve, so hievor uffgericht worden, beyhanden hetten, were ir bitth, solche zuverhören, als dan nach verlesung und abhörung <unclear>d</unclear>erselben sie 
+<lb n="17"/>ir weittere geburende anttwurt hierauff geben woltten. Unnd als die offentlich gehörtt und verlesen worden, haben sie, die beclagten, weitter furpringen lassen, sie diser verlessnen brieven, zwischen innen baiden auffgericht, welzefriden, das 
+<lb n="18"/>aber irenn nachpuren zu <placeName ref="lub-places-2">Raggel</placeName>, den clegeren, vil uncosten uffgeloffen, syhe innen nicht lieb und hetten sich dessen auch billicher massen zubeschweren, dan ires bedunckhens vil costen uffgeschriben und wenig verricht werde. Was aber sie, die be
+<lb break="no" n="19"/>clagten, zu angeregtem wuoren oder sonsten zethon schuldig, geben dise verlessne brieve guotte mass und anlaittung, syhend auch nicht darwider, das die jhenige, so güettere hinder angezaigten wuoren ligen haben, an begertem costen ir gebürnus geben.
+<lb n="20"/>Das aber die jhenigen, so khaine guettere hinder angedeutten wuoren ligen hetten und also durchuss auff die hausshaben angelegt werden soltten, wissten sie (one sondern hohen ver<unclear>w</unclear>iss derselben), ain solches anzenemen oder daren zubewilligen, nicht 
+<lb n="21"/>zuveranttwurten. Sovil aber das ober wuor belangett, weltten sie wie bisshero vermöge spruchs thuon, was sie zethon und zelaisten schuldig, desse sie sich auch jhemals nicht ver<unclear>w</unclear>iderett, sonder vilmehr auch an dem undern  wuor, sovil in ierem ver
+<lb break="no" n="22"/>mügen gewesst, an der<unclear>o</unclear> hülff nichts erwinden lassen, mitt bith, sie darbey beleiben zelassen, dan sie weitters zubewilligen noch anzenemen nicht in bevelch hetten, gethröster hoffnung und zuversicht, clegere von disem irem unbefüegten begeren guett
+<lb break="no" n="23"/>lich abston und sie bey iren habenden brieven und siglen, auch altten b<gap/>hen und herkhomen beleiben lassen werden. Hierauff vorgenandte gewaltthabere von <placeName ref="lub-places-2">Raggell</placeName> als clegere verrer reden lassen, sie hetten mergedachter ge
+<lb break="no" n="24"/>schwornen ab <placeName ref="lub-places-117">Schellenperg</placeName> anttwurt und dero fürwandt angehört, syhen innen auch gantz und ghar nicht wider ire habende brieff und sigel. Was dieselbenn ussweysen, habe menigkhlich wol verstanden. Und dieweil sie, die von <placeName ref="lub-places-2">Raggel</placeName> als clegere,
+<lb n="25"/>biss dahär des wuorenns wegen (so durch wolgemelten herren <persName ref="lub-actors-164">von Sax</persName> etc. oder seine underthonen wider sie zu irem nachtail beschehen und der <placeName ref="lub-places-103">Rhein</placeName> also mitt gewaltt auff sie gewysen und geschweltt worden) nicht geringen schaden empfangen 
+<lb n="26"/>haben, sie nicht umbghen khöndenn, hierumb irer ordenlichen oberkaitt nachzethrachten, sich desselbigen zubeclagen, umb besichtigung des augenscheins zubitten und daruber umb rhatt und hülff, auch schutz und schirm anzerüeffen. Under welchen sachen innen jetzt 
+<lb n="27"/>von zwayen jaren här ain zimlicher costen und uber die sechs und zwentzig pfundt pfening auffgeloffen, darvon genandten auff <placeName ref="lub-places-117">Schellenperg</placeName> durch die verordnete amptleüth vorgemelter herrschafft <placeName ref="lub-places-11">Schellenperg</placeName> (und nicht durch sie, die clegere) zwey pfundt 
+<lb n="28"/>sechs schilling pfening zu dero geburnus zugethailtt und zuerlegen ufferlegt worden. Sie auch vermaindt, die beclagten sich desse kaines wegs zubeschweren, aber one angesehen desse sie solches im grundt abgeschlagen. Auss welchem allem ir guottwilligkaitt 
+<lb n="29"/>abgenomen und gespürth werden mage, dan sie niemals zu innen komen und sich vernemen lassen oder anerpotten, innen solche ire gemaine habende waid helffen zeschirmen, sonder lassen sie, die clegere, dem <placeName ref="lub-places-103">Rhein</placeName> weren und geprauchen sie, die be
+<lb break="no" n="30"/>clagte, dieselbige also rüewigkhlich one angesehen, das solcher erste verthrags oder spruchbrieve gutte anzaigung gebe und mitt sich pringe, das sie, die beclagte, auch was an den wüoren zuthun schuldig, und darzu die oberkaitt selbigen spruchbrieve
+<lb n="31"/>nach gestaltt und gelegenhaitt der sachen zu mindern oder zemehren vrbehaltten. Dernwegen sie nachmals gutter hoffnung, sie, die beclagte (in erwegung dessen alles) sich dises ringen und anderer cösten, so innen jederzeitt zuerhalttung 
+<lb n="32"/>derselben gemainen waide geburender und erzeltter massen zugethailtt wurdt, kaines wegs sperren, sonder denselben one alles verwaigern güettlich erlegen werden. Imvaal aber sie das wider ir verhoffen jhie nicht thuon wolten, satzten 
+<lb n="33"/>sie das zuerkandtnus rechtens, ob sie das nicht billich zuthun schuldig oder was darumb recht were. Über das die beclagten hinwiderumb fürpringen, sie es zumthail bey hievoriger anttwurt beleiben lassen welten, das aber clegere 
+<lb n="34"/>in letzster clage neben anderm inpracht, als solten sie, die beclagten, die jhenige sein, so die gemaine waiden den ersten verlessnen spruch brieven nach nutzen, aber hingegen inhaltt derselben solche nicht beschirmen noch zuerretten helffen begeren etc., 
+<lb n="35"/>weltten sie das also veranttwurten, sy verhofftendt, bisshero wuorens und andrer sachen halben, was innen zethon gepurt und sie zelaisten schuldig, gethon haben, wie gehorsamen underthonen und gethreuewen nachpuren zusteet. Zudem die angezogne 
+<lb n="36"/>spruchbrieve nur allein die gehapte spann ierer güetter wegen und nicht wuorens costen anlangen thundt, so syhe auch noch jhe und allwegen in diser herrschafft preüchig gewesst, wan landt oder oder andere cösten uffgeloffen, man solche uff die guettere 
+<lb n="37"/>und nicht die hausshaben gelegt. Wover dan diser begerte costen widerumb derm<unclear>a</unclear>ssen angelegt und fur die handtt genomen wurde, weren sie desse zefriden. Wissten auch dessfalls weitters nicht zubewilligen, dan sie nur geschworne und iherer 
+<lb n="38"/>ge<unclear>ma</unclear>indt thiener und knechte und würden sich auch iro nachpurenn oder <gap/> armen, so nichts hinder mergemelten wuren hetten, desse zubeschweren haben. Verhofftendt auch nicht, das sie ain solches zethun schuldig. Weltten es also mit der 
+<lb n="39"/>beschaidenhaitt gleichvals zu erkhandtnus rechtenns gesetzt habenn. Also auff clag, anttwurtt, red, widerrede, verlesung der eingelegten spruchbrieven und gethonem rechtsatz wardt mitt ainhelliger urthel zu recht erkhanndt: 
+<lb n="40"/>Erstlich, das die bemelte eingelegte verlessne brieff und sigel bey irem crefften sein und pleiben und dieweil auch dieselbige lautter mitt sich pringen, das die nachpuren auff <placeName ref="lub-places-117">Schellenperg</placeName>, die beclagte, mit innen, den clegern, gemainlich zewunnen, 
+<lb n="41"/>zewayden, auch anders zenutzen und zeniessen haben und darzu innen zu geburender zeitt zewuoren zehelffenn schuldig, das sie sich dises streittigenn costenns, so innen vor derzeitt durch die amptleüth erzelter herrschafft <placeName ref="lub-places-11">Schellenperg</placeName> ufferlegt, 
+<lb n="42"/>auch nicht zuverwidren noch zuendtschutten, sonder denselben guettlich erlegen. Was auch kunfftiglich und hinfuro wuorens halben auff deren zu <placeName ref="lub-places-2">Raggell</placeName> anhaltten in besichtigung derselben wuoren oder besuochung angesetzter tagsatzungen und sonsten durch die ober
+<lb break="no" n="43"/>kaitt, amptleuth, frembde oder andere einlendische darzugezogne und verordnete personen verzertt oder sonsten uffghon möchte oder wurde, solche cösten durch dieselben amptleuth selbiger herrschafft, so zu jederzeitt im ampt und bevelch haben neben dem
+<lb n="44"/>verordneten landtvogt oder verwaltter, als von hoher oberkaitt wegen, gebüerender massen zerthailt unnd von ainander gesündertt und was also durch sie den beclagten uff <placeName ref="lub-places-117">Schellenperg</placeName> zugethailtt, solches jedem underthon oder nachburen alda durch 
+<lb n="45"/>ire geschworne nach desse vermögenn und auff tryb und trab gelegt und von innen eingezogenn, auch an gebüerende orth und ende, dahin das gehörig, uberanttwurtt werden. Darzu auch den heüttigen costen, was uff richter, gerichte und derselben 
+<lb n="46"/>zugehörige ganngen, zebezalen schuldig sein sollenn. Was aber jetzundt und <gap/>vormaln in und usserhalb rechtens uff baide partheyen diser sach wegen fur uncosten uffgangen und geloffen und noch weitters uff sie ghon möchte, soll jettwederer thaile 
+<lb n="47"/>an ime selbs habenn und tragenn etc. Diser urthel unnd gerichts handels begerten erstgenandte bayde partheyen, auch jettwederer thail besonders durch derselben fürsprechen vom gericht aines urthelbrieffs, der ime under meinem, des 
+<lb n="48"/>richters, anhangenden insigel mitt urthel zegeben erkhandt wardt. Unnd des alles zu warem offnem uhrkhundt hab ich, obgedachter aman, vermeg ergangner urthel von gerichts wegen, als erkhandt ist (doch gemeltem gerichtt, 
+<lb n="49"/>auch mir und meinen erben one schaden), mein insigel offentlich an disen brieff gehenckt, der geben ist <origDate>mittwochs nach unser liebenn frauwen liechtmesstage, den vierdten february, von Christi, unsers lieben herren und seeligmachers, 
+<lb n="50"/>gepuorth gezaltt thausenndt funffhundertt sybendtzig unnd neün jare</origDate>. 
+</p>
+        <p>
+          <pb facs="lub-media-2395" n="2"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

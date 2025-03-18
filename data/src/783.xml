@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-783">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen der Gemeinde Schellenberg und einigen Gutsbesitzern von Ruggell wegen Weg- und Weiderechten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-783">LI-GASb, U 3</ref> (<orgName key="li-gasb" ref="lub-objects-782">Gemeindearchiv Schellenberg</orgName>) / Originaldatierung: 18. Mai 1530 / Beschreibstoff: Pergament / Siegel: 1 Siegel (Editionsvorlage)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Gericht unter dem Vorsitz von Christian Noll, alt Ammann am Eschnerberg, bestätigt im Streit zwischen der Gemeinde Schellenberg, vertreten durch die Geschworenen Hans Walch, Jos Fehr und Georg Richitzer, einerseits und Lienhart Weiss und seinen Verwandten, alle wohnhaft in Ruggell, andererseits nach Verhörung von Kundschaften den Urteilbrief von Ludwig von Brandis aus dem Jahr 1497 und hält fest, dass die Güter unterhalb des Zauns von Brüechlis in Ruggell bis zur Bangswesa in der Zeit nach dem Mähen bis Mitte Mai sowohl von den Leuten von Schellenberg wie von denen von Ruggell als Weideflächen genutzt werden und nicht eingezäunt werden dürfen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-152">Nutzungsrecht</term>
+          <term ref="lub-keywords-359">landsgewere</term>
+          <term ref="lub-keywords-411">ausligen</term>
+          <term ref="lub-keywords-435">ausschlagen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-14">Noll, Christian</persName>
+          <date when="1530-05-18">18. Mai 1530</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gasb_u_3-0001.jpg" xml:id="lub-media-2393" source="gasb-u-003-v-klein.jpg" corresp="A1"/>
+    <graphic url="li-gasb_u_3-0002.jpg" xml:id="lub-media-2394" source="gasb-u-003-r-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2393" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-14">Cristan Noll</persName>, altaman am <placeName ref="lub-places-16">Eschnerperg</placeName>, bekhenn offennlich unnd thun khundt allermenigklich mit dissem brieve, das uff <date when="1530-04-06">mitwoch vor dem Palms tag nechst vor datho diss brieffs verscheinen</date>, als ich innamen und 
+<lb n="2"/>von wegen <persName ref="lub-actors-209">Hanns Eris</persName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellennp<unclear>er</unclear>gg</placeName> von gnaden und emphelchnus des wolgebornen herrn, herrn <persName ref="lub-actors-8">Rudolffs graven zu Sultz</persName>, lanndtgraven im <placeName ref="lub-places-18">Cleckhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu 
+<lb n="3"/><placeName ref="lub-places-17">Rotweil</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegkh</placeName> und kunig<unclear>kl</unclear>icher magestat zu <placeName ref="lub-places-146">Hungern</placeName> und Behaim etc., meins genedigissten herrn, stathalter der <placeName ref="lub-places-160">Oberössterreichischen Lannden</placeName> etc., meins genedigen herrn, daselbst in bemelter 
+<lb n="4"/>herschafft <placeName ref="lub-places-11">Schellenperg</placeName> an gewonlicher richstat uff <placeName ref="lub-places-31">Rauffenperg</placeName> offennlich zu gericht gesessen bin, fur mich und offenn verpannen gericht komen synnd an ainem tail die erbern geschwornen der gnos <placeName ref="lub-places-117">Schellenperg</placeName> als mit namen <persName ref="lub-actors-424">Hans 
+<lb n="5"/>Walch</persName>, <persName ref="lub-actors-2051">Jos Föer</persName> und <persName ref="lub-actors-2052">Gorgius Richitzer</persName> und am andern tail <persName ref="lub-actors-204">Leinhart Weiss</persName>, <persName ref="lub-actors-2054">Ulrich</persName> und <persName ref="lub-actors-2053">Hans Mayer</persName>, <persName ref="lub-actors-2056">Hans Egli</persName>, <persName ref="lub-actors-2055">Andras</persName> son, <persName ref="lub-actors-2057">Hans Egli</persName>, <persName ref="lub-actors-2058">Ulrichs</persName> son, <persName ref="lub-actors-2059">Annd<unclear>ra</unclear>s Eglin</persName>, sein pruoder, und <persName ref="lub-actors-2060">Hans Kinds</persName> verlassne witfraw, alle von <placeName ref="lub-places-2">Raggel</placeName>, und 
+<lb n="6"/>als sy sich zu paider seits mit iren erlaupten fursprechen nach <unclear>ffo</unclear>rm des rechten angedingt gegen einandren in recht gestalten, clagten die benanten geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> durch iren fursprechen hin zu <persName ref="lub-actors-204">Leinhart Weisen</persName> und 
+<lb n="7"/>seinen mitverwandten disse maynung, wie sy, obgenante <persName ref="lub-actors-204">Leinhart Weiss</persName> und seine mitverwandten, auch ander mer zu <placeName ref="lub-places-2">Raggel</placeName>, inen von <placeName ref="lub-places-117">Schellenperg</placeName> ir steg und weg, dardurch sy mit irem vech, treib und tratt uff die wysen <placeName ref="lub-places-650">Panx</placeName> von 
+<lb n="8"/><placeName ref="lub-places-648">Priechlis</placeName> hinaus faren sölten, verschlagen, darzu ir wun und waid, die sy von <placeName ref="lub-places-117">Schellenperg</placeName> nach der segens biss zu <date when="--05-16">mitten mayen</date> je und je von alterher genutzet und geprucht, ingezeint und mit irem aigen gewalt bishär vor und inge
+<lb break="no" n="9"/>halten. Nw haben aber etlich inhaber derselbigen ingezeinten gueter jetzemal uff ir, geschwornen ansüchen, dieselbigen guter widerumb <term ref="lub-keywords-435">ausgeschlagen</term>. Demnach steunden sy, die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName>, alhie und begerten das <persName ref="lub-actors-204"><unclear>Lein</unclear><lb break="no" n="10"/>hart Weiss</persName> und seine mitverwandten ir ingezeinte guter auch widerumb <term ref="lub-keywords-435">ausschlach</term> und uffthun. Wo sy das aber je nit guetlich thun welten, das sy dann mit urtel und recht, als sy, die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName>, verhofften und getrewten, pillich
+<lb n="11"/>dahin gewissen selten werden. Dargegen bemelte <persName ref="lub-actors-204">Leinhart Weiss</persName> und seine mitverwandten durch iren fursprechen reden liessen, disse klag neme sy frembd und unpillich an die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName>, dann sy weder steg 
+<lb n="12"/>noch weg verschlagen hetten, so inen von <placeName ref="lub-places-117">Schellenperg</placeName> an irem treib und thratt, uff <placeName ref="lub-places-445">Panx</placeName> zufaren, gantz kainen schaden prächt noch pringen möcht. Sy habend auch denen von <placeName ref="lub-places-117">Schellenperg</placeName> weder ir wun noch waid ingezeint, sonder ir aigne guter, so sy 
+<lb n="13"/>erkofft und bezalt, auch etlich also ingezeint ererpt und uber alle <term ref="lub-keywords-359">landss gewer</term> und mans gedechtnus ingehept haben. Verhofften, daruff denen von <placeName ref="lub-places-117">Schellenperg</placeName> gar nicht zuthun schuldig sein und das auch weder gericht noch recht ir aigne güter 
+<lb n="14"/>zu ainem ausschlag erkennen sölt, es bescheche dann ain gemainer ausschlag in der gantzen herschafft <placeName ref="lub-places-11">Schellennperg</placeName>. Dann etlich pawen uff dissen gutern und wo sy die nit ingezeint haben, so möchten sy von armut wegen vileicht nit under 
+<lb n="15"/>meinem genedigen herrn graff <persName ref="lub-actors-8">Rudolffen von Sultz</persName> etc. beleiben. Hinwider die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> reden liessen gleich wievor, dann sovil mer, <unclear>wo</unclear> <persName ref="lub-actors-204">Leinhart Weiss</persName> und seine mitverwandten nit glauben welten, das disse guter 
+<lb n="16"/>von alterher je und je also nach der segens biss uff <date when="--05-16">mitten mayen</date> genutzt und gepraucht worden wärend, auch ausligen sölten, so begerten sy, from, erber piderbleut, auch brieff und sigel darumb zuverhören. Und nach langen worten satztn 
+<lb n="17"/>sy zu erkantnus des rechtens, ob dieselben inen nit pillich gehört sölten werden. Hiruff ist nach meiner umbfrag mit gemainer urtell zu recht erkhendt und gesprochen, diewyl kundtschafft der warhait dem begerenden nit abgeschlagen 
+<lb n="18"/>sell werden, das dann die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> uff heutt, dissen tag, kundtschafft durch leut und brieff, wo sy die anderst gehaben möchten, stellen und nennnen. Wo sy die aber nit gehaben möchten, das sy dann dieselben uff heut, dissen t<supplied>a</supplied>g, 
+<lb n="19"/>nennen und ob vierzechen tagen und under drey wochen stellen, wo sy anderst im land ist. Wo die aber nit im lannd wäre, das sy dann drey tag und sechs wochen zu selicher kundtschafft zeil und tag haben, alles nach landsrecht der herschafft 
+<lb n="20"/><placeName ref="lub-places-11">Schellenperg</placeName>, doch alle vierzechen tag furwenden, was sy daran sume und irre. Und selle seliche kundtschafft uff den spennen und stösen rechtlich gehert werden und darnach geschechen, was recht ist, doch dem gegen tail sein inred und dergleichen 
+<lb n="21"/>kundtschafft, ob sy des noturfftig wurde zustellen und zuverhören, hirinne vorbehalten. Also nach ausgang der vierzechen tagen uff <date when="1530-05-04">mitwoch nach dem maystag vor datho ditz brieffs</date>, do ich obbemelter mase uff <placeName ref="lub-places-31">Rauffenperg</placeName> zu gericht 
+<lb n="22"/>gesessen bin und paid obgenant partheyen aber vor mir ingericht erschinen, begerten die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> durch iren zu recht erlaupten furspr<unclear>ec</unclear>hen der erssten ainen besigelten spruchbrieff zuverhören, der von wort zu 
+<lb n="23"/>wort zu wort laut also: <gap/><note>Es folgt der Text von LUB II, GemeindeA Schaan, U 2 (7.8.1497).</note> 
+<lb n="24"/>Und als disser spruchbrieff gelesen und verhört ward, begerten sy von <placeName ref="lub-places-117">Schellenperg</placeName> weiter durch denselben iren 
+<lb n="25"/>fursprechen piderbleut als mitnamen <persName ref="lub-actors-419">Hans Mayern</persName>, altaman, <persName ref="lub-actors-221">Thias Wangner</persName>, <persName ref="lub-actors-2061">Jös Eri</persName> zu <placeName ref="lub-places-2">Raggel</placeName>, <persName ref="lub-actors-2062">Jacob Alber</persName> den jungen, <persName ref="lub-actors-418">Ulrich Patleiner</persName>, <persName ref="lub-actors-2063">Hans Eri</persName> zu <placeName ref="lub-places-35">Eschach</placeName>, <persName ref="lub-actors-2066">Jacob Hartman</persName> von <placeName ref="lub-places-287">Göffis</placeName>, <persName ref="lub-actors-959">Jerg Kremeln</persName>, <persName ref="lub-actors-1517">Baschion Fäeren</persName>, <persName ref="lub-actors-1230">Hansen Alber</persName> den alten, <persName ref="lub-actors-2064">Ulrich Vischern</persName>, <persName ref="lub-actors-1270">Cristan 
+<lb n="26"/>Missner</persName> Velsen, <persName ref="lub-actors-2065">Ulrich Phefferli</persName> zu Puel<note><placeName key="529">Büel (Eschen)</placeName> oder <placeName key="651">Büel (Gamprin)</placeName>.</note>, <persName ref="lub-actors-953">Ulrich Eri</persName>, <persName ref="lub-actors-1297">Hans Wangner</persName> zu <placeName ref="lub-places-37">Missnen</placeName>, <persName ref="lub-actors-1114">Marx Fetzer</persName>, <persName ref="lub-actors-1269">Hans Mundli</persName> und <persName ref="lub-actors-1251">Jos Heltzlin</persName> nach laut obbemelter urtell disser sachen halb auch z<unclear>uver</unclear>hörn. Daruff <persName ref="lub-actors-204">Leinhart Weiss</persName> mitsampt seinen mitverwandten durch iren fur
+<lb break="no" n="27"/>sprechen reden liessen, wie etlich under dissen benempten personen, die in disser sach also nah verwandt und gefreundt wären, auch daran zugewinnen und zuverlieren hetten, deshalben sy vermainten, dieselbigen disser sachen halb nit kundtschafft geben noch gehört selten
+<lb n="28"/>werden. Satzten das also zu rechtlicher erkandtnus. Daruff ward nach meiner um<unclear>bf</unclear>rag mit ainhelliger urtell zu recht erkendt und gesprohen, das alle die, so gegen den genanten klegern und antwurtern in der freundtschafft zum dritten  und nächer verwandt oder an disser sach 
+<lb n="29"/>ainihen gewin oder verlusst haben oder gehaben möchten, das dieselbigen pill<gap/> in disser sach kain kundtschafft geben sellen. Uff disse ergangne urtel haben die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> in gerichts ring uff den genanten stössen und gutern gehalten fur mich und offen
+<lb break="no" n="30"/>verpanen gericht gestelt die erbern und obgenanten <persName ref="lub-actors-418">Ulrich Patleiner</persName>, <persName ref="lub-actors-2066">Jacob Hartman</persName>, <persName ref="lub-actors-1517">Baschion Fäeren</persName>, <persName ref="lub-actors-1270">Cristan Missnern</persName> Velsen und <persName ref="lub-actors-1230">Hansen Albern</persName> den alten. Die haben alle bey iren aiden, so sy alspald vor mir richter und gantzem gericht mit uffgehaben ffingern und gelerten worten leiplich
+<lb n="31"/>zu got und den hailigen geschworen, nämlich und anhellig gesagt, das inen war, kundt und wissen sey, das gleicher weiss wie jetz umb disse sachen auch also ain spann bey zway- oder dreyunddreissig jaren ungefarlich gehalten. Dozumal seyend sy hirten gewesst und haben alda umb dissen 
+<lb n="32"/>stoss gehuet. Do hab der wolgeborn herr, herr <persName ref="lub-actors-1670">Ludwig von Brandiss</persName> seligen gedech<unclear>tnu</unclear>s in der sach gehandelt und die geschwornen gantzer herschafft <placeName ref="lub-places-11">Schellenperg</placeName> uff dissen stös verordnet und <gap/>schafft, die seyend also durch disse guter under dem veldzun krad hinaus von <placeName ref="lub-places-648">Priechlis</placeName> biss 
+<lb n="33"/>ins <placeName ref="lub-places-649">Pocks Hurd</placeName> und von dannen demselben zun nach biss an <placeName ref="lub-places-650">Panx Wisen</placeName> gemainklich gegangen und haben alle ingeschlagne guter und zein uffgethan, dann allain ain ackher nit, der sey dam<gap/>ls auch pawen gewessen. Desselbigen hab man nit lenger dann biss nach dem schnitt ver
+<lb break="no" n="34"/>schonet. Und seyend sy, die hirten, also mit allem irem vech und gehirtetem stab an ainem abent inen, den geschwornen, gleich nach gefaren und fur und fur, diewyl sy hirten gewessen, alda nach der segens biss zu <date when="--05-16">mitten mayen</date> mit irem vech gehiet und gewaidet. Und als
+<lb n="35"/>disse kundtschaffter verhört wurden, liessen die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> durch iren fursprechen weiter reden, hieby brieven und leuten verneme man wol, das disse guter <term ref="lub-keywords-411">ausligen</term> und, wie sy in irer klag gefuert, genutzet selten werden. Mit dissen und vil mer langen worten, so sy, 
+<lb n="36"/>paid partheyen, gegen einandern geprauchten, alle hirine unnoturfftig zubeschribe<unclear>n</unclear>, satzten paidtail also ir klag, antwurt, red, widerred und alles, so im rechten gepraucht, hin zu rechtlicher erkandtnus. Daruff fragt ich, obgenanter richter, die urtelsprecher des rechten umb uff 
+<lb n="37"/>den aid, was deshalben recht wäre. Die haben mit umbgeender urtell zu recht erkendt und gesprochen, das aller handel, wie der in klag, antwurt, red, widerred, verhörung des spruchbrieffs und der obgemelten kundtschafften und aller furwendung im rechten ergangen, in geschrifft ver
+<lb break="no" n="38"/>griffen, daruff verstendiger weiser leuten radt zephlegen werden und furo daruff geschechen selle, das recht sey. Also nach selichem gehaltem und gephlegnem radte uff heut, datho ditz brieffs, als ich obbemelts meins genedigen herrn graff <persName ref="lub-actors-8">Rudolffs von Sultz</persName> etc. mayen zeit
+<lb n="39"/>gericht vorbemelter gestalt besessen hab, paid angezaigt partheyen abermals vor mir, richter, und gantzem gericht erscheinen und zu paider seite durch ir erlaupt fursprechen der urtel, so egemelter mass verdenckhen radts zephlegen genomen ist, begert. Daruff nah mein, 
+<lb n="40"/>richters, umbfrag die urtelsprecher mit ainhelliger urtell nach klag, antwurt, red, widerred, verhörung der kundtschafften, leuten, brieven und allem furtrag im rechten, auch nach radt weiser und hochverstendiger leut, auch ir selbs aller pesste verstendtnus abermal uff iren aid 
+<lb n="41"/>zu recht erkendt und gesprochen also, das alle die guter, so under dem rechten alten veldzun krad hinaus von <placeName ref="lub-places-648">Priechlis</placeName> biss ins <placeName ref="lub-places-649">Pockhs Hurd</placeName> und von dannen hin demselben veldzun nach biss an <placeName ref="lub-places-650">Panx Wisen</placeName> nach der segens biss zu <date when="--05-16">mitten mayen</date> von denen von <placeName ref="lub-places-117">Schel
+<lb break="no" n="42"/>lenperg</placeName> und <placeName ref="lub-places-2">Raggel</placeName> mit wunnen, waiden, treib und tratt, wie von alterhär gewessen ist, nach inhalt des bemelten spruchbrieffs nutzen, niessen und gemainklich mit einandern geprauhen. Und sellen disse guter underhalb genants veldzun uff und die zein hinweg gethan
+<lb n="43"/>und furohin nit mer gemacht werden. Und dann des cosstens halb, was mit kundtschafft, schreiber, sigel und furpott gelt uffgegangen ist, sellen <persName ref="lub-actors-204">Leinhart Weiss</persName> und seine mitverwandten zu iren selbs handen nemen und an deren von <placeName ref="lub-places-117">Schellenperg</placeName> entgeltnus, cossten 
+<lb n="44"/>und schadens ausrichten und bezalen, was aber usserhalb des rechtens, wie vorstat, paid partheyen, in welcherlay gestalt das wäre, uffgetriben, soll jede parthey ir aignen uffgeloffnen cossten und schaden selbs behalten und unentgolten der andern parthey erlegen. Disser 
+<lb n="45"/>jetz gemelten urtln und process haben die geschwornen von <placeName ref="lub-places-117">Schellenperg</placeName> durch iren fursprechen von dem gericht ains brieffs begert, der inen under mein, richters, insigel mit urtel und recht zugeben erkendt ist. Hirumb zu urkundt so hab ich mein aigen 
+<lb n="46"/>ynnsigel, doch dem gericht, auch mir und mein erben on allen schaden, an dissen brieff gehenckt. Beschechen uff <origDate>mitwoch nach dem sontag cantate nach Cristi, unnsers lieben herrn, gepurdt feinffzechenhundert und in dem dreissig
+<lb break="no" n="47"/>isten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2394" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
