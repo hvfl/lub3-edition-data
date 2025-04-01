@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-624">LI-LA, U 46</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-624">LI-LA, U 46</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten (Editionsvorlage)</witness>
           <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-479">LI-GAS, U 8</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 1. Mai 1516 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
           <witness xml:id="B">B: Kopie, Signatur: LI-AAV, U 17 (<orgName corresp="li-aav" ref="lub-objects-1029">Alparchiv Vaduz</orgName>) / Entstehungszeit: 17./18. Jahrhundert</witness>
         </listWit>
@@ -164,7 +164,7 @@
                     <lb break="no" n="54"/>
                     gerten inen all dry tail brief und urkund, die inen durch di bisitzer ainhelligclich under min, obmanns, insigel zu geben erkendt worden sind. Hierumm des alles zu urkund geben wir ir jedem tail ainen brief, all dry glich lutendt
                     <lb n="55"/>
-                    und von unser der zugesetzten pitt wegen mit min obmanns <persName ref="lub-actors-234">Hannsen Tscholen</persName> aigem anhangenden insigel, mir och uns zu gesetzten und allen unsern erben one schaden. Besigelt an <origDate>sant Philips und sant Jacobs, der zwayen hailigen
+                    und von unser der zugesetzten pitt wegen mit min obmanns <persName ref="lub-actors-234">Hannsen Tscholen</persName> aigem anhangenden insigel, mir och uns zu gesetzten und allen unsern erben one schaden. Besigelt an <origDate when="1516-05-01">sant Philips und sant Jacobs, der zwayen hailigen
                     <lb n="56"/>
                     zwölfbotten abend, nach Cristi geburt fünfzehenhundert und darnach in dem sechzehenden jare</origDate>.
                 </p>
@@ -203,7 +203,7 @@
                     <lb n="15"/>
                     hinder dem <placeName ref="lub-places-138">Gulman</placeName>, zwischen der herrschafft undt
                     <lb n="16"/>
-                    den gemeindten <placeName ref="lub-places-1">Vaduz</placeName> undt <placeName ref="lub-places-53">Schan</placeName>, de dato <origDate>sancti Philippi
+                    den gemeindten <placeName ref="lub-places-1">Vaduz</placeName> undt <placeName ref="lub-places-53">Schan</placeName>, de dato <origDate when="1516-05-01">sancti Philippi
                     <lb n="17"/>
                     undt Jacobi tag 1516</origDate>.
                 </p>

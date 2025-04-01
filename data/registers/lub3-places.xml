@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-03-18 15:35:05 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-04-01 14:03:57 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1050,6 +1050,7 @@
             <placeName type="alternative" xml:lang="de">Trißnerberg</placeName>
             <placeName type="alternative" xml:lang="de">Trisnberberg</placeName>
             <placeName type="alternative" xml:lang="de">Thrisner Berg</placeName>
+            <placeName type="alternative" xml:lang="de">Trisnerperg</placeName>
             <location>
               <geo>47.11815 9.54197</geo>
               <settlement xml:lang="de">Triesenberg</settlement>
@@ -2789,6 +2790,7 @@
             <placeName type="alternative" xml:lang="de">Blanckhen</placeName>
             <placeName type="alternative" xml:lang="de">Blankhen</placeName>
             <placeName type="alternative" xml:lang="de">Planckhen</placeName>
+            <placeName type="alternative" xml:lang="de">Blannckhen</placeName>
             <location>
               <geo>47.18516 9.54437</geo>
               <country xml:lang="de">Liechtenstein</country>
@@ -3046,6 +3048,7 @@
             <placeName type="sort" xml:lang="de">kulm</placeName>
             <placeName type="alternative" xml:lang="de">Gulman</placeName>
             <placeName type="alternative" xml:lang="de">Gulm</placeName>
+            <placeName type="alternative" xml:lang="de">Gulmen</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -3797,7 +3800,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Weiler südöstlich oberhalb von Fromahus, nördlich der Egga.</p>
+              <p>Weiler südöstlich oberhalb von Fromahus, nördlich der Egga. Im späten 16. und im 17. Jahrhundert eines der fünf "viertel" der Gemeinde Triesenberg.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-183">
@@ -3937,7 +3940,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Weiler östlich oberhalb des Rotabodnerwalds, westlich unterhalb von Silum.</p>
+              <p>Weiler östlich oberhalb des Rotabodnerwalds, westlich unterhalb von Silum. Im späten 16. und im 17. Jahrhundert eines der fünf "viertel" der Gemeinde Triesenberg.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-197">
@@ -4384,9 +4387,9 @@
             </note>
           </place>
           <place type="V" xml:id="lub-places-216">
-            <placeName type="main" xml:lang="de">Feld</placeName>
-            <placeName type="full" xml:lang="de">Feld / Triesen</placeName>
-            <placeName type="sort" xml:lang="de">feld</placeName>
+            <placeName type="main" xml:lang="de">Feld (Triesen)</placeName>
+            <placeName type="full" xml:lang="de">Feld (Triesen) / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">feld (triesen)</placeName>
             <placeName type="alternative" xml:lang="de">Tryßner Veldt</placeName>
             <placeName type="alternative" xml:lang="de">Drisnerveld</placeName>
             <location>
@@ -9653,7 +9656,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Weiler östlich oberhalb des Weilers Steinord.</p>
+              <p>Weiler östlich oberhalb des Weilers Steinord. Im späten 16. und im 17. Jahrhundert eines der fünf "viertel" der Gemeinde Triesenberg.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-475">
@@ -13152,10 +13155,43 @@
               <p>Wiesen, Häuser und Strasse im Dorf, nordöstlich der Kirche. Der Strassenname wird offiziell mit Präposition (Im Reberle) verwendet.</p>
             </note>
           </place>
+          <place type="S" xml:id="lub-places-627">
+            <placeName type="main" xml:lang="de">Schattenburg</placeName>
+            <placeName type="full" xml:lang="de">Schattenburg / Feldkirch (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">schattenburg</placeName>
+            <placeName type="alternative" xml:lang="de">Schloss Feldkirch</placeName>
+            <location>
+              <geo>47.23604 9.59967</geo>
+              <settlement xml:lang="de">Feldkirch</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">627</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schattenburg"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q690288"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Schattenburg"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/242317835/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4820983-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10280548"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="V" xml:id="lub-places-628">
-            <placeName type="main" xml:lang="de">Feld</placeName>
-            <placeName type="full" xml:lang="de">Feld / Vaduz</placeName>
-            <placeName type="sort" xml:lang="de">feld</placeName>
+            <placeName type="main" xml:lang="de">Feld (Vaduz)</placeName>
+            <placeName type="full" xml:lang="de">Feld (Vaduz) / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">feld (vaduz)</placeName>
             <placeName type="alternative" xml:lang="de">Vaduzer Veldt</placeName>
             <location>
               <settlement xml:lang="de">Vaduz</settlement>
@@ -13695,7 +13731,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-03-18T15:35:07+01:00">teiHeader was automatically produced from the database 2025-03-18T15:35:07+01:00</change>
+      <change when="2025-04-01T14:04:00+02:00">teiHeader was automatically produced from the database 2025-04-01T14:04:00+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

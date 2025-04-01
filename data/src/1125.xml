@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1125">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Leonhard Kaufmann aus Triesenberg hat in Sonnenberg jemanden ermordet</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-1125">AT-VLA, Vogteiamt Bludenz 167/1559</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 8. August 1559 / Beschreibstoff: Papier, 5 Seiten / Siegel: 5 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Oberösterreichische Regierung hat von Eitl Hans Gienger, Vogt zu Feldkirch, einen Bericht über den Totschlag von Lienhart Kaufmann, in der österreichischen Grafschaft Sonnenberg erhalten und möchte nun von Merk Sittich von Hohenems mehr über die Hintergründe erfahren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-147">Totschlag</term>
+          <term ref="lub-keywords-214">Gericht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-929">Oberösterreichische Regierung</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1559-08-08">8. Aug 1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-vla__vogteiamt_bludenz_167_1559-0001.jpg" xml:id="lub-media-2450" source="vla-vogteiamt-bl-167-1559-arnegger002.jpg" corresp="A"/>
+    <graphic url="at-vla__vogteiamt_bludenz_167_1559-0002.jpg" xml:id="lub-media-2451" source="vla-vogteiamt-bl-167-1559-arnegger003.jpg" corresp="A"/>
+    <graphic url="at-vla__vogteiamt_bludenz_167_1559-0003.jpg" xml:id="lub-media-2452" source="vla-vogteiamt-bl-167-1559-arnegger004.jpg" corresp="A"/>
+    <graphic url="at-vla__vogteiamt_bludenz_167_1559-0004.jpg" xml:id="lub-media-2453" source="vla-vogteiamt-bl-167-1559-arnegger005.jpg" corresp="A"/>
+    <graphic url="at-vla__vogteiamt_bludenz_167_1559-0005.jpg" xml:id="lub-media-2454" source="vla-vogteiamt-bl-167-1559-arnegger006.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2450" n="1"/><lb n="1"/>Edler, vester, lieber frund, unnser frundlich diennst zuvor. 
+<lb n="2"/>Was massen unns der römisch kayserlichen mayestät etc. unnsers aller
+<lb break="no" n="3"/>gnedigisten herrn vogt zu <placeName ref="lub-places-10">Veldkirch</placeName>, <persName ref="lub-actors-735">Eytl Hanns 
+<lb n="4"/>Gienger</persName>, für <persName ref="lub-actors-755">Leonharden Kaufman</persName> der entleybung  
+<lb n="5"/>halben, so er in der herrschafft <placeName ref="lub-places-47">Sonnenburg</placeName>, ewrer  
+<lb n="6"/>verwaltung, begangen, umb schreyben und bevelh  
+<lb n="7"/>an euch ersuecht, das habt ir aus eingethonem  
+<lb n="8"/>seinem schreyben zuvernemen. Dieweyl wir aber  
+<lb n="9"/>kain wissen tragen, wie sich berürte enntleybung  
+<lb n="10"/>zuegetragen und verloffen, so ist demnach unnser  
+<lb n="11"/>bevelh an euch, das ir unns desshalben sambt wi
+<lb break="no" n="12"/>dersenndung ermelts vogts schreyben, ewrn fürder
+<lb break="no" n="13"/>samen bericht in schrifft uberschicket, unns darnach 
+<lb n="14"/>wissen zuhalten. Daran volzicht ir unnser  
+<lb n="15"/>maynung. Datum <placeName ref="lub-places-19">Innsprugg</placeName>, den <origDate when="1559-08-08">viii dtag  
+<lb n="16"/>augusti anno etc. lix.</origDate> 
+</p>
+        <p><lb n="17"/>Stathalterambtsverwalter, regenten  
+<lb n="18"/>und räte <placeName ref="lub-places-160">Oberösterreichischer Lannde</placeName>. 
+</p>
+        <p><pb facs="lub-media-2454" n="2"/><lb n="19"/>Dem edlen, vesten <persName ref="lub-actors-523">Merck Sittichen von  
+<lb n="20"/>Embs</persName>, römisch kayserlicher mayestät etc. vogt zu <placeName ref="lub-places-205">Bludenz</placeName>  
+<lb n="21"/>und <placeName ref="lub-places-47">Sonnenburg</placeName>, unnserm lieben frund. 
+<lb n="22"/><placeName ref="lub-places-205">Bludenz</placeName> 
+<lb n="23"/><persName ref="lub-actors-755">Leonhardt Kaufmans</persName> begangne entleibung. 
+</p>
+        <p><pb facs="lub-media-2451" n="3"/><lb n="24"/>Wolgeborn, edel, gestrenng, hochgelert unnd vesst genedig  
+<lb n="25"/>herrn, eurn gnaden seyen mein unnderthenig gehorsam  
+<lb n="26"/>unnd geflissen diennst zuvoran beraith. Genedig hern,  
+<lb n="27"/>an heut datho ist mein diener, so mir sambt anndern die wacht  
+<lb n="28"/>im <placeName ref="lub-places-627">Schloß</placeName> alhie versicht, sambt seiner schwester, so <persName ref="lub-actors-755">Lienn
+<lb break="no" n="29"/>hhardten Kaufmanns</persName> ab dem <placeName ref="lub-places-41">Trisnerperg</placeName> eeliche hauss
+<lb break="no" n="30"/>fraw ist, unnd ierem voggt unnd anndern freunden, vor 
+<lb n="31"/>mir erscheinen, mir angezaigt, nachdem derselb <persName ref="lub-actors-755">Lienhardt  
+<lb n="32"/>Kaufman</persName> kurz vergangner zeyt ainem todschlag in der  
+<lb n="33"/>herrschafft <placeName ref="lub-places-47">Sonnenberg</placeName> beganngen unnd sich mit des ent
+<lb break="no" n="34"/>leybten freundtschafft gern vertragen welten, das sy 
+<lb n="35"/>umb zuegebung desselben, auch benennung aines güet
+<lb break="no" n="36"/>iger tags, der kayserlichen mayestät voggt zue <placeName ref="lub-places-205">Bludennz</placeName> unnd <placeName ref="lub-places-47">Sonn
+<lb break="no" n="37"/>enberg</placeName>, <persName ref="lub-actors-523">Merckh Syttichen von Embs</persName>, als oberkaith desselben 
+<lb n="38"/>orts pitlich angelanngt, welches er inen aber on eur gnaden  
+<lb n="39"/>vorwissen nit verwilligen wellen, sonnder sy verab
+<lb break="no" n="40"/>schidt, er müese es zuvor an eur gnaden gelanngen lassen. 
+<lb n="41"/>Unnd damit sy zue solchem güetigen vertrag dest würckhlichen  
+<lb n="42"/>komen mögen, sy mich umb mein fürschrifft an eur gnaden  
+<lb n="43"/>mitzethailen mit hochem pith ersuecht, die ich inen nit  
+<lb n="44"/>waigern wellen. Genedig hern, dieweyl ich dann  
+<lb n="45"/>verstannden, das sich des entleibten freundtschafft ver
+<lb break="no" n="46"/>tragen zelassen urpüttig, unnd der tetter durch den ent
+<lb break="no" n="47"/>leibten etwas darzue verursacht, auch er, tetter, vil 
+<lb n="48"/>klainer kinder hat, so langt an eur gnaden mein unnd
+<lb break="no" n="49"/>erthenig pith, die geruechen genedigclich, gemeltem hern 
+<lb n="50"/>vogt zue <placeName ref="lub-places-205">Bludennz</placeName> zeschreiben, das er in ainen guetigen  
+<lb n="51"/>vertrag verwillige unnd güetige tagsazung, auch unnd
+<lb break="no" n="52"/>erhanndler darzue verordne, unnd sovil die lanndts
+<lb break="no" n="53"/>huldigung unnd straff belangt, ime, tetter, darinnen auch 
+<lb n="54"/>gnad unnd barmherzigkhaith mitgethailt werde. Solches  
+<lb n="55"/>soll ich in unnderthenigkaith verdiennen und gemelter fraw  
+<lb n="56"/>und kinder sambt dem tetter werden ungezweyfelt solches  
+<pb facs="lub-media-2452" n="4"/>
+<lb n="57"/>zuverdiennen mit ierem gepeth gegen gott, umb eur gnaden  
+<lb n="58"/>lanng leben zue pitten geflissen sein. Tue eurn gnaden  
+<lb n="59"/>mich unnd sy damit unnderthenigclich zue gnaden befelhen. 
+<lb n="60"/>Datum <placeName ref="lub-places-10">Veldkirch</placeName>, den <date when="1559-07-27">xxvii tag jhuli anno etc. lviiii</date>. 
+<lb n="61"/>Euer gnaden  
+<lb n="62"/>Unnderthenig gehor
+<lb break="no" n="63"/>samer dienner
+</p>
+        <p><lb n="64"/><persName ref="lub-actors-735">Eyttel Hans Gienger</persName><lb n="65"/>vogtt zu <placeName ref="lub-places-10">Veldkirch</placeName></p>
+        <p><pb facs="lub-media-2453" n="5"/><lb n="66"/>Praesentato <date when="1559-08-07">7. augusti 1559</date>. 
+<lb n="67"/>Dem wolgebornen edlen gestrengen hochge
+<lb break="no" n="68"/>lerten unnd vessten herrn, herrn N. römisch kayserlicher 
+<lb n="69"/>mayestät etc. statthalter ambtsverwalter, regendten  
+<lb n="70"/>unnd räthen <placeName ref="lub-places-160">Oberösterreichischer Lannde</placeName>, mein
+<lb break="no" n="71"/>en genedigen herrn.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

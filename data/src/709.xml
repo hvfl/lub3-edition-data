@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-709">LI-LA, U 55</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. September 1565 / Beschreibstoff: Pergament / Siegel: 1 Siegel, abgefallen</witness>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-924">LI-LA, RA 12/3/1/06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. September 1565 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-709">LI-LA, U 55</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1565 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-924">LI-LA, RA 12/3/1/06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1565 / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -35,7 +35,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="lub-actors-9">Sulz, Alwig IX. von</persName>
-          <date when="1565-09-20">20. Sep 1565</date>
+          <date when="1565-09-29">29. Sep 1565</date>
         </correspAction>
       </correspDesc>
     </profileDesc>
@@ -64,13 +64,13 @@
                     <lb n="11"/>unnd seinen nachkommen <gap/> anndern gerechligkhaihten unnd zinsen, one schaden. Sy sollen auch desgleichen all ir erben unnd nachkhomen obgemelt erblechen in gehalten <gap/>
                     <lb n="12"/>unnd <gap/> erhalten schuldig <gap/> sein. Sy sollen und wollen <gap/> auch zu eerschaz geben unnd <gap/> sibennzig gulden <gap/>
                     <lb n="13"/><gap/> so wir zu unnser <gap/>anndtung <gap/>hannden einnemen unnd empfachen lassen, deren wir sy quitt ledig unnd los zellen. Unnd furtterhin noch davon <gap/>
-                    <lb n="14"/><gap/> pfruenndt alle jar jerglich unnd aines yeden jars allain unnd besonnder auf sanndt Marthins tag, acht tag vor oder nach ungevarlich, drew vierll waizen veldkhircher <gap/> der wollge<gap/>
+                    <lb n="14"/><gap/> pfruenndt alle jar jerglich unnd aines yeden jars allain unnd besonnder auf <date when="--11-11">sanndt Marthins tag</date>, acht tag vor oder nach ungevarlich, drew vierll waizen veldkhircher <gap/> der wollge<gap/>
                     <lb n="15"/>unnd beraith sein soll. Unnd darzue ain weerkhäs, alles guetter unnd gemeyner werung, weliche drew vierll waizen unnd der wärkhäs, von dem völligen schupflechen zins auff disser hoff
                     <lb break="no" n="16"/>statt unnd innammig unnd nit mer gelegt unnd genommen worden. Hinfuro sy auch all ir erben unnd nachkhomennde innhaber unnd besizer vorgemelz erblechener zu der bemelten
                     <lb n="17"/>pfruennd ge<gap/>ueten einnemers oder gewalthabers sichern hannden unnd gewalt, one deren costen unnd schaden geben unnd anntwurten sollen. Weliches jars das aber nit beschechen, <supplied>oder</supplied>
                     <lb n="18"/>sy des zechen nit in wesennlichen unnd pewlichen eeren erhieltenndt, so ist das erblechen wiederumb ledig worden unnd zu rechtem aigen bemelter pfruenndt haimb gevallen, von <supplied>inen</supplied>
                     <lb n="19"/>allen, iren erben unnd nachkhomen unnd menigclichem unverhindert, getrewlich unnd ungevarlich. Unnd des zu warem urkhundt haben wir unnser gemain secrett innsigel öff
-                    <lb break="no" n="20"/>ennlich an disem brief hennckhen lassen. Unnd geben <origDate>an sanndt Michels des heilligen erzenngels tag im funffzechennhundert funff unnd sechzigisten jare</origDate>.
+                    <lb break="no" n="20"/>ennlich an disem brief hennckhen lassen. Unnd geben <origDate when="1565-09-29">an sanndt Michels des heilligen erzenngels tag im funffzechennhundert funff unnd sechzigisten jare</origDate>.
                 </p>
       </div>
       <div type="back">

@@ -65,9 +65,9 @@
 <lb n="15"/>ime den zoll in unnserer herrschafft <placeName ref="lub-places-7">Vadutz</placeName> und  
 <lb n="16"/><placeName ref="lub-places-11">Schellenberg</placeName>, sowoll auf dem lanndt alß  
 <lb n="17"/>auf dem wasser einzuenemmen drey jahr  
-<lb n="18"/>lanng, deren jedes von <date>Johannis deß hailigen  
-<lb n="19"/>täuffers tag</date><note>24. Juni</note> biß widerumben auf genanten  
-<lb n="20"/><date>Johannis</date> gnedig zuegesagt unnd verlychen haben,  
+<lb n="18"/>lanng, deren jedes von <date when="--06-24">Johannis deß hailigen  
+<lb n="19"/>täuffers tag</date> biß widerumben auf genanten  
+<lb n="20"/><date when="--06-24">Johannis</date> gnedig zuegesagt unnd verlychen haben,  
 <lb n="21"/>mit aller nutzung gleich wie von alters hero  
 <lb n="22"/>von unnß und unnsern amptleüthen jederzeit  
 <lb n="23"/>genutzet unnd eingenomen worden. Also  
@@ -97,8 +97,8 @@
 <lb n="46"/>Darneben hat unnß mehr gedachter <persName ref="lub-actors-668">Joß Oschwaldt</persName>  
 <lb n="47"/>versprochen unnd mit wahren wortten zuege
 <lb break="no" n="48"/>sagt, jerlichen unnd jedes jars besonder auff 
-<lb n="49"/><date>Johannis deß hayligen teuffers tag</date> diß lauff
-<lb break="no" n="50"/>enden <date>drey- und neüntzigisten jahrs der mündern zahl<note>1593</note></date>
+<lb n="49"/><date when="--06-24">Johannis deß hayligen teuffers tag</date> diß lauff
+<lb break="no" n="50"/>enden <date when="1593">drey- und neüntzigisten jahrs der mündern zahl</date>
 <pb facs="lub-media-1768" n="3"/>
 <lb n="51"/>angefanngen fünffhundert guldin, diesser  
 <lb n="52"/>lanndtßwehrung, jeden per fünffzechen costantzer  
@@ -106,10 +106,10 @@
 <lb n="54"/>cösten an nachgeschribene orth und endt zue
 <lb break="no" n="55"/>liffern, außrichten und zue bezallen. Namlichen 
 <lb n="56"/>herrn schulthaiß Pfeyffern zue <placeName ref="lub-places-185">Lucern</placeName> jedes jahrs  
-<lb n="57"/>auf <date>Johannis Baptistae</date> ain hundert sommen  
+<lb n="57"/>auf <date when="--06-24">Johannis Baptistae</date> ain hundert sommen  
 <lb n="58"/>cronen inn goldt, oder wie die nach gelegen
 <lb break="no" n="59"/>hait der müntzen außzuezahlen ime am füeglichsten. 
-<lb n="60"/>Mehr ime, gedachten Pfeyffern, auf <date>Michaelis<note>29. September</note></date> ein  
+<lb n="60"/>Mehr ime, gedachten Pfeyffern, auf <date when="--09-29">Michaelis </date> ein  
 <lb n="61"/>hundert und funfftzig guldin jerlich zinßes.  
 <lb n="62"/>Item Gilg Bodmers erben zue <placeName ref="lub-places-94">Baden im Aer
 <lb break="no" n="63"/>gew</placeName>, jetzundt zue Pomgarten wonent, jerlichen 
@@ -118,8 +118,8 @@
 <lb n="66"/>Freyen zue <placeName ref="lub-places-10">Veldtkirch</placeName> jerlichen dreyssig syben  
 <lb n="67"/>unnd einhalben guldin, verner J. Hannß Hainrich  
 <lb n="68"/>Kellers von Schlayten wittiben zue <placeName ref="lub-places-56">Thienngen</placeName>  
-<lb n="69"/>jerlichen auf unnser lieben <date>frawen Liechtmeß  
-<lb n="70"/>tag<note>2. Februar</note></date> viertzig guldin, die yberigen acht unnd  
+<lb n="69"/>jerlichen auf unnser lieben <date when="--02-02">frawen Liechtmeß  
+<lb n="70"/>tag</date> viertzig guldin, die yberigen acht unnd  
 <lb n="71"/>ein halben guldin daruff gerechnet, unnd  
 <lb n="72"/>zue voller ergentzung obbestümpter fünff  
 <lb n="73"/>hundert guldin pension, soll er, besagter  
@@ -145,7 +145,7 @@
 <lb n="92"/>ime, zollern, zuegestellt unnd mit unßerm  
 <lb n="93"/>canntzeli sygel zue enndt aufgetruckht  
 <lb n="94"/>verwahren lassen etc. Geben inn unnserm  
-<lb n="95"/>schloß <placeName ref="lub-places-33">Vadutz</placeName>, den <origDate>drey und zwaintzigisten  
+<lb n="95"/>schloß <placeName ref="lub-places-33">Vadutz</placeName>, den <origDate when="1593-06-23">drey und zwaintzigisten  
 <lb n="96"/>tag junii nach Christi unnsers lieben  
 <lb n="97"/>herrn und seeligmachers geburt gezehlt  
 <lb n="98"/>fünffzechenhundert neüntzig und drew jahren</origDate>. 

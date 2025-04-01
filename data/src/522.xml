@@ -14,12 +14,12 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness>A1, Original, Signatur: <ref type="identifier" target="lub-objects-522">LI-GAT, U 23</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 10. April 1536 / Beschreibstoff: Pergament / Siegel: 1 Siegel abh.</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-522">LI-GAT, U 23</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 10. April 1536 / Beschreibstoff: Pergament / Siegel: 1 Siegel abh.</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 197f.</bibl>
           <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 40, S. 116.</bibl>
-          <bibl>Regest und Edition von Claudius Gurt in <ref target="http://www.e-archiv.li/D42303">e-archiv.li</ref>. Nicht in SSRQ SG III/4.</bibl>
+          <bibl>Regest und Edition von Claudius Gurt in <ref target="http://www.e-archiv.li/D42303">e-archiv.li</ref>.</bibl>
         </listBibl>
       </sourceDesc>
     </fileDesc>
@@ -47,8 +47,8 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="li-gat__u_23-0002.jpg" xml:id="lub-media-2413" source="gat-u-023-v.jpg" corresp="xml:id not found"/>
-    <graphic url="li-gat__u_23-0002.jpg" xml:id="lub-media-2414" source="gat-u-023-r-klein.jpg" corresp="xml:id not found"/>
+    <graphic url="li-gat__u_23-0002.jpg" xml:id="lub-media-2413" source="gat-u-023-v.jpg" corresp="A1"/>
+    <graphic url="li-gat__u_23-0002.jpg" xml:id="lub-media-2414" source="gat-u-023-r-klein.jpg" corresp="A1"/>
   </facsimile>
   <text>
     <body>
@@ -99,7 +99,7 @@
 <lb n="44"/>begeren, doch mir, auch obermelten zugesazten und aller unser erben und nachkomen one schaden, mit meinem angehenckhtem ynnsigel verfertigt geben. Wir obgenante gemayn kilchgenoßen  
 <lb n="45"/>zu <placeName ref="lub-places-147">Sevelen</placeName> und <placeName ref="lub-places-79">Trissen</placeName> bekhennen alle ainhelligklich krefftig fur uns, all unser erben und nachkomen, das alles das, so hievor an dissem brieff von uns geschriben stat, mit unßerm gunsst, wissen  
 <lb n="46"/>und guten willen gehandelt und volfuert ist. Bereden, geloben und versprechen auch darauff, bey unßern eeren und guten trewen an aydstatt wissentlich hiemit urkhundt und in krafft diz brieffs, dem allem getrewlich, gestrackhs, auffrecht und redlich nachzukhomen, darbey zu beleiben und darwider nit zuthun in khain weiß noch weg, alles getrewlich und ungevarlich. Beschechen am dem  
-<lb n="47"/><origDate>zechenden tag des monats aprilis nach der gepurtt Cristi unßers erlössers gezalt thaussent veinffhundert dreyssig und sechs jar</origDate>. 
+<lb n="47"/><origDate when="1536-04-10">zechenden tag des monats aprilis nach der gepurtt Cristi unßers erlössers gezalt thaussent veinffhundert dreyssig und sechs jar</origDate>. 
 </p>
       </div>
       <div type="back">

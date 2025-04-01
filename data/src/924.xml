@@ -15,7 +15,7 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-709">LI-LA,  U 55</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1565 / Beschreibstoff: Pergament / Siegel: 1 Siegel, abgefallen</witness>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-924">LI-LA, RA 12/3/1/06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1565 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-924">LI-LA, RA 12/3/1/06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. September 1565 / Beschreibstoff: Papier, 4 Seiten (Editionsvorlage)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -98,7 +98,7 @@
 <lb break="no" n="45"/>pfahen lassen, deren sy wir quit ledig und loss zellen.
 <lb n="46"/>Und fürohin, nachdeme in obgemelter pfruendt alle  
 <lb n="47"/>jahr jährlich und eines jeden jahrß allein und besonder  
-<lb n="48"/>auff sanct Marthins tag, acht tag vor oder nach uhngevor
+<lb n="48"/>auff <date when="--11-11">sanct Marthins tag</date>, acht tag vor oder nach uhngevor
 <lb break="no" n="49"/>lich drey virttel waizen veldtkhircher mess, der wohl 
 <lb n="50"/>gewanet und beraith sein solle. Und darzue ein wer
 <lb break="no" n="51"/>khäs, alles gueter und genmmer wehrung, welche drey 
@@ -118,7 +118,7 @@
 <lb break="no" n="64"/>khomen und menigkhlichen ohnverhindert, getrewlich 
 <lb n="65"/>und ohngefährlich. Und deß zue wahrem urkhundt  
 <lb n="66"/>haben wir unser gemein secredt insigel offentlich ahn  
-<lb n="67"/>dißem brieff henckhen lassen, und geben <origDate>an sanct  
+<lb n="67"/>dißem brieff henckhen lassen, und geben <origDate when="1565-09-29">an sanct  
 <lb n="68"/>Michäelß deß heilligen erzengelß tag im fünff
 <lb break="no" n="69"/>zechen hundert funff und sechßigisten jahren</origDate>
 </p>

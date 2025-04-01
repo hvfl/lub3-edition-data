@@ -14,7 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-715">LI-LA, U 61</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 7. März 1604 / Beschreibstoff: Pergament / Libell, 61 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-715">LI-LA, U 61</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 7. März 1604 / Beschreibstoff: Pergament / Libell, 61 Seiten / Siegel: 1 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-925">LI-LA, RA 12/3/1/07-08</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1604 / Beschreibstoff: Papier, / Heft, 37 Seiten / Siegel: kein Siegel</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -100,17 +101,54 @@
     <graphic url="li-la,_u_61-0059.jpg" xml:id="lub-media-1353" source="u-061-059.jpg" corresp="A"/>
     <graphic url="li-la,_u_61-0060.jpg" xml:id="lub-media-1354" source="u-061-060.jpg" corresp="A"/>
     <graphic url="li-la,_u_61-0061.jpg" xml:id="lub-media-1355" source="u-061-061.jpg" corresp="A"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0001.jpg" xml:id="lub-media-1922" source="ra-12-3-1-07-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0002.jpg" xml:id="lub-media-1923" source="ra-12-3-1-07-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0003.jpg" xml:id="lub-media-1924" source="ra-12-3-1-07-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0004.jpg" xml:id="lub-media-1925" source="ra-12-3-1-07-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0005.jpg" xml:id="lub-media-1926" source="ra-12-3-1-07-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0006.jpg" xml:id="lub-media-1927" source="ra-12-3-1-07-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0007.jpg" xml:id="lub-media-1928" source="ra-12-3-1-07-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0008.jpg" xml:id="lub-media-1929" source="ra-12-3-1-07-s08.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0009.jpg" xml:id="lub-media-1930" source="ra-12-3-1-07-s09.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0010.jpg" xml:id="lub-media-1931" source="ra-12-3-1-07-s010.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0011.jpg" xml:id="lub-media-1932" source="ra-12-3-1-07-s011.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0012.jpg" xml:id="lub-media-1933" source="ra-12-3-1-07-s012.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0013.jpg" xml:id="lub-media-1934" source="ra-12-3-1-07-s013.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0014.jpg" xml:id="lub-media-1935" source="ra-12-3-1-07-s014.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0015.jpg" xml:id="lub-media-1936" source="ra-12-3-1-08-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0016.jpg" xml:id="lub-media-1937" source="ra-12-3-1-08-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0017.jpg" xml:id="lub-media-1938" source="ra-12-3-1-08-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0018.jpg" xml:id="lub-media-1939" source="ra-12-3-1-08-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0019.jpg" xml:id="lub-media-1940" source="ra-12-3-1-08-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0020.jpg" xml:id="lub-media-1941" source="ra-12-3-1-08-s06.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0021.jpg" xml:id="lub-media-1942" source="ra-12-3-1-08-s07.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0022.jpg" xml:id="lub-media-1943" source="ra-12-3-1-08-s08.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0023.jpg" xml:id="lub-media-1944" source="ra-12-3-1-08-s09.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0024.jpg" xml:id="lub-media-1945" source="ra-12-3-1-08-s10.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0025.jpg" xml:id="lub-media-1946" source="ra-12-3-1-08-s11.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0026.jpg" xml:id="lub-media-1947" source="ra-12-3-1-08-s12.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0027.jpg" xml:id="lub-media-1948" source="ra-12-3-1-08-s13.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0028.jpg" xml:id="lub-media-1949" source="ra-12-3-1-08-s14.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0029.jpg" xml:id="lub-media-1950" source="ra-12-3-1-08-s15.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0030.jpg" xml:id="lub-media-1951" source="ra-12-3-1-08-s16.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0031.jpg" xml:id="lub-media-1952" source="ra-12-3-1-08-s17.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0032.jpg" xml:id="lub-media-1953" source="ra-12-3-1-08-s18.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0033.jpg" xml:id="lub-media-1954" source="ra-12-3-1-08-s19.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0034.jpg" xml:id="lub-media-1955" source="ra-12-3-1-08-s20.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0035.jpg" xml:id="lub-media-1956" source="ra-12-3-1-08-s21.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0036.jpg" xml:id="lub-media-1957" source="ra-12-3-1-08-s22.jpg" corresp="B"/>
+    <graphic url="li-la__ra_12_3_1_07-08-0037.jpg" xml:id="lub-media-1958" source="ra-12-3-1-08-s23.jpg" corresp="B"/>
   </facsimile>
   <text>
     <body>
       <div type="main">
         <p><pb facs="lub-media-1295" n="1"/><lb n="1"/>Beschreibung der frühmess zu <placeName ref="lub-places-53">Schan</placeName> jahrlichen 
 <lb n="2"/>einkohmmen, renten, zünß undt gülten, auch  
-<lb n="3"/>der liegenden gühter anstöss s. s. <origDate>Invocavit, den  
-<lb n="4"/>7. martii 1604</origDate>. 
+<lb n="3"/>der liegenden gühter anstöss s. s. Invocavit, den 
+<lb n="4"/><origDate when="1604-03-07">7. martii 1604</origDate>. 
 <pb facs="lub-media-1296" n="2"/>
 <lb n="5"/>Kündt undt zü wissen: 
-<lb n="6"/>sey jedermäniglich, das uff sontag <origDate>Invocavit, so der süb
+<lb n="6"/>sey jedermäniglich, das uff sontag Invocavit, so der <origDate when="1604-03-07">süb
 <lb break="no" n="7"/>endt tag martii wahr und etlich tag hernach, im jahr nach Cristi 
 <lb n="8"/>unsers seligmachers geburt, alß man zalt tausendt sechshund
 <lb break="no" n="9"/>ert und vier</origDate>, bey herrschung und regierung des hochwolgebor
@@ -132,8 +170,8 @@
 <lb n="25"/>der zeit hochermelts, meines gnedigen herren landt
 <lb break="no" n="26"/>schreibern beeder herrschafften <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> 
 <lb n="27"/>vorgesagter früemeß zue <placeName ref="lub-places-53">Schan</placeName> jarlich einkhommen,  
-<lb n="28"/>renten, zinß und gülten, auch der lügenden güeter b
-<lb n="29"/>ahnstöß, allerdings zum newem beschriben undt er
+<lb n="28"/>renten, zinß und gülten, auch der lügenden güeter be
+<lb break="no" n="29"/>ahnstöß, allerdings zum newem beschriben undt er
 <pb facs="lub-media-1297" n="3"/>
 <lb break="no" n="30"/>newert. Darin auch jeder zinßman, oder dessen be
 <lb break="no" n="31"/>velchhaber bekhendt und seine jetziger anstößer angezaigt, 
@@ -145,14 +183,14 @@
 </p>
         <p><lb n="36"/><placeName ref="lub-places-71">Baltzers</placeName><lb n="37"/>Item <persName ref="lub-actors-1341">Hanns Ballasser</persName> von <placeName ref="lub-places-71">Baltzers</placeName> und <persName ref="lub-actors-1342">Stina  
 <lb n="38"/>Guetnescherin</persName>, sein haußfraw, zinßen der früemeß zue  
-<lb n="39"/><placeName ref="lub-places-53">Schan</placeName> jarlich auff Martini von sechszehen pfundt pfenig  
+                <lb n="39"/><placeName ref="lub-places-53">Schan</placeName> jarlich auff <date when="--11-11">Martini</date> von sechszehen pfundt pfenig  
 <lb n="40"/>haubtguet, sechszehen schilling pfenning, ob einem  
 <lb n="41"/>stuckh guet am berg zue <placeName ref="lub-places-71">Balzers</placeName> gelegen, genandt  
 <lb n="42"/><placeName ref="lub-places-354">Anatheidt</placeName>. Stost zue ringsumb an die allgemain, ist  
 <lb n="43"/>widerumb ablößig. Alles laut brieffs mit no. 3  
 <lb n="44"/>signiert anfangendt: „Ich <persName ref="lub-actors-1441">Rudolff Martin</persName>,  
-<lb n="45"/>zue <placeName ref="lub-places-71">Balzers</placeName> gesessen“; endet: „der geben ist zinstag  
-<lb n="46"/>vor <date>sant Johannes tag nach Cristi geburt 1513 jar</date>.“ 
+                <lb n="45"/>zue <placeName ref="lub-places-71">Balzers</placeName> gesessen“; endet: „der geben ist <date when="1513-06-21">zinstag  
+<lb n="46"/>vor sant Johannes tag nach Cristi geburt 1513 jar</date>.“ 
 <lb n="47"/>Zu merckhen, daß in dem brieff vilerley under
 <pb facs="lub-media-1298" n="4"/>
 <lb break="no" n="48"/>pfandt meldung geschieht. Es hat aber der zinßman nit 
@@ -160,13 +198,13 @@
 <lb break="no" n="50"/>lich und wol zufriden, auch daß underpfandt gnuogsam.
 </p>
         <p><lb n="51"/>Item <persName ref="lub-actors-1500">Cristoff Weyß</persName> von <placeName ref="lub-places-71">Baltzers</placeName> zinst der früemeß 
-<lb n="52"/>zue <placeName ref="lub-places-53">Schan</placeName> auff Martini von neun pfundt pfening haubt
+                <lb n="52"/>zue <placeName ref="lub-places-53">Schan</placeName> auff <date when="--11-11">Martini</date> von neun pfundt pfening haubt
 <lb break="no" n="53"/>guet, järlich neun schilling pfening zinß. Erstlich vonn 
 <lb n="54"/>einer hoffstatt, hoffratin, hauß, stadel und speicher,  
 <lb n="55"/>zue <placeName ref="lub-places-166">Melß</placeName> gelegen mehr ob einer wißen zue <placeName ref="lub-places-71">Baltzers</placeName> in <placeName ref="lub-places-1">Vaduz</placeName>  
 <lb n="56"/>gelegen.  Ist abloßig alles laut brieffs mit 
 <lb n="57"/>no. 4 signiert, ahnfangendt: „Ich <persName ref="lub-actors-1368">Hanns Zockh</persName> undt  
-<lb n="58"/>ich <persName ref="lub-actors-1367">Elsa Fintzin</persName> etc.“ Endet: „nach Cristi geburt <date>1478 jahr  
+<lb n="58"/>ich <persName ref="lub-actors-1367">Elsa Fintzin</persName> etc.“ Endet: „nach Cristi geburt <date when="1478-06-11">1478 jahr  
 <lb n="59"/>an sant Barnabae des jüngers Cristi tag</date> etc.“ 
 <lb n="60"/>Zumerckhen diser zinß man hat sich erbotten, biß  
 <lb n="61"/>khünfftigen herbst des 1604 jahrs haubtguet undt  
@@ -174,7 +212,7 @@
 <lb break="no" n="63"/>mehr in handen etc.
 <pb facs="lub-media-1299" n="5"/>
 <lb n="64"/>Item <persName ref="lub-actors-1311">Donat Gaßner</persName> von <placeName ref="lub-places-71">Balzers</placeName>, zinst järlich uff  
-<lb n="65"/>Martini der früemeß zue <placeName ref="lub-places-53">Schan</placeName>, um zwölff pfundt  
+                <lb n="65"/><date when="--11-11">Martini</date> der früemeß zue <placeName ref="lub-places-53">Schan</placeName>, um zwölff pfundt  
 <lb n="66"/>pfening haubtguet zwölff schilling pfening zinß von  
 <lb n="67"/>einem stuckh guet, auff <placeName ref="lub-places-567">Lawalß</placeName> gelegen, stost ietziger  
 <lb n="68"/>zeit abwert dem landt nach an die allgmain an grossen  
@@ -187,14 +225,14 @@
 <lb n="75"/>Item soller, <persName ref="lub-actors-1311">Donat Gaßner</persName>, weiter der  
 <lb n="76"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName>, ob vorgeschribnem guet auff  
 <lb n="77"/><placeName ref="lub-places-567">Lawal</placeName> gelegen, um zwantzig pfundt pfening, jär
-<lb break="no" n="78"/>lich auff Martini ein pfundt pfening zinß. Ist gleich
+                <lb break="no" n="78"/>lich auff <date when="--11-11">Martini</date> ein pfundt pfening zinß. Ist gleich
 <lb break="no" n="79"/>er gestalt ablößig, alles laut brieffs mit no. 
 <lb n="80"/>6 signiert, ahnfangendt: „Wür nachbenandten,  
 <lb n="81"/>mit nammen Michael, Hanns, Donat, <persName ref="lub-actors-1355">Wolff</persName> ...“ 
-<lb n="82"/>Endet: „uff <date>montag nach sant Martinß tag im  
+<lb n="82"/>Endet: „uff <date when="1557-11-15">montag nach sant Martinß tag im  
 <lb n="83"/>1557 jahr</date>“,  
 <pb facs="lub-media-1300" n="6"/>
-<lb n="84"/>soll der früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff Martini um  
+                <lb n="84"/>soll der früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff <date when="--11-11">Martini</date> um  
 <lb n="85"/>dreyzehen pfundt hauptguet dreyzehen schilling pfening  
 <lb n="86"/>zinß, von usser und ab einer halben juchart ackher zue  
 <lb n="87"/><placeName ref="lub-places-71">Balzers</placeName> gelegen, stost auffwert dem landt nach an <persName ref="lub-actors-1343">Intel  
@@ -202,8 +240,8 @@
 <lb n="89"/>gegen dem berg an <persName ref="lub-actors-283">Valentin Grissen</persName>, und gegen dem  
 <lb n="90"/><placeName ref="lub-places-103">Rhein</placeName> an die haimgaß. Ist frey, ledig, uversetzt undt  
 <lb n="91"/>der zinß widerum ablößig, ist sonst deßhalb kein  
-<lb n="92"/>anderer brieff darumb actum montag nach  
-<lb n="93"/>Invocavit anno 1604. 
+<lb n="92"/>anderer brieff darumb actum <date when="1604-02-26">montag nach  
+<lb n="93"/>Invocavit anno 1604</date>. 
 </p>
         <p><pb facs="lub-media-1301" n="7"/><lb n="94"/>Thrüssner und Trüss
 <lb break="no" n="95"/>nerberger:
@@ -216,8 +254,8 @@
 <lb n="102"/>und gegen dem <placeName ref="lub-places-103">Rein</placeName> an die <placeName ref="lub-places-553">Dorffgaß</placeName>, abwert  
 <lb n="103"/>dem landt nach an der pfrundt guet. Ist ledig, unver
 <lb break="no" n="104"/>sezt, usserhalb gehört Sant Wolffgang, järlich auch 
-<lb n="105"/>elff schilling, davon actum montag nach Invoca
-<lb break="no" n="106"/>vit anno 1604.
+                <lb n="105"/>elff schilling, davon actum <date when="1604-02-26">montag nach Invoca
+<lb break="no" n="106"/>vit anno 1604</date>.
 <lb n="107"/>Nota disen zinß haben zuvor mit <persName ref="lub-actors-1347">Georg  
 <lb n="108"/>Bergeren</persName> geben, <persName ref="lub-actors-1416">Cristian Khauffman</persName> und <persName ref="lub-actors-1496">Sigmundt  
 <lb n="109"/>Von Banckhs</persName> zue <placeName ref="lub-places-71">Balzers</placeName> laut eines brieffs,  
@@ -225,12 +263,12 @@
 <lb n="111"/><persName ref="lub-actors-1347">Georg Berger</persName> die gantz haubtsumm auff sich ge
 <lb break="no" n="112"/>nommen und newe underpfandt gesezt, soll im 
 <lb n="113"/>der brieff herauß geben werden, und seine mit  
-<lb n="114"/>zinßleuth im daß uberig uff khünfftig sant  
-<lb n="115"/>Martinß tag zuerstatten schuldig sein, wie sie.  
+                <lb n="114"/>zinßleuth im daß uberig uff khünfftig <date when="--11-11">sant  
+<lb n="115"/>Martinß tag</date> zuerstatten schuldig sein, wie sie.  
 </p>
         <p><pb facs="lub-media-1302" n="8"/><lb n="116"/>Item <persName ref="lub-actors-1473">Hans Schedler</persName> abm <placeName ref="lub-places-41">Trüssnerberg</placeName> ab  
 <lb n="117"/><placeName ref="lub-places-473">Ritzlina</placeName> und <persName ref="lub-actors-1474">Anna Hilbin</persName> sein haußfrauw sollen der  
-<lb n="118"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff Martini von zehen pfundt  
+                <lb n="118"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff <date when="--11-11">Martini</date> von zehen pfundt  
 <lb n="119"/>haubtguet zehen schilling zinß, von usser und ab einem  
 <lb n="120"/>stuckh guet auff <placeName ref="lub-places-475">Gurtnalp</placeName> am <placeName ref="lub-places-41">Trüssnerberg</placeName> gelegen,  
 <lb n="121"/>ob dem <placeName ref="lub-places-583">Tränckhweg</placeName>, stost gegen dem berg an <persName ref="lub-actors-1346">Cristian  
@@ -238,8 +276,8 @@
 <lb break="no" n="123"/>elinß</persName> guet, gegen dem <placeName ref="lub-places-103">Rein</placeName> ahn <placeName ref="lub-places-583">Tränckhweg</placeName>, undt 
 <lb n="124"/>abwert ahn <persName ref="lub-actors-1346">Cristian Beckhen</persName> guet. Ist daß guet sonst  
 <lb n="125"/>ledig unversetzt, und der zinß mit zehen pfundt wider
-<lb break="no" n="126"/>umb ablößig. Actum montag nach Invocavit 
-<lb n="127"/>anno 1604. 
+                <lb break="no" n="126"/>umb ablößig. Actum <date when="1604-02-26">montag nach Invocavit 
+<lb n="127"/>anno 1604</date>. 
 <lb n="128"/>Nota zuvor hat disen zinß geben <persName ref="lub-actors-353">Caspar Beckh</persName> am <placeName ref="lub-places-41">Trüss
 <lb n="129"/>nerberg</placeName>, wegen <persName ref="lub-actors-1487">Leonhardt Tanners</persName> daselbst laut  
 <lb n="130"/>eines alten brieffs, anfangendt: „Ich <persName ref="lub-actors-1487">Leonhardt Tanner</persName> ...“. 
@@ -249,7 +287,7 @@
 </p>
         <p><pb facs="lub-media-1303" n="9"/><lb n="134"/>Item <persName ref="lub-actors-782">Cristian Gasner</persName> auff <placeName ref="lub-places-181">Rottenboden</placeName> ahm  
 <lb n="135"/><placeName ref="lub-places-41">Trüssnerberg</placeName> undt <persName ref="lub-actors-1387">Catharina Frumaldtin</persName>, sein haußfraw,  
-<lb n="136"/>sollen der früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff Martini  
+                <lb n="136"/>sollen der früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff <date when="--11-11">Martini</date>  
 <lb n="137"/>von zwantzig guldin gelts veldtkürcher wehrung,  
 <lb n="138"/>ein gulden zinß von usser und ab einem stuckh gut,  
 <lb n="139"/>auff <placeName ref="lub-places-181">Rotenboden</placeName> im Schaner kürchspiel gelegen, stost  
@@ -258,13 +296,13 @@
 <lb n="142"/>landt nach an <persName ref="lub-actors-1463">Claus Oschwalden</persName> frawen guet und gegen  
 <lb n="143"/>dem berg an die allgmain, ist ledig, unversetzt und  
 <lb n="144"/>der zinß mit zwantzig gulden widerum ablößig. Act
-<lb break="no" n="145"/>um montag nach Invocavit anno 1604.
+                <lb break="no" n="145"/>um <date when="1604-02-26">montag nach Invocavit anno 1604</date>.
 <lb n="146"/>Nota ist des zinß halben sonst kein anderer brieff  
 <lb n="147"/>vorhanden. 
 </p>
         <p><pb facs="lub-media-1304" n="10"/><lb n="148"/>Item <persName ref="lub-actors-1478">Wilhelm Sele</persName> ahm <placeName ref="lub-places-41">Trüssnerberg</placeName> und <persName ref="lub-actors-1479">Ca
 <lb break="no" n="149"/>tharina Brandtstetterin</persName> sein haußfraw, sollen des 
-<lb n="150"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff Martini von zwantzig  
+                <lb n="150"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich auff <date when="--11-11">Martini</date> von zwantzig  
 <lb n="151"/>gulden haubtguet, ein guldin zinß von usser und  
 <lb n="152"/>ab einem stuckh gut auff der <placeName ref="lub-places-586">Furi</placeName> am <placeName ref="lub-places-41">Trüssner
 <lb break="no" n="153"/>berg</placeName> gelegen, neben <placeName ref="lub-places-190">Moßeschen</placeName>, stost gegen 
@@ -272,12 +310,12 @@
 <lb n="155"/>Negelinß</persName> guet, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1477">Peter Sele</persName>.  
 <lb n="156"/>Ist ledig, eigen, unversetzt und der zinß mit  
 <lb n="157"/>zwantzig gulden widerum ablößig. Hat zuvor <persName ref="lub-actors-1477">Peter  
-<lb n="158"/>Sele</persName> gezinset. Actum montag nach Invocavit  
-<lb n="159"/>anno 1604. 
+        <lb n="158"/>Sele</persName> gezinset. Actum <date when="1604-02-26">montag nach Invocavit  
+<lb n="159"/>anno 1604</date>. 
 </p>
         <p><pb facs="lub-media-1305" n="11"/><lb n="160"/>Item <persName ref="lub-actors-1356">Hans Büler</persName> als vogt <persName ref="lub-actors-1357">Catharina Selin</persName>  
 <lb n="161"/>ahm <placeName ref="lub-places-41">Trüssnerberg</placeName>, soll järlich der früemeß zue <placeName ref="lub-places-53">Schan</placeName>  
-<lb n="162"/>auff Martini von zwantzig gulden haubtguet ein  
+                <lb n="162"/>auff <date when="--11-11">Martini</date> von zwantzig gulden haubtguet ein  
 <lb n="163"/>gulden zinß, von usser und ab einem stuckh guet  
 <lb n="164"/>auff <placeName ref="lub-places-555">Forst</placeName>, <placeName ref="lub-places-558">under der Gassen</placeName> am <placeName ref="lub-places-41">Trüssner
 <lb break="no" n="165"/>berg</placeName> gelegen, stost auffwert dem landt nach undt 
@@ -285,22 +323,22 @@
 <lb n="167"/>dem landt nach an <persName ref="lub-actors-1463">Claus Oschwaldt</persName>, und gegem dem  
 <lb n="168"/>berg an die <placeName ref="lub-places-235">Alpgaß</placeName>, ist ledig, unversetzt, der  
 <lb n="169"/>zinß mit zwantzig gulden widerum ablößig.  
-<lb n="170"/>Actum montag nach Invocavit anno 1604. 
+                <lb n="170"/>Actum <date when="1604-02-26">montag nach Invocavit anno 1604</date>. 
 </p>
         <p><pb facs="lub-media-1306" n="12"/><lb n="171"/>Vadutzer: 
 <lb n="172"/>Item <persName ref="lub-actors-1404">Hannß Jäger</persName> zue <placeName ref="lub-places-1">Vaduz</placeName>, soll järlich der früe
-<lb break="no" n="173"/>mes zue <placeName ref="lub-places-53">Schan</placeName> auff Martini von elff pfundt pfening 
+                <lb break="no" n="173"/>mes zue <placeName ref="lub-places-53">Schan</placeName> auff <date when="--11-11">Martini</date> von elff pfundt pfening 
 <lb n="174"/>haubtguet elff schilling zinß von usser und ab einem  
 <lb n="175"/>stuckh guet zu <placeName ref="lub-places-1">Vadutz</placeName> in <placeName ref="lub-places-549">Bradavandt</placeName> gelegen, stost  
 <lb n="176"/>gegen dem berg an die landtstraß, auffwert  
 <lb n="177"/>dem landt nach und gegem dem <placeName ref="lub-places-103">Rein</placeName> an amman <persName ref="lub-actors-246">Hain
 <lb break="no" n="178"/>rich Quaderer</persName>, und abwert dem landt nach an 
 <lb n="179"/><persName ref="lub-actors-1372">Hannß Fuetscher</persName>. Ist sonst ledig, unversetzt und der zinß  
-<lb n="180"/>mit elff pfundt widerum ablößig. Actum mon
-<lb break="no" n="181"/>tag nach Invocavit anno 1604.
+                <lb n="180"/>mit elff pfundt widerum ablößig. Actum <date when="1604-02-26">mon
+<lb break="no" n="181"/>tag nach Invocavit anno 1604</date>.
 </p>
         <p><lb n="182"/>Item <persName ref="lub-actors-1403">Georg Jäger</persName> zue <placeName ref="lub-places-1">Vaduz</placeName>, soll jarlich der frue
-<lb break="no" n="183"/>meß zue <placeName ref="lub-places-53">Schan</placeName> auff Martini von zehen pfundt haubt
+<lb break="no" n="183"/>meß zue <placeName ref="lub-places-53">Schan</placeName> auff <date when="--11-11">Martini</date> von zehen pfundt haubt
 <lb break="no" n="184"/>guet zehen schilling zinß von usser und ab einem 
 <lb n="185"/>stuckh guet in der <placeName ref="lub-places-563">Ißlin</placeName> zue <placeName ref="lub-places-1">Vadutz</placeName> gelegen, stost  
 <lb n="186"/>auffwert dem landt nach an <persName ref="lub-actors-1422">Bartholome Conradt</persName>  
@@ -310,11 +348,11 @@
 <pb facs="lub-media-1307" n="13"/>
 <lb n="190"/>guet undt gegen dem berg an <persName ref="lub-actors-1488">Thoman Toblers</persName>  
 <lb n="191"/>hoffstatt, ist ledung und der zinß mit mit zehen pfundt  
-<lb n="192"/>haubtgueth ablößig. Actum montag nach Invocavit  
-<lb n="193"/>anno 1604. Ist sonst kein brieff darum vorhanden. 
+                <lb n="192"/>haubtgueth ablößig. Actum <date when="1604-02-26">montag nach Invocavit  
+<lb n="193"/>anno 1604</date>. Ist sonst kein brieff darum vorhanden. 
 </p>
         <p><lb n="194"/>Item <persName ref="lub-actors-1075">Jacob Tüntel</persName> von <placeName ref="lub-places-53">Schan</placeName> hat der früemeß  
-<lb n="195"/>daselbst järlich auff Martini zue einem jarzeit  
+                <lb n="195"/>daselbst järlich auff <date when="--11-11">Martini</date> zue einem jarzeit  
 <lb n="196"/>verlassen, um zehen pfundt haubtguet zehen schilling  
 <lb n="197"/>zinß. Darum soll ein jeder früemesser daselbst  
 <lb n="198"/>jerlich in der wuchen nach sant Johannes des teüff  
@@ -331,8 +369,8 @@
 <lb n="208"/>berg an <persName ref="lub-actors-1434">Heinrich Mader</persName>, auffwert dem landt nach  
 <lb n="209"/>an <persName ref="lub-actors-382">Aristotilem Tüntel</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an amman  
 <lb n="210"/><persName ref="lub-actors-229">Walßer</persName> und abwert dem landt nach aber an <persName ref="lub-actors-382">Ari
-<lb break="no" n="211"/>stotilem Tüntel</persName>. Ist sonst ledig. Actum montag 
-<lb n="212"/>nach Invocavit anno 1604. Gibt ietz undt <persName ref="lub-actors-1146">Peter  
+        <lb break="no" n="211"/>stotilem Tüntel</persName>. Ist sonst ledig. Actum <date when="1604-02-26">montag 
+<lb n="212"/>nach Invocavit anno 1604</date>. Gibt ietz undt <persName ref="lub-actors-1146">Peter  
 <lb n="213"/>Hiltin</persName> zue <placeName ref="lub-places-1">Vadutz</placeName>, ist sonst kein anderes brieff darum 
 <lb n="214"/>vorhanden etc. 
 </p>
@@ -343,8 +381,8 @@
 <lb n="219"/>gelegen. Stost gegen dem berg auffwert undt  
 <lb n="220"/>abwert dem landtnach an die allgmain und gegen  
 <lb n="221"/>dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-807">Michael Gaßners</persName> erben guet, ist  
-<lb n="222"/>sonst ledig. Actum montag nach Invocavit anno  
-<lb n="223"/>1604. 
+                <lb n="222"/>sonst ledig. Actum <date when="1604-02-26">montag nach Invocavit anno  
+<lb n="223"/>1604</date>. 
 </p>
         <p><pb facs="lub-media-1309" n="15"/><lb n="224"/>Item <persName ref="lub-actors-1392">Hannß Grüschlin</persName> von <placeName ref="lub-places-1">Vadutz</placeName> und <persName ref="lub-actors-1393">Johanna Brandi
 <lb break="no" n="225"/>ßerin</persName> sein haußfrauw, sollen der früemeß zue <placeName ref="lub-places-53">Schan</placeName> 
@@ -353,8 +391,8 @@
 <lb break="no" n="228"/>garten, an 
 </p>
         <p><pb facs="lub-media-1310" n="16"/><lb n="229"/>guet und abwerts ist es ein spitzbündt, ist sonst  
-<lb n="230"/>ledig unversetzt. Actum montag nach Invocavit  
-<lb n="231"/>anno 1604. 
+                <lb n="230"/>ledig unversetzt. Actum <date when="1604-02-26">montag nach Invocavit  
+<lb n="231"/>anno 1604</date>. 
 </p>
         <p><pb facs="lub-media-1311" n="17"/><lb n="232"/>Daß dem loblichen beneficio von <persName ref="lub-actors-1476">Johann  
 <lb n="233"/>Seeger</persName> abgezahlte capital per 13 f. 20 xr.  
@@ -366,14 +404,14 @@
 <lb n="239"/>laut schuldbrief wiederum ausgelehnt  
 <lb n="240"/>und angelegt worden seyn, würdet  
 <lb n="241"/>hinmit in kraft dieselbe scheint  
-<lb n="242"/>Lichtenstein, den 16. Hornung 1783.  
+<lb n="242"/>Lichtenstein, den <date when="1783-02-16">16. Hornung 1783</date>.  
 <lb n="243"/>Hochfürstlich lichtensteinische  
 <lb n="244"/>landschreiberen manu propria 
 </p>
         <p><pb facs="lub-media-1312" n="18"/><lb n="245"/>Schaner  
 <lb n="246"/>Item <persName ref="lub-actors-1435">Hans Mader</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1436">Catharina  
 <lb n="247"/>Brendlin</persName> sein eheliche haußfrauw sollen der früemeß  
-<lb n="248"/>zue <placeName ref="lub-places-53">Schan</placeName> järlich auff Martini von neünzehenthalben  
+                <lb n="248"/>zue <placeName ref="lub-places-53">Schan</placeName> järlich auff <date when="--11-11">Martini</date> von neünzehenthalben  
 <lb n="249"/>pfundt hauptguet, neunzehenthalben schilling zinß  
 <lb n="250"/>von usser und ab zwayen stuckh guet, zue <placeName ref="lub-places-53">Schan</placeName> im  
 <lb n="251"/><placeName ref="lub-places-218">underen Bofel</placeName> auff <placeName ref="lub-places-427">Brabathan</placeName> gelegen, stost das  
@@ -388,12 +426,12 @@
 <lb n="260"/>ledig ligen unversezt, ausserhalb einer eissnen  
 <lb n="261"/>khue <placeName ref="lub-places-212">Sant Lorentzen</placeName> pfrundt zu <placeName ref="lub-places-53">Schan</placeName> gehorig undt  
 <lb n="262"/>mit neunzehenthalb pfundt widerumb vor zinßfahl  
-<lb n="263"/>ablößig. Actum sontag Invocavit anno 1604. 
+                <lb n="263"/>ablößig. Actum <date when="1604-02-25">sontag Invocavit anno 1604</date>. 
 <lb n="264"/>Ist sonst kein brieff darumb etc. 
 </p>
         <p><pb facs="lub-media-1313" n="19"/><lb n="265"/>Item <persName ref="lub-actors-382">Aristotiles Tüntel</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1361">Elsa Mey
 <lb break="no" n="266"/>erin</persName>, sein haußfrauw sollen der früemeß daselbst 
-<lb n="267"/>jerlich auff Martini laut eines besigleten zinßbrieffs  
+                <lb n="267"/>jerlich auff <date when="--11-11">Martini</date> laut eines besigleten zinßbrieffs  
 <lb n="268"/>anfangendt, ich, <persName ref="lub-actors-382">Aristotiles Tüntel</persName>, endet da  
 <lb n="269"/>man zalt dausent fünffhundert und fünffundachtzig  
 <lb n="270"/>jahr, von einundzwantzig pfundt haubtguet, ein
@@ -426,14 +464,14 @@
 <lb n="296"/>ein schwartze henna, und dan des <persName ref="lub-actors-1413">Theiß Kachlers</persName>  
 <lb n="297"/>zue <placeName ref="lub-places-36">Benderen</placeName> seeligen erben zehen schilling alles  
 <lb n="298"/>laut brieffs anfangendt, ich, <persName ref="lub-actors-480">Agatha Latzerin</persName>,  
-<lb n="299"/>zue <placeName ref="lub-places-53">Schan</placeName> endet, gezalt nach Cristi geburt dauß
-<lb break="no" n="300"/>ent fünffhundert neun und achtzig jahr.
+<lb n="299"/>zue <placeName ref="lub-places-53">Schan</placeName> endet, gezalt nach Cristi geburt <date when="1589">dauß
+<lb break="no" n="300"/>ent fünffhundert neun und achtzig jahr</date>.
 </p>
         <p><pb facs="lub-media-1315" n="21"/><lb n="301"/>Item <persName ref="lub-actors-1484">Cristian Taner</persName> von <placeName ref="lub-places-53">Schan</placeName> alß verord
 <lb break="no" n="302"/>neter vogt <persName ref="lub-actors-1310">Michael Conradts</persName> daselbst soll der 
 <lb n="303"/>früemeß auch zue <placeName ref="lub-places-53">Schan</placeName> wegen seines vogt sohns  
 <lb n="304"/>von dreyzehenthalben guldin haubtsumma järlich  
-<lb n="305"/>auff Martini zinß, 9 batzen, 1 kreitzer 2 d. vonn  
+                <lb n="305"/>auff <date when="--11-11">Martini</date> zinß, 9 batzen, 1 kreitzer 2 d. vonn  
 <lb n="306"/>usser und ab einem mahl ackher, im <placeName ref="lub-places-218">underen Bofel</placeName>  
 <lb n="307"/>im <placeName ref="lub-places-582">Trächßlin</placeName> zue <placeName ref="lub-places-53">Schan</placeName> gelegen, stost gegen dem  
 <lb n="308"/>berg an <persName ref="lub-actors-1313">Cristian Gantzman</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1420">Anna  
@@ -442,13 +480,13 @@
 <lb break="no" n="311"/>an <persName ref="lub-actors-214">Blanckhis</persName> seeligen erben, für frey ledig ligen 
 <lb n="312"/>ist der zinß mit abgeschribnen haubtguet widerumben  
 <lb n="313"/>abloßig, sonsten darum kein brieff vorhanden. Actum  
-<lb n="314"/>ahm sontag Invocavit anno 1604. 
+                <lb n="314"/>ahm <date when="1604-02-25">sontag Invocavit anno 1604</date>. 
 </p>
         <p><lb n="315"/>Item <persName ref="lub-actors-1309">Hannß Maurer</persName> zue <placeName ref="lub-places-53">Schan</placeName>, alß vogt <persName ref="lub-actors-1420">Anna  
 <pb facs="lub-media-1316" n="22"/>
 <lb n="316"/>Conradtin</persName> soll wegen seiner vogtochter jarlich der  
 <lb n="317"/>früemeß daselbst von dreyzehenthalben gulden  
-<lb n="318"/>haubtguet auff Martini neun batzen ein kreutzer  
+                <lb n="318"/>haubtguet auff <date when="--11-11">Martini</date> neun batzen ein kreutzer  
 <lb n="319"/>zwen pfening zinß von usser und ab einem stuckh  
 <lb n="320"/>guet im <placeName ref="lub-places-218">underen Bofel</placeName> zu <placeName ref="lub-places-53">Schan</placeName> im <placeName ref="lub-places-582">Tröchßlin</placeName> gelegen,  
 <lb n="321"/>stost gegen dem berg an <persName ref="lub-actors-1310">Michael Conradt</persName>, der  
@@ -458,12 +496,12 @@
 <lb n="325"/>erben, für frey ledig unvesezt. Ist der zinß  
 <lb n="326"/>mit abgeschribner summa widerumb abloßig  
 <lb n="327"/>sonst darumb kein anderer brieff vorhanden.  
-<lb n="328"/>Actum ahm sontag Invocavit anno 1604. 
+                <lb n="328"/>Actum ahm <date when="1604-02-25">sontag Invocavit anno 1604</date>. 
 </p>
         <p><lb n="329"/>Item <persName ref="lub-actors-1313">Cristian Ganzman</persName> zue <placeName ref="lub-places-53">Schan</placeName>, alß  
 <lb n="330"/>vogt weylandt <persName ref="lub-actors-481">Hannß Marxer</persName> von <placeName ref="lub-places-53">Schan</placeName>  
 <lb n="331"/>seligen erben soll der früemeß daselbst auff  
-<lb n="332"/>Martini järlich von zehen gulden haubtguet ein  
+                <lb n="332"/><date when="--11-11">Martini</date> järlich von zehen gulden haubtguet ein  
 <lb n="333"/>halben gulden zinß, alles laut brieffs an
 <pb facs="lub-media-1317" n="23"/>
 <lb break="no" n="334"/>fangendt, ich, <persName ref="lub-actors-481">Hans Marxer</persName> von <placeName ref="lub-places-53">Schan</placeName> 
@@ -479,14 +517,14 @@
 </p>
         <p><lb n="344"/>Item <persName ref="lub-actors-1417">Hans Knabenknecht</persName> zue <placeName ref="lub-places-53">Schan</placeName> undt  
 <lb n="345"/><persName ref="lub-actors-1141">Anna Ballaßerin</persName> sein hausfraw, sollen järlich  
-<lb n="346"/>auff Martini der früemeß daselbst von  
+                <lb n="346"/>auff <date when="--11-11">Martini</date> der früemeß daselbst von  
 <lb n="347"/>fünff und zwantzig gulden haubtguet, ein  
 <lb n="348"/>gulden fünffzehen kreutzer zinß, alles laut  
 <lb n="349"/>brieffs anfangendt, ich, <persName ref="lub-actors-1417">Hans Knabenknecht</persName>  
 <lb n="350"/>zue <placeName ref="lub-places-53">Schan</placeName>, und mit im <persName ref="lub-actors-1141">Anna Ballasserin</persName> etc. 
-<lb n="351"/>Endet bezalt tausendt fünffhundert neun  
+<lb n="351"/>Endet bezalt <date when="1589">tausendt fünffhundert neun  
 <pb facs="lub-media-1318" n="24"/>
-<lb n="352"/>und achtzig jahr, von usser und ab einem ackher  
+<lb n="352"/>und achtzig</date> jahr, von usser und ab einem ackher  
 <lb n="353"/>im <placeName ref="lub-places-575">Rotzgraben</placeName> zue <placeName ref="lub-places-53">Schan</placeName> gelegen, dessen ietzige  
 <lb n="354"/>anstöß sein erstlich gegen dem berg stost er  
 <lb n="355"/>an amman <persName ref="lub-actors-229">Walßer</persName>, <persName ref="lub-actors-1359">Theis Bürckhlin</persName>, <persName ref="lub-actors-1492">Michael  
@@ -499,12 +537,12 @@
 </p>
         <p><lb n="362"/>Item <persName ref="lub-actors-483">Joseph Gaßner</persName> zue <placeName ref="lub-places-53">Schan</placeName> undt <persName ref="lub-actors-482">Cristina  
 <lb n="363"/>Lerchin</persName> sein haußfrauw zinsen der früemeß  
-<lb n="364"/>daselbst järlich auff Martini von zwantzig  
+<lb n="364"/>daselbst järlich auff <date when="--11-11">Martini</date> von zwantzig  
 <lb n="365"/>pfundt haubtguet, ein pfundt pfening zinß,  
 <lb n="366"/>alles laut brieffs anfangendt, ich, <persName ref="lub-actors-483">Joseph  
 <lb n="367"/>Gasner</persName> zu <placeName ref="lub-places-53">Schan</placeName>, und mit im <persName ref="lub-actors-482">Cristina Lerchin</persName>.  
-<lb n="368"/>Endet etc. bezalt taußendt fünffhundert neuntz
-<lb break="no" n="369"/>ig jahr von usser und ab irem aignen hauß 
+<lb n="368"/>Endet etc. bezalt <date when="1590">taußendt fünffhundert neuntz
+<lb break="no" n="369"/>ig</date> jahr von usser und ab irem aignen hauß 
 <pb facs="lub-media-1319" n="25"/>
 <lb n="370"/>und hoffstadt zue <placeName ref="lub-places-53">Schan</placeName> gelegen. Dessen  
 <lb n="371"/>jetzige anstöß erstlich gegen dem berg ahn  
@@ -518,9 +556,9 @@
 <lb n="378"/>Ballaßerin</persName> sein haußfrauw zinsen der früemeß  
 <lb n="379"/>daselbst laut eines brieffs anfangendt ich, <persName ref="lub-actors-1378">Pett
 <lb break="no" n="380"/>er Ganttner</persName> von <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1141">Anna Ballasserin</persName> etc. 
-<lb n="381"/>Endet gezalt <date>tausendtfünffhundert achtz und achtzig  
+<lb n="381"/>Endet gezalt <date when="1588">tausendtfünffhundert achtz und achtzig  
 <lb n="382"/>jahre</date> von zwantzig pfundt pfening haubtguet jär
-<lb break="no" n="383"/>lich auff Martini ein pfundt pfening zinß, von einem 
+<lb break="no" n="383"/>lich auff <date when="--11-11">Martini</date> ein pfundt pfening zinß, von einem 
 <lb n="384"/>ackher in <placeName ref="lub-places-219">Gapetsch</placeName> zue <placeName ref="lub-places-53">Schan</placeName> gelegen. Dessen ietz
 <lb break="no" n="385"/>ige anstöß sein erstlich gegen dem berg an <persName ref="lub-actors-1142">Hannß 
 <lb n="386"/>Knabenknechts</persName> seeligen erben, auffert  
@@ -532,11 +570,11 @@
         <p><lb n="390"/>Item <persName ref="lub-actors-1448">Thoman Müller</persName> von <placeName ref="lub-places-53">Schan</placeName>, alß ein erb  
 <lb n="391"/><persName ref="lub-actors-1446">Sigmundt Müllers</persName> seeligen und <persName ref="lub-actors-1447">Ottilia Beckhin</persName>,  
 <lb n="392"/>sein haußfrauw, zinsen der früemeß zue <placeName ref="lub-places-53">Schan</placeName>  
-<lb n="393"/>järlich auff Martini von sechszehen pfundt haubtgut  
+                <lb n="393"/>järlich auff <date when="--11-11">Martini</date> von sechszehen pfundt haubtgut  
 <lb n="394"/>sehszehen schilling zinß, laut eines brieffs an
 <lb break="no" n="395"/>fangendt ich, <persName ref="lub-actors-1437">Hans Mader</persName>, seßhafft zue <placeName ref="lub-places-53">Schan</placeName> 
 <lb n="396"/>und <persName ref="lub-actors-1438">Olga <supplied>?</supplied> Schedlerin</persName> etc. endet etc. nach Cristi ge
-<lb break="no" n="397"/>burt <date>tausendt fünffhundert zwayundzwantzig 
+<lb break="no" n="397"/>burt <date when="1522">tausendt fünffhundert zwayundzwantzig 
 <lb n="398"/>jahr</date> von einer hoffraiti zue <placeName ref="lub-places-53">Schan</placeName> gelegen.  
 <lb n="399"/>Deren ietzige anstöß sein erstlich stost gegen  
 <lb n="400"/>dem berg an <persName ref="lub-actors-1313">Cristian Gantzmannß</persName> hoffraitin,  
@@ -548,9 +586,9 @@
 </p>
         <p><pb facs="lub-media-1321" n="27"/><lb n="406"/>Item <persName ref="lub-actors-1344">Petter Ballaßer</persName> von <placeName ref="lub-places-53">Schan</placeName> zinst järlich  
 <lb n="407"/>der früemeß daselbst von fünffhalb pfundt haubt
-<lb break="no" n="408"/>guet, fünffthalb schilling zinß auff Martini laut 
+                <lb break="no" n="408"/>guet, fünffthalb schilling zinß auff <date when="--11-11">Martini</date> laut 
 <lb n="409"/>eines brieffs, anfangendt, ich, <persName ref="lub-actors-214">Jacob Blänckhi</persName> von  
-<lb n="410"/><placeName ref="lub-places-53">Schan</placeName>, endet an <date>Sant Andreas tag nach Cristi ge
+<lb n="410"/><placeName ref="lub-places-53">Schan</placeName>, endet an <date when="1513-11-30">Sant Andreas tag nach Cristi ge
 <lb break="no" n="411"/>burt im tausendten fünffhundert und dreyzehenden 
 <lb n="412"/>jahr</date> 2 von usser und ab einem stuckh guet in <placeName ref="lub-places-218">und
 <lb break="no" n="413"/>ren Bofel</placeName> in <placeName ref="lub-places-569">Malors</placeName> zue <placeName ref="lub-places-53">Schan</placeName> gelegen, stost gegen 
@@ -559,7 +597,7 @@
 <lb n="416"/>herrschafft guet, und abwert an daß <placeName ref="lub-places-570">Meßner  
 <lb n="417"/>guet</placeName>. Ist sonst ledig 
 <lb n="418"/>Nota. Diser <persName ref="lub-actors-1344">Ballasser</persName> begert auff khünfft
-<lb break="no" n="419"/>igen Martini haubtsumma und zinß zuerlegen 
+                <lb break="no" n="419"/>igen <date when="--11-11">Martini</date> haubtsumma und zinß zuerlegen 
 <lb n="420"/>und abzulößen. 
 <lb n="421"/>Item soll auch <persName ref="lub-actors-1344">Peter Ballasser</persName> der früemeß  
 <pb facs="lub-media-1322" n="28"/>
@@ -591,13 +629,13 @@
 <lb break="no" n="444"/>ig, laut eines alten brieffs, so auff <persName ref="lub-actors-1364">Hannß Erbser</persName> von 
 <lb n="445"/><placeName ref="lub-places-53">Schan</placeName> gestonnden, welcher durch einsetzung anderer  
 <lb n="446"/>underpfandt von <persName ref="lub-actors-1459">Cristian Ory</persName> abgethan worden. Ist des  
-<lb n="447"/>brieffs datum geweßen, <date>zinstag vor Sant Georgen des  
+<lb n="447"/>brieffs datum geweßen, <date when="1470-04-17">zinstag vor Sant Georgen des  
 <lb n="448"/>marters tag, da mann zalt von Christi unsers herren  
 <lb n="449"/>geburt tausendt vierhundert sübendtzig jahrs</date>. 
 </p>
         <p><lb n="450"/>Item herr <persName ref="lub-actors-1481">Mathis Wangner</persName>, derzeit pfarrherr  
 <lb n="451"/>zue <placeName ref="lub-places-53">Schan</placeName>, zinst järlich der früemeß daselbst von fünffz
-<lb break="no" n="452"/>ig gulden haubtguet auff Martini, driethalben gulden 
+                <lb break="no" n="452"/>ig gulden haubtguet auff <date when="--11-11">Martini</date>, driethalben gulden 
 <lb n="453"/>gelts gueter veldtkürcher rechnung von usser und ab  
 <lb n="454"/>einem weingarten zue <placeName ref="lub-places-53">Schan</placeName> in <placeName ref="lub-places-201">Quaderen</placeName> gelegen. 
 <pb facs="lub-media-1324" n="30"/>
@@ -611,7 +649,7 @@
 </p>
         <p><lb n="462"/>Item <persName ref="lub-actors-1417">Hannß Knabenknecht </persName>der jünger und <persName ref="lub-actors-1418">Anna  
 <lb n="463"/>Wagnerin</persName> von <placeName ref="lub-places-53">Schan</placeName> zinsen der früemeß daselbst  
-<lb n="464"/>järlich auff Martini von vier und viertzig gulden  
+                <lb n="464"/>järlich auff <date when="--11-11">Martini</date> von vier und viertzig gulden  
 <lb n="465"/>haubtguet zwen gulden drey batzen zinß von usser  
 <lb n="466"/>und ab einem weingarten zue <placeName ref="lub-places-53">Schan</placeName> in <placeName ref="lub-places-201">Quad
 <lb break="no" n="467"/>eren</placeName> gelegen, stost gegen dem berg an <persName ref="lub-actors-1395">Fridlin Henne</persName>, 
@@ -625,23 +663,23 @@
 <lb n="474"/>sontag Invocavtit anno sehszehenhundert viere. 
 </p>
         <p><lb n="475"/>Item so soll auch <persName ref="lub-actors-1417">Hannß Knabenknecht </persName>und seines vatters  
-<lb n="476"/>seligen Matth erben järlich auff Martini ein schilling zinß  
-<lb n="477"/>denselben sie biß khünfftigen Martini miteinander  
+                <lb n="476"/>seligen Matth erben järlich auff <date when="--11-11">Martini</date> ein schilling zinß  
+                <lb n="477"/>denselben sie biß khünfftigen <date when="--11-11">Martini</date> miteinander  
 <lb n="478"/>abloßen actum ut supra. 
 </p>
         <p><lb n="479"/>Item <persName ref="lub-actors-1397">Christian Hiltin</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1398">Barbara Jelin</persName>  
 <lb n="480"/>sein hausfrauw zinsen der früemeß daselbst järlich  
-<lb n="481"/>auff Martini von fünff gulden haubtguet fünffzehen  
+                <lb n="481"/>auff <date when="--11-11">Martini</date> von fünff gulden haubtguet fünffzehen  
 <lb n="482"/>kreutzer zinß, von usser und ab einem stuckh, genandt  
 <lb n="483"/>auff der <placeName ref="lub-places-581">Stain Egerten</placeName> Schaner kürchspiel, stost  
 <lb n="484"/>abwert dem landtnach an <persName ref="lub-actors-1359">Theüß Bürckhlin</persName>, zue den  
 <lb n="485"/>anderen dreyen seiten an die allgemein. Ist sonst  
 <lb n="486"/>ledig unversetzt deß zinß halben, usserhalb des urbars  
-<lb n="487"/>kein anderer brieff vorhanden. Actum montag nach  
-<lb n="488"/>Invocavit anno sechzehenhundert vierten jahr. 
+<lb n="487"/>kein anderer brieff vorhanden. Actum <date when="1604-02-26">montag nach  
+<lb n="488"/>Invocavit anno sechzehenhundert vierten jahr</date>. 
 </p>
         <p><pb facs="lub-media-1326" n="32"/><lb n="489"/>Item <persName ref="lub-actors-1459">Cristian Ory</persName> von <placeName ref="lub-places-53">Schan</placeName> alß vogt <persName ref="lub-actors-1486">Maria Tann
-<lb break="no" n="490"/>erin</persName> soll der früemeß daselbst järlich uff Martini 
+                <lb break="no" n="490"/>erin</persName> soll der früemeß daselbst järlich uff <date when="--11-11">Martini</date> 
 <lb n="491"/>von drey pfundt haubtguet drey schilling zinß von  
 <lb n="492"/>usser und ab der <persName ref="lub-actors-1486">Maria Tannerin</persName> theil bündt ausser  
 <lb n="493"/>des <persName ref="lub-actors-1498">Ulrich Wagners</persName> hauß, stost gegen dem berg  
@@ -651,13 +689,13 @@
 <lb n="497"/>an der frauwen bruoder <persName ref="lub-actors-1485">Hannß Tanner</persName>, ist sonst  
 <lb n="498"/>ledig ausserhalb einer moß schmalz, von der  
 <lb n="499"/>gantzen bündt, so <placeName ref="lub-places-212">Sant Lorentzen</placeName> gehert, ist sonst des  
-<lb n="500"/>zinß halben kein besonderer brieff. Actum mon
-<lb break="no" n="501"/>tag nach Invocavit anno sehszehenhundert viere.
+                <lb n="500"/>zinß halben kein besonderer brieff. Actum <date when="1604-02-26">mon
+<lb break="no" n="501"/>tag nach Invocavit anno sehszehenhundert viere</date>.
 </p>
         <p><lb n="502"/>Item <persName ref="lub-actors-1452">Georg Negelin</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1453">Barbara  
 <lb n="503"/>Oschwaldin</persName> sein haußfrauw zinsen jarlich der früe
 <lb break="no" n="504"/>meß daselbst von acht pfundt haubtguet uff 
-<lb n="505"/>Martini acht schilling pfening zinß, von usser und  
+                <lb n="505"/><date when="--11-11">Martini</date> acht schilling pfening zinß, von usser und  
 <lb n="506"/>ab einem ackher in <placeName ref="lub-places-218">underen Bofel</placeName> im <placeName ref="lub-places-575">Rötzgraben</placeName>,  
 <lb n="507"/>zu <placeName ref="lub-places-53">Schan</placeName> gelegen, stost gegen dem berg an <persName ref="lub-actors-1312">Ge
 <lb break="no" n="508"/>org Conradten</persName>, auffwert dem landtnach an amman 
@@ -666,11 +704,11 @@
 <lb n="510"/>Walßer</persName>, und abwert dem landtnach an <persName ref="lub-actors-1144">Adam Frickhen</persName>  
 <lb n="511"/>ist ledig, außgenommen dem hailigen <placeName ref="lub-places-212">Sant Lorentzen</placeName>  
 <lb n="512"/>zue <placeName ref="lub-places-53">Schan</placeName> anderthalben gulden järlich zinß und  
-<lb n="513"/>widerum ablößig. Actum montag nach Invocavit  
-<lb n="514"/>anno 1604. 
+                <lb n="513"/>widerum ablößig. Actum <date when="1604-02-26">montag nach Invocavit  
+<lb n="514"/>anno 1604</date>. 
 </p>
         <p><lb n="515"/>Item <persName ref="lub-actors-1309">Hannß Maurer</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1443">Ursula Ballasserin</persName>  
-<lb n="516"/>zinsen der früemeß daselbst järlich auff Martini  
+                <lb n="516"/>zinsen der früemeß daselbst järlich auff <date when="--11-11">Martini</date>  
 <lb n="517"/>von zehen gulden haubtguet, ein halben gulden gelts  
 <lb n="518"/>veldtkürcher wehrung, von usse rund ab einem  
 <lb n="519"/>baumgarten, in der <placeName ref="lub-places-572">Reberen</placeName> zue <placeName ref="lub-places-53">Schan</placeName> gelegen,  
@@ -682,11 +720,11 @@
 <lb n="525"/>guet ist ledig eigen, ausserhalb einem pfarrherren  
 <lb n="526"/>zue <placeName ref="lub-places-53">Schan</placeName>, jarlich einen batzen zinß davon  
 <pb facs="lub-media-1328" n="34"/>
-<lb n="527"/>gehört ist ablößig. Actum montag nach Invoca
-<lb break="no" n="528"/>vit anno 1604.
+                <lb n="527"/>gehört ist ablößig. Actum <date when="1604-02-26">montag nach Invoca
+<lb break="no" n="528"/>vit anno 1604</date>.
 </p>
         <p><lb n="529"/>Item <persName ref="lub-actors-1449">Adam Negelin</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1450">Anna Müllerin</persName>  
-<lb n="530"/>sein eheliche haußfrauw zinßen järlich auff Martini  
+                <lb n="530"/>sein eheliche haußfrauw zinßen järlich auff <date when="--11-11">Martini</date>  
 <lb n="531"/>der früemeß daselbst, von fünff und dreyssig gulden  
 <lb n="532"/>haubtguet ein gulden elff batzen ein kreutzer, von  
 <lb n="533"/>usser und ab einem stuckh guet auff <placeName ref="lub-places-124">Planckhen</placeName> gelegen  
@@ -699,24 +737,24 @@
 <lb n="539"/>gelegen, stost aufwerts dem land nach an <persName ref="lub-actors-1405">Stoffel  
 <lb n="540"/>Jeger</persName> und gegen dem berg an ine, <persName ref="lub-actors-1405">Stoffel Jeger</persName>, gegen  
 <lb n="541"/>dem <placeName ref="lub-places-103">Rein</placeName> an die algemain, und abwerts an <persName ref="lub-actors-1221">Ulin Neg
-<lb break="no" n="542"/>elin</persName> ledig und loß. Actum auf <date>Martini anno etc.
+<lb break="no" n="542"/>elin</persName> ledig und loß. Actum auf <date when="1609-11-11">Martini anno etc.
 <lb n="543"/>sechzehenhundert und neune</date>. 
 <lb n="544"/>Gibt jezt <persName ref="lub-actors-1445">Thoman Moser</persName> ab <placeName ref="lub-places-124">Blanckhen</placeName> und <persName ref="lub-actors-1376">Margretha  
 <lb n="545"/>Lampartin</persName> sein hausfrauw etc. 
 </p>
         <p><pb facs="lub-media-1329" n="35"/><lb n="546"/>Item <persName ref="lub-actors-1395">Fridolin Henne</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1396">Ursula Fritschin</persName> sein  
 <lb n="547"/>haußfrauw zinsen der früemeß daselbst järlich auff  
-<lb n="548"/>Martini von acht pfundt haubtguet acht schillling zinß  
+                <lb n="548"/><date when="--11-11">Martini</date> von acht pfundt haubtguet acht schillling zinß  
 <lb n="549"/>von usser und ab einem ruckhguet in <placeName ref="lub-places-219">Gapetsch</placeName> zue <placeName ref="lub-places-53">Schan</placeName>  
 <lb n="550"/>gelegen, stost gegen dem berg an <persName ref="lub-actors-483">Joseph Gaßner</persName>,  
 <lb n="551"/>auffwert dem landtnach an die allgemain. Gegen dem  
 <lb n="552"/><placeName ref="lub-places-103">Rein</placeName> an <placeName ref="lub-places-564">Kleinen Giessen</placeName> und abwert dem landtnach  
 <lb n="553"/>ahn die haimgaß. Ist ledig und der zinß ablößig.  
-<lb n="554"/>Datum <date>montag vor Jacobi anno 1604</date>. 
+<lb n="554"/>Datum <date when="1604-07-23">montag vor Jacobi anno 1604</date>. 
 </p>
         <p><lb n="555"/>Item <persName ref="lub-actors-1432">Marx Ludescher</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1433">Margreta  
 <lb n="556"/>Ganzmänin</persName> sein haußfrauw zinsen järlich der früe
-<lb break="no" n="557"/>meß daselbst auff Martini von vier pfundt 
+                <lb break="no" n="557"/>meß daselbst auff <date when="--11-11">Martini</date> von vier pfundt 
 <lb n="558"/>haubtguet vier schilling zinß von usser und ab einem  
 <pb facs="lub-media-1330" n="36"/>
 <lb n="559"/>stuckh guet, in <placeName ref="lub-places-547">Bartlitura</placeName> gelegen, stost gegen dem  
@@ -724,16 +762,16 @@
 <lb break="no" n="561"/>greta Plänckhin</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1309">Hannß Maurer</persName> 
 <lb n="562"/>weibs guet, und abwert dem landtnach an <persName ref="lub-actors-1426">Ulrich Conradts</persName>  
 <lb n="563"/>seeligen erben, für frey ledig unversezt. Ist der zinß  
-<lb n="564"/>ablößig. Actum montag nach Invocavit anno 1604. 
+                <lb n="564"/>ablößig. Actum <date when="1604-02-26">montag nach Invocavit anno 1604</date>. 
 <lb n="565"/>Zinset an jezo <persName ref="lub-actors-1352">Bastian Blaichner</persName> unnd <persName ref="lub-actors-1353">Maria Frickh</persName>
 <lb break="no" n="566"/>in sein weib.
 </p>
         <p><lb n="567"/>Item <persName ref="lub-actors-1217">Lentz Khauffman</persName> ab <placeName ref="lub-places-124">Planckhen</placeName> und <persName ref="lub-actors-1415">Ursula  
 <lb n="568"/>Maderin</persName> sein eheliche hausfrauw, zinßen järlich der  
-<lb n="569"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> auff Martini von viertzig pfundt  
+                <lb n="569"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> auff <date when="--11-11">Martini</date> von viertzig pfundt  
 <lb n="570"/>haubtguet zwey pfundt zinß, alles laut brieffs an
 <lb break="no" n="571"/>fangendt, ich, <persName ref="lub-actors-1217">Lenz Khauffman</persName>, seßhafft auff <placeName ref="lub-places-124">Planckhen</placeName> 
-<lb n="572"/>und mit ihm ich, <persName ref="lub-actors-1415">Ursula Maderin</persName> etc. Endet auff <date>Martini  
+<lb n="572"/>und mit ihm ich, <persName ref="lub-actors-1415">Ursula Maderin</persName> etc. Endet auff <date when="1585-11-11">Martini  
 <lb n="573"/>des 1585 iahrs</date>, von usser und ab einem stuckh gut  
 <lb n="574"/>auff der <placeName ref="lub-places-571">Oberen Planckhen</placeName> gelegen, genandt der <placeName ref="lub-places-546">Ban
 <lb break="no" n="575"/>ackher</placeName>, stost ietziger zeit gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1363">Hannß 
@@ -744,7 +782,7 @@
 <lb n="579"/>ledig unversetzt alles laut vorgeschribnen brieffs 
 </p>
         <p><lb n="580"/>Item <persName ref="lub-actors-1216">Jacob Jelin</persName> ab <placeName ref="lub-places-124">Planckhen</placeName> und <persName ref="lub-actors-1407">Anna Geroldtin</persName>,  
-<lb n="581"/>sein haußfrauw, sein schuldig jarlich auff Martini  
+                <lb n="581"/>sein haußfrauw, sein schuldig jarlich auff <date when="--11-11">Martini</date>  
 <lb n="582"/>der früemeß zue <placeName ref="lub-places-53">Schan</placeName> von. zwantzig pfundt haubt
 <lb break="no" n="583"/>guet, ein pfundt järlichs zinß, von usser und ab 
 <lb n="584"/>einem stuckh guet in oberen <placeName ref="lub-places-568">Loch</placeName> auff <placeName ref="lub-places-124">Planckhen</placeName>  
@@ -755,11 +793,11 @@
 <lb n="589"/><persName ref="lub-actors-1209">Michael Jelin</persName>, und abwert dem landtnach an  
 <lb n="590"/><persName ref="lub-actors-1220">Thoman Jelin</persName>, ist ledig unversezt und der zinß  
 <lb n="591"/>mit vorgeschribnem haubtguet widerum ablöß
-<lb break="no" n="592"/>ig. Actum montag Invocavit anno 1604.
+                <lb break="no" n="592"/>ig. Actum <date when="1604-02-26">montag Invocavit anno 1604</date>.
 </p>
         <p><pb facs="lub-media-1332" n="38"/><lb n="593"/>Item <persName ref="lub-actors-1220">Thomaß Jelin</persName> ab <placeName ref="lub-places-124">Planckhen</placeName> und <persName ref="lub-actors-1412">Verena Janin</persName>, sein  
 <lb n="594"/>haußfrauw, sollen der früemeß zu <placeName ref="lub-places-53">Schan</placeName> järlich von  
-<lb n="595"/>zehen pfundt haubtguet, auff Martini zehen schilling jär
+                <lb n="595"/>zehen pfundt haubtguet, auff <date when="--11-11">Martini</date> zehen schilling jär
 <lb break="no" n="596"/>lich zinß von usser und ab einem stuckh guet im obern 
 <lb n="597"/><placeName ref="lub-places-568">Loch</placeName>, auff <placeName ref="lub-places-124">Planckhen</placeName> gelegen, stost gegen dem berg  
 <lb n="598"/>an <persName ref="lub-actors-1386">Anna Gaßnerin</persName>, auffwert dem landtnach an  
@@ -767,7 +805,7 @@
 <lb break="no" n="600"/>nerin</persName> und abwert dem landtnach an <persName ref="lub-actors-1484">Cristian Tann
 <lb break="no" n="601"/>ers</persName> weibs guet, ist ledig, eigen unversezt und der 
 <lb n="602"/>zinß mit vorgemeltem hauptguet widerum ablößig.  
-<lb n="603"/>Actum montag nach Invocavit anno 1604. 
+                <lb n="603"/>Actum <date when="1604-02-26">montag nach Invocavit anno 1604</date>. 
 </p>
         <p><lb n="604"/>Item <persName ref="lub-actors-1427">Sebastian Kranz</persName> ab <placeName ref="lub-places-124">Planckhen</placeName> und sein hauß
 <pb facs="lub-media-1333" n="39"/>
@@ -780,14 +818,14 @@
 <lb break="no" n="611"/>ner </persName>und <persName ref="lub-actors-1388">Georg Gaßner</persName>, und abwert dem landt 
 <lb n="612"/>nach an <persName ref="lub-actors-1423">Georg Conradt</persName>, ist sonst ledig und der  
 <lb n="613"/>zinß mit abgeschribnem haubtguet widerum ab
-<lb break="no" n="614"/>loßig. Actum montag nach Invocavit anno 1604.
+                <lb break="no" n="614"/>loßig. Actum <date when="1604-02-26">montag nach Invocavit anno 1604</date>.
 </p>
         <p><lb n="615"/>Item <persName ref="lub-actors-1394">Martin Guet</persName> ab der Hueb in der herrschafft  
 <lb n="616"/><placeName ref="lub-places-10">Veldtkhürch</placeName> gehörig, soll järlich der früemeß zue  
-<lb n="617"/><placeName ref="lub-places-53">Schan</placeName> von achtzehen pfundt haubtguet auff Martini  
+                <lb n="617"/><placeName ref="lub-places-53">Schan</placeName> von achtzehen pfundt haubtguet auff <date when="--11-11">Martini</date>  
 <lb n="618"/>achtzehen schilling pfening laut eines alten uber
 <lb break="no" n="619"/>gab brieffs anfangendt, wür, hernach genandte, 
-<lb n="620"/>mit nammen <persName ref="lub-actors-1471">Johan Quaderer</persName> etc., endet an <date>sant  
+<lb n="620"/>mit nammen <persName ref="lub-actors-1471">Johan Quaderer</persName> etc., endet an <date when="1590-02-05">sant  
 <lb n="621"/>Agata tag nach Cristi geburt 1590 jahr</date>.  
 </p>
         <p><pb facs="lub-media-1334" n="40"/><lb n="622"/>Früchten zinß 
@@ -809,7 +847,7 @@
 <lb n="638"/>der geburt Christi, dan mann zahlt 1482 jahr. 
 </p>
         <p><lb n="639"/>Item Petter <persName ref="lub-actors-1344">Ballasser</persName> von <placeName ref="lub-places-53">Schan</placeName> soll der  
-<lb n="640"/>früemeß daselbst iärlich auff Martini eines  
+                <lb n="640"/>früemeß daselbst iärlich auff <date when="--11-11">Martini</date> eines  
 <lb n="641"/>ewigen zinß zwey vierthail guets schönes laut
 <pb facs="lub-media-1335" n="41"/>
 <lb break="no" n="642"/>ers und erbers waitzen veldtkurcher meß, von 
@@ -827,7 +865,7 @@
 <lb n="653"/><persName ref="lub-actors-1400">Florin Hiltinß</persName> seeligen khündt <persName ref="lub-actors-1401">Hannß Hiltin</persName>, zinsen  
 <lb n="654"/>järlich der früemeß zue <placeName ref="lub-places-53">Schan</placeName> zway viertel guet  
 <lb n="655"/>saubers waitzen veldtkürcher meß, ewiges zinß,  
-<lb n="656"/>allzeit auff Martini, und gibt die <persName ref="lub-actors-1472">Margret</persName> an den  
+                <lb n="656"/>allzeit auff <date when="--11-11">Martini</date>, und gibt die <persName ref="lub-actors-1472">Margret</persName> an den  
 <lb n="657"/>zwayen viertlen, denn drittenthail, das uberige  
 <lb n="658"/>aber daß enckhlin <persName ref="lub-actors-1401">Hannß Hiltin</persName>, ist die hauptsumma  
 <lb n="659"/>acht pfundt pfening, underpfandt ein weingarten,  
@@ -841,12 +879,12 @@
 <lb n="666"/><persName ref="lub-actors-1399">Simon Hiltin</persName> und abwert dem landtnach an die  
 <lb n="667"/>haimgaß. Ist ledig unversetzt, alles laut brieffs  
 <lb n="668"/>anfangendt, ich, <persName ref="lub-actors-601">Jacob Hutt</persName>, von <placeName ref="lub-places-53">Schan</placeName> etc. Endet,  
-<lb n="669"/>der geben ist auff <date>sant Georgen des heiligen riet
+<lb n="669"/>der geben ist auff <date when="1548-04-23">sant Georgen des heiligen riet
 <lb break="no" n="670"/>ers tag nach Cristi geburt 1548 jahr</date>.
 </p>
         <p><lb n="671"/>Item <persName ref="lub-actors-1384">Stoffel Ganzman</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1385">Mar
 <lb break="no" n="672"/>greta Frickhin</persName> sein hausfrauw, zinsen järlich 
-<lb n="673"/>der früemeß zue <placeName ref="lub-places-53">Schan</placeName> auff Martini ein  
+                <lb n="673"/>der früemeß zue <placeName ref="lub-places-53">Schan</placeName> auff <date when="--11-11">Martini</date> ein  
 <lb n="674"/>viertel guets saubers waitzen veldtkürch
 <lb break="no" n="675"/>er meß, von usser und ab einem ackers 
 <lb n="676"/>auff <placeName ref="lub-places-582">Trochs</placeName> im <placeName ref="lub-places-218">underen Bofel</placeName> zue <placeName ref="lub-places-53">Schan</placeName>  
@@ -913,8 +951,8 @@
 <lb n="732"/><placeName ref="lub-places-554">Duchßgassen</placeName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1434">Heinrich Maders</persName>  
 <lb n="733"/>und <persName ref="lub-actors-1370">Theiß Frickhen</persName> und abwert an <persName ref="lub-actors-1309">Hannß Maurers</persName>  
 <lb n="734"/>zue <placeName ref="lub-places-53">Schan</placeName>, sein sonst ledig unversezt. Ist deßhalben  
-<lb n="735"/>kein anderer besigleter brieff. Actum montag  
-<lb n="736"/>nach Martini anno 1595 jahr.. 
+<lb n="735"/>kein anderer besigleter brieff. Actum <date when="1595-11-17">montag  
+<lb n="736"/>nach Martini anno 1595</date> jahr.
 </p>
         <p><lb n="737"/>Item <persName ref="lub-actors-1371">Cristian Frumold</persName> zue <placeName ref="lub-places-1">Vadutz</placeName> soll järlichen  
 <lb n="738"/>der fruemeß zue <placeName ref="lub-places-53">Schan</placeName> fünff viertel opfferwein  
@@ -930,7 +968,7 @@
 <lb n="747"/>Frickhen</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an amman <persName ref="lub-actors-357">Hannß Negelin</persName>,  
 <lb n="748"/>abwerts an <persName ref="lub-actors-807">Michael Gaßners</persName> erben und gegen dem  
 <lb n="749"/>berg an <persName ref="lub-actors-1362">Michael Turneisser</persName>. Ist sonst ledig undt  
-<lb n="750"/>loß. Actum Martini anno 1602. 
+<lb n="750"/>loß. Actum <date when="1602-11-11">Martini anno 1602</date>. 
 </p>
         <p><lb n="751"/>Item <persName ref="lub-actors-1355">Wollf Brandiser</persName> zue <placeName ref="lub-places-53">Schan</placeName>, <persName ref="lub-actors-1395">Fridolin  
 <pb facs="lub-media-1342" n="48"/>
@@ -942,8 +980,8 @@
 <lb n="757"/>gegen dem berg an <persName ref="lub-actors-1399">Simon Hiltin</persName> auffwert dem landt  
 <lb n="758"/>nach an <persName ref="lub-actors-1495">Oschwaldt Varlingen</persName> kinder, gegen dem <placeName ref="lub-places-103">Rein</placeName>  
 <lb n="759"/>an <persName ref="lub-actors-1501">Thäny Wolffen</persName> und abwert dem landnach an die  
-<lb n="760"/>allgmain. Ist sont ledig unversetzt. Actum Martini  
-<lb n="761"/>anno 1602. 
+<lb n="760"/>allgmain. Ist sont ledig unversetzt. Actum <date when="1602-11-11">Martini  
+<lb n="761"/>anno 1602</date>. 
 </p>
         <p><lb n="762"/>Item <persName ref="lub-actors-247">Andres Schierser</persName> zue <placeName ref="lub-places-53">Schan</placeName> soll järlich der  
 <lb n="763"/>früemeß zue <placeName ref="lub-places-53">Schan</placeName> opfferwein zwey viertel  
@@ -955,8 +993,8 @@
 <pb facs="lub-media-1343" n="49"/>
 <lb n="769"/>dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1495">Oschwaldt Varlinger</persName> khünder  
 <lb n="770"/>und aberts an <persName ref="lub-actors-1392">Hannß Grüschlin</persName>. Ist unver
-<lb break="no" n="771"/>setzt anderstwo. Actum montag nach Invocavit 
-<lb n="772"/>anno 1604. 
+                <lb break="no" n="771"/>setzt anderstwo. Actum <date when="1604-02-26">montag nach Invocavit 
+<lb n="772"/>anno 1604</date>. 
 </p>
         <p><lb n="773"/>Item <persName ref="lub-actors-1144">Adam Frickh</persName> zue <placeName ref="lub-places-53">Schan</placeName> soll der früemeß  
 <lb n="774"/>daselbst ir ein jahr vier und daß ander fünnf moß  
@@ -966,8 +1004,8 @@
 <lb n="778"/>dem landtnach an <persName ref="lub-actors-1392">Hannß Grüschlin</persName>, gegen dem <placeName ref="lub-places-103">Rhein</placeName>  
 <lb n="779"/>ahn <persName ref="lub-actors-1495">Oschwaldt Varlingen</persName> guet, unndt abwert dem  
 <lb n="780"/>landtnach an <persName ref="lub-actors-1399">Simon Hiltin</persName>. Ist ledig anderst
-<lb break="no" n="781"/>wo unversezt. Actum montag nach Invocavit anno 
-<lb n="782"/>1604. 
+                <lb break="no" n="781"/>wo unversezt. Actum <date when="1604-02-26">montag nach Invocavit anno 
+<lb n="782"/>1604</date>. 
 </p>
         <p><pb facs="lub-media-1344" n="50"/><lb n="783"/>Item <persName ref="lub-actors-1392">Hannß Grüschlin</persName> zue <placeName ref="lub-places-1">Vadutz</placeName> undt <persName ref="lub-actors-1393">Johanna Brand
 <lb break="no" n="784"/>ißerin</persName> sein haußfrauw sollen der früemeß zue <placeName ref="lub-places-53">Schan</placeName> ir 
@@ -978,8 +1016,8 @@
 <lb n="789"/>guet, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1494">Joachim Varlingen</persName> und ab
 <lb break="no" n="790"/>wert dem landtnach an <persName ref="lub-actors-1144">Adam Frickhen</persName>. Ist ledig 
 <lb n="791"/>ausserhalb gehört der früemeß nach darvon ein  
-<lb n="792"/>schilling pfening zinß. Actum montag nach Invo
-<lb break="no" n="793"/>cavit anno 1604.
+                <lb n="792"/>schilling pfening zinß. Actum <date when="1604-02-26">montag nach Invo
+<lb break="no" n="793"/>cavit anno 1604</date>.
 </p>
         <p><pb facs="lub-media-1345" n="51"/><lb n="794"/>Schmalz zinss  
 <lb n="795"/>Item <persName ref="lub-actors-1489">Andreas Thöny</persName> zue <placeName ref="lub-places-1">Vadutz</placeName> zinst jarlich der früe
@@ -990,7 +1028,7 @@
 <lb n="800"/>Frickhen</persName> weibs guet, gegen dem <placeName ref="lub-places-103">Rein</placeName> an die  
 <lb n="801"/>haimgassen, und gegen dem berg aber an <persName ref="lub-actors-1370">Theiß  
 <lb n="802"/>Frickhen</persName> weibs guet. Ist sonst ledig ligen. Actum  
-<lb n="803"/>Martini anno 1602. 
+<lb n="803"/><date when="1602-11-11">Martini anno 1602</date>. 
 </p>
         <p><lb n="804"/>Item <persName ref="lub-actors-1425">Matheiß Conradt</persName> zue <placeName ref="lub-places-53">Schan</placeName> zinst järlich  
 <lb n="805"/>der früemeß daselbst von zehen pfundt pfening  
@@ -1002,7 +1040,7 @@
 <lb n="811"/>dem landtnach an daß <placeName ref="lub-places-103">Rein</placeName> gäßlin undt  
 <pb facs="lub-media-1346" n="52"/>
 <lb n="812"/>gegen dem berg an <persName ref="lub-actors-1039">Jacob Frumoldten</persName>. Ist ledig  
-<lb n="813"/>eigen unversetzt. Actum Martini anno 1600. 
+<lb n="813"/>eigen unversetzt. Actum <date when="1600-11-11">Martini anno 1600</date>. 
 </p>
         <p><lb n="814"/>Item <persName ref="lub-actors-232">Georg Bürckhlin</persName> zue <placeName ref="lub-places-53">Schan</placeName> soll der früe
 <lb break="no" n="815"/>meß daselbst järlich von zehen pfundt pfening haubt
@@ -1012,8 +1050,8 @@
 <lb n="819"/>landtnach ahn <persName ref="lub-actors-1495">Oschwaldt Varlingen</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName>  
 <lb n="820"/>ahn <persName ref="lub-actors-1495">Oschwaldt Varlingen</persName> weibs guet, und abwert,  
 <lb n="821"/>dem landtnach an <persName ref="lub-actors-543">Joachim Quaderen</persName>, ist sonst ledig  
-<lb n="822"/>gegen anderen unversetzt. Actum montag nach  
-<lb n="823"/>Invocavit anno 1604. 
+                <lb n="822"/>gegen anderen unversetzt. Actum <date when="1604-02-26">montag nach  
+<lb n="823"/>Invocavit anno 1604</date>. 
 </p>
         <p><pb facs="lub-media-1347" n="53"/><lb n="824"/>Item <persName ref="lub-actors-1359">Matheiß Bürckhlin</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1360">Elsa Hiltin</persName>  
 <lb n="825"/>sein haußfrauw sollen wegen <persName ref="lub-actors-1146">Peter Hiltinß</persName> zue <placeName ref="lub-places-1">Vadutz</placeName>  
@@ -1025,8 +1063,8 @@
 <lb n="831"/>dem landtnach an <persName ref="lub-actors-382">Aristotilem Tintel</persName>, gegen dem  
 <lb n="832"/><placeName ref="lub-places-103">Rein</placeName> ahn <persName ref="lub-actors-481">Hannß Marxers</persName> khündt guet, und abwerts  
 <lb n="833"/>dem landtnach an <persName ref="lub-actors-1349">Moritz Biliß</persName> weibs guet ist  
-<lb n="834"/>frey ledig unversetzt. Actum montag nach Invocavit anno  
-<lb n="835"/>1604. 
+                <lb n="834"/>frey ledig unversetzt. Actum <date when="1604-02-26">montag nach Invocavit anno  
+<lb n="835"/>1604</date>. 
 </p>
         <p><lb n="836"/>Item <persName ref="lub-actors-382">Aristoteleß Tüntel</persName> zue <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1361">Elsa Mayerin</persName>  
 <lb n="837"/>sein haußfrauw sollen der früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich  
@@ -1039,8 +1077,8 @@
 <lb n="843"/>landtnach an das <placeName ref="lub-places-570">Meßmer guet</placeName> und der Closter
 <lb break="no" n="844"/>herren von <placeName ref="lub-places-10">Veldtkürch</placeName>, gegen gem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-481">Hannß 
 <lb n="845"/>Marxers</persName> khundt, und abwert dem landtnach an <persName ref="lub-actors-1359">Theiß  
-<lb n="846"/>Bürckhlis</persName>, ist sonst ledig unversetzt. Actum montag nach  
-<lb n="847"/>Invocavit anno 1604. 
+        <lb n="846"/>Bürckhlis</persName>, ist sonst ledig unversetzt. Actum <date when="1604-02-26">montag nach  
+<lb n="847"/>Invocavit anno 1604</date>. 
 </p>
         <p><lb n="848"/>Item <persName ref="lub-actors-1349">Moritz Bili</persName> von <placeName ref="lub-places-1">Vadutz</placeName> und <persName ref="lub-actors-1350">Maria Toblerin</persName> sein  
 <lb n="849"/>haußfrauw sollen der früemeß zue <placeName ref="lub-places-53">Schan</placeName> järlich von  
@@ -1050,8 +1088,8 @@
 <lb n="853"/>dem berg an die landtstraß, auffwert dem landt  
 <lb n="854"/>nach an <persName ref="lub-actors-1359">Theiß Bürckhlin</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-481">Hannß  
 <lb n="855"/>Marxers</persName> khünden guet, und abwerts ist es ein  
-<lb n="856"/>spitz bündt. Ist sonst ledig unversetzt. Actum montag  
-<lb n="857"/>nach Invocavit anno 1604. 
+                <lb n="856"/>spitz bündt. Ist sonst ledig unversetzt. Actum <date when="1604-02-26">montag  
+<lb n="857"/>nach Invocavit anno 1604</date>. 
 </p>
         <p><lb n="858"/>Nota. Diße neun pfundt schmaltz  
 <lb n="859"/>ietzundt <persName ref="lub-actors-1359">Theuß Bürckhlin</persName>, <persName ref="lub-actors-382">Aristotileß Tüntel</persName>  
@@ -1061,14 +1099,14 @@
 </p>
         <p><lb n="862"/>Item <persName ref="lub-actors-1395">Fridolin Henne</persName> von <placeName ref="lub-places-53">Schan</placeName> und <persName ref="lub-actors-1396">Ursula Fritschin</persName> sein  
 <lb n="863"/>haußfrauw sollen järlich der früemeß daselbst von einer  
-<lb n="864"/><term ref="lub-keywords-397">eissnen kue</term> auff Martini neun pfundt schmalz und noch  
+                <lb n="864"/><term ref="lub-keywords-397">eissnen kue</term> auff <date when="--11-11">Martini</date> neun pfundt schmalz und noch  
 <lb n="865"/>drey schilling zinß, von einem stuckh guet in <placeName ref="lub-places-218">underen  
 <lb n="866"/>Bofel</placeName> uff der <placeName ref="lub-places-556">Fuchßerin</placeName> genandt, gelegen, stost gegen den  
 <lb n="867"/>berg an <persName ref="lub-actors-1448">Thoman Mülleren</persName>, auffwert dem landtnach an  
 <lb n="868"/><persName ref="lub-actors-1380">Michael Ganttner</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> ahn amman <persName ref="lub-actors-229">Thoman  
 <lb n="869"/>Walßeren</persName> und abwert dem landtnach an <persName ref="lub-actors-1469">Melchior  
-<lb n="870"/>Blänckhiß</persName> khünden, ist sonst ledig unversetzt. Actum mon
-<lb break="no" n="871"/>tag nach Invocavit anno 1604.
+        <lb n="870"/>Blänckhiß</persName> khünden, ist sonst ledig unversetzt. Actum <date when="1604-02-26">mon
+<lb break="no" n="871"/>tag nach Invocavit anno 1604</date>.
 </p>
         <p><lb n="872"/>Item <persName ref="lub-actors-1449">Adam Negelin</persName> und <persName ref="lub-actors-1450">Anna Müllerin</persName> von <placeName ref="lub-places-53">Schan</placeName><note>Text gestrichen und fortgesetzt auf der nächsten Seite.</note>
 </p>
@@ -1078,8 +1116,8 @@
 <lb n="876"/>guet auf <placeName ref="lub-places-124">Blanckhen</placeName> gelegen, stost gegen dem berg an <persName ref="lub-actors-1379">Joseph Gant
 <lb break="no" n="877"/>ner</persName>, abwerts dem land nach an <persName ref="lub-actors-1374">Adam Galander</persName>, gegen dem 
 <lb n="878"/><placeName ref="lub-places-103">Rein</placeName> an die algemain, aufwerts dem land nach an <persName ref="lub-actors-1146">Peter Hilt
-<lb break="no" n="879"/>is</persName> seligen erben ledig und loß. Actum auf Martini anno 
-<lb n="880"/>sechshundert und neune.<note>Text nachgetragen.</note>
+<lb break="no" n="879"/>is</persName> seligen erben ledig und loß. Actum auf <date when="1609-11-11">Martini anno 
+<lb n="880"/>sechshundert und neune</date>.<note>Text nachgetragen.</note>
 </p>
         <p><pb facs="lub-media-1350" n="56"/><lb n="881"/>sein haußfrauw, zinsen järlich der früemeß daselbst von einer  
 <lb n="882"/><term ref="lub-keywords-397">eissnen kue</term> neun pfundt guet schmalz, underpfandt ein stuckh  
@@ -1087,7 +1125,7 @@
 <lb n="884"/>die landtstraß, auffwert dem landtnach an der früemeß  
 <lb n="885"/>guet, gegen dem <placeName ref="lub-places-103">Rhein</placeName> an amman <persName ref="lub-actors-229">Walßeren</persName> und ab
 <lb break="no" n="886"/>wert dem landtnach an <persName ref="lub-actors-1309">Hannß Maureren</persName>. Ist ledig unver
-<lb break="no" n="887"/>sezt. Actum montag nach Invocavit anno 1604.<note>Text gestrichen und fortgesetzt auf der nächsten Seite.</note>
+                <lb break="no" n="887"/>sezt. Actum <date when="1604-02-26">montag nach Invocavit anno 1604</date>.<note>Text gestrichen und fortgesetzt auf der nächsten Seite.</note>
 </p>
         <p><lb n="888"/>Item <persName ref="lub-actors-1452">Georg Negelin</persName> zue <placeName ref="lub-places-53">Schan</placeName> unndt <persName ref="lub-actors-1453">Barbara Oschwaldin</persName>  
 <lb n="889"/>sein haußfrauw, sollen der früemeß daselbst wegen  
@@ -1098,7 +1136,7 @@
 <lb n="894"/>dem berg an <persName ref="lub-actors-1498">Ulrich Wangners</persName> khündt guet, abwert dem  
 <lb n="895"/>landtnach an <persName ref="lub-actors-1384">Stoffel Gantzman</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName>  
 <lb n="896"/>ahn <persName ref="lub-actors-1440">Clauß Moressen</persName> erben guet, ist sonst ledig unver
-<lb break="no" n="897"/>sezt. Actum montag nach Invocavit anno 1604.<note>Ergänzung unter dem Text.</note>
+                <lb break="no" n="897"/>sezt. Actum <date when="1604-02-26">montag nach Invocavit anno 1604</date>.<note>Ergänzung unter dem Text.</note>
 </p>
         <p><lb n="898"/>Dise <term ref="lub-keywords-397">eisen kuhe</term> zinst ietzundt <persName ref="lub-actors-1388">Georg Gaßner</persName> ab <placeName ref="lub-places-124">Plancken</placeName>  
 <lb n="899"/>undt <persName ref="lub-actors-1389">Anna Negelin</persName> sein haußfraw, underpfandt ein  
@@ -1106,7 +1144,7 @@
 <lb n="901"/>dem landt nach ahn <persName ref="lub-actors-483">Joseph Gaßner</persName>, gegen dem <placeName ref="lub-places-103">Rhein</placeName>  
 <lb n="902"/>ahn <persName ref="lub-actors-1386">Anna Gaßnerin</persName> erben, abwerth dem landt nach ahn <persName ref="lub-actors-1216">Jacob  
 <lb n="903"/>Jelin</persName> undt gegen dem berg ahn <persName ref="lub-actors-1423">Georg Conradten</persName> hauß undt  
-<lb n="904"/>hoffstatt, ist ledig. Actum Martini anno 1615.<note>Text gestrichen und auf der nächsten Seite fortgesetzt.</note>
+<lb n="904"/>hoffstatt, ist ledig. Actum <date when="1615-11-11">Martini anno 1615</date>.<note>Text gestrichen und auf der nächsten Seite fortgesetzt.</note>
 </p>
         <p><pb facs="lub-media-1351" n="57"/><lb n="905"/>Item <persName ref="lub-actors-1501">Thony Wolff</persName> zue <placeName ref="lub-places-1">Vadutz</placeName> und sein haußfrauw sollen  
 <lb n="906"/>der früemeß zue <placeName ref="lub-places-53">Schan</placeName> wegen einer <term ref="lub-keywords-397">eissnen kue</term>,  
@@ -1116,8 +1154,8 @@
 <lb n="910"/>amman <persName ref="lub-actors-246">Hainrich Quaderer</persName>, auffwert in <persName ref="lub-actors-1358">Hannß  
 <lb n="911"/>Bürckhlin</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1406">Thoman Jäger</persName>  
 <lb n="912"/>und abwert dem landtnach an <persName ref="lub-actors-1464">Joß Oschwaldt</persName> ist  
-<lb n="913"/>frey ledig unversetzt. Actum montag nach Invocavit  
-<lb n="914"/>anno 1604. 
+                <lb n="913"/>frey ledig unversetzt. Actum <date when="1604-02-26">montag nach Invocavit  
+<lb n="914"/>anno 1604</date>. 
 </p>
         <p><lb n="915"/>Item <persName ref="lub-actors-1372">Hannß Fuotscher</persName> zue <placeName ref="lub-places-1">Vadutz</placeName> undt sein haußfrau  
 <lb n="916"/>sollen järlich der früemeß zue <placeName ref="lub-places-53">Schan</placeName> wegen einer  
@@ -1129,8 +1167,8 @@
 <lb n="922"/><placeName ref="lub-places-212">Sant Lorentzen</placeName> zue <placeName ref="lub-places-53">Schan</placeName> pfrundet guet, gegen dem  
 <lb n="923"/>berg an <persName ref="lub-actors-1392">Hannß Grüschlin</persName>ß guet, ist ledig unver
 <lb break="no" n="924"/>setzte ausserhalb gehört der herrschafft, davon auch 
-<lb n="925"/>ein vierling waitzen zinß. Actum montag nach  
-<lb n="926"/>Invocavit anno 1604. 
+                <lb n="925"/>ein vierling waitzen zinß. Actum <date when="1604-02-26">montag nach  
+<lb n="926"/>Invocavit anno 1604</date>. 
 </p>
         <p><pb facs="lub-media-1352" n="58"/><lb n="927"/>Lügendte güeter der  
 <lb n="928"/>früemes zue <placeName ref="lub-places-53">Schan</placeName>  
@@ -1224,8 +1262,8 @@
 <lb n="6"/>der herrschafften <placeName ref="lub-places-7">Vaduz</placeName> unnd <placeName ref="lub-places-11">Schellenberg</placeName>. Mit dem  
 <lb n="7"/>gräflichen sulzischen canzley secret, auf ordenlich  
 <lb n="8"/>und fleißig beschehne collationirung, becrefftiget  
-<lb n="9"/>worden. Actum auf <date>Mathei apostoli deß laufenden  
-<lb n="10"/>sechzehennundertisten unnd zehenden jars</date>. 
+<lb n="9"/>worden. Actum auf <date when="1610-09-21">Mathei apostoli deß laufenden  
+<lb n="10"/>sechzehenhndertisten unnd zehenden jars</date>. 
 <lb n="11"/><persName ref="lub-actors-1409">Sigmund Calonius </persName>qui  
 <lb n="12"/>supra manu propria. 
 </p>

@@ -14,12 +14,15 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-475">LI-GAP, U 5</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament / Siegel: 3 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-475">LI-GAP, U 5</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament, kordelgebunden / Siegel: 3 Siegel, gut erhalten (Editionsvorlage)</witness>
           <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-1104">AT-GAF, U 53</ref> (<orgName key="at-gaf" ref="lub-objects-1105">Gemeindearchiv Frastanz</orgName>) / Originaldatierung: 21. Juli 1603 / Beschreibstoff: Pergament / Siegel: 3 Siegel</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>LUB I/4, S. 199-206, Nr. 49</bibl>
           <bibl>UB Frastanz, S. 176-183</bibl>
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42545">e-archiv.li</ref>
+          </bibl>
         </listBibl>
       </sourceDesc>
     </fileDesc>
@@ -250,7 +253,7 @@
 <lb n="158"/>unnd den zusätzen, auch ir aller erben in alweg ohne schaden) 
 <pb facs="lub-media-2192" n="8"/>
 <lb n="159"/>verfertigt unnd jedemthail ainer zugestöllt worden. Be
-<lb break="no" n="160"/>schehen unnd geben <origDate>uff montag den ainunndzwaintzigisten tag deß
+          <lb break="no" n="160"/>schehen unnd geben uff <origDate when="1603-07-21">montag den ainunndzwaintzigisten tag deß
 <lb n="161"/>monats julii, als man z<gap/> <unclear>n</unclear>ach Christi, unnsers lieben herren 
 <lb n="162"/>haylanndt unnd seelig<gap/>, geburth sechzehenhundert und 
 <lb n="163"/>drey jhar</origDate>. 

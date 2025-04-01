@@ -12,11 +12,6 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
-      <notesStmt>
-        <note>
-          <p>- Vgl. [monasterium.net](https://www.monasterium.net/mom/AT-VLA/BlumeneggReichshft/6914/charter?q=Sulz)</p>
-        </note>
-      </notesStmt>
       <sourceDesc>
         <listWit>
           <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-130">AT-VLA, RH Blumenegg U 6914</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Papier, 6 Seiten</witness>
@@ -197,7 +192,7 @@
 <lb n="129"/>herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, das er sein aigen innsigl von unsert
 <lb n="130"/>wegen (doch ime, aman unnd sein erben ohne schaden) offen
 <lb break="no" n="131"/>lich getruckht hat hierfür in disen briefe, der geben
-<lb n="132"/>ist, den <origDate>ainlifften tag monats novembris des fünff
+<lb n="132"/>ist, den <origDate when="1588-11-11">ainlifften tag monats novembris des fünff
 <lb break="no" n="133"/>zehenhundert acht unnd achzigsten jars</origDate>.
 </p>
       </div>

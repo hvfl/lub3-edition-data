@@ -14,7 +14,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-LA, U 86</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 5 Siegel abh., 1 Siegel fehlt</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-LA, U 86</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 5 Siegel abh., 1 Siegel fehlt (Editionsvorlage)</witness>
           <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-652">CH-StASG, AA 3 U 15</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Pergament / Siegel: 3 Siegel abh., 3 Siegel fehlen</witness>
           <witness xml:id="A3">A3: Original, Signatur: CH-StASG, AA 3 A 13-2 (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier</witness>
           <witness xml:id="A4">A4: Original, Signatur: AT-HAL, H 2603 unfol (<orgName corresp="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 16.05.1562 / Beschreibstoff: Papier, 14 Seiten / Siegel: 4 Siegel, gut erhalten</witness>
@@ -49,6 +49,7 @@
           <term ref="lub-keywords-304">Hochgerichtsbarkeit</term>
           <term ref="lub-keywords-322">Niedergerichtsbarkeit</term>
           <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-367">fach</term>
         </keywords>
       </textClass>
       <correspDesc>
@@ -91,7 +92,7 @@
 <lb n="7"/>lanndtaman daselbs, vor unns erscheinen, haben wir sy gegen ainandern in irer clag unnd anntwurten, so schrifftlich unnd mundtlich beschehen, notturfftigclichen ungehördt. Unnd als erstlich herr graf fürbringen ließ, wiewol ire gnaden unnd
 <lb n="8"/>deren voreltern lennger als menschen gedennckhen, das mitfischen in den giesen <placeName ref="lub-places-103">Reins</placeName>, verung ainer thailung baider herschafften <placeName ref="lub-places-7">Vaduz</placeName> unnd <placeName ref="lub-places-73">Werdenberg</placeName> halben beschehen <supplied>nach</supplied> haußstats notturfft bißher gehebt. Dasselbig auch sonnder menigclichs fur
 <lb break="no" n="9"/>wordt unnd widersezen, mit guttem mittel unnd lanngwurigen herbringen, gebraucht, innen gehaben unnd besessen, so hetten doch iro gnaden, herrn lanndtaman <supplied>und rath</supplied> zu <orgName ref="lub-actors-276">Glaris</orgName> verscheiner zeiten ettliche <term ref="lub-keywords-367">vechle</term> mit gewalthattlicher hand ires gefallens
-<lb n="10"/>widerumb auf irer gnaden grund, poden, hoch unnd nidern ober<supplied>igkeiten</supplied> lassen von dannen hinweg schleisen unnd abthun, unnd also irn gnaden thättlicher weiß, uber<supplied>all deren vielfa</supplied>lltigs rechts erpietens, unerfolgt vechtens, deren habenden gerechtigkhaiten und
+<lb n="10"/>widerumb auf irer gnaden grund, poden, hoch unnd nidern ober<supplied>igkeiten</supplied> lassen von dannen hinweg schleisen unnd abthun, unnd also irn gnaden thättlicher weiß, uber<supplied>all deren vielfa</supplied>lltigs rechts erpietens, unerfolgt <term ref="lub-keywords-367">vechtens</term>, deren habenden gerechtigkhaiten und
 <lb n="11"/>besizen, perturbiert unnd angegriffen. Hierauf so were ire <supplied>gna</supplied>den genedigs begeren, wir, die zugesazten unnd guettliche unnderhandler, wolten, die von <orgName ref="lub-actors-276">Glaris</orgName> <supplied>mit gütliche</supplied>m spruch dahin weisen, sich solches tättlichen eingriffs unnd enndtsezens hin
 <lb break="no" n="12"/>füro zu enthalten unnd ire gnaden bei derselben lanng unnd <supplied>wolher</supplied>gebrachten habennden, zuerthailten gerechtigkhait des mitfischens in den giesen des <placeName ref="lub-places-103">Reins</placeName>, rüebigclich <supplied>bleiben zu lassen</supplied>. Darauf obgemelter herrn von <orgName ref="lub-actors-276">Glaris</orgName> verordnete antwurten, das
 <lb n="13"/>inen nit zweivelt, wolgedachtem herrn graven auß ungegrün<supplied>eter</supplied> <supplied>einbi</supplied>ldung ettlicher personnen möchte zuverstan sein geben, als ob vor zeiten solch abthailungen des mitfischens be<supplied>schehen sein</supplied> soldt unnd gedennckhen, wol ire gnaden haben daz selb nit erdacht, sonnder von ettlichen,
@@ -146,7 +147,7 @@
 <lb n="62"/>jeder innsonnders, sein aigen innsigl, doch unns unnd unnsern erben one schaden an diser briefen zwen gleichlauttend gemacht, gehenckht. Unnd wann nun wir, <persName ref="lub-actors-9">Alwig gr<supplied>a</supplied>ve zu Sulz</persName> und herr zu <placeName ref="lub-places-7">Vaduz</placeName> etc., unnd wir, lanndaman unnd rath zu <orgName ref="lub-actors-276">Glaris</orgName>, das, so hie
 <lb break="no" n="63"/>for geschriben steet, güettlichen angenommen unnd desst gegen ainandern einganngen seind, auch bei unnsern eheren und guten trewen fur unns, unnser erben und nachkhumen zu halten unnd darwider nymer zu thun zugesagt und versprechen. So haben wir, als die
 <lb n="64"/>rechten haubtseher. Deß zu gezeugkhnuß unnd merer sicherhait, nemblich wir, <persName ref="lub-actors-9">Alwig grave zu Sulz</persName> etc., unnser angeborn innsigl unnd wir, lanndtaman und rath zu <orgName ref="lub-actors-276">Glaris</orgName>, unnsers lanndts innsigl, auch hieran hennckhen lassen. Der geben und beschehen
-<lb n="65"/><origDate><supplied>ist zu <placeName ref="lub-places-7">Vaduz</placeName> am hailigen phingstabend, den sechzehennden tag des monats may, von Christi unnsers lieben herrn geburt gezalt</supplied> thaussendt fünffhundert sechzig unnd zway jare.</origDate>
+<lb n="65"/><origDate when="1562-05-16"><supplied>ist zu <placeName ref="lub-places-7">Vaduz</placeName> am hailigen phingstabend, den sechzehennden tag des monats may, von Christi unnsers lieben herrn geburt gezalt</supplied> thaussendt fünffhundert sechzig unnd zway jare.</origDate>
 </p>
       </div>
       <div type="back">

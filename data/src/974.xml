@@ -79,7 +79,7 @@
 <lb n="8"/><persName ref="lub-actors-1799">Bastion Marxer</persName>      1 haggen  
 <lb n="9"/><persName ref="lub-actors-1800">Jacob Ganndeli</persName>      1 haggen  
 <lb n="10"/><persName ref="lub-actors-1801">Leonnhart Wolwen</persName>    1 <gap/>  
-<lb n="11"/><persName ref="lub-actors-1802">Andras Marxer</persName>       1 spieß  
+<lb n="11"/><persName ref="lub-actors-1180">Andras Marxer</persName>       1 spieß  
 <lb n="12"/><persName ref="lub-actors-1803">Michl Schmid</persName>        1 haggen  
 <lb n="13"/><persName ref="lub-actors-1804">Barthli Schechli</persName>    1 haggen  
 <lb n="14"/><persName ref="lub-actors-1805">Hans Schechli</persName>       1 spieß  
@@ -88,7 +88,7 @@
 </p>
         <p><pb facs="lub-media-2635" n="2"/><lb n="17"/><persName ref="lub-actors-1783">Jacob Feer</persName>          1 harnasch  
 <lb n="18"/>                    1 haggen  
-<lb n="19"/><persName ref="lub-actors-1784">Ulli Glarnner</persName>       1 harnasch  
+<lb n="19"/><persName ref="lub-actors-62">Ulli Glarnner</persName>       1 harnasch  
 <lb n="20"/><persName ref="lub-actors-1785">Jacob Morhart</persName>       1 harnasch  
 <lb n="21"/>                    1 schlachtschwert  
 <lb n="22"/><persName ref="lub-actors-1786">Georg Morhart</persName>       1 harnasch  
@@ -336,7 +336,7 @@
 <lb n="251"/><persName ref="lub-actors-781">Ulrich Pichl</persName>        1 schlachtschwert  
 <lb n="252"/><persName ref="lub-actors-1953">Hannß Öri</persName>           1 harnsch  
 </p>
-        <p><lb n="253"/><origDate>Actum den 6. juli anno etc.                                          
+        <p><lb n="253"/>Actum den <origDate when="1582-07-06">6. juli anno etc.                                          
 <lb n="254"/>82</origDate><lb n="255"/><term ref="lub-keywords-428">trumen</term>              3                                                
 <lb n="256"/>pfeiffen            2                    
 <lb n="257"/><term ref="lub-keywords-426">harnasch</term>           75 
@@ -344,7 +344,8 @@
 <lb n="259"/><term ref="lub-keywords-424">spieß</term>              46                                                
 <lb n="260"/>federspieß          2 
 <lb n="261"/><term ref="lub-keywords-425">hellenbarn</term>          5     suma ungeverde   
-<lb n="262"/>schlachtschwert     1     238 personen 
+<lb n="262"/>schlachtschwert     1     
+<lb n="263"/>238 personen 
 </p>
       </div>
     </body>

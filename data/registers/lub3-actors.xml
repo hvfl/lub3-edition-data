@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-03-18 15:35:00 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-04-01 14:03:53 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -841,10 +841,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-62">
-            <persName type="full" xml:lang="de">Glarner, Ulrich (1594–)</persName>
+            <persName type="full" xml:lang="de">Glarner, Ulrich (1594–1584)</persName>
             <persName type="main" xml:lang="de">Glarner, Ulrich</persName>
             <persName type="sort" xml:lang="de">glarner, ulrich</persName>
+            <persName type="alternative" xml:lang="de">Glarnner, Ulli,</persName>
             <birth when="1594-01-07"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Aus Mauren.</p>
             </note>
@@ -935,10 +937,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-73">
-            <persName type="full" xml:lang="de">Gstöhl, Franz (1604–)</persName>
+            <persName type="full" xml:lang="de">Gstöhl, Franz (1584–1604)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Franz</persName>
             <persName type="sort" xml:lang="de">gstoehl, franz</persName>
-            <birth when="1604-11-11"/>
+            <persName type="alternative" xml:lang="de">Gestel, Frantz</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -970,6 +974,26 @@
             <death when="1520-10-18"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft am Eschnerberg, Bürger von Feldkirch. Verheiratet mit <ref target="663">Dorothea Kromer</ref>.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-80">
+            <persName type="full" xml:lang="de">Schellenberg, Ulrich von (1515–1549)</persName>
+            <persName type="main" xml:lang="de">Schellenberg, Ulrich von</persName>
+            <persName type="sort" xml:lang="de">schellenberg, ulrich von</persName>
+            <birth when="1515"/>
+            <death when="1549"/>
+            <note type="description" xml:lang="de">
+              <p>Kaiserlicher Rat. 1515–1522, 1531–1549 Vogt von Feldkirch.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1012300838"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>Niederstätter, Vogteien, S. 87</bibl>
+              </listBibl>
             </note>
           </person>
           <person xml:id="lub-actors-81">
@@ -1376,6 +1400,7 @@
             <persName type="sort" xml:lang="de">oehri, hans (4)</persName>
             <persName type="alternative" xml:lang="de">Örin, Hanns</persName>
             <persName type="alternative" xml:lang="de">Öri</persName>
+            <persName type="alternative" xml:lang="de">Öry</persName>
             <birth when="1579-02-04"/>
             <death when="1593-11-11"/>
             <note type="description" xml:lang="de">
@@ -1423,6 +1448,8 @@
             <persName type="main" xml:lang="de">Egli, Georg</persName>
             <persName type="sort" xml:lang="de">egli, georg</persName>
             <persName type="alternative" xml:lang="de">Ögli, Jerg</persName>
+            <persName type="alternative" xml:lang="de">Egli, Jeorg</persName>
+            <persName type="alternative" xml:lang="de">Ögli, Jeorg</persName>
             <birth when="1582-07-06"/>
             <death when="1591"/>
             <note type="description" xml:lang="de">
@@ -1435,6 +1462,7 @@
             <persName type="sort" xml:lang="de">graf, jakob (2)</persName>
             <persName type="alternative" xml:lang="de">Graw</persName>
             <persName type="alternative" xml:lang="de">Grau</persName>
+            <persName type="alternative" xml:lang="de">Graw, Jacob</persName>
             <birth when="1582-07-06"/>
             <death when="1610"/>
             <note type="description" xml:lang="de">
@@ -1913,7 +1941,7 @@
             <persName type="main" xml:lang="de">Plenki, Jakob (2)</persName>
             <persName type="sort" xml:lang="de">plenki, jakob (2)</persName>
             <persName type="alternative" xml:lang="de">Blänckhi, Jacob</persName>
-            <persName type="alternative" xml:lang="de">Plennckhi, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Plennckhi, Jacob, Blennckhi</persName>
             <birth when="1566"/>
             <death when="1590"/>
             <note type="description" xml:lang="de">
@@ -2031,12 +2059,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-223">
-            <persName type="full" xml:lang="de">Gabriel, Marx (1578–)</persName>
+            <persName type="full" xml:lang="de">Gabriel, Marx (1578–1584)</persName>
             <persName type="main" xml:lang="de">Gabriel, Marx</persName>
             <persName type="sort" xml:lang="de">gabriel, marx</persName>
             <birth when="1578-07-15"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>1578 belegt als Untervogt der Herrschaft Blumenegg.</p>
+              <p>1578 belegt als Untervogt der Herrschaft Blumenegg. Schnitzt 1584 in Bendern/Ruggell.</p>
             </note>
           </person>
           <person xml:id="lub-actors-224">
@@ -2101,10 +2130,11 @@
             </note>
           </person>
           <person xml:id="lub-actors-228">
-            <persName type="full" xml:lang="de">Lampert, Thomas (2) (1592–1641)</persName>
+            <persName type="full" xml:lang="de">Lampert, Thomas (2) (1584–1641)</persName>
             <persName type="main" xml:lang="de">Lampert, Thomas (2)</persName>
             <persName type="sort" xml:lang="de">lampert, thomas (2)</persName>
-            <birth when="1592-04-20"/>
+            <persName type="alternative" xml:lang="de">Lampart, Thoma</persName>
+            <birth when="1584-11-13"/>
             <death when="1641"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz. Zwischen 1603 und 1614 mehrmals als Landammann der Grafschaft Vaduz erwähnt.</p>
@@ -2123,10 +2153,11 @@
             <persName type="sort" xml:lang="de">walser, thomas</persName>
             <persName type="alternative" xml:lang="de">Wallser</persName>
             <persName type="alternative" xml:lang="de">Walßer, Thoman</persName>
-            <birth when="1584"/>
+            <persName type="alternative" xml:lang="de">Walser, Thoma</persName>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan. Wirt.  1596, 1597, 1601 und 1611 als Landammann der Grafschaft Vaduz erwähnt.</p>
+              <p>Wohnhaft in Schaan. Wirt.  1596, 1597, 1601 und 1611 als Landammann der Grafschaft Vaduz erwähnt. Sohn von <ref target="2102">Michael Walser</ref>.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -2169,7 +2200,8 @@
             <persName type="alternative" xml:lang="de">Bürckhli, Geörg</persName>
             <persName type="alternative" xml:lang="de">Bürckhli, Jorg</persName>
             <persName type="alternative" xml:lang="de">Bürckhlin, Jörg</persName>
-            <birth when="1584"/>
+            <persName type="alternative" xml:lang="de">Bürckhli, Georg</persName>
+            <birth when="1584-11-13"/>
             <death when="1626-04-23"/>
             <note type="description" xml:lang="de">
               <p>1589 Pfleger der Frühmesspfründe in Schaan. 1601 Gerichtsbeisitzer. 1623–1626 Landammann der Grafschaft Vaduz.</p>
@@ -2492,7 +2524,7 @@
             <birth when="1584"/>
             <death when="1595"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan. 1585–1588 belegt als Pfleger der Frühmesspfründe in Schaan. 1589–1591 und 1594–1595 belegt als Landammann der Grafschaft Vaduz.</p>
+              <p>Wohnhaft in Schaan. 1585–1588 belegt als Pfleger der Frühmesspfründe in Schaan. 1589–1592 und 1594–1595 belegt als Landammann der Grafschaft Vaduz.</p>
             </note>
             <note type="sources">
               <listBibl>
@@ -2752,7 +2784,7 @@
             <birth when="1549"/>
             <death when="1601-01-03"/>
             <note type="description" xml:lang="de">
-              <p>Lebensdaten: * 1549; †1601-03-01.</p>
+              <p>Lebensdaten: * 1549; † 1601-03-01.</p>
               <p>1581–1601 Bischof von Chur.</p>
             </note>
             <listBibl>
@@ -2793,6 +2825,7 @@
             <persName type="main" xml:lang="de">Thöni, Jos (1)</persName>
             <persName type="sort" xml:lang="de">thoeni, jos (1)</persName>
             <persName type="alternative" xml:lang="de">Töni, Jos</persName>
+            <persName type="alternative" xml:lang="de">Thönny, Joß</persName>
             <birth when="1573-06-10"/>
             <death when="1603-08-11"/>
             <note type="description" xml:lang="de">
@@ -2870,10 +2903,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-329">
-            <persName type="full" xml:lang="de">Egli, Ulrich (2) (1592–)</persName>
+            <persName type="full" xml:lang="de">Egli, Ulrich (2) (1584–1592)</persName>
             <persName type="main" xml:lang="de">Egli, Ulrich (2)</persName>
             <persName type="sort" xml:lang="de">egli, ulrich (2)</persName>
-            <birth when="1592-04-20"/>
+            <persName type="alternative" xml:lang="de">Ögli, Ulrich</persName>
+            <birth when="1584-11-13"/>
+            <death when="1592-04-20"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -3259,15 +3294,19 @@
             </note>
           </person>
           <person xml:id="lub-actors-361">
-            <persName type="full" xml:lang="de">Schierscher, Hans (2) (1561–1569)</persName>
+            <persName type="full" xml:lang="de">Schierscher, Hans (2) (1561–1584)</persName>
             <persName type="main" xml:lang="de">Schierscher, Hans (2)</persName>
             <persName type="sort" xml:lang="de">schierscher, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Schierser, Hans</persName>
             <persName type="alternative" xml:lang="de">Schirser, Hanß</persName>
+            <persName type="alternative" xml:lang="de">Schiers</persName>
             <birth when="1561"/>
-            <death when="1569"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>1561–1562 belegt als Landammann der Grafschaft Vaduz.</p>
+              <list>
+                <item>† vor dem 13.11.1584</item>
+                <item>1561–1562 belegt als Landammann der Grafschaft Vaduz.</item>
+              </list>
             </note>
             <note type="sources">
               <listBibl>
@@ -3325,12 +3364,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-382">
-            <persName type="full" xml:lang="de">Düntel, Aristoteles (2) (1585–1611)</persName>
+            <persName type="full" xml:lang="de">Düntel, Aristoteles (2) (1584–1611)</persName>
             <persName type="main" xml:lang="de">Düntel, Aristoteles (2)</persName>
             <persName type="sort" xml:lang="de">duentel, aristoteles (2)</persName>
             <persName type="alternative" xml:lang="de">Tintel</persName>
             <persName type="alternative" xml:lang="de">Tüntel, Aristoteleß</persName>
-            <birth when="1585-11-10"/>
+            <persName type="alternative" xml:lang="de">Tunttl, Arostotoli</persName>
+            <birth when="1584-11-13"/>
             <death when="1611-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan. Bis 1603 Pfleger der Kapelle St. Peter in Schaan, 1611 Spendmeister von Schaan. Ehemann von <ref target="1361">Elsa Meier</ref>.</p>
@@ -4300,6 +4340,7 @@
             <persName type="full" xml:lang="de">Ruesch, Kaspar (1574–)</persName>
             <persName type="main" xml:lang="de">Ruesch, Kaspar</persName>
             <persName type="sort" xml:lang="de">ruesch, kaspar</persName>
+            <persName type="alternative" xml:lang="de">Ruosch, Caspar</persName>
             <birth when="1574-02-01"/>
             <note type="description" xml:lang="de">
               <p>Besitzer eines Weinbergs in Vaduz.</p>
@@ -4327,6 +4368,7 @@
             <persName type="main" xml:lang="de">Risch, Ulrich</persName>
             <persName type="sort" xml:lang="de">risch, ulrich</persName>
             <persName type="alternative" xml:lang="de">Reisch, Ulrich</persName>
+            <persName type="alternative" xml:lang="de">Reich, Ully</persName>
             <birth when="1582-07-06"/>
             <death when="1585-11-11"/>
             <note type="description" xml:lang="de">
@@ -4421,7 +4463,7 @@
             <birth when="1584-11-13"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan. Verheiratet mit <ref target="482">Christina Lerch</ref>.</p>
+              <p>Wohnhaft in Schaan. Sohn von <ref target="2073">Hans Gassner</ref>. Verheiratet mit <ref target="482">Christina Lerch</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-484">
@@ -4838,7 +4880,7 @@
             <birth when="1574-02-01"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer eines Weinbergs in Vaduz.</p>
+              <p>Wohnhaft in Schaan. Besitzer eines Weinbergs in Vaduz. Ehemann von <ref target="2100">Anna Schreiber</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-546">
@@ -4872,15 +4914,16 @@
             </note>
           </person>
           <person xml:id="lub-actors-556">
-            <persName type="full" xml:lang="de">Plenki, Peter (1589–1613)</persName>
+            <persName type="full" xml:lang="de">Plenki, Peter (1584–1613)</persName>
             <persName type="main" xml:lang="de">Plenki, Peter</persName>
             <persName type="sort" xml:lang="de">plenki, peter</persName>
             <persName type="alternative" xml:lang="de">Blennckhi, Petter</persName>
             <persName type="alternative" xml:lang="de">Blenckhe, Petter</persName>
-            <birth when="1589-11-11"/>
+            <persName type="alternative" xml:lang="de">Bläncki, Petter</persName>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Vaduz.</p>
+              <p>Wohnhaft in Schaan. Gutsbesitzer in Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-557">
@@ -5041,7 +5084,7 @@
             <birth when="1579-08-17"/>
             <death when="1594-05-29"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern. Verheiratet mit <ref target="611">Lena Strub (1)</ref>.</p>
+              <p>Wohnhaft in Bendern. Verheiratet: 1. <ref target="2090">Agatha Meier</ref>; 2. <ref target="611">Lena Strub (1)</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-611">
@@ -5067,6 +5110,7 @@
             <persName type="main" xml:lang="de">Büchel, Jakob</persName>
             <persName type="sort" xml:lang="de">buechel, jakob</persName>
             <persName type="alternative" xml:lang="de">Büchl, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Büchel. Jacob</persName>
             <birth when="1582-07-06"/>
             <death when="1594-05-29"/>
             <note type="description" xml:lang="de">
@@ -5095,10 +5139,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-615">
-            <persName type="full" xml:lang="de">Kopf, Peter (1610–)</persName>
+            <persName type="full" xml:lang="de">Kopf, Peter (1584–1610)</persName>
             <persName type="main" xml:lang="de">Kopf, Peter</persName>
             <persName type="sort" xml:lang="de">kopf, peter</persName>
-            <birth when="1610-11-11"/>
+            <persName type="alternative" xml:lang="de">Kopff, Petter</persName>
+            <birth when="1584-11-13"/>
+            <death when="1610-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz. Verheiratet mit <ref target="616">Gretha Wohlwend</ref>.</p>
             </note>
@@ -5546,10 +5592,11 @@
             </note>
           </person>
           <person xml:id="lub-actors-667">
-            <persName type="full" xml:lang="de">Dietrich, Franz (1578–)</persName>
+            <persName type="full" xml:lang="de">Dietrich, Franz (1578–1620)</persName>
             <persName type="main" xml:lang="de">Dietrich, Franz</persName>
             <persName type="sort" xml:lang="de">dietrich, franz</persName>
             <birth when="1578-11-02"/>
+            <death when="1620"/>
             <note type="description" xml:lang="de">
               <p>Lebensdaten: † 1620-05-16 in Eschen.</p>
               <p>Geistlicher. 1586–1620 Pfarrer von Eschen.</p>
@@ -5561,14 +5608,16 @@
             </note>
           </person>
           <person xml:id="lub-actors-668">
-            <persName type="full" xml:lang="de">Oswald, Jos (1593–1611)</persName>
+            <persName type="full" xml:lang="de">Oswald, Jos (1584–1611)</persName>
             <persName type="main" xml:lang="de">Oswald, Jos</persName>
             <persName type="sort" xml:lang="de">oswald, jos</persName>
             <persName type="alternative" xml:lang="de">Oschwald, Joß</persName>
-            <birth when="1593"/>
+            <persName type="alternative" xml:lang="de">Oschwaldt, Joß</persName>
+            <persName type="variant" xml:lang="de">Ospelt</persName>
+            <birth when="1584-11-13"/>
             <death when="1611-06-06"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Vaduz. Zollpächter, Wirt.</p>
+              <p>Wohnhaft in Vaduz. Zollpächter, Wirt. Ehemann von <ref target="2142">Greta Beusch</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-671">
@@ -5576,6 +5625,7 @@
             <persName type="main" xml:lang="de">Schächle, Hans (3)</persName>
             <persName type="sort" xml:lang="de">schaechle, hans (3)</persName>
             <persName type="alternative" xml:lang="de">Schechli, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Schächli, Hanns</persName>
             <birth when="1582-07-02"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
@@ -5715,6 +5765,7 @@
             <persName type="sort" xml:lang="de">brendle, leonhard</persName>
             <persName type="alternative" xml:lang="de">Brendli, Lienhart</persName>
             <persName type="alternative" xml:lang="de">Brendli, Leonnhart</persName>
+            <persName type="alternative" xml:lang="de">Brendlin, Leonhart</persName>
             <birth when="1549"/>
             <death when="1621"/>
             <note type="description" xml:lang="de">
@@ -5787,6 +5838,38 @@
             <note type="sources">
               <listBibl>
                 <bibl>Groll, Roggenburg, S. 11</bibl>
+              </listBibl>
+            </note>
+          </person>
+          <person xml:id="lub-actors-735">
+            <persName type="full" xml:lang="de">Gienger, Eitl Hans (1505–1569)</persName>
+            <persName type="main" xml:lang="de">Gienger, Eitl Hans</persName>
+            <persName type="sort" xml:lang="de">gienger, eitl hans</persName>
+            <persName type="alternative" xml:lang="de">Gienger, Eyttel Hans</persName>
+            <persName type="alternative" xml:lang="de">Gienger, Eytl Hanns</persName>
+            <persName type="alternative" xml:lang="de">Gwinger, Eitel Hans</persName>
+            <birth when="1505"/>
+            <death when="1569"/>
+            <note type="description" xml:lang="de">
+              <p>1554–1568 Vogt zu Feldkirch.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q23769584"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/1157825063654060945/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1202296874"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Eitl_Hans_Gienger"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>Niederstätter, Vogteien, S. 87</bibl>
               </listBibl>
             </note>
           </person>
@@ -5870,7 +5953,7 @@
             <persName type="main" xml:lang="de">Brandis, von</persName>
             <persName type="sort" xml:lang="de">brandis, von</persName>
             <note type="description" xml:lang="de">
-              <p>Aus dem Emmental stammendes Freiherrengeschlecht, das sich um 1400 als Erbe der Grafen von Werdenberg-Sargans-Vaduz durchsetzen konnte. 1510 verkaufte <ref target="/actors/31">Johannes von Brandis</ref>, der letzte männliche Vertreter des Geschlechts, seinen Anteil an den Herrschaften an seinen Neffen <ref target="/actors/8">Rudolf von Sulz</ref>.</p>
+              <p>Aus dem Emmental stammendes Freiherrengeschlecht, das sich um 1400 als Erbe der Grafen von Werdenberg-Sargans-Vaduz durchsetzen konnte. 1510 verkaufte Johannes von Brandis, der letzte männliche Vertreter des Geschlechts, seinen Anteil an den Herrschaften an seinen Neffen <ref target="/actors/8">Rudolf von Sulz</ref>.</p>
             </note>
             <listBibl>
               <bibl>
@@ -5965,6 +6048,16 @@
             <birth when="1565-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mäls.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-755">
+            <persName type="full" xml:lang="de">Kaufmann, Leonhard (1) (1559–)</persName>
+            <persName type="main" xml:lang="de">Kaufmann, Leonhard (1)</persName>
+            <persName type="sort" xml:lang="de">kaufmann, leonhard (1)</persName>
+            <persName type="alternative" xml:lang="de">Kaufmann, Lienhart</persName>
+            <birth when="1559-07-27"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg.</p>
             </note>
           </person>
           <person xml:id="lub-actors-756">
@@ -6205,14 +6298,17 @@
             </note>
           </person>
           <person xml:id="lub-actors-781">
-            <persName type="full" xml:lang="de">Büchel, Ulrich (1582–1613)</persName>
+            <persName type="full" xml:lang="de">Büchel, Ulrich (1582–1584)</persName>
             <persName type="main" xml:lang="de">Büchel, Ulrich</persName>
             <persName type="sort" xml:lang="de">buechel, ulrich</persName>
             <persName type="alternative" xml:lang="de">Pichl, Ulrich</persName>
             <birth when="1582-07-06"/>
-            <death when="1613-05-15"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Ruggell und/oder Bendern. Inhaber der Taverne und des Zolls.</p>
+              <list>
+                <item>† vor dem 13.11.1582.</item>
+                <item>Wohnhaft in  Bendern.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-782">
@@ -6381,6 +6477,7 @@
             <persName type="main" xml:lang="de">Gassner, Michael</persName>
             <persName type="sort" xml:lang="de">gassner, michael</persName>
             <persName type="alternative" xml:lang="de">Gaußner, Michael</persName>
+            <persName type="alternative" xml:lang="de">Gasner, Michael</persName>
             <birth when="1574-02-01"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
@@ -6416,13 +6513,14 @@
             </listBibl>
           </person>
           <person xml:id="lub-actors-810">
-            <persName type="full" xml:lang="de">Maurer, Georg (1582–1583)</persName>
+            <persName type="full" xml:lang="de">Maurer, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Maurer, Georg</persName>
             <persName type="sort" xml:lang="de">maurer, georg</persName>
+            <persName type="alternative" xml:lang="de">Maurer, Jerg</persName>
             <birth when="1582-07-06"/>
-            <death when="1583-11-11"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern. Verheiratet mit <ref target="811">Margarethe Wanger</ref>.</p>
+              <p>Wohnhaft in Bendern. Verheiratet mit <ref target="811">Margarethe Wanger</ref>. Schwiegersohn von <ref target="1671">Agatha Hertner</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-811">
@@ -6436,13 +6534,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-812">
-            <persName type="full" xml:lang="de">Hoop, Urban (2) (1582–1583)</persName>
+            <persName type="full" xml:lang="de">Hoop, Urban (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Hoop, Urban (2)</persName>
             <persName type="sort" xml:lang="de">hoop, urban (2)</persName>
             <persName type="alternative" xml:lang="de">Hoppen, Urban</persName>
             <persName type="alternative" xml:lang="de">Hop, Urba</persName>
+            <persName type="alternative" xml:lang="de">Hopp, Urban</persName>
             <birth when="1582-07-06"/>
-            <death when="1583-11-11"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Kirchenpfleger in Bendern.</p>
             </note>
@@ -6499,24 +6598,24 @@
             </note>
           </person>
           <person xml:id="lub-actors-818">
-            <persName type="full" xml:lang="de">Walch, Jos (1562–1579)</persName>
+            <persName type="full" xml:lang="de">Walch, Jos (1562–1578)</persName>
             <persName type="main" xml:lang="de">Walch, Jos</persName>
             <persName type="sort" xml:lang="de">walch, jos</persName>
-            <persName type="alternative" xml:lang="de">Walchen, Joß</persName>
+            <persName type="alternative" xml:lang="de">Walch, Joß</persName>
             <birth when="1562-11-11"/>
-            <death when="1579-08-17"/>
+            <death when="1578-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Gamprin. Kirchenpfleger zu Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-819">
-            <persName type="full" xml:lang="de">Wohlwend, Peter (1) (1566–1582)</persName>
+            <persName type="full" xml:lang="de">Wohlwend, Peter (1) (1566–1584)</persName>
             <persName type="main" xml:lang="de">Wohlwend, Peter (1)</persName>
             <persName type="sort" xml:lang="de">wohlwend, peter (1)</persName>
             <persName type="alternative" xml:lang="de">Wolwennd, Petter</persName>
             <persName type="alternative" xml:lang="de">Wolwen, Petter</persName>
             <birth when="1566-11-11"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Ruggell und/oder Bendern. Verheiratet mit <ref target="820">Anna Wider</ref>.</p>
             </note>
@@ -6573,14 +6672,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-824">
-            <persName type="full" xml:lang="de">Kind, Hans (2) (1568–1582)</persName>
+            <persName type="full" xml:lang="de">Kind, Hans (2) (1568–1584)</persName>
             <persName type="main" xml:lang="de">Kind, Hans (2)</persName>
             <persName type="sort" xml:lang="de">kind, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Kind, Hanns</persName>
             <persName type="alternative" xml:lang="de">Kind, Hanß</persName>
             <persName type="alternative" xml:lang="de">Kind, Hannß</persName>
             <birth when="1568-11-11"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Ruggell und/oder Bendern. Verheiratet mit <ref target="825">Anna Graber</ref>.</p>
             </note>
@@ -7802,6 +7901,7 @@
             <persName type="sort" xml:lang="de">thoeni, hans (3)</persName>
             <persName type="alternative" xml:lang="de">Töhnie, Hannß</persName>
             <persName type="alternative" xml:lang="de">Thöni, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Thönny, Hannß</persName>
             <birth when="1582-07-06"/>
             <death when="1604"/>
             <note type="description" xml:lang="de">
@@ -7863,19 +7963,19 @@
             <birth when="1538"/>
             <death when="1565-09-29"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von Jos Meier; wohnhaft in Schaan.</p>
+              <p>Wohnhaft in Schaan. Ehefrau von <ref target="976">Jos Meier</ref> und Mutter von <ref target="1444">Vest Meier</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-976">
-            <persName type="full" xml:lang="de">Meier, Jos (1538–1565)</persName>
+            <persName type="full" xml:lang="de">Meier, Jos (1538–1584)</persName>
             <persName type="main" xml:lang="de">Meier, Jos</persName>
             <persName type="sort" xml:lang="de">meier, jos</persName>
             <persName type="alternative" xml:lang="de">Mayer, Jos</persName>
             <persName type="alternative" xml:lang="de">Mayer, Joß</persName>
             <birth when="1538"/>
-            <death when="1565-09-29"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan, Ehemann von Nesa Spiegel.</p>
+              <p>Wohnhaft in Schaan, Ehemann von <ref target="975">Nesa Spiegel</ref>. Vater von <ref target="1444">Vest Meier</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-977">
@@ -8725,6 +8825,8 @@
             <persName type="main" xml:lang="de">Schächle, Georg</persName>
             <persName type="sort" xml:lang="de">schaechle, georg</persName>
             <persName type="alternative" xml:lang="de">Schechle, Georg</persName>
+            <persName type="alternative" xml:lang="de">Schechtlin, Giörg</persName>
+            <persName type="alternative" xml:lang="de">Schechli, Giorg</persName>
             <birth when="1582-07-06"/>
             <death when="1660"/>
             <note type="description" xml:lang="de">
@@ -8791,11 +8893,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1067">
-            <persName type="full" xml:lang="de">Gstöhl, Jakob (1570–)</persName>
+            <persName type="full" xml:lang="de">Gstöhl, Jakob (1570–1584)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Jakob</persName>
             <persName type="sort" xml:lang="de">gstoehl, jakob</persName>
             <persName type="alternative" xml:lang="de">Gestöll, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Gstöll, Jacob</persName>
             <birth when="1570-12-14"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -8917,6 +9021,7 @@
             <persName type="alternative" xml:lang="de">Tündtl, Jacob</persName>
             <persName type="alternative" xml:lang="de">Tüntel, Jacob</persName>
             <persName type="alternative" xml:lang="de">Thundtel, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Düntl, Jacob</persName>
             <birth when="1579-08-17"/>
             <death when="1613-03-07"/>
             <note type="description" xml:lang="de">
@@ -8929,6 +9034,7 @@
             <persName type="sort" xml:lang="de">mader, bartholomaeus</persName>
             <persName type="alternative" xml:lang="de">Mader, Barthli</persName>
             <persName type="alternative" xml:lang="de">Mader, Bart</persName>
+            <persName type="alternative" xml:lang="de">Mader, Barthlome</persName>
             <birth when="1579-08-17"/>
             <death when="1585-11-10"/>
             <note type="description" xml:lang="de">
@@ -8949,43 +9055,52 @@
             </note>
           </person>
           <person xml:id="lub-actors-1078">
-            <persName type="full" xml:lang="de">Öhri, Andreas (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Öhri, Andreas (1579–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Andreas</persName>
             <persName type="sort" xml:lang="de">oehri, andreas</persName>
             <persName type="alternative" xml:lang="de">Öre, Andres</persName>
             <persName type="alternative" xml:lang="de">Öri, Andras</persName>
+            <persName type="alternative" xml:lang="de">Örry, Andreas</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Waffenträger.</p>
+              <p>Wohnhaft in Eschen. Waffenträger. Vater von <ref target="2221">Peter Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1079">
-            <persName type="full" xml:lang="de">Öhri, Konrad (1579–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Konrad (1579–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Konrad</persName>
             <persName type="sort" xml:lang="de">oehri, konrad</persName>
             <persName type="alternative" xml:lang="de">Öre, Conradt</persName>
+            <persName type="alternative" xml:lang="de">Örin, Conradt</persName>
             <birth when="1579-08-17"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer eines Guts in Bangs (Ruggell).</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Wohnhaft in Bendern.</item>
+                <item>Besitzer eines Guts in Bangs (Ruggell).</item>
+                <item>Kinder: <ref target="2175">Hans</ref>, <ref target="2176">Konrad</ref>, <ref target="2177">Luisa</ref> und <ref target="2178">Eva</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1080">
-            <persName type="full" xml:lang="de">Öhri, Bartholomäus (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Öhri, Bartholomäus (1579–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Bartholomäus</persName>
             <persName type="sort" xml:lang="de">oehri, bartholomaeus</persName>
             <persName type="alternative" xml:lang="de">Öre, Bartle</persName>
             <persName type="alternative" xml:lang="de">Öri, Bartlome</persName>
+            <persName type="alternative" xml:lang="de">Öry, Barttel</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <p>Wohnhaft in Eschen. Weibel. Vater von <ref target="1760">Hans Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1081">
-            <persName type="full" xml:lang="de">Öhri, Jos (1) (1555–1575)</persName>
-            <persName type="main" xml:lang="de">Öhri, Jos (1)</persName>
-            <persName type="sort" xml:lang="de">oehri, jos (1)</persName>
+            <persName type="full" xml:lang="de">Öhri, Jos (2) (1555–1575)</persName>
+            <persName type="main" xml:lang="de">Öhri, Jos (2)</persName>
+            <persName type="sort" xml:lang="de">oehri, jos (2)</persName>
             <persName type="alternative" xml:lang="de">Öri</persName>
             <birth when="1555"/>
             <death when="1575"/>
@@ -8994,14 +9109,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1082">
-            <persName type="full" xml:lang="de">Öhri, Matthäus (1555–1582)</persName>
+            <persName type="full" xml:lang="de">Öhri, Matthäus (1555–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Matthäus</persName>
             <persName type="sort" xml:lang="de">oehri, matthaeus</persName>
             <persName type="alternative" xml:lang="de">Öri, Theiß</persName>
             <persName type="alternative" xml:lang="de">Öri, Teiss</persName>
             <persName type="alternative" xml:lang="de">Öri, Theys</persName>
+            <persName type="alternative" xml:lang="de">Örry, Theus</persName>
             <birth when="1555"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Weibel. Wohnhaft in Eschen.</p>
             </note>
@@ -9044,44 +9160,44 @@
             </note>
           </person>
           <person xml:id="lub-actors-1086">
-            <persName type="full" xml:lang="de">Mader, Jakob (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Mader, Jakob (1579–1584)</persName>
             <persName type="main" xml:lang="de">Mader, Jakob</persName>
             <persName type="sort" xml:lang="de">mader, jakob</persName>
             <persName type="alternative" xml:lang="de">Mader, Jacob</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1087">
-            <persName type="full" xml:lang="de">Marxer, Rudolf (2) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Marxer, Rudolf (2) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Rudolf (2)</persName>
             <persName type="sort" xml:lang="de">marxer, rudolf (2)</persName>
             <persName type="alternative" xml:lang="de">Marxer, Ruodolff</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1088">
-            <persName type="full" xml:lang="de">Marxer, Ulrich (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Marxer, Ulrich (1579–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Ulrich</persName>
             <persName type="sort" xml:lang="de">marxer, ulrich</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1089">
-            <persName type="full" xml:lang="de">Meier, Jakob (3) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Meier, Jakob (3) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Meier, Jakob (3)</persName>
             <persName type="sort" xml:lang="de">meier, jakob (3)</persName>
             <persName type="alternative" xml:lang="de">Mayer, Jacob</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -9096,15 +9212,16 @@
             </note>
           </person>
           <person xml:id="lub-actors-1091">
-            <persName type="full" xml:lang="de">Ribi, Bartholomäus (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Ribi, Bartholomäus (1579–1584)</persName>
             <persName type="main" xml:lang="de">Ribi, Bartholomäus</persName>
             <persName type="sort" xml:lang="de">ribi, bartholomaeus</persName>
             <persName type="alternative" xml:lang="de">Ribi, Bartle</persName>
             <persName type="alternative" xml:lang="de">Rybi, Bartli</persName>
+            <persName type="alternative" xml:lang="de">Ryby, Barttel</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern(?).</p>
             </note>
           </person>
           <person xml:id="lub-actors-1092">
@@ -9149,14 +9266,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-1096">
-            <persName type="full" xml:lang="de">Schwendeli, Hans (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Schwendeli, Hans (1579–1584)</persName>
             <persName type="main" xml:lang="de">Schwendeli, Hans</persName>
             <persName type="sort" xml:lang="de">schwendeli, hans</persName>
             <persName type="alternative" xml:lang="de">Schwendelli</persName>
             <persName type="alternative" xml:lang="de">Schwendelle</persName>
             <persName type="alternative" xml:lang="de">Schwenndeli, Hannß</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -9169,11 +9286,11 @@
             <birth when="1579-08-17"/>
           </personGrp>
           <person xml:id="lub-actors-1099">
-            <persName type="full" xml:lang="de">Walch, Ulrich (2) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Walch, Ulrich (2) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Walch, Ulrich (2)</persName>
             <persName type="sort" xml:lang="de">walch, ulrich (2)</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -9209,39 +9326,41 @@
             </note>
           </person>
           <person xml:id="lub-actors-1104">
-            <persName type="full" xml:lang="de">Wolfart, Viktor (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Wolfart, Viktor (1579–1584)</persName>
             <persName type="main" xml:lang="de">Wolfart, Viktor</persName>
             <persName type="sort" xml:lang="de">wolfart, viktor</persName>
             <persName type="alternative" xml:lang="de">Wolffart, Victor</persName>
             <persName type="alternative" xml:lang="de">Wolfurt, Victor</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1105">
-            <persName type="full" xml:lang="de">Allgäuer, Jakob (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Allgäuer, Jakob (1579–1584)</persName>
             <persName type="main" xml:lang="de">Allgäuer, Jakob</persName>
             <persName type="sort" xml:lang="de">allgaeuer, jakob</persName>
             <persName type="alternative" xml:lang="de">Algöwe, Jacob</persName>
             <persName type="alternative" xml:lang="de">Allgewer, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Algewer, Jacob</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1106">
-            <persName type="full" xml:lang="de">Allgäuer, Ulrich (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Allgäuer, Ulrich (1579–1584)</persName>
             <persName type="main" xml:lang="de">Allgäuer, Ulrich</persName>
             <persName type="sort" xml:lang="de">allgaeuer, ulrich</persName>
             <persName type="alternative" xml:lang="de">Algöwer, Ulrich</persName>
             <persName type="alternative" xml:lang="de">Allgewer, Ulrich</persName>
+            <persName type="alternative" xml:lang="de">Algewer, Ulrich</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Waffenträger.</p>
+              <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1107">
@@ -9254,25 +9373,27 @@
             </note>
           </person>
           <person xml:id="lub-actors-1108">
-            <persName type="full" xml:lang="de">Dietbrecht, Georg (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Dietbrecht, Georg (1579–1584)</persName>
             <persName type="main" xml:lang="de">Dietbrecht, Georg</persName>
             <persName type="sort" xml:lang="de">dietbrecht, georg</persName>
             <persName type="alternative" xml:lang="de">Dieprecht, Jerg</persName>
             <persName type="alternative" xml:lang="de">Dieprecht, Georg</persName>
+            <persName type="alternative" xml:lang="de">Dieprecht, Jeorg.</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1109">
-            <persName type="full" xml:lang="de">Egli, Andreas (3) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Egli, Andreas (3) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Egli, Andreas (3)</persName>
             <persName type="sort" xml:lang="de">egli, andreas (3)</persName>
             <persName type="alternative" xml:lang="de">Egle, Andres</persName>
             <persName type="alternative" xml:lang="de">Egli, Andreas</persName>
+            <persName type="alternative" xml:lang="de">Ögli, Anndras</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -9307,45 +9428,48 @@
             </note>
           </person>
           <person xml:id="lub-actors-1113">
-            <persName type="full" xml:lang="de">Fetzer, Hans (2) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Fetzer, Hans (2) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Fetzer, Hans (2)</persName>
             <persName type="sort" xml:lang="de">fetzer, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Fetzer, Hannß</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1114">
-            <persName type="full" xml:lang="de">Fetzer, Marx (1530–1578)</persName>
+            <persName type="full" xml:lang="de">Fetzer, Marx (1530–1584)</persName>
             <persName type="main" xml:lang="de">Fetzer, Marx</persName>
             <persName type="sort" xml:lang="de">fetzer, marx</persName>
+            <persName type="alternative" xml:lang="de">Vetzer, Marx</persName>
             <birth when="1530-05-18"/>
-            <death when="1578"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <p>Wohnhaft in Eschen. Vater von <ref target="2212">Elisabeth Fetzer</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1115">
-            <persName type="full" xml:lang="de">Fink, Hans (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Fink, Hans (1579–1584)</persName>
             <persName type="main" xml:lang="de">Fink, Hans</persName>
             <persName type="sort" xml:lang="de">fink, hans</persName>
             <persName type="alternative" xml:lang="de">Finck, Hans</persName>
             <persName type="alternative" xml:lang="de">Finckhen, Hanns</persName>
+            <persName type="alternative" xml:lang="de">Fünck, Hannß</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Waffenträger.</p>
+              <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1116">
-            <persName type="full" xml:lang="de">Ganteli, Simon (1579–1582)</persName>
-            <persName type="main" xml:lang="de">Ganteli, Simon</persName>
-            <persName type="sort" xml:lang="de">ganteli, simon</persName>
-            <persName type="alternative" xml:lang="de">Gantelli, Sima</persName>
+            <persName type="full" xml:lang="de">Banteli, Simon (1579–1584)</persName>
+            <persName type="main" xml:lang="de">Banteli, Simon</persName>
+            <persName type="sort" xml:lang="de">banteli, simon</persName>
+            <persName type="alternative" xml:lang="de">Bantelli, Sima (Gantelli, Sima)</persName>
+            <persName type="alternative" xml:lang="de">Banttelly, Simon (Ganttely, Simon)</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -9415,15 +9539,16 @@
             </note>
           </person>
           <person xml:id="lub-actors-1123">
-            <persName type="full" xml:lang="de">Hasler, Vest (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Hasler, Vest (1579–1584)</persName>
             <persName type="main" xml:lang="de">Hasler, Vest</persName>
             <persName type="sort" xml:lang="de">hasler, vest</persName>
             <persName type="alternative" xml:lang="de">Hassler, Vest</persName>
             <persName type="alternative" xml:lang="de">Haßler, Vest</persName>
+            <persName type="alternative" xml:lang="de">Haßler, Vesst</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern. Bruder von <ref target="2169">Greta Hasler</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1124">
@@ -9439,25 +9564,31 @@
             </note>
           </person>
           <person xml:id="lub-actors-1125">
-            <persName type="full" xml:lang="de">Kaufmann, Valentin (1579–)</persName>
+            <persName type="full" xml:lang="de">Kaufmann, Valentin (1579–1584)</persName>
             <persName type="main" xml:lang="de">Kaufmann, Valentin</persName>
             <persName type="sort" xml:lang="de">kaufmann, valentin</persName>
             <persName type="alternative" xml:lang="de">Kaufma, Valentein</persName>
+            <persName type="alternative" xml:lang="de">Kaufman, Valedin</persName>
             <birth when="1579-08-17"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1126">
-            <persName type="full" xml:lang="de">Kaufmann, Georg (2) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Kaufmann, Georg (2) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Kaufmann, Georg (2)</persName>
             <persName type="sort" xml:lang="de">kaufmann, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Kaufma, Jerg</persName>
             <persName type="alternative" xml:lang="de">Kaufman, Georg</persName>
+            <persName type="alternative" xml:lang="de">Kaufman, Jörg</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Wohnhaft in Eschen.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1127">
@@ -9478,25 +9609,27 @@
             <birth when="1579-08-17"/>
           </personGrp>
           <person xml:id="lub-actors-1129">
-            <persName type="full" xml:lang="de">Knabenknecht, Hug (2) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Knabenknecht, Hug (2) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Knabenknecht, Hug (2)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, hug (2)</persName>
             <persName type="alternative" xml:lang="de">Knabenkhnecht, Haug</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1131">
-            <persName type="full" xml:lang="de">Koch, Gallus (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Koch, Gallus (1579–1584)</persName>
             <persName type="main" xml:lang="de">Koch, Gallus</persName>
             <persName type="sort" xml:lang="de">koch, gallus</persName>
             <persName type="alternative" xml:lang="de">Koch</persName>
             <persName type="alternative" xml:lang="de">Galle</persName>
             <persName type="alternative" xml:lang="de">Koch, Galli</persName>
+            <persName type="alternative" xml:lang="de">Koch, Gälly</persName>
+            <persName type="alternative" xml:lang="de">Koch, Gally</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -9596,10 +9729,11 @@
             </note>
           </person>
           <person xml:id="lub-actors-1142">
-            <persName type="full" xml:lang="de">Knabenknecht, Hans (3) (1588–1597)</persName>
+            <persName type="full" xml:lang="de">Knabenknecht, Hans (3) (1584–1597)</persName>
             <persName type="main" xml:lang="de">Knabenknecht, Hans (3)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, hans (3)</persName>
-            <birth when="1588-11-11"/>
+            <persName type="alternative" xml:lang="de">Knabenknecht, Hannß</persName>
+            <birth when="1584-11-13"/>
             <death when="1597-02-21"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan. Verheiratet mit <ref target="1141">Anna Ballasser (3)</ref>.</p>
@@ -9611,6 +9745,7 @@
             <persName type="sort" xml:lang="de">wanger, heinrich (2)</persName>
             <persName type="alternative" xml:lang="de">Wanger, Hainrich</persName>
             <persName type="alternative" xml:lang="de">Wagner, Hainrich</persName>
+            <persName type="alternative" xml:lang="de">Wanngner, Hainrich</persName>
             <birth when="1582"/>
             <death when="1610"/>
             <note type="description" xml:lang="de">
@@ -9618,50 +9753,54 @@
             </note>
           </person>
           <person xml:id="lub-actors-1144">
-            <persName type="full" xml:lang="de">Frick, Adam (2) (1585–1604)</persName>
+            <persName type="full" xml:lang="de">Frick, Adam (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Frick, Adam (2)</persName>
             <persName type="sort" xml:lang="de">frick, adam (2)</persName>
             <persName type="alternative" xml:lang="de">Frickh, Adam</persName>
-            <birth when="1585-11-11"/>
+            <birth when="1584-11-13"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan. Ehemann von Anna Verling.</p>
+              <p>Wohnhaft in Schaan. Ehemann von Anna Verling. Stiefvater von <ref target="1499">Hans Weinzierl</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1145">
-            <persName type="full" xml:lang="de">Frommelt, Hans (4) (1589–)</persName>
+            <persName type="full" xml:lang="de">Frommelt, Hans (4) (1584–1589)</persName>
             <persName type="main" xml:lang="de">Frommelt, Hans (4)</persName>
             <persName type="sort" xml:lang="de">frommelt, hans (4)</persName>
             <persName type="alternative" xml:lang="de">Frumolt, Hanns</persName>
-            <birth when="1589-11-11"/>
+            <persName type="alternative" xml:lang="de">Frumoldt, Lang Hanß</persName>
+            <birth when="1584-11-13"/>
+            <death when="1589-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan.</p>
+              <p>Wohnhaft in Schaan und Gutsbesitzer.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1146">
-            <persName type="full" xml:lang="de">Hilti, Peter (1589–1613)</persName>
+            <persName type="full" xml:lang="de">Hilti, Peter (1584–1613)</persName>
             <persName type="main" xml:lang="de">Hilti, Peter</persName>
             <persName type="sort" xml:lang="de">hilti, peter</persName>
             <persName type="alternative" xml:lang="de">Hülti, Petter</persName>
             <persName type="alternative" xml:lang="de">Hülti, Peter</persName>
             <persName type="alternative" xml:lang="de">Hilti, Petter</persName>
-            <birth when="1589-09-22"/>
+            <persName type="alternative" xml:lang="de">Hultin, Petter</persName>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz. Güterbesitzer in Vaduz und Schaan.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1148">
-            <persName type="full" xml:lang="de">Frommelt, Stefan (2) (1588–1604)</persName>
+            <persName type="full" xml:lang="de">Frommelt, Stefan (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Frommelt, Stefan (2)</persName>
             <persName type="sort" xml:lang="de">frommelt, stefan (2)</persName>
             <persName type="alternative" xml:lang="de">Frumolt, Steffan</persName>
             <persName type="alternative" xml:lang="de">Frumoldt</persName>
             <persName type="alternative" xml:lang="de">Stepfhan</persName>
-            <birth when="1588"/>
+            <persName type="alternative" xml:lang="de">Frumoldt, Steffan</persName>
+            <birth when="1584-11-13"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Vaduz.</p>
+              <p>Wohnhaft in Schaan. Gutsbesitzer in Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1149">
@@ -9954,15 +10093,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1180">
-            <persName type="full" xml:lang="de">Marxer, Andreas (1) (1570–1582)</persName>
-            <persName type="main" xml:lang="de">Marxer, Andreas (1)</persName>
-            <persName type="sort" xml:lang="de">marxer, andreas (1)</persName>
+            <persName type="full" xml:lang="de">Marxer, Andreas (1570–1584)</persName>
+            <persName type="main" xml:lang="de">Marxer, Andreas</persName>
+            <persName type="sort" xml:lang="de">marxer, andreas</persName>
             <persName type="alternative" xml:lang="de">Marxer, Andreaß</persName>
             <persName type="alternative" xml:lang="de">Marxer, Andras</persName>
             <birth when="1570"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren. Waffenträger. Zinst in Eschen.</p>
+              <p>Wohnhaft in Mauren. Zinst in Eschen. Sohn von <ref target="1777">Bernhard Marxer</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1181">
@@ -10134,6 +10273,7 @@
             <persName type="full" xml:lang="de">Lampert, Christian (1) (1578–1589)</persName>
             <persName type="main" xml:lang="de">Lampert, Christian (1)</persName>
             <persName type="sort" xml:lang="de">lampert, christian (1)</persName>
+            <persName type="alternative" xml:lang="de">Lampart, Christan</persName>
             <birth when="1578-07-15"/>
             <death when="1589-09-22"/>
             <note type="description" xml:lang="de">
@@ -10259,10 +10399,11 @@
             <persName type="sort" xml:lang="de">kieber, michael</persName>
             <persName type="alternative" xml:lang="de">Khüburn</persName>
             <persName type="alternative" xml:lang="de">Kyber, Michl</persName>
+            <persName type="alternative" xml:lang="de">Küber, Michell</persName>
             <birth when="1582-07-06"/>
             <death when="1603-08-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren..</p>
+              <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1203">
@@ -10271,6 +10412,7 @@
             <persName type="sort" xml:lang="de">kieber, valentin</persName>
             <persName type="alternative" xml:lang="de">Khüburn</persName>
             <persName type="alternative" xml:lang="de">Kyber, Vallenthin</persName>
+            <persName type="alternative" xml:lang="de">Küber, Valedin</persName>
             <birth when="1582-07-06"/>
             <death when="1603-08-11"/>
             <note type="description" xml:lang="de">
@@ -10311,6 +10453,7 @@
             <persName type="main" xml:lang="de">Wohlwend, Hans (1)</persName>
             <persName type="sort" xml:lang="de">wohlwend, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Wolwenn, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Wolwendt, Hanß</persName>
             <birth when="1582-07-06"/>
             <death when="1603-08-11"/>
             <note type="description" xml:lang="de">
@@ -10342,20 +10485,24 @@
             </note>
           </person>
           <person xml:id="lub-actors-1210">
-            <persName type="full" xml:lang="de">Gantner, Stefan (1579–)</persName>
+            <persName type="full" xml:lang="de">Gantner, Stefan (1579–1584)</persName>
             <persName type="main" xml:lang="de">Gantner, Stefan</persName>
             <persName type="sort" xml:lang="de">gantner, stefan</persName>
             <persName type="alternative" xml:lang="de">Ganndtner, Steffan</persName>
+            <persName type="alternative" xml:lang="de">Ganttner, Steffan</persName>
             <birth when="1579-04-10"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Planken.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1211">
-            <persName type="full" xml:lang="de">Moser, Hans (1579–)</persName>
+            <persName type="full" xml:lang="de">Moser, Hans (1579–1584)</persName>
             <persName type="main" xml:lang="de">Moser, Hans</persName>
             <persName type="sort" xml:lang="de">moser, hans</persName>
+            <persName type="alternative" xml:lang="de">Moser, Hannß</persName>
             <birth when="1579-04-10"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Planken.</p>
             </note>
@@ -11309,11 +11456,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-1310">
-            <persName type="full" xml:lang="de">Konrad, Michael (1597–1604)</persName>
+            <persName type="full" xml:lang="de">Konrad, Michael (1584–1604)</persName>
             <persName type="main" xml:lang="de">Konrad, Michael</persName>
             <persName type="sort" xml:lang="de">konrad, michael</persName>
             <persName type="alternative" xml:lang="de">Conradt, Michael</persName>
-            <birth when="1597-02-21"/>
+            <persName type="alternative" xml:lang="de">Conradt, Michel</persName>
+            <birth when="1584-11-13"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan. Bruder von Anna Konrad.</p>
@@ -11332,26 +11480,27 @@
             </note>
           </person>
           <person xml:id="lub-actors-1312">
-            <persName type="full" xml:lang="de">Konrad, Georg (2) (1597–1604)</persName>
+            <persName type="full" xml:lang="de">Konrad, Georg (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Konrad, Georg (2)</persName>
             <persName type="sort" xml:lang="de">konrad, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Conradt, Geörg</persName>
-            <birth when="1597-02-21"/>
+            <persName type="alternative" xml:lang="de">Conradt, Giorg</persName>
+            <birth when="1584-11-13"/>
             <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1313">
-            <persName type="full" xml:lang="de">Ganzmann, Christian (4) (1586–1613)</persName>
+            <persName type="full" xml:lang="de">Ganzmann, Christian (4) (1584–1613)</persName>
             <persName type="main" xml:lang="de">Ganzmann, Christian (4)</persName>
             <persName type="sort" xml:lang="de">ganzmann, christian (4)</persName>
             <persName type="alternative" xml:lang="de">Gantzman, Cristian</persName>
             <persName type="alternative" xml:lang="de">Ganzman, Christa</persName>
-            <birth when="1586"/>
+            <birth when="1584-11-13"/>
             <death when="1613-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan. 1586 Gutsbesitzer in Vaduz.</p>
+              <p>Wohnhaft in Schaan. 1586 Gutsbesitzer in Vaduz. Sohn von <ref target="2088">Alt Hans Ganzmann</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1314">
@@ -11376,13 +11525,18 @@
             </note>
           </person>
           <person xml:id="lub-actors-1316">
-            <persName type="full" xml:lang="de">Plenki, Jörg (1579–)</persName>
+            <persName type="full" xml:lang="de">Plenki, Jörg (1579–1584)</persName>
             <persName type="main" xml:lang="de">Plenki, Jörg</persName>
             <persName type="sort" xml:lang="de">plenki, joerg</persName>
             <persName type="alternative" xml:lang="de">Plenkhi, Jerg</persName>
+            <persName type="alternative" xml:lang="de">Blennckhi, Jerg</persName>
             <birth when="1579-09-27"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan/Vaduz.</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Wohnhaft in Schaan/Vaduz.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1317">
@@ -11652,24 +11806,27 @@
             </note>
           </person>
           <person xml:id="lub-actors-1344">
-            <persName type="full" xml:lang="de">Ballasser, Peter (1604–1613)</persName>
+            <persName type="full" xml:lang="de">Ballasser, Peter (1584–1613)</persName>
             <persName type="main" xml:lang="de">Ballasser, Peter</persName>
             <persName type="sort" xml:lang="de">ballasser, peter</persName>
             <persName type="alternative" xml:lang="de">Ballaßer, Petter</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Ballißer, Petter</persName>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan, seine Ehefrau besitzt dort einen Weingarten.</p>
+              <p>Wohnhaft in Schaan, seine Ehefrau besitzt einen Weingarten.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1345">
-            <persName type="full" xml:lang="de">Hilti, Balthasar (1604–)</persName>
+            <persName type="full" xml:lang="de">Hilti, Balthasar (1584–1604)</persName>
             <persName type="main" xml:lang="de">Hilti, Balthasar</persName>
             <persName type="sort" xml:lang="de">hilti, balthasar</persName>
             <persName type="alternative" xml:lang="de">Hilti, Balle</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Hultin, Ballthaßer</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan.</p>
+              <p>Wohnhaft in Schaan/Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1346">
@@ -11839,11 +11996,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1362">
-            <persName type="full" xml:lang="de">Durnisser, Michael (1604–)</persName>
+            <persName type="full" xml:lang="de">Durnisser, Michael (1584–1604)</persName>
             <persName type="main" xml:lang="de">Durnisser, Michael</persName>
             <persName type="sort" xml:lang="de">durnisser, michael</persName>
             <persName type="alternative" xml:lang="de">Turneisser, Michael</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Durnißer, Michl</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -11909,11 +12068,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-1369">
-            <persName type="full" xml:lang="de">Frick, Alexander (2) (1604–)</persName>
+            <persName type="full" xml:lang="de">Frick, Alexander (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Frick, Alexander (2)</persName>
             <persName type="sort" xml:lang="de">frick, alexander (2)</persName>
-            <persName type="alternative" xml:lang="de">Frickh</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Frickh, Allexannder</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -11944,11 +12104,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1372">
-            <persName type="full" xml:lang="de">Fuetscher, Hans (1604–)</persName>
+            <persName type="full" xml:lang="de">Fuetscher, Hans (1584–1604)</persName>
             <persName type="main" xml:lang="de">Fuetscher, Hans</persName>
             <persName type="sort" xml:lang="de">fuetscher, hans</persName>
             <persName type="alternative" xml:lang="de">Fuotscher, Hannß</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Futscher, Hannß</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz.</p>
             </note>
@@ -12021,11 +12183,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1380">
-            <persName type="full" xml:lang="de">Gantner, Michael (1604–)</persName>
+            <persName type="full" xml:lang="de">Gantner, Michael (1584–1604)</persName>
             <persName type="main" xml:lang="de">Gantner, Michael</persName>
             <persName type="sort" xml:lang="de">gantner, michael</persName>
             <persName type="alternative" xml:lang="de">Gantner, Michell</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Ganndtner, Michl</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -12164,11 +12328,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1395">
-            <persName type="full" xml:lang="de">Henni, Fridolin (1604–)</persName>
+            <persName type="full" xml:lang="de">Henni, Fridolin (1584–1604)</persName>
             <persName type="main" xml:lang="de">Henni, Fridolin</persName>
             <persName type="sort" xml:lang="de">henni, fridolin</persName>
             <persName type="alternative" xml:lang="de">Henne, Fridlin</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Henne, Fridli</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan. Ehemann von <ref target="1396">Ursula Fritsch</ref>.</p>
             </note>
@@ -12204,12 +12370,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-1399">
-            <persName type="full" xml:lang="de">Hilti, Simon (1604–)</persName>
+            <persName type="full" xml:lang="de">Hilti, Simon (1584–1604)</persName>
             <persName type="main" xml:lang="de">Hilti, Simon</persName>
             <persName type="sort" xml:lang="de">hilti, simon</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Hültin, Symon</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Schaan und Vaduz.</p>
+              <p>Wohnhaft in Schaan und Gutsbesitzer in Schaan und Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1400">
@@ -12232,14 +12400,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1403">
-            <persName type="full" xml:lang="de">Jäger, Georg (1604–1613)</persName>
+            <persName type="full" xml:lang="de">Jäger, Georg (1584–1613)</persName>
             <persName type="main" xml:lang="de">Jäger, Georg</persName>
             <persName type="sort" xml:lang="de">jaeger, georg</persName>
             <persName type="alternative" xml:lang="de">Jeger, Jerg</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Jeger, Jeorg</persName>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Gutsbesitzer in Vaduz und Schaan.</p>
+              <p>Gutsbesitzer in Vaduz und Schaan. Wohnhaft in Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1404">
@@ -12263,11 +12432,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1406">
-            <persName type="full" xml:lang="de">Jäger, Thomas (1604–)</persName>
+            <persName type="full" xml:lang="de">Jäger, Thomas (1584–1604)</persName>
             <persName type="main" xml:lang="de">Jäger, Thomas</persName>
             <persName type="sort" xml:lang="de">jaeger, thomas</persName>
             <persName type="alternative" xml:lang="de">Jäger, Thoman</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Jeger, Thoman</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Besitzer eines Guts in Vaduz.</p>
             </note>
@@ -12330,11 +12501,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1413">
-            <persName type="full" xml:lang="de">Kachler, Matthäus (1604–)</persName>
+            <persName type="full" xml:lang="de">Kachler, Matthäus (1584–1604)</persName>
             <persName type="main" xml:lang="de">Kachler, Matthäus</persName>
             <persName type="sort" xml:lang="de">kachler, matthaeus</persName>
             <persName type="alternative" xml:lang="de">Kachler, Theiß</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Kachler, Theys</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -12389,9 +12562,11 @@
             </note>
           </person>
           <person xml:id="lub-actors-1419">
-            <persName type="full" xml:lang="de">Knabenknecht, Ulrich (1) (–1600)</persName>
+            <persName type="full" xml:lang="de">Knabenknecht, Ulrich (1) (1584–1600)</persName>
             <persName type="main" xml:lang="de">Knabenknecht, Ulrich (1)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, ulrich (1)</persName>
+            <persName type="alternative" xml:lang="de">Knabenkhnecht, Ullin</persName>
+            <birth when="1584-11-13"/>
             <death when="1600"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
@@ -12412,6 +12587,7 @@
             <persName type="main" xml:lang="de">Konrad, Augustin</persName>
             <persName type="sort" xml:lang="de">konrad, augustin</persName>
             <persName type="alternative" xml:lang="de">Conradt, Augustin</persName>
+            <persName type="alternative" xml:lang="de">Connradt, Augustein</persName>
             <birth when="1582"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
@@ -12459,11 +12635,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-1426">
-            <persName type="full" xml:lang="de">Konrad, Ulrich (1604–)</persName>
+            <persName type="full" xml:lang="de">Konrad, Ulrich (1584–1604)</persName>
             <persName type="main" xml:lang="de">Konrad, Ulrich</persName>
             <persName type="sort" xml:lang="de">konrad, ulrich</persName>
             <persName type="alternative" xml:lang="de">Conradt, Ulrich</persName>
-            <birth when="1604-03-07"/>
+            <birth when="1584-03-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -12479,23 +12656,27 @@
             </note>
           </person>
           <person xml:id="lub-actors-1428">
-            <persName type="full" xml:lang="de">Maurer, Hans (1) (1604–)</persName>
+            <persName type="full" xml:lang="de">Maurer, Hans (1) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Maurer, Hans (1)</persName>
             <persName type="sort" xml:lang="de">maurer, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Maurer, Krumme Hannß</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Maurer, Krum Hannß</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1429">
-            <persName type="full" xml:lang="de">Lampert, Franz (1604–)</persName>
+            <persName type="full" xml:lang="de">Lampert, Franz (1584–1604)</persName>
             <persName type="main" xml:lang="de">Lampert, Franz</persName>
             <persName type="sort" xml:lang="de">lampert, franz</persName>
             <persName type="alternative" xml:lang="de">Lampart, Franz</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Lampart, Frannz</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan.</p>
+              <p>Wohnhaft in Schaan. Schnitzt in Bendern/Ruggell.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1430">
@@ -12576,19 +12757,23 @@
             </note>
           </person>
           <person xml:id="lub-actors-1439">
-            <persName type="full" xml:lang="de">Maress, Anna (1604–)</persName>
+            <persName type="full" xml:lang="de">Maress, Anna (1584–1604)</persName>
             <persName type="main" xml:lang="de">Maress, Anna</persName>
             <persName type="sort" xml:lang="de">maress, anna</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Mareßin, Anna</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Schaan</p>
+              <p>Wohnhaft in Schaan.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1440">
-            <persName type="full" xml:lang="de">Maress, Klaus (–1600)</persName>
+            <persName type="full" xml:lang="de">Maress, Klaus (1584–1600)</persName>
             <persName type="main" xml:lang="de">Maress, Klaus</persName>
             <persName type="sort" xml:lang="de">maress, klaus</persName>
             <persName type="alternative" xml:lang="de">Moress, Clauß</persName>
+            <persName type="alternative" xml:lang="de">Mareß, Claß</persName>
+            <birth when="1584-11-13"/>
             <death when="1600"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
@@ -12614,13 +12799,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1444">
-            <persName type="full" xml:lang="de">Meier, Vest (1604–)</persName>
+            <persName type="full" xml:lang="de">Meier, Vest (1584–1604)</persName>
             <persName type="main" xml:lang="de">Meier, Vest</persName>
             <persName type="sort" xml:lang="de">meier, vest</persName>
             <persName type="alternative" xml:lang="de">Maier, Vest</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Mayer, Vesst</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan.</p>
+              <p>Wohnhaft in Schaan. Sohn von <ref target="976">Jos Meier</ref> und <ref target="975">Nesa Spiegel</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1445">
@@ -12634,11 +12821,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-1446">
-            <persName type="full" xml:lang="de">Müller, Sigmund (2) (1604–)</persName>
+            <persName type="full" xml:lang="de">Müller, Sigmund (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Müller, Sigmund (2)</persName>
             <persName type="sort" xml:lang="de">mueller, sigmund (2)</persName>
             <persName type="alternative" xml:lang="de">Müller, Sigmundt</persName>
-            <birth when="1604-03-07"/>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan. Ehemann von <ref target="1447">Ottilia Beck</ref>.</p>
             </note>
@@ -12895,13 +13083,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1469">
-            <persName type="full" xml:lang="de">Plenki, Melchior (1604–)</persName>
+            <persName type="full" xml:lang="de">Plenki, Melchior (1604–1604)</persName>
             <persName type="main" xml:lang="de">Plenki, Melchior</persName>
             <persName type="sort" xml:lang="de">plenki, melchior</persName>
             <persName type="alternative" xml:lang="de">Blänckhi, Melchior</persName>
+            <persName type="alternative" xml:lang="de">Blennckhi, Melch</persName>
             <birth when="1604-03-07"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schaan.</p>
+              <p>Wohnhaft in Schaan. Schnitzt in Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1471">
@@ -13060,21 +13250,23 @@
             </note>
           </person>
           <person xml:id="lub-actors-1488">
-            <persName type="full" xml:lang="de">Tobler, Thomas (1589–1613)</persName>
+            <persName type="full" xml:lang="de">Tobler, Thomas (1584–1613)</persName>
             <persName type="main" xml:lang="de">Tobler, Thomas</persName>
             <persName type="sort" xml:lang="de">tobler, thomas</persName>
             <persName type="alternative" xml:lang="de">Tobler, Thoman</persName>
-            <birth when="1589-09-22"/>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1489">
-            <persName type="full" xml:lang="de">Thöni, Andreas (2) (1604–)</persName>
+            <persName type="full" xml:lang="de">Thöni, Andreas (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Thöni, Andreas (2)</persName>
             <persName type="sort" xml:lang="de">thoeni, andreas (2)</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Thöni, Andras</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz.</p>
             </note>
@@ -13133,6 +13325,7 @@
             <persName type="sort" xml:lang="de">verling, oswald</persName>
             <persName type="alternative" xml:lang="de">Varling, Oschwaldt</persName>
             <persName type="alternative" xml:lang="de">Verling, Oschwaldt</persName>
+            <persName type="alternative" xml:lang="de">Forling, Oschwalt</persName>
             <birth when="1584"/>
             <death when="1585"/>
             <note type="description" xml:lang="de">
@@ -13160,26 +13353,29 @@
             </note>
           </person>
           <person xml:id="lub-actors-1498">
-            <persName type="full" xml:lang="de">Wanger, Ulrich (2) (1604–)</persName>
+            <persName type="full" xml:lang="de">Wanger, Ulrich (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Wanger, Ulrich (2)</persName>
             <persName type="sort" xml:lang="de">wanger, ulrich (2)</persName>
             <persName type="alternative" xml:lang="de">Wagner, Ulrich</persName>
-            <birth when="1604-03-07"/>
+            <persName type="alternative" xml:lang="de">Wangner, Ulrich</persName>
+            <birth when="1584-11-13"/>
+            <death when="1604-03-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1499">
-            <persName type="full" xml:lang="de">Weinzierl, Hans (2) (1585–1613)</persName>
+            <persName type="full" xml:lang="de">Weinzierl, Hans (2) (1584–1613)</persName>
             <persName type="main" xml:lang="de">Weinzierl, Hans (2)</persName>
             <persName type="sort" xml:lang="de">weinzierl, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Weinzürl, Hannß</persName>
             <persName type="alternative" xml:lang="de">Weinzierlin, Hannß</persName>
             <persName type="alternative" xml:lang="de">Weinzierlin, Hanß</persName>
-            <birth when="1585"/>
+            <persName type="alternative" xml:lang="de">Weinzierl, Hanß</persName>
+            <birth when="1584-11-13"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer von Gütern in Schaan und Vaduz. Ehemann von <ref target="1635">Margaretha Hilti</ref>.</p>
+              <p>Wohnhaft in Schaan. Besitzer von Gütern in Schaan und Vaduz. Ehemann von <ref target="1635">Margaretha Hilti</ref>. Stiefsohn von <ref target="1144">Adam Frick</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1500">
@@ -13464,13 +13660,14 @@
             </listBibl>
           </person>
           <person xml:id="lub-actors-1521">
-            <persName type="full" xml:lang="de">Rig, Andres (1568–1582)</persName>
-            <persName type="main" xml:lang="de">Rig, Andres</persName>
-            <persName type="sort" xml:lang="de">rig, andres</persName>
+            <persName type="full" xml:lang="de">Rig, Andreas (1568–1584)</persName>
+            <persName type="main" xml:lang="de">Rig, Andreas</persName>
+            <persName type="sort" xml:lang="de">rig, andreas</persName>
             <persName type="alternative" xml:lang="de">Reig, Andres</persName>
             <persName type="alternative" xml:lang="de">Riggen, Andre</persName>
+            <persName type="alternative" xml:lang="de">Rig, Andris</persName>
             <birth when="1568-04-28"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -13915,13 +14112,18 @@
             </note>
           </person>
           <person xml:id="lub-actors-1567">
-            <persName type="full" xml:lang="de">Hilti, Matthäus (1538–)</persName>
+            <persName type="full" xml:lang="de">Hilti, Matthäus (1538–1584)</persName>
             <persName type="main" xml:lang="de">Hilti, Matthäus</persName>
             <persName type="sort" xml:lang="de">hilti, matthaeus</persName>
             <persName type="alternative" xml:lang="de">Hilti, Theis</persName>
+            <persName type="alternative" xml:lang="de">Hültin, Theys</persName>
             <birth when="1538"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Inhaber eines Lehen in Vaduz.</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Inhaber eines Lehen in Vaduz.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1568">
@@ -14016,12 +14218,17 @@
             </note>
           </person>
           <person xml:id="lub-actors-1577">
-            <persName type="full" xml:lang="de">Marxer, Hans (1) (1538–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Hans (1) (1538–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Hans (1)</persName>
             <persName type="sort" xml:lang="de">marxer, hans (1)</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Hannß</persName>
             <birth when="1538"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Zinst in Schaan.</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Wohnhaft in Schaan.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1578">
@@ -14549,11 +14756,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1636">
-            <persName type="full" xml:lang="de">Brandiser, Sebastian (1586–)</persName>
+            <persName type="full" xml:lang="de">Brandiser, Sebastian (1584–1586)</persName>
             <persName type="main" xml:lang="de">Brandiser, Sebastian</persName>
             <persName type="sort" xml:lang="de">brandiser, sebastian</persName>
             <persName type="alternative" xml:lang="de">Brandiser, Bastion</persName>
-            <birth when="1586"/>
+            <persName type="alternative" xml:lang="de">Branndißer, Bastian</persName>
+            <birth when="1584-11-13"/>
+            <death when="1586"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz.</p>
             </note>
@@ -14745,11 +14954,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-1655">
-            <persName type="full" xml:lang="de">Jäger, Hans (2) (1613–)</persName>
+            <persName type="full" xml:lang="de">Jäger, Hans (2) (1584–1613)</persName>
             <persName type="main" xml:lang="de">Jäger, Hans (2)</persName>
             <persName type="sort" xml:lang="de">jaeger, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Jeger, Hannß</persName>
-            <birth when="1613"/>
+            <birth when="1584-11-13"/>
+            <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz. Ehemann von Barfla.</p>
             </note>
@@ -14774,10 +14984,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-1658">
-            <persName type="full" xml:lang="de">Hemmerle, Gallus (–1610)</persName>
+            <persName type="full" xml:lang="de">Hemmerle, Gallus (1584–1610)</persName>
             <persName type="main" xml:lang="de">Hemmerle, Gallus</persName>
             <persName type="sort" xml:lang="de">hemmerle, gallus</persName>
             <persName type="alternative" xml:lang="de">Hemerlin, Galluß</persName>
+            <persName type="alternative" xml:lang="de">Hemerli, Gallus</persName>
+            <birth when="1584-11-13"/>
             <death when="1610"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Vaduz. Ehemann von <ref target="1657">Margaretha Dietbrecht</ref>.</p>
@@ -14836,13 +15048,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-1665">
-            <persName type="full" xml:lang="de">Wohlwend, Leonhard (1) (1566–1582)</persName>
+            <persName type="full" xml:lang="de">Wohlwend, Leonhard (1) (1566–1584)</persName>
             <persName type="main" xml:lang="de">Wohlwend, Leonhard (1)</persName>
             <persName type="sort" xml:lang="de">wohlwend, leonhard (1)</persName>
             <persName type="alternative" xml:lang="de">Wolwennden, Liennhardt</persName>
             <persName type="alternative" xml:lang="de">Wolwenn, Leonnhart</persName>
+            <persName type="alternative" xml:lang="de">Wolwennden, Leonnhart</persName>
             <birth when="1566-11-11"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -14872,13 +15085,19 @@
             </note>
           </person>
           <person xml:id="lub-actors-1668">
-            <persName type="full" xml:lang="de">Wohlwend, Ulrich (1) (1568–)</persName>
+            <persName type="full" xml:lang="de">Wohlwend, Ulrich (1) (1568–1584)</persName>
             <persName type="main" xml:lang="de">Wohlwend, Ulrich (1)</persName>
             <persName type="sort" xml:lang="de">wohlwend, ulrich (1)</persName>
             <persName type="alternative" xml:lang="de">Wolwennd, Uli</persName>
+            <persName type="alternative" xml:lang="de">Wolwennden, Ulli</persName>
             <birth when="1568-11-11"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Wohnhaft in Bendern.</item>
+                <item>Kinder: <ref target="2153">Ulrich</ref> und <ref target="2154">Peter Wohlwend</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1669">
@@ -14926,22 +15145,24 @@
             </note>
           </person>
           <person xml:id="lub-actors-1671">
-            <persName type="full" xml:lang="de">Hertner, Agatha (1583–)</persName>
+            <persName type="full" xml:lang="de">Hertner, Agatha (1583–1584)</persName>
             <persName type="main" xml:lang="de">Hertner, Agatha</persName>
             <persName type="sort" xml:lang="de">hertner, agatha</persName>
             <persName type="alternative" xml:lang="de">Herttnerin, Agatha</persName>
+            <persName type="alternative" xml:lang="de">Hertterin, Agatha</persName>
             <birth when="1583-11-11"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Schwiegermutter von Georg Maurer, besitzt ein Grundstück in Bendern.</p>
+              <p>Schwiegermutter von <ref target="810">Georg Maurer</ref>, besitzt ein Grundstück in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1672">
-            <persName type="full" xml:lang="de">Schreiber, Ulrich (1582–1583)</persName>
+            <persName type="full" xml:lang="de">Schreiber, Ulrich (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schreiber, Ulrich</persName>
             <persName type="sort" xml:lang="de">schreiber, ulrich</persName>
             <persName type="alternative" xml:lang="de">Schreiber, Ullin</persName>
             <birth when="1582-07-06"/>
-            <death when="1583-11-11"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -14953,7 +15174,7 @@
             <persName type="alternative" xml:lang="de">Öri, Baltasar</persName>
             <birth when="1593-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Sohn des Landammanns <ref target="165">Hans Öhri (3)</ref>, Bruder von <ref target="1674">Lena</ref> und <ref target="1675">Martha Öhri</ref>.</p>
+              <p>Wohnhaft in Eschen. Sohn von Landammann <ref target="165">Hans Öhri</ref>. Bruder von <ref target="1674">Lena</ref>, <ref target="1675">Martha</ref>, <ref target="2190">Andreas</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1674">
@@ -14962,7 +15183,7 @@
             <persName type="sort" xml:lang="de">oehri, lena</persName>
             <birth when="1593-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Tochter von Ammann <ref target="165">Hans Öhri (3)</ref>, Schwester von <ref target="1673">Balthasar</ref> und <ref target="1675">Martha Öhri</ref>.</p>
+              <p>Wohnhaft in Eschen. Sohn von Landammann <ref target="165">Hans Öhri</ref>. Schwester von <ref target="1673">Balthasar</ref>, <ref target="1675">Martha</ref>, <ref target="2190">Andreas</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1675">
@@ -14972,7 +15193,7 @@
             <persName type="alternative" xml:lang="de">Örin, Marta</persName>
             <birth when="1593-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Tochter von Landammann <ref target="165">Hans Öhri (3)</ref>. Schwester von <ref target="1673">Balthasar</ref> und <ref target="1674">Lena Öhri</ref></p>
+              <p>Wohnhaft in Eschen. Sohn von Landammann <ref target="165">Hans Öhri</ref>. Schwester von <ref target="1673">Balthasar</ref>, <ref target="1674">Lena</ref>, <ref target="2190">Andreas</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1676">
@@ -14993,10 +15214,12 @@
             <persName type="sort" xml:lang="de">wanger, peter (2)</persName>
             <persName type="alternative" xml:lang="de">Wagner, Peter</persName>
             <persName type="alternative" xml:lang="de">Wangner, Petter</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Petter</persName>
+            <persName type="alternative" xml:lang="de">Wanngner, Petter</persName>
             <birth when="1582-07-06"/>
             <death when="1593-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <p>Wohnhaft in Eschen. Verwandt mit <ref target="2216">Ulrich</ref> und <ref target="2217">Magdalena Wanger</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1678">
@@ -15035,11 +15258,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1684">
-            <persName type="full" xml:lang="de">Gstöhl, Lanz (1582–)</persName>
+            <persName type="full" xml:lang="de">Gstöhl, Lanz (1582–1584)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Lanz</persName>
             <persName type="sort" xml:lang="de">gstoehl, lanz</persName>
             <persName type="alternative" xml:lang="de">Gstöl, Lanz</persName>
+            <persName type="alternative" xml:lang="de">Gstöl, Lennz</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15055,31 +15280,37 @@
             </note>
           </person>
           <person xml:id="lub-actors-1686">
-            <persName type="full" xml:lang="de">Singer, Luzius (1582–)</persName>
+            <persName type="full" xml:lang="de">Singer, Luzius (1582–1584)</persName>
             <persName type="main" xml:lang="de">Singer, Luzius</persName>
             <persName type="sort" xml:lang="de">singer, luzius</persName>
             <persName type="alternative" xml:lang="de">Singer, Luz</persName>
+            <persName type="alternative" xml:lang="de">Singner, Lutz</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1687">
-            <persName type="full" xml:lang="de">Knabenknecht, Georg (1582–)</persName>
+            <persName type="full" xml:lang="de">Knabenknecht, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Knabenknecht, Georg</persName>
             <persName type="sort" xml:lang="de">knabenknecht, georg</persName>
             <persName type="alternative" xml:lang="de">Knabenkhnecht, Georg</persName>
+            <persName type="alternative" xml:lang="de">Knabenkhnecht, Jeorg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1688">
-            <persName type="full" xml:lang="de">Schächle, Jos (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Schächle, Jos (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schächle, Jos (2)</persName>
             <persName type="sort" xml:lang="de">schaechle, jos (2)</persName>
             <persName type="alternative" xml:lang="de">Schechli, Joß</persName>
+            <persName type="alternative" xml:lang="de">Schächlin, Joß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15105,22 +15336,24 @@
             </note>
           </person>
           <person xml:id="lub-actors-1691">
-            <persName type="full" xml:lang="de">Walch, Dietrech (1582–)</persName>
+            <persName type="full" xml:lang="de">Walch, Dietrech (1582–1584)</persName>
             <persName type="main" xml:lang="de">Walch, Dietrech</persName>
             <persName type="sort" xml:lang="de">walch, dietrech</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern (Eschen?). Vater von <ref target="1692">Peter Walch</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1692">
-            <persName type="full" xml:lang="de">Walch, Peter (1582–)</persName>
+            <persName type="full" xml:lang="de">Walch, Peter (1582–1584)</persName>
             <persName type="main" xml:lang="de">Walch, Peter</persName>
             <persName type="sort" xml:lang="de">walch, peter</persName>
             <persName type="alternative" xml:lang="de">Walch, Petter</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern (Eschen?). Sohn von <ref target="1691">Dietrich Walch</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1693">
@@ -15134,21 +15367,24 @@
             </note>
           </person>
           <person xml:id="lub-actors-1694">
-            <persName type="full" xml:lang="de">Lampert, Paul (1582–)</persName>
+            <persName type="full" xml:lang="de">Lampert, Paul (1582–1584)</persName>
             <persName type="main" xml:lang="de">Lampert, Paul</persName>
             <persName type="sort" xml:lang="de">lampert, paul</persName>
             <persName type="alternative" xml:lang="de">Lampert, Pauli</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1695">
-            <persName type="full" xml:lang="de">Hasler, Georg (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Hasler, Georg (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Hasler, Georg (1)</persName>
             <persName type="sort" xml:lang="de">hasler, georg (1)</persName>
             <persName type="alternative" xml:lang="de">Haßler, Georg</persName>
+            <persName type="alternative" xml:lang="de">Haßler, Jeorg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15164,21 +15400,25 @@
             </note>
           </person>
           <person xml:id="lub-actors-1697">
-            <persName type="full" xml:lang="de">Bleichner, Leonhard (1582–)</persName>
+            <persName type="full" xml:lang="de">Bleichner, Leonhard (1582–1584)</persName>
             <persName type="main" xml:lang="de">Bleichner, Leonhard</persName>
             <persName type="sort" xml:lang="de">bleichner, leonhard</persName>
             <persName type="alternative" xml:lang="de">Blaicher, Leonhart</persName>
+            <persName type="alternative" xml:lang="de">Blaichner, Leonnhart</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1698">
-            <persName type="full" xml:lang="de">Kind, Georg (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Kind, Georg (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kind, Georg (1)</persName>
             <persName type="sort" xml:lang="de">kind, georg (1)</persName>
             <persName type="alternative" xml:lang="de">Kindt, Georg</persName>
+            <persName type="alternative" xml:lang="de">Kind, Jeorg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15193,81 +15433,93 @@
             </note>
           </person>
           <person xml:id="lub-actors-1700">
-            <persName type="full" xml:lang="de">Mader, Valentin (1582–)</persName>
+            <persName type="full" xml:lang="de">Mader, Valentin (1582–1584)</persName>
             <persName type="main" xml:lang="de">Mader, Valentin</persName>
             <persName type="sort" xml:lang="de">mader, valentin</persName>
             <persName type="alternative" xml:lang="de">Mader, Vallenthin</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1701">
-            <persName type="full" xml:lang="de">Wanger, Hug (1582–)</persName>
+            <persName type="full" xml:lang="de">Wanger, Hug (1582–1584)</persName>
             <persName type="main" xml:lang="de">Wanger, Hug</persName>
             <persName type="sort" xml:lang="de">wanger, hug</persName>
             <persName type="alternative" xml:lang="de">Wanngner, Haug</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1702">
-            <persName type="full" xml:lang="de">Kind, Matthias (1582–)</persName>
+            <persName type="full" xml:lang="de">Kind, Matthias (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kind, Matthias</persName>
             <persName type="sort" xml:lang="de">kind, matthias</persName>
             <persName type="alternative" xml:lang="de">Kind, Thys</persName>
+            <persName type="alternative" xml:lang="de">Kindt, Theis</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1703">
-            <persName type="full" xml:lang="de">Näscher, Diepolt (1582–)</persName>
+            <persName type="full" xml:lang="de">Näscher, Diepolt (1582–1584)</persName>
             <persName type="main" xml:lang="de">Näscher, Diepolt</persName>
             <persName type="sort" xml:lang="de">naescher, diepolt</persName>
             <persName type="alternative" xml:lang="de">Nescher, Diepolt</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern (Gamprin?).</p>
             </note>
           </person>
           <person xml:id="lub-actors-1704">
-            <persName type="full" xml:lang="de">Müssner, Jos (1582–)</persName>
+            <persName type="full" xml:lang="de">Müssner, Jos (1582–1584)</persName>
             <persName type="main" xml:lang="de">Müssner, Jos</persName>
             <persName type="sort" xml:lang="de">muessner, jos</persName>
             <persName type="alternative" xml:lang="de">Mösner, Joß</persName>
+            <persName type="alternative" xml:lang="de">Müßner, Joß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1705">
-            <persName type="full" xml:lang="de">Kaufmann, Sebastian (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Kaufmann, Sebastian (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kaufmann, Sebastian (1)</persName>
             <persName type="sort" xml:lang="de">kaufmann, sebastian (1)</persName>
             <persName type="alternative" xml:lang="de">Kaufman, Bastian</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern. Vater von <ref target="2161">Christian Kaufmann</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1706">
-            <persName type="full" xml:lang="de">Öhri, Michael (1582–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Michael (1582–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Michael</persName>
             <persName type="sort" xml:lang="de">oehri, michael</persName>
             <persName type="alternative" xml:lang="de">Öri, Michl</persName>
+            <persName type="alternative" xml:lang="de">Örin, Michl</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1707">
-            <persName type="full" xml:lang="de">Ribi, Anton (1582–)</persName>
+            <persName type="full" xml:lang="de">Ribi, Anton (1582–1584)</persName>
             <persName type="main" xml:lang="de">Ribi, Anton</persName>
             <persName type="sort" xml:lang="de">ribi, anton</persName>
             <persName type="alternative" xml:lang="de">Rybi, Thöni</persName>
+            <persName type="alternative" xml:lang="de">Rüby, Thonny</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15283,11 +15535,14 @@
             </note>
           </person>
           <person xml:id="lub-actors-1709">
-            <persName type="full" xml:lang="de">Risch, Christian (1582–)</persName>
+            <persName type="full" xml:lang="de">Risch, Christian (1582–1584)</persName>
             <persName type="main" xml:lang="de">Risch, Christian</persName>
             <persName type="sort" xml:lang="de">risch, christian</persName>
             <persName type="alternative" xml:lang="de">Reysch, Crista</persName>
+            <persName type="alternative" xml:lang="de">Reisch, Christa</persName>
+            <persName type="alternative" xml:lang="de">Rüsch, Crista</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15303,51 +15558,61 @@
             </note>
           </person>
           <person xml:id="lub-actors-1711">
-            <persName type="full" xml:lang="de">Fehr, Hans (1582–)</persName>
+            <persName type="full" xml:lang="de">Fehr, Hans (1582–1584)</persName>
             <persName type="main" xml:lang="de">Fehr, Hans</persName>
             <persName type="sort" xml:lang="de">fehr, hans</persName>
             <persName type="alternative" xml:lang="de">Feern, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Ferr, Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1713">
-            <persName type="full" xml:lang="de">Walch, Luzius (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Walch, Luzius (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Walch, Luzius (1)</persName>
             <persName type="sort" xml:lang="de">walch, luzius (1)</persName>
             <persName type="alternative" xml:lang="de">Walch, Luz</persName>
+            <persName type="alternative" xml:lang="de">Walch, Lutz</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-15"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1715">
-            <persName type="full" xml:lang="de">Werner, Jos (1582–)</persName>
+            <persName type="full" xml:lang="de">Werner, Jos (1582–1584)</persName>
             <persName type="main" xml:lang="de">Werner, Jos</persName>
             <persName type="sort" xml:lang="de">werner, jos</persName>
             <persName type="alternative" xml:lang="de">Vernner, Joß</persName>
+            <persName type="alternative" xml:lang="de">Werner, Joß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1716">
-            <persName type="full" xml:lang="de">Werner, Peter (1582–)</persName>
+            <persName type="full" xml:lang="de">Werner, Peter (1582–1584)</persName>
             <persName type="main" xml:lang="de">Werner, Peter</persName>
             <persName type="sort" xml:lang="de">werner, peter</persName>
             <persName type="alternative" xml:lang="de">Vernner, Petter</persName>
+            <persName type="alternative" xml:lang="de">Wehrner, Petter</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1717">
-            <persName type="full" xml:lang="de">Gstöhl, Peter (1582–)</persName>
+            <persName type="full" xml:lang="de">Gstöhl, Peter (1582–1584)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Peter</persName>
             <persName type="sort" xml:lang="de">gstoehl, peter</persName>
             <persName type="alternative" xml:lang="de">Gstöl, Petter</persName>
+            <persName type="alternative" xml:lang="de">Gestel, Petter</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -15363,91 +15628,106 @@
             </note>
           </person>
           <person xml:id="lub-actors-1719">
-            <persName type="full" xml:lang="de">Zech, Marx (1582–)</persName>
+            <persName type="full" xml:lang="de">Zech, Marx (1582–1584)</persName>
             <persName type="main" xml:lang="de">Zech, Marx</persName>
             <persName type="sort" xml:lang="de">zech, marx</persName>
             <persName type="alternative" xml:lang="de">Zächen, Marx</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1720">
-            <persName type="full" xml:lang="de">Strauss, Christian (1582–)</persName>
+            <persName type="full" xml:lang="de">Strauss, Christian (1582–1584)</persName>
             <persName type="main" xml:lang="de">Strauss, Christian</persName>
             <persName type="sort" xml:lang="de">strauss, christian</persName>
             <persName type="alternative" xml:lang="de">Strauß, Crista</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1721">
-            <persName type="full" xml:lang="de">Egli, Michael (1582–)</persName>
+            <persName type="full" xml:lang="de">Egli, Michael (1582–1584)</persName>
             <persName type="main" xml:lang="de">Egli, Michael</persName>
             <persName type="sort" xml:lang="de">egli, michael</persName>
             <persName type="alternative" xml:lang="de">Egli, Michl</persName>
+            <persName type="alternative" xml:lang="de">Eglin, Michael</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1722">
-            <persName type="full" xml:lang="de">Zech, Peter (1582–)</persName>
+            <persName type="full" xml:lang="de">Zech, Peter (1582–1584)</persName>
             <persName type="main" xml:lang="de">Zech, Peter</persName>
             <persName type="sort" xml:lang="de">zech, peter</persName>
             <persName type="alternative" xml:lang="de">Zächen, Petter</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1723">
-            <persName type="full" xml:lang="de">Bläsi, Hans (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Bläsi, Hans (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Bläsi, Hans (2)</persName>
             <persName type="sort" xml:lang="de">blaesi, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Blesi, Jung Hannß</persName>
+            <persName type="alternative" xml:lang="de">Bläßy, Jung Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1724">
-            <persName type="full" xml:lang="de">Bläsi, Hans (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Bläsi, Hans (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Bläsi, Hans (1)</persName>
             <persName type="sort" xml:lang="de">blaesi, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Blesi, Alt Hannß</persName>
+            <persName type="alternative" xml:lang="de">Bläßy, Aldt Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Vater von <ref target="1952">Hans (3)</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1725">
-            <persName type="full" xml:lang="de">Bläsi, Kaspar (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Bläsi, Kaspar (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Bläsi, Kaspar (2)</persName>
             <persName type="sort" xml:lang="de">blaesi, kaspar (2)</persName>
             <persName type="alternative" xml:lang="de">Blesi, Caspar</persName>
+            <persName type="alternative" xml:lang="de">Bläsy, Caspar</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1726">
-            <persName type="full" xml:lang="de">Kaiser, Matthäus (1582–)</persName>
+            <persName type="full" xml:lang="de">Kaiser, Matthäus (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kaiser, Matthäus</persName>
             <persName type="sort" xml:lang="de">kaiser, matthaeus</persName>
             <persName type="alternative" xml:lang="de">Kayser, Debus</persName>
+            <persName type="alternative" xml:lang="de">Kaißer, Theuß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1727">
-            <persName type="full" xml:lang="de">Zimmermann, Blasius (1582–)</persName>
+            <persName type="full" xml:lang="de">Zimmermann, Blasius (1582–1584)</persName>
             <persName type="main" xml:lang="de">Zimmermann, Blasius</persName>
             <persName type="sort" xml:lang="de">zimmermann, blasius</persName>
             <persName type="alternative" xml:lang="de">Zimerman, Blesi</persName>
+            <persName type="alternative" xml:lang="de">Zümerman, Bläßy</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15463,120 +15743,142 @@
             </note>
           </person>
           <person xml:id="lub-actors-1729">
-            <persName type="full" xml:lang="de">Heeb, Adam (1582–)</persName>
+            <persName type="full" xml:lang="de">Heeb, Adam (1582–1584)</persName>
             <persName type="main" xml:lang="de">Heeb, Adam</persName>
             <persName type="sort" xml:lang="de">heeb, adam</persName>
             <persName type="alternative" xml:lang="de">Howen, Adam</persName>
+            <persName type="alternative" xml:lang="de">Hew, Adam</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1731">
-            <persName type="full" xml:lang="de">Schweiss, Bartholomeus (1582–)</persName>
+            <persName type="full" xml:lang="de">Schweiss, Bartholomeus (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schweiss, Bartholomeus</persName>
             <persName type="sort" xml:lang="de">schweiss, bartholomeus</persName>
             <persName type="alternative" xml:lang="de">Schwaiß, Bartli</persName>
+            <persName type="alternative" xml:lang="de">Schwaiß, Barthlome</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern. Vater von <ref target="2166">Hans Schweiss</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1732">
-            <persName type="full" xml:lang="de">Alber, Hans (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Alber, Hans (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Alber, Hans (2)</persName>
             <persName type="sort" xml:lang="de">alber, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Alber, Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <list>
+                <item>Wohnhaft in Bendern.</item>
+                <item>Kinder: <ref target="2163">Jakob</ref>, <ref target="2164">Andreas</ref> und <ref target="2165">Anna</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1733">
-            <persName type="full" xml:lang="de">Fehr, Jos (3) (1582–)</persName>
+            <persName type="full" xml:lang="de">Fehr, Jos (3) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Fehr, Jos (3)</persName>
             <persName type="sort" xml:lang="de">fehr, jos (3)</persName>
-            <persName type="alternative" xml:lang="de">Feeren, Joß</persName>
+            <persName type="alternative" xml:lang="de">Feer, Joß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1734">
-            <persName type="full" xml:lang="de">Mader, Christa (1582–)</persName>
-            <persName type="main" xml:lang="de">Mader, Christa</persName>
-            <persName type="sort" xml:lang="de">mader, christa</persName>
+            <persName type="full" xml:lang="de">Mader, Christian (1582–1584)</persName>
+            <persName type="main" xml:lang="de">Mader, Christian</persName>
+            <persName type="sort" xml:lang="de">mader, christian</persName>
             <persName type="alternative" xml:lang="de">Mader, Crista</persName>
+            <persName type="alternative" xml:lang="de">Mader, Christa</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1735">
-            <persName type="full" xml:lang="de">Mader, Hans (4) (1582–)</persName>
+            <persName type="full" xml:lang="de">Mader, Hans (4) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Mader, Hans (4)</persName>
             <persName type="sort" xml:lang="de">mader, hans (4)</persName>
             <persName type="alternative" xml:lang="de">Mader, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Mader, Hanss</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <p>Wohnhaft in Rofaberg (Eschen).</p>
             </note>
           </person>
           <person xml:id="lub-actors-1736">
-            <persName type="full" xml:lang="de">Herwert, Wolf (1582–)</persName>
+            <persName type="full" xml:lang="de">Herwert, Wolf (1582–1584)</persName>
             <persName type="main" xml:lang="de">Herwert, Wolf</persName>
             <persName type="sort" xml:lang="de">herwert, wolf</persName>
+            <persName type="alternative" xml:lang="de">Hörwardt, Wolff</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1737">
-            <persName type="full" xml:lang="de">Fetzer, Thomas (1582–)</persName>
+            <persName type="full" xml:lang="de">Fetzer, Thomas (1582–1584)</persName>
             <persName type="main" xml:lang="de">Fetzer, Thomas</persName>
             <persName type="sort" xml:lang="de">fetzer, thomas</persName>
-            <persName type="alternative" xml:lang="de">Fetzer, Thoma</persName>
+            <persName type="alternative" xml:lang="de">Fetzer, Thoman</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1738">
-            <persName type="full" xml:lang="de">Strub, Thomas (1582–)</persName>
+            <persName type="full" xml:lang="de">Strub, Thomas (1582–1584)</persName>
             <persName type="main" xml:lang="de">Strub, Thomas</persName>
             <persName type="sort" xml:lang="de">strub, thomas</persName>
             <persName type="alternative" xml:lang="de">Straub, Thoma</persName>
+            <persName type="alternative" xml:lang="de">Straub, Thoman</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1739">
-            <persName type="full" xml:lang="de">Strub, Jakob (1582–)</persName>
+            <persName type="full" xml:lang="de">Strub, Jakob (1582–1584)</persName>
             <persName type="main" xml:lang="de">Strub, Jakob</persName>
             <persName type="sort" xml:lang="de">strub, jakob</persName>
             <persName type="alternative" xml:lang="de">Straub, Jacob</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1740">
-            <persName type="full" xml:lang="de">Graf, Georg (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Graf, Georg (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Graf, Georg (1)</persName>
             <persName type="sort" xml:lang="de">graf, georg (1)</persName>
             <persName type="alternative" xml:lang="de">Grawen, Georg</persName>
+            <persName type="alternative" xml:lang="de">Graw, Giörg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1741">
-            <persName type="full" xml:lang="de">Graf, Georg (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Graf, Georg (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Graf, Georg (2)</persName>
             <persName type="sort" xml:lang="de">graf, georg (2)</persName>
-            <persName type="alternative" xml:lang="de">Georg</persName>
+            <persName type="alternative" xml:lang="de">Graw, Giörg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen. Sohn von <ref target="1742">Hans Graf</ref>.</p>
             </note>
@@ -15592,13 +15894,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1744">
-            <persName type="full" xml:lang="de">Gstöhl, Hans (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Gstöhl, Hans (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Hans (1)</persName>
             <persName type="sort" xml:lang="de">gstoehl, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Gstöl, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Gestell, Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <p>Wohnhaft in Eschen. Schuhmacher.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1745">
@@ -15606,80 +15910,92 @@
             <persName type="main" xml:lang="de">Öhri, Peter (1)</persName>
             <persName type="sort" xml:lang="de">oehri, peter (1)</persName>
             <persName type="alternative" xml:lang="de">Öri, Alt Peter</persName>
+            <persName type="alternative" xml:lang="de">Örry, Petter</persName>
             <birth when="1582-07-06"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1746">
-            <persName type="full" xml:lang="de">Schreiber, Jakob (2) (1579–1582)</persName>
+            <persName type="full" xml:lang="de">Schreiber, Jakob (2) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Schreiber, Jakob (2)</persName>
             <persName type="sort" xml:lang="de">schreiber, jakob (2)</persName>
             <persName type="alternative" xml:lang="de">Schreiber, Jung Jacob</persName>
+            <persName type="alternative" xml:lang="de">Schreiber der Jung, Jacob</persName>
             <birth when="1579-08-17"/>
-            <death when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1747">
-            <persName type="full" xml:lang="de">Schlipfer, Vest (1582–)</persName>
+            <persName type="full" xml:lang="de">Schlipfer, Vest (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schlipfer, Vest</persName>
             <persName type="sort" xml:lang="de">schlipfer, vest</persName>
             <persName type="alternative" xml:lang="de">Schlipffer, Vest</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1748">
-            <persName type="full" xml:lang="de">Öhri, Georg (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Georg (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Georg (2)</persName>
             <persName type="sort" xml:lang="de">oehri, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Öri, Georg</persName>
+            <persName type="alternative" xml:lang="de">Örin, Jeorg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern. Sohn von <ref target="2179">Heinrich Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1749">
-            <persName type="full" xml:lang="de">Strub, Jakob (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Strub, Jakob (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Strub, Jakob (1)</persName>
             <persName type="sort" xml:lang="de">strub, jakob (1)</persName>
             <persName type="alternative" xml:lang="de">Straub, Jacob</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <p>Wohnhaft in Eschen in Mösma.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1750">
-            <persName type="full" xml:lang="de">Fehr, Andreas (1582–)</persName>
+            <persName type="full" xml:lang="de">Fehr, Andreas (1582–1584)</persName>
             <persName type="main" xml:lang="de">Fehr, Andreas</persName>
             <persName type="sort" xml:lang="de">fehr, andreas</persName>
             <persName type="alternative" xml:lang="de">Feer, Andras</persName>
+            <persName type="alternative" xml:lang="de">Feer, Anndriß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1751">
-            <persName type="full" xml:lang="de">Grabherr, Michael (1582–)</persName>
+            <persName type="full" xml:lang="de">Grabherr, Michael (1582–1584)</persName>
             <persName type="main" xml:lang="de">Grabherr, Michael</persName>
             <persName type="sort" xml:lang="de">grabherr, michael</persName>
             <persName type="alternative" xml:lang="de">Grabher, Michael</persName>
+            <persName type="alternative" xml:lang="de">Grabher, Michl</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1752">
-            <persName type="full" xml:lang="de">Kind, Georg (1582–)</persName>
+            <persName type="full" xml:lang="de">Kind, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kind, Georg</persName>
             <persName type="sort" xml:lang="de">kind, georg</persName>
             <persName type="alternative" xml:lang="de">Kind, Jung Jerg</persName>
+            <persName type="alternative" xml:lang="de">Kindt, Jeorg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern.</p>
+              <p>Wohnhaft in Bendern. Stiefkinder: Georg, Jacob und Anna.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1754">
@@ -15713,11 +16029,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1757">
-            <persName type="full" xml:lang="de">Spalt, Konrad (1582–)</persName>
+            <persName type="full" xml:lang="de">Spalt, Konrad (1582–1584)</persName>
             <persName type="main" xml:lang="de">Spalt, Konrad</persName>
             <persName type="sort" xml:lang="de">spalt, konrad</persName>
             <persName type="alternative" xml:lang="de">Spalten, Conradt</persName>
+            <persName type="alternative" xml:lang="de">Spalt, Connradt</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -15733,101 +16051,123 @@
             </note>
           </person>
           <person xml:id="lub-actors-1759">
-            <persName type="full" xml:lang="de">Büchel, Andreas (1582–)</persName>
+            <persName type="full" xml:lang="de">Büchel, Andreas (1582–1584)</persName>
             <persName type="main" xml:lang="de">Büchel, Andreas</persName>
             <persName type="sort" xml:lang="de">buechel, andreas</persName>
             <persName type="alternative" xml:lang="de">Püchl, Andres</persName>
+            <persName type="alternative" xml:lang="de">Büchl, Anndriß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1760">
-            <persName type="full" xml:lang="de">Öhri, Hans (7) (1582–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Hans (7) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Hans (7)</persName>
             <persName type="sort" xml:lang="de">oehri, hans (7)</persName>
             <persName type="alternative" xml:lang="de">Öri, Hanß</persName>
+            <persName type="alternative" xml:lang="de">Örry, Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Sohn des Weibels.</p>
+              <p>Wohnhaft in Eschen. Sohn des Weibels <ref target="1080">Bartholomäus Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1761">
-            <persName type="full" xml:lang="de">Senti, Georg (1582–)</persName>
+            <persName type="full" xml:lang="de">Senti, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Senti, Georg</persName>
             <persName type="sort" xml:lang="de">senti, georg</persName>
             <persName type="alternative" xml:lang="de">Sennti, Georg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1762">
-            <persName type="full" xml:lang="de">Senti, Rudolf (1582–)</persName>
+            <persName type="full" xml:lang="de">Senti, Rudolf (1582–1584)</persName>
             <persName type="main" xml:lang="de">Senti, Rudolf</persName>
             <persName type="sort" xml:lang="de">senti, rudolf</persName>
             <persName type="alternative" xml:lang="de">Sennti, Rudolf</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1763">
-            <persName type="full" xml:lang="de">Senti, Ulrich (1582–)</persName>
+            <persName type="full" xml:lang="de">Senti, Ulrich (1582–1584)</persName>
             <persName type="main" xml:lang="de">Senti, Ulrich</persName>
             <persName type="sort" xml:lang="de">senti, ulrich</persName>
             <persName type="alternative" xml:lang="de">Sennti, Ulrich</persName>
+            <persName type="alternative" xml:lang="de">Sentte, Ulrich</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-01-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1764">
-            <persName type="full" xml:lang="de">Kranz, Hug (3) (1582–)</persName>
+            <persName type="full" xml:lang="de">Kranz, Hug (3) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kranz, Hug (3)</persName>
             <persName type="sort" xml:lang="de">kranz, hug (3)</persName>
             <persName type="alternative" xml:lang="de">Krannz, Haug</persName>
+            <persName type="alternative" xml:lang="de">Krantz, Haug</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1765">
-            <persName type="full" xml:lang="de">Wanger, Andreas (1582–)</persName>
+            <persName type="full" xml:lang="de">Wanger, Andreas (1582–1584)</persName>
             <persName type="main" xml:lang="de">Wanger, Andreas</persName>
             <persName type="sort" xml:lang="de">wanger, andreas</persName>
             <persName type="alternative" xml:lang="de">Wagner, Andras</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Andreas</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Andree</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen.</p>
+              <list>
+                <item>† vor dem 13.11.1584.</item>
+                <item>Wohnhaft in Eschen.</item>
+                <item>Sohn: <ref target="2227">Peter Wanger</ref>.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1766">
-            <persName type="full" xml:lang="de">Wanger, Bernhard (1582–)</persName>
+            <persName type="full" xml:lang="de">Wanger, Bernhard (1582–1584)</persName>
             <persName type="main" xml:lang="de">Wanger, Bernhard</persName>
             <persName type="sort" xml:lang="de">wanger, bernhard</persName>
             <persName type="alternative" xml:lang="de">Wanger, Bernhart</persName>
+            <persName type="alternative" xml:lang="de">Wagner, Berenhart</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1768">
-            <persName type="full" xml:lang="de">Schreiber, Jakob (3) (1582–)</persName>
+            <persName type="full" xml:lang="de">Schreiber, Jakob (3) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schreiber, Jakob (3)</persName>
             <persName type="sort" xml:lang="de">schreiber, jakob (3)</persName>
             <persName type="alternative" xml:lang="de">Schreiber, Jacob</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren.</p>
+              <p>Wohnhaft in Mauren. Sohn von <ref target="2240">Peter Schreiber</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1769">
-            <persName type="full" xml:lang="de">Frick, Hieronymus (1582–)</persName>
+            <persName type="full" xml:lang="de">Frick, Hieronymus (1582–1584)</persName>
             <persName type="main" xml:lang="de">Frick, Hieronymus</persName>
             <persName type="sort" xml:lang="de">frick, hieronymus</persName>
             <persName type="alternative" xml:lang="de">Frickh, Roni</persName>
+            <persName type="alternative" xml:lang="de">Frick, Ronny</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -15854,40 +16194,45 @@
             </note>
           </person>
           <person xml:id="lub-actors-1772">
-            <persName type="full" xml:lang="de">Marxer, Leonhart (1582–)</persName>
-            <persName type="main" xml:lang="de">Marxer, Leonhart</persName>
-            <persName type="sort" xml:lang="de">marxer, leonhart</persName>
+            <persName type="full" xml:lang="de">Marxer, Leonhard (1582–)</persName>
+            <persName type="main" xml:lang="de">Marxer, Leonhard</persName>
+            <persName type="sort" xml:lang="de">marxer, leonhard</persName>
             <birth when="1582-07-06"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren. Enkel (?) von <ref target="217">Ulrich Fehr</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1773">
-            <persName type="full" xml:lang="de">Marxer, Peter (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Peter (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Peter (1)</persName>
             <persName type="sort" xml:lang="de">marxer, peter (1)</persName>
             <persName type="alternative" xml:lang="de">Marxer, Petter</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1774">
-            <persName type="full" xml:lang="de">Gassner, Kaspar (1582–)</persName>
+            <persName type="full" xml:lang="de">Gassner, Kaspar (1582–1584)</persName>
             <persName type="main" xml:lang="de">Gassner, Kaspar</persName>
             <persName type="sort" xml:lang="de">gassner, kaspar</persName>
             <persName type="alternative" xml:lang="de">Gasner, Caspar</persName>
+            <persName type="alternative" xml:lang="de">Gaßner, Caspar</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1775">
-            <persName type="full" xml:lang="de">Kranz, Sebastian (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Kranz, Sebastian (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Kranz, Sebastian (1)</persName>
             <persName type="sort" xml:lang="de">kranz, sebastian (1)</persName>
             <persName type="alternative" xml:lang="de">Kranz, Bastian</persName>
+            <persName type="alternative" xml:lang="de">Krantz, Bastian</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -15903,49 +16248,58 @@
             </note>
           </person>
           <person xml:id="lub-actors-1777">
-            <persName type="full" xml:lang="de">Marxer, Bernhard (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Bernhard (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Bernhard (2)</persName>
             <persName type="sort" xml:lang="de">marxer, bernhard (2)</persName>
             <persName type="alternative" xml:lang="de">Marxn, Bernnhart</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Berenhart</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren.</p>
+              <p>Wohnhaft in Mauren. Vater von <ref target="1180">Andreas Marxer</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1778">
-            <persName type="full" xml:lang="de">Fehr, Adam (1582–)</persName>
+            <persName type="full" xml:lang="de">Fehr, Adam (1582–1584)</persName>
             <persName type="main" xml:lang="de">Fehr, Adam</persName>
             <persName type="sort" xml:lang="de">fehr, adam</persName>
             <persName type="alternative" xml:lang="de">Feer, Adam</persName>
+            <persName type="alternative" xml:lang="de">Ferr, Adam</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1779">
-            <persName type="full" xml:lang="de">Marxer, Rudolf (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Rudolf (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Rudolf (1)</persName>
             <persName type="sort" xml:lang="de">marxer, rudolf (1)</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Rudolff</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1780">
-            <persName type="full" xml:lang="de">Marxer, Adam (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Adam (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Adam (2)</persName>
             <persName type="sort" xml:lang="de">marxer, adam (2)</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1781">
-            <persName type="full" xml:lang="de">Marxer, Bartholomäus (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Bartholomäus (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Bartholomäus</persName>
             <persName type="sort" xml:lang="de">marxer, bartholomaeus</persName>
             <persName type="alternative" xml:lang="de">Marxer, Bartlome</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Barttel</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -15961,23 +16315,15 @@
             </note>
           </person>
           <person xml:id="lub-actors-1783">
-            <persName type="full" xml:lang="de">Fehr, Jakob (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Fehr, Jakob (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Fehr, Jakob (1)</persName>
             <persName type="sort" xml:lang="de">fehr, jakob (1)</persName>
             <persName type="alternative" xml:lang="de">Feer, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Ferr, Jacob</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren.</p>
-            </note>
-          </person>
-          <person xml:id="lub-actors-1784">
-            <persName type="full" xml:lang="de">Glarner, Ulrich (1) (1582–)</persName>
-            <persName type="main" xml:lang="de">Glarner, Ulrich (1)</persName>
-            <persName type="sort" xml:lang="de">glarner, ulrich (1)</persName>
-            <persName type="alternative" xml:lang="de">Glarnner, Ulli</persName>
-            <birth when="1582-07-06"/>
-            <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren.</p>
+              <p>Wohnhaft in Mauren. Sohn des Ammanns.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1785">
@@ -15991,11 +16337,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-1786">
-            <persName type="full" xml:lang="de">Morhard, Georg (1582–)</persName>
+            <persName type="full" xml:lang="de">Morhard, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Morhard, Georg</persName>
             <persName type="sort" xml:lang="de">morhard, georg</persName>
             <persName type="alternative" xml:lang="de">Morhart, Georg</persName>
+            <persName type="alternative" xml:lang="de">Morhart, Giörg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -16027,7 +16375,10 @@
             <persName type="alternative" xml:lang="de">Strauben, Hannß</persName>
             <birth when="1582-07-06"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren.</p>
+              <list>
+                <item>† zwischen 1582 und 13.11.1584.</item>
+                <item>Wohnhaft in Mauren.</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-1790">
@@ -16041,79 +16392,94 @@
             </note>
           </person>
           <person xml:id="lub-actors-1791">
-            <persName type="full" xml:lang="de">Mündle, Christian (1582–)</persName>
+            <persName type="full" xml:lang="de">Mündle, Christian (1582–1584)</persName>
             <persName type="main" xml:lang="de">Mündle, Christian</persName>
             <persName type="sort" xml:lang="de">muendle, christian</persName>
             <persName type="alternative" xml:lang="de">Mündli, Crista</persName>
+            <persName type="alternative" xml:lang="de">Mündtlin, Christa</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren. Stiefvater von <ref target="1792">Peter Wohlwend (1)</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1792">
-            <persName type="full" xml:lang="de">Wohlwend, Peter (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Wohlwend, Peter (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Wohlwend, Peter (2)</persName>
             <persName type="sort" xml:lang="de">wohlwend, peter (2)</persName>
             <persName type="alternative" xml:lang="de">Wolweenn, Petter</persName>
+            <persName type="alternative" xml:lang="de">Wolwendt, Petter</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren. Stiefsohn von <ref target="1791">Christian Mündle</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1793">
-            <persName type="full" xml:lang="de">Ganteli, Jakob (1582–)</persName>
+            <persName type="full" xml:lang="de">Ganteli, Jakob (1582–1584)</persName>
             <persName type="main" xml:lang="de">Ganteli, Jakob</persName>
             <persName type="sort" xml:lang="de">ganteli, jakob</persName>
             <persName type="alternative" xml:lang="de">Ganteli Jung, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Ganntely, Jung Jacob</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1794">
-            <persName type="full" xml:lang="de">Allgäuer, Lenz (1582–)</persName>
-            <persName type="main" xml:lang="de">Allgäuer, Lenz</persName>
-            <persName type="sort" xml:lang="de">allgaeuer, lenz</persName>
+            <persName type="full" xml:lang="de">Allgäuer, Lorenz (1582–1584)</persName>
+            <persName type="main" xml:lang="de">Allgäuer, Lorenz</persName>
+            <persName type="sort" xml:lang="de">allgaeuer, lorenz</persName>
             <persName type="alternative" xml:lang="de">Allgewer, Lennz</persName>
+            <persName type="alternative" xml:lang="de">Algewer, Lenntz</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1795">
-            <persName type="full" xml:lang="de">Walch, Georg (1582–)</persName>
+            <persName type="full" xml:lang="de">Walch, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Walch, Georg</persName>
             <persName type="sort" xml:lang="de">walch, georg</persName>
+            <persName type="alternative" xml:lang="de">Walch, Jeorg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1796">
-            <persName type="full" xml:lang="de">Walch, Leonhard (1582–)</persName>
+            <persName type="full" xml:lang="de">Walch, Leonhard (1582–1584)</persName>
             <persName type="main" xml:lang="de">Walch, Leonhard</persName>
             <persName type="sort" xml:lang="de">walch, leonhard</persName>
             <persName type="alternative" xml:lang="de">Walch, Leonnhart</persName>
+            <persName type="alternative" xml:lang="de">Walch, Leonhart</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1798">
-            <persName type="full" xml:lang="de">Marxer, Georg (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Georg (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Georg</persName>
             <persName type="sort" xml:lang="de">marxer, georg</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Giörg</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1799">
-            <persName type="full" xml:lang="de">Marxer, Sebastian (1582–)</persName>
+            <persName type="full" xml:lang="de">Marxer, Sebastian (1582–1584)</persName>
             <persName type="main" xml:lang="de">Marxer, Sebastian</persName>
             <persName type="sort" xml:lang="de">marxer, sebastian</persName>
-            <persName type="alternative" xml:lang="de">Marxer, Bastion</persName>
+            <persName type="alternative" xml:lang="de">Marxer, Bastian</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -16123,47 +16489,44 @@
             <persName type="main" xml:lang="de">Ganteli, Jakob (1)</persName>
             <persName type="sort" xml:lang="de">ganteli, jakob (1)</persName>
             <persName type="alternative" xml:lang="de">Ganndeli, Jacob</persName>
+            <persName type="alternative" xml:lang="de">Gandtelly, Aldt Jacob</persName>
             <birth when="1582-07-06"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1801">
-            <persName type="full" xml:lang="de">Wohlwend, Leonhard (2) (1582–)</persName>
+            <persName type="full" xml:lang="de">Wohlwend, Leonhard (2) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Wohlwend, Leonhard (2)</persName>
             <persName type="sort" xml:lang="de">wohlwend, leonhard (2)</persName>
             <persName type="alternative" xml:lang="de">Wolwen, Leonnhart</persName>
+            <persName type="alternative" xml:lang="de">Wolwenndt, Leonhart</persName>
             <birth when="1582-07-06"/>
-            <note type="description" xml:lang="de">
-              <p>Wohnhaft in Mauren.</p>
-            </note>
-          </person>
-          <person xml:id="lub-actors-1802">
-            <persName type="full" xml:lang="de">Marxer, Andreas (2) (1582–)</persName>
-            <persName type="main" xml:lang="de">Marxer, Andreas (2)</persName>
-            <persName type="sort" xml:lang="de">marxer, andreas (2)</persName>
-            <persName type="alternative" xml:lang="de">Marxer, Andras</persName>
-            <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1803">
-            <persName type="full" xml:lang="de">Schmied, Michael (1) (1582–)</persName>
+            <persName type="full" xml:lang="de">Schmied, Michael (1) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schmied, Michael (1)</persName>
             <persName type="sort" xml:lang="de">schmied, michael (1)</persName>
             <persName type="alternative" xml:lang="de">Schmid, Michl</persName>
+            <persName type="alternative" xml:lang="de">Schmidt, Michel</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1804">
-            <persName type="full" xml:lang="de">Schächle, Bartholomäus (1582–)</persName>
+            <persName type="full" xml:lang="de">Schächle, Bartholomäus (1582–1584)</persName>
             <persName type="main" xml:lang="de">Schächle, Bartholomäus</persName>
             <persName type="sort" xml:lang="de">schaechle, bartholomaeus</persName>
             <persName type="alternative" xml:lang="de">Schechli, Barthli</persName>
+            <persName type="alternative" xml:lang="de">Schechlin, Barttle</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren.</p>
             </note>
@@ -16245,21 +16608,24 @@
             </note>
           </person>
           <person xml:id="lub-actors-1952">
-            <persName type="full" xml:lang="de">Bläsi, Hans (3) (1582–)</persName>
+            <persName type="full" xml:lang="de">Bläsi, Hans (3) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Bläsi, Hans (3)</persName>
             <persName type="sort" xml:lang="de">blaesi, hans (3)</persName>
-            <persName type="alternative" xml:lang="de">Hannßen</persName>
+            <persName type="alternative" xml:lang="de">Bläßy, Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Sohn von <ref target="1724">Alt Hans Bläsi</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1953">
-            <persName type="full" xml:lang="de">Öhri, Hans (8) (1582–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Hans (8) (1582–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Hans (8)</persName>
             <persName type="sort" xml:lang="de">oehri, hans (8)</persName>
             <persName type="alternative" xml:lang="de">Öri, Hannß</persName>
+            <persName type="alternative" xml:lang="de">Örri, Hannß</persName>
             <birth when="1582-07-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern.</p>
             </note>
@@ -16357,9 +16723,9 @@
             </note>
           </person>
           <person xml:id="lub-actors-2061">
-            <persName type="full" xml:lang="de">Öhri, Jos (1530–)</persName>
-            <persName type="main" xml:lang="de">Öhri, Jos</persName>
-            <persName type="sort" xml:lang="de">oehri, jos</persName>
+            <persName type="full" xml:lang="de">Öhri, Jos (1) (1530–)</persName>
+            <persName type="main" xml:lang="de">Öhri, Jos (1)</persName>
+            <persName type="sort" xml:lang="de">oehri, jos (1)</persName>
             <persName type="alternative" xml:lang="de">Eri, Jös</persName>
             <birth when="1530-05-18"/>
             <note type="description" xml:lang="de">
@@ -16426,10 +16792,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-2068">
-            <persName type="full" xml:lang="de">Öhri, Hans (5) (1579–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Hans (5) (1579–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Hans (5)</persName>
             <persName type="sort" xml:lang="de">oehri, hans (5)</persName>
+            <persName type="alternative" xml:lang="de">Örin, Hannß</persName>
             <birth when="1579-02-04"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Ruggell.</p>
             </note>
@@ -16961,6 +17329,52 @@
               <p>Die eidgenössischen Orte Uri, Schwyz, Unterwalden, Luzern, Zürich, Glarus und Zug, die  gemeinsam die Freien Ämter, den Thurgau und Sargans (ab 1483) regierten.</p>
             </note>
           </org>
+          <org xml:id="lub-actors-929">
+            <orgName type="full" xml:lang="de">Oberösterreichische Regierung</orgName>
+            <orgName type="main" xml:lang="de">Oberösterreichische Regierung</orgName>
+            <orgName type="sort" xml:lang="de">oberoesterreichische regierung</orgName>
+            <note type="description" xml:lang="de">
+              <p>Verwaltungs- und Gerichtsbehörde für die habsburgischen Besitzungen in Vorarlberg, Tirol und Schwäbisch-Österreich mit Sitz in Innsbruck.</p>
+            </note>
+          </org>
+          <org xml:id="lub-actors-941">
+            <orgName type="full" xml:lang="de">Walser (1200–)</orgName>
+            <orgName type="main" xml:lang="de">Walser</orgName>
+            <orgName type="sort" xml:lang="de">walser</orgName>
+            <orgName type="alternative" xml:lang="de">Wallser</orgName>
+            <orgName type="alternative" xml:lang="de">Walliser</orgName>
+            <orgName type="alternative" xml:lang="de">Walßer</orgName>
+            <event type="start" when="1200">
+              <p/>
+            </event>
+            <note type="description" xml:lang="de">
+              <p>Deutschsprachige bergbäuerliche Siedler, die vom 12. bis 14. Jahrhundert im damals noch zu einem grossen Teil romanischsprachigen Alpenraum angesiedelt wurden.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4064480-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q616803"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Walser"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007950"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Walser"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Walser_(Walliser)">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </org>
           <org xml:id="lub-actors-945">
             <orgName type="full" xml:lang="de">Gericht in der Pirsch (1358–1806)</orgName>
             <orgName type="main" xml:lang="de">Gericht in der Pirsch</orgName>
@@ -17066,7 +17480,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2025-03-18T15:35:02+01:00">teiHeader was automatically produced from the database 2025-03-18T15:35:02+01:00</change>
+      <change when="2025-04-01T14:03:56+02:00">teiHeader was automatically produced from the database 2025-04-01T14:03:56+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

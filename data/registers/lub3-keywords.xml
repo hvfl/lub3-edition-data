@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-03-18 15:35:08 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-04-01 14:04:01 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-03-18T15:35:08+01:00">teiHeader was automatically produced from the database 2025-03-18T15:35:08+01:00</change>
+      <change when="2025-04-01T14:04:01+02:00">teiHeader was automatically produced from the database 2025-04-01T14:04:01+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -397,6 +397,12 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Acker</label>
           <label xml:lang="de" type="sort">acker</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-147">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Totschlag</label>
+          <label xml:lang="de" type="sort">totschlag</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-148">
@@ -1285,15 +1291,6 @@
             </listBibl>
           </note>
         </item>
-        <item xml:id="lub-keywords-364">
-          <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">sant Michels tag</label>
-          <label xml:lang="de" type="sort">sant michels tag</label>
-          <note type="description" xml:lang="de">
-            <p>29. September. Beliebter Termin für Miet-, Pacht- oder Zinszahlungen.</p>
-          </note>
-          <objectType xml:lang="en">Quellenbegriff</objectType>
-        </item>
         <item xml:id="lub-keywords-365">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">sant Martins tag</label>
@@ -1757,8 +1754,8 @@
         </item>
         <item xml:id="lub-keywords-405">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">schupfwuer</label>
-          <label xml:lang="de" type="sort">schupfwuer</label>
+          <label xml:lang="de" type="main">schupf(wuer)</label>
+          <label xml:lang="de" type="sort">schupf(wuer)</label>
           <note type="description" xml:lang="de">
             <p>Schräg zur Fliessrichtung gestellter Damm, der das Wasser an das gegenüberliegende Ufer lenkte.</p>
           </note>
@@ -1830,6 +1827,22 @@
             <listBibl>
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id8.htm#!page/81539/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-410">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">werkäs</label>
+          <label xml:lang="de" type="sort">werkaes</label>
+          <note type="description" xml:lang="de">
+            <p>Käse mit einem festgelegten Wert, der als Bezahlungsmittel verwendet wurde.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/30509/mode/1up">Idiotikon</ref>
               </bibl>
             </listBibl>
           </note>
@@ -2043,6 +2056,40 @@
               </bibl>
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id9.htm#!page/90419/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-436">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Faktor</label>
+          <label xml:lang="de" type="sort">faktor</label>
+          <note type="description" xml:lang="de">
+            <p>Händler bzw. Beauftragter einer Handelskompanie oder eines Kaufmanns.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+        </item>
+        <item xml:id="lub-keywords-437">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Rod</label>
+          <label xml:lang="de" type="sort">rod</label>
+          <note type="description" xml:lang="de">
+            <p>Reihenfolge</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+        </item>
+        <item xml:id="lub-keywords-438">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Wagner</label>
+          <label xml:lang="de" type="sort">wagner</label>
+          <note type="description" xml:lang="de">
+            <p>Handwerker, der Räder, Wagen und andere landwirtschaftliche Geräte aus Holz herstellt</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://de.wikipedia.org/wiki/Stellmacherei">Wikipedia</ref>
               </bibl>
             </listBibl>
           </note>

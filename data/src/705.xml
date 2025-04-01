@@ -12,6 +12,11 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Georg 1548. Unsichere Auflösung: Laut Grotefend wurde der Georgstag im Bistum Chur am 25.4. gefeiert. Das trifft aber, wie Tschaikner, Datierung, in: Bludenzer Geschichtsblätter 119 (2018), S. 4-8, zeigt, nur für den Raum Chur zu (und auch dort nicht aussschliesslich). Im heutigen Vorarlberg und in der Herrschaft Schellenberg feierte man den Georgstag wie üblich am 23.4. Die Urkunde ist also wohl eher auf auf den 23. als auf den 25.4. zu datieren.</p>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <listWit>
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-705">LI-LA, U 9</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 23. April 1548 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
@@ -78,7 +83,7 @@
                     <lb break="no" n="10"/>
                     nannte verkeffer, all unnser erben und innhabern und besitzern obgemelts undempfanndt den bestimpten zeinß der genannten fruemeß und allen derselben nahkomenden capplanen,
                     <lb n="11"/>
-                    innhabern ditz prieffs, nun fürohin ewigkhlich und jherlih alle jar, nemlichen auf sannt Martinß tag, acht tag vor oder nach ungeverlichen, tugentlich rihten, zeinßen und zu ieren sychern
+                    innhabern ditz prieffs, nun fürohin ewigkhlich und jherlih alle jar, nemlichen auf <date when="--11-11">sannt Martinß tag</date>, acht tag vor oder nach ungeverlichen, tugentlich rihten, zeinßen und zu ieren sychern
                     <lb n="12"/>
                     hannden unnd gewalt anntworten und geben für aller menigkhlichs hafften, verpietten und entweren, und genntzlihen an allen ieren cossten und schaden. Wann, wie, oder wellihes jarß
                     <lb n="13"/>
@@ -98,7 +103,7 @@
                     <lb n="20"/>
                     gepetten und erpetten den obgenannten aman <persName ref="lub-actors-53">Marxen Lanngen</persName>, das er sein aigen innsigel, doch ime und seinen erben one schaden, offentlih für unnß, all unnser erben
                     <lb n="21"/>
-                    und nahkomen an disen prieff gehenngkht hat. Der geben ist auf <origDate>sannt Jorgen tag, deß heylligen ritterß, nach Cristi gepurt fünff
+                    und nahkomen an disen prieff gehenngkht hat. Der geben ist auf <origDate when="1548-04-23">sannt Jorgen tag, deß heylligen ritterß, nach Cristi gepurt fünff
                     <lb break="no" n="22"/>
                     zehennhundert unnd im achtundviertzigisten jar</origDate>.
                 </p>
