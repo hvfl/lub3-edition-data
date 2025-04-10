@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-04-01 14:03:57 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-04-10 10:59:17 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -716,6 +716,7 @@
             <placeName type="sort" xml:lang="de">mauren</placeName>
             <placeName type="alternative" xml:lang="de">Mura</placeName>
             <placeName type="alternative" xml:lang="de">Muran</placeName>
+            <placeName type="alternative" xml:lang="de">Muren</placeName>
             <location>
               <geo>47.21805 9.5442</geo>
               <settlement xml:lang="de">Mauren</settlement>
@@ -1040,6 +1041,7 @@
             <placeName type="main" xml:lang="de">Triesenberg</placeName>
             <placeName type="full" xml:lang="de">Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">triesenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Drisnerperg</placeName>
             <placeName type="alternative" xml:lang="de">Driessnerberg</placeName>
             <placeName type="alternative" xml:lang="de">Trisnerberrg</placeName>
             <placeName type="alternative" xml:lang="de">Trüsnerberg</placeName>
@@ -2012,6 +2014,7 @@
             <placeName type="main" xml:lang="de">Triesen</placeName>
             <placeName type="full" xml:lang="de">Triesen</placeName>
             <placeName type="sort" xml:lang="de">triesen</placeName>
+            <placeName type="alternative" xml:lang="de">Tryßen</placeName>
             <placeName type="alternative" xml:lang="de">Trießen</placeName>
             <placeName type="alternative" xml:lang="de">Trisen</placeName>
             <placeName type="alternative" xml:lang="de">Trissen</placeName>
@@ -3268,6 +3271,27 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="A" xml:id="lub-places-149">
+            <placeName type="main" xml:lang="de">Wartau (Herrschaft)</placeName>
+            <placeName type="full" xml:lang="de">Wartau (Herrschaft) (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">wartau (herrschaft)</placeName>
+            <placeName type="alternative" xml:lang="de">Warthau</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">149</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Wartau_(Herrschaft)">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Mit dem Gebiet um die Burg, dem Dorf Gretschins und umfangreichen Gütern in der Gemeinde Wartau (u.a. Kollaturrecht, Rheinfähre) stellte Wartau bis 1798 eine kleinräumige Herrschaft mit eigener Niedergerichtsbarkeit dar. Ab 1517 Teil der Glarner Landvogtei Werdenberg.</p>
+            </note>
+          </place>
           <place type="P" xml:id="lub-places-151">
             <placeName type="main" xml:lang="de">Werdenberg (Stadt)</placeName>
             <placeName type="full" xml:lang="de">Werdenberg (Stadt) / Grabs (St. Gallen)</placeName>
@@ -3291,6 +3315,41 @@
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4065550-7"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-152">
+            <placeName type="main" xml:lang="de">Oberriet</placeName>
+            <placeName type="full" xml:lang="de">Oberriet (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">oberriet</placeName>
+            <location>
+              <geo>47.32088 9.56808</geo>
+              <settlement xml:lang="de">Oberriet</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">152</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7286709"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q65263"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n78025606"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001343"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/138155641/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4042970-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Oberriet"/>
               </bibl>
             </listBibl>
           </place>
@@ -3801,6 +3860,35 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Weiler südöstlich oberhalb von Fromahus, nördlich der Egga. Im späten 16. und im 17. Jahrhundert eines der fünf "viertel" der Gemeinde Triesenberg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-182">
+            <placeName type="main" xml:lang="de">Erbi</placeName>
+            <placeName type="full" xml:lang="de">Erbi / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">erbi</placeName>
+            <placeName type="alternative" xml:lang="de">Erblen</placeName>
+            <placeName type="alternative" xml:lang="de">Erblin</placeName>
+            <location>
+              <geo>47.13887 9.53363</geo>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">182</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10366936"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Grosse Waldlichtung mit zwei Häuser nördlich des Weilers Fromahus, westlich unterhalb des Gebiets Vorder Prufatscheng, an der Gemeindegrenze zu Vaduz.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-183">
@@ -9636,6 +9724,7 @@
             <placeName type="full" xml:lang="de">Lavadina / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">lavadina</placeName>
             <placeName type="alternative" xml:lang="de">Laventina</placeName>
+            <placeName type="alternative" xml:lang="de">Laffadina</placeName>
             <location>
               <geo>47.11459 9.55545</geo>
               <settlement xml:lang="de">Triesenberg</settlement>
@@ -9913,6 +10002,23 @@
             <note type="description" xml:lang="de">
               <p>Unbekannt. In der Underau.</p>
             </note>
+          </place>
+          <place type="P" xml:id="lub-places-484">
+            <placeName type="main" xml:lang="de">Burgerau</placeName>
+            <placeName type="full" xml:lang="de">Burgerau / Buchs (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">burgerau</placeName>
+            <location>
+              <geo>47.150032 9.486982</geo>
+              <settlement xml:lang="de">Buchs</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">484</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4054355"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="S" xml:id="lub-places-486">
             <placeName type="main" xml:lang="de">Böler</placeName>
@@ -13114,6 +13220,7 @@
             <placeName type="full" xml:lang="de">Prufatscheng / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">prufatscheng</placeName>
             <placeName type="alternative" xml:lang="de">Broventschengkh</placeName>
+            <placeName type="alternative" xml:lang="de">Provitscheng</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -13684,6 +13791,238 @@
               <p>Unbekannt. Gut im Hinteren Schellenberg, bei Grund und Rietle.</p>
             </note>
           </place>
+          <place type="S" xml:id="lub-places-653">
+            <placeName type="main" xml:lang="de">Uster, Schloss</placeName>
+            <placeName type="full" xml:lang="de">Uster, Schloss / Uster (Zürich)</placeName>
+            <placeName type="sort" xml:lang="de">uster, schloss</placeName>
+            <location>
+              <geo>47.345493 8.717891</geo>
+              <settlement xml:lang="de">Uster</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">653</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q64032"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4107491-9"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000135"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Uster"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="L" xml:id="lub-places-654">
+            <placeName type="main" xml:lang="de">Sand</placeName>
+            <placeName type="full" xml:lang="de">Sand / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">sand</placeName>
+            <location>
+              <geo>47.142226 9.498199</geo>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">654</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4052915/"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Flaches Wies- und Ackerland in der Talebene östlich von Rans, südlich des Zusammenflusses von Seveler Bach und Werdenberger Binnenkanal; wird auch Neuguet genannt.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-655">
+            <placeName type="main" xml:lang="de">Wartau (Burg)</placeName>
+            <placeName type="full" xml:lang="de">Wartau (Burg) / Wartau (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">wartau (burg)</placeName>
+            <location>
+              <geo>47.0987 9.49062</geo>
+              <settlement xml:lang="de">Wartau</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">655</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burg_Wartau"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1014484"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4194299-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/235083017"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="lub-places-656">
+            <placeName type="main" xml:lang="de">St. Ulrich</placeName>
+            <placeName type="full" xml:lang="de">St. Ulrich / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">st. ulrich</placeName>
+            <location>
+              <geo>47.12692 9.47428</geo>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">656</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/11600547"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="H" xml:id="lub-places-657">
+            <placeName type="main" xml:lang="de">Amatnezbach</placeName>
+            <placeName type="full" xml:lang="de">Amatnezbach / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">amatnezbach</placeName>
+            <placeName type="alternative" xml:lang="de">Mammetzbach</placeName>
+            <location>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">657</idno>
+            <note type="description" xml:lang="de">
+              <p>Bachlauf am Seveler Berg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-658">
+            <placeName type="main" xml:lang="de">Sella</placeName>
+            <placeName type="full" xml:lang="de">Sella / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">sella</placeName>
+            <placeName type="alternative" xml:lang="de">Seelen</placeName>
+            <location>
+              <geo>47.140867101912 9.4910625334999</geo>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">658</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4052997"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Wies- und Ackerland in der Talebene östlich von Rans.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-660">
+            <placeName type="main" xml:lang="de">Eberliswis</placeName>
+            <placeName type="full" xml:lang="de">Eberliswis / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">eberliswis</placeName>
+            <placeName type="alternative" xml:lang="de">Eberlis Wyss</placeName>
+            <location>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">660</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4052283"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-661">
+            <placeName type="main" xml:lang="de">Quadretscha</placeName>
+            <placeName type="full" xml:lang="de">Quadretscha / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">quadretscha</placeName>
+            <placeName type="alternative" xml:lang="de">Gweder Entschen</placeName>
+            <location>
+              <geo>47.14266 9.52521</geo>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">661</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10348550"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiese und steiler, bewaldeter Hang östlich über dem Dorf, nordöstlich des Schlosses.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-662">
+            <placeName type="main" xml:lang="de">Spaniatobel</placeName>
+            <placeName type="full" xml:lang="de">Spaniatobel / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">spaniatobel</placeName>
+            <placeName type="alternative" xml:lang="de">Spineuwer Tobell</placeName>
+            <placeName type="alternative" xml:lang="de">Spinower Tobell</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">662</idno>
+            <note type="description" xml:lang="de">
+              <p>Name abgegangen. Tobel, durch das der Spaniabach fliesst. Wohl örtlich identisch mit Spaniaröfi.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-663">
+            <placeName type="main" xml:lang="de">Galgenstein</placeName>
+            <placeName type="full" xml:lang="de">Galgenstein / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">galgenstein</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">663</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Name abgegangen. Wohl Fels im Gebiet "Bim Galga" (in der Rütti, an der Grenze zu Triesen).</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-664">
+            <placeName type="main" xml:lang="de">Negelistobel</placeName>
+            <placeName type="full" xml:lang="de">Negelistobel / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">negelistobel</placeName>
+            <placeName type="alternative" xml:lang="de">Negelins Dobel</placeName>
+            <location>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">664</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nicht lokalisierbar.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -13731,7 +14070,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-04-01T14:04:00+02:00">teiHeader was automatically produced from the database 2025-04-01T14:04:00+02:00</change>
+      <change when="2025-04-10T10:59:19+02:00">teiHeader was automatically produced from the database 2025-04-10T10:59:19+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -17,6 +17,11 @@
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-474">LI-GAP, U 4</ref> (<orgName key="li-gap" ref="lub-objects-469">Gemeindearchiv Planken</orgName>) / Originaldatierung: 9. August 1596 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
           <witness xml:id="B">B: Kopie, Signatur: LI-GAS, U 143/1 (<orgName corresp="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Entstehungszeit: 20. September 1714 / Beschreibstoff: Papier</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42544">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -91,6 +96,11 @@
 <lb n="30"/>disen brief, deren zwen gleichlautendt gemacht und jedem thail einer behendigt und geben worden an der gewonlichen verhör, 
           <lb n="31"/><origDate when="1596-08-09">freitags den neünten monatstag augusti im fünfzehenhundert sex und neüntzigistem jare<unclear>s</unclear></origDate>. 
 </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2182" n="2"/>
+        </p>
       </div>
     </body>
   </text>

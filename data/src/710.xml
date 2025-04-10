@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-710">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Legerbuch</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Das Datum in der Quelle ist widersprüchlich angegeben, wenn es heisst: "... zinßtag, den 13. novembris anno 84." Laut Hermann Grotefends "Taschenbuch der Zeitrechnung", S. 201, fielen die Dienstage (Zinstage) im Jahr 1584 auf den 3., 10., 17. und 24. November. Eine Erklärung wäre, dass in der Quelle ursprünglich der 3. November 1584 gemeint war. Ospelt schreibt, dass das Legerbuch am 23.11.1584 "zustande gekommen ist. Vgl. die Edition im JBL 30, S. 8.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V">V: Verwaltungsschriftgut, Signatur: <ref type="identifier" target="lub-objects-710">LI-LA, U 56</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 1584 / Beschreibstoff: Papier / Heft, 60 Seiten, gebunden</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: Ospelt, Legerbuch, in: JBL 1930, S. 5-43.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Das "Legerbuch" war ein Steuerverzeichnis der Landschaften Vaduz und Schellenberg. In diesem wurden die Vermögen der Einwohner abzüglich etwaiger Schulden festgehalten. Daraus wurde der Anteil am Schnitz berechnet, welcher für beide Landschaften eine Summe von 648 Gulden 55 Kreuzer ergaben. Namentlich genannt wurden ungefähr 734 Personen, die unterschiedlich hohen Geldbeträge leisteten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-4">schnitz</term>
+          <term ref="lub-keywords-429">Hauptgut</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1584-11-13">13. Nov 1584</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_56-0001.jpg" xml:id="lub-media-1232" source="u-056-001.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0002.jpg" xml:id="lub-media-1233" source="u-056-002.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0003.jpg" xml:id="lub-media-1234" source="u-056-003.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0004.jpg" xml:id="lub-media-1235" source="u-056-004.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0005.jpg" xml:id="lub-media-1236" source="u-056-005.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0006.jpg" xml:id="lub-media-1237" source="u-056-006.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0007.jpg" xml:id="lub-media-1238" source="u-056-007.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0008.jpg" xml:id="lub-media-1239" source="u-056-008.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0009.jpg" xml:id="lub-media-1240" source="u-056-009.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0010.jpg" xml:id="lub-media-1241" source="u-056-010.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0011.jpg" xml:id="lub-media-1242" source="u-056-011.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0012.jpg" xml:id="lub-media-1243" source="u-056-012.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0013.jpg" xml:id="lub-media-1244" source="u-056-013.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0014.jpg" xml:id="lub-media-1245" source="u-056-014.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0015.jpg" xml:id="lub-media-1246" source="u-056-015.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0016.jpg" xml:id="lub-media-1247" source="u-056-016.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0017.jpg" xml:id="lub-media-1248" source="u-056-017.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0018.jpg" xml:id="lub-media-1249" source="u-056-018.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0019.jpg" xml:id="lub-media-1250" source="u-056-019.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0020.jpg" xml:id="lub-media-1251" source="u-056-020.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0021.jpg" xml:id="lub-media-1252" source="u-056-021.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0022.jpg" xml:id="lub-media-1253" source="u-056-022.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0023.jpg" xml:id="lub-media-1254" source="u-056-023.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0024.jpg" xml:id="lub-media-1255" source="u-056-024.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0025.jpg" xml:id="lub-media-1256" source="u-056-025.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0026.jpg" xml:id="lub-media-1257" source="u-056-026.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0027.jpg" xml:id="lub-media-1258" source="u-056-027.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0028.jpg" xml:id="lub-media-1259" source="u-056-028.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0029.jpg" xml:id="lub-media-1260" source="u-056-029.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0030.jpg" xml:id="lub-media-1261" source="u-056-030.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0031.jpg" xml:id="lub-media-1262" source="u-056-031.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0032.jpg" xml:id="lub-media-1263" source="u-056-032.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0033.jpg" xml:id="lub-media-1264" source="u-056-033.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0034.jpg" xml:id="lub-media-1265" source="u-056-034.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0035.jpg" xml:id="lub-media-1266" source="u-056-035.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0036.jpg" xml:id="lub-media-1267" source="u-056-036.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0037.jpg" xml:id="lub-media-1268" source="u-056-037.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0038.jpg" xml:id="lub-media-1269" source="u-056-038.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0039.jpg" xml:id="lub-media-1270" source="u-056-039.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0040.jpg" xml:id="lub-media-1271" source="u-056-040.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0041.jpg" xml:id="lub-media-1272" source="u-056-041.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0042.jpg" xml:id="lub-media-1273" source="u-056-042.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0043.jpg" xml:id="lub-media-1274" source="u-056-043.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0044.jpg" xml:id="lub-media-1275" source="u-056-044.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0045.jpg" xml:id="lub-media-1276" source="u-056-045.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0046.jpg" xml:id="lub-media-1277" source="u-056-046.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0047.jpg" xml:id="lub-media-1278" source="u-056-047.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0048.jpg" xml:id="lub-media-1279" source="u-056-048.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0049.jpg" xml:id="lub-media-1280" source="u-056-049.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0050.jpg" xml:id="lub-media-1281" source="u-056-050.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0051.jpg" xml:id="lub-media-1282" source="u-056-051.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0052.jpg" xml:id="lub-media-1283" source="u-056-052.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0053.jpg" xml:id="lub-media-1284" source="u-056-053.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0054.jpg" xml:id="lub-media-1285" source="u-056-054.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0055.jpg" xml:id="lub-media-1286" source="u-056-055.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0056.jpg" xml:id="lub-media-1287" source="u-056-056.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0057.jpg" xml:id="lub-media-1288" source="u-056-057.jpg" corresp="V"/>
+    <graphic url="li-la,_u_56-0058.jpg" xml:id="lub-media-1289" source="u-056-058.jpg" corresp="V"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1232" n="1"/><lb n="1"/><supplied>L</supplied>eger Buoch. 
+<lb n="2"/>Deß sechs jerigen schnizes der herschafften  
+<lb n="3"/><placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> etc. 
+<lb n="4"/>Jerlichen diß hat uf may,   
+<lb n="5"/>deß anderhalb uf <date>Martini</date> zu erlegen. 
+<lb n="6"/>Angefangen anno  
+<lb n="7"/>1584. 
+<lb n="8"/>Deß ersten schnitz  
+<lb n="9"/><placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-11">Schellnperg</placeName>. 
+</p>
+        <p><pb facs="lub-media.1233 " n="2"/><lb n="10"/><supplied>Auf</supplied> zinßtag, den <origDate>13. novembris  
+<lb n="11"/>anno etc. 84</origDate> sind nachvolgende personen  
+<lb n="12"/>nach jedes vermögen ain sechs jerigen schnitz angelegt  
+<lb n="13"/>worden etc.  
+</p>
+        <p><lb n="14"/><placeName ref="lub-places-71">Balzers</placeName><lb n="15"/><persName ref="lub-actors-1808">Hanns Guetnatscher </persName>800 fl. 2 fl. 10 bz. 
+<lb n="16"/>Mer als vogt <persName ref="lub-actors-1809">Simon Frickhen</persName> seligen  
+<lb n="17"/>khind 20 fl. 1 bz.  
+<lb n="18"/><persName ref="lub-actors-1343">Ynntl Ballißer</persName> 650 fl. 2 fl. 2 bz. 7 d.        
+<lb n="19"/><persName ref="lub-actors-1810">Jacob Bläncki der Jung</persName> 1550 fl. 4 fl. 5 bz. 
+<lb n="20"/><persName ref="lub-actors-281">Hannß Nutt </persName>1000 fl. 3 fl. 5 bz. 3 d.   
+<lb n="21"/><persName ref="lub-actors-1811">Jerg Geselli</persName> verschnitzt fur sich selbs, so  
+<lb n="22"/>hievor <persName ref="lub-actors-1812">Pauli Kindlis</persName> seligen kind unnd die   
+<lb n="23"/>er, <persName ref="lub-actors-1811">Jerg</persName>, mit dem schnitz angelegt gewesen 1 fl. 30 kr. 
+<lb n="24"/><persName ref="lub-actors-1813">Jacob Nutten</persName> seligen wittib soll                     
+<lb n="25"/>obgemelter <persName ref="lub-actors-1808">Hannß Guetnatscher</persName>  
+<lb n="26"/>verschnizen 150 fl. 4 bz. 7 d. 
+<lb n="27"/><persName ref="lub-actors-1814">Hannß Nutten</persName> seligen wittib unnd  
+<lb n="28"/>kinder verschnitzt hinfurter <persName ref="lub-actors-1815">Jacob  
+<lb n="29"/>Negelin</persName> 150 fl. 7 bz. 7 d.  
+<lb n="30"/>Haubtgut 4770 fl.  
+<lb n="31"/>Schnitz 15 fl. 54 kr. 
+</p>
+        <p><pb facs="lub-media-1234" n="3"/><lb n="32"/><persName ref="lub-actors-282">Lennz Nutt</persName><supplied>500 f. 1 fl. 10 bz.</supplied><lb n="33"/><persName ref="lub-actors-1816">Wolf Ballißer</persName> 660 <supplied>fl. 2 fl. 2 bz.</supplied>  
+<lb n="34"/><persName ref="lub-actors-1817">Hannß Mayer</persName> 500 fl. 1 fl. 10 bz.  
+<lb n="35"/><persName ref="lub-actors-1818">Christa Negelin</persName> für sich selbs unnd  
+<lb n="36"/>sein haußfrawen 160 fl. 8 bz.  
+<lb n="37"/><persName ref="lub-actors-1819">Christa Nigg</persName> für sich selbs unnd  
+<lb n="38"/>sein weib 160 fl. 8 bz.  
+<lb n="39"/><persName ref="lub-actors-1820">Jerg Gasner</persName> unnd <persName ref="lub-actors-764">Ytl Eberli</persName>   
+<lb n="40"/>als vogt <persName ref="lub-actors-776">Altn Theis Rüedis</persName> 2 kinder  
+<lb n="41"/><persName ref="lub-actors-1822">Hannß</persName> unnd <persName ref="lub-actors-1821">Frena</persName> 200 fl. 10 bz.               
+<lb n="42"/><persName ref="lub-actors-1820">Jerg Gasner</persName> fur sich selbs 270 fl. 13 bz. 7 d.  
+<lb n="43"/><persName ref="lub-actors-764">Yntl Eberli</persName> fur sich selbs 350 fl. 1 fl. 2 bz. 7 d.  
+<lb n="44"/><persName ref="lub-actors-1823">Hainrich Frieß</persName> 80 fl. 4 bz. 3 d.  
+<lb n="45"/><persName ref="lub-actors-1824">Thoman Ganndtner</persName> als vogt <persName ref="lub-actors-463">Thoma  
+<lb n="46"/>Eberlins</persName> seligen tochter <persName ref="lub-actors-1825">Gretha</persName> 150 fl. 7 bz. 7 d.  
+<lb n="47"/>Mer er, <persName ref="lub-actors-1824">Thoman Ganndtner</persName>, fur  
+<lb n="48"/>sich selbs 350 fl. 1 fl. 2 bz. 7 d.  
+<lb n="49"/>Mer al vogt <persName ref="lub-actors-1826">Jerg Stegers</persName> kinder 712 fl. 2 fl. 6 bz. 
+<lb n="50"/>Haubtguet 4092 fl. 
+<lb n="51"/>Schnitz 13 fl., 9 1/2 bz. 
+</p>
+        <p><pb facs="lub-media-1235 " n="4"/><lb n="52"/><gap/> Ganndtner als vogt  
+<lb n="53"/><gap/>ß Gurtnatschers seligen 4 kinder  
+<lb n="54"/><gap/> mit namen 170 fl. 8 bz. 7 d.  
+<lb n="55"/><persName ref="lub-actors-1826">Jerg Steger</persName> 500 fl. 1 fl. <gap/> bz.  
+<lb n="56"/><persName ref="lub-actors-1827">Vallenthin Frickh</persName> 110 fl. 5 bz. 7 d.  
+<lb n="57"/><persName ref="lub-actors-1829">Hannß Schedler</persName>, <persName ref="lub-actors-1828">Josen</persName> son 100 fl. 5 bz. 3 d.  
+<lb n="58"/><persName ref="lub-actors-1830">Graf Matzenstainer</persName> unnd sein  
+<lb n="59"/>son <persName ref="lub-actors-1831">Erhart</persName> 200 fl. 10 bz. 3 d.  
+<lb n="60"/><persName ref="lub-actors-1832">Lennz Schedler</persName> 30 fl. 1 bz. 7 d.  
+<lb n="61"/><persName ref="lub-actors-464">Balle Gaist</persName> 100 fl. 5 bz. 3 d.  
+<lb n="62"/><persName ref="lub-actors-1833">Theys Sporr</persName> gibt als fur 60 fl. 3 bz. 3 d.  
+<lb n="63"/><persName ref="lub-actors-167">Caspar Wolfinger</persName> 50 fl. 2 bz. 7 d.  
+<lb n="64"/>Mer von seinen baid schwestern  
+<lb n="65"/><persName ref="lub-actors-1835">Maria</persName> unnd <persName ref="lub-actors-1834">Barbfla</persName> 30 fl. 1 bz. 7 d.  
+<lb n="66"/><persName ref="lub-actors-753">Hannß Vavill</persName> 350 fl. 1 fl. 2 bz. 7 d.  
+<lb n="67"/><persName ref="lub-actors-1836">Leonnhart Kaufman</persName> erben 600 fl. 2 fl. 
+<lb n="68"/>Haubtgut 2300 fl.  
+<lb n="69"/>Schnitz 7 fl. 10 bz.  
+</p>
+        <p><pb facs="lub-media-1236 " n="5"/><lb n="70"/>Mer <persName ref="lub-actors-1837">Christan Kaufman</persName><supplied>für seine hauß-</supplied><lb n="71"/>fraw <persName ref="lub-actors-1838">Martha Tafoserin</persName><supplied>110 fl. 5 1/2 bz.</supplied><lb n="72"/><persName ref="lub-actors-1839">Jacob Vauvill</persName> 150 fl. 5 bz. 7 d.  
+<lb n="73"/><persName ref="lub-actors-1840">Hannß Eberlin</persName> 200 fl. 10 bz.  
+<lb n="74"/><persName ref="lub-actors-1841">Hanns Schlegel</persName>, schmid 200 fl. 10 bz.  
+<lb n="75"/>Mer als vogt <persName ref="lub-actors-757">Jung Theys Rüedis</persName>  
+<lb n="76"/>kind 50 fl. 2 bz. 7 d.  
+<lb n="77"/>Mer als vogt <persName ref="lub-actors-1842">Vida  
+<lb n="78"/>Villißin</persName> 60 fl. 3 bz.  
+<lb n="79"/>Mer als vogt <persName ref="lub-actors-1843">Stina Villißin</persName> 100 fl. 5 bz.  
+<lb n="80"/><persName ref="lub-actors-1844">Symon Von Bannckh</persName> 300 fl. 1 fl.  
+<lb n="81"/><persName ref="lub-actors-1845">Adam Braunhart</persName>, müller sambt  
+<lb n="82"/>der müllin 600 fl. 2 fl.  
+<lb n="83"/><persName ref="lub-actors-1311">Donat Gasner</persName> 100 fl. 5 bz. 
+<lb n="84"/><persName ref="lub-actors-1846">Michl Frickh</persName> wittib  
+<lb n="85"/>Jezo <persName ref="lub-actors-1847">Crista Beckhen</persName> ehefraw 100 fl. 5 bz.  
+<lb n="86"/>Die gemaind zu <placeName ref="lub-places-71">Baltzers</placeName> 100 fl. 5 bz.   
+<lb n="87"/>Haubtgut 2070 fl.  
+<lb n="88"/>Schnitz 6 fl. 13 bz. 7 d. 
+</p>
+        <p><pb facs="lub-media-1237 " n="6"/><lb n="89"/><gap/> Vauill 120 fl. 6 bz.  
+<lb n="90"/><persName ref="lub-actors-1848">Balthesser Frickh</persName> 550 fl. 1 fl. 12 bz. 7 d.  
+<lb n="91"/><persName ref="lub-actors-1849">Ullin Khuonz</persName> 150 fl. 7 bz. 7 d.  
+<lb n="92"/><persName ref="lub-actors-1850">Petter Guetnatscher</persName> 300 fl. 1 fl.  
+<lb n="93"/><persName ref="lub-actors-1851">Ulrich Balthassar</persName> als sein, <persName ref="lub-actors-1850">Guetnatscher</persName>,   
+<lb n="94"/>miterben soll verschnizen 250 fl. 12 1/2 bz.  
+<lb n="95"/><persName ref="lub-actors-1852">Clauß Thoman</persName> 600 fl. 2 fl.  
+<lb n="96"/><persName ref="lub-actors-1853">Hannß Thafaßer</persName> 800 fl. 2 fl. 10 bz. 
+<lb n="97"/><persName ref="lub-actors-1314">Joß Fritsch</persName> 900 fl. 3 fl. <gap/> bz. 
+<lb n="98"/><persName ref="lub-actors-1854">Augustein Vauill</persName> 3 bz.  
+<lb n="99"/>Die kürchen 140 fl. 7 bz.  
+<lb n="100"/><persName ref="lub-actors-1855">Melch Schwarz </persName>200 fl. 10 bz.  
+<lb n="101"/><persName ref="lub-actors-283">Vallenthin Kreß</persName> 350 fl. 1 fl. 2 bz. 7 d.  
+<lb n="102"/><persName ref="lub-actors-1856">Pauli Vauillen</persName> seligen kind 240 fl. 12 bz. 3 d. 
+<lb n="103"/><persName ref="lub-actors-1857">Marthin Gasner</persName> 60 fl. 3 bz.  
+<lb n="104"/><persName ref="lub-actors-762">Bastian Frieß</persName> 800 fl. 2 fl. 10 bz. 
+<lb n="105"/>Haubtgut 5520 fl.  
+<lb n="106"/>Schnitz 18 fl. 6 bz.  
+</p>
+        <p><pb facs="lub-media-1238 " n="7"/><lb n="107"/><persName ref="lub-actors-1858">Hannß Gerer</persName>, <persName ref="lub-actors-1859">Gretha Vauil<supplied>len</supplied></persName><supplied>ehe-</supplied><lb n="108"/>würt für sich unnd sein hausfraw <supplied>420 fl. 1 fl. 6 bz.</supplied>  
+<lb n="109"/><persName ref="lub-actors-1860">Joß Schedler</persName> 40 fl. 2 bz. 3 d. 
+<lb n="110"/><persName ref="lub-actors-1861">Jacob Mayers</persName> erben 160 fl. 8 bz. 3 d.  
+<lb n="111"/><persName ref="lub-actors-1862">Petter Jäger</persName> schnitzt 3 bz. 
+<lb n="112"/><persName ref="lub-actors-1863">Christo Nut</persName> 200 fl. 5 bz. 
+<lb n="113"/><persName ref="lub-actors-1864">Ully Nut</persName> 50 fl. 2 bz. 2 d.  
+<lb n="114"/><persName ref="lub-actors-1865">Hannß Thoman</persName> 575 fl. 28 bz. 3 kr.  
+<lb n="115"/><persName ref="lub-actors-1866">Thoman Walzesekh</persName> 100 fl. 5 bz.  
+<lb n="116"/><persName ref="lub-actors-1867">Ulrich Ballisar</persName> sambt seinner  
+<lb n="117"/>muotter und bruoder 700 fl. 2 fl. 5 bz. 
+<lb n="118"/><persName ref="lub-actors-1500">Stoffel Weys</persName> 3 bz. 
+<lb n="119"/><persName ref="lub-actors-1868">Hanß Ganttner</persName> 100 fl. 5 bz.  
+<lb n="120"/><persName ref="lub-actors-1869">Conradt Schnopp</persName> 300 fl. 1 fl.  
+<lb n="121"/><persName ref="lub-actors-1870">Theis Dufftli</persName> 50 fl. 2 bz. 7 d. 
+<lb n="122"/><persName ref="lub-actors-1871">Lutzi Zischg</persName> 40 fl. 2 bz. 
+<lb n="123"/>Haubtgut 2635 fl. 
+<lb n="124"/>Schnitz 8 fl. 8 bz. 10 1/2 d.  
+</p>
+        <p><pb facs="lub-media-1239 " n="8"/><lb n="125"/><supplied>Herr pfarrer</supplied> zu <placeName ref="lub-places-71">Baltzers</placeName> 1 fl. 
+<lb n="126"/>Latus per se.  
+<lb n="127"/>Suma schnitz geldt 
+<lb n="128"/>deß dorfs <placeName ref="lub-places-71">Baltzers</placeName>  
+<lb n="129"/>pringt jarlichen  
+<lb n="130"/>72 fl. 1 bz.  3 1/2 d. 
+</p>
+        <p><pb facs="lub-media-1240 " n="9"/><lb n="131"/><placeName ref="lub-places-79">Trysner</placeName>. 
+<lb n="132"/><persName ref="lub-actors-1054">Barthlome Ganndtenbain</persName> 440 fl. 1 fl. 7 bz.  
+<lb n="133"/><persName ref="lub-actors-284">Lutze Senn</persName> 300 fl. 1 fl.  
+<lb n="134"/>Mer von wegen seiner hausfrawen <persName ref="lub-actors-1873">Gretha  
+<lb n="135"/>Ganndtenbain</persName> 50 fl. 2 bz. 7 d.  
+<lb n="136"/><persName ref="lub-actors-1874">Oschwalt Kinndli</persName> 1300 fl. 4 fl. 5 bz.  
+<lb n="137"/><persName ref="lub-actors-1875">Pauli Ganndtner</persName> 450 fl. 1 fl. 7 bz. 7 d.  
+<lb n="138"/><persName ref="lub-actors-1022">Ulrich Thoni</persName> 700 fl. 11 fl. 6 bz.  
+<lb n="139"/><persName ref="lub-actors-1876">Marthin Gasner</persName> seinen schlechten vermögen  
+<lb n="140"/>noch 3 bz.  
+<lb n="141"/><persName ref="lub-actors-1174">Fridli Nigg</persName> 500 fl. 1 fl. 10 bz.  
+<lb n="142"/><persName ref="lub-actors-1877">Anndras Jeger</persName> fur sich selbs 80 fl. 4 bz.  
+<lb n="143"/>Item sein hausfraw <persName ref="lub-actors-1878">Anna Negelin</persName> 30 fl. 1 bz. 7 d.  
+<lb n="144"/><persName ref="lub-actors-458">Ulrich Gasner</persName> 35 fl. 1 bz. 10 1/2 d.  
+<lb n="145"/><persName ref="lub-actors-1302">Barthlome Gasner</persName> sein son 60 fl. 3 bz.  
+<lb n="146"/><persName ref="lub-actors-1879">Jacob Gasner</persName>, auch sein son 46 fl. 2 bz. 3 1/2 d.  
+<lb n="147"/><persName ref="lub-actors-1880">Stoffel Gasners</persName> ir baider brueder kind  
+<lb n="148"/>sambt ire muter 100 fl. 5 bz.  
+<lb n="149"/>Haubtgut 4151 fl.  
+<lb n="150"/>Schnitz 13 fl. 12 1/2 bz.  
+</p>
+        <p><pb facs="lub-media-1241 " n="10"/><lb n="151"/><persName ref="lub-actors-1890">Hannß Ganndtenbains</persName> seligen <gap/>  
+<lb n="152"/>unnd erben <supplied>900 fl. 3 fl. 3 bz.</supplied> 
+<lb n="153"/><persName ref="lub-actors-1881">Bläsi Hülbin</persName> für sich selbsten und sein  
+<lb n="154"/>hausfraw <persName ref="lub-actors-1882">Hannß Müllers</persName> seligen tochter 70 fl. 3 bz. 7 d.  
+<lb n="155"/><persName ref="lub-actors-1883">Jacob Thoni</persName> fur sich unnd sein hausfraw  
+<lb n="156"/><persName ref="lub-actors-1884">Thrina Müllerin</persName>, <persName ref="lub-actors-1882">Hanß Müllers</persName> seligen tochter 40 fl. 2 bz.  
+<lb n="157"/><persName ref="lub-actors-1885">Simon Gahaine</persName> für sich und sein hausfraw 125 fl. 6 bz. 1 kr. 
+<lb n="158"/><persName ref="lub-actors-1024">Steffan Bannzer</persName> 250 fl. 12 bz. 7 d.  
+<lb n="159"/><persName ref="lub-actors-1886">Barthlome Marogg</persName> 220 fl. 11 bz. 
+<lb n="160"/><persName ref="lub-actors-320">Jacob Reyg</persName> 350 fl. 1 fl. 2 bz. 7 d.  
+<lb n="161"/>Mer von seiner hausfrawen wegen <persName ref="lub-actors-1887">Barbfla  
+<lb n="162"/>Kindlin</persName> 50 fl. 2 bz. 7 d.  
+<lb n="163"/><persName ref="lub-actors-1048">Caspar Nigg</persName> 240 fl. 12 bz.  
+<lb n="164"/><persName ref="lub-actors-285">Christa Hütz</persName> 450 fl. 1 fl. 7 bz. 7 d.  
+<lb n="165"/>Mer er, <persName ref="lub-actors-285">Hutz</persName>, als vogt <persName ref="lub-actors-1888">Bastion Pfeiffers</persName>  
+<lb n="166"/>kind 400 fl. 1 fl. 5 bz. 7 d.  
+<lb n="167"/><persName ref="lub-actors-279">Leonnhart Varling</persName> 880 fl. 2 fl. 14 bz. 
+<lb n="168"/>Mer er, <persName ref="lub-actors-279">Varling</persName>, als vogt <persName ref="lub-actors-1889">Ennderli Oschwalts</persName>  
+<lb n="169"/>seligen kind 400 fl. 1 fl.5 bz.  
+<lb n="170"/>Haubtgut 4375 fl.  
+<lb n="171"/>Schnitz 14 fl. 8 bz. 10 1/2 d. 
+</p>
+        <p><pb facs="lub-media-1242 " n="11"/><lb n="172"/><supplied>..P</supplied>auli sambt seiner mutter  
+<lb n="173"/><gap/> stiefvatter <persName ref="lub-actors-1891">Barthlome Öltzen</persName> 500 fl. 1 fl. 10 bz.  
+<lb n="174"/><persName ref="lub-actors-1027">Jacob Kindlin </persName>200 fl. 10 bz.  
+<lb n="175"/><persName ref="lub-actors-1347">Jerg Berger</persName> 400 fl. 1 fl. 5 bz.  
+<lb n="176"/><persName ref="lub-actors-1026">Jeorg Gasner</persName> 240 fl. 12 bz.  
+<lb n="177"/><persName ref="lub-actors-1892">Crista Lew</persName> 100 fl. 5 bz.  
+<lb n="178"/><persName ref="lub-actors-1025">Fluri Nigg</persName> 450 fl. 1 fl. 7 bz. 7 d.  
+<lb n="179"/><persName ref="lub-actors-1893">Frannz Gasner</persName> mitsambt seinem bruder  
+<lb n="180"/><persName ref="lub-actors-1894">Fridli Gasner</persName> 233 fl. 11 bz. 7 d.  
+<lb n="181"/><persName ref="lub-actors-1018">Hannß Reyg</persName> 450 fl. 1 fl. 7 bz. 7 d.  
+<lb n="182"/><persName ref="lub-actors-1056">Ulrich Reyg</persName> 950 fl. 3 fl. 2 bz. 7 d.  
+<lb n="183"/><persName ref="lub-actors-1895">Roni Bannzer</persName> seligen kind ir vogt  
+<lb n="184"/><persName ref="lub-actors-323">Hannß Schuetti</persName> sambt irer mutter 400 fl. 1 fl. 5 bz. 
+<lb n="185"/><persName ref="lub-actors-1037">Jacob Bergezi</persName> sambt seiner hausfrauen,  
+<lb n="186"/><persName ref="lub-actors-1049">Jerg Kindlis </persName>tochter 900 fl. 3 fl.  
+<lb n="187"/><persName ref="lub-actors-1896">Pauli Kindli</persName> 400 fl. 1 fl. 5 bz.  
+<lb n="188"/><persName ref="lub-actors-1897">Zacharias Ganndtenbain</persName> 3 bz.  
+<lb n="189"/><persName ref="lub-actors-1898">Fridli Mockh</persName> 60 fl. 3 bz.  
+<lb n="190"/>Haubtgut 5343 fl. 
+<lb n="191"/>Schnitz 17 fl. 12 bz.   
+</p>
+        <p><pb facs="lub-media-1243 " n="12"/><lb n="192"/><persName ref="lub-actors-319">Crispinus Reig</persName> 980 fl. <supplied> 3 fl. 4 bz. 7 d.</supplied><lb n="193"/><persName ref="lub-actors-1899">Jerg Gahaini</persName> 150 fl. 12 bz. 7 d.  
+<lb n="194"/><persName ref="lub-actors-1900">Marthin Lampart</persName> 150 fl. 7 bz. 7 d.  
+<lb n="195"/>Mer er, <persName ref="lub-actors-1900">Lampart</persName> als vogt <persName ref="lub-actors-437">Hannß Thanners</persName>  
+<lb n="196"/>weib unnd kindt 80 fl. 4 bz.  
+<lb n="197"/><persName ref="lub-actors-1901">Petter Lampart </persName>150 fl. 7 bz. 7 d.  
+<lb n="198"/><persName ref="lub-actors-325">Hillarius Blannckh</persName> 300 fl. 1 fl.  
+<lb n="199"/><persName ref="lub-actors-1902">Hannß Negeli</persName> für sich selbs 100 fl. 5 bz.   
+<lb n="200"/><persName ref="lub-actors-1644">Fabian Bertsch</persName> 60 fl. 3 bz.  
+<lb n="201"/><persName ref="lub-actors-1903">Hannß Schurtti</persName> 335 fl. 1 fl. 4 bz. 10 1/2 d.  
+<lb n="202"/><persName ref="lub-actors-1904">Ulli Hültin</persName> 100 fl. 5 bz.  
+<lb n="203"/><persName ref="lub-actors-1905">Lenntz Nigg</persName> 320 fl. 1 fl. 1 bz.  
+<lb n="204"/><persName ref="lub-actors-1906">Fridli Gasner </persName>60 fl. 3 bz.  
+<lb n="205"/><persName ref="lub-actors-321">Leonnhart Kindli</persName> 1370 fl. 4 fl. 8 bz. 7 d.  
+<lb n="206"/><persName ref="lub-actors-322">Fridli Ganndtner</persName> 1700 fl. 5 fl. 10 bz.  
+<lb n="207"/>Haubtgut 5955 fl. 
+<lb n="208"/>Schnitz 19 fl. 12 bz. 10 1/2 d. 
+</p>
+        <p><pb facs="lub-media-1244 " n="13"/><lb n="209"/><gap/> Schurttiß nachgelaßnen wittib 90 fl. 4 bz. 7 d.  
+<lb n="210"/><persName ref="lub-actors-324">Tony Schurttin</persName> 1020 fl. 3 fl. 6 bz.  
+<lb n="211"/><persName ref="lub-actors-1305">Hannß Hüz</persName> von <placeName ref="lub-places-79">Tryßen</placeName> unnd sein  
+<lb n="212"/>hausfraw <persName ref="lub-actors-1907">Anna Negelin</persName> 300 fl. 1 fl.  
+<lb n="213"/><persName ref="lub-actors-1908">Leonnhart Barbier</persName> hat vorhin geschnitzt  
+<lb n="214"/>650 fl., jezo 600 fl. 2 fl.  
+<lb n="215"/><persName ref="lub-actors-1909">Leonnhart Bürzli</persName> 33 fl. 1 bz. 7 d. 
+<lb n="216"/><persName ref="lub-actors-1910">Hannß Nigg</persName> hat hievor 200 fl. geschnizt,  
+<lb n="217"/>jezo nur 150 fl. 1 fl. 
+<lb n="218"/><persName ref="lub-actors-1051">Trina Kündlin</persName>, genannt Nolerin, 40 fl. 2 bz.  
+<lb n="219"/><persName ref="lub-actors-1911">Barbara Bergerin</persName> 2 kinder 3 kr.  
+<lb n="220"/><persName ref="lub-actors-1912">Hans Banzers</persName> seligen witib <persName ref="lub-actors-1913">Elsa  
+<lb n="221"/>Maurerin</persName> 90 fl. 18 kr. 
+<lb n="222"/>Haubtgut 2193 fl.  
+<lb n="223"/>Schnitz 7 fl. 11 bz. 10 1/2 d. 
+</p>
+        <p><pb facs="lub-media-1245 " n="14"/><lb n="224"/>Pfarrherr zu <placeName ref="lub-places-79">Driessan</placeName><gap/><lb n="225"/>Latus per se 
+<lb n="226"/>Summa schnitz geldt deß  
+<lb n="227"/>dorfs <placeName ref="lub-places-79">Triessen</placeName>, pringt  
+<lb n="228"/>jarlichen 74 fl. 14 bz. 3 kr. 
+</p>
+        <p><pb facs="lub-media-1246 " n="15"/><lb n="229"/><placeName ref="lub-places-41">Thrisner Berg</placeName><lb n="230"/><persName ref="lub-actors-1170">Marttin Beck</persName> 50 fl. 1 fl. 20 kr. 
+<lb n="231"/>Mehr alß vogt <persName ref="lub-actors-1930">Thoman Becken</persName>,  
+<lb n="232"/><persName ref="lub-actors-1914">Hanßen Conradts</persName> sun 50 fl. 1 fl. 20 kr. 
+<lb n="233"/><persName ref="lub-actors-1915">Conradt Beck</persName> fur sich, sein hauß
+<lb break="no" n="234"/>fraw unnd <persName ref="lub-actors-1916">Barbara Beckin</persName> 
+<lb n="235"/>halben thail 235 fl. 47 kr.  
+<lb n="236"/><persName ref="lub-actors-1917">Ulli Beck </persName>430 fl. 1 fl. 26 kr.  
+<lb n="237"/>Mer alß vogt <persName ref="lub-actors-1918">Uhrsla Lampertin</persName> 30 fl. 6 kr.  
+<lb n="238"/>Mer schnitz er fur <persName ref="lub-actors-1920">Giorg Beck</persName>,  
+<lb n="239"/><persName ref="lub-actors-1919">Hanß Becken</persName> suhn 120 fl. 24 kr. 
+<lb n="240"/><persName ref="lub-actors-1921">Ulrich Lampert</persName> 60 fl. 12 kr.  
+<lb n="241"/><persName ref="lub-actors-1922">Ulrich Thenny</persName> 50 fl. 10 kr.  
+<lb n="242"/><persName ref="lub-actors-1159">Michel Eberli</persName>, <persName ref="lub-actors-1923">Giörgen</persName> suhn 60 fl. 12 kr.  
+<lb n="243"/><persName ref="lub-actors-1924">Christo Lampert</persName>, <persName ref="lub-actors-1564">Adams</persName> suhn  
+<lb n="244"/>selligen wittib 50 fl. 10 kr. 
+<lb n="245"/><persName ref="lub-actors-1925">Christo Schlegel</persName> alß vogt  
+<lb n="246"/><persName ref="lub-actors-1169">Thoman Bürtzels</persName> kündt  
+<lb n="247"/><persName ref="lub-actors-1926">Anna</persName> 105 fl. 21 kr.  
+<lb n="248"/><persName ref="lub-actors-1927">Paully Lampert</persName> als vogt  
+<lb n="249"/><persName ref="lub-actors-1928">Jungen Thoman Bürtzel</persName> 85 fl. 17 kr.  
+<lb n="250"/>Mehr als vogt <persName ref="lub-actors-437">Hanß Thaners</persName>  
+<lb n="251"/>selligen tochter <persName ref="lub-actors-1929">Eva</persName> 70 fl. 14 kr. 
+<lb n="252"/>Haubtgut 1395 fl. 
+<lb n="253"/>Schnitz 4 fl. 39 kr. 
+</p>
+        <p><pb facs="lub-media-1247 " n="16"/><lb n="254"/><persName ref="lub-actors-1943">Hanß Nägeli</persName>, <persName ref="lub-actors-1944">Thomans</persName> son <supplied>160 fl. 32 kr.</supplied> 
+<lb n="255"/><persName ref="lub-actors-356">Clauß Thanner</persName> alß vogt  
+<lb n="256"/><persName ref="lub-actors-1931">Thoman Negellinß</persName> selligen weib 110 fl. 22 kr. 
+<lb n="257"/><persName ref="lub-actors-373">Hannß Thanner</persName> zum Prunnen 50 fl. 10 kr. 
+<lb n="258"/><persName ref="lub-actors-1932">Hannß Nigg</persName> 140 fl. 28 kr. 
+<lb n="259"/><persName ref="lub-actors-1933">Andreaß Selle</persName> 350 fl. 1 fl. 20 kr. 
+<lb n="260"/><persName ref="lub-actors-1944">Thoman Negelli</persName> 85 fl. 17 kr.  
+<lb n="261"/><persName ref="lub-actors-1935">Adam Kauffman</persName> 150 fl. 30 kr.  
+<lb n="262"/>Mehr von wegen seines  
+<lb n="263"/>tochtermanß <persName ref="lub-actors-1936">Giörg Lamperth</persName> 75 fl. 15 kr.  
+<lb n="264"/><persName ref="lub-actors-1937">Hanß Lambpert</persName>, <persName ref="lub-actors-1938">Floryß</persName> suhn 105 fl. 21 kr.  
+<lb n="265"/>Mehr als vogt <persName ref="lub-actors-1318">Petter Lamperth</persName>  
+<lb n="266"/>selligen enckhlin <persName ref="lub-actors-1939">Cristo Lew</persName> 40 fl. 8 kr. 
+<lb n="267"/><persName ref="lub-actors-1356">Hanß Pyeller</persName> 200 fl. 40 kr.  
+<lb n="268"/>Alß vogt <persName ref="lub-actors-1940">Hanß Lampertten</persName>  
+<lb n="269"/>zwayer sohn 150 fl. 30 kr.  
+<lb n="270"/><persName ref="lub-actors-996">Paully Selly</persName> 325 fl. 1 fl. 5 kr.  
+<lb n="271"/>T<persName ref="lub-actors-1941">homan Lampart</persName> 210 fl. 42 kr.  
+<lb n="272"/>Mehr alß vogt <persName ref="lub-actors-1942">Leonhart Beckhen</persName>  
+<lb n="273"/>selligen hausfraw und kindt 40 fl. 8 kr. 
+<lb n="274"/>Haubtgut 2190 fl. 
+<lb n="275"/>Schnitz 7 fl. 18 kr. 
+</p>
+        <p><pb facs="lub-media-1248 " n="17"/><lb n="276"/><gap/><persName ref="lub-actors-1945">Christo Negelli</persName> abem <placeName ref="lub-places-181">Rottenboden</placeName> 250 fl. 50 kr. 
+<lb n="277"/>Mer alß vogt <persName ref="lub-actors-1946">Barbara Neglin</persName> 40 fl. 8 kr.  
+<lb n="278"/><persName ref="lub-actors-1947">Giörg Negelli</persName> aufem <placeName ref="lub-places-634">Tobel</placeName> 300 fl. 1 fl.  
+<lb n="279"/><persName ref="lub-actors-1948">Jacob Michel</persName> sambt noch
+<lb break="no" n="280"/>geschwistergoten 50 fl. 20 kr. 
+<lb n="281"/>Mehr von <persName ref="lub-actors-1954">Ully Negellin</persName> weyland  
+<lb n="282"/>erben 20 fl. 4 kr.  
+<lb n="283"/><persName ref="lub-actors-1955">Bastian Negelinß</persName> erben  
+<lb n="284"/><persName ref="lub-actors-1963">Bläßy Nägellin</persName> sein suhn 170 fl. 34 kr.  
+<lb n="285"/><persName ref="lub-actors-559">Christa Lampert</persName> 100 fl. 20 kr.  
+<lb n="286"/><persName ref="lub-actors-1956">Fridlin Böck</persName> 150 fl. 30 kr.  
+<lb n="287"/><persName ref="lub-actors-1957">Christa Lampert</persName>, <persName ref="lub-actors-1958">Christoffs</persName>  
+<lb n="288"/>sun sampt seinen geschw
+<lb break="no" n="289"/>istergoten 100 fl. 20 kr. 
+<lb n="290"/><persName ref="lub-actors-643">Hanß Frumoldts</persName> selligen erben  
+<lb n="291"/>in dem <placeName ref="lub-places-182">Erblin</placeName> 70 fl. 14 kr. 
+<lb n="292"/><persName ref="lub-actors-1959">Luchas Beck</persName> schwäger unnd  
+<lb n="293"/>geschwewr  
+<lb n="294"/><persName ref="lub-actors-1960">Thoman Beck der Aldt</persName> für in  
+<lb n="295"/>und sein haußfraw <persName ref="lub-actors-1961">Eva From
+<lb break="no" n="296"/>eltin</persName> 250 fl. 50 kr. 
+<lb n="297"/><persName ref="lub-actors-327">Clauß Hülbi</persName>, <persName ref="lub-actors-1962">Michels</persName> suhn 50 fl. 20 kr. 
+<lb n="298"/>Haubtgut 1550 fl. 
+<lb n="299"/>Schniz 5 fl. 10 kr. 
+</p>
+        <p><pb facs="lub-media-1249 " n="18"/><lb n="300"/><persName ref="lub-actors-902">Adam Böck</persName> 2<supplied>50 fl. 50 kr.</supplied>  
+<lb n="301"/><persName ref="lub-actors-328">Steffan Schedler</persName> 50 fl. 10 kr. 
+<lb n="302"/><persName ref="lub-actors-1964">Caspar Hulbe</persName> 100 fl. 20 kr. 
+<lb n="303"/><persName ref="lub-actors-1965">Steffan Hulby</persName> 100 fl. 20 kr.  
+<lb n="304"/><persName ref="lub-actors-372">Hannß Oschwaldt </persName>200 fl. 40 kr. 
+<lb n="305"/>Mer verschnütz er fur <persName ref="lub-actors-1966">Hanß  
+<lb n="306"/>Lampert</persName> auf der Eck selligen  
+<lb n="307"/>guetter 62 fl. 12 kr.  
+<lb n="308"/>Mehr vom <persName ref="lub-actors-1967">Flory Hülty</persName> 20 fl. 2 kr.  
+<lb n="309"/><persName ref="lub-actors-1932">Hanß Nick </persName>der 3 kinder  
+<lb n="310"/>vogt <persName ref="lub-actors-372">Hanß Oschwaldts</persName> kinder 110 fl. 22 kr.  
+<lb n="311"/><persName ref="lub-actors-1968">Pauli Negeli</persName> unnd sein hausfraw 150 fl. 7 bz. 7 d.  
+<lb n="312"/><persName ref="lub-actors-1651">Frannz Hülbin</persName> 120 fl. 6 bz.  
+<lb n="313"/><persName ref="lub-actors-1969">Sebius Schlegel</persName> 150 fl. 7 bz. 7 d.  
+<lb n="314"/><persName ref="lub-actors-375">Cloß Beckh</persName>, <persName ref="lub-actors-353">Caspars</persName> son 270 fl. 12 bz.  
+<lb n="315"/><persName ref="lub-actors-1970">Hanns Gasner</persName> 140 fl. 7 bz.  
+<lb n="316"/><persName ref="lub-actors-1971">Christa Gasner</persName>, <persName ref="lub-actors-1972">Clasen</persName> son für sich, sein  
+<lb n="317"/>mutter unnd geschwistrigit 280 fl. 14 bz. 3 d.  
+<lb n="318"/><persName ref="lub-actors-1971">Christa Gasners</persName> hausfrawn 30 fl. 1 bz. 7 d.  
+<lb n="319"/><persName ref="lub-actors-335">Hannß Negelin</persName> ab <placeName ref="lub-places-181">Roten boden</placeName> 250 fl. 12 bz. 7 d.  
+<lb n="320"/><persName ref="lub-actors-1973">Bastli Wangner</persName> 150 fl. 7 1/2 bz. 
+<lb n="321"/>Haubtgut 2397 fl. 
+<lb n="322"/>Schnitz 7 fl. 59 kr. 
+</p>
+        <p><pb facs="lub-media-1250 " n="19"/><lb n="323"/><persName ref="lub-actors-1974"><supplied>Chris</supplied>ta Eberli der Junger</persName> 45 fl. 9 kr. 
+<lb n="324"/><persName ref="lub-actors-366">Barthlome Schlegel</persName> 50 fl. 10 kr.  
+<lb n="325"/><persName ref="lub-actors-1975">Steffan Schlegel</persName> 33 fl. 6 kr. 7 d.  
+<lb n="326"/><persName ref="lub-actors-368">Christa Negeli</persName>, <persName ref="lub-actors-1934">Thomas</persName> son 80 fl. 16 kr.  
+<lb n="327"/><persName ref="lub-actors-1976">Jerg Eberlin</persName> 300 fl. 1 fl. 
+<lb n="328"/><persName ref="lub-actors-1652">Christa Marthin</persName> 50 fl. 10 kr.  
+<lb n="329"/><persName ref="lub-actors-353">Caspar Beckh</persName> 165 fl. 33 kr.  
+<lb n="330"/><persName ref="lub-actors-1977">Thoma Pfeiffer </persName>40 fl. 8 kr.  
+<lb n="331"/><persName ref="lub-actors-1978">Hanns Pfeiffer</persName> 290 fl. 58 kr.  
+<lb n="332"/><persName ref="lub-actors-352">Hannß Hülbin</persName> 430 fl. 1 fl. 26 kr.  
+<lb n="333"/>Mer als vogt <persName ref="lub-actors-1979">Adam Frumols des   
+<lb n="334"/>Jungen</persName> kinder 60 fl. 12 kr.  
+<lb n="335"/>Mer als vogt <persName ref="lub-actors-1980">Ruprecht Hilbis</persName>  
+<lb n="336"/>kind 15 fl. 3 kr.  
+<lb n="337"/><persName ref="lub-actors-1981">Steffan Lamparts</persName> wittib unnd  
+<lb n="338"/>kinder vogt <persName ref="lub-actors-352">Hannß Hulbin</persName> 60 fl. 12 kr. 
+<lb n="339"/><persName ref="lub-actors-2260">Pauli Lampert</persName> 360 fl. 1 fl. 12 kr.  
+<lb n="340"/><persName ref="lub-actors-1982">Hannß Eberli</persName>, <persName ref="lub-actors-1974">Cristans</persName> son 110 fl. 22 kr.  
+<lb n="341"/><persName ref="lub-actors-376">Steffan Negelis </persName>kinder vögt <persName ref="lub-actors-335">Hanß  
+<lb n="342"/>Negelin</persName> und <persName ref="lub-actors-352">Hanß Hülbi</persName> 250 fl. 50 kr. 
+<lb n="343"/>Haubtgut 2338 fl. 
+<lb n="344"/>Schnitz 7 fl. 48 kr. 2 d. 
+</p>
+        <p><pb facs="lub-media-1251 " n="20"/><lb n="345"/><persName ref="lub-actors-1983">Hanns Thanner</persName> fur sich selbs <supplied>500 fl. 1 fl. 40 kr.</supplied><lb n="346"/>Mer als vogt <persName ref="lub-actors-1984">Ulrich Negelis</persName> seligen tochter  
+<lb n="347"/><persName ref="lub-actors-1985">Gretha</persName> 30 fl. 6 kr.  
+<lb n="348"/><persName ref="lub-actors-1320">Christa Negelin</persName>, <persName ref="lub-actors-1986">Ullis</persName> son 40 fl. 8 kr. 
+<lb n="349"/><persName ref="lub-actors-1987">Christan Oschwaldt</persName> 35 fl. 7 kr.  
+<lb n="350"/><persName ref="lub-actors-1986">Ullin Negelin </persName>50 fl. 10 kr.  
+<lb n="351"/><persName ref="lub-actors-1962">Michl Hülbin</persName> sambt seinen 3 schwisstergeten 100 fl. 20 kr.  
+<lb n="352"/><persName ref="lub-actors-1988">Caspar Eberlin</persName> 50 fl. 10 kr.  
+<lb n="353"/><persName ref="lub-actors-1990">Cristan Eberlin</persName>, <persName ref="lub-actors-1991">Petters</persName> son 100 fl. 20 kr.  
+<lb n="354"/><persName ref="lub-actors-1992">Hannß Oschwalt der Jung</persName> 208 fl. 42 kr.  
+<lb n="355"/><persName ref="lub-actors-1993">Christa Schlegl</persName> 400 fl. 1 fl. 20 kr.  
+<lb n="356"/><persName ref="lub-actors-1994">Adam Schlegl</persName> 80 fl. 16 kr.  
+<lb n="357"/><persName ref="lub-actors-1995">Hannß Beckh</persName> in der Reutin 170 fl. 34 kr.  
+<lb n="358"/>Mer als vogt <persName ref="lub-actors-902">Adam Beckhen</persName> seligen khinder 75 fl. 15 kr. 
+<lb n="359"/><persName ref="lub-actors-1997">Christa Frumolt</persName> 40 fl. 8 kr.  
+<lb n="360"/><persName ref="lub-actors-1332">Claß Frumolt</persName> 30 fl. 6 kr.  
+<lb n="361"/><persName ref="lub-actors-1989">Caspar Eberlin</persName> 100 fl. 20 kr. 
+<lb n="362"/>Haubtgut 2008 fl. 
+<lb n="363"/>Schnitz 6 fl. 44 kr. 
+</p>
+        <p><pb facs="lub-media-1252 " n="21"/><lb n="364"/><persName ref="lub-actors-1465"><supplied>Chri</supplied>sta Pfeiffer</persName> 370 fl. 1 fl. 14 kr.  
+<lb n="365"/><persName ref="lub-actors-1998">Michl Eberlin</persName> 120 fl. 24 kr.  
+<lb n="366"/><persName ref="lub-actors-1999">Hannß Lampert</persName>, <persName ref="lub-actors-1927">Paulis</persName> sun 40 fl. 8 kr.  
+<lb n="367"/><persName ref="lub-actors-1921">Ully Lampert</persName> als vogt <persName ref="lub-actors-2000">Anna  
+<lb n="368"/>Lampertin</persName> 30 fl. 6 kr.  
+<lb n="369"/><persName ref="lub-actors-2001">Lentz Lampert </persName>30 fl. 6 kr.  
+<lb n="370"/><persName ref="lub-actors-2002">Hannß Negeli</persName> ab <placeName ref="lub-places-190">Maseschen</placeName> als  
+<lb n="371"/>vogt <persName ref="lub-actors-2003">Frena Thöni </persName>50 fl. 10 kr.  
+<lb n="372"/><persName ref="lub-actors-2004">Jerg Negelin</persName>, gerichtzman 420 fl. 1 fl. 24 kr. 
+<lb n="373"/><persName ref="lub-actors-374">Petter Oschwalt</persName> 230 fl. 46 kr.  
+<lb n="374"/><persName ref="lub-actors-2005">Jung Petter Oschwalt </persName> 120 fl. 24 kr. 
+<lb n="375"/><persName ref="lub-actors-355">Thoma Oschwalt</persName> 75 fl. 15 kr.  
+<lb n="376"/><persName ref="lub-actors-2006">Simon Negeli</persName> fur sich unnd sein weib 50 fl. 10 kr.  
+<lb n="377"/><persName ref="lub-actors-2007">Hannß Beckh</persName> als <persName ref="lub-actors-2008">Claß Beckhen</persName> son 320 fl. 1 fl. 4 kr.  
+<lb n="378"/>Mer als vogt <persName ref="lub-actors-2009">Jerg Beckhen </persName>son 50 fl. 10 kr.  
+<lb n="379"/><persName ref="lub-actors-2010">Clas Bekch</persName>, <persName ref="lub-actors-2011">Clasen</persName> son 315 fl. 1 fl. 3 kr. 
+<lb n="380"/><persName ref="lub-actors-2012">Claß Oschwalt </persName>280 fl. 56 kr.  
+<lb n="381"/>Haubtgut 2500 fl. 
+<lb n="382"/>Schnitz 8 fl. 20 kr. 
+</p>
+        <p><pb facs="lub-media-1253 " n="22"/><lb n="383"/><persName ref="lub-actors-2013">Jerg Eberlin der Jung</persName> fur sich <supplied>40 fl. 8 kr.</supplied><lb n="384"/><persName ref="lub-actors-2014">Thrina Eberli</persName>, sein schwester 30 fl. 6 kr.  
+<lb n="385"/><persName ref="lub-actors-2015">Jung Hannß Schedler</persName> 50 fl. 10 kr.  
+<lb n="386"/><persName ref="lub-actors-1167">Joß Kaufman</persName> 110 fl. 22 kr.  
+<lb n="387"/><persName ref="lub-actors-2016">Hannß Kaufman</persName> 205 fl. 41 kr.  
+<lb n="388"/><persName ref="lub-actors-2017">Jerg Oschwalt</persName> 50 fl. 10 kr.  
+<lb n="389"/><persName ref="lub-actors-1171">Clauß Beckh</persName>, <persName ref="lub-actors-1172">Jerg</persName> son 100 fl. 20 kr.  
+<lb n="390"/><persName ref="lub-actors-2016">Hanns Kaufman</persName>, vogt <persName ref="lub-actors-291">Clas Eberlins </persName>2 kinder 80 fl. 16 kr.  
+<lb n="391"/><persName ref="lub-actors-1322">Hannß Eberli</persName> 200 fl. 40 kr.  
+<lb n="392"/><persName ref="lub-actors-603">Hannß Beckh</persName> in <placeName ref="lub-places-472">Jona Boden</placeName> 550 fl. 1 fl. 50 kr.  
+<lb n="393"/>Mer als vogt <persName ref="lub-actors-2018">Luzi Pfeiffers</persName> kind 50 fl. 10 kr.  
+<lb n="394"/>Mer als vögt <persName ref="lub-actors-1172">Jerg Beckhen</persName> zwen sön 80 fl. 16 kr.  
+<lb n="395"/><persName ref="lub-actors-2019">Clas Danner</persName> 300 fl. 1 fl.  
+<lb n="396"/><persName ref="lub-actors-2020">Simon Frumolt</persName>, <persName ref="lub-actors-2021">Adams</persName> son 70 fl. 14 kr.  
+<lb n="397"/><persName ref="lub-actors-2022">Christa Gasner</persName>, <persName ref="lub-actors-1970">Hannsen</persName> son 105 fl. 21 kr.  
+<lb n="398"/><persName ref="lub-actors-2023">Christa Joß</persName> 50 fl. 10 kr.  
+<lb n="399"/><persName ref="lub-actors-2024">Pauli Pfeiffer</persName> 105 fl. 21 kr. 
+<lb n="400"/>Haubtgut 2175 fl. 
+<lb n="401"/>Schnitz 7 fl. 15 kr. 
+</p>
+        <p><pb facs="lub-media-1254 " n="23"/><lb n="402"/><gap/> Frumolt 162 1/2 fl. 32 kr. 2 d. 
+<lb n="403"/><persName ref="lub-actors-2025">Anndras Negeli</persName> 260 fl. 52 kr. 
+<lb n="404"/><persName ref="lub-actors-1455">Claus Negeli</persName> der waibel 150 fl. 30 kr. 
+<lb n="405"/><persName ref="lub-actors-2026">Jeorg Lampart</persName> der geweesen senn 50 fl. 10 kr. 
+<lb n="406"/><persName ref="lub-actors-2027">Jung Michl Eberli</persName> 220 fl. 44 kr. 
+<lb n="407"/><persName ref="lub-actors-377">Ulrich Hülbis</persName> seligen weib 150 fl 30 kr. 
+<lb n="408"/><persName ref="lub-actors-2025">Anndras Negeli</persName> als vogt <persName ref="lub-actors-2028">Thoman  
+<lb n="409"/>Frumolts</persName> wittib unnd kinder 75 fl. 15 kr. 
+<lb n="410"/><persName ref="lub-actors-1163">Steffan Schedler</persName> ab <placeName ref="lub-places-473">Ratzlinen</placeName> 400 fl. 1 fl. 20 kr.  
+<lb n="411"/>Mer als vogt <persName ref="lub-actors-2029">Uris Bürtzlis</persName> 35 fl.  5 bz. 6 kr. 
+<lb n="412"/>Mer als vogt <persName ref="lub-actors-2030">Gretha Oschwaltin</persName> 45 fl. 9 kr. 
+<lb n="413"/><persName ref="lub-actors-291">Claß Eberlins</persName> wittib unnd kinder  
+<lb n="414"/>ir vogt <persName ref="lub-actors-1968">Pauli Negelin</persName> 
+<lb n="415"/>Nota: soll nichtz dann cleine unerzogne  
+<lb n="416"/>kinder unnd alle armut verhannden sein 
+<lb n="417"/>Haubtgut 1512 fl. 30 kr. 
+<lb n="418"/>Schnitz 5 fl. 8 kr. 4 hl. 
+</p>
+        <p><pb facs="lub-media-1255 " n="24"/><lb n="419"/><persName ref="lub-actors-2031">Jokh Schedler</persName><supplied>30 fl. 6 kr.</supplied><lb n="420"/><persName ref="lub-actors-334">Hans Lampert</persName> uff <placeName ref="lub-places-181">Rotten  
+<lb n="421"/>Boden</placeName> 100 fl. 20 kr. 
+<lb n="422"/><persName ref="lub-actors-2032">Anna Beckhin</persName> 100 fl. 20 kr. 
+<lb n="423"/><persName ref="lub-actors-2033">Claus Michell</persName> 30 fl. 6 kr.  
+<lb n="424"/><persName ref="lub-actors-2034">Steffan Eberlin</persName>, vorstknecht 70 fl. 14 kr.  
+<lb n="425"/><persName ref="lub-actors-2035">Claus Oschwald der Jünger</persName> 35 fl. 6 kr. 2 d.  
+<lb n="426"/><persName ref="lub-actors-2036">Jerg Nägelin</persName>, vorstknecht 150 fl. 30 kr.  
+<lb n="427"/>Latus 1 fl. 42 kr. 2 d. 
+<lb n="428"/>Suma schnitz geldt am  
+<lb n="429"/>Driessnerberg jarlichen  
+<lb n="430"/>pringt 62 fl. 1 kr. 2 d. 
+</p>
+        <p><pb facs="lub-media-1256 " n="25"/><lb n="431"/><placeName ref="lub-places-53"><supplied>S</supplied>chan</placeName> und <placeName ref="lub-places-124">Blancken</placeName>  
+<lb n="432"/><persName ref="lub-actors-2037">Loni Frickh</persName> 250 fl. 50 kr.  
+<lb n="433"/><persName ref="lub-actors-2038">Hannß</persName> unnd <persName ref="lub-actors-247">Anndriß die Schierßer</persName>, gebrüder 750 fl. 2 fl. 30 kr.  
+<lb n="434"/>Mer als vogt <persName ref="lub-actors-1385">Margretha Frickhin</persName> 250 fl. 50 kr. 
+<lb n="435"/><persName ref="lub-actors-2039">Cristan Wanngner</persName> 175 fl. 35 kr.  
+<lb n="436"/>Mer als vogt <persName ref="lub-actors-2040">Claß Negelis</persName> an <placeName ref="lub-places-124">Blanckhen</placeName>  
+<lb n="437"/>kinder 120 fl. 24 kr. 
+<lb n="438"/><persName ref="lub-actors-1212">Christa Negeli</persName> ab <placeName ref="lub-places-124">Blannckhen</placeName> 100 fl. 20 kr. 
+<lb n="439"/><persName ref="lub-actors-318">Thoma Knabenkhnecht</persName> 500 fl. 1 fl. 46 kr. 
+<lb n="440"/><persName ref="lub-actors-2042">Eva Wolfin</persName> für sich selbs 150 fl. 30 kr. 
+<lb n="441"/>Mer ire fünff ehliche und stiefkhinder 200 fl. 40 kr. 
+<lb n="442"/><persName ref="lub-actors-1421">Augustein Conradts</persName> hawsfraw 150 fl. 30 kr.  
+<lb n="443"/><persName ref="lub-actors-2043">Barthlome Connradt</persName> 300 fl. 1 fl.  
+<lb n="444"/><persName ref="lub-actors-2044">Matheus Gstachs</persName> erben 500 fl. 1 fl. 40 kr. 
+<lb n="445"/><persName ref="lub-actors-1216">Jacob</persName> unnd <persName ref="lub-actors-1220">Thomen Üelin</persName> 200 fl. 40 kr. 
+<lb n="446"/>Haubtgut 3645 fl. 
+<lb n="447"/>Schnitz 12 fl. 9 kr. 
+</p>
+        <p><pb facs="lub-media-1257 " n="26"/><lb n="448"/><persName ref="lub-actors-483">Joseph Gasner</persName><supplied>150 fl. 30 kr.</supplied><lb n="449"/>Sein mueter, <persName ref="lub-actors-2073">Hannßen Gasners</persName> wittib 250 fl. 50 kr. 
+<lb n="450"/><persName ref="lub-actors-2075">Hannß Gasner</persName> 80 fl. 16 kr. 
+<lb n="451"/><persName ref="lub-actors-1076">Barthlome Mader</persName> 163 fl. 32 kr. 2 d. 
+<lb n="452"/><persName ref="lub-actors-1209">Michael Üelin</persName> ab <placeName ref="lub-places-124">Blannckhen</placeName> 195 fl. 39 kr. 
+<lb n="453"/><persName ref="lub-actors-214">Aman Blennckhi </persName>800 fl. 2 fl. 40 kr. 
+<lb n="454"/><persName ref="lub-actors-2076">Lanng Jerg Danner</persName> 410 fl. 1 fl. 22 kr. 
+<lb n="455"/><persName ref="lub-actors-976">Joß Mayer</persName> sambt seinem son <persName ref="lub-actors-1444">Vesst</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="456"/><persName ref="lub-actors-2077">Elsa Sporhortin</persName> sambt der <persName ref="lub-actors-2078">Gretha  
+<lb n="457"/>Grüschlin</persName> gut. Ir vogt <persName ref="lub-actors-714">Hannß Osch
+<lb break="no" n="458"/>waldt</persName> 150 fl. 30 kr.
+<lb n="459"/><persName ref="lub-actors-1148">Steffan Frumoldt</persName> als vogt  
+<lb n="460"/>Benedictus sälligen weib  
+<lb n="461"/>unnd künder 150 fl. 30 kr. 
+<lb n="462"/><persName ref="lub-actors-1148">Steffan Frumoldt</persName> 150 fl. 30 kr. 
+<lb n="463"/><persName ref="lub-actors-1143">Hainrich Wanngner</persName> 80 fl. 16 kr. 
+<lb n="464"/><persName ref="lub-actors-287">Adam Schierßer</persName> 1000 fl. 3 fl. 5 bz. 
+<lb n="465"/>Mer als vogt <persName ref="lub-actors-2080">Thebus Hültin</persName> 80 fl. 16 kr. 
+<lb n="466"/>Haubtgut 4058 fl. 
+<lb n="467"/>Schnitz 13 fl. 31 kr. 2 d. 
+</p>
+        <p><pb facs="lub-media-1258 " n="27"/><lb n="468"/><gap/> Ganndtner fur sich und sein  
+<lb n="469"/>hausfraw 200 fl. 40 kr. 
+<lb n="470"/><persName ref="lub-actors-2045">Jacob Hültin </persName>150 fl. 30 kr. 
+<lb n="471"/><persName ref="lub-actors-2046">Hannß Frumolt der Elter</persName> 1275 fl. 4 fl. 15 kr. 
+<lb n="472"/><persName ref="lub-actors-1077">Zynus Wanngner</persName> 25 fl. 5 kr. 
+<lb n="473"/><persName ref="lub-actors-2047">Jerg Thanner der Elter</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="474"/><persName ref="lub-actors-2048">Hannß Geysinger</persName> 50 fl. 10 kr. 
+<lb n="475"/><persName ref="lub-actors-1217">Lennz Kaufman</persName> 50 fl. 10 kr. 
+<lb n="476"/><persName ref="lub-actors-1221">Ulrich Negeli</persName> 100 fl. 20 kr. 
+<lb n="477"/><persName ref="lub-actors-1382">Hannß Gannzman</persName>, <persName ref="lub-actors-455">Michl Gannzmans</persName>  
+<lb n="478"/>son fur sich selbs 400 fl. 1 fl. 20 kr. 
+<lb n="479"/>Mer wegen seiner hausfrawen 250 fl. 50 kr. 
+<lb n="480"/><persName ref="lub-actors-1144">Adam Frickh</persName> 1000 fl. 3 fl. 20 kr. 
+<lb n="481"/><persName ref="lub-actors-2049">Lucas Conradt</persName> sambt seinen ge
+<lb break="no" n="482"/>schwisstrigiten 50 fl. 10 kr.
+<lb n="483"/><persName ref="lub-actors-1075">Jacob Thundtel</persName> 1150 fl. 3 fl. 50 kr. 
+<lb n="484"/>Mer er, <persName ref="lub-actors-1075">Jacob</persName>, als vogt <persName ref="lub-actors-1396">Urßula Fritschin</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="485"/>Haubtgut 5500 fl. 
+<lb n="486"/>Schnitz 18 fl. 20 kr. 
+</p>
+        <p><pb facs="lub-media-1259 " n="28"/><lb n="487"/><persName ref="lub-actors-2261">Petter Mader</persName><gap/><lb n="488"/><persName ref="lub-actors-1211">Hannß Moser</persName> 100 fl. 20 kr. 
+<lb n="489"/><persName ref="lub-actors-1439">Anna Mareßin</persName> 120 fl. 24 kr. 
+<lb n="490"/><persName ref="lub-actors-2081">Sebastian Frumoldt</persName> 100 fl. 20 kr. 
+<lb n="491"/><persName ref="lub-actors-1426">Ulrich Conradt</persName> 150 fl. 30 kr. 
+<lb n="492"/><persName ref="lub-actors-556">Petter Bläncki</persName> 450 fl. 90 kr. 
+<lb n="493"/><persName ref="lub-actors-2082">Jung Hanß Ganßman</persName> 200 fl. 40 kr. 
+<lb n="494"/>Mehr sein schwester <persName ref="lub-actors-2083">Eva</persName> 20 fl. 8 kr. 
+<lb n="495"/><persName ref="lub-actors-2084">Lutz Frumoldt</persName> 80 fl. 16 kr. 
+<lb n="496"/><persName ref="lub-actors-2085">Hanß Frumoldt</persName> in der <placeName ref="lub-places-232">Specki</placeName>  
+<lb n="497"/>als vogt <persName ref="lub-actors-1144">Adam Frickh</persName> stieff
+<lb break="no" n="498"/>sohn <persName ref="lub-actors-1499">Hanß Weinzierls </persName>300 fl. 60 kr.
+<lb n="499"/><persName ref="lub-actors-1310">Michel Conradt</persName> 800 fl. 2 fl. 40 kr. 
+<lb n="500"/>Mehr als vogt <persName ref="lub-actors-2086">Michaels Schlegels</persName>  
+<lb n="501"/>kinder 50 fl. 10 kr. 
+<lb n="502"/>Mer alß <persName ref="lub-actors-361">aman Schiers</persName> selligen  
+<lb n="503"/>enckhlin vogt zu <placeName ref="lub-places-149">Warthauer</placeName>  
+<lb n="504"/>herschafft 350 fl. 1 fl. 20 kr. 
+<lb n="505"/><persName ref="lub-actors-1312">Giorg Conradt</persName> 1100 fl. 3 kr. 40 d.  
+<lb n="506"/><persName ref="lub-actors-2087">Hannß Guldischuoch</persName> selligen  
+<lb n="507"/>erben, die wittib bela
+<lb break="no" n="508"/>ngt alß vogt <persName ref="lub-actors-1145">Lang Hanß Fru
+<lb break="no" n="509"/>moldt</persName> und <persName ref="lub-actors-1312">Giorg Conradt </persName>200 fl. 40 kr.
+<lb n="510"/><persName ref="lub-actors-1498">Ulrich Wangner</persName> fur sich unnd  
+<lb n="511"/>sein frawen 80 fl. 16 kr. 
+<lb n="512"/>Haubtgut 4670 fl. 
+<lb n="513"/>Schnitz 15 fl. 14 kr. 
+</p>
+        <p><pb facs="lub-media-1260 " n="29"/><lb n="514"/><gap/> Eglin 50 fl. 10 kr. 
+<lb n="515"/>ist ain weinzurli 
+<lb n="516"/><persName ref="lub-actors-1440">Claß Mareß</persName> 124 fl. 25 kr. 
+<lb n="517"/><persName ref="lub-actors-1369">Allexannder Frickh</persName> 450 fl. 1 fl. 30 kr. 
+<lb n="518"/><persName ref="lub-actors-382">Arostotoli Tunttl</persName> 315 fl. 1 fl. 3 kr. 
+<lb n="519"/>Mer von seiner frawen und stiefkhinder 250 fl. 50 kr. 
+<lb n="520"/><persName ref="lub-actors-2088">Alt Hanns Ganntzmans</persName> son <persName ref="lub-actors-1313">Christan</persName>  
+<lb n="521"/>und sein bruder 1700 fl. 5 fl. 40 kr. 
+<lb n="522"/><persName ref="lub-actors-252">Andreas Frick</persName> wittib und  
+<lb n="523"/>khinder 350 fl. 1 fl. 10 kr. 
+<lb n="524"/><persName ref="lub-actors-1142">Hannß Knabenknecht</persName> 400 fl. 1 fl 20 kr. 
+<lb n="525"/>Mer als vogt <persName ref="lub-actors-1316">Jerg Blennckhis</persName> seligen  
+<lb n="526"/>khind 110 fl. 22 kr. 
+<lb n="527"/><persName ref="lub-actors-2089">Jerg Ganndtner</persName> 200 fl. 40 kr. 
+<lb n="528"/>Mer als vogt <persName ref="lub-actors-2090">Agatha Mayerin</persName> 50 fl. 10 kr. 
+<lb n="529"/><persName ref="lub-actors-1399">Symon Hültin</persName> sein hausfraw unnd stief
+<lb break="no" n="530"/>sön 673 1/2 fl. 7 fl. 14 1/2 kr.
+<lb n="531"/><persName ref="lub-actors-2091">Hannß Frumolt</persName> unnd sein bruder 550 fl. 1 fl. 50 kr. 
+<lb n="532"/><persName ref="lub-actors-1419">Ullin Knabenkhnecht</persName> 150 fl. 30 kr. 
+<lb n="533"/><persName ref="lub-actors-1421">Augustein Connradts</persName> hausfraw  
+<lb n="534"/>schnitzt abermalen 112 1/2 fl. 23 kr. 
+<lb n="535"/>Haubtgut 5485 fl. 
+<lb n="536"/>Schnitz 18 fl. 18 kr. 
+</p>
+        <p><pb facs="lub-media-1261 " n="30"/><lb n="537"/><persName ref="lub-actors-329">Ulrich Ögli</persName><supplied>900 fl. 3 fl.</supplied><lb n="538"/>Mer als vogt <persName ref="lub-actors-2092">Jerg Hennis</persName> seligen  
+<lb n="539"/>enchle 150 fl. 30 kr. 
+<lb n="540"/><persName ref="lub-actors-2093">Clemenntz Wurtz</persName> 100 fl. 20 kr. 
+<lb n="541"/><persName ref="lub-actors-481">Hannß Marxer </persName>130 fl. 23 kr. 
+<lb n="542"/><persName ref="lub-actors-2094">Hanns Maurer der Jünger </persName>910 fl. 3 fl. 42 kr. 
+<lb n="543"/><persName ref="lub-actors-2095">Michael Lozer</persName> sambt sein stieftochter 280 fl. 56 kr. 
+<lb n="544"/><persName ref="lub-actors-2096">Hannß Frumolt</persName> <persName ref="lub-actors-2097">Georgen</persName> son 100 fl. 20 kr. 
+<lb n="545"/><persName ref="lub-actors-1395">Fridli Henne</persName> 150 fl. 30 kr. 
+<lb n="546"/><persName ref="lub-actors-2098">Fluri Ballißer</persName> 210 fl. 1 fl. 22 kr. 
+<lb n="547"/>Mer von seiner hausfrawen wegen 200 fl. 1 f. 22 kr. 
+<lb n="548"/><persName ref="lub-actors-2099">Petter Schüechler</persName> 60 fl. 12 kr. 
+<lb n="549"/><persName ref="lub-actors-1362">Michl Durnißer </persName>60 fl. 12 kr. 
+<lb n="550"/><persName ref="lub-actors-232">Georg Bürckhli</persName> fur sich und sin <supplied>hausfraw</supplied> 1200 fl. 4 fl.  
+<lb n="551"/><persName ref="lub-actors-545">Adam Grüschli</persName> 200 fl. 40 kr. 
+<lb n="552"/>Nota: sein hausfraw <persName ref="lub-actors-2100">Anna Schreiberin</persName>  
+<lb n="553"/>soll in der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>  
+<lb n="554"/>verschnitzen. 
+<lb n="555"/><persName ref="lub-actors-2101">Joß Blaichner</persName> 300 fl. 1 fl. 
+<lb n="556"/>Haubtgut 4950 fl. 
+<lb n="557"/>Schnitz 16 fl. 30 kr. 
+</p>
+        <p><pb facs="lub-media-1262 " n="31"/><lb n="558"/><supplied>Mer er</supplied><persName ref="lub-actors-2101">Blaichner</persName> als vogt <persName ref="lub-actors-1577">Hannß Marxers</persName>  
+<lb n="559"/>kinder 300 fl. 1 fl. 
+<lb n="560"/><persName ref="lub-actors-807">Michael Gasner</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="561"/><persName ref="lub-actors-1769">Roni Frickh</persName> als vogt <persName ref="lub-actors-2102">Michael Walsers </persName>des  
+<lb n="562"/>Jungen son 500 fl. 1 fl. 4 kr. 
+<lb n="563"/><persName ref="lub-actors-229">Thoma Walser,</persName> ermelts <persName ref="lub-actors-2102">Michls</persName> son, für sich  
+<lb n="564"/>selbs unnd sein weib 800 fl. 2 fl. 40 kr. 
+<lb n="565"/><persName ref="lub-actors-1446">Sigmundt Müller</persName> 500 fl. 1 fl. 40 kr. 
+<lb n="566"/><persName ref="lub-actors-714">Hannß Oschwalt</persName> als vogt <persName ref="lub-actors-2103">Bernharten  
+<lb n="567"/>Blenckhis</persName> seligen kind 100 fl. 5 bz. 
+<lb n="568"/>Mer als vogt <persName ref="lub-actors-2104">Thomen Üelins</persName> ab <placeName ref="lub-places-124">Blannckhen</placeName>  
+<lb n="569"/>khind 80 fl. 16 kr. 
+<lb n="570"/><persName ref="lub-actors-1380">Michl Ganndtner</persName> 50 fl. 10 kr. 
+<lb n="571"/><persName ref="lub-actors-711">Anndris Straub</persName> als vogt <persName ref="lub-actors-2105">Jacob  
+<lb n="572"/>Tanners</persName> seligen kind 100 fl. 20 kr. 
+<lb n="573"/><persName ref="lub-actors-1344">Petter Ballißer</persName> 1300 fl. 4 fl. 20 kr. 
+<lb n="574"/>Haubtgut 4130 fl. 
+<lb n="575"/>Schnitz 13 fl. 46 kr. 
+</p>
+        <p><pb facs="lub-media-1263 " n="32"/><lb n="576"/><persName ref="lub-actors-2106">Hanß Wein Man </persName><supplied>60 fl. 12 kr.</supplied><lb n="577"/><persName ref="lub-actors-2107">Trina Nasalin</persName> 40 fl. <supplied>2 bz.</supplied> 
+<lb n="578"/><persName ref="lub-actors-1210">Steffan Ganttner</persName> 150 fl. 7 bz. 7 d. 
+<lb n="579"/>Herr <persName ref="lub-actors-784">Hanß Straub</persName> pfarherr zue  
+<lb n="580"/><placeName ref="lub-places-53">Schann</placeName> 2 fl. 
+<lb n="581"/>Item herr fruemesser zu <placeName ref="lub-places-53">Schan</placeName> D<persName ref="lub-actors-2108">. Philip</persName> 12 bz. 
+<lb n="582"/>Latus 3 fl. 8 bz. 2 kr. 
+<lb n="583"/>Suma schnitz geldt zu  
+<lb n="584"/><placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-124">Blanckhen</placeName>  
+<lb n="585"/>pringt jarlichen 110 fl. 26 kr. 
+<lb n="586"/>Nota: Bey obstenden Schanern statt am ersten platt in zwayen  
+<lb n="587"/>posten. Erstlich <persName ref="lub-actors-2042">Eva Wolffin</persName> für sich selbs 150 fl. haubguett und dann  
+<lb n="588"/>wegen irer ehlichen, auch stieffkindern 200 fl. haubtgutt, bringt  
+<lb n="589"/>schnitz 1 fl. 10 kr. So statt am dritten platt herrnah <persName ref="lub-actors-252">Andris  
+<lb n="590"/>Frickhen</persName> witib und kinder 350 fl. haubtgutt. Davon schnitzen  
+<lb n="591"/>1 fl. 10 kr. Und ist dise witib <persName ref="lub-actors-252">Andris Frikhen</persName> gewesne hausfraw.  
+<lb n="592"/>Uber obstande <persName ref="lub-actors-2042">Eva Wolffin</persName> ist also neu ain post, ist  
+<lb n="593"/>derowegen zu vill, so an obstenden suma 110 fl. 26 kr. 
+<lb n="594"/>1 fl. 10 kr. 
+</p>
+        <p><pb facs="lub-media-1264 " n="33"/><lb n="595"/><placeName ref="lub-places-1">Vadutz</placeName><lb n="596"/>Aman <persName ref="lub-actors-246">Hainrich Quaderer</persName> 3500 fl. 11 fl. 40 kr. 
+<lb n="597"/><persName ref="lub-actors-2109">Jerg Wolf </persName>waibel 1100 fl. 3 fl. 40 kr. 
+<lb n="598"/><persName ref="lub-actors-1075">Jacob Düntl</persName> als vogt <persName ref="lub-actors-2110">Hanß Hültis</persName>  
+<lb n="599"/>witib und kinder 1050 fl. 3 fl. 30 kr. 
+<lb n="600"/><persName ref="lub-actors-2111">Hannß Oschwaldt</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="601"/><persName ref="lub-actors-1146">Petter Hultin</persName> sambt seinem weib 400 fl. 2 fl. 30 kr. 
+<lb n="602"/>Aman Hültins verlaßne wittib sambt  
+<lb n="603"/>irem tochterman <persName ref="lub-actors-2112">Jerg Blaichner</persName> 900 fl. 3 fl.  
+<lb n="604"/>Mer er, <persName ref="lub-actors-1146">Petter Hultin</persName>, als vogt <persName ref="lub-actors-2113">Martin  
+<lb n="605"/>Fritschen</persName> seligen kinder 100 fl. 20 kr. 
+<lb n="606"/><persName ref="lub-actors-543">Joachim Quaderer</persName> 1600 fl. 5 fl. 20 kr. 
+<lb n="607"/>Mer er, <persName ref="lub-actors-543">Joachim Quaderer</persName>, als vogt <persName ref="lub-actors-2114">Jerg Doblers</persName>  
+<lb n="608"/>kinder <persName ref="lub-actors-2115">Anndres</persName>, <persName ref="lub-actors-2116">Maria</persName> unnd <persName ref="lub-actors-2117">Urßla</persName> 300 fl. 1 fl. 
+<lb n="609"/>Mer als vogt <persName ref="lub-actors-2118">Leonnhart Bieten</persName> 60 fl. 12 kr. 
+<lb n="610"/>Krum <persName ref="lub-actors-1428">Hannß Maurer</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="611"/>Mer als vogt <persName ref="lub-actors-2119">Maria Murerin</persName> 150 fl. 30 kr. 
+<lb n="612"/>Sein tochterman <persName ref="lub-actors-2120">Thoman Hemerli</persName> 30 fl. 6 kr. 
+<lb n="613"/>Haubtgut 9990 fl. 
+<lb n="614"/>Schnitz 33 fl. 18 kr. 
+</p>
+        <p><pb facs="lub-media-1265 " n="34"/><lb n="615"/><persName ref="lub-actors-1655">Hannß Jeger</persName><supplied>20 fl. 4 kr.</supplied><lb n="616"/><persName ref="lub-actors-1147">Barthle Maurer</persName> 100 fl. 20 kr. 
+<lb n="617"/><persName ref="lub-actors-228">Thoma Lampart</persName> 250 fl. 50 kr. 
+<lb n="618"/><persName ref="lub-actors-2121">Theis Gersters </persName>deß baders seligen wittib 0  
+<lb n="619"/><persName ref="lub-actors-2122">Adam Thöni</persName> 700 fl. 2 fl. 20 kr. 
+<lb n="620"/>Mer als vogt <persName ref="lub-actors-1489">Andras Thönis</persName> 200 fl. 40 kr. 
+<lb n="621"/>Mer als vogt <persName ref="lub-actors-2123">Anna Gabrieli</persName> 40 fl. 8 kr. 
+<lb n="622"/><persName ref="lub-actors-1345">Ballthaßer Hultin</persName> 50 fl. 10 kr. 
+<lb n="623"/><persName ref="lub-actors-1403">Jeorg Jeger</persName> 200 fl. 40 kr. 
+<lb n="624"/>Mer als vogt <persName ref="lub-actors-1567">Theys Hültins</persName> kind 120 fl. 24 kr. 
+<lb n="625"/>Mer als vogt <persName ref="lub-actors-2124">Anna Landtmanin</persName> 30 fl. 6 kr. 
+<lb n="626"/><persName ref="lub-actors-2125">Jerg Thöni der Elter</persName> 150 fl. 30 kr. 
+<lb n="627"/><persName ref="lub-actors-1406">Thoman Jeger</persName> 200 fl. 40 kr. 
+<lb n="628"/><persName ref="lub-actors-711">Anndriß Straub</persName> 100 fl. 20 kr.  
+<lb n="629"/><persName ref="lub-actors-2126">Georg Straub</persName> 100 fl. 20 kr.  
+<lb n="630"/><persName ref="lub-actors-2127">Hannß Wanngner</persName> 40 fl. 8 kr. 
+<lb n="631"/><persName ref="lub-actors-1488">Thoman Tobler</persName> sambt seinem weib 300 fl. 1 fl. 
+<lb n="632"/><persName ref="lub-actors-2128">Jacob Tobler</persName> 50 fl. 10 kr. 
+<lb n="633"/>Haubtgut 2650 fl. 
+<lb n="634"/>Schnitz 8 fl. 50 kr. 
+</p>
+        <p><pb facs="lub-media-1266 " n="35"/><lb n="635"/><gap/><persName ref="lub-actors-1372">ß Futscher</persName> 100 fl. 20 kr. 
+<lb n="636"/><persName ref="lub-actors-1372">Hannß Futscher</persName> 100 fl. 20 kr. 
+<lb n="637"/><persName ref="lub-actors-2129">Symon Grüschli</persName> 450 fl. 1 fl. 30 kr. 
+<lb n="638"/><persName ref="lub-actors-331">Adam Straub</persName> 200 fl. 40 kr. 
+<lb n="639"/>Mer als vogt <persName ref="lub-actors-2130">Claß Lamparts</persName> seligen kind 120 fl. 24 kr. 
+<lb n="640"/><persName ref="lub-actors-2131">Hanß Negellin</persName> 800 fl. 2 fl. 40 kr. 
+<lb n="641"/><persName ref="lub-actors-2132">Jacob Zur Burgk</persName> 100 fl. 20 kr. 
+<lb n="642"/><persName ref="lub-actors-2133">Thinuß Frick</persName> fur sich selbst 500 fl. 5 kr. 
+<lb n="643"/>Mer als vogt <persName ref="lub-actors-2134">Georg Knabenkhnechts</persName>  
+<lb n="644"/>kinder 120 fl. 24 kr. 
+<lb n="645"/><persName ref="lub-actors-2135">Jung Jerg Thöni</persName> 300 fl. 40 kr. 
+<lb n="646"/><persName ref="lub-actors-2136">Hanns Frumolt</persName>, genanndt Pegler 20 fl. 4 kr. 
+<lb n="647"/><persName ref="lub-actors-1636">Bastian Branndißer</persName> 600 fl. 2 fl. 
+<lb n="648"/><persName ref="lub-actors-1469">Melch Blennckhi</persName> 700 fl. 2 fl. 20 kr. 
+<lb n="649"/><persName ref="lub-actors-1495">Oschwalt Forling</persName> 3400 fl. 11 fl. 20 kr. 
+<lb n="650"/><persName ref="lub-actors-2137">Hillarius Ruosch</persName> 165 fl. 33 kr. 
+<lb n="651"/><persName ref="lub-actors-2138">Joß Tschögeli</persName>, sambt seinem schwager  
+<lb n="652"/>und knaben 150 fl. 30 kr. 
+<lb n="653"/><persName ref="lub-actors-2139">Elsa Ruoschin</persName> 80 fl. 16 kr. 
+<lb n="654"/>Haubtgut 8705 fl. 
+<lb n="655"/>Schnitz 29 fl. 21 kr. 
+</p>
+        <p><pb facs="lub-media-1267 " n="36"/><lb n="656"/><persName ref="lub-actors-2140">Fluri Wolfen</persName> seligen wittib <supplied>100 fl. 20 kr.</supplied><lb n="657"/><persName ref="lub-actors-1658">Gallus Hemerli</persName> 50 fl. 10 kr. 
+<lb n="658"/><persName ref="lub-actors-468">Caspar Ruosch</persName> 800 fl. 2 fl. 40 kr. 
+<lb n="659"/>Maister <persName ref="lub-actors-2141">Michel Gasner</persName>, der zoller, sampt  
+<lb n="660"/>seiner haußfrawen 180 fl. 9 bz. 
+<lb n="661"/><persName ref="lub-actors-668">Joß Oschwaldt</persName> unnd sein hausfraw <persName ref="lub-actors-2142">Gretha  
+<lb n="662"/>Beuschin</persName> 800 fl. 2 fl. 10 kr. 
+<lb n="663"/><persName ref="lub-actors-2143">Caspar Schrof</persName>, vorstkhnecht 20 fl. 1 bz. 
+<lb n="664"/><persName ref="lub-actors-615">Petter Kopff </persName>100 fl. 20 kr. 
+<lb n="665"/><persName ref="lub-actors-1193">Christan Lampart</persName> 1400 fl. 4 fl. 10 bz. 
+<lb n="666"/>Maister <persName ref="lub-actors-2144">Hannß Rudolf</persName>, suehmacher zu  
+<lb n="667"/><placeName ref="lub-places-1">Vaduz</placeName> 3 bz. 
+<lb n="668"/><persName ref="lub-actors-2145">Peter Ludescher</persName> für sich unnd sein hauß
+<lb break="no" n="669"/>fraw 400 fl. 1 fl. 5 bz.
+<lb n="670"/><persName ref="lub-actors-2146">Crista Gaßner</persName> 40 fl. 2 bz. 
+<lb n="671"/>Haubtgut 3890 fl. 
+<lb n="672"/>Schnitz 13 fl. 6 kr. 
+</p>
+        <p><pb facs="lub-media-1268 " n="37"/><lb n="673"/><gap/> herr <persName ref="lub-actors-2147">Joß Hämerlin</persName>, caplan  
+<lb n="674"/>zu <placeName ref="lub-places-1">Vaduz</placeName> soll wie hinvor 1 fl. 30 kr. 
+<lb n="675"/>Latus per se. 
+<lb n="676"/>Suma schnitzgeldt  
+<lb n="677"/>deß dorfs <placeName ref="lub-places-1">Vadutz</placeName>  
+<lb n="678"/>pringt jarlichen 86 fl. 5 kr. 
+</p>
+        <p><pb facs="lub-media-1269 " n="38"/><lb n="679"/>Summa jarlichen schnitz  
+<lb n="680"/>geldt der gantzen herr
+<lb break="no" n="681"/>schafft <placeName ref="lub-places-7">Vadutz</placeName> thut 
+<lb n="682"/>405 fl. 36 kr. 2 d. 
+</p>
+        <p><pb facs="lub-media-1270 " n="39"/><lb n="683"/>Herrschafft <placeName ref="lub-places-11">Schellenberg</placeName><lb n="684"/><placeName ref="lub-places-36">Bendern</placeName> und <placeName ref="lub-places-2">Raggell</placeName>  
+<lb n="685"/><persName ref="lub-actors-1743">Hannß Haßler</persName> 600 fl. 2 fl. 
+<lb n="686"/><persName ref="lub-actors-1684">Lennz Gstöl</persName> fur sich selbs unnd dann  
+<lb n="687"/><persName ref="lub-actors-2148">Anna Grawin</persName>, auch irer kinder 80 fl. 16 kr. 
+<lb n="688"/><persName ref="lub-actors-1665">Leonnhart Wolwennden</persName> 700 fl. 2 fl. 20 kr. 
+<lb n="689"/><persName ref="lub-actors-1752">Jeorg Kind </persName>600 fl. 2 fl. 
+<lb n="690"/><persName ref="lub-actors-2149">Jeorg Üelin</persName>, <persName ref="lub-actors-2150">Ullimans</persName> son 900 fl. 3 fl. 
+<lb n="691"/><persName ref="lub-actors-2151">Ullin Gerster</persName> 6 kr. 
+<lb n="692"/><persName ref="lub-actors-932">Hannß Büchl</persName> fur sich selbs 450 f. 1 fl. 30 kr. 
+<lb n="693"/>Mer als vogt <persName ref="lub-actors-2152">Anna Bläsi</persName> 160 fl. 32 kr. 
+<lb n="694"/>Mer als vogt <persName ref="lub-actors-1668">Ulli Wolwennden</persName> kind <persName ref="lub-actors-2153">Ulli</persName>  
+<lb n="695"/>unnd <persName ref="lub-actors-2154">Petter</persName> 100 fl. 50 kr. 
+<lb n="696"/><persName ref="lub-actors-1076">Barthli Mader</persName> 30 fl. 6 kr. 
+<lb n="697"/><persName ref="lub-actors-2068">Hannß Örin</persName> von <placeName ref="lub-places-2">Raggel</placeName> 500 fl. 1 fl. 40 kr. 
+<lb n="698"/>Mer als Vogt <persName ref="lub-actors-816">Dict Singers</persName> kindt 100 fl. 20 kr. 
+<lb n="699"/>Mer als vogt <persName ref="lub-actors-2155">Hannß Mayers</persName> kindt <persName ref="lub-actors-2156">Ursla</persName>  
+<lb n="700"/>und <persName ref="lub-actors-2157">Barbla</persName> 100 fl. 20 kr. 
+<lb n="701"/>Haubtgut 4380 fl. 
+<lb n="702"/>Schnitz 14 fl. 30 kr. 
+</p>
+        <p><pb facs="lub-media-1271 " n="40"/><lb n="703"/><persName ref="lub-actors-610">Eustachius Marxer</persName> ain eheman, <persName ref="lub-actors-2155">Hanß  
+<lb n="704"/>Mayers</persName> seligen tochter <persName ref="lub-actors-2090">Agatha</persName> 150 fl. 30 kr. 
+<lb n="705"/><persName ref="lub-actors-933">Joß Grabher</persName> fur sich und sein hauß
+<lb break="no" n="706"/>fraw ermelts <persName ref="lub-actors-2155">Hanßen Mayers</persName> seligen 
+<lb n="707"/>wittib 150 fl. 30 kr. 
+<lb n="708"/><persName ref="lub-actors-1108">Jeorg Dieprecht</persName> 6 kr. 
+<lb n="709"/><persName ref="lub-actors-824">Hannß Kind</persName> 60 fl. 12 kr. 
+<lb n="710"/><persName ref="lub-actors-2158">Stoffel Kindt</persName> 6 kr. 
+<lb n="711"/><persName ref="lub-actors-1725">Caspar Bläsy</persName> 100 fl. 20 kr. 
+<lb n="712"/><persName ref="lub-actors-1413">Theys Kachler</persName> 550 fl. 1 fl. 50 kr.  
+<lb n="713"/><persName ref="lub-actors-2159">Hannß Wanngner</persName>, zoller 150 fl. 30 kr. 
+<lb n="714"/><persName ref="lub-actors-1733">Joß Feer</persName> 1100 fl. 3 fl. 40 kr. 
+<lb n="715"/><persName ref="lub-actors-818">Joß Walch</persName> fur sich selbs und sein tochtermann  
+<lb n="716"/>sambt ganzen haußhab 1500 fl. 5 fl. 
+<lb n="717"/><persName ref="lub-actors-829">Hainrich Feer</persName> 200 fl. 40 kr. 
+<lb n="718"/><persName ref="lub-actors-819">Petter Wolwennd</persName> 60 fl. 12 kr. 
+<lb n="719"/><persName ref="lub-actors-1694">Pauli Lampert</persName> als vogt <persName ref="lub-actors-2160">Barbla  
+<lb n="720"/>Marxerin</persName> 100 fl. 20 kr. 
+<lb n="721"/><persName ref="lub-actors-1705">Bastian Kaufman</persName> 60 fl. 12 kr. 
+<lb n="722"/>Sein son <persName ref="lub-actors-2161">Cristan Kaufman</persName> 200 fl. 40 kr. 
+<lb n="723"/>Haubtgut 4440 fl. 
+<lb n="724"/>Schnitz 14 fl. 48 kr. 
+</p>
+        <p><pb facs="lub-media-1272 " n="41"/><lb n="725"/><persName ref="lub-actors-2162"><supplied>Co</supplied>nradt Singer</persName> 100 fl. 20 kr. 
+<lb n="726"/><persName ref="lub-actors-1109">Anndras Ögli</persName> 600 fl. 2 fl. 
+<lb n="727"/><persName ref="lub-actors-1732">Hannß Alber</persName> 800 fl. 2 fl. 40 kr. 
+<lb n="728"/>Sein son <persName ref="lub-actors-2163">Jacob</persName> 100 fl. 20 kr. 
+<lb n="729"/>Sein son <persName ref="lub-actors-2164">Anndriß</persName> 100 fl. 20 kr. 
+<lb n="730"/>Sein tochter <persName ref="lub-actors-2165">Anna</persName> 80 fl. 16 kr. 
+<lb n="731"/><persName ref="lub-actors-1731">Barthlome Schwaiß</persName> 60 fl. 12 kr. 
+<lb n="732"/><persName ref="lub-actors-2166">Hannß Schwaiß</persName> sein son 100 fl. 20 kr. 
+<lb n="733"/><persName ref="lub-actors-169">Jeorg Egli</persName> als vogt <persName ref="lub-actors-2167">Georg Wanngners</persName>  
+<lb n="734"/>deß Jungern kindts <persName ref="lub-actors-2168">Elisabetha</persName> 50 fl. 10 kr. 
+<lb n="735"/><persName ref="lub-actors-169">Jeorg Ögli</persName> fur sich selbs 450 fl. 1 fl. 30 kr. 
+<lb n="736"/><persName ref="lub-actors-1123">Vesst Haßler</persName> und sein hausfraw 460 fl. 1 fl. 32 kr. 
+<lb n="737"/>Seiner schwesster <persName ref="lub-actors-2169">Gretha</persName> 360 fl. 1 fl. 12 kr. 
+<lb n="738"/><persName ref="lub-actors-1695">Jeorg Haßler </persName>360 fl. 1 fl. 12 kr. 
+<lb n="739"/><persName ref="lub-actors-1759">Anndriß Büchl</persName> 100 fl. 20 kr. 
+<lb n="740"/>Haubtgut 3720 fl. 
+<lb n="741"/>Schnitz 12 fl. 29 kr. 
+</p>
+        <p><pb facs="lub-media-1273 " n="42"/><lb n="742"/><persName ref="lub-actors-613">Jacob Büchel</persName><supplied>650 fl. 2 fl. 10 kr.</supplied><lb n="743"/><persName ref="lub-actors-781">Ulrich Büchels</persName> seligen wittib unnd  
+<lb n="744"/>kinder 170 fl. 34 kr. 
+<lb n="745"/><persName ref="lub-actors-223">Marx Gabriel</persName> 100 fl. 20 kr. 
+<lb n="746"/><persName ref="lub-actors-1686">Lutz Singner </persName>40 fl. 8 kr. 
+<lb n="747"/><persName ref="lub-actors-1688">Joß Schächlin</persName> 150 fl. 30 kr. 
+<lb n="748"/><persName ref="lub-actors-1697">Leonnhart Blaichner</persName> 800 fl. 2 fl. 40 kr. 
+<lb n="749"/>Mer als vogt <persName ref="lub-actors-2171">Steffan Kindts</persName> ainen tochter  
+<lb n="750"/><persName ref="lub-actors-2172">Elsa</persName> 50 fl. 10 kr. 
+<lb n="751"/><persName ref="lub-actors-2173">Hannß Gstöl</persName> in <placeName ref="lub-places-530">Valgadin</placeName> 250 fl. 50 kr. 
+<lb n="752"/><persName ref="lub-actors-1429">Frannz Lampart</persName> 280 fl. 56 kr. 
+<lb n="753"/><persName ref="lub-actors-2174">Jeorg Öhrin</persName> vom <placeName ref="lub-places-207">Bühel</placeName> 200 fl. 40 kr. 
+<lb n="754"/><persName ref="lub-actors-1700">Vallenthin Mader</persName> 80 fl. 16 kr. 
+<lb n="755"/><persName ref="lub-actors-1704">Joß Müßner</persName> 900 fl. 3 fl. 
+<lb n="756"/><persName ref="lub-actors-1751">Michl Grabher </persName>300 fl. 1 fl. 
+<lb n="757"/><persName ref="lub-actors-1706">Michl Örin</persName> 150 fl. 30 kr. 
+<lb n="758"/><persName ref="lub-actors-1729">Adam Hew</persName> 150 fl. 30 kr. 
+<lb n="759"/>Haubtsuma 4270 fl. 
+<lb n="760"/>Schnitz 14 fl. 14 kr. 
+</p>
+        <p><pb facs="lub-media-1274  " n="43"/><lb n="761"/><persName ref="lub-actors-1702">Theis Kindt</persName> 60 fl. 12 kr. 
+<lb n="762"/><persName ref="lub-actors-1739">Jacob Straub</persName> 450 fl. 1 fl. 30 kr. 
+<lb n="763"/><persName ref="lub-actors-671">Hanns Schächli</persName> 500 fl. 1 fl. 40 kr. 
+<lb n="764"/><persName ref="lub-actors-1701">Haug Wanngner</persName> und sein 2 schwestern 120 fl. 24 kr. 
+<lb n="765"/><persName ref="lub-actors-1676">Hannß Battliner</persName> 700 fl. 2 fl. 20 kr. 
+<lb n="766"/><persName ref="lub-actors-1704">Joß Müßner</persName> als vogt <persName ref="lub-actors-1079">Conradt Örins</persName> 4  
+<lb n="767"/>unerzogner kinder <persName ref="lub-actors-2175">Hannß</persName>, <persName ref="lub-actors-2176">Conradt</persName>,  
+<lb n="768"/><persName ref="lub-actors-2177">Luisa</persName> unnd <persName ref="lub-actors-2178">Eva</persName> 200 fl. 40 kr. 
+<lb n="769"/><persName ref="lub-actors-1096">Hannß Schwenndeli</persName> fur sich selbs und  
+<lb n="770"/>sein hausfraw 300 fl. 1 fl.  
+<lb n="771"/><persName ref="lub-actors-1748">Jeorg Örin</persName>, <persName ref="lub-actors-2179">Heinrichs</persName> son 150 fl. 30 kr. 
+<lb n="772"/><persName ref="lub-actors-1757">Connradt Spalt</persName> 200 fl. 40 kr. 
+<lb n="773"/><persName ref="lub-actors-1750">Anndriß Feer</persName> 50 fl. 10 kr. 
+<lb n="774"/><persName ref="lub-actors-1755">Jacob Ögli</persName> 50 fl. 10 kr. 
+<lb n="775"/><persName ref="lub-actors-1708">Anndriß Reisch</persName> 200 fl. 40 kr. 
+<lb n="776"/><persName ref="lub-actors-1752">Jeorg Kindt</persName> fur sich selbs und seine  
+<lb n="777"/>stiefkhinder Georg, Jacob, Anna 50 fl. 10 kr. 
+<lb n="778"/>Haubtgut 3030 fl. 
+<lb n="779"/>Schnitz 10 fl. 6 kr. 
+</p>
+        <p><pb facs="lub-media-1275 " n="44"/><lb n="780"/><persName ref="lub-actors-831">Hannß Hop</persName> 350 fl. 1 fl. 10 kr. 
+<lb n="781"/><persName ref="lub-actors-1099">Ulrich Walch</persName> 395 fl. 1 fl. 19 kr. 
+<lb n="782"/><persName ref="lub-actors-1795">Jeorg Walch</persName> 150 fl. 30 kr. 
+<lb n="783"/><persName ref="lub-actors-1703">Diepolt Nescher</persName> und sein kindt 200 fl. 40 kr. 
+<lb n="784"/><persName ref="lub-actors-1687">Jeorg Knabenkhnecht</persName> 60 fl. 12 kr. 
+<lb n="785"/><persName ref="lub-actors-2180">Jacob Örin</persName> von <placeName ref="lub-places-207">Büel</placeName> 100 fl. 20 kr. 
+<lb n="786"/><persName ref="lub-actors-1672">Ullin Schreiber</persName> und sein weib 100 fl. 20 kr. 
+<lb n="787"/><persName ref="lub-actors-698">Leonhart Brendlin</persName> alß vogt  
+<lb n="788"/><persName ref="lub-actors-2181">Hanßen Kaißers</persName> seeligen künder  
+<lb n="789"/>in <placeName ref="lub-places-530">Valgadin</placeName> 200 fl. 20 kr.  
+<lb n="790"/><persName ref="lub-actors-2182">Lang Joß Ferr</persName> von <placeName ref="lub-places-117">Schellenberg</placeName>  
+<lb n="791"/>fur sich unnd sein muotter 120 fl. 24 kr. 
+<lb n="792"/><persName ref="lub-actors-1721">Michael Eglin</persName> 300 fl. 1 kr. 
+<lb n="793"/><persName ref="lub-actors-1726">Theuß Kaißer</persName> 800 fl. 2 kr 40 d. 
+<lb n="794"/><persName ref="lub-actors-1713">Lutz Walch</persName> 400 fl. 1 kr. 20 d. 
+<lb n="795"/>Mer alß vogt <persName ref="lub-actors-2183">Marttin Nicke</persName>  
+<lb n="796"/>sohn <persName ref="lub-actors-2184">Hannß</persName> 100 fl. 20 d.  
+<lb n="797"/>Haubtgut 3175 fl. 
+<lb n="798"/>Schnitz 10 fl. 35 kr. 
+</p>
+        <p><pb facs="lub-media-1276 " n="45"/><lb n="799"/><persName ref="lub-actors-2185">Clauß Reisch</persName> fur sich unnd  
+<lb n="800"/>sein weib 100 fl. 5 bz. 
+<lb n="801"/><persName ref="lub-actors-1953">Hannß Örri</persName> fur sich und seine   
+<lb n="802"/>schwester 700 fl. 2 kr. 20 d.  
+<lb n="803"/><persName ref="lub-actors-1711">Hannß Ferr</persName> fur sich unnd sein  
+<lb n="804"/>muotter 600 fl. 2 kr. 
+<lb n="805"/><persName ref="lub-actors-1727">Bläßy Zümerman</persName> 100 fl. 20 d. 
+<lb n="806"/><persName ref="lub-actors-812">Urban Hopp</persName> 600 fl. 2 kr. 
+<lb n="807"/><persName ref="lub-actors-1722">Petter Zäch</persName> fur sich selbs und  
+<lb n="808"/>für <persName ref="lub-actors-2186">Thrina Kremlin</persName> und ihr  
+<lb n="809"/>schwester <persName ref="lub-actors-2187">Barbara Kremlin</persName> 230 fl. 46 d. 
+<lb n="810"/><persName ref="lub-actors-1719">Marx Zäch</persName> 380 fl. 1 kr. 20 d. 
+<lb n="811"/><persName ref="lub-actors-1091">Barttel Ryby</persName> 600 fl. 2 kr. 
+<lb n="812"/><persName ref="lub-actors-1709">Christa Reisch</persName> 400 fl. 1 kr. 20 d. 
+<lb n="813"/><persName ref="lub-actors-2188">Steffan Fricken</persName> sohn <persName ref="lub-actors-2189">Jacob</persName> 50 fl. 20 d. 
+<lb n="814"/><persName ref="lub-actors-1723">Jung Hannß Bläßy</persName> 400 fl. 1 kr. 20 d. 
+<lb n="815"/><persName ref="lub-actors-1740">Giörg Graw</persName> fur sich selbst 400 fl. 1 kr. 20 d. 
+<lb n="816"/><persName ref="lub-actors-1720">Crista Strauß</persName>  
+<lb n="817"/>sambt seiner hausfraw 100 fl. 20 d.  
+<lb n="818"/>Haubtgut 4630 fl. 
+<lb n="819"/>Schnitz 15 fl. 26 kr. 
+</p>
+        <p><pb facs="lub-media-1277 " n="46"/><lb n="820"/><persName ref="lub-actors-1952">Hannß Bläßy</persName>, <persName ref="lub-actors-1724">Aldt Hannß Bläßy</persName><lb n="821"/>sohn 30 fl. 6 d. 
+<lb n="822"/><persName ref="lub-actors-1724">Aldt Hannß Bläßy</persName> 60 fl. 12 d. 
+<lb n="823"/><persName ref="lub-actors-1707">Thonny Rüby</persName> 400 fl. 1 kr. 20 d. 
+<lb n="824"/><persName ref="lub-actors-2199">Jung Hanß Wagner</persName> von <placeName ref="lub-places-117">Schell
+<lb break="no" n="825"/>enberg </placeName>700 fl. 2 kr. 20 d.
+<lb n="826"/><persName ref="lub-actors-810">Jerg Maurer</persName>  
+<lb n="827"/>sampt seiner hausfrawen 150 fl. 7 bz. 2 kr. 
+<lb n="828"/>Mer sein schwiger <persName ref="lub-actors-1671">Agatha Hertterin</persName> 100 fl. 5 bz. 
+<lb n="829"/><persName ref="lub-actors-1067">Jacob Gstöll </persName>hievor <persName ref="lub-actors-1709">Crista Rüsch</persName>  
+<lb n="830"/>als vogt <persName ref="lub-actors-2201">Bartlin Grawen</persName> kindlein 30 f. 6 kr. 
+<lb n="831"/><persName ref="lub-actors-1677">Petter Wanngner</persName> als vogt <persName ref="lub-actors-2202">Leonnhart  
+<lb n="832"/>Marxers</persName> seligen kinder <persName ref="lub-actors-2203">Hannß</persName>, <persName ref="lub-actors-2204">Leonnhart</persName>  
+<lb n="833"/>unnd <persName ref="lub-actors-2205">Urßule</persName> 60 fl. 3 bz.  
+<lb n="834"/><persName ref="lub-actors-2206">Hannß Wolwend</persName> für sich unnd sein  
+<lb n="835"/>weib 200 fl. 10 bz. 
+<lb n="836"/>Nota: von den hievorgesezten 150 fl., so <persName ref="lub-actors-932">Hanß  
+<lb n="837"/>Büchel</persName> als vogt deß Wolwenden kind zu  
+<lb n="838"/>obgemelts <persName ref="lub-actors-2206">Hanß Wolwenden</persName> als ires bruders  
+<lb n="839"/>gebierenden thails gezogen und zu seiner  
+<lb n="840"/>hausfrawen haubtgut gelegt, also daz es solche  
+<lb n="841"/>obstennde 200 fl. betreffen thut etc. 
+<lb n="842"/><persName ref="lub-actors-2207">Bärt Kündt </persName>20 fl. 4 kr. 
+<lb n="843"/>Herr apt zu <placeName ref="lub-places-36">Bendern</placeName> 5 kr. 
+<lb n="844"/>Haubtgut 1750 fl. 
+<lb n="845"/>Schnitz 10 fl. 50 kr. 
+<lb n="846"/>Suma schnitzgeldt 
+<lb n="847"/><placeName ref="lub-places-36">Bendern</placeName> und <placeName ref="lub-places-2">Roggäl</placeName>  
+<lb n="848"/>pringt jarlichen  
+<lb n="849"/>102 fl. 59 kr. 
+</p>
+        <p><pb facs="lub-media-1278 " n="47"/><lb n="850"/><placeName ref="lub-places-35">Öschenn</placeName><lb n="851"/>Aman <persName ref="lub-actors-165">Öry</persName> 1200 fl. 
+<lb n="852"/>Mehr fur seine 2 künder <persName ref="lub-actors-2190">Andres</persName>  
+<lb n="853"/>unnd <persName ref="lub-actors-2191">Gretta</persName> 300 fl. 7 1/2 fl.  
+<lb n="854"/>Mer von wegen seineß sonß <persName ref="lub-actors-2192">Joße</persName>
+<lb break="no" n="855"/>n und seiner hausfraw 750 fl.
+<lb n="856"/><persName ref="lub-actors-2193">Christa</persName> unnd <persName ref="lub-actors-2194">Hanß</persName> die Gladtner  
+<lb n="857"/>gebruöder 900 fl. 3 fl. 
+<lb n="858"/><persName ref="lub-actors-2193">Christa Gladtner</persName> alß vogt  
+<lb n="859"/><persName ref="lub-actors-2195">Jörg Hopen</persName> selligen künder. 
+<lb n="860"/>Jetzt vogt oder zoller <persName ref="lub-actors-2159">Hannß Wangner</persName>  
+<lb n="861"/>und dan fur sich selbst 690 fl. 2 kr. 18 d. 
+<lb n="862"/><persName ref="lub-actors-2196">Jacob Örry</persName> 200 fl. 40 d.  
+<lb n="863"/><persName ref="lub-actors-2262">Petter Wagner</persName> 550 fl. 1 kr. 50 d. 
+<lb n="864"/><persName ref="lub-actors-1737">Thoman Fetzer</persName> 100 fl. 20 d.  
+<lb n="865"/><persName ref="lub-actors-2197">Giorg Schuoller</persName>, vogt ist <persName ref="lub-actors-2262">Petth  
+<lb n="866"/>Wagner</persName> 60 fl. 12 d.  
+<lb n="867"/><persName ref="lub-actors-1105">Jacob Algewer</persName> alß vogt <persName ref="lub-actors-1126">Jörg  
+<lb n="868"/>Kaufmans des Elttern</persName> 6 kinder 200 fl. 40 d.  
+<lb n="869"/><persName ref="lub-actors-1129">Haug Knabenknecht</persName> alß vogt  
+<lb n="870"/><persName ref="lub-actors-2198">Adam Marxer</persName> 600 fl. 2 kr. 
+<lb n="871"/>Haubtgut 5550 fl. 
+<lb n="872"/>Schnitz 18 fl. 30 kr. 
+</p>
+        <p><pb facs="lub-media-1279 " n="48"/><lb n="873"/><persName ref="lub-actors-698">Leonhart Brendlin</persName> 2000 fl. 6 kr. 40 d. 
+<lb n="874"/><persName ref="lub-actors-2219">Petter Örry</persName> 
+<lb n="875"/><persName ref="lub-actors-1766">Berenhart Wagner</persName> 250 fl. 50 d.  
+<lb n="876"/><persName ref="lub-actors-2208">Ulrich Buschecken</persName> 400 fl. 1 kr. 20 d. 
+<lb n="877"/><persName ref="lub-actors-1736">Wolff Hörwardt</persName> 380 fl. 1 kr. 16 d. 
+<lb n="878"/><persName ref="lub-actors-1086">Jacob Mader</persName> 80 fl. 16 d.  
+<lb n="879"/><persName ref="lub-actors-1106">Ulrich Algewer</persName> 600 fl. 2 kr. 
+<lb n="880"/><persName ref="lub-actors-2209">Jacob Schreiber</persName> alß vogt <persName ref="lub-actors-2263">Andreas  
+<lb n="881"/>Wagners</persName> wittib 50 fl. 20 d.  
+<lb n="882"/><persName ref="lub-actors-2209">Jacob Schreiber </persName>1000 fl. 3 kr. 20 d. 
+<lb n="883"/>Mehr <persName ref="lub-actors-2209">Jacob Schreiber</persName> alß vogt  
+<lb n="884"/><persName ref="lub-actors-2210">Joß Schuollers</persName> 4 künder 150 fl. 30 d.  
+<lb n="885"/><persName ref="lub-actors-2211">Hannß Wagner</persName> 250 fl. 50 d.  
+<lb n="886"/><persName ref="lub-actors-1741">Giörg Graw</persName> sambt seinen  
+<lb n="887"/>3 künder 700 fl. 2 kr. 20 d. 
+<lb n="888"/>Haubtgut 5960 fl. 
+<lb n="889"/>Schnitz 19 fl. 32 kr. 
+</p>
+        <p><pb facs="lub-media-1280 " n="49"/><lb n="890"/><persName ref="lub-actors-965">Hannß Thönny</persName> 500 fl. 1 kr. 40 d.  
+<lb n="891"/>Mer als vogt <persName ref="lub-actors-1114">Marx Vetzers</persName> dochter <persName ref="lub-actors-2212">Lisabeth</persName> 200 fl. 40 kr. 
+<lb n="892"/><persName ref="lub-actors-2213">Jung Andreis Örry</persName> 120 fl. 24 d.  
+<lb n="893"/><persName ref="lub-actors-1131">Gälly Koch</persName> sambt seiner hausfraw 100 fl. 20 d. 
+<lb n="894"/><persName ref="lub-actors-1129">Haug Knabenknecht</persName> 700 fl. 2 kr. 20 d. 
+<lb n="895"/>Mehr von wegen jezigen seiner haufraw 400 fl. 1kr. 20 d. 
+<lb n="896"/>Mehr alß vogt <persName ref="lub-actors-1131">Gally Kochs</persName> gesch
+<lb break="no" n="897"/>wistergat 200 fl. 40 d.
+<lb n="898"/>Mehr alß vogt <persName ref="lub-actors-2214">Hannß Sentis</persName> sälligen  
+<lb n="899"/>kündt 200 fl. 40 d.  
+<lb n="900"/><persName ref="lub-actors-1747">Vest Schlipffer</persName> 300 fl. 1 kr. 
+<lb n="901"/>Mehr als vogt <persName ref="lub-actors-1125">Valedin Kaufmans</persName>  
+<lb n="902"/>selligen künder 300 fl. 1 kr. 
+<lb n="903"/><persName ref="lub-actors-2215">Jung Giörg Kaufman</persName> 350 fl. 2 kr. 20 d. 
+<lb n="904"/><persName ref="lub-actors-1749">Jacob Straub </persName>von <placeName ref="lub-places-37">Meßnen</placeName> oder sein  
+<lb n="905"/>weib 200 fl. 40 d. 
+<lb n="906"/><persName ref="lub-actors-1717">Petter Gestel</persName> 200 fl. 20 d. 
+<lb n="907"/><persName ref="lub-actors-1089">Jacob Mayer</persName> sambt seinen kindern 900 fl. 3 kr. 
+<lb n="908"/><persName ref="lub-actors-1115">Hannß Fünck</persName> 250 fl. 50 d. 
+<lb n="909"/>Haubtgut 4620 fl. 
+<lb n="910"/>Schnitz 16 fl. 4 kr. 
+</p>
+        <p><pb facs="lub-media-1281 " n="50"/><lb n="911"/><persName ref="lub-actors-1677">Petter Wagner </persName>alß vogt <persName ref="lub-actors-2216">Ully</persName> unnd  
+<lb n="912"/><persName ref="lub-actors-2217">Lenna Wagneren</persName> 200 fl. 40 d. 
+<lb n="913"/><persName ref="lub-actors-2218">Wolf Wolwendt</persName> 100 fl. 20 d. 
+<lb n="914"/><persName ref="lub-actors-1744">Hannß Gestell</persName>, schuochmacher 200 fl. 40 d. 
+<lb n="915"/><persName ref="lub-actors-1082">Theus Örry</persName> 100 fl. 20 d. 
+<lb n="916"/><persName ref="lub-actors-1105">Jacob Algewer</persName> 300 fl. 1 kr.  
+<lb n="917"/><persName ref="lub-actors-2219">Petter Öry</persName> alß vogt <persName ref="lub-actors-2220">Giörgen  
+<lb n="918"/>Grauen deß Jungern</persName> 400 fl. 1 kr. 20 d. 
+<lb n="919"/><persName ref="lub-actors-1104">Victor Wolffart</persName> 200 fl. 20 d. 
+<lb n="920"/><persName ref="lub-actors-1113">Hannß Fetzer</persName> 300 fl. 1 kr. 
+<lb n="921"/><persName ref="lub-actors-2221">Petter Örry</persName>, <persName ref="lub-actors-1078">Andreas Örry</persName> suhn 850 fl. 2 kr. 50 d. 
+<lb n="922"/><persName ref="lub-actors-1746">Jacob Schreiber der Jung</persName> 250 fl. 50 d.  
+<lb n="923"/><persName ref="lub-actors-1763">Ulrich Sentte</persName> 200 fl. 40 d. 
+<lb n="924"/><persName ref="lub-actors-2222">Giörg Wallißar</persName> 150 fl. 30 d. 
+<lb n="925"/><persName ref="lub-actors-2223">Hannß Straub</persName>, von <placeName ref="lub-places-207">Schönebichel</placeName> 200 fl. 40 d.  
+<lb n="926"/>Haubtgut 3450 fl. 
+<lb n="927"/>Schnitz 11 fl. 10 kr. 
+</p>
+        <p><pb facs="lub-media-1282 " n="51"/><lb n="928"/><persName ref="lub-actors-2224">Gretta Marderin</persName> sambt ihren  
+<lb n="929"/>künden schnitzt <persName ref="lub-actors-1677">Petter Wagner</persName> 180 fl. 36 d.  
+<lb n="930"/><persName ref="lub-actors-1734">Christa Mader</persName> sambt seiner  
+<lb n="931"/>muotter unnd geschwistergat 300 fl. 1 kr.  
+<lb n="932"/>Mer von seiner hausfrawen wegen 150 fl. 30 kr.  
+<lb n="933"/><persName ref="lub-actors-2225">Ruodolff Marder</persName> 150 fl. 30 d.  
+<lb n="934"/><persName ref="lub-actors-2226">Hannß Marder</persName>, genandt Glot 150 fl. 30 d.  
+<lb n="935"/><persName ref="lub-actors-73">Frantz Gestel</persName> 200 fl. 40 d. 
+<lb n="936"/><persName ref="lub-actors-2227">Petter Wagner</persName>, <persName ref="lub-actors-1765">Andrees</persName> suhn 60 fl. 12 d.  
+<lb n="937"/><persName ref="lub-actors-1715">Joß Werner</persName> 60 fl. 12 d.  
+<lb n="938"/><persName ref="lub-actors-1088">Ulrich Marxer</persName> 200 fl. 40 d. 
+<lb n="939"/><persName ref="lub-actors-1087">Ruodolff Marxer</persName> 250 fl. 30 d. 
+<lb n="940"/><persName ref="lub-actors-478">Ulrich Mündle</persName> 30 fl. 6 d. 
+<lb n="941"/><persName ref="lub-actors-1716">Petter Wehrner</persName> 50 fl. 20 d. 
+<lb n="942"/><persName ref="lub-actors-1738">Thoman Straub</persName> 50 fl. 20 d. 
+<lb n="943"/><persName ref="lub-actors-1080">Barttel Öry</persName> der waibel 800 fl. 2 bz. 40 d. 
+<lb n="944"/><persName ref="lub-actors-1760">Hannß Örry</persName> waibels suhn 50 fl. 20 d. 
+<lb n="945"/>Haubtgut 2580 fl. 
+<lb n="946"/>Schnitz 8 fl. 36 kr.  
+</p>
+        <p><pb facs="lub-media-1283 " n="52"/><lb n="947"/><persName ref="lub-actors-1692">Dietrich Walch</persName> 600 fl. 2 fl. 
+<lb n="948"/>Mer sein hausfraw 100 fl. 5 bz. 
+<lb n="949"/><persName ref="lub-actors-1692">Petter Walch</persName> sein son 300 fl. 1 fl. 
+<lb n="950"/><persName ref="lub-actors-2228">Jacob Mundli</persName> 200 fl. 10 bz. 
+<lb n="951"/><persName ref="lub-actors-1761">Georg Sennti</persName> fur sich selbs, auch seiner  
+<lb n="952"/>hausfrawen unnd <persName ref="lub-actors-2229">Pauli Tscheiffen</persName> wegen 400 fl. 1 fl. 5 bz. 
+<lb n="953"/><persName ref="lub-actors-1762">Rudolf Sennti</persName> 200 fl. 10 bz. 
+<lb n="954"/><persName ref="lub-actors-1735">Hanss Mader </persName>uff <placeName ref="lub-places-31">Rauffenberg</placeName> 200 fl. 10 bz. 
+<lb n="955"/><persName ref="lub-actors-1521">Andris Rig</persName> 400 fl. 1 fl. 20 kr. 
+<lb n="956"/><persName ref="lub-actors-1764">Haug Krantz</persName> 600 fl. 2 fl. 
+<lb n="957"/>Item herr <persName ref="lub-actors-2108">Philipp</persName>, pfarherr daselbsten  
+<lb n="958"/>wie hievor den alten schnitz. 
+<lb n="959"/>Haubtgut 2400 fl. 
+<lb n="960"/>Schnitz 13 fl. 
+<lb n="961"/>Suma schnitz geldt zu  
+<lb n="962"/><placeName ref="lub-places-35">Öschen</placeName> pringt jarlichen  
+<lb n="963"/>86 fl. 52 kr. 
+</p>
+        <p><pb facs="lub-media-1284 " n="53"/><lb n="964"/><placeName ref="lub-places-30">Mauren</placeName>. 
+<lb n="965"/><persName ref="lub-actors-1786">Giörg Morhart</persName> 400 fl. 1 bz. 20 d. 
+<lb n="966"/><persName ref="lub-actors-1783">Jacob Ferr</persName>, amans sohn 600 fl. 2 kr. 
+<lb n="967"/>Mer alß vogt <persName ref="lub-actors-2204">Leo Marxers</persName>, <persName ref="lub-actors-2202">Leon
+<lb break="no" n="968"/>harts</persName> sohn 600 fl. 2 kr.
+<lb n="969"/><persName ref="lub-actors-2230">Jacob Morandt</persName> 800 fl. 2 kr. 40 d. 
+<lb n="970"/>Mehr von wegen seineß sohns <persName ref="lub-actors-2231">Adam</persName> 200 fl. 40 d. 
+<lb n="971"/>Mehr <persName ref="lub-actors-2232">Barbara</persName> sein tochter 100 fl. 20 d. 
+<lb n="972"/><persName ref="lub-actors-62">Ulrich Glarner</persName> 800 fl. 2 kr. 40 d. 
+<lb n="973"/>Alß vogt <persName ref="lub-actors-2233">Eva Bachmeny</persName> 200 fl. 20 d. 
+<lb n="974"/><persName ref="lub-actors-1780">Adam Marxer</persName> sambt seinem  
+<lb n="975"/>geschwistergot 50 fl. 10 d. 
+<lb n="976"/><persName ref="lub-actors-1799">Bastian Marxer</persName> 100 fl. 20 d. 
+<lb n="977"/><persName ref="lub-actors-1780">Adam Marxer</persName> fur sich selbst 200 fl. 20 d. 
+<lb n="978"/><persName ref="lub-actors-2234">Augustein Frey</persName> 60 fl. 12 d. 
+<lb n="979"/><persName ref="lub-actors-1769">Ronny Frick</persName> 250 fl. 50 d. 
+<lb n="980"/><persName ref="lub-actors-2235">Anndreas Wagner</persName> ab <placeName ref="lub-places-644">Stonbech</placeName> 50 fl. 20 d. 
+<lb n="981"/><persName ref="lub-actors-71">Simon Matt</persName> 250 fl. 50 d. 
+<lb n="982"/><persName ref="lub-actors-317">Joß Thönny</persName> 600 fl. 2 kr. 
+<lb n="983"/><persName ref="lub-actors-2236">Hanß Mader</persName> sambt seiner stieff
+<lb break="no" n="984"/>kinder 300 fl. 1 kr.
+<lb n="985"/>Haubtgut 536 fl. 
+<lb n="986"/>Schnitz 17 fl. 52 kr. 
+</p>
+        <p><pb facs="lub-media-1285 " n="54"/><lb n="987"/><persName ref="lub-actors-1781">Barttel Marxer </persName>100 fl. 20 d. 
+<lb n="988"/><persName ref="lub-actors-1773">Petter Marxer</persName> fur sich 900 fl. 3 kr.  
+<lb n="989"/>Mehr alß vogt <persName ref="lub-actors-2237">Jacob Frideli</persName>, <persName ref="lub-actors-2238">Adam  
+<lb n="990"/>Marxer</persName> unnd <persName ref="lub-actors-2239">Anna Marxerin </persName>100 fl. 20 d. 
+<lb n="991"/><persName ref="lub-actors-1779">Rudolff Marxer</persName> 30 fl. 6 d. 
+<lb n="992"/><persName ref="lub-actors-1768">Jacob Schreiber</persName>, <persName ref="lub-actors-2240">Pettern</persName> sohn 450 fl. 1 kr. 30 d. 
+<lb n="993"/><persName ref="lub-actors-1774">Caspar Gaßner</persName> 450 fl. 1 kr. 30 d. 
+<lb n="994"/><persName ref="lub-actors-2241">Bartthle Müller</persName> unnd sein  
+<lb n="995"/>hausfraw 200 fl. 40 d. 
+<lb n="996"/><persName ref="lub-actors-1793">Jung Jacob Ganntely</persName> 50 fl. 10 d. 
+<lb n="997"/><persName ref="lub-actors-1116">Simon Banttelly</persName> 100 fl. 20 d. 
+<lb n="998"/><persName ref="lub-actors-1791">Christa Mündtlin</persName> fur sich selbst 800 fl. 2 kr. 40 d. 
+<lb n="999"/><persName ref="lub-actors-1791">Christa Mündtlin</persName> fur sein stieff
+<lb break="no" n="1000"/>sohn <persName ref="lub-actors-1792">Petter Wolwendt</persName> 200 fl. 40 d.
+<lb n="1001"/>Mehr alß vogt <persName ref="lub-actors-2242">Eva Wagnerin</persName> 150 fl. 30 d. 
+<lb n="1002"/>Mehr alß vogt <persName ref="lub-actors-2243">Michael Schmidtlin</persName>  
+<lb n="1003"/>selligen kündter 200 fl. 40 d. 
+<lb n="1004"/><persName ref="lub-actors-1207">Hanß Wolwendt</persName> 600 fl. 2 kr.  
+<lb n="1005"/>Mer alß vogt <persName ref="lub-actors-2244">Giorg Ferren</persName> 120 fl. 24 d. 
+<lb n="1006"/>Haubtgut 4450 fl.  
+<lb n="1007"/>Schnitz 14 fl. 50 kr.  
+</p>
+        <p><pb facs="lub-media-1286 " n="55"/><lb n="1008"/><persName ref="lub-actors-1794">Lenntz Algewer</persName> sambt seinem weib 120 fl. 24 kr. 
+<lb n="1009"/>Mer von wegen seiner tochtter 50 fl. 10 kr. 
+<lb n="1010"/><persName ref="lub-actors-2245">Christoff Schreiber</persName> 400 fl. 1 kr. 20 kr.  
+<lb n="1011"/>Mer sein weib <persName ref="lub-actors-2246">Urßula Wangnerin</persName> 100 fl. 20 kr. 
+<lb n="1012"/><persName ref="lub-actors-1797">Hannß Wagner</persName> ab berg 500 fl. 1 kr. 40 kr. 
+<lb n="1013"/><persName ref="lub-actors-2247">Christa Mayer</persName> 200 fl. 40 kr. 
+<lb n="1014"/><persName ref="lub-actors-1798">Giörg Marxer</persName> 50 fl. 10 kr. 
+<lb n="1015"/><persName ref="lub-actors-1801">Leonhart Wolwenndt</persName> 200 fl. 40 kr. 
+<lb n="1016"/><persName ref="lub-actors-1778">Adam Ferr</persName> mit sambt seinen  
+<lb n="1017"/>geschwistergoten 50 fl. 10 kr. 
+<lb n="1018"/><persName ref="lub-actors-1180">Andreas Marxer</persName>, <persName ref="lub-actors-1777">Berenharts</persName>  
+<lb n="1019"/>sohn 100 fl. 1 bz. 20 kr. 
+<lb n="1020"/><persName ref="lub-actors-2248">Jung Marttin Kauffman</persName> 350 fl. 1 kr. 10 kr. 
+<lb n="1021"/><persName ref="lub-actors-1804">Barttle Schechlin</persName> 50 fl. 10 kr. 
+<lb n="1022"/><persName ref="lub-actors-2249">Clauß Nagel</persName> 70 fl. 14 kr. 
+<lb n="1023"/><persName ref="lub-actors-1060">Giorg Schechli</persName> aben weyen 50 fl. 20 kr. 
+<lb n="1024"/><persName ref="lub-actors-1800">Aldt Jacob Gandtelly</persName> sambt  
+<lb n="1025"/>seine künder 200 fl. 40 kr. 
+<lb n="1026"/>Haubtgut 2540 fl.  
+<lb n="1027"/>Schnitz 8 fl. 28 kr. 
+</p>
+        <p><pb facs="lub-media-1287 " n="56"/><lb n="1028"/><persName ref="lub-actors-1202">Michell Küber</persName> 200 fl. 40 kr. 
+<lb n="1029"/><persName ref="lub-actors-1203">Valedin Küber</persName> 500 fl. 1 kr. 40 kr. 
+<lb n="1030"/><persName ref="lub-actors-1060">Giörg Schechtlin</persName> und von weggen  
+<lb n="1031"/>seines weibs in allem 830 fl. 2 kr. 40 kr. 
+<lb n="1032"/>Aman <persName ref="lub-actors-170">Jacob Graw</persName> 500 fl. 1 kr. 40 kr. 
+<lb n="1033"/><persName ref="lub-actors-1775">Bastian Krantz</persName> 200 fl. 40 kr. 
+<lb n="1034"/><persName ref="lub-actors-2250">Andreas Krämer</persName> 250 fl. 30 kr. 
+<lb n="1035"/><persName ref="lub-actors-475">Ully Reisch</persName> 40 fl. 8 kr. 
+<lb n="1036"/><persName ref="lub-actors-2251">Giörg Hämerlin</persName> 50 fl. 10 kr. 
+<lb n="1037"/><persName ref="lub-actors-1795">Giörg Walch</persName> 100 fl. 20 kr. 
+<lb n="1038"/><persName ref="lub-actors-1796">Leonhart Walch</persName> 100 fl. 20 kr. 
+<lb n="1039"/><persName ref="lub-actors-1803">Michel Schmidt</persName> 100 fl. 20 kr. 
+<lb n="1040"/><persName ref="lub-actors-1789">Hannß Strauben</persName> selligen fraw  
+<lb n="1041"/>unnd <persName ref="lub-actors-2252">Enua Straubin</persName> 600 fl. 2 kr.  
+<lb n="1042"/><persName ref="lub-actors-1777">Bernhart Marxer</persName> 4 kr.  
+<lb n="1043"/>Haubtgut 3390 fl.  
+<lb n="1044"/>Schnitz 11 fl. 18 kr. 
+</p>
+        <p><pb facs="lub-media-1288 " n="57"/><lb n="1045"/><persName ref="lub-actors-2253">Petter Mayer</persName> als vogt <persName ref="lub-actors-2254">Ulin  
+<lb n="1046"/>Mundlis</persName> 350 fl. 1 fl. 10 kr. 
+<lb n="1047"/>Latus per se 
+<lb n="1048"/>Suma schnitz geldt deß  
+<lb n="1049"/>dorfs <placeName ref="lub-places-30">Muren</placeName> pringt  
+<lb n="1050"/>jarlichen 53 fl. 29 kreitzer 
+</p>
+        <p><pb facs="lub-media-1289 " n="58"/><lb n="1051"/>Suman schnitz geldt der  
+<lb n="1052"/>herrschafft  
+<lb n="1053"/><placeName ref="lub-places-11">Schellenberg</placeName><lb n="1054"/>gut jarlichen  
+<lb n="1055"/>243 fl. 19 kreitzer  
+<lb n="1056"/>Die herrschafft <placeName ref="lub-places-7">Vadutz</placeName><lb n="1057"/>405 fl. 36 kreitzer  
+<lb n="1058"/>Also thuet baide herrschafften  
+<lb n="1059"/>jarlichen schnitz geldt  
+<lb n="1060"/>648 fl. 55 kreitzer 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

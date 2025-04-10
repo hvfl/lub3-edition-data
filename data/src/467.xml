@@ -17,6 +17,11 @@
           <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-467">LI-GAE, AHV 03/17</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen (Editionsvorlage)</witness>
           <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-780">LI-GAR, U 20</ref> (<orgName key="li-gar" ref="lub-objects-778">Gemeindearchiv Ruggell</orgName>) / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. gut erhalten, 2. beschädigt</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42697">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

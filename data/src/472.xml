@@ -18,6 +18,11 @@
           <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-1026">LI-GAG, U 3</ref> (<orgName key="li-gag" ref="lub-objects-1025">Gemeindearchiv Gamprin</orgName>) / Originaldatierung: 15. Juli 1578 / Beschreibstoff: / Siegel: 1 Siegel, gut erhalten</witness>
           <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1106">LI-GAE, AHV 02/121</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Papier</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42539">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -143,6 +148,11 @@
           <lb n="66"/>mitt ainer handt geschriben, verfertigen, auch mein insigel (doch mir und meinen erben, auch vorgemeltem gericht in allweg one schaden) offentlich daran henckhen und yeder parthey ainen zustellen und uberanttwurten lassen. Gebenn unnd beschehen den <origDate when="1578-07-15">fünff
 <lb break="no" n="67"/>zehendenn tag des monats julii, vonn Christi, unnsers ainigen erlösers unnd seeligmachers, gepuortt gezaltt fünffzehennhundertt sybendtzig und acht jare</origDate>.
 </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2177" n="2"/>
+        </p>
       </div>
     </body>
   </text>

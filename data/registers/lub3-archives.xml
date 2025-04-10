@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-04-01T14:04:04+02:00 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-04-10T10:59:32+02:00 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -84,6 +84,10 @@
             <orgName xml:lang="de">Gemeindearchiv Triesenberg</orgName>
             <abbr>LI-GATb</abbr>
           </org>
+                    <org xml:id="li-gav">
+            <orgName xml:lang="de">Gemeindearchiv Vaduz</orgName>
+            <abbr>LI-GAV</abbr>
+          </org>
                     <org xml:id="li-pfabe">
             <orgName xml:lang="de">Pfarrarchiv Bendern</orgName>
             <abbr>LI-PfABe</abbr>
@@ -108,7 +112,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2025-04-01T14:04:04+02:00">teiHeader was automatically produced by get-anton-data.sh 2025-04-01T14:04:04+02:00</change>
+      <change when="2025-04-10T10:59:32+02:00">teiHeader was automatically produced by get-anton-data.sh 2025-04-10T10:59:32+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

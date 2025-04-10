@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-04-01 14:04:01 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-04-10 10:59:26 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-04-01T14:04:01+02:00">teiHeader was automatically produced from the database 2025-04-01T14:04:01+02:00</change>
+      <change when="2025-04-10T10:59:26+02:00">teiHeader was automatically produced from the database 2025-04-10T10:59:26+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2041,6 +2041,38 @@
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
+        <item xml:id="lub-keywords-429">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Hauptgut</label>
+          <label xml:lang="de" type="sort">hauptgut</label>
+          <note type="description" xml:lang="de">
+            <p>Grundstock; Kapital</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=hauptgut">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-433">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">kopf(wuer)</label>
+          <label xml:lang="de" type="sort">kopf(wuer)</label>
+          <note type="description" xml:lang="de">
+            <p>Damm, der zur Brechung der Strömung in den Fluss hinausragt.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/161081/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
         <item xml:id="lub-keywords-435">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">ausschlagen</label>
@@ -2090,6 +2122,127 @@
             <listBibl>
               <bibl>
                 <ref target="https://de.wikipedia.org/wiki/Stellmacherei">Wikipedia</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-439">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">buck(wuer)</label>
+          <label xml:lang="de" type="sort">buck(wuer)</label>
+          <note type="description" xml:lang="de">
+            <p>In gebogener Linie und in stumpfem Winkel zur Fliessrichtung erstelltes Wuhr.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/161083/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-440">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">hintermarch</label>
+          <label xml:lang="de" type="sort">hintermarch</label>
+          <note type="description" xml:lang="de">
+            <p>Grenzzeichen hinter einer Uferlinie.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/40389/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-441">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Schmiede</label>
+          <label xml:lang="de" type="sort">schmiede</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-442">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">möni</label>
+          <label xml:lang="de" type="sort">moeni</label>
+          <note type="description" xml:lang="de">
+            <p>Wuhrlinie, die durch Grenzzeichen hinter einer Uferlinie gezogen wird.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://termini.ssrq-sds-fds.ch/views/view-lemma.xq?id=lem015520">SSRQ, Sachregister und Glossar</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-443">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">schinung</label>
+          <label xml:lang="de" type="sort">schinung</label>
+          <note type="description" xml:lang="de">
+            <p>Richtunggebender Punkt, der bei Grenzen anvisiert wird.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://termini.ssrq-sds-fds.ch/views/view-lemma.xq?id=lem014556">SSRQ, Sachregister und Glossar</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-444">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">werklafter</label>
+          <label xml:lang="de" type="sort">werklafter</label>
+          <note type="description" xml:lang="de">
+            <p>Amtlich bestimmtes Klafter. Das Klafter diente als Längen-, Flächen- und Raummass. Als Längenmass entsprach das Klafter 6 Fuss (bzw. Schuh).</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://hls-dhs-dss.ch/de/articles/014193/2015-03-09/">HLS</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/30633/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-445">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">kasten</label>
+          <label xml:lang="de" type="sort">kasten</label>
+          <note type="description" xml:lang="de">
+            <p>Dem Eindämmen von Bächen und Flüssen dienende kastenartige, mit schweren Steinen ausgefüllte und verpfählte Vorrichtung aus Baumstämmen.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://termini.ssrq-sds-fds.ch/views/view-lemma.xq?id=lem021430">SSRQ, Sachregister und Glossar</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-446">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">acheret</label>
+          <label xml:lang="de" type="sort">acheret</label>
+          <note type="description" xml:lang="de">
+            <p>Ertrag an Eicheln und Buchnüssen.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id1.htm#!page/10071/mode/1up">Idiotikon</ref>
               </bibl>
             </listBibl>
           </note>

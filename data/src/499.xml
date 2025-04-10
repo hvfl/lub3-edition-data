@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-499">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen der Gemeinde Schaan und Vaduz und der Gemeinde des Viertels Rotaboda um Viehweide und Obstnutzung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-499">LI-GAV, U 2</ref> (<orgName key="li-gav" ref="lub-objects-498">Gemeindearchiv Vaduz</orgName>) / Originaldatierung: 20. April 1592 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="B">B: Kopie, Signatur: LI-GATb, U 33 (<orgName corresp="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Entstehungszeit: 6. Mai 1785 / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42635">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Karl Ludwig von Sulz entscheidet im Streit um die Nutzung des Gebiets Erbi zwischen der Gemeinde Schaan und Vaduz, vertreten durch Ammann Adam Schierscher und Ulrich Egli von Schaan sowie durch Georg Wolf, Adam Straub und Thomas Lampert von Vaduz, einerseits und der Gemeinde des Viertels am Rotaboda in Triesenberg, vertreten durch Ulrich Beck, Thomas Lampert, Thomas Nägele, Hans Lampert und Hans Nägele, andererseits, dass die Leute vom Rotaboda den oberen Teil des Gebiets als sulzisches Lehen alleine nutzen dürfen. Das Gebiet um den Brunnen dürfen beide Parteien nutzen. Das unterhalb des Brunnens gegen Vaduz gelegene Gebiet dürfen die Leute vom Rotaboda hingegen nicht nutzen. Zwischen den verschiedenen Gebieten werden Grenzsteine gesetzt. Schliesslich sollen die Leute vom Rotaboda den Schaanern und Vaduzern keinen Schaden an ihrem Obst mehr zufügen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-175">Weiderecht</term>
+          <term ref="lub-keywords-165">Obst</term>
+          <term ref="lub-keywords-446">acheret</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-1">Grenze</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <date when="1592-04-20">20. Apr 1592</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gav__u_2-0002.jpg" xml:id="lub-media-2166" source="gav-u-2-r-klein.jpg" corresp="A"/>
+    <graphic url="li-gav__u_2-0002.jpg" xml:id="lub-media-2167" source="gav-u-2-v-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2166" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-13">Carl Ludwig grave zue Sultz</persName>, lanndtgrave inn <placeName ref="lub-places-18">Cleggew</placeName>, des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhofrichter 
+<lb n="2"/>zue <placeName ref="lub-places-17">Rothweyl</placeName>, herr zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Bluemeneckh</placeName> etc., bekennen offenntlich hiemit, als unsere getrewe, liebe underthonen <persName ref="lub-actors-287">Adam Schierßer</persName>, amman, 
+<lb n="3"/>unnd <persName ref="lub-actors-329">Ulrich Eglin</persName> von <placeName ref="lub-places-53">Schaan</placeName>, <persName ref="lub-actors-330">Georg Wolf</persName>, <persName ref="lub-actors-331">Adam Straub</persName> unnd <persName ref="lub-actors-228">Thoman Lampart</persName> von <placeName ref="lub-places-1">Vadutz</placeName> als verordnete außschüß wegen ainer gantzen gemain zue <placeName ref="lub-places-53">Schaan</placeName> 
+<lb n="4"/>und <placeName ref="lub-places-1">Vadutz</placeName> an ainem, so dann <persName ref="lub-actors-354">Ulrich Beck</persName> als ain beystandt, <persName ref="lub-actors-332">Thoman Lampart</persName>, <persName ref="lub-actors-333">Thoman Negelin</persName>, <persName ref="lub-actors-334">Hanß Lampart</persName> und <persName ref="lub-actors-335">Hanß Negelin</persName> auch innamen 
+<lb n="5"/>ainer gantzen gemaindt des viertels am <placeName ref="lub-places-41">Berg</placeName> im <placeName ref="lub-places-181">Rottenboden</placeName> andersthails an heut dato für uns kommen, haben gemelte von <placeName ref="lub-places-53">Schaan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> uns 
+<lb n="6"/>underthänig vorgebracht, wie das ir gegenthail, die <placeName ref="lub-places-181">Rottenbodner</placeName>, inen an iren habenden waidungen im <placeName ref="lub-places-182">Erblin</placeName> und hinauß bis an die rüßen am berg, 
+<lb n="7"/>so wol auch an <term ref="lub-keywords-446">ackheret</term>, kürßen, wildem obs und anderem ein merckhlichen schaden zuefuegten, alles der mainung, inen alda ein gerechtigkait zue schöpffen. 
+<lb n="8"/>Unnd weil sy daran mechtig übervortailt wurden, baten und begerten sy underthänig, das wir sie bey dem irigen handthaben und die <placeName ref="lub-places-181">Rottenbodner</placeName> 
+<lb n="9"/>davon auf das irig und alle billichait weisen wolten etc. Daentgegen besagte gemain des viertels am <placeName ref="lub-places-181">Rotenboden</placeName> antwurtlich einwenden lassen, 
+<lb n="10"/>das sy und ire vorfordern bey langen und unfürdencklichen jarenhero uf disem bezirck gewaidet, denselbigen, was er getragen, jederzeit mit 
+<lb n="11"/>und neben inen genutzt und genossen und inen solliches biß jetzo niemals verwidert, auch ires wissens damit niemands übervortailt haben. 
+<lb n="12"/>Pitten gleichsfals underthänig, das sie nochmaln also ruebig dabei gelassen werden. Unnd alß wir baide partheyen irem für- und anbringen 
+<lb n="13"/>nach gnuosamlich angehört, haben wir auch darauf den augenschein des angezognen bezürcks und waidgangs durchauß eingenomen und sy mit 
+<lb n="14"/>wüssendem schid also verglichen, das uf dem obern <placeName ref="lub-places-182">Erblin</placeName>, ungevarlich ain stainwurff von dem bronnen dem graadt unnd grede nach aufhin, 
+<lb n="15"/>dem höchsten spitz zue an die alp <placeName ref="lub-places-531">Bargelen</placeName> und <placeName ref="lub-places-625">Provitschenger</placeName> gueter und von oben herab biß uf den velsen guete sichtbare marckstain gesezt unnd 
+<lb n="16"/>dardurch der strittige waidtgang <unclear>ab</unclear>getailt werden. Unnd was also die marckstain gegen dem berüerten bronnen beschliessen, das soll hinfüro den 
+<lb n="17"/><placeName ref="lub-places-181">Rottenbodnern</placeName> als von uns herrüerenndt lehen zuenutzen und zueniessen allain zuegehörig sein. Und stost sollich ir inhaben auf der andern seiten 
+<lb n="18"/>oben hinauß ins <placeName ref="lub-places-664">Negelins Dobel</placeName> genant an <placeName ref="lub-places-79">Trißner</placeName> külspel. 
+<lb n="19"/>unnd do sy uber kurtz oder lang von denen von <placeName ref="lub-places-53">Schaan</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> oder andern darin
+<lb break="no" n="20"/>nen überfahren wurden, soll inen dieselbigen nach landsbrauch zue pfenden hiemit zuegelassen sein, doch gefahr hierinnen außgenomem. Sodan
+<lb n="21"/>sollen auch bemelte <placeName ref="lub-places-181">Rottenbodner</placeName> macht haben, von disem graadt und gesetzten marckstainen zue dem bronnen zue fahren, daselbsten zue 
+<lb n="22"/>trencken und zue wenden, in massen auch gleich darbei deßwegen ein sonderlicher aintziger marckstain gesezt worden, zue antzaigung, was zwüschen 
+<lb n="23"/>dem obgerüerten graadt und marckstainen und disem jetzgehörten stain beim bronnen ligt, bergauf oder hinab, das sie, baide gemainden, 
+<lb n="24"/><placeName ref="lub-places-53">Schaan</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-181">Rottenbodner</placeName>, sollichs mitainander fretzen und niessen mögen, wie und wann es jedem thail gefellig ist. Gehet der grede nach auf
+<lb break="no" n="25"/>hin an die <placeName ref="lub-places-625">Provitscheng</placeName> und unden dem velsen umbher biß auf die stainin stegen, und von diser stegen, do der bach herab fleußt, sollen
+<lb n="26"/>die <placeName ref="lub-places-181">Rottenbodner</placeName> die außfart dem weg und daselbst gesezten marckstain nach haben und under dem weg <placeName ref="lub-places-1">Vadutz</placeName> zue hinab nicht waiden bei 
+<lb n="27"/>straff pfendens, aber doch kain gefahr mit inen gebraucht werden. Sy, <placeName ref="lub-places-181">Rottenbodner</placeName>, sollen auch vom bronnen und anderstwo, wie jetz gehört ist, 
+<lb n="28"/>nit weiter hinüber fahren und waiden, auch denen von <placeName ref="lub-places-53">Schaan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> hinfürter nicht mer, wie ettwan beschechen sein möcht, an irem obs der biren, 
+<lb n="29"/>kürßen oder anderm dergleichen schaden thuon, als auch die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> inen nicht, alles bei der pfandung, doch durchauß kain thail 
+<lb n="30"/>das andre zue gefaaren oder unnachbarlich abzuestraffen, unnd also damit verglichen und entscheiden sein, wie dann baide partheyen sollichs guet
+<lb n="31"/>willig angenomen und dabei zue bleiben uns wortlichen zuegesagt und versprochen, alles getreulich und ungevarlichen. Dessen zue bestendigen ur
+<lb break="no" n="32"/>kundt haben wir (unsern habenden rechten und gerechtigkhait dardurch nichts benomen) unser cantzlei secret an zwen gleich lautende dises ver
+          <lb break="no" n="33"/>trags entschaidt anhengen und jedem thail auf ir gethanes begeren ainen zuestellen lassen. So geben ist den <origDate when="1592-04-20">zwaintzigisten monats tag
+<lb n="34"/>aprilis, gezalt nach Christi geburt fünfftzehenhundert neuntzig unnd zwai jare</origDate>.
+</p>
+        <p>
+          <pb facs="lub-media-2167" n="2"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

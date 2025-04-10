@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-494">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Wuhrstreit zwischen Sevelen einerseits und Triesen, Vaduz und Schaan andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-494">LI-GAV, U 3</ref> (<orgName key="li-gav" ref="lub-objects-498">Gemeindearchiv Vaduz</orgName>) / Originaldatierung: 7. April 1599 / Beschreibstoff: Pergament / Siegel: 4 Siegel, 1., 2. und 3. gut erhalten, 4. fehlt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-493">LI-GAS, U 14</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 7. April 1599 / Beschreibstoff: Pergament / Siegel: 4 Siegel, 1. fehlt, 2., 3. und 4. erhalten</witness>
+          <witness xml:id="B">B: Kopie, Signatur: LI-GAT, U 30 (<orgName corresp="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Entstehungszeit: 6. April 1627 / Beschreibstoff: Papier</witness>
+          <witness xml:id="C">C: Kopie, Signatur: LI-GAT, Urkundenbuch, S. 154-162 (<orgName corresp="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: um 1800 / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42636">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Freiherr Johann Christoph von Hohensax und Rudolf Lüchinger, Ammann in Oberriet, als Zusätze von Landammann und Rat von Glarus, sowie Wolfgang Jonas, hohenemsischer Rat und Vogt in Neuburg, und Andreas Götz, Baumeister von Feldkirch, als Zusätze von Graf Karl Ludwig von Sulz, entscheiden nach Verhandlungen und einem Augenschein, an denen Sigmund Rainolt, Landvogt in Vaduz, und Johann Jakob Beck, Landschreiber zu Vaduz, als Vertreter des Grafen von Sulz und seiner Untertanen, und Melchior Hässi, Landammann von Glarus, Johann Peter Legler, Landvogt in Werdenberg, und Thomas Elmer, Landschreiber von Werdenberg, als Vertreter von Glarus teilgenommen haben, die Wuhrstreitigkeiten zwischen Sevelen einerseits und Triesen, Vaduz und Schaan andererseits folgendermassen:&#13;
+1. Die Triesner dürfen im Bereich zwischen dem obersten Wuhr und dem Wuhr vor der Schmiede Wuhre erstellen, sollen jedoch auf Schupf- und Buckwuhre verzichten.&#13;
+2. Die Seveler sollen sich bei ihren Wuhrbauten an einer Grenzlinie vom Wuhr in Sand bis zum Wuhr in Burgerau orientieren. Im Gebiet vom Wuhr in Sand bis zur Mitte dieser Linie sollen sie zwei Drittel des Lands aufgeben und ein Drittel behalten dürfen. Von der Mitte der Linie bis zum Wuhr in Burgerau dürfen sie Wuhre erstellen, sollen jedoch ebenfalls auf Schupf- und Buckwuhre verzichten.&#13;
+3. Die Kopf- und Buckwuhre sollen im kommenden halben Jahr von beiden Parteien wechselweise begradigt werden, wobei die Vaduzer und Schaaner mit einem ihrer Wuhre den Anfang machen sollen.&#13;
+4. Die Vaduzer und Schaaner sollen das Wuhr, das als unzulässig erklärt wurde, vollständig abbrechen.&#13;
+&#13;
+Da die Kopf- und Buckwuhre nicht nach obigem Beschluss begradigt wurden, werden in Triesen, Vaduz und Schaan acht und in Sevelen fünf Grenzpunkte am Ufer gesetzt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-421">Naturgefahr</term>
+          <term ref="lub-keywords-122">Strasse</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-439">buck(wuer)</term>
+          <term ref="lub-keywords-440">hintermarch</term>
+          <term ref="lub-keywords-441">Schmiede</term>
+          <term ref="lub-keywords-127">Wirtshaus</term>
+          <term ref="lub-keywords-442">möni</term>
+          <term ref="lub-keywords-443">schinung</term>
+          <term ref="lub-keywords-433">kopf(wuer)</term>
+          <term ref="lub-keywords-444">werklafter</term>
+          <term ref="lub-keywords-445">kasten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-259">Sax-Hohensax, Johann Christoph von</persName>
+          <date when="1599-04-07">7. Apr 1599</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-260">Lüchinger, Rudolf</persName>
+          <date when="1599-04-07">7. Apr 1599</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-255">Jonas, Wolfgang</persName>
+          <date when="1599-04-07">7. Apr 1599</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-261">Götz, Andreas</persName>
+          <date when="1599-04-07">7. Apr 1599</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-227">Rainolt, Sigmund</persName>
+          <date when="1599-04-07">7. Apr 1599</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gav__u_3-0002.jpg" xml:id="lub-media-2168" source="gav-u-3-v-klein.jpg" corresp="A1"/>
+    <graphic url="li-gav__u_3-0002.jpg" xml:id="lub-media-2169" source="gav-u-3-r-1-klein.jpg" corresp="A1"/>
+    <graphic url="li-gav__u_3-0002.jpg" xml:id="lub-media-2170" source="gav-u-3-r-2-klein.jpg" corresp="A1"/>
+    <graphic url="li-gas__u_14-0002.jpg" xml:id="lub-media-2233" source="gas-u-14-bearb-klein.jpg" corresp="A2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2170" n="1"/><lb n="1"/>Wir nachbenantten <persName ref="lub-actors-259">Johann Cristoff freyherr zu Hochen Sax</persName> zu <placeName ref="lub-places-653">Uster</placeName> und <persName ref="lub-actors-260">Rudolff Lüchinger</persName>, amman am <placeName ref="lub-places-152">Ober Riett</placeName>, zusätz der edlen, gestrengen,
+               <lb n="2"/>frommen, erenvesten, fürsichtigen, ersammen und wyßen herren <orgName ref="lub-actors-276">landtamman und rath deß landts Glarus</orgName>, unßeren günstigen, lieben herren eins-, so denne <persName ref="lub-actors-255">Wolffgang Jonnas</persName>, gräffischer <orgName ref="lub-actors-1073">Hochen Embßischer</orgName> rath und vogt der herschafft
+               <lb n="3"/><placeName ref="lub-places-139">Nüwburg</placeName>, unnd <persName ref="lub-actors-261">Andereas Götz</persName>, buwmeister zu <placeName ref="lub-places-10">Väldkirch</placeName>, zusätz deß hoch und wolgebornnen herren, herren <persName ref="lub-actors-13">Carol Ludwigen graffen zu Sultz</persName>, landtgrafe in <placeName ref="lub-places-18">Klegköw</placeName>, herren zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blumeneck</placeName>, unßers gnedigenn
+               <lb n="4"/>herren anders theils, inn dißer nachvolgenden sach, bekennend offentlich und thund kundt mengklichem mit dißem brief, als sich zwüschent jetz ermelten parthyen wegen dero underthonnen, benantlich zu <placeName ref="lub-places-147">Sefelen</placeName> in der graffschafft
+               <lb n="5"/><placeName ref="lub-places-73">Werdenberg</placeName>, den herren von <placeName ref="lub-places-72">Glarus</placeName> und den flacken <placeName ref="lub-places-79">Trißen</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> und wolermeltem unßerm gnedigen herren <persName ref="lub-actors-13">grave zu Sultz</persName> zu gehörig, ettwas zitthar irrung, spän und mißverstandt zugethragen, wegen
+               <lb n="6"/>der wuhren am <placeName ref="lub-places-103">Rin</placeName>, deßwegen das jedertheil vermeinen wellen, sy mit dem wuren uberlengt und von irem gegentheil beschwert werdind, da sy sich umb erörterung und hinlegung bemelts spans uff vier zugesatzte zekommen begeben und
+               <lb n="7"/>veranlaßet, also und mit sollichem bescheid, das die selben den augenschin deß spans besichtigen und sy volgentz nach verhörung irer gwarsamme understan solten, in der fründtschafft und güettigkeit zuver einigen, wo aber die güetigkeit nützit
+               <lb n="8"/>verfachen, sy als dan mit rechtlichem spruch zuentscheiden. Uff welliche bewilligung und beschechnen anlaß wir obgenanten zusätz von inen, den parthyen als obstatt, hierzu erkießt und erpätten. Wan nun wir sy beidersits vor zwythracht
+               <lb n="9"/>und widerwillen (sovil unß müglich) zuverhüetten und zubewahren sonders gneigt und guttwillig, so haben wir unß der handlung undernommen und inen uff hüt dato uff den span und ougenschin bestimpt und angesetzt, da
+               <lb n="10"/>namlich erschinen sind in wolermelts unßers gnedigen herren <persName ref="lub-actors-13">grave zu Sultz</persName> und dero underthonen nammen die edlen, ernvesten <persName ref="lub-actors-227">Sigmund Reinold</persName>, landtvogt, und <persName ref="lub-actors-177">Johan Jacob Beck</persName>, römisch kaiserlicher majestät notarius, obervogt der
+               <lb n="11"/>herrschafft <placeName ref="lub-places-608">Mettingen</placeName> und landtschriber zu <placeName ref="lub-places-7">Vadutz</placeName> und in der herren von <placeName ref="lub-places-72">Glarus</placeName> nammen die edlen, ernvesten, fürsichtigen, wyßen <persName ref="lub-actors-262">Melchior Hässi</persName>, landtamman zu <placeName ref="lub-places-72">Glarus</placeName>, <persName ref="lub-actors-263">Petter Legler</persName>, lantvogt, und <persName ref="lub-actors-264">Toman Elmer</persName> von
+               <lb n="12"/><placeName ref="lub-places-72">Glarus</placeName>, landtschriber der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName>. Und als wir den ougenschin ingenommen, habent sich erstlich die von <placeName ref="lub-places-79">Trißen</placeName> erklagt, wie das der <placeName ref="lub-places-103">Rin</placeName> (von wägen der wuren, so die in der herschafft <placeName ref="lub-places-149">Wartouw</placeName> gemacht)
+               <lb n="13"/>inen so gar beschwerlich und mit gwalt uff sy gewachßen, der inen nit allein ire auwen und güetter, besonders ouch die landt und richs straß (wo man dem nit fürderlich fürkomme) hinnämme, dardurch sy und die iren in das
+               <lb n="14"/>verderben gricht. Derhalb ir fründ- und nachpürlich pitten, sy, die von <placeName ref="lub-places-147">Sefelen</placeName>, wollend inbethrachtung sollicher erhöüschenden und hochen notturfft inen bewilligen, das sy ein nüw wur dem <placeName ref="lub-places-103">Rin</placeName> entgegen setzen und machen
+               <lb n="15"/>mögent, damit sy den selben ettlicher gestalt wider in den alten furt bringen und ire ouwen, güetter und landtstraß schirmen und erhalten mogint. Wo inen aber dasselbig (wider ir verhoffen) abgeschlagen, sigend sy
+               <lb n="16"/>guter zuversicht, inen solches mit recht erkent werden sölle etc. Dargegen die von <placeName ref="lub-places-147">Sefelen</placeName> zu antwurt fürgewent, sy gethruwend und verhoffind, das denen von <placeName ref="lub-places-79">Trißen</placeName> keins wegs gestattet noch zugelassen werden sölle,
+               <lb n="17"/>einiche nüwe wur zeschlachen, besonders sollend sy by iren alten wuren und an den selben enden vermög brieff und siglen verbliben und darwider nützit handlen und, sover sy von irem fürnemmen gütlichen nit abston,
+               <lb n="18"/>das sy mit rächt dahin gwißen werden. Dann wo das nit beschechen sölte, würde es inen und iren nachkommen zu unwiderbringlichem schaden reichen. Unnd als wir sy in dem, wie ouch ermelte von <placeName ref="lub-places-147">Seefelen</placeName> gegen denen
+               <lb n="19"/>von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> von wägen verlengerung und erstreckung eines wurs, der lenge und notturfft nach, ouch brieff, und was vonnötten gwäßen, gnugsam gehort und verstanden, hieruff wir die parthyen dienstflißig und
+               <lb n="20"/>fründtlich gepetten, unß zubewilligen und vergünstigen, güettliche mittel zwüschent inen uff ir annämmen ald abschlachen stellen zlassen. Wan nun wir nach lang gehepter müe by inen die bewilligung funden, so habend
+               <lb n="21"/>wir zwüschent offtermälten parthyen nach volgende mittell gestelt: Nammlich für das erst, so sollend und mögend die von <placeName ref="lub-places-79">Trißen</placeName> von irem, dem oberst erkenten wur (wie dan darvon hernach ein <term ref="lub-keywords-440">hindermarch</term> unnd
+               <lb n="22"/>ab dem <term ref="lub-keywords-433">kopff</term> vermeldet wirt), gredigs der <term ref="lub-keywords-442">möne</term> und <term ref="lub-keywords-443">schinung</term> nach hinab in den <term ref="lub-keywords-433">kopff</term> vor der schmitten zu <placeName ref="lub-places-79">Trißen</placeName>, alda ein großen stein ligt, fahren und wuren, doch sollend keine <term ref="lub-keywords-405">schüpff</term> noch <term ref="lub-keywords-439">pück</term> hierin nit gemacht
+               <lb n="23"/>werden, besonders sich der gredi beflißen. Zum anderen söllend und mögend die von <placeName ref="lub-places-147">Seefelen</placeName> unden von dem lang erkenten wur, so uff dem <placeName ref="lub-places-654">Sand</placeName> statt, gredig hinab nemmen in <placeName ref="lub-places-484">Burgerouw</placeName> wur, alda sol man die landtmarch
+               <lb n="24"/>suchen, und danethin vom obern langen erkenten wur den halben theil irer landtmarch der lenge nach erstrecken, dergestalt, was sich von der <term ref="lub-keywords-443">schinung</term>, wie gemält, gegen der landtmarch <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> bethrifft, da sol
+               <lb n="25"/>man die zwentheil deß lantz fallen lassen und den dritten teil gegen <placeName ref="lub-places-147">Seefelen</placeName> zu irem vorthel behalten. Demnach, was under der halben lenge ist, sollend sy der gredi nach in das <placeName ref="lub-places-484">Burgouw</placeName> wur fahren, so wit und fer sich ir
+               <lb n="26"/>kilchspell erstrecken thut, doch ouch keine <term ref="lub-keywords-405">schüpf</term> noch <term ref="lub-keywords-439">bück</term> nit gemacht werden söllen, besonder sich in allweg der grede und <term ref="lub-keywords-442">möne</term> beflißen. Zum driten, die alten <term ref="lub-keywords-433">köpff</term> und <term ref="lub-keywords-439">bück</term>, so bedersitz in <placeName ref="lub-places-103">Rin</placeName> gesetzt und gemacht worden,
+               <lb n="27"/>belangende, da ist unßer erkantnuß, das man die selben inerhalb nechstkommenden halben jars beidersitz ußfüllen und in die grede und <term ref="lub-keywords-442">möne</term> richten. Da dan die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> den anfang thun söllen. Und wan sy an ein
+               <lb n="28"/>ortt usgefült, sollend als dan dargegen die von <placeName ref="lub-places-147">Seefellen</placeName> am andern ort glicher gestalt ouch ußfüllen und also vorthin biß dem gnug beschechen ist. Were aber sach, das dem, wie obstatt, im ersten halben jar nit statt beschechen wurde,
+               <lb n="29"/>als dan sollend ermälte <term ref="lub-keywords-433">köpff</term> und wur, wie die dißer zitt sind, verbliben und erhalten werden, doch das man dieselben keins wegs nit erlengern noch erstrecken sölle, ouch jedem sin eigne <term ref="lub-keywords-440">hindermarch</term> gesetzt und verschriben werden.
+               <lb n="30"/>Zum vierten sollend die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> schuldig und verbunden sin, das wur, so inen abkent, fürderlich ze vollen abschlißen und hinweg thun. Demnach, wil lut obangezogner erkantnuß ettliche <term ref="lub-keywords-433">köpff</term> und wur nit ußgefült
+               <lb n="31"/>und erbeßert worden, da man nothalber (damit künfftige spen vermiten) <term ref="lub-keywords-440">hinder marchen</term> setzen müeßen, das nun beschächen, wie hernach volgen wirt, und söllend die klaffter <placeName ref="lub-places-10">Väldkircher</placeName> <term ref="lub-keywords-444">werchklaffter</term> verstanden unnd
+               <lb n="32"/>gemässen werden. Erstlich, die oberist march stat unden im <placeName ref="lub-places-216">Trißner Väld</placeName>, hat sin <term ref="lub-keywords-443">schinung</term> hinüber in das <placeName ref="lub-places-655">schloß Wartouw</placeName> und erstreckt sich biß uff das alt erkent wur viertzig und drü klaffter. Die ander march ist vom
+               <lb n="33"/>oberen schmiten egk, so zu <placeName ref="lub-places-79">Trißen</placeName> vor dem wirtzhuß stat, erstreckt sich biß vornen uff das wur zwentzig und zwey klaffter minder ein schuch. Die drit march, so uff einem port gegen dem <term ref="lub-keywords-433">kopff wur</term> under <placeName ref="lub-places-79">Trißen</placeName>, erstreckt sich eindliff
+               <lb n="34"/>klaffter vom stein biß uff das wur. Jetz ernempte drey marchen sollend die von <placeName ref="lub-places-79">Trißen</placeName> erhalten. Die viert march vom obersten langen wur, so under dem <term ref="lub-keywords-445">kasten</term> wur ist, sol sin <term ref="lub-keywords-443">schinung</term> nemmen gredig hinüber in <placeName ref="lub-places-657">Mammetz Bach</placeName>
+               <lb n="35"/>under <placeName ref="lub-places-656">Sant Ulrich</placeName> und erstreckt sich von der march, so hinden uff dem port stat, biß vornen uff das wur drißig und fünff klaffter. Die fünfft march bim graben wur, stat der stein hinden uff dem port, erstreckt sich biß fornen uff den
+               <lb n="36"/><term ref="lub-keywords-433">kopff</term> zwentzig und zwey klaffter. Die sechßte march, so hinden uff dem port by dem aberkenten wur, ist zwentzig klaffter. Die sibendt march am Schapell Kopff, stat der stein hinden uff dem port, ist vom stein biß uff das wur zwentzig
+               <lb n="37"/>und fünff klaffter. Die achtend march von dem <term ref="lub-keywords-433">kopff</term> zu nechst ob dem fischgater, stat der stein hinden uff dem port, erstreckt sich biß vornen uff das wur fünffzechen klaffter. Diße fünff marchen söllend die gmeinden <placeName ref="lub-places-1">Vadutz</placeName> und
+               <lb n="38"/><placeName ref="lub-places-53">Schan</placeName> erhalten. So denne volgend die marchen <placeName ref="lub-places-147">Sefelen</placeName> halb, die sy ouch zu erhalten schuldig sin sollendt. Die erst march, so die oberist, hat vom marckstein biß uff das wur, genant deß Schwicklis Kopff, fünffzachen klaffter. Die ander,
+               <lb n="39"/>so ein langen runden <term ref="lub-keywords-433">kopff</term>, darhinder ein marckstein gesetzt, sol haben eindliff klaffter. Die drit march, so in <persName ref="lub-actors-2074">Sigmund Schwendiners</persName> gut, genant die <placeName ref="lub-places-658">Seelen</placeName>, da sich die <term ref="lub-keywords-443">schinung</term> nammen sol gredig gegen dem tuggstein felßen und <placeName ref="lub-places-661">Gweder Entschen</placeName>,
+               <lb n="40"/>wie das bächli herab flüßt, erstreckt sich ußwerth biß an <placeName ref="lub-places-103">Rin</placeName> zweyhundert nüntzig und fünff klaffter. Die vierte march, so in <persName ref="lub-actors-2079">Pali Sännen</persName> gutt, genant <placeName ref="lub-places-660">Eberlis Wyß</placeName>, stat, sol sin biß uff das wur hundert achtzig und zwey klaffter und sol
+               <lb n="41"/>sich die <term ref="lub-keywords-443">schinung</term> der grede nach nämmen hinüber in <placeName ref="lub-places-662">Spineuwer Tobell</placeName> in bach, als er hinab falt. Die fünffte und letste march, so in der auw stat, ist gmässen biß uff das wur, genant der <placeName ref="lub-places-140">Wartower</placeName> Kopff, befindt sich fünffzig und ein klaffter
+               <lb n="42"/>und hat die <term ref="lub-keywords-443">schinung</term> vom marckstein gredig hinüber in den <placeName ref="lub-places-663">Galgenstein</placeName>. Unnd letstlichen solle dißer verthrag sonst hienäbend allen parthyen an iren fryheiten, gerechtigkeiten, briefen, siglen, offnungen, gutten gwonheiten und
+               <lb n="43"/>harkommen in allwäg ohne schaden und nachtheil und aller unwill hiemit tod und ab sin und sy einandern guten nachpürlichen willen bewißen und erzeigen. Und was costens jeder theil erlitten, den solle er an im selbs haben
+               <lb n="44"/>und entwederen theil dem anderen daran nützit zegeben schuldig syn. Und als wir inen, den parthyen, obgeschribnen unßeren gütlichen spruch vorgeoffnet und sy zu allen theilen zu gefallen uff und angenommen, den ouch für sy
+               <lb n="45"/>und ire nachkommen zehalten und darwider nimer nichts zereden, zethund noch schaffen gethon zewerden, zugesagt und versprochen, so haben wir obgenante vier sätz, benantlich <persName ref="lub-actors-259">Johan Cristoff freyherr zu der Hochen Sax</persName> sin aner
+               <lb break="no" n="46"/>boren und wir <persName ref="lub-actors-260">Rudolff Luchinger</persName>, <persName ref="lub-actors-255">Wolffgang Jonas</persName> und <persName ref="lub-actors-261">Andereas Götz</persName> jeder sin eigen insigel (doch unß und unßeren erben ohne schaden) an dißer brieffen dry (einer gen <placeName ref="lub-places-79">Trißen</placeName>, der ander denen von <placeName ref="lub-places-147">Seefelen</placeName> und
+               <lb n="47"/>der drit denen von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName>), glich lutend, gehenckt, die gaben sind den <origDate when="1599-04-07">sibenden tag apprillis als man zalt nach Cristi gepurt fünffzächenhundert nüntzig und nün jare</origDate>.
+            </p>
+        <p><pb facs="lub-media-2169" n="2"/><lb n="48"/>Unnd diewil innert der zitt, ob dißere brieff
+               <lb n="49"/>uff gericht worden, wol ermelter herr
+               <lb n="50"/><persName ref="lub-actors-261">Andereas Götz</persName>, buwmeister zu <placeName ref="lub-places-10">Väld
+                  <lb break="no" n="51"/>kirch</placeName>, mit tod abgangen, so hat der
+               <lb n="52"/>edell und vest herr <persName ref="lub-actors-227">Sigmundt Rein
+                  <lb break="no" n="53"/>old</persName>, alter statt amman zu <placeName ref="lub-places-10">Feldkirch</placeName>, der
+               <lb n="54"/>zitt landtvogt zu <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>,
+               <lb n="55"/>von sinetwegen und uß pitt aller
+               <lb n="56"/>parthyen sin eigenn insigell (jedoch im
+               <lb n="57"/>und sinen erben ouch ohne schadenn)
+               <lb n="58"/>an dißen brieff hat hencken lassen.
+            </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2168" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

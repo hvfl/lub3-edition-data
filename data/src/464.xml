@@ -18,6 +18,11 @@
           <witness xml:id="B1">B1: Kopie, Signatur: <ref type="identifier" target="lub-objects-1107">LI-GAE, AHV 02/117a</ref> (<orgName key="li-gae" ref="lub-objects-462">Gemeindearchiv Eschen</orgName>) / Beschreibstoff: Papier</witness>
           <witness xml:id="B2">B2: Kopie, Signatur: LI-LA, RA 71/13 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42687">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

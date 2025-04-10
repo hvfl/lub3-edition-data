@@ -18,6 +18,11 @@
           <witness xml:id="B1">B1: Kopie, Signatur: LI-GAS, U 16 (<orgName corresp="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Entstehungszeit: 28. Juli 1763 / Beschreibstoff: Papier</witness>
           <witness xml:id="B2">B2: Kopie, Signatur: LI-LA, RA 29/01/01 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Beschreibstoff: Papier</witness>
         </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.e-archiv.li/D42546">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -77,6 +82,11 @@
           <lb break="no" n="22"/>kheiten onhe schaden unnd ohne nachteilig) erkhandt. So geschehen bey der wochentlich verhör den <origDate when="1605-01-07">sybenden monaths tag
 <lb n="23"/>january im jar nach Christi geburth gezalt sechtzehenhundert undt fünffe</origDate>. 
 </p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2196" n="2"/>
+        </p>
       </div>
     </body>
   </text>
