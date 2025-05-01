@@ -14,8 +14,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: LI-LA, PfäfA 22 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Abschrift, Signatur: <ref type="identifier" target="lub-objects-739">LI-LA, PfäA 22/02</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 2 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -41,9 +41,11 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="li-la__pf-fa_21_04-0001.jpg" xml:id="lub-media-1535" source="pfafa-21-04-s01.jpg" corresp="B"/>
-    <graphic url="li-la__pf-fa_21_04-0002.jpg" xml:id="lub-media-1536" source="pfafa-21-04-s02.jpg" corresp="B"/>
-    <graphic url="li-la__pf-fa_21_04-0003.jpg" xml:id="lub-media-1537" source="pfafa-21-04-s03.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_04-0001.jpg" xml:id="lub-media-1535" source="pfafa-21-04-s01.jpg" corresp="B1"/>
+    <graphic url="li-la__pf-fa_21_04-0002.jpg" xml:id="lub-media-1536" source="pfafa-21-04-s02.jpg" corresp="B1"/>
+    <graphic url="li-la__pf-fa_21_04-0003.jpg" xml:id="lub-media-1537" source="pfafa-21-04-s03.jpg" corresp="B1"/>
+    <graphic url="li-la__pf-fa_22_02-0001.jpg" xml:id="lub-media-1545" source="pfafa-22-02-s01.jpg" corresp="B2"/>
+    <graphic url="li-la__pf-fa_22_02-0002.jpg" xml:id="lub-media-1546" source="pfafa-22-02-s02.jpg" corresp="B2"/>
   </facsimile>
   <text>
     <body>

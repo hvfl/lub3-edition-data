@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-04-10 10:59:17 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-05-01 12:02:10 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1431,6 +1431,8 @@
             <placeName type="alternative" xml:lang="de">Scha</placeName>
             <placeName type="alternative" xml:lang="de">Schan</placeName>
             <placeName type="alternative" xml:lang="de">Schann</placeName>
+            <placeName type="alternative" xml:lang="de">Schänn</placeName>
+            <placeName type="alternative" xml:lang="de">Schän</placeName>
             <location>
               <geo>47.16498 9.50867</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -2794,6 +2796,7 @@
             <placeName type="alternative" xml:lang="de">Blankhen</placeName>
             <placeName type="alternative" xml:lang="de">Planckhen</placeName>
             <placeName type="alternative" xml:lang="de">Blannckhen</placeName>
+            <placeName type="alternative" xml:lang="de">Plancken</placeName>
             <location>
               <geo>47.18516 9.54437</geo>
               <country xml:lang="de">Liechtenstein</country>
@@ -4143,6 +4146,7 @@
             <placeName type="full" xml:lang="de">Quader / Schaan</placeName>
             <placeName type="sort" xml:lang="de">quader</placeName>
             <placeName type="alternative" xml:lang="de">Quaderen</placeName>
+            <placeName type="alternative" xml:lang="de">Quadern</placeName>
             <location>
               <geo>47.16072 9.51138</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -4385,6 +4389,7 @@
             <placeName type="full" xml:lang="de">St. Laurentius, Pfarrkirche / Schaan</placeName>
             <placeName type="sort" xml:lang="de">st. laurentius, pfarrkirche</placeName>
             <placeName type="alternative" xml:lang="de">St. Lorenz</placeName>
+            <placeName type="alternative" xml:lang="de">St. Lohrenzen</placeName>
             <location>
               <geo>47.168299 9.513263</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -4501,7 +4506,11 @@
             <placeName type="main" xml:lang="de">Maree</placeName>
             <placeName type="full" xml:lang="de">Maree / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">maree</placeName>
+            <placeName type="alternative" xml:lang="de">Amara</placeName>
             <placeName type="alternative" xml:lang="de">Amaren</placeName>
+            <placeName type="alternative" xml:lang="de">Maroren</placeName>
+            <placeName type="alternative" xml:lang="de">Marren</placeName>
+            <placeName type="alternative" xml:lang="de">Marrenn</placeName>
             <location>
               <geo>47.14596 9.52352</geo>
               <settlement xml:lang="de">Vaduz</settlement>
@@ -4529,8 +4538,12 @@
             <placeName type="main" xml:lang="de">Bofel, undera</placeName>
             <placeName type="full" xml:lang="de">Bofel, undera / Schaan</placeName>
             <placeName type="sort" xml:lang="de">bofel, undera</placeName>
+            <placeName type="alternative" xml:lang="de">undern Boffel</placeName>
             <placeName type="alternative" xml:lang="de">under Poffl</placeName>
             <placeName type="alternative" xml:lang="de">undern Bovel</placeName>
+            <placeName type="alternative" xml:lang="de">unndern Boffel</placeName>
+            <placeName type="alternative" xml:lang="de">unndern Bofel</placeName>
+            <placeName type="alternative" xml:lang="de">Boffel</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -4552,6 +4565,7 @@
             <placeName type="main" xml:lang="de">Gapetsch</placeName>
             <placeName type="full" xml:lang="de">Gapetsch / Schaan</placeName>
             <placeName type="sort" xml:lang="de">gapetsch</placeName>
+            <placeName type="alternative" xml:lang="de">Gabetsch</placeName>
             <location>
               <geo>47.15966 9.50555</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -4747,6 +4761,7 @@
             <placeName type="main" xml:lang="de">Hauserin</placeName>
             <placeName type="full" xml:lang="de">Hauserin / Schaan</placeName>
             <placeName type="sort" xml:lang="de">hauserin</placeName>
+            <placeName type="alternative" xml:lang="de">Haußerin</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -4770,6 +4785,7 @@
             <placeName type="sort" xml:lang="de">specki</placeName>
             <placeName type="alternative" xml:lang="de">Speckhi</placeName>
             <placeName type="alternative" xml:lang="de">Specky</placeName>
+            <placeName type="alternative" xml:lang="de">Speckhe</placeName>
             <location>
               <geo>47.16875 9.51035</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -4947,6 +4963,7 @@
             <placeName type="main" xml:lang="de">Jonaguet</placeName>
             <placeName type="full" xml:lang="de">Jonaguet / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">jonaguet</placeName>
+            <placeName type="alternative" xml:lang="de">Jona gueth</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -6376,6 +6393,7 @@
             <placeName type="full" xml:lang="de">Oberfeld / Balzers</placeName>
             <placeName type="sort" xml:lang="de">oberfeld</placeName>
             <placeName type="alternative" xml:lang="de">Obern Veld</placeName>
+            <placeName type="alternative" xml:lang="de">Obern Feldt</placeName>
             <location>
               <geo>47.06123 9.48036</geo>
               <settlement xml:lang="de">Balzers</settlement>
@@ -7060,6 +7078,8 @@
             <placeName type="full" xml:lang="de">Landstrasse</placeName>
             <placeName type="sort" xml:lang="de">landstrasse</placeName>
             <placeName type="alternative" xml:lang="de">Landstraße</placeName>
+            <placeName type="alternative" xml:lang="de">Landtstrass</placeName>
+            <placeName type="alternative" xml:lang="de">Landtstraß</placeName>
             <location>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
@@ -7071,6 +7091,7 @@
             <placeName type="full" xml:lang="de">Halda / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">halda</placeName>
             <placeName type="alternative" xml:lang="de">Halde, Schlosshalda</placeName>
+            <placeName type="alternative" xml:lang="de">Halden</placeName>
             <location>
               <geo>47.140881 9.523963</geo>
               <settlement xml:lang="de">Vaduz</settlement>
@@ -7138,6 +7159,8 @@
             <placeName type="sort" xml:lang="de">egelgraba</placeName>
             <placeName type="alternative" xml:lang="de">Ägilgraben</placeName>
             <placeName type="alternative" xml:lang="de">Eglen grabe</placeName>
+            <placeName type="alternative" xml:lang="de">Egelgraben</placeName>
+            <placeName type="alternative" xml:lang="de">Negelgraben</placeName>
             <location>
               <geo>47.1746 9.50063</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -7184,10 +7207,12 @@
             </note>
           </place>
           <place type="S" xml:id="lub-places-351">
-            <placeName type="main" xml:lang="de">Hofgut</placeName>
-            <placeName type="full" xml:lang="de">Hofgut / Balzers</placeName>
-            <placeName type="sort" xml:lang="de">hofgut</placeName>
+            <placeName type="main" xml:lang="de">Hofguet (1)</placeName>
+            <placeName type="full" xml:lang="de">Hofguet (1) / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">hofguet (1)</placeName>
+            <placeName type="alternative" xml:lang="de">Hofgut</placeName>
             <placeName type="alternative" xml:lang="de">Hoffgutt</placeName>
+            <placeName type="alternative" xml:lang="de">Hoffgueth</placeName>
             <location>
               <settlement xml:lang="de">Balzers</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -7236,6 +7261,7 @@
             <placeName type="full" xml:lang="de">Fürhöpter / Balzers</placeName>
             <placeName type="sort" xml:lang="de">fuerhoepter</placeName>
             <placeName type="alternative" xml:lang="de">Fürhöptter</placeName>
+            <placeName type="alternative" xml:lang="de">Fürhäubter</placeName>
             <location>
               <settlement xml:lang="de">Balzers</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -7254,11 +7280,13 @@
             </note>
           </place>
           <place type="T" xml:id="lub-places-354">
-            <placeName type="main" xml:lang="de">Mattheid</placeName>
-            <placeName type="full" xml:lang="de">Mattheid / Fläsch (Graubünden)</placeName>
-            <placeName type="sort" xml:lang="de">mattheid</placeName>
+            <placeName type="main" xml:lang="de">Matheid</placeName>
+            <placeName type="full" xml:lang="de">Matheid / Fläsch (Graubünden)</placeName>
+            <placeName type="sort" xml:lang="de">matheid</placeName>
+            <placeName type="alternative" xml:lang="de">Mattheid</placeName>
             <placeName type="alternative" xml:lang="de">Mathaid</placeName>
             <placeName type="alternative" xml:lang="de">Anatheidt</placeName>
+            <placeName type="alternative" xml:lang="de">Alathait</placeName>
             <location>
               <geo>47.050415 9.492924</geo>
               <settlement xml:lang="de">Fläsch</settlement>
@@ -7283,9 +7311,9 @@
             </note>
           </place>
           <place type="L" xml:id="lub-places-356">
-            <placeName type="main" xml:lang="de">Anell</placeName>
-            <placeName type="full" xml:lang="de">Anell / Balzers</placeName>
-            <placeName type="sort" xml:lang="de">anell</placeName>
+            <placeName type="main" xml:lang="de">Anell; Ell</placeName>
+            <placeName type="full" xml:lang="de">Anell; Ell / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">anell; ell</placeName>
             <location>
               <geo>47.052277 9.486653</geo>
               <settlement xml:lang="de">Balzers</settlement>
@@ -8610,6 +8638,7 @@
             <placeName type="full" xml:lang="de">Äule / Schaan</placeName>
             <placeName type="sort" xml:lang="de">aeule</placeName>
             <placeName type="alternative" xml:lang="de">Öwle</placeName>
+            <placeName type="alternative" xml:lang="de">Schänner Äwlin</placeName>
             <location>
               <geo>47.15876 9.4994</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -9339,6 +9368,7 @@
             <placeName type="sort" xml:lang="de">rinkawingert</placeName>
             <placeName type="alternative" xml:lang="de">Reiggen Weingart</placeName>
             <placeName type="alternative" xml:lang="de">Ringen Wingertlin</placeName>
+            <placeName type="alternative" xml:lang="de">Rinckhen weingart</placeName>
             <location>
               <geo>47.21372 9.51895</geo>
               <settlement xml:lang="de">Eschen</settlement>
@@ -11349,6 +11379,7 @@
             <placeName type="full" xml:lang="de">Bonenacker / Planken</placeName>
             <placeName type="sort" xml:lang="de">bonenacker</placeName>
             <placeName type="alternative" xml:lang="de">Banackher</placeName>
+            <placeName type="alternative" xml:lang="de">Bonackher</placeName>
             <location>
               <settlement xml:lang="de">Planken</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -11371,6 +11402,7 @@
             <placeName type="full" xml:lang="de">Bartledura / Schaan</placeName>
             <placeName type="sort" xml:lang="de">bartledura</placeName>
             <placeName type="alternative" xml:lang="de">Bartlitura</placeName>
+            <placeName type="alternative" xml:lang="de">Badledura</placeName>
             <location>
               <geo>47.168888 9.51815</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -11417,6 +11449,7 @@
             <placeName type="full" xml:lang="de">Pradafant / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">pradafant</placeName>
             <placeName type="alternative" xml:lang="de">Bradavandt</placeName>
+            <placeName type="alternative" xml:lang="de">Bradefant</placeName>
             <location>
               <geo>47.14615 9.51314</geo>
               <settlement xml:lang="de">Vaduz</settlement>
@@ -11473,6 +11506,8 @@
             <placeName type="full" xml:lang="de">Bartlegrosch / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">bartlegrosch</placeName>
             <placeName type="alternative" xml:lang="de">Bratlagrosch</placeName>
+            <placeName type="alternative" xml:lang="de">Bartlagross</placeName>
+            <placeName type="alternative" xml:lang="de">Pratlogrosch</placeName>
             <location>
               <geo>47.14831 9.51079</geo>
               <settlement xml:lang="de">Vaduz</settlement>
@@ -11591,6 +11626,7 @@
             <placeName type="full" xml:lang="de">Fukseri / Schaan</placeName>
             <placeName type="sort" xml:lang="de">fukseri</placeName>
             <placeName type="alternative" xml:lang="de">Fuchßerin</placeName>
+            <placeName type="alternative" xml:lang="de">Fuxerin</placeName>
             <location>
               <geo>47.17745 9.50201</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -11619,6 +11655,8 @@
             <placeName type="full" xml:lang="de">Zagalzel / Schaan</placeName>
             <placeName type="sort" xml:lang="de">zagalzel</placeName>
             <placeName type="alternative" xml:lang="de">Gagaziel</placeName>
+            <placeName type="alternative" xml:lang="de">Gagalzel</placeName>
+            <placeName type="alternative" xml:lang="de">Gagallzel</placeName>
             <location>
               <geo>47.17122 9.51476</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -11764,6 +11802,7 @@
             <placeName type="full" xml:lang="de">Essla / Vaduz</placeName>
             <placeName type="sort" xml:lang="de">essla</placeName>
             <placeName type="alternative" xml:lang="de">Ißlin</placeName>
+            <placeName type="alternative" xml:lang="de">Ißlen</placeName>
             <location>
               <settlement xml:lang="de">Vaduz</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -11785,6 +11824,7 @@
             <placeName type="main" xml:lang="de">Kleiner Giessen</placeName>
             <placeName type="full" xml:lang="de">Kleiner Giessen / Schaan</placeName>
             <placeName type="sort" xml:lang="de">kleiner giessen</placeName>
+            <placeName type="alternative" xml:lang="de">Khleinen Giessen</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -11947,6 +11987,9 @@
             <placeName type="sort" xml:lang="de">mesmergut</placeName>
             <placeName type="alternative" xml:lang="de">Meßmer guet</placeName>
             <placeName type="alternative" xml:lang="de">Meßner guet</placeName>
+            <placeName type="alternative" xml:lang="de">Messmers</placeName>
+            <placeName type="alternative" xml:lang="de">Hannß Messmers gueth (?)</placeName>
+            <placeName type="alternative" xml:lang="de">Messmers gueth</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -11969,6 +12012,7 @@
             <placeName type="full" xml:lang="de">Oberplanken / Planken</placeName>
             <placeName type="sort" xml:lang="de">oberplanken</placeName>
             <placeName type="alternative" xml:lang="de">Oberen Planckhen</placeName>
+            <placeName type="alternative" xml:lang="de">Obern Planckhen</placeName>
             <location>
               <geo>47.17811 9.54585</geo>
               <settlement xml:lang="de">Planken</settlement>
@@ -12049,6 +12093,7 @@
             <placeName type="sort" xml:lang="de">roezgraben</placeName>
             <placeName type="alternative" xml:lang="de">Rotzgraben</placeName>
             <placeName type="alternative" xml:lang="de">Rötzgraben</placeName>
+            <placeName type="alternative" xml:lang="de">Räzgraben</placeName>
             <location>
               <settlement xml:lang="de">Schaan</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -12187,6 +12232,7 @@
             <placeName type="full" xml:lang="de">Steinegerta / Schaan</placeName>
             <placeName type="sort" xml:lang="de">steinegerta</placeName>
             <placeName type="alternative" xml:lang="de">Stain Egerten</placeName>
+            <placeName type="alternative" xml:lang="de">Stain Ergarten</placeName>
             <location>
               <geo>47.163097 9.521448</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -12211,6 +12257,7 @@
             <placeName type="sort" xml:lang="de">troexle</placeName>
             <placeName type="alternative" xml:lang="de">Trächßlin</placeName>
             <placeName type="alternative" xml:lang="de">Trochs</placeName>
+            <placeName type="alternative" xml:lang="de">Drox</placeName>
             <location>
               <geo>47.17307 9.50712</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -12239,6 +12286,7 @@
             <placeName type="full" xml:lang="de">Trenkweg / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">trenkweg</placeName>
             <placeName type="alternative" xml:lang="de">Tränckhweg</placeName>
+            <placeName type="alternative" xml:lang="de">Trenckhweg</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -13624,6 +13672,7 @@
             <placeName type="main" xml:lang="de">Mülbach</placeName>
             <placeName type="full" xml:lang="de">Mülbach / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">muelbach</placeName>
+            <placeName type="alternative" xml:lang="de">Mühlbach</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -14070,7 +14119,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-04-10T10:59:19+02:00">teiHeader was automatically produced from the database 2025-04-10T10:59:19+02:00</change>
+      <change when="2025-05-01T12:02:12+02:00">teiHeader was automatically produced from the database 2025-05-01T12:02:12+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
