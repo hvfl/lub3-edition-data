@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-986">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ablassbrief für die Kirche Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-986">LI-PfABe, U 19</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 7. Dezember 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Paul Ziegler, Bischof von Chur, fordert den Klerus seines Bistums auf, den Boten der Kirche Bendern wohlwollend zu empfangen und die Gläubigen um Spenden für die Kirche Bendern zu bitten. Die der Jungfrau Maria sowie den Heiligen Jodok, Luzius, Ursula und Odilia geweihte Kirche sei baufällig und es mangle ihr an der für den Gottesdienst nötigen Ausstattung. Da die Angehörigen der Kirchgemeinde arm seien, seien Spenden nötig. Die Spender erhalten einen Ablass von 40 Tagen für schwere und von 100 Tagen für leichte Vergehen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-343">Ablass</term>
+          <term ref="lub-keywords-395">Kirchenbau</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-813">Ziegler, Paul</persName>
+          <date when="1513-12-07">7. Dez 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfabe__u_19-0001.jpg" xml:id="lub-media-2463" source="pfabe-u-019-r.jpg" corresp="A"/>
+    <graphic url="li-pfabe__u_19-0002.jpg" xml:id="lub-media-2464" source="pfabe-u-019-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2463" n="1"/><lb n="1"/><persName ref="lub-actors-813">Paulus</persName>, dei et apostolice sedis gracia electus ecclesie <placeName ref="lub-places-102">Curiensis</placeName>, universis et singulis abbatibus, prioribus, prepositis, decanis, camerariis ecclesiarumque parroch
+<lb break="no" n="2"/>ialium rectoribus, plebanis, viceplebanis, capellanis ceterisque presbyteris et clericis per diocesem nostram <placeName ref="lub-places-175">Curiensem</placeName> ubilibet constitutis salutem in domino sempiternam.
+<lb n="3"/>Quoniam, ut ait apostolus, omnes stabimus ante tribunal Christi recepturi, prout in corpore gessimus, sive bonum fuerit sive malum, oportet igitur diem 
+<lb n="4"/>extremum misericordie operibus prevenire et eternorum intuitu seminare in terris, quod reddente domino cum multiplicato fructu recolligere 
+<lb n="5"/>valeamus in celis, firmam spem fiduciamque tenentes, quoniam, qui parce seminat, parce et metet et, qui seminat in benedictionibus, de eis et metet 
+<lb n="6"/>vitam eternam.<note>Vgl. den zweiten Brief des Paulus an die Korinther (2. Kor 5, 10; ebd., 9, 6.)</note> Cum igitur ecclesia parrochialis in <placeName ref="lub-places-36">Benndern</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, nostre <placeName ref="lub-places-175">Curiensis</placeName> diocesis prefate, dedicata et consecrata in honore intemerate virginis 
+<lb n="7"/><persName ref="lub-actors-2343">Marie</persName>, dei genitricis, beatorum <persName ref="lub-actors-2264">Jodoci</persName>, <persName ref="lub-actors-985">Lucii</persName>, confessorum, ac <persName ref="lub-actors-2265">Ursule</persName> et <persName ref="lub-actors-2266">Othilie</persName> virginium, in suis muris, tectis, parietibus, libris, missalibus, cali
+<lb break="no" n="8"/>cibus, campanis, quas etiam noviter fundi fecerunt, ac aliis indumentis et ornamentis ecclesiasticis ad divinum cultum spectantibus magnos
+<lb n="9"/>ac diversos patiatur defectus et subditi ibidem in tanto non habundant, quod huiusmodi defectus restaurare valeant ac eorum propositum adimplere, 
+<lb n="10"/>sed aliorum episcopi fidelium elimosinis et charitatinis subsidiis ad hec indigeant necessario, quare universitatem vestram in domino requi
+<lb break="no" n="11"/>rimus, monemus ac exhortamus, quatenus nuntium dicte ecclesie, cum ad vos venerit, Christi fidelium elimosinas petiturus ad dictam ecclesiam,
+<lb n="12"/>benigne recipiatis et favorabiliter pertractatis ac ad petendum elimosinas in ecclesiis vestris et <supplied>e</supplied>xtra personaliter admittatis ac pro ipso, si petierit, verbum 
+<lb n="13"/>exhortationis apud vestros subditos diligentius proponatis, eosdem seriosius incitantes, ut de bonis sibi a deo collatis ad tam pios usus suas pias stude
+<lb break="no" n="14"/>ant elargiri elimosinas, ut per hec et alia bona opera, que ipsi, vestri subditi, et vos domino inspirante feceritis, eterne retributionis premium
+<lb n="15"/>mereamini feliciter adipisci. Nos enim de omnipotentis dei misericordia ac beatorum <persName ref="lub-actors-2348">Petri</persName> et <persName ref="lub-actors-2349">Pauli</persName> apostolorum eius auctoritate confisi omnibus 
+<lb n="16"/>vere penitentibus, confessis et contritis, qui suas pias elimosinas ad dictam ecclesiam elargiri fuerint seu alias manus porrexerint adiutrices, 
+<lb n="17"/>quadraginta dies indulgentiarum criminalium et centum venialium peccatorum de iniunctis eis penitentiis misericorditer 
+          <lb n="18"/>in domino relaxamus presentibus a data presentium ad unius anni spatium postea minime valituris. Datum <placeName ref="lub-places-102">Curie</placeName> <origDate when="1513-12-07">anno domini mil
+<lb break="no" n="19"/>lesimoquingentesimo tertiodecimo mensis decembris die septima indicione prima</origDate> sub nostri vicariatus sigillo presentibus in fidem premissorum appenso.
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2464" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

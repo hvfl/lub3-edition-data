@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-747">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Einsetzung von Franz Dietrich in die Pfarrei St. Martin in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-747">LI-LA, PfäA 26/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 30. Juni 1586 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt / Unterschrift des Notars Zacharias Colan</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Churer Bischof Peter de Raschèr teilt dem Dekan und dem Kämmerer des Drusianischen Kapitels mit, dass er Franz Dietrich als Nachfolger des verstorbenen Philipp Wachter als neuen Pfarrer an der Pfarrkirche St. Martin in Eschen eingesetzt hat. Das Präsentationsrecht sei, da es vom Kloster Pfäfers vernachlässigt worden sei, an ihn gefallen. Er beauftragt den Dekan und den Kämmerer, Wachter die Kirche mit allen Rechten und Einkünften zu übergeben und ihn ins Kapitel aufzunehmen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-247">Pfarrer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-316">Raschèr, Peter de</persName>
+          <date when="1586-06-30">30. Jun 1586</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_26_04-0001.jpg" xml:id="lub-media-1577" source="pfafa-26-04-s01.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_26_04-0002.jpg" xml:id="lub-media-1578" source="pfafa-26-04-s02.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1577" n="1"/><lb n="1"/>Nos <persName ref="lub-actors-316">Petrus</persName>, dei et apostolicae sedis gratia episcopus <placeName ref="lub-places-175">Curiensis</placeName>, dilectis nobis in Christo decano, camerario et caeteris confratribus <orgName ref="lub-actors-2257">Capituli Vallis  
+<lb n="2"/>Drusianae</orgName> ad praesentium executionem requisitis salutem. <placeName ref="lub-places-359">Parochialem ecclesiam sancti Martini</placeName> in <placeName ref="lub-places-35">Eschen</placeName>, nostrae diocesis, per obitum 
+<lb n="3"/>domini <persName ref="lub-actors-666">Philippi</persName>, novissimi possessoris, nobis vacantem, ad quam <orgName ref="lub-actors-309">conventualibus et monasterio in Pheffers</orgName> alias ius praesentandi fuisse 
+<lb n="4"/>asseritur, nunc vero illud extinctum apud nos devolutum ob contemptum clavium et iuris non praesentandi pro parte dicti monasterii 
+<lb n="5"/>et conventualium, dilecto nobis in Christo <persName ref="lub-actors-667">Francisco Dieterich</persName> eandem <placeName ref="lub-places-359">parochiam sancti Martini</placeName> in <placeName ref="lub-places-35">Eshen</placeName> cum omnibus suis iuribus et 
+<lb n="6"/>actionibus annexis et connexis, servatis per te de iure servandis, authoritate nostra ordinaria conferimus de illaque te rivestimus curam  
+<lb n="7"/>animarum regimenque populi ac administrationem ipsius ecclesiae in animam tuam conmittentes. Quocirca vobis et cuilibet vestrum 
+<lb n="8"/>mandamus in virtute sanctae obedientiae, quatenus praefatum dominum <persName ref="lub-actors-667">Franciscum</persName>, praestito tamen prius per eum iuramento de obediendo nobis 
+<lb n="9"/>et successoribus nostris canonice intrantibus, de non alienando bona ipsius ecclesiae, sed potius perdita pro posse recuperando, et ad supra 
+<lb n="10"/>dictam ecclesiam iuriumque eius et pertinentiarum corporalem et actualem possessionem inducentes, ut sibi, quorum interest, de ipsius ecclesiae 
+<lb n="11"/>fructibus, redditibus et proventibus universis integre respondere deberi, sine aliqua contradictione recipiatis ipsumque populo populumque sibi 
+<lb n="12"/>commendetis, tum etiam eundum in confratrem vestri capituli recipientes, adhibitis in huiusmodi solennitatibus debitis et 
+          <lb n="13"/>consuetis. In quorum testimonium praesentes sigilli nostri secreti appensione munitas fieri iussimus. Datum <placeName ref="lub-places-102">Curiae</placeName> <origDate when="1586-06-30">die trigesima 
+<lb n="14"/>mensis iunii anno domini millesimo quingentesimo octuagesimo sexto</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-1578" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

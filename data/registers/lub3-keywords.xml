@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-05-01 12:02:14 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-06-17 13:34:54 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-05-01T12:02:14+02:00">teiHeader was automatically produced from the database 2025-05-01T12:02:14+02:00</change>
+      <change when="2025-06-17T13:34:54+02:00">teiHeader was automatically produced from the database 2025-06-17T13:34:54+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1114,6 +1114,12 @@
           <label xml:lang="de" type="sort">kauf</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-343">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Ablass</label>
+          <label xml:lang="de" type="sort">ablass</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-346">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">hubmeister</label>
@@ -1414,7 +1420,7 @@
         </item>
         <item xml:id="lub-keywords-375">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">etschkreuzer</label>
+          <label xml:lang="de" type="main">Etschkreuzer</label>
           <label xml:lang="de" type="sort">etschkreuzer</label>
           <note type="description" xml:lang="de">
             <p>Tiroler Groschenmünze mit aufgeprägtem Doppelkreuz, benannt nach dem Fluss Etsch.</p>
@@ -1686,6 +1692,12 @@
           <note type="description" xml:lang="de">
             <p>Getreide</p>
           </note>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-395">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Kirchenbau</label>
+          <label xml:lang="de" type="sort">kirchenbau</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-397">
@@ -2244,6 +2256,20 @@
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id1.htm#!page/10071/mode/1up">Idiotikon</ref>
               </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-447">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Luder</label>
+          <label xml:lang="de" type="sort">luder</label>
+          <note type="description" xml:lang="de">
+            <p>Stark riechende Lockspeise.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>Krünitz, Bd. 81, S. 248.</bibl>
             </listBibl>
           </note>
         </item>

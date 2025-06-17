@@ -1,0 +1,689 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-926">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zinsenbüchlein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Möglicherweise wurde dieses Verzeichnis in der Art eines Urbariums über einen längeren Zeitraum geführt und ergänzt. Daher könnten einige Einträge auch aus der Mitte des 16. Jahrhunderts stammen.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-926">LI-LA, RA 12/3/1/09</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1590-1604 / Beschreibstoff: Papier, 28 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Verzeichnis derjenigen Personen und ihrer als Unterpfand dienenden Besitzungen sowie die Höhe der geleisteten Abgaben für die Frühmesse in Schaan. Diese Abgaben erfolgten in Form von Geld, Naturalien wie Wein, Korn, Schmalz und heiligen Messen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-397">eiserne Kuh</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1590" to="1604">ca. 1590 – ca. 1604</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_12_3_1_09-10-0001.jpg" xml:id="lub-media-2075" source="ra-12-3-1-09-s01.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0002.jpg" xml:id="lub-media-2076" source="ra-12-3-1-09-s02.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0003.jpg" xml:id="lub-media-2077" source="ra-12-3-1-09-s03.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0004.jpg" xml:id="lub-media-2078" source="ra-12-3-1-09-s04.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0005.jpg" xml:id="lub-media-2079" source="ra-12-3-1-09-s05.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0006.jpg" xml:id="lub-media-2080" source="ra-12-3-1-09-s06.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0007.jpg" xml:id="lub-media-2081" source="ra-12-3-1-09-s07.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0008.jpg" xml:id="lub-media-2082" source="ra-12-3-1-09-s08.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0009.jpg" xml:id="lub-media-2083" source="ra-12-3-1-09-s09.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0010.jpg" xml:id="lub-media-2084" source="ra-12-3-1-09-s10.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0011.jpg" xml:id="lub-media-2085" source="ra-12-3-1-09-s11.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0012.jpg" xml:id="lub-media-2086" source="ra-12-3-1-09-s12.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0013.jpg" xml:id="lub-media-2087" source="ra-12-3-1-09-s13.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0014.jpg" xml:id="lub-media-2088" source="ra-12-3-1-09-s14.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0015.jpg" xml:id="lub-media-2089" source="ra-12-3-1-09-s15.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0016.jpg" xml:id="lub-media-2090" source="ra-12-3-1-09-s16.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0017.jpg" xml:id="lub-media-2091" source="ra-12-3-1-09-s17.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0018.jpg" xml:id="lub-media-2092" source="ra-12-3-1-09-s18.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0019.jpg" xml:id="lub-media-2093" source="ra-12-3-1-09-s19.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0020.jpg" xml:id="lub-media-2094" source="ra-12-3-1-09-s20.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0021.jpg" xml:id="lub-media-2095" source="ra-12-3-1-09-s21.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0022.jpg" xml:id="lub-media-2096" source="ra-12-3-1-09-s22.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0023.jpg" xml:id="lub-media-2097" source="ra-12-3-1-09-s23.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0024.jpg" xml:id="lub-media-2098" source="ra-12-3-1-09-s24.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0025.jpg" xml:id="lub-media-2099" source="ra-12-3-1-09-s25.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0026.jpg" xml:id="lub-media-2100" source="ra-12-3-1-09-s26.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0027.jpg" xml:id="lub-media-2101" source="ra-12-3-1-09-s27.jpg" corresp="A1"/>
+    <graphic url="li-la__ra_12_3_1_09-10-0028.jpg" xml:id="lub-media-2102" source="ra-12-3-1-09-s28.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2075" n="1"/><lb n="1"/>Wein <supplied>zünß</supplied><lb n="2"/><persName ref="lub-actors-2272">Jacob Wittw<supplied>er</supplied></persName><gap/><lb n="3"/>thainer von <placeName ref="lub-places-53">Sch<supplied>an</supplied></placeName><lb n="4"/>weingarten zu <gap/><lb n="5"/>gelegen, stos<supplied>t</supplied><gap/><lb n="6"/>gemein, be<gap/><lb n="7"/>Wein <gap/></p>
+        <p><pb facs="lub-media-2076" n="2"/><lb n="8"/>Wein zünß  
+<lb n="9"/><persName ref="lub-actors-2273">Lucas Conradt</persName> zue <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="10"/>zünßet ab einem stückhlein  
+<lb n="11"/>weingarten zue <placeName ref="lub-places-1">Vaduz</placeName> im  
+<lb n="12"/><placeName ref="lub-places-217">Maroren</placeName>, ledig. 
+<lb n="13"/>Wein 4 1/2 maß  
+<lb n="14"/><persName ref="lub-actors-2274">Hanß Ulrich Willi</persName> soll zinsen und  
+<lb n="15"/>hat die pfandt. 
+</p>
+        <p><lb n="16"/><persName ref="lub-actors-1392">Hannß Grüschlin</persName> zu <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="17"/>zünsst ab einem stückhlin wein
+<lb break="no" n="18"/>garten zue <placeName ref="lub-places-1">Vaduz</placeName>, in <placeName ref="lub-places-217">Marren</placeName>, ledig 
+<lb n="19"/>ausser noch einen schilling pfenning  
+<lb n="20"/>der früemess zinß 
+</p>
+        <p><lb n="21"/><persName ref="lub-actors-2275">Thöny Walßer</persName> zu <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="22"/>zünßet ab einem weingarten  
+<lb n="23"/>zue <placeName ref="lub-places-1">Vaduz</placeName>, in <placeName ref="lub-places-217">Marren</placeName> genandt. 
+<lb n="24"/>Wein 1 1/2 viertl 
+<lb n="25"/>NB. Soll hierumben underpfandt sezen. 
+</p>
+        <p><pb facs="lub-media-2077" n="3"/><lb n="26"/>Wein zünß  
+<lb n="27"/><persName ref="lub-actors-2276">Maria Schierßerin</persName>, <persName ref="lub-actors-2277">Anndreas  
+<lb n="28"/>Frumoldts</persName> hinderlassene wittfraw  
+<lb n="29"/>zünßet jährlich ab ihrem weingarten  
+<lb n="30"/>ab <placeName ref="lub-places-217">Marrenn</placeName> der caploney zue  
+<lb n="31"/><placeName ref="lub-places-53">Schann</placeName>. 
+<lb n="32"/>Wein 1 viertl 1 maß 
+<lb n="33"/>NB. Diße post steht noch nit in original  
+<lb n="34"/>eingeschriben, sollen hierumb die  
+<lb n="35"/>anstöss angeben werden. 
+</p>
+        <p><lb n="36"/><gap/> zue <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="37"/><gap/>ßet jährlich ab einem wein
+<lb break="no" n="38"/>garten am <placeName ref="lub-places-217">Marrenn</placeName> zu <placeName ref="lub-places-1">Vaduz</placeName> 
+<lb n="39"/>gelegen.  
+<lb n="40"/>Wein 1 viertl 1 maß 
+<lb n="41"/>NB. Soll unnderpfandt sezen. 
+<lb n="42"/>NB. Diße post steht in dem original  
+<lb n="43"/>noch nit eingeschriben. 
+</p>
+        <p><pb facs="lub-media-2078" n="4"/><lb n="44"/>Korn zünß 
+<lb n="45"/><persName ref="lub-actors-1609">Hannß Hültins</persName> seeligen erben von  
+<lb n="46"/><placeName ref="lub-places-53">Schann</placeName> zugleich <persName ref="lub-actors-433">Jerg Conradt</persName> zünßen  
+<lb n="47"/>der fryemeß pfruendt unnßer  
+<lb n="48"/>frawen altar ab ihren weingarten  
+<lb n="49"/>in <placeName ref="lub-places-201">Quadern</placeName>, stosst an der gnädigen  
+<lb n="50"/>herrschafft gueth, abwerth an der  
+<lb n="51"/>haimbgassen, ledig unndt besiglet  
+<lb n="52"/>anno 1548. 
+<lb n="53"/>Waizen 2 viertl 
+</p>
+        <p><lb n="54"/><persName ref="lub-actors-2097">Geörg Frumoldts</persName> erben von  
+<lb n="55"/><placeName ref="lub-places-53">Schann</placeName> zünßen ab einem ackher  
+<lb n="56"/>auf <placeName ref="lub-places-582">Drox</placeName> im <placeName ref="lub-places-218">unndern Boffel</placeName>  
+<lb n="57"/>ledig. 
+<lb n="58"/>Waizen 1 viertl 
+<lb n="59"/>Zinset jezo <persName ref="lub-actors-2278">Hanß Drexel</persName>. 
+</p>
+        <p><pb facs="lub-media-2079" n="5"/><lb n="60"/>Korn zünß 
+<lb n="61"/><persName ref="lub-actors-2279">Hannß Wagner</persName> von <placeName ref="lub-places-328">Gamprin</placeName>  
+<lb n="62"/>alß lehentrager unndt consorten  
+<lb n="63"/>im <placeName ref="lub-places-35">Eschner</placeName> kürchspüel zünßet unnser  
+<lb n="64"/>frawen altar ab einem ackher <placeName ref="lub-places-668">bey  
+<lb n="65"/>dem Creiz</placeName> gelegen, stosst an <persName ref="lub-actors-1122">Hannß  
+<lb n="66"/>Haßlers</persName> ackher. Item ab ihren  
+<lb n="67"/>thailß weingarten in des <placeName ref="lub-places-459">Rinckhen  
+<lb n="68"/>weingart</placeName>, stosst an die <placeName ref="lub-places-669">Halden</placeName>,  
+<lb n="69"/>ledig. 
+<lb n="70"/>Waizen 2 schöffel 
+</p>
+        <p><pb facs="lub-media-2080" n="6"/><lb n="71"/>Schmalz zünß 
+<lb n="72"/><persName ref="lub-actors-2280">Anthoni Maurer</persName> zu <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="73"/>ausser unndt ab einer pünt im  
+<lb n="74"/><placeName ref="lub-places-551">Bartlagross</placeName> in <placeName ref="lub-places-53">Schanner</placeName> killspell,  
+<lb n="75"/>stosst gegen dem <placeName ref="lub-places-103">Rhein</placeName> an die  
+<lb n="76"/>haimbgass, ledig von 10 lb. das  
+<lb n="77"/>haubtgueth, schmalz. 
+<lb n="78"/>Schmalz 1 viertl. 
+</p>
+        <p><lb n="79"/><persName ref="lub-actors-1456">Thoma Negelin</persName> von <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="80"/>zünßet ab einem ackher im  
+<lb n="81"/><placeName ref="lub-places-670">Newen Boffel</placeName>, auch die <placeName ref="lub-places-556">Fuxerin</placeName>  
+<lb n="82"/>genandt, stosst auswerth ahn  
+<lb n="83"/><persName ref="lub-actors-1369">Alexander Frickhen</persName>, abwerth ahn  
+<lb n="84"/><persName ref="lub-actors-2281">Hanß Thanners</persName> seeligen erben, <placeName ref="lub-places-103">Rhein</placeName>  
+<lb n="85"/>halb an <persName ref="lub-actors-2282">Hannß Verlingen</persName>, berg  
+<lb n="86"/>werths an <persName ref="lub-actors-2283">Michael Frickhen</persName>, ledig  
+<lb n="87"/>wegen einer eyßen khue. 
+<lb n="88"/>Schmalz 9 lb. 
+<lb n="89"/>Schilling 3 
+<lb n="90"/>Zinsen jez seine erben und soll ain  
+<lb n="91"/>zinßman benandt werden. 
+</p>
+        <p><pb facs="lub-media-2081" n="7"/><lb n="92"/>Schmalz zünß 
+<lb n="93"/>Meister <persName ref="lub-actors-2284">Hannß Wachter</persName> vor <persName ref="lub-actors-2285">Galli  
+<lb n="94"/>Rigen</persName> seelig erben zünßen ab einem  
+<lb n="95"/>weingarten zue <placeName ref="lub-places-1">Vaduz</placeName> beim  
+<lb n="96"/><placeName ref="lub-places-103">Rhein</placeName>, stosst ans <placeName ref="lub-places-573">Rheingesslin</placeName>,  
+<lb n="97"/>ledig, von 10 lb. d. haubtgueth. 
+<lb n="98"/>Schmalz 1 viertl. 
+<lb n="99"/>Soll <persName ref="lub-actors-2284">Hanß Wachter</persName> pfand sezen. 
+</p>
+        <p><lb n="100"/><persName ref="lub-actors-2286">Fridle Bürckhlen</persName> zue <placeName ref="lub-places-53">Schänn</placeName>  
+<lb n="101"/>zinßet wegen <persName ref="lub-actors-1146">Peter Hültin</persName> zue  
+<lb n="102"/><placeName ref="lub-places-1">Vaduz</placeName> von einem dridten thail  
+<lb n="103"/>an einer <term ref="lub-keywords-397">eyßenen khue</term>, ab einer  
+<lb n="104"/>püntin in <placeName ref="lub-places-557">Gagalzel</placeName>, stosst  
+<lb n="105"/>gegen berg an die <placeName ref="lub-places-345">Landtstrass</placeName>,  
+<lb n="106"/>ledig. 
+<lb n="107"/>Schmalz 3 lb. 
+<lb n="108"/>Geldt 3 ß. 
+</p>
+        <p><lb n="109"/><persName ref="lub-actors-2287">Ullrich Plenckhen</persName> erben zue  
+<lb n="110"/><placeName ref="lub-places-53">Schann</placeName> zinßen von einem dridtel  
+<lb n="111"/>einer <term ref="lub-keywords-397">eyßenen khue</term> ab einer pündt  
+<lb n="112"/>in <placeName ref="lub-places-557">Gagallzel</placeName>, gegen berg an der  
+<lb n="113"/><placeName ref="lub-places-345">Landtstraß</placeName>, auffwerths an <placeName ref="lub-places-570">Hannß  
+<lb n="114"/>Messmers gueth</placeName> unndt der herren  
+<lb n="115"/>von <orgName ref="lub-actors-195">St. Johann</orgName> zue <placeName ref="lub-places-10">Veldtkhürch</placeName>,  
+<lb n="116"/>ledig. 
+<lb n="117"/>Schmalz 3 lb. 
+<lb n="118"/>Geldt 3 ß. 
+</p>
+        <p><pb facs="lub-media-2082" n="8"/><lb n="119"/>Schmalz zünß  
+<lb n="120"/><persName ref="lub-actors-2288">Martin Frumoldt</persName> von <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="121"/>zünßet von einem dridtel einer  
+<lb n="122"/><term ref="lub-keywords-397">eyßenen khue</term>, ab einer pündt in  
+<lb n="123"/><placeName ref="lub-places-557">Gagalzel</placeName>, gegen den berg ab  
+<lb n="124"/>der straß, abwerts an <placeName ref="lub-places-671">Spizpünt</placeName> 
+<lb n="125"/>ledig. 
+<lb n="126"/>Schmalz 3 lb. 
+<lb n="127"/>Geldt 3 ß. 
+</p>
+        <p><lb n="128"/><persName ref="lub-actors-2289">Christa Bekchen</persName> erben ab  
+<lb n="129"/><placeName ref="lub-places-124">Plankhen</placeName> zünßen von einer <term ref="lub-keywords-397">eysenen  
+<lb n="130"/>khue</term> ab einem stuckh gueth auff  
+<lb n="131"/><placeName ref="lub-places-124">Plankhen</placeName>, gegen dem <placeName ref="lub-places-103">Rhein</placeName> an die  
+<lb n="132"/><placeName ref="lub-places-672">Allgemain</placeName>, ledig. 
+<lb n="133"/>Schmalz 9 lb. 
+<lb n="134"/>NB. Ist hauß unndt hoffstatt auch  
+<lb n="135"/>darumben verschriben. 
+<lb n="136"/>Mehr soll er jährlich wegen newer  
+<lb n="137"/>stüfftung, so von <persName ref="lub-actors-2290">Claß Negelins</persName>  
+<lb n="138"/>muetter herkhommet 9 bz. 
+<lb n="139"/>Hauß <supplied>und</supplied> hoffstatt ist wegen  
+<lb n="140"/>dißer <supplied>9 lb. schmalz</supplied> zur pfandt. 
+<lb n="141"/>Die newe stifftung ist jerlich ain heilligen  
+<lb n="142"/>mess nach dem dritten suntag in der Fasten.  
+</p>
+        <p><pb facs="lub-media-2083" n="9"/><lb n="143"/>Schmalz zünß  
+<lb n="144"/><persName ref="lub-actors-2291">Christian Hilti der Seeger </persName> 
+<lb n="145"/>zünßet wegen einer <term ref="lub-keywords-397">eyßenen  
+<lb n="146"/>khue</term>. 
+<lb n="147"/>Schmalz 9 lb. 
+<lb n="148"/>NB. Soll darumben pfandt sezen  
+<lb n="149"/>der <persName ref="lub-actors-1221">Ulrich Negele</persName> auf <placeName ref="lub-places-124">Plankhen</placeName>  
+<lb n="150"/>hat die pfand, soll darumb  
+<lb n="151"/>ersuecht werden und gleichwohl  
+<lb n="152"/>den <persName ref="lub-actors-2291">Seeger</persName> suechen, der pfand  
+<lb n="153"/>anstöss seind im alten urbar. 
+</p>
+        <p><lb n="154"/><gap/> zue <placeName ref="lub-places-1">Vaduz</placeName> zünßet wegen  
+<lb n="155"/>einer <term ref="lub-keywords-397">eyßenen khue</term> ab einem wein
+<lb break="no" n="156"/>garten zu <placeName ref="lub-places-1">Vaduz</placeName> im <placeName ref="lub-places-348">Ratitsch</placeName>, 
+<lb n="157"/>ledig. 
+<lb n="158"/>Schmalz 9 lb. 
+</p>
+        <p><pb facs="lub-media-2084" n="10"/><lb n="159"/>Schmalz zünß 
+<lb n="160"/><persName ref="lub-actors-2292">Caspar Schreiber</persName> gerber  
+<lb n="161"/>unndt zoller zue <placeName ref="lub-places-1">Vaduz</placeName>.  
+<lb n="162"/>Vor ihme amman <persName ref="lub-actors-2293">Adam  
+<lb n="163"/>Kranz</persName>, zinsst ab einem  
+<lb n="164"/>stuckh gueth in <placeName ref="lub-places-551">Pratlogrosch</placeName> jährlich. 
+<lb n="165"/>Schmalz 1 viertl. 
+</p>
+        <p><lb n="166"/><persName ref="lub-actors-232">Jerg Bürckhlin</persName> zu <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="167"/>zünßet jährlich 9 lb. schmalz. 
+<lb n="168"/>Id est 9 lb. 
+<lb n="169"/>NB. Soll wegen deß underpfandts  
+<lb n="170"/>die anstöss angeben, seindt alß  
+<lb n="171"/>die anstöss, wie hernach volgt. 
+</p>
+        <p><lb n="172"/>Ein stuckh guet in der <placeName ref="lub-places-673">Rösch</placeName> gelegen,  
+<lb n="173"/>stosst zue drey seiten an der herr
+<lb break="no" n="174"/>schafft gueth, abwerths dem landt 
+<lb n="175"/>nach an <persName ref="lub-actors-2294">Caspar Kauffman</persName>. 
+</p>
+        <p><pb facs="lub-media-2085" n="11"/><lb n="176"/>Pfenning zünß 
+<lb n="177"/><persName ref="lub-actors-2295">Hannß Gueth</persName> an der <placeName ref="lub-places-458">Hueb</placeName>  
+<lb n="178"/>zünßet ab seinem staadel, hoff  
+<lb n="179"/>unndt hoffstatt, stosst an die  
+<lb n="180"/><placeName ref="lub-places-345">Landtstrass</placeName>. Mehr ab seinem  
+<lb n="181"/>garten, stosst auswerth an dem  
+<lb n="182"/><placeName ref="lub-places-674">Brachler</placeName> stockh, außwerts anß  
+<lb n="183"/><placeName ref="lub-places-675">Gessele</placeName>. Mehr ab seinem dridtel  
+<lb n="184"/>im hauß unndt hoffstatt, stosst  
+<lb n="185"/>an weingarth unndt an die Gass,  
+<lb n="186"/>zur dridten seiten an dem hoff, ledig,  
+<lb n="187"/>ausser 9 d. kürchen geldt, besiglet  
+<lb n="188"/>de anno 1480.  
+<lb n="189"/>18 ß. 
+</p>
+        <p><pb facs="lub-media-2086" n="12"/><lb n="190"/>Pfenning zünß 
+<lb n="191"/>Ab <placeName ref="lub-places-124">Planckhen</placeName>  
+<lb n="192"/><persName ref="lub-actors-2296">Hannß Jelin</persName> zinßet ausser unndt  
+<lb n="193"/>ab seinem stuckh gueth auf <placeName ref="lub-places-571">Obern  
+<lb n="194"/>Planckhen</placeName>, genandt der <placeName ref="lub-places-546">Bonackher</placeName>,  
+<lb n="195"/>stosst gegen dem <placeName ref="lub-places-103">Rhein</placeName> an die  
+<lb n="196"/><placeName ref="lub-places-672">Allgemein</placeName> unndt ab berghalb  
+<lb n="197"/>auch, ledig, besiglet anno 1585. 
+<lb n="198"/>Zinß 2 lb. d.  
+<lb n="199"/>Zinset jezo <persName ref="lub-actors-1209">Michael Yhlin</persName> sein  
+<lb n="200"/>sohn. 
+</p>
+        <p><lb n="201"/><persName ref="lub-actors-2297">Hannß Marxer</persName> zünßet ab einem  
+<lb n="202"/>stuckh gueth auff <placeName ref="lub-places-124">Plankhen</placeName> im <placeName ref="lub-places-676">Obern  
+<lb n="203"/>loch</placeName>, ledig unndt ablößig  
+<lb n="204"/>1 lb. d. 
+<lb n="205"/>NB. Obiges verschribene underpfandt  
+<lb n="206"/>stosst zu allen seiten an <persName ref="lub-actors-2298">Hannß Negele</persName>. 
+<lb n="207"/>Zinsen deß <persName ref="lub-actors-2297">Hanß Marxers</persName> erben. 
+</p>
+        <p><pb facs="lub-media-2087" n="13"/><lb n="208"/>Pfenning zünß 
+<lb n="209"/><persName ref="lub-actors-2299">Klauß Frumolts</persName> seelig sohn <persName ref="lub-actors-2300">Martin</persName>  
+<lb n="210"/>ab <placeName ref="lub-places-124">Planckhen</placeName>, zünßet ab einem stuckh  
+<lb n="211"/>gueth in der <placeName ref="lub-places-677">Riethe</placeName> gelegen, stosst  
+<lb n="212"/>auswerth dem landt nach an <persName ref="lub-actors-2301">Crista  
+<lb n="213"/>Lamparth</persName>, abwarth unndt gegen dem  
+<lb n="214"/><placeName ref="lub-places-103">Rhein</placeName> an die <placeName ref="lub-places-672">Allgemein</placeName>, berg  
+<lb n="215"/>halb an <persName ref="lub-actors-2298">Hannß Negele</persName>, ledig  
+<lb n="216"/>unndt loß. 
+<lb n="217"/>Zinß 1 f. 45 kr. 
+<lb n="218"/>Mehr zünßet <persName ref="lub-actors-2299">Clauß Frumolts</persName>  
+<lb n="219"/>sohn unndt <persName ref="lub-actors-2297">Hannß Marxer</persName> jährlich  
+<lb n="220"/>ab ihrem paumbgarten, so <persName ref="lub-actors-1427">Bäschi  
+<lb n="221"/>Kranzen</persName> seelig gewesst, miteinandern  
+<lb n="222"/>jahrlich 4 ß. 
+</p>
+        <p><pb facs="lub-media-2088" n="14"/><lb n="223"/>Pfenning zünß  
+<lb n="224"/><persName ref="lub-actors-1220">Thoma Jehlin</persName> ab <placeName ref="lub-places-124">Planckhen</placeName>,  
+<lb n="225"/>zünßet ab seinem paumbgarten <placeName ref="lub-places-678">ob  
+<lb n="226"/>der <placeName ref="lub-places-678">Gass</placeName></placeName> gelegen, stosst abwerth  
+<lb n="227"/>dem landt nach an <persName ref="lub-actors-2302">Jerg Eberlin</persName>  
+<lb n="228"/>unndt auffwerth auch, rheinhalb  
+<lb n="229"/>an seinen aigen gueth unndt <persName ref="lub-actors-2298">Hannß  
+<lb n="230"/>Nägelin</persName>, ledig. 
+<lb n="231"/>Zinß 10 ß. 
+</p>
+        <p><pb facs="lub-media-2089" n="15"/><lb n="232"/><placeName ref="lub-places-53">Schann</placeName>  
+<lb n="233"/><persName ref="lub-actors-2303">Jerg Walßer </persName>undt <persName ref="lub-actors-2304">Christa Eberlin</persName>  
+<lb n="234"/>zünßen ab einem stuckh gueth zue <placeName ref="lub-places-53">Schann</placeName>,  
+<lb n="235"/>die <placeName ref="lub-places-230">Haußerin</placeName> genandt, im <placeName ref="lub-places-218">unndern Bofel</placeName>,  
+<lb n="236"/>stosst gegen dem <placeName ref="lub-places-103">Rhein</placeName> an <placeName ref="lub-places-679">Feldt zaun</placeName>. 
+<lb n="237"/>Mehr ab einem stückhlin <placeName ref="lub-places-218">unndern Bofel</placeName>,  
+<lb n="238"/>stosst auswerth dem landt nach  
+<lb n="239"/>an <placeName ref="lub-places-349">Egelgraben</placeName>, berghalb an <placeName ref="lub-places-680">St.  
+<lb n="240"/>Floriis pfruendt gueth</placeName>, ledig, be
+<lb break="no" n="241"/>siglet anno 1585.
+<lb n="242"/>Zünßet <persName ref="lub-actors-2303">Jerg Walßer</persName> 1 lb. d. 
+<lb n="243"/><persName ref="lub-actors-2304">Christa Eberlin</persName> 1 ß. 
+</p>
+        <p><lb n="244"/><persName ref="lub-actors-2305">Johannes Thanner</persName>, <persName ref="lub-actors-2306">Thoma Kranz</persName>  
+<lb n="245"/>die 2 thaill unndt <persName ref="lub-actors-2307">Hannß Speng
+<lb break="no" n="246"/>lers</persName> seelig erben, auch <persName ref="lub-actors-2308">Adam Jäger</persName> 
+<lb n="247"/>den 3. thaill, zinßen ab einem  
+<lb n="248"/>ackher in <placeName ref="lub-places-219">Gabetsch</placeName>, stosst auff
+<lb break="no" n="249"/>werth an die <placeName ref="lub-places-681">Aw</placeName>, ledig, be
+<lb break="no" n="250"/>siglet anno 1588.
+<lb n="251"/>1 lb. d. 
+</p>
+        <p><lb n="252"/><persName ref="lub-actors-2309">Stoffel Weinzierls</persName> erben zue <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="253"/>zünßen ab einem stuckh gueth in <placeName ref="lub-places-686">Dauas</placeName>  
+<lb n="254"/>gelegen, jährlichs  
+<lb n="255"/>zinß 4 ß. 
+<lb n="256"/>Gibt jezo <persName ref="lub-actors-2310">Adam Walßer</persName>, alß der  
+<lb n="257"/>erben vogt. 
+<lb n="258"/>Sollen anstöss angeben werden. 
+</p>
+        <p><pb facs="lub-media-2090" n="16"/><lb n="259"/><persName ref="lub-actors-1370">Theuß Frickh</persName> zue <placeName ref="lub-places-53">Schann</placeName> zünßet  
+<lb n="260"/>ab seinem hauß unndt hoffstatt  
+<lb n="261"/>in der <placeName ref="lub-places-232">Speckhe</placeName> gelegen, stosst ab
+<lb break="no" n="262"/>werth dem landt nach an der fruemess 
+<lb n="263"/>gueth, auswerth an die haimb
+<lb break="no" n="264"/>gass, berghalb ahn alles pfarrers 
+<lb n="265"/>staadel unndt hoffstatt, ledig  
+<lb n="266"/>unndt loß, besigelt anno 1589. 
+<lb n="267"/>Zinß 5 ß. 
+</p>
+        <p><lb n="268"/><persName ref="lub-actors-711">Andreas Straub</persName>, <persName ref="lub-actors-2311">Leonhardt  
+<lb n="269"/>Plenkhin</persName> unndt <persName ref="lub-actors-2312">Simmon Blänckhin</persName> zünßen  
+<lb n="270"/>ob einem weingarten zue <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="271"/>in <placeName ref="lub-places-233">Ladura</placeName> gelegen. 
+<lb n="272"/>Zünß 30 kr. 
+<lb n="273"/>Zinsen <persName ref="lub-actors-2103">Bernhardt</persName> und <persName ref="lub-actors-2312">Simon Plengis</persName>  
+<lb n="274"/>wittiben. 
+</p>
+        <p><lb n="275"/>NB. <persName ref="lub-actors-2097">Jerg Frumoldt</persName> zu <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="276"/>zünnsst ob seinem ackher in <placeName ref="lub-places-575">Rözt
+<lb break="no" n="277"/>graben</placeName> gelegen.
+<lb n="278"/>Zinß 1 f. 15 kr. 
+<lb n="279"/>Zinset jezo <persName ref="lub-actors-2278">Hanß Drexel</persName>. 
+</p>
+        <p><lb n="280"/><persName ref="lub-actors-1452">Jerg Nägelin</persName>, <persName ref="lub-actors-1456">Thoman</persName> sohn,  
+<lb n="281"/>zünnsst ab seinem hauß unndt  
+<lb n="282"/>hoff zue <placeName ref="lub-places-53">Schann</placeName>, stosst abwerth  
+<lb n="283"/>dem landtweeg nach an die haim
+<lb break="no" n="284"/>gass, berghalb ahn die <placeName ref="lub-places-345">Landt
+<lb break="no" n="285"/>strass</placeName>, ledig, anno 1590.
+<lb n="286"/>Zünß 1 lb. d.  
+</p>
+        <p><pb facs="lub-media-2091" n="17"/><lb n="287"/><persName ref="lub-actors-2313">Hannß Steeders</persName> erben zünßen  
+<lb n="288"/>ab einem mahlakher im <placeName ref="lub-places-218">undern  
+<lb n="289"/>Boffel</placeName> im <placeName ref="lub-places-582">Tröxle</placeName> gelegen, ledig  
+<lb n="290"/>unndt ablößig. 
+<lb n="291"/>Zinß 9 bz. 6 d. 
+</p>
+        <p><lb n="292"/><persName ref="lub-actors-2314">Hannß Jehlin</persName> zue <placeName ref="lub-places-53">Schänn</placeName> zinßet  
+<lb n="293"/>ab einer hoffraithin zue <placeName ref="lub-places-53">Schann</placeName>. 
+<lb n="294"/>Stosst auffwerth dem landt nach  
+<lb n="295"/>an die haimbstrass, rheinhalb an  
+<lb n="296"/>der gnädigen herrschafft gueth, ledig  
+<lb n="297"/>ausser 14 ß., der spänn zue  
+<lb n="298"/><placeName ref="lub-places-53">Schann</placeName> gehörig. Zinß 16 ß. 
+</p>
+        <p><lb n="299"/><persName ref="lub-actors-1410">Stoffel Frumolth</persName> zue <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="300"/>zünßet ab einem stuckh gueth  
+<lb n="301"/>im <placeName ref="lub-places-574">Roßfeldt</placeName> gelegen, ledig. 
+<lb n="302"/>Zinß 4 ß. 
+<lb n="303"/>Zinset sein sohn <persName ref="lub-actors-2091">Hanß</persName>. 
+</p>
+        <p><lb n="304"/><persName ref="lub-actors-2291">Christian Hilti der Seeger</persName>  
+<lb n="305"/>zünßet ab einem stuckh gueth in  
+<lb n="306"/>der <placeName ref="lub-places-579">Sax</placeName> gelegen, stosst berghalb an  
+<lb n="307"/>die <placeName ref="lub-places-345">Landtstrass</placeName> gegen dem <placeName ref="lub-places-103">Rhein</placeName>  
+<lb n="308"/>an der herrschafft gueth, ledig  
+<lb n="309"/>9 ß. 
+<lb n="310"/>Mehr zünßet er ab einem stuckh  
+<lb n="311"/>gueth, auf der <placeName ref="lub-places-581">Stain Ergarten</placeName> genandt,  
+<lb n="312"/>stosst zu 3 seithen mit <placeName ref="lub-places-682">Allgemein</placeName>,  
+<lb n="313"/>ledig, zinß 15 kr. 
+</p>
+        <p><pb facs="lub-media-2092" n="18"/><lb n="314"/><persName ref="lub-actors-1083">Jacob Öhry</persName>, müller zue <placeName ref="lub-places-36">Bendern</placeName>,  
+<lb n="315"/>zünßet ab einem weingarth  
+<lb n="316"/>zue <placeName ref="lub-places-53">Schann</placeName>, im <placeName ref="lub-places-201">Quader</placeName> gelegen,  
+<lb n="317"/>ledig, zinß 2 1/2 f. 
+<lb n="318"/>Mehr jährlich oder jeder  
+<lb n="319"/>innhaaber der mühlin 
+<lb n="320"/>10 f. 
+</p>
+        <p><lb n="321"/><persName ref="lub-actors-2288">Martin</persName> undt <persName ref="lub-actors-2315">Jerg Frumoldt</persName>,  
+<lb n="322"/>auch <persName ref="lub-actors-2316">Thomas Thanner</persName> zinßen ab  
+<lb n="323"/>einem weingarth, im <placeName ref="lub-places-201">Quader</placeName>  
+<lb n="324"/>gelegen, ledig unndt ablößig. 
+<lb n="325"/>Zünßen die zwey <persName ref="lub-actors-2288">Martin</persName>  
+<lb n="326"/>unndt <persName ref="lub-actors-2315">Jerg Frumoldt</persName> 1 f. 6 kr. 
+<lb n="327"/>Der <persName ref="lub-actors-2316">Thoma</persName> 1 f. 8 kr. 
+</p>
+        <p><lb n="328"/><persName ref="lub-actors-2045">Jacob Hülti </persName>zue <placeName ref="lub-places-53">Schänn</placeName> zünßet  
+<lb n="329"/>ab einem stuckh, uff der <placeName ref="lub-places-581">Stain Egarten</placeName>  
+<lb n="330"/>genandt, in <placeName ref="lub-places-682">Allgemein</placeName>, ledig. 
+<lb n="331"/>Zünß 15 kr. 
+<lb n="332"/>NB. Dieses zinßet <persName ref="lub-actors-1397">Christian Hülti</persName> unndt  
+<lb n="333"/>ist zue seiner post geschriben. 
+</p>
+        <p><lb n="334"/><persName ref="lub-actors-2317">Thoma Mayer</persName> zue <placeName ref="lub-places-53">Schänn</placeName> zünnsst  
+<lb n="335"/>ab einer thail pündt ausser <persName ref="lub-actors-1498">Ullrich  
+<lb n="336"/>Wagners</persName> hauß, stosst auff
+<lb break="no" n="337"/>werth dem landt nach an die haimb
+<lb break="no" n="338"/>gass, ledig, ausser von der ganzen 
+<lb n="339"/>pünd <placeName ref="lub-places-212">St. Lohrenzen</placeName> ein maß schmalz  
+<lb n="340"/>darab. 
+<lb n="341"/>Zinß 3 ß. 
+</p>
+        <p><pb facs="lub-media-2093" n="19"/><lb n="342"/><persName ref="lub-actors-1449">Adam Nägelin</persName> zue <placeName ref="lub-places-53">Schänn</placeName> zinßet  
+<lb n="343"/>ab einem ackher im <placeName ref="lub-places-218">unndern Boffel</placeName>  
+<lb n="344"/>im <placeName ref="lub-places-575">Räzgraben</placeName> gelegen, ledig unndt  
+<lb n="345"/>ableßig ausser <placeName ref="lub-places-212">St. Lohrenzen</placeName>. 
+<lb n="346"/>Zünß 1 f. 30 kr. 
+<lb n="347"/>Zinß 8 ß. 
+</p>
+        <p><lb n="348"/><persName ref="lub-actors-2318">Theyß Böckh</persName> zünßet ab einem  
+<lb n="349"/>paumbgarten in der <placeName ref="lub-places-572">Reberen</placeName> zue  
+<lb n="350"/><placeName ref="lub-places-53">Schän</placeName>, stosst dem landt nach abwerth  
+<lb n="351"/>an der gnädigen herrschafft gueth, ledig  
+<lb n="352"/>unndt ableßig, ausser einem pfarr
+<lb break="no" n="353"/>herrn zue <placeName ref="lub-places-53">Schänn</placeName>, jährlichs zinß 4 kr.
+<lb n="354"/>Zinß 30 kr. 
+</p>
+        <p><lb n="355"/><persName ref="lub-actors-1456">Thoma Nägelin</persName> zue <placeName ref="lub-places-53">Schann</placeName> zünsst  
+<lb n="356"/>ab einem stuckh gueth in <placeName ref="lub-places-219">Gabetsch</placeName>,  
+<lb n="357"/>stosst auffwerth dem landt nach  
+<lb n="358"/>an die <placeName ref="lub-places-682">Allgemein</placeName>, gegen dem <placeName ref="lub-places-103">Rhein</placeName>  
+<lb n="359"/>an <placeName ref="lub-places-564">Khleinen Giessen</placeName>, abwerth an die  
+<lb n="360"/>haimbgass. Ledig unndt ableßig. 
+<lb n="361"/>Zünß 8 ß. 
+<lb n="362"/>Zinset <persName ref="lub-actors-2319">Anthoni Negele</persName> ablösig. 
+</p>
+        <p><lb n="363"/><persName ref="lub-actors-1410">Stoffel Frumoldt</persName>, zünsst ab einem  
+<lb n="364"/>stuckh gueth in <placeName ref="lub-places-547">Badledura</placeName>, stosst  
+<lb n="365"/>berghalb an die <placeName ref="lub-places-548">Bildgassen</placeName>. Ledig. 
+<lb n="366"/>Zinß 4 ß. 
+</p>
+        <p><pb facs="lub-media-2094" n="20"/><lb n="367"/><persName ref="lub-actors-2320">Thoma Frickh</persName>, zünsst wegen einer  
+<lb n="368"/>jahrs stüfftung alß in der wochen  
+<lb n="369"/><date when="0001-06-24">St. Johannes Baptistae</date> ein heylige  
+<lb n="370"/>mess vor seiner voreltern seelen
+<lb break="no" n="371"/>hail zu leßen, unndt da khein frue
+<lb break="no" n="372"/>messer verhanden, soll der zinß 
+<lb n="373"/>dem pfarrherrn ein meß zue leßen  
+<lb n="374"/>geben werden, ab einem ackher unndern  
+<lb n="375"/><placeName ref="lub-places-349">Egelgraben</placeName>, im <placeName ref="lub-places-218">unndern Boffel</placeName>, ledig. 
+<lb n="376"/>Zinß 10 ß. 
+</p>
+        <p><lb n="377"/><persName ref="lub-actors-246">Hainrich Quaderer</persName> zinßet ab einer  
+<lb n="378"/>wißen auff <placeName ref="lub-places-373">Buxeraw</placeName>, stosst auff
+<lb break="no" n="379"/>werth an das <placeName ref="lub-places-428">Schänner Äwlin</placeName>, ab
+<lb break="no" n="380"/>werth an <persName ref="lub-actors-2321">Velix Gaßner</persName>, berghalb 
+<lb n="381"/>an <persName ref="lub-actors-1764">Haug Kranzen</persName>, gegen dem <placeName ref="lub-places-103">Rhein</placeName>  
+<lb n="382"/>an <persName ref="lub-actors-1422">Bartle Conradt</persName>, ledig ausser was  
+<lb n="383"/>zuvor gnädiger herrschafft unndt <placeName ref="lub-places-210">St. Flori</placeName>  
+<lb n="384"/>verschriben. 
+<lb n="385"/>Zünß 7 ß. 
+<lb n="386"/>Item soll ein fruemesser daselbst  
+<lb n="387"/>wegen <persName ref="lub-actors-2322">Hannß Fritschen</persName> zinßen wie  
+<lb n="388"/>obiger, jährlich auch 7 ß. 
+</p>
+        <p><lb n="389"/><persName ref="lub-actors-2323">Andreas Conradt</persName> zünsst ab seinem  
+<lb n="390"/>ackher im <placeName ref="lub-places-670">Newen Boffel</placeName> gelegen, stosst  
+<lb n="391"/>auffwerth auff deß <placeName ref="lub-places-570">Messmers</placeName> unndt  
+<lb n="392"/>amman <persName ref="lub-actors-229">Walßers</persName> gueth, abwerth ahn  
+<lb n="393"/><persName ref="lub-actors-1110">Jacob Föhren</persName>, gegen <placeName ref="lub-places-103">Rhein</placeName> an <persName ref="lub-actors-1123">Vest  
+<lb n="394"/>Haßler</persName>, berghalb an <persName ref="lub-actors-1142">Hannß Khnaben
+<lb break="no" n="395"/>knecht</persName>, ledig unndt ableßig 8 lb. d.
+<lb n="396"/>Zünß 8 ß. 
+</p>
+        <p><pb facs="lub-media-2095" n="21"/><lb n="397"/><persName ref="lub-actors-2294">Caspar Kauffman</persName> zue <placeName ref="lub-places-53">Schann</placeName>  
+<lb n="398"/>zünsst ab einem stuckh gueth in <placeName ref="lub-places-686">Tafas</placeName>,  
+<lb n="399"/>stosst zue drey seiten an die <placeName ref="lub-places-682">Allge
+<lb break="no" n="400"/>mein</placeName>, ledig.
+<lb n="401"/>Zinß 4 ß. 
+</p>
+        <p><lb n="402"/>Mehr zinßet er, <persName ref="lub-actors-2294">Khauffman</persName>, von einem  
+<lb n="403"/>stuckh gueth im <placeName ref="lub-places-362">Boffel</placeName> auff <placeName ref="lub-places-427">Brabaton</placeName>  
+<lb n="404"/>gelegen, stosst berghalb an  
+<lb n="405"/>der <placeName ref="lub-places-683">Caploney gueth</placeName>, jährlich  
+<lb n="406"/>zinß 1 f. 15 kr. 
+</p>
+        <p><lb n="407"/><persName ref="lub-actors-2324">Caspar Tschetter</persName> zue <placeName ref="lub-places-53">Schänn</placeName>  
+<lb n="408"/>zinßet jährlich ab hauß unndt  
+<lb n="409"/>hoffstatt 18 1/2 ß. 
+</p>
+        <p><lb n="410"/><persName ref="lub-actors-214">Jacob Plänckhins</persName> seelig erben,  
+<lb n="411"/>sollen der fruemeß pfruendt zue  
+<lb n="412"/><placeName ref="lub-places-53">Schann</placeName> 32 lb. d. jährlichen zinß  
+<lb n="413"/>darvon 1 lb. 12 ß. d.  
+<lb n="414"/>Sezen zue underpfandt ein ackher  
+<lb n="415"/>im <placeName ref="lub-places-218">unndern Boffel</placeName> gelegen, stosst  
+<lb n="416"/>auffwarth dem landt nach an <persName ref="lub-actors-1444">Vesst  
+<lb n="417"/>Mayer</persName>, abwerth am <placeName ref="lub-places-349">Negelgraben</placeName>,  
+<lb n="418"/>berghalb an <persName ref="lub-actors-2298">Hannß Negele</persName>,  
+<lb n="419"/><placeName ref="lub-places-103">Rhein</placeName> halb an <persName ref="lub-actors-1397">Christa Hilti</persName>, ledig,  
+<lb n="420"/>ausser der gnoß jahrlich 1 lb. d.  
+<lb n="421"/>gebürth. 
+</p>
+        <p><pb facs="lub-media-2096" n="22"/><lb n="422"/><placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="423"/><persName ref="lub-actors-2308">Adam Jäger</persName> zünßet ab einem  
+<lb n="424"/>stuckh gueth in der <placeName ref="lub-places-549">Bradefant</placeName> gelegen,  
+<lb n="425"/>stosst berghalb an die <placeName ref="lub-places-345">Landtstraß</placeName>.  
+<lb n="426"/>Mehr ab seinem hauß unndt hoff  
+<lb n="427"/>an der <placeName ref="lub-places-669">Halden</placeName> gelegen, ledig. 
+<lb n="428"/>Zinß 11 ß. 
+</p>
+        <p><lb n="429"/><persName ref="lub-actors-2325">Conradt Länglins</persName> seelig erben zue  
+<lb n="430"/><placeName ref="lub-places-1">Vaduz</placeName>, zünssen ab seinem hauß unndt  
+<lb n="431"/>hoff an der <placeName ref="lub-places-669">Halden</placeName>, sambt der <placeName ref="lub-places-563">Ißlen</placeName>,  
+<lb n="432"/>ledig. 
+<lb n="433"/>Zinß 2 f. 
+<lb n="434"/>Zulest 2 f. 
+</p>
+        <p><lb n="435"/><persName ref="lub-actors-1392">Hannß Grüschlin</persName> zu <placeName ref="lub-places-1">Vaduz</placeName>, zinßet  
+<lb n="436"/>ab einem stückhle weingarten in <placeName ref="lub-places-217">Amara</placeName>  
+<lb n="437"/>gelegen, ledig, ausser der fruemess  
+<lb n="438"/>4 1/2 maß opfferwein. 
+<lb n="439"/>Zinß 1 ß. 
+</p>
+        <p><lb n="440"/><persName ref="lub-actors-2326">Geörg Weinzierle</persName> zünßet ab seinem  
+<lb n="441"/>hauß unndt weingarten, stosst auff
+<lb break="no" n="442"/>werth dem landt nach an <persName ref="lub-actors-1392">Hannß Grischle</persName>, 
+<lb n="443"/>berghalb an die <placeName ref="lub-places-345">Landtstraß</placeName>, ledig  
+<lb n="444"/>unndt ableßig. 
+<lb n="445"/>Zinß 1 f. 
+<lb n="446"/>Hat jezo <persName ref="lub-actors-2272">Jacob Wittwer</persName> die pfandt  
+<lb n="447"/>khaufft. 
+</p>
+        <p><pb facs="lub-media-2097" n="23"/><lb n="448"/><placeName ref="lub-places-41">Trißnerberg</placeName>  
+<lb n="449"/><persName ref="lub-actors-1465">Christa Pfeiffer</persName> ab <placeName ref="lub-places-190">Moßeschen</placeName>,  
+<lb n="450"/>zünßet ab einem stuckh gueth auff  
+<lb n="451"/><placeName ref="lub-places-475">Gurtnalp</placeName> am <placeName ref="lub-places-41">Trißnerberg</placeName> ab dem  
+<lb n="452"/><placeName ref="lub-places-583">Trenckhweg</placeName>, ledig unndt ableßig. 
+<lb n="453"/>Zinß 10 ß.   
+</p>
+        <p><lb n="454"/><persName ref="lub-actors-2327">Andreas Frumoldt</persName> ab <placeName ref="lub-places-181">Rottenboden</placeName>. 
+<lb n="455"/>Zünsst ab einem stuckh gueth am <placeName ref="lub-places-41">Trisner
+<lb break="no" n="456"/>berg</placeName>, auff der <placeName ref="lub-places-586">Furi</placeName> gelegen, neben 
+<lb n="457"/><placeName ref="lub-places-190">Moßeschen</placeName>, ledig unndt ableßig. 
+<lb n="458"/>Zinß 1 f. 
+</p>
+        <p><lb n="459"/><persName ref="lub-actors-2328">Thoma Salin der Jung</persName> am <placeName ref="lub-places-41">Trisner
+<lb break="no" n="460"/>berg</placeName>, zinßet ab einem stuckh gueth 
+<lb n="461"/>auffm <placeName ref="lub-places-555">Forst</placeName> unndt der Gass  
+<lb n="462"/>gelegen, stosst berghalb an die  
+<lb n="463"/><placeName ref="lub-places-235">Alppgass</placeName>, ledig unndt loß. 
+<lb n="464"/>Zinß 1 f. 
+</p>
+        <p><lb n="465"/>Jacob vor <persName ref="lub-actors-532">Steffan Schädler</persName> am  
+<lb n="466"/><placeName ref="lub-places-41">Trisnerberg</placeName>, zünßet ab einem  
+<lb n="467"/>stuckh gueth auff <placeName ref="lub-places-243">Jona gueth</placeName>, stosst  
+<lb n="468"/>abwerth dem landt nach am <placeName ref="lub-places-643">Mühlbach</placeName>,  
+<lb n="469"/>ledig anno 1550. 
+<lb n="470"/>Zinß 2 lb. 
+</p>
+        <p><pb facs="lub-media-2098" n="24"/><lb n="471"/><placeName ref="lub-places-79">Trißen</placeName> 
+<lb n="472"/><persName ref="lub-actors-2330">Johannes Erny</persName> zue <placeName ref="lub-places-79">Trißen</placeName>, zünßet  
+<lb n="473"/>ab einem ackher im <placeName ref="lub-places-684">Trisner feldt</placeName>  
+<lb n="474"/>gelegen, stosst auffwerth dem  
+<lb n="475"/>landt nach an <persName ref="lub-actors-279">Lienhardt Verling</persName>,  
+<lb n="476"/>abwerth an <persName ref="lub-actors-1019">Peter Rigen</persName>, rheinhalb  
+<lb n="477"/>an <placeName ref="lub-places-685">Pfruendt gueth</placeName>, gegen dem berg  
+<lb n="478"/>an <persName ref="lub-actors-2331">Fridli Ehrni</persName>, ledig unndt loß. 
+<lb n="479"/>Zinß 1 lb. 4 ß. 
+<lb n="480"/>Soll jez <persName ref="lub-actors-2332">Hanß Getsch</persName> zinsen. 
+<lb n="481"/>Ist aber beser, man zeüche sich  
+<lb n="482"/>zur alten pfand, wan er nit  
+<lb n="483"/>richtig zinset. 
+</p>
+        <p><pb facs="lub-media-2099" n="25"/><lb n="484"/><placeName ref="lub-places-71">Baltzerß</placeName>  
+<lb n="485"/><persName ref="lub-actors-2333">Bartlin Ballaßer</persName> zünßet ab einem  
+<lb n="486"/>ackher zu <placeName ref="lub-places-352">Brüel</placeName> am <placeName ref="lub-places-313">Obern Feldt</placeName>,  
+<lb n="487"/>stosst an die allgemein unndt an  
+<lb n="488"/>das <placeName ref="lub-places-351">Hoffgueth</placeName>, zum 4. an die  
+<lb n="489"/><placeName ref="lub-places-353">Fürhäubter</placeName>. Mehr ab einem gueth  
+<lb n="490"/>am berg, genandt <placeName ref="lub-places-354">Alathait</placeName>, stosst  
+<lb n="491"/>ringsumb an die allgemein. Mehr  
+<lb n="492"/>ab einer hoffstatt zue <placeName ref="lub-places-71">Balzerß</placeName>,  
+<lb n="493"/>stosst zue drey seithen an die  
+<lb n="494"/>haimbgass. Item ab einer wißen  
+<lb n="495"/>an <placeName ref="lub-places-356">Ell</placeName>, stosst aufwerth an den  
+<lb n="496"/>Stein. Ledig besiglet anno 1513. 
+<lb n="497"/>Zinß 16 ß. 
+</p>
+        <p><lb n="498"/><persName ref="lub-actors-2334">Christa Gaßner </persName>zünßet ab einem  
+<lb n="499"/>hauß unndt hoff zue <placeName ref="lub-places-71">Baltzers</placeName>,  
+<lb n="500"/>stosst gegen der <placeName ref="lub-places-107">Staig</placeName> an <persName ref="lub-actors-2335">Martin  
+<lb n="501"/>Nägelin</persName>, abwerth an <persName ref="lub-actors-2336">Christa Stöger</persName>,  
+<lb n="502"/>berghalb an die <placeName ref="lub-places-345">Landtstrass</placeName>,  
+<lb n="503"/>gegen <placeName ref="lub-places-103">Rhein</placeName> an <persName ref="lub-actors-2337">Zacharias von Kriss</persName>,  
+<lb n="504"/>ledig. 
+<lb n="505"/>Zinß 9 ß. 
+</p>
+        <p><pb facs="lub-media-2100" n="26"/><lb n="506"/>Verzaichnuß 
+<lb n="507"/>Der hayligen gestüfften messen,  
+<lb n="508"/>so auff unnßer liebe frauen  
+<lb n="509"/>altar ein caplon daselbsten  
+<lb n="510"/>jährlichen zu leßen hat,  
+<lb n="511"/>wie volgt. 
+</p>
+        <p><lb n="512"/><persName ref="lub-actors-2338">Barbara Quaderin</persName> zue <placeName ref="lub-places-53">Schänn</placeName>  
+<lb n="513"/>zue ihrer unndt ihres abge
+<lb break="no" n="514"/>leibten manß, amman <persName ref="lub-actors-2310">Adam Walßer</persName> 
+<lb n="515"/>seelig, seelenhayl jährlich zwo heilige  
+<lb n="516"/>seelmessen auff unnßer lieben  
+<lb n="517"/>frawen altar in der ersten advent
+<lb break="no" n="518"/>wochen von einem caplon daßelbsten 
+<lb n="519"/>zu leßen. 
+<lb n="520"/>Sezt deßwegen zu unnderpfandt  
+<lb n="521"/>ein stuckh gueth, in <placeName ref="lub-places-214">Bisch</placeName> gelegen,  
+<lb n="522"/>stosst auffwerth dem landt nach  
+<lb n="523"/>an <persName ref="lub-actors-2310">Adam Walßer</persName>, abwerth  
+<lb n="524"/>dem landt nach an <persName ref="lub-actors-2298">Hannß Nägelin</persName>,  
+<lb n="525"/>berghalb an deß <placeName ref="lub-places-570">Messmers gueth</placeName>,  
+<lb n="526"/>rheinwerths an die <placeName ref="lub-places-345">Landtstraß</placeName>,  
+<lb n="527"/>ledig. 
+<lb n="528"/>Die <persName ref="lub-actors-2339">Ursula Seelerin</persName> <supplied>?</supplied> hat auch ain jartag  
+<lb n="529"/>gestifftet mit vier priestern ungefahr  
+<lb n="530"/>nach dem newen jar zu halten jedem  
+<lb n="531"/>priester 30 kr. Dorumb ain ackher  
+<lb n="532"/>der pfruend gestifft worden, wie  
+<lb n="533"/>im urbarii bein aignen güettern zu sechen. 
+<lb n="534"/><persName ref="lub-actors-2340">Barbara Bürckhlin</persName> hat auch ain  
+<lb n="535"/>jartag mit vier priestern zu halten gestifft  
+<lb n="536"/>und derentwegen der pfruendt ain ackher  
+<lb n="537"/>verschafft, wie im urbarii zu sechen. 
+</p>
+        <p><pb facs="lub-media-2101" n="27"/><lb n="538"/><persName ref="lub-actors-1384">Stoffel Ganzman</persName> hat auch seelmessen  
+<lb n="539"/>gestifft und darumb ain stückhle guet  
+<lb n="540"/>auf der <placeName ref="lub-places-578">Satlern</placeName> verordnet, wie im  
+<lb n="541"/>urbar zu sechen. 
+</p>
+        <p><lb n="542"/><persName ref="lub-actors-2341">Maria Khauffmenin</persName> seelig hat auch  
+<lb n="543"/>ain heillige mess jerlich nach dem dritten  
+<lb n="544"/>suntag in der Fassten zu halten gestifftet  
+<lb n="545"/>und darumb jerlich 9 bz. zinß verordnet,  
+<lb n="546"/>wie im urbar zu sechen. 
+</p>
+        <p><pb facs="lub-media-2102" n="28"/><lb n="547"/>Zinsbüchel. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

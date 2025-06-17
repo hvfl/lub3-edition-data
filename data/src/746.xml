@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-746">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Einsetzung von Philipp Wachter in die Pfarrei St. Martin in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-746">LI-LA, PfäA 26/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 26. Januar 1585 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt / Unterschrift des Notars Zacharias Colan</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Churer Bischof Peter de Raschèr teilt dem Dekan und dem Kämmerer des Kapitels Unter der Landquart mit, dass er Philipp Wachter als neuen Pfarrer an der Pfarrkirche St. Martin in Eschen eingesetzt hat, nachdem er den Verwalter des Klosters Pfäfers, dem das Präsentationsrecht zusteht, mehrmals vergeblich gebeten hatte, Wachter, der bereits seit einem Jahr in Eschen tätig ist, als Nachfolger des verstorbenen Vitus Gamon zu präsentieren. Der Bischof beauftragt den Dekan und den Kämmerer, Wachter die Kirche mit allen Rechten und Einkünften zu übergeben und ihn ins Kapitel aufzunehmen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-247">Pfarrer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-316">Raschèr, Peter de</persName>
+          <date when="1585-01-26">26. Jan 1585</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_26_03-0001.jpg" xml:id="lub-media-1575" source="pfafa-26-03-s01.jpg" corresp="A"/>
+    <graphic url="li-la__pf-fa_26_03-0002.jpg" xml:id="lub-media-1576" source="pfafa-26-03-s02.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1575" n="1"/><lb n="1"/>Nos <persName ref="lub-actors-316">Petrus</persName>, dei et apostolicae sedis gratia episcopus <placeName ref="lub-places-175">Curiensis</placeName>, dilectis nobis in Christo decano et camerario caeterisque confratri
+<lb break="no" n="2"/>bus <orgName ref="lub-actors-2255">Capituli Infra Lanquarum</orgName> ad praesentium executionem requisitis salutem in domino. Ad <placeName ref="lub-places-359">parochialem ecclesiam sancti Mar
+<lb break="no" n="3"/>tini</placeName> in <placeName ref="lub-places-35">Eschen</placeName>, nostrae diocesis, per obitum venerabilis domini <persName ref="lub-actors-2256">Viti Gammonis</persName>, novissimi possessoris, vacantem, dominus locum tenens
+<lb n="4"/>in <orgName ref="lub-actors-309">Pfeffers</orgName>, cui nomine dicti monasterii ius praesentandi pleno iure spectare dignossitur, sepius admonitus et interpellatus, ut <persName ref="lub-actors-666">Philippum 
+<lb n="5"/>Wachter</persName>, iam per annum quasi in illa parochia existentem, praesentare velit, quod facere omnino neglexit, quare nos pastorali 
+<lb n="6"/>officio moti, dictum dominum <persName ref="lub-actors-666">Philippum Wachter</persName> instanter petentem favorabiliter inclinati, praefatum dominum <persName ref="lub-actors-666">Philippum</persName> authoritate ordinaria 
+<lb n="7"/>praesentamus et investimus pro vero et perpetuo plebano dictae ecclesiae in <placeName ref="lub-places-35">Eschen</placeName>, investiendum duximus, pro ut tenore praesentium 
+<lb n="8"/>eundem investimus et approbamus, curam animarum regimenque populi ac administrationem ipsius ecclesiae in animam suam com
+<lb break="no" n="9"/>mittentes. Quocirca vobis et cuilibet vestrum mandamus, quatenus praefatum dominum <persName ref="lub-actors-666">Phillippum</persName>, prae<unclear>st</unclear>ito tamen prius per eum iuramento
+<lb n="10"/>ad sancta dei evangelia, de obediendo nobis et successoribus nostris et de non alienando bona ipsius ecclesiae, sed potius deperdita recupe
+<lb break="no" n="11"/>rando, et ad supra dictam ecclesiam iuriumque et pertinentiarum eiusdem corporalem et actualem possessionem inducentes, facientes
+<lb n="12"/>sibi ab his, quorum interest, de ipsius ecclesiae fructibus, redditibus et proventibus et iuribus universis integre respondere deberi 
+<lb n="13"/>ipsumque populo et populum sibi commendetis eumque in confratrem vestri capituli recip<unclear>ia</unclear>tis, adhibitis in his omnibus 
+<lb n="14"/>solennitatibus debitis, solitis et consuetis. In cuius rei testimonium praesentes sigillo <unclear>nostro</unclear> appensione<note>Wohl verschrieben für: appenso.</note> communiri 
+<lb n="15"/>fecimus. Datum <placeName ref="lub-places-102">Curiae</placeName> <origDate when="1585-01-26">die vigesima sexta mensis iannuarii secundum antiquum stylum anno domini millesimo quingente
+<lb break="no" n="16"/>simo octuagesimo quinto</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-1576" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

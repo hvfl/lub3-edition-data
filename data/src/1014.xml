@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1014">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beschwerden der Untertanen aus Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1014">AT-HAL, H 2623 unfol</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 9. Januar 1589 / Beschreibstoff: Papier, 29 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Beantwortung und Resolution von Karl Ludwig von Sulz über die Beschwerden der Untertanen von Vaduz. Diese Beschwerden betreffen das Jagdrecht, die Fron, die Holzverordnung, den Viehverkauf, den Botenlohn, Steuerleichterungen und grundherrliche Unterstützung in Notsituationen u. a.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-262">Abgabe</term>
+          <term ref="lub-keywords-232">Bote</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-319">Handel</term>
+          <term ref="lub-keywords-152">Nutzungsrecht</term>
+          <term ref="lub-keywords-41">Jagd</term>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-447">Luder</term>
+          <term ref="lub-keywords-138">Wein</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1589-01-09">9. Jan 1589</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal_h_2623_unfol_-0001.jpg" xml:id="lub-media-1040" source="1589-01-09-at-hal-h-2623-1.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0002.jpg" xml:id="lub-media-1041" source="1589-01-09-at-hal-h-2623-2.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0003.jpg" xml:id="lub-media-1042" source="1589-01-09-at-hal-h-2623-3.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0004.jpg" xml:id="lub-media-1043" source="1589-01-09-at-hal-h-2623-4.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0005.jpg" xml:id="lub-media-1044" source="1589-01-09-at-hal-h-2623-5.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0006.jpg" xml:id="lub-media-1045" source="1589-01-09-at-hal-h-2623-6.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0007.jpg" xml:id="lub-media-1046" source="1589-01-09-at-hal-h-2623-7.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0008.jpg" xml:id="lub-media-1047" source="1589-01-09-at-hal-h-2623-8.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0009.jpg" xml:id="lub-media-1048" source="1589-01-09-at-hal-h-2623-9.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0010.jpg" xml:id="lub-media-1049" source="1589-01-09-at-hal-h-2623-10.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0011.jpg" xml:id="lub-media-1050" source="1589-01-09-at-hal-h-2623-11.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0012.jpg" xml:id="lub-media-1051" source="1589-01-09-at-hal-h-2623-12.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0013.jpg" xml:id="lub-media-1052" source="1589-01-09-at-hal-h-2623-13.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0014.jpg" xml:id="lub-media-1053" source="1589-01-09-at-hal-h-2623-14.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0015.jpg" xml:id="lub-media-1054" source="1589-01-09-at-hal-h-2623-15.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0016.jpg" xml:id="lub-media-1055" source="1589-01-09-at-hal-h-2623-16.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0017.jpg" xml:id="lub-media-1056" source="1589-01-09-at-hal-h-2623-17.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0018.jpg" xml:id="lub-media-1057" source="1589-01-09-at-hal-h-2623-18.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0019.jpg" xml:id="lub-media-1058" source="1589-01-09-at-hal-h-2623-19.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0020.jpg" xml:id="lub-media-1059" source="1589-01-09-at-hal-h-2623-20.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0021.jpg" xml:id="lub-media-1060" source="1589-01-09-at-hal-h-2623-21.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0022.jpg" xml:id="lub-media-1061" source="1589-01-09-at-hal-h-2623-22.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0023.jpg" xml:id="lub-media-1062" source="1589-01-09-at-hal-h-2623-23.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0024.jpg" xml:id="lub-media-1063" source="1589-01-09-at-hal-h-2623-24.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0025.jpg" xml:id="lub-media-1064" source="1589-01-09-at-hal-h-2623-25.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0026.jpg" xml:id="lub-media-1065" source="1589-01-09-at-hal-h-2623-26.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0027.jpg" xml:id="lub-media-1066" source="1589-01-09-at-hal-h-2623-27.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0028.jpg" xml:id="lub-media-1067" source="1589-01-09-at-hal-h-2623-28.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol_-0029.jpg" xml:id="lub-media-1068" source="1589-01-09-at-hal-h-2623-29.jpg" corresp="B1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1040" n="1"/><lb n="1"/>Beantwurttung unnd  
+<lb n="2"/>resolution. 
+<lb n="3"/>Deß wolgebornnen herrn herrn <persName ref="lub-actors-13">Carl Ludwigen  
+<lb n="4"/>graven zu Sulz</persName>  
+<lb n="5"/>über  
+<lb n="6"/>der unnderthanen der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> zu berg und  
+<lb n="7"/>thal, den 9. januarii anno 1589 fürgebrachte  
+<lb n="8"/>beschwerden unnd articul. 
+</p>
+        <p><pb facs="lub-media-1041" n="2"/><lb n="9"/>Beanndtwurttung. 
+<lb n="10"/>Über dern unnderthonen der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>  
+<lb n="11"/>zu berg unnd thal, den <date when="1589-01-09">9 januari anno 89</date>  
+<lb n="12"/>fürgebrachte beschwernussen unnd articeln. 
+<lb n="13"/>Hiernach volgendt sessionem darüber der wolge
+<lb break="no" n="14"/>born herr, herr <persName ref="lub-actors-13">Carl Ludwig grave zu Sulz</persName>, 
+<lb n="15"/>sich am dato, den <date when="1589-02-10">10 februari</date> gnedigelich resolviert. 
+</p>
+        <p><lb n="16"/>Erstlichen, das gedachte unnderthonen vermainen, nit schuldig  
+<lb n="17"/>zu sein, alle jagen zuvolbringen, sonnder allainig das roth und  
+<lb n="18"/>schwarz wildtbreth, ohne fuchs, hasen, kheins unnd merers  
+<lb n="19"/>zethun geüebt worden. 
+</p>
+        <p><lb n="20"/>Über solches befindt sich auß ainen wolherbrachten dern herschafft  
+<lb n="21"/><placeName ref="lub-places-7">Vaduz</placeName> benenntes urbar, welches bey den wolgebornnen frey
+<lb break="no" n="22"/>herrn <orgName ref="lub-actors-744">von Branndiß</orgName>, auch graven <orgName ref="lub-actors-7">zu Sulz</orgName>, geüebt, gebraucht 
+<lb n="23"/>unnd gehalten, in nachvolgennden puncten unnd worten. 
+</p>
+        <p><lb n="24"/>Item yeclicher in der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> seßhafft, ist schuldig,  
+<lb n="25"/>meinem herrn zu jagen, wo man will jagen. Da ist man  
+<lb n="26"/>inen schuldig nit, zu essen zu geben, mit litera A unnd B ver
+<lb break="no" n="27"/>zaichnet.
+</p>
+        <p><lb n="28"/>Weyters befindt sich, das abermaln zu beweisen durch schrifftliche  
+<lb n="29"/>documenta, zeug unnd verhörungen, wie von altem her ge
+<lb break="no" n="30"/>braucht worden in <placeName ref="lub-places-7">Vaduzer</placeName> unnd <placeName ref="lub-places-12">Blumenegger</placeName> herrschafften, 
+<lb n="31"/>roth unnd schwarz wiltbreth, ja genannt schwein und gembs,  
+<lb n="32"/>als obangezogne underthonen, bey unnsern geliebten voreltern und  
+<lb n="33"/>befreundten mit gemainlicher hanndt, das wiltbreth unnd  
+<lb n="34"/>gembßen nach gelegenhait der jachten bey guter zeyt in gewisser  
+<lb n="35"/>rhue, dieselbigen helffen zu treiben, wie auch nach bevelch der  
+<pb facs="lub-media-1042" n="3"/>
+<lb n="36"/>herrschafft nächtlicher weyl bebenntes wiltbreth be
+<lb break="no" n="37"/>wacht, auch annders tags zu jagen unnd zu hagen, unnd 
+<lb n="38"/>in die garn zetreiben schuldig seind. 
+</p>
+        <p><lb n="39"/>Wir dann auch grundtlich befunden würt, das doch allain  
+<lb n="40"/>der wilden- unnd berghiener bey straf der herrschafft  
+<lb n="41"/>verbotten worden. Wann dann in bemelten urbarn unnd  
+<lb n="42"/>alten brieflichen urkhunden biß dahero befunden unnd gehalten, auch  
+<lb n="43"/>grundtlich bezeugen mögen. So thun wir unns dises puncten  
+<lb n="44"/>halbers anderst nit erclern, dann wie angezogen verbleiben. 
+</p>
+        <p><lb n="45"/>Obe gleichwol unnser voreltern nit stetig die hofhaltung alhie  
+<lb n="46"/>gehabt, unnd in abwesen derselbigen jagen unnd anders auß gnaden  
+<lb n="47"/>unnd niten, auß gerechtigkhait enndtlaßen, ursachen der abwesen
+<lb break="no" n="48"/>lichen personen etc.
+</p>
+        <p><lb n="49"/>Wo auch ainer under den underthonan, es were mit füchs, lüx,  
+<lb n="50"/>märder, hasen, oder dergleichen, durch, ohn geverde gefanngen.  
+<lb n="51"/>So hat es da unnd nachmaln ainen iedtwedern, gebürt auf das  
+<lb n="52"/><placeName ref="lub-places-200">hauß Vaduz</placeName>, oder deren beambten fürzubringen, dann allain  
+<lb n="53"/>auß ursachen unnd khainer gestalt anderst zu verhüetung  
+<lb n="54"/>derselben schäden, sowol in wiltbreth unnsers forsts und inen,  
+<lb n="55"/>den underthonen, zuverhüetung nachtheils irere güeter, auch heußlichen  
+<lb n="56"/>gefügels, auch vieh unnd dergleichen. 
+</p>
+        <p><lb n="57"/>Als erstbesagte thier frey zu sein, vil weniger genannte  
+<lb n="58"/>underthonen solches zu nit jagenns genzlich khain bewüß  
+<lb n="59"/>noch darthun khönnden. Es were dann sach, das sy gegen unnsern  
+<lb n="60"/>geliebten voreltern, auch befreundten unnd zuvor auß des ersten  
+<lb n="61"/>graf <persName ref="lub-actors-8">Rudolffen von Sulz</persName> innhaber diser herschafften, sich also  
+<lb n="62"/>underthenig unnd diennstlich, (ja wie deme) gehalten  
+<lb n="63"/>hetten, das sy briefliche documenta und versiglungen  
+<lb n="64"/>uf erheblichen nothfahl anzudeuten sein möchte, wolten  
+<pb facs="lub-media-1043" n="4"/>
+<lb n="65"/>wir unns abermaln nach gebirerennden rechten darzu <gap/>  
+<lb n="66"/>wir gennzlichen unnd wol befuegt, nicht zuvermindern  
+<lb n="67"/>wissen, sonnder zu verbessern haben. 
+<lb n="68"/>Wie doch auf angehörten ja articl, auch annder wolhergebrachte  
+<lb n="69"/>urber unnd gerechtsame, gennzlich nicht annderst, sonnder be
+<lb break="no" n="70"/>crefftiget haben, unnd sezen solches für den ersten puncten.
+</p>
+        <p><lb n="71"/>Zum andern, das bemelte underthonen sich beschwärn, unßer  
+<lb n="72"/><placeName ref="lub-places-33">Schloß</placeName> unnd was wir für andere güeter darzue yederzeit nemen  
+<lb n="73"/>unnd bekhomen möchten, dieselbige ohne speys unnd lohn bawen,  
+<lb n="74"/>hewen, mäen unnd zeunen solten, wider alte hergebrachte unnd  
+<lb n="75"/>geüebte gebreuch. 
+</p>
+        <p><lb n="76"/>Bringt mergedachtes plumenegisch veduzisch urbar clar unnd lauter mit sich mit  
+<lb n="77"/>nachvolgennden worten. 
+</p>
+        <p><lb n="78"/>Item so seind die 3 derffer von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> meinem herrn schuldig,  
+<lb n="79"/>neben andern notwenndig veldtbewen unnd frondiennsten  
+<lb n="80"/>jerlichen 3 tag zu bawen mit pflügen unnd hawen, och zu hawen, zu  
+<lb n="81"/>mehen undt zu verzeinen schultig. 
+</p>
+        <p><lb n="82"/>Item die von <placeName ref="lub-places-79">Trysen</placeName> seind schuldig, den <placeName ref="lub-places-665">Mayerhof</placeName> unnd was darzue  
+<lb n="83"/>gehörn möchte, neben andern notwenndigen veldtbewen und  
+<lb n="84"/>frondiennsten mit ihren pflüegen ze bawen unnd ze hawen, wie  
+<lb n="85"/>die von <placeName ref="lub-places-53">Schan</placeName> unnd <placeName ref="lub-places-1">Vaduz</placeName>, auch zu mäen, ze hewen und zu zeunen. 
+</p>
+        <p><lb n="86"/>Ebenmessig seind die von <placeName ref="lub-places-71">Balzers</placeName> unnd <placeName ref="lub-places-166">Mäls</placeName>, die negste gelegne  
+<lb n="87"/>güeter, so ain herr an sich nemen unnd bawen möchte, wie auch  
+<lb n="88"/>die vorgennde dörffer, mit mäen, hewen, zeunen, auch neben  
+<lb n="89"/>andern notwenndigen veldt gebewen unnd frondiennsten drey tag  
+<lb n="90"/>mit irn pflüegen zu bawen unnd zu hawen. 
+</p>
+        <p><pb facs="lub-media-1044" n="5"/><lb n="91"/>Zum dritten, indeme sich unnsere underthonen beclagen,  
+<lb n="92"/>das sy mit der fuor teglichen behelliget unnd beschwert, dar
+<lb break="no" n="93"/>zu inen die speys unnd trannckh abgebrochen und underthenig 
+<lb n="94"/>pitten, ainen ieden fuorman, nachdeme er was unnd wie weit  
+<lb n="95"/>hergefüert, ihe nach gestaltsame der sachen der gebier nach zu halten. 
+</p>
+        <p><lb n="96"/>Hierauf wir aber khain wort annders in dem urbar befinden,  
+<lb n="97"/>als zu zeyten ain mal, auch zu zeyten 2 mal, zu essen geben.  
+<lb n="98"/>Aber weins halben, nie khain halbs noch anders angemelt,  
+<lb n="99"/>da doch manichen khain vermüegen daran gehabt, sonnder gern ain  
+<lb n="100"/>gannze mas gehabt hette. Gleichwol wir von wegen  
+<lb n="101"/>der teurung unnd das der wein iezo zwey jar mißrathen,  
+<lb n="102"/>unnsern keller-underfogt bevelch geben, mit dem wein gegen menigelich  
+<lb n="103"/>einzuhalten, mer dann vorhin zu guten jarn. Dabey ein <gap/> menigelich  
+<lb n="104"/>zuerkhennen. Wann wir also wie hievor ander jar die  
+<lb n="105"/>frondienste underhalten solten, unns unmüglichen were, unnsere  
+<lb n="106"/>haußhaltung unnd gräflichen stannd gemäs ausser alhieger  
+<lb n="107"/>herrschafften gevellen unnd einkhomen nit außzubringen, sondern  
+<lb n="108"/>dises alhieg einkhomen auf dise unnd des gannzen jars all andere  
+<lb n="109"/>frondiennsten auflauffen, unnd wir dardurch enndtblößt sin  
+<lb n="110"/>würden, unnd nit in unnsern vermögen, alls wan alle graf
+<lb n="111"/>unnd herrschafften, wie bey unnßers hern vatters seligen zeyten  
+<lb n="112"/>allainig zugehörig weren. Wellen aber unns des fahls  
+<lb n="113"/>der gelegenhait unnd nach vermögen der herrschafft einkhomen  
+<lb n="114"/>hierinnen zuverhalten wol wissen. 
+</p>
+        <p><lb n="115"/>Den vierten, die kornfürchten von baurn alher zu füeren, be
+<lb break="no" n="116"/>lanngendt, ist zweifels ohne inen, den underthonen, wol be
+<lb break="no" n="117"/>wißt, des sy in crafft offtermelts urbers frondiennst 
+<lb n="118"/>zechen schuldig. Beyneben offennbar mer, dann  
+<pb facs="lub-media-1045" n="6"/>
+<lb n="119"/>zuvil khundtbar, das unnsere alhiege herrschafften an  
+<lb n="120"/>einkhomen der kornfürchten, auch sonnsten an ganzen acker
+<lb break="no" n="121"/>baw nit so statthafft, daraußen unnsere hofhaltung 
+<lb n="122"/>zugeschweigen der frondiennsten mit speysen underthalten werden  
+<lb n="123"/>khönnden. Zudeme von jar zu jar merer thails von euch,  
+<lb n="124"/>den unnderthonen, die kornfürchten in exstannzen außbleiben,  
+<lb n="125"/>derowegen wir hochnotwenndig getrungen werden, auß den  
+<lb n="126"/>unnderlenndischen unnsern einkhomen zu ergennzung obgedachts  
+<lb n="127"/>hofstats den merer theils früchten wider unnsern willen und  
+<lb n="128"/>die wir billichen an schulden wennden solten, mit grossen  
+<lb n="129"/>uncosten herauf zu füeren verursacht. Auch wir an fuor  
+<lb n="130"/>unnd wegen für unns selbsten, auß mangl nit verfaßt,  
+<lb n="131"/>solch ankhomende frücht vom bauren heraufholen zelassen.  
+<lb n="132"/>So khönnden wir auch nit dieselbigen iedermalen in anzal ohne  
+<lb n="133"/>sonnder gros verderben abganng unnd schaden gemelter früchten  
+<lb n="134"/>nach unnd nach holen zu laßen.  
+</p>
+        <p><lb n="135"/>Diser ursachen wegen, wir nit gedacht hetten, euch dessen so  
+<lb n="136"/>hoch zu beclagen, inansehung wir euch die gebierlichen besolden  
+<lb n="137"/>unnd auf ieden wagen bißher x. ß. d. bezalung thun haben. 
+</p>
+        <p><lb n="138"/>Mer unnd damit disem desto leichtlicher begegnet werde,  
+<lb n="139"/>seind wir bedacht, dise fron also nach gelegenheit zu miltern, und wellen  
+<lb n="140"/>auf mittl unnd weg halten, das fürohin obberüerte unßere  
+<lb n="141"/>underlenndische früchten in unnßern costen biß gen <placeName ref="lub-places-10">Veldt
+<lb break="no" n="142"/>khirch</placeName> bracht werden mögen, von dannen aus ir alßdann die
+<lb break="no" n="143"/>selbigen mit eurer fuor sambt denen in der herrschafft 
+<lb n="144"/><placeName ref="lub-places-11">Schellenberg</placeName> alher in unnser <placeName ref="lub-places-33">Schloß Vaduz</placeName> füeren und lifern  
+<lb n="145"/>sollen. Alles in euren aignen costen, denselbigen fuorleuten  
+<lb n="146"/>wellen wir nach gelegenheit der jargenng unnd ver
+<pb facs="lub-media-1046" n="7"/>
+<lb n="147"/>mögenhait des hauß gebierennde liferung  
+<lb n="148"/>mit essen geben werden. 
+</p>
+        <p><lb n="149"/>Für das fünfft. Unnd das bemelte unnsere underthonen  
+<lb n="150"/>der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> begern, wir inen fennch reutin  
+<lb n="151"/>jerlich zuelassen sollen unnd darumb sonnderlich diß  
+<lb n="152"/>jars underthenig pitten. 
+</p>
+        <p><lb n="153"/>Haben sye sich zweifelsohne der alten holzordnunng wol  
+<lb n="154"/>zu berichten, das niemandt andern banhölzern, auch  
+<lb n="155"/>alle awen am <placeName ref="lub-places-103">Rein</placeName>, ains yedtwedern herrn zughörig und  
+<lb n="156"/>darinnen zu reuten außtruckhenlichen verbotten, vermög  
+<lb n="157"/>unnd inhalt derselbigen holzordnung, unnd obgleichwol  
+<lb n="158"/>solcher holzordnung gemäs wir nit schuldig, inen,  
+<lb n="159"/>reutinen zugestatten, auch von alten her, ohne vorwissen  
+<lb n="160"/>aines herrn niemaln inen zugelassen worden, weyl unnd 
+<lb n="161"/>aber wir unnserer underthonen nuzung gern betrachten wellen,  
+<lb n="162"/>fürnemblichen zu disen khlemmen unnd theuren jarn. So  
+<lb n="163"/>wellen wir auß gnaden unbeschwert sin, dises jars  
+<lb n="164"/>unnd auch nach notturfft der khünfftigen jarn, ennd unnd  
+<lb n="165"/>ort zu zaigen laßen, da sy fennch reutinen machen khönnden,  
+<lb n="166"/>dasselbig doch zu khainer gerechtigkhait, sonnder unns yedes  
+<lb n="167"/>jars bevorstehn solle, zuerlauben unnd abzuschlagen, zu mindern  
+<lb n="168"/>unnd zu meren, alles inhalt unnd vermög vilgemelter  
+<lb n="169"/>holzordnung. 
+</p>
+        <p><lb n="170"/>In welchem under anndern vermelt würdet, das die awen ob  
+<lb n="171"/>den großen whur und darunder gennzlichen in ban gelegt  
+<lb n="172"/>worden, mit solcher nachvolgennden worten und inhalt.  
+<pb facs="lub-media-1047" n="8"/>
+<lb n="173"/>Welcher in ein benannten banawen, holz, oder gerten  
+<lb n="174"/>hawet, der soll erstlichen umb 5 ß., zum andern mal umb  
+<lb n="175"/>10 ß., zum dritten umb 15 ß. unnd zum 4 umb 1 lb. d.  
+<lb n="176"/>gestrafft werden. So aber ainer vermaint, solche straffen  
+<lb n="177"/>zugeben, damit er desto mer hawen khönnde, der soll von den  
+<lb n="178"/>geschwornnen bey irn tragennden ayden meinen gnedigen herrn  
+<lb n="179"/>zue straf angezaigt werden ohne nachleßlich. 
+</p>
+        <p><lb n="180"/>Im fahl aber von ainer herrschafft zu reuti vergundt  
+<lb n="181"/>würde, der soll nit mer auf ain person, dann 72 schuch  
+<lb n="182"/>oder 12 claffer lanng weit unnd braith also zu versten  
+<lb n="183"/>6 claffer in die lennge unnd 6 claffer in die weite und  
+<lb n="184"/>breite, doch einzuzeunen bey straf ainen ieden per 1 lb. d. 
+</p>
+        <p><lb n="185"/>Derselb so also reutlanndt abschlagen unnd einzeunen würd,  
+<lb n="186"/>derselbig soll solch lanndt unnd weite in khainen weg schossen,  
+<lb n="187"/>auch bey straf 1 lb. unablesig zu bezalen. 
+</p>
+        <p><lb n="188"/>Es soll auch ain ieder das holz unnd gert, so er also in riedtlandt  
+<lb n="189"/>abgehawen, zu der reuti verzeunen unnd nit hinweg füeren,  
+<lb n="190"/>biß die reuti ausgat, bey straf x. ß. d. 
+</p>
+        <p><lb n="191"/>Also ist diser bericht, wie es vor jarn auf bewilligung der  
+<lb n="192"/>oberkhaiten mit solchen unnd dergleichen reutinen gehalten werden,  
+<lb n="193"/>unnd wir lassen es aber iezo unnsers thails bey obgemelten  
+<lb n="194"/>unnserm beschaid unnd andtwurt verbleiben. 
+</p>
+        <p><lb n="195"/>Zum sechßten. Das begert bawholz zu underhaltung  
+<lb n="196"/>der underthonen gebewen, heusern, schewen und städl  
+<lb n="197"/>unnd anndern etc. Ist unnsers erachtens dises  
+<lb n="198"/>für khaine beschwerden anzubringen, dann inen wolbe
+<pb facs="lub-media-1048" n="9"/>
+<lb break="no" n="199"/>wüßt, was die alten holzordnung vermögen, unnd 
+<lb n="200"/>wir jüngsten außer hocheraischennder notturfft, ain  
+<lb n="201"/>ordnung geben unnd gemacht, dabey gnedigelich be
+<lb break="no" n="202"/>williget, ainem ieden nach obligennder notturfft zuver
+<lb break="no" n="203"/>melten pewen holz geben zu lassen. Doch soll zuvor 
+<lb n="204"/>dasselbig unns, oder unnsern ambtleuten anzaigt werden. 
+<lb n="205"/>Wie dann nochmaln unnser will unnd mainung. 
+</p>
+        <p><lb n="206"/>Künden unns auch am wenigisten nit berichten, ainem  
+<lb n="207"/>ainigen underthonen in solchem begern, wir inen in mangl  
+<lb n="208"/>haben steen laßen. 
+<lb n="209"/>Das aber auß ettwan zuefelligen geschafften zur zeyt, da  
+<lb n="210"/>sy unns darumben ersucht, nit gleich wilfort, halten  
+<lb n="211"/>wir darfür, sy billich unnser gnaden zu gewarten, unnd  
+<lb n="212"/>wir inen also gestrackhs zu wilforen, nit gezwunen  
+<lb n="213"/>sein sollen. Unnd laßen es dißes articls halben bey ange
+<lb break="no" n="214"/>regter holzordnung gennzlich verbleiben!
+</p>
+        <p><lb n="215"/>Zum sibennden, das die unnderthonen, sonnderlichen die  
+<lb n="216"/>am berg, für unbillich halten, das vieh zuverkhauffen. 
+<lb n="217"/>Inen verbotten werde etc. 
+<lb n="218"/>Befinden wir unnd ist khundtbar, das unnsere voreltern  
+<lb n="219"/>ebenmessig dise ordnung gehalten, gleichwol in merern  
+<lb n="220"/>als im bratflaisch, dorumben das man selten unnd ain  
+<lb n="221"/>khlainer zeyt alhie gewont, die ochßen unnd rinder nit  
+<lb n="222"/>sovil gebraucht. 
+<lb n="223"/>Weyl aber wir auf dise herrschafften abgethailt unnd  
+<lb n="224"/>zu antrettung unnserer regirung deßfahls wegen  
+<pb facs="lub-media-1049" n="10"/>
+<lb n="225"/>der mezig alhie mit der ambtleuten zu gethonen rath  
+<lb n="226"/>ain mezig alhie ansteleln wellen, damit nit allain  
+<lb n="227"/>unnsere hofhaltung unnd anndere unnsere underthonen  
+<lb n="228"/>wochenlichen mit flaisch versehen werden. Unnd das hie
+<lb break="no" n="229"/>lenndisch vieh umb bare bezalung wol geschlachtet, unnd 
+<lb n="230"/>die herrschafften damit gebierlichen kaufs underhalten mögen  
+<lb n="231"/>werden. Dardurch nit allain unns, auch den württen  
+<lb n="232"/>unnd andern underthonen, die das flaisch zu <placeName ref="lub-places-10">Veldtkhirch</placeName> holen  
+<lb n="233"/>müeßen laßen, vil uncosten erspart hette. Unnd so  
+<lb n="234"/>wir das bißher nit erhalten mögen, so seyn wir großer  
+<lb n="235"/>notturfft halben getrungen, selbsten einkhauffen zu lassen. 
+</p>
+        <p><lb n="236"/>Derowegen unns nit unbillich felt, das zu verhüetung  
+<lb n="237"/>merers uncostenns bey inen, unsern underthonen, unns umb  
+<lb n="238"/>dergleichen vieh zu bewerben, unnd das nit ettwas die  
+<lb n="239"/>frembden metzger dasselbig (wie man spricht: vor  
+<lb n="240"/>der nasen hinwegnemen) unnd also nit wenige ver
+<lb break="no" n="241"/>ursacht seind, solches pott anzulegen unnd dises in crafft 
+<lb n="242"/>befüegter unnserer gräflichen freyhaiten unnd herrlichaiten. 
+</p>
+        <p><lb n="243"/>Beyneben seind wir wol zufriden, wann unnsere hauß
+<lb break="no" n="244"/>haltung mit notturfft versehen, gleichfals die würt 
+<lb n="245"/>altem gebrauch gmes. In dem überigen menigelichen  
+<lb n="246"/>zu khauffen unnd zuverkhauffen zugelassen sein solle. 
+</p>
+        <p><lb n="247"/>Unnd möchten unnß also stettigen lassen, so die herr
+<lb break="no" n="248"/>schafft unns jerlichen ain anzal liferten, umb gebierende 
+<lb n="249"/>unnd durch bider wehrleuten erkhanndtliche bezalung, es  
+<lb n="250"/>were gleich an ennden unnd orten, wo es welle.  
+</p>
+        <p><pb facs="lub-media-1050" n="11"/><lb n="251"/>Zum achten. Die fürgebrachten iniuri unnd  
+<lb n="252"/>schmachreden, so unnsere hofdiener ainer oder mer,  
+<lb n="253"/>wer die weren, inen schmachreden, oder wider ire  
+<lb n="254"/>ehr was zuemuten würde, ist dises an ime selbst  
+<lb n="255"/>erst billich, das jhemandts an seinen ehren nit verlezt  
+<lb n="256"/>werde. Derowegen ainem yedtwedern  
+<lb n="257"/>unnderthon mit recht zugelassen ist, gegen denjhenigen,  
+<lb n="258"/>die solches thun möchten nach lanndtsbrauch und recht  
+<lb n="259"/>zuverfahren. Unnd da ainer oder mer solche unehr auf inen  
+<lb n="260"/>bleiben ließen, und wir das innen würden erclörn,  
+<lb n="261"/>wie unns gegen denjhenigen mit gebirender straf in  
+<lb n="262"/>ungnaden zuvermerckhen. 
+</p>
+        <p><lb n="263"/>Zum neundten. Seind wir zufriden, das annder  
+<lb n="264"/>dörffer sowohl als <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> in potten
+<lb break="no" n="265"/>weys, wann es von nöten, umb ir gebireliche besold
+<lb break="no" n="266"/>ung gebraucht werden.
+</p>
+        <p><lb n="267"/>Das aber die von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> mer dann andere  
+<lb n="268"/>gebraucht, ist nit ohn, aber auß khainer andern ursachen,  
+<lb n="269"/>dann das unnser obligende geschefften yhe nach eylender  
+<lb n="270"/>ervorderung unnd ehender beanndtwurttung jhe die  
+<lb n="271"/>negsten gebraucht worden, doch anderst nit, dann umb  
+<lb n="272"/>ir gebierliche besoldung. Darab man sich so hoch nit  
+<lb n="273"/>zu beschweren, auch vil lieber wir, als sy dessen enndthebt  
+<lb n="274"/>sein möchten. Doch ist unns lieb und nit  
+<lb n="275"/>zuwider, das anndere dörffer hierzue auch gezogen werden 
+<pb facs="lub-media-1051" n="12"/>
+<lb n="276"/>sollen. Doch sollen iederzeyt taugennliche unnd ver
+<lb break="no" n="277"/>trawte personen fürnemblichen in die weite verordnet 
+<lb n="278"/>werden. 
+</p>
+        <p><lb n="279"/>Zum zehennden. Sovil die feur, schloß unnd begerts üebung  
+<lb n="280"/>deß zeylschiessens berüern thuet, weren wir gleichwol  
+<lb n="281"/>bedacht gewesen, wie mitler zeyt mit den jungen angennden  
+<lb n="282"/>bürgern diser üebung halben anstellung beschehen möchte,  
+<lb n="283"/>aber wir unns mit gelegenhait gnedigelich zu resolviern  
+<lb n="284"/>wissen.  
+<lb n="285"/>Unnd soll hie zwischen außganngen mandat gemäs sich  
+<lb n="286"/>menigelich verhalten. 
+</p>
+        <p><lb n="287"/>Zum ainlifften. Seind wir ohne das genaigt, unnsere  
+<lb n="288"/>unnderthonen vor schmählichen unnd abscheuchlichen sachen die  
+<lb n="289"/>ettwas zu beschrayung aines guten namens gereichen  
+<lb n="290"/>möchte abzuwarnnen. Allainig unnd im fahl, da ain vieh  
+<lb n="291"/>(da gott vorsen welle) abgienng unnd zur zeyt zu ainen  
+<lb n="292"/>fuchs <term ref="lub-keywords-447">luoder</term> begert unnd ohne das ain jedtwedere, deme solcher  
+<lb n="293"/>schaden beschieht, dasselbig selbsten auß seinem stall an ge
+<lb break="no" n="294"/>bierennde ort zu füeren man im braucht hat, halten wir 
+<lb n="295"/>nit zuvil unnd nit wider ehren zuegemutet haben, das  
+<lb n="296"/>ain solch abganngen vieh auß dem stall ains füerens ettwan  
+<lb n="297"/>an ain ort, dahin wirs begern, zum fuchs <term ref="lub-keywords-447">luder</term> gefüert  
+<lb n="298"/>würt, ohne ainiche verclainerung oder schmelerung  
+<lb n="299"/>aines guten namens daraußen abzunemen, vilmer der zuge
+<lb break="no" n="300"/>messen werden khan. Ohne angesehen in dergleichen 
+<pb facs="lub-media-1052" n="13"/>
+<lb n="301"/>fählen ettlich underthonen vor der zeyt gegen andern  
+<lb n="302"/>sich gebrauchen laßen, aber niemaln beschwernussen  
+<lb n="303"/>fürbracht. Allain unns fürgeworffen unnd zu unrecht  
+<lb n="304"/>außgelegt, das doch billich underlassen und darumben  
+<lb n="305"/>unnsere gräfliche reputation darmit wol verschont  
+<lb n="306"/>het werden mögen. Aber wir uns hingegen gegen den
+<lb break="no" n="307"/>selben neben andern ungehorsamen, dessen zu seiner zeyt 
+<lb n="308"/>wol zuverhalten wissen. 
+</p>
+        <p><lb n="309"/>Letstlichen. Sovil die angeregte trostung belanngt, das  
+<lb n="310"/>ainhero in allen fählen von den underthonen anzunemen schuldig  
+<lb n="311"/>sein sollen. 
+<lb n="312"/>Seind wir mit nichten gestenndig, ains thails das es wider  
+<lb n="313"/>aines herrn hochait unnd herrlichaiten ist. Darzue des  
+<lb n="314"/><orgName ref="lub-actors-516">Hayligen Reichs</orgName> ordnung und unnßerer daher habennden  
+<lb n="315"/>privilegien zuwider. Dann dieselbigen freyhaiten unns 
+<lb n="316"/>billichen zuegeben, ainem ieden unnsern underthonen zu straffen  
+<lb n="317"/>unnsers gevallens. Wir solches auspündig in vilen  
+<lb n="318"/>khlain unnd großen fählen bey unnsern voreltern zugetragen,  
+<lb n="319"/>das sy ohne alles mittl in thurn gesezt, gestrafft und zu
+<lb break="no" n="320"/>geschribnen urpheden gebracht worden, deren exempel wir 
+<lb n="321"/>bey unnser cannzlei unzalbar vil haben. 
+</p>
+        <p><lb n="322"/>Zudeme so würt solche trostung allainig auf die frembden  
+<lb n="323"/>gezogen unnd verstannden, inhalt unnd vermög langherge
+<lb break="no" n="324"/>brachter teglicher üebung, davon wir abzutreiben nit 
+<lb n="325"/>gedennckhen. 
+</p>
+        <p><pb facs="lub-media-1053" n="14"/><lb n="326"/>Enndtgegen unnd dieweyl gedachte under
+<lb break="no" n="327"/>thonen vorbenennte articl für beschwerden einge
+<lb break="no" n="328"/>bracht unnd dieselben wider ire alte breuch sein 
+<lb n="329"/>sollen fürgeben, unnd für iren thail hanndt zu haben  
+<lb n="330"/>begern, so befinden sich anndere mer articl, die  
+<lb n="331"/>gleichfahls in bemelten urbarn unnd alten herrschafft  
+<lb n="332"/>ordnungen zugesezt, aber von inen, den underthonen,  
+<lb n="333"/>am wenigisten nit gehalten noch nachgesezt und gelebt  
+<lb n="334"/>haben, wie volgt. 
+</p>
+        <p><lb n="335"/>Erstlichen. Ist von alter här den underthonen zu <placeName ref="lub-places-1">Vaduz</placeName>  
+<lb n="336"/>unnd <placeName ref="lub-places-53">Schan</placeName> breuchlichen gesezt unnd geordnet vermög  
+<lb n="337"/>aines besigelten briefs, dessen dato, der geben ist auf  
+<lb n="338"/><date when="1496-09-26">montag vor sant Michels tag nach Christi geburt 1496</date>  
+<lb n="339"/>jars, so ainer am berg, oder sonnsten in ain dorf einzeucht  
+<lb n="340"/>unnd haußheblich wonen will, das ain solcher ohne vor
+<lb break="no" n="341"/>wissen aines herrn unnd mit vergleichung der under
+<lb break="no" n="342"/>thonen wol einziehen möge, unnd für solchen einzug ainen 
+<lb n="343"/>iedtwedern dorf nit mer, dann zwen guldin zu nemen von  
+<lb n="344"/>herrschafft wegen vergundt unnd zugelassen. Davon man  
+<lb n="345"/>nit schreiben sollte. 
+</p>
+        <p><lb n="346"/>Über solchen alten brauch begibt es sich unnd ist offenbar,  
+<lb n="347"/>das nun ettlich jar her, unnd sonnderlich weyl die herrschafft  
+<lb n="348"/>nit alhie wonhafft gewesen, die dörffer im lanndt  
+<lb n="349"/>in dergleichen ein- unnd außzügen bemelten brauch, sigel  
+<lb n="350"/>unnd brief, ohne ersucht ires herrens aigens gewalts für  
+<lb n="351"/>die zwen guldin, ettwan zehen, ettwas zwainnzig unnd  
+<pb facs="lub-media-1054" n="15"/>
+<lb n="352"/>iezo newlichen 40 lb. d. einzug gelt genomen haben! 
+<lb n="353"/>Über solches das doch in vermeltem urbar unnd einzug  
+<lb n="354"/>brief zum wenigisten nit angeregt, noch vermeldet,  
+<lb n="355"/>sonnder vilmer solchem zuwider unnd die alp gerechtsame  
+<lb n="356"/>bey benembtem übernom noch nit zugerechnet worden.  
+<lb n="357"/>Das doch inen mit nichten gebiert unnd billich  
+<lb n="358"/>nach altem gastraich, dessen sich die underthonen rümen, unnd zu straffen  
+<lb n="359"/>zuesteen solle. 
+</p>
+        <p><lb n="360"/>Zum andern. Nit weniger hat es sich zuetragen bey  
+<lb n="361"/>diser unnßerer regierung, das ettliche unnßere under
+<lb break="no" n="362"/>thonen auf <placeName ref="lub-places-124">Blannckhen</placeName> ettliche stumppen holz abgehawen 
+<lb n="363"/>unnd die geschwornnen zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> ain ieden  
+<lb n="364"/>stumppen biß in 3, 4 unnd 5 lb. d. gestrafft, unnd die sich  
+<lb n="365"/>diser straf verwidert unnd mit der bezalung gesaumbt  
+<lb n="366"/>mit außtragung der pfannden verganndtet, da doch inen  
+<lb n="367"/>nit mer, dann 10 ß. d. oder auf meristen 1 lb. d. zu straffen ge
+<lb break="no" n="368"/>biert, unnd an dem holz (vermög des blannekhischen vertrag) 
+<lb n="369"/>nichts zu straffen haben. Also nach altem brauch, brief  
+<lb n="370"/>unnd sigl inen ain solches nit gebiert, unnd ainem herrn  
+<lb n="371"/>hieran ain großer ungebierlicher eingriff beschicht, derowegen  
+<lb n="372"/>wir unns die straf ohne nachleßlich vorbehalten haben wellen. 
+</p>
+        <p><lb n="373"/>Zum dritten. So befinden wir in unnsern wäldern allenthalben,   
+<lb n="374"/>das diselbigen mit außhawung der hölzern gar seer ge
+<lb break="no" n="375"/>schennt unnd zum thail an ettlichen orten gannz unnd gar 
+<lb n="376"/>verschwembt, außgereutet und biß in die wurzel  
+<lb n="377"/>hinein verderbt, dieselbigen niemaln widerumben  
+<pb facs="lub-media-1055" n="16"/>
+<lb n="378"/>wie sein solten unnd die alten urbar, auch urkhunden  
+<lb n="379"/>mit sich bringen eingeschlagen worden. 
+</p>
+        <p><lb n="380"/>Daneben unnd vilmer gebirrennde straf von unnser  
+<lb n="381"/>alt vordern ernnstlichen aufgesezt unnd von ainem  
+<lb n="382"/>ieden stumppen, so der geschwembt, 1 lb. d. genomen  
+<lb n="383"/>worden. Inhalt unnd vermög ermelts holzordnung  
+<lb n="384"/>deme aber zuwider unnd niemaln durch die ge
+<lb break="no" n="385"/>schwornnen, oder diejhenigen, so die wäld verwaren 
+<lb n="386"/>solten, angezaigt, der zu straffen fürgeben worden, sonnder  
+<lb n="387"/>vil ehender gedachte geschwornnen selbst darzue behilf
+<lb break="no" n="388"/>lich unnd befürderlich geweßt.
+</p>
+        <p><lb n="389"/>Sodann diß auch wider die alten preuch beschehen, wellen  
+<lb n="390"/>wir darumben dieselbigen nit abgeen lassen unnd deß
+<lb break="no" n="391"/>wegen unnserm alten urbar unnd holzordnung gemäs
+<lb n="392"/>fürterhin gute aufmerckhung thun laßen und darbey  
+<lb n="393"/>zu hanndthaben wissen. 
+</p>
+        <p><lb n="394"/>Es befindt sich auch in gemeltem alten urbar unnd ordnung,  
+<lb n="395"/>das khainer, wer der seye, in den welden unnd holzern, so  
+<lb n="396"/>nit in ban gelegt seind, weder verkhauffen, noch verschenckhen,  
+<lb n="397"/>noch sonnst in anderweg wüestlich unnd verderblich, anderst,  
+<lb n="398"/>dann allain zu seiner notturfft, allerlay holz hawen, sovern  
+<lb n="399"/>das er zu Weihenachten nit mer, denn ain fuder alte scheiter  
+<lb n="400"/>ungevarlich bey seinem haushab unnd hievor khain scheiter  
+<lb n="401"/>beys hinzue thun noch machen, ohn bewilligung. 
+</p>
+        <p><pb facs="lub-media-1056" n="17"/><lb n="402"/>Zum vierten. Ist auß dem vaduzer urbar zu  
+<lb n="403"/>beweysen, das ain herr hinder dem <placeName ref="lub-places-138">Gulmen</placeName> ain  
+<lb n="404"/>holz hat, genanndt Kolholz, stost ufwert an  
+<lb n="405"/><placeName ref="lub-places-426">Melbunerweg</placeName>, abwert an <placeName ref="lub-places-666">Bach</placeName>, hinder sich wert an  
+<lb n="406"/>stain. Welches ain herr aigenthumblich unnd  
+<lb n="407"/>allain zu besezen unnd enndtsezen hat. 
+</p>
+        <p><lb n="408"/>Disen enndt gegen anmassen sich gemelte underthonen  
+<lb n="409"/>unnd bishero selbige hölzer abgehawen, solches uncrefftig  
+<lb n="410"/>fürgeben, also das unnserig des orts zuverschlagen begern. 
+</p>
+        <p><lb n="411"/>Am fünfften. Unnd zudeme zaigt bemelt urbar an  
+<lb n="412"/>das sonnderlich die von <placeName ref="lub-places-1">Faduz</placeName> khain anndere alpen  
+<lb n="413"/>noch mayenseß, dann allain <placeName ref="lub-places-42">Melbun</placeName> zenuzen unnd  
+<lb n="414"/>zuniessen haben. 
+</p>
+        <p><lb n="415"/>So understennd sy sich doch, hinder dem <placeName ref="lub-places-138">Gulmen</placeName> an gemelten  
+<lb n="416"/>Kolholz unnd an unnserer alpen ain gut stückh für sich  
+<lb n="417"/>selbsten einzunemen unnd noch ansprechen wellen. 
+</p>
+        <p><lb n="418"/>Item die waiden desselbigen orts, denen am <placeName ref="lub-places-41">Tryßnerberg</placeName><lb n="419"/>jerlichen, umb ain gelt zu kauffen geben, so doch solches  
+<lb n="420"/>unnserer alpen einverleibt, unnd aigenthumblichen zuge
+<lb break="no" n="421"/>hört, dasselbig aber unns zuenndtsezen understannden, 
+<lb n="422"/>das nun unns hingeen, oder ohne geanndet zelassen  
+<pb facs="lub-media-1057" n="18"/>
+<lb n="423"/>nit gebieren will. Derhalben sy sich durch urkhundt
+<lb break="no" n="424"/>liche brief, was sy darumb haben, gegen uns erclären 
+<lb n="425"/>sollen, sonnsten wir zu gedulden unnd noch zusehen gennz
+<lb break="no" n="426"/>lichen nit gemaint, sonder die straff vorbehalten haben welent.
+</p>
+        <p><lb n="427"/>Zum sechßten. So ist in bemeltem brief und brandischen  
+<lb n="428"/>vertrag außtruckhenlichen vermelt, das neben andern dienst
+<lb break="no" n="429"/>barkhaiten diejhenigen, so abm berg in die dörffer ziehen, 
+<lb n="430"/>neben unnd mit denen in dörffern schuldig sein sollen,  
+<lb n="431"/>ainem herrn die todtfhäl zu liffern. Darumben denen  
+<lb n="432"/>bey der cannzlei unnd alten urbari auch raitungen auf
+<lb break="no" n="433"/>zulegen, das dise todtfhäl unlang vor jarn 
+<lb n="434"/>ainen herrn geraicht worden. Worumb aber solches  
+<lb n="435"/>nit noch beschicht, begern wir die ursachen anzuhören. 
+</p>
+        <p><lb n="436"/>Zum sibennden. So tragen ettliche unnsere underthanen  
+<lb n="437"/>von unnsern eltern unnd unns erblehen, wir in offt
+<lb break="no" n="438"/>gemeltem urbar verzaichnet, das sy die kaufmans
+<lb break="no" n="439"/>güeter darumben zuverferttigen schuldig sein sollen, 
+<lb n="440"/>damit die strassen erhalten unnd der zoll gemerrt.  
+<lb n="441"/>So nuzen sy gleichwol die güeter, aber daneben verdingen  
+<lb n="442"/>sy die fhuor den andern, so khaine erblehen haben, also  
+<lb n="443"/>irn lehen diennsten nit genug thun unnd dardurch  
+<lb n="444"/>die kaufmansgüeter hinleßig geferttigt und die foeton  
+<lb n="445"/>unns steetig zuesprechen.  
+</p>
+        <p><pb facs="lub-media-1058" n="19"/><lb n="446"/>Weyl dann der prauch, das umb der erbgueter  
+<lb n="447"/>wegen sy die fuor erhalten sollen, wellen wir  
+<lb n="448"/>auch, das sy die rod unclagpar halten, oder aber  
+<lb n="449"/>unns selbige lehengüeter widerumb haimgeben. 
+<lb n="450"/>Mit vorbehalt gebierrender straffen. 
+</p>
+        <p><lb n="451"/>Zum achten. So findt man in alten polecey ordnungen  
+<lb n="452"/>unnd gebnen kayserlichen bevelch unnd deßen newlichen  
+<lb n="453"/>widerumben ernewerung, das niemandt über siben  
+<lb n="454"/>uhren gegen nacht in würzheusern verthuenlichen zächen  
+<lb n="455"/>unnd trinckhen solle. 
+</p>
+        <p><lb n="456"/>Item unnd das kainer den andern zu überflüßigen  
+<lb n="457"/>trunckh anraizen unnd tringen sollen, deraußen unzucht  
+<lb n="458"/>ervolgen möchte. 
+</p>
+        <p><lb n="459"/>Zudeme unnd das khainer über 5 lb. d. beim würt  
+<lb n="460"/>nit ausschlagen solle, alles bey peen ainer herrschafft  
+<lb n="461"/>zu straff. 
+</p>
+        <p><lb n="462"/>Wann dann dises vorgehandt punchten khain newes, sonnder ain alter prauch, so  
+<lb n="463"/>soll er billich auch gehalten werden. 
+</p>
+        <p><lb n="464"/>Zum neundten. Würt mit urtl unnd recht  
+<lb n="465"/>erkhenndt, auch die geschwornnen beaidiget, alle  
+<lb n="466"/>frevelbar sachen anzuzaigen schuldig unnd ainem herrn  
+<pb facs="lub-media-1059" n="20"/>
+<lb n="467"/>mit recht gebiert, solche nambhaffte unnd be
+<lb break="no" n="468"/>sezte straffen einzunemen, wie von altem her auch 
+<lb n="469"/>breuchig ist, aber auß gnedigem mitleiden wir  
+<lb n="470"/>vilmalen unnd iederzeyt ettwan für drey pfundt  
+<lb n="471"/>ain pfundt. Item ettwan in andern freveln für 10 lb.,   
+<lb n="472"/>20 lb., biß uf die vierzig pfundt, außgenomen  
+<lb n="473"/>malefiz, mit deme es sein beschaidenhait etc. allwegen  
+<lb n="474"/>dergleichen mitlerung gebraucht, da doch der völlige  
+<lb n="475"/>straf unwiderrüefflichen man unns zuerlegen schuldig. 
+<lb n="476"/>Aber weyl man den alten brauch in anderm haben will,  
+<lb n="477"/>so will unns auch gebiern, dises zu unnserm vortl  
+<lb n="478"/>auch zuhalten. 
+</p>
+        <p><lb n="479"/>Zum zehennden. So seind in crafft obgemelts urbars  
+<lb n="480"/>die von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> brennholz zu der mülli zu  
+<lb n="481"/>hawen unnd zu füren schuldig, dessen sy sich auch vor der  
+<lb n="482"/>zeyt gern verweigern wellen. Unnd wiewol man sy  
+<lb n="483"/>darmit so hoch nit beschwert, oder darauf getrungen, weyl  
+<lb n="484"/>sy aber die alten breuch also anrüeffen, solle der auch ge
+<lb break="no" n="485"/>halten werden.
+</p>
+        <p><lb n="486"/>Zum ainlifften. Ist clar unnd außtruckhenlichen in  
+<lb n="487"/>urbarn vorbehalten, wann ainer, oder mer unserer  
+<lb n="488"/>herrschafft underthonen von irn güetern, so sy von herrschafft  
+<lb n="489"/>umb zinß unnd lehen haben, seine ordenliche zinß ains  
+<pb facs="lub-media-1060" n="21"/>
+<lb n="490"/>iedtwedern jars nit außrichten unnd raichen thut,  
+<lb n="491"/>das ain herr umb nit bezalung solcher zinßen sein lehen,  
+<lb n="492"/>oder zinßbar guth haim zenemen macht hat. Welches  
+<lb n="493"/>nun vil jar her nie gehalten unnd alberait dern extanzen  
+<lb n="494"/>vil ausstennd. Sodann sy, die underthonen, in  
+<lb n="495"/>iren fürnemen unnd alten breuchen, so steif sein wellen,  
+<lb n="496"/>hat ain herr sich solches punctens dem urbar gemäs  
+<lb n="497"/>auch zuhalten, undt gedachter zin giet felig zu zehen. 
+</p>
+        <p><lb n="498"/>Zum zwelfften. Ist neben bemelten urbarn bey den  
+<lb n="499"/>alten herrn und noch heutigs tags verbotten unnd in  
+<lb n="500"/>stertiger üebung gehalten. Wann ainer oder mer  
+<lb n="501"/>in frevelbarer sachen ainer dem andern zugevallen, oder  
+<lb n="502"/>wie man spricht, rottiert, oder partheyet, das solch  
+<lb n="503"/>rottiern unnd partheyen bey hoher straf leibs und guts  
+<lb n="504"/>verbotten. Also villmer befindt man, so vor jarn  
+<lb n="505"/>ain auflauff, oder sonnsten haimliche angestelt pratic  
+<lb n="506"/>zu rottieren unnd ainem herrn zuwider sezen, zuetruege,  
+<lb n="507"/>das alßdann ain herr solches seines gevallens, wie erstbe
+<lb break="no" n="508"/>melt, an leib unnd guth zu straffen macht habe, ohne alle 
+<lb n="509"/>einred. 
+</p>
+        <p><lb n="510"/>Also auch seind alle des <orgName ref="lub-actors-516">Römischen Reichs</orgName> poleceyordnung  
+<lb n="511"/>zuerhaltung ainigchait unnd fryden der landtschafft  
+<lb n="512"/>sazung constituiert. Dergleichen aufruor unnd  
+<pb facs="lub-media-1061" n="22"/>
+<lb n="513"/>haimliche practicen ohne merckhlichen peen nit nachzu
+<lb break="no" n="514"/>laßen, sonnder vermög derselbigen poitischen sazungen 
+<lb n="515"/>ainem iedtweden herrn, yhe der gebier nach, zu straffen  
+<lb n="516"/>anbevelchen unnd zugelassen.  
+</p>
+        <p><lb n="517"/>Wann dann die alhiege herrschafft <placeName ref="lub-places-7">Vaduz</placeName> underthonen  
+<lb n="518"/>in solchem fahl mit rottieren unnd zue ungehorsame ge
+<lb break="no" n="519"/>meert, unnd darmit wider solche politische reichscon
+<lb break="no" n="520"/>stitutionen gehanndlt. Solle unns billich mit inen obge
+<lb break="no" n="521"/>hörter massen mit peen zu volfarn vervallen unnd vorbehalten 
+<lb n="522"/>sein. 
+</p>
+        <p><lb n="523"/>Zum dreyzehennden. Ist lauter unnd clar, auch niergennz  
+<lb n="524"/>zu finden, das umb ainigen frondienst, so sy der herrschafft  
+<lb n="525"/>zethun schuldig, man inen an gelt ainige belonung zegeben  
+<lb n="526"/>verbunden say, unnd anderst nit zuvermuten, dann was  
+<lb n="527"/>man inen bißher an gelt geben, solches merer theils auß gnaden  
+<lb n="528"/>beschehen seye. 
+</p>
+        <p><lb n="529"/>Des essens halber aber beschieht bey allen frondiennsten ge
+<lb break="no" n="530"/>bierliche meldung, mas unnd ordnung. Aber des gelts 
+<lb n="531"/>halber, würt wie vermelt nichz anzaigt, also wie begert  
+<lb n="532"/>sollen die alten breuch unnd urbar nach gestelt und gehalten  
+<lb n="533"/>werden. 
+</p>
+        <p><pb facs="lub-media-1062" n="23"/><lb n="534"/>Vermerckht die statuten, wie man  
+<lb n="535"/>die weinzürlin zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-79">Trysen</placeName>  
+<lb n="536"/>die reben verleicht. 
+</p>
+        <p><lb n="537"/>Item die weinzürli zu <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-79">Trysen</placeName> sollen jerlich  
+<lb n="538"/>die reben nach <date when="--02-02">unnser lieben frawen tag zu Liechtmeß</date>  
+<lb n="539"/>unnd zu guter zeyt schneiden, unnd sollen mit dem schneiden  
+<lb n="540"/>holz an reben lon, wie die gemainen nachpürn daran  
+<lb n="541"/>in irn aignen weingarten lond. 
+</p>
+        <p><lb n="542"/>Zum andern. Wann sie gruobendt, so sollen sy die  
+<lb n="543"/>gruob reben trewlich legen undn den weitinen in den wein
+<lb break="no" n="544"/>gärten wol acht haben, das sy holz im lob darnach laßendt 
+<lb n="545"/>ston, das man in die weitinen gruben khönne. Unnd sollen die  
+<lb n="546"/>gruob zain über das erdtrich dermassen ziehen, das sy das erdt
+<lb break="no" n="547"/>rich nit verdeckhi.
+</p>
+        <p><lb n="548"/>Zum dritten. Sollen sy die stieckel an beeden orten spizen,  
+<lb n="549"/>welcher so lanng ist, das er zwen spiz mag geben. 
+</p>
+        <p><lb n="550"/>Zum vierten. Wann man die weingarten  
+<lb n="551"/>hat, sollen die weinzürli fürderlich stossen unnd stockh  
+<lb n="552"/>banden. 
+</p>
+        <p><lb n="553"/>Zum fünfften. Sollen die mann selb erbrechen und sollen zu  
+<lb n="554"/>samt <date when="--06-24">Johanns teuffers tag</date> erbrochen haben. 
+</p>
+        <p><pb facs="lub-media-1063" n="24"/><lb n="555"/>Zu dem sechßten. Solle sye die reben zusamt  
+<lb n="556"/><date when="--07-25">Jacobs tag</date> aufgehefft haben. 
+</p>
+        <p><lb n="557"/>Zu dem sibennden. Soll das erst yetten vor dem er
+<lb break="no" n="558"/>brechen unnd zu guten zeyten unnd wetter beschehen, 
+<lb n="559"/>unnd das annder yett soll darnach uf <date when="--08-15">unnßer lieben Frawen  
+<lb n="560"/>tag im Augsten</date> beschehen sein. 
+</p>
+        <p><lb n="561"/>Zum achten. Sollen die weinzürli alle werch in den  
+<lb n="562"/>weingärten bey gutem wetter unnd zeyten und trew
+<lb break="no" n="563"/>lich werchen bey den glübten, so yeder darumb aydts weis 
+<lb n="564"/>jerlich thut. 
+</p>
+        <p><lb n="565"/>Item zum neundten. Wann man die weinzürli  
+<lb n="566"/>haißt, die zeun zuverdornnen, so sollen sy es fürderlich  
+<lb n="567"/>thuen unnd man inen am morgen ain suppen, und wann  
+<lb n="568"/>sy gräch seind, soll man inen den ymbis geben. 
+</p>
+        <p><lb n="569"/>Zum zehenden. Soll khain weinzürli, noch ire weiber, noch  
+<lb n="570"/>kinder, noch ehalten gar khain yett auß den weingärten  
+<lb n="571"/>tragen, sollen auch die alten stickhel auf ain ort legen.  
+<lb n="572"/>Unnd yeder weinzürn die ainem vogt, oder den er darzue  
+<lb n="573"/>verordnet anzaigen. Welche dann ainem haim zutragen  
+<lb n="574"/>auf ir besehen erlaubt werden, die mag ainer haimtragen.  
+<lb n="575"/>Welcher aber der stuckhen aines überfhuer unnd nit hielte,  
+<pb facs="lub-media-1064" n="25"/>
+<lb n="576"/>solle von ieder fahrt solches benüzen mit 5 ß. d. unab
+<lb break="no" n="577"/>leßlich.
+</p>
+        <p><lb n="578"/>Unnd gibtmein gnediger herr jegclichen weinzürli  
+<lb n="579"/>von ainem weingart bett zu <placeName ref="lub-places-1">Vaduz</placeName> bawlon 4 lb. d.  
+<lb n="580"/>unnd 1 schöffel waißen, unnd hat ain ieder zu dem bett,  
+<lb n="581"/>das er bawt, ettliche gelegne güeter nach laut des urbars  
+<lb n="582"/>davon sollen yedem zway fiertl waissen an dem schöffel  
+<lb n="583"/>weißen abzogen werden. 
+</p>
+        <p><lb n="584"/>Unnd von iedtwedern weingarten zu Drysen bawlon  
+<lb n="585"/>4 lb. 10 ß. 
+</p>
+        <p><lb n="586"/>Zu den dreyen hochzeitlichen tagen soll man ainem ieden  
+<lb n="587"/>weinzürli zu dem ymbis laden. 
+</p>
+        <p><lb n="588"/>Solches alles wie von alter herkhomen ist, trewlich und  
+<lb n="589"/>ungevarlich gehalten werden. 
+</p>
+        <p><pb facs="lub-media-1065" n="26"/><lb n="590"/>Vermerckht der tagwan diensten der  
+<lb n="591"/>herrschafft weingarten samentlich unnd  
+<lb n="592"/>sonnders mit nachvolgennden worten. 
+</p>
+        <p><lb n="593"/>Item welcher hinder meinem gnedigen herrn  
+<lb n="594"/><placeName ref="lub-places-71">Balzner</placeName> kilchspel sizt, es sey aigne leut oder  
+<lb n="595"/>hindersessen, die seind ainem herrn schuldig alle  
+<lb n="596"/>jar jerlichen am früeling ain fuder mist in seiner  
+<lb n="597"/>gnaden undern weingarten zu <placeName ref="lub-places-79">Trysen</placeName> zu anndtwurten. 
+</p>
+        <p><lb n="598"/>Item darzue sollen die von <placeName ref="lub-places-71">Balzers</placeName> gedachten weingarten  
+<lb n="599"/>zu <placeName ref="lub-places-79">Trysen</placeName> hawen unnd gruoben, da soll man inen  
+<lb n="600"/>zu essen geben, wie gebreuchlich. 
+</p>
+        <p><lb n="601"/>Mer sollen die in <placeName ref="lub-places-71">Balzner</placeName> kilchspel sovil man stickhl  
+<lb n="602"/>in den undern weingarten zu <placeName ref="lub-places-79">Trysen</placeName> braucht,  
+<lb n="603"/>jerlichen schuldig sein darein zu füren. 
+</p>
+        <p><lb n="604"/>Mer seind sy schuldig denselben andern weingarten  
+<lb n="605"/>jerlichen allenthalben wol zuverzeunen unnd soll  
+<lb n="606"/>auch den treffer, so auß dem undern weingarten  
+<lb n="607"/>in den torggl, unnd dem wein auß dem torggel in  
+<lb n="608"/>das <placeName ref="lub-places-33">schloß Vaduz</placeName> jerlich zu füeren unnd zu anndtwurten  
+<lb n="609"/>schuldig sein. Da soll man inen zu essen geben. 
+</p>
+        <p><lb n="610"/>Item die in <placeName ref="lub-places-71">Balzner</placeName> kilchspel in dem undern weingarten  
+<lb n="611"/>zu <placeName ref="lub-places-79">Trysen</placeName>, jerlich als obsteet, ze thun schuldig sein, das seind  
+<lb n="612"/>alle die im dorf zu <placeName ref="lub-places-79">Trysen</placeName> geseßen, ainem herrn mit  
+<pb facs="lub-media-1066" n="27"/>
+<lb n="613"/>dem obern weingarten zu <placeName ref="lub-places-79">Trysen</placeName>, auch jerlich schuldig  
+<lb n="614"/>zethun. 
+<lb n="615"/>Dargegen sollen sye mit essen gehalten werden, wie  
+<lb n="616"/>oberzelt. 
+</p>
+        <p><lb n="617"/>Weyter die <placeName ref="lub-places-1">Vaduzer</placeName> unnd <placeName ref="lub-places-53">Schaner</placeName>, der ist ainem hern  
+<lb n="618"/>jerlich schuldig ain fuder mist in ainer herrschafft  
+<lb n="619"/>weingarten zegeben unnd zufüren schuldig, wie von  
+<lb n="620"/>alter heer. 
+</p>
+        <p><lb n="621"/>Mer seind sy schuldig, ainem herrn jerlich stickhel ruchen,  
+<lb n="622"/>die sollen sy füren. 
+</p>
+        <p><lb n="623"/>Weyter seind sy schuldig dorinnen zu gruben unnd  
+<lb n="624"/>hawen. Doch soll man inen zu essen geben, wie von alter her. 
+</p>
+        <p><lb n="625"/>Mer seind die von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> schuldig, jerlich den  
+<lb n="626"/>wein auß dem torggel auf das <placeName ref="lub-places-33">Schloß Vaduz</placeName> ze füren,  
+<lb n="627"/>auch die weingärten zu verzeunen. Daran sollen  
+<lb n="628"/>inen zu essen geben werden. 
+</p>
+        <p><lb n="629"/>Weyter seind die von <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> prennholz zu  
+<lb n="630"/>der mülli zu füren unnd zu hawen schuldig.  
+</p>
+        <p><lb n="631"/>Item die <orgName ref="lub-actors-941">Walser</orgName> abm <placeName ref="lub-places-41">Trysnerberg</placeName> seind schuldig,  
+<lb n="632"/>mit zymerholz unnd beholzung, auch dergleichen andern  
+<lb n="633"/>frondiensten zu hawen unnd zu füren, das man es mit deren  
+<lb n="634"/>wagen oder redingen holen unnd füren mag, doch soll inen  
+<lb n="635"/>zu essen geben werden, wie recht. 
+</p>
+        <p><pb facs="lub-media-1067" n="28"/><lb n="636"/>Das alles unnd iedes annders wellen wir doch zu  
+<lb n="637"/>mindern, zu meren, zu verbessern, oder abzuthun, iederzeyt  
+<lb n="638"/>der gelegenhait unnd ervorderung der notturfft nach,  
+<lb n="639"/>in allweg unnsers gevallenns gennzlichen vorbehalten haben etc. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1068" n="1"/><lb n="1"/>Beandtworttung und resolution 
+<lb n="2"/>des herrn <persName ref="lub-actors-13">Carl Ludwig graffen  
+<lb n="3"/>zu Sultz</persName>, über der <placeName ref="lub-places-7">Vaduzer</placeName>  
+<lb n="4"/>herrschafft unterthaner zu  
+<lb n="5"/>berg und thall vorgebrachte  
+<lb n="6"/>beschwerden und puncten. 
+<lb n="7"/>De dato 9. januarii 1589 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

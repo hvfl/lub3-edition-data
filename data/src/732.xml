@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-732">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Altarweihe der Kapelle St. Maria in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-723">LI-PfAT, U 9</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 20. Juli 1513 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition und Übersetzung: Frommelt, Rippenbecher, S. 251, Anm. 14.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Stefan Tschuggli, Bischof von Belline und Generalvikar des Churer Bischofs Paul Ziegler, weiht in der Kapelle St. Maria in Triesen, gelegen nahe dem Rhein, einen Altar auf der rechten Seite den Heiligen Anna, Johannes dem Täufer, Georg, Christophorus sowie der Heiligen Ursula und ihren Gefährtinnen. Wer an den Gedenktagen dieser Heiligen oder an der Kirchweihe die Kapelle besucht und die Messe hört oder die Kapelle auf eine andere Weise unterstützt, erhält einen Ablass von 40 Tagen für schwere und von 100 Tagen für leichte Vergehen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2271">Tschuggli, Stefan</persName>
+          <date when="1513-07-26">26. Jul 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_86-0001.jpg" xml:id="lub-media-557" source="u-086.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_86-0002.jpg" xml:id="lub-media-1492" source="u-086-v.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2481" n="1"/><lb n="1"/>Nos, frater <persName ref="lub-actors-2271">Steffanus</persName>, <orgName ref="lub-actors-2342">ordinis predicatorum</orgName>, dei et apostolice sedis gratia episcopus <placeName ref="lub-places-687">Bellinensis</placeName>, 
+<lb n="2"/>reverendissimi incristo patris et domini, domini <persName ref="lub-actors-813">Pauli</persName>, eadem gratia electi et confirmati ecclesie 
+<lb n="3"/><placeName ref="lub-places-102">Curiensis</placeName>, inpontificalibus vicarius generalis, recongnoscimus per presentes, quod sub 
+<lb n="4"/><date when="1513-07-26">anno domini millesimoquingentesimo decimotercio mensis autem julii die vicesima 
+<lb n="5"/>sexta</date> consecravimus unum altare indextro latere <placeName ref="lub-places-183">ecclesie seu capelle sancte 
+<lb n="6"/>et gloriose virginis Marie</placeName> in <placeName ref="lub-places-79">Trysenn</placeName> prope <placeName ref="lub-places-103">Renum</placeName> inhonore sancte <persName ref="lub-actors-2344">Anne</persName>, 
+<lb n="7"/>matris gloriose virginis <persName ref="lub-actors-2343">Marie</persName>, sanctorum <persName ref="lub-actors-2345">Johannis baptiste</persName>, <persName ref="lub-actors-2346">Georgii</persName>, <persName ref="lub-actors-2347">Cristofferi</persName>, 
+<lb n="8"/>martyrum, et sancte <persName ref="lub-actors-2265">Ursule</persName> et sodalium eius. Nos vero omnibus vere confitentibus, 
+<lb n="9"/>confessis et contritis, qui infestivitatibus patronorum altarium prenominati ac eciam in 
+<lb n="10"/>dedicatione ipsius ecclesie eandem devote visitaverint et ibidem divinum officium audierint 
+<lb n="11"/>seu alias ad capellam et altare huiusmodi legaverint aut manus porrexerint adiutrices, 
+<lb n="12"/>nos de omnipotentis dei misericordia, beatorum <persName ref="lub-actors-2348">Petri</persName> et <persName ref="lub-actors-2349">Pauli</persName> apostolorum et patronorum 
+<lb n="13"/>predictorum eius auctoritate confisi, quadraginta dies criminalium et centum venialium 
+          <lb n="14"/>peccatorum iunctis<note>Wohl verschrieben für: iniunctis.</note> de eis penitenciis misericorditer indomino relaxamus. Datum et 
+<lb n="15"/>actum die, loco, quibus supra, sub nostr<unclear>o</unclear> pontifical<unclear>i</unclear> sigillo presentibus subappenso. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2482" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
