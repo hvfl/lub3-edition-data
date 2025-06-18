@@ -12,10 +12,16 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Diese Urkunde ist das Insert der Urkunde LI-GAT, U 42</p>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-719">LI-LA, U 65</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / 2 Siegel: 1. fehlt, 2. aufgedrückt (Editionsvorlage)</witness>
-          <witness xml:id="B">B: Kopie (Abschrift), Signatur: LI-PfABe, A 27/12 (<orgName corresp="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>)</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-719">LI-LA, U 65</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. fehlt, 2. aufgedrückt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-534">LI-GAT, U 42</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Entstehungszeitraum: 11. November 1610 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1121">LI-PfABe, A 27/12</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Papier, 7 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -40,8 +46,10 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="li-la,_u_65-0001.jpg" xml:id="lub-media-1495" source="u-65-r-600ppi.jpg" corresp="A"/>
-    <graphic url="li-la,_u_65-0002.jpg" xml:id="lub-media-1496" source="u-65-v-600ppi.jpg" corresp="A"/>
+    <graphic url="li-la,_u_65-0001.jpg" xml:id="lub-media-1495" source="u-65-r-600ppi.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_65-0002.jpg" xml:id="lub-media-1496" source="u-65-v-600ppi.jpg" corresp="A1"/>
+    <graphic url="li-gat__u_42-0002.jpg" xml:id="lub-media-2427" source="gat-u-042-v.jpg" corresp="A2"/>
+    <graphic url="li-gat__u_42-0002.jpg" xml:id="lub-media-2428" source="gat-u-042-r-klein.jpg" corresp="A2"/>
   </facsimile>
   <text>
     <body>
