@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-06-18T19:22:17+02:00 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-06-20T17:43:17+02:00 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -31,6 +31,10 @@
                     <org xml:id="de-ffa-donaueschingen">
             <orgName xml:lang="de">Fürstlich Fürstenbergisches Archiv, Donaueschingen</orgName>
             <abbr>DE-FFA Donaueschingen</abbr>
+          </org>
+                    <org xml:id="ch-stazh">
+            <orgName xml:lang="de">Staatsarchiv Zürich</orgName>
+            <abbr>CH-StAZH</abbr>
           </org>
                     <org xml:id="at-vla">
             <orgName xml:lang="de">Vorarlberger Landesarchiv, Bregenz</orgName>
@@ -100,6 +104,10 @@
             <orgName xml:lang="de">Staatsarchiv St. Gallen</orgName>
             <abbr>CH-StASG</abbr>
           </org>
+                    <org xml:id="li-pfae">
+            <orgName xml:lang="de">Pfarrarchiv Eschen</orgName>
+            <abbr>LI-PfAE</abbr>
+          </org>
                     <org xml:id="li-aav">
             <orgName xml:lang="de">Alparchiv Vaduz</orgName>
             <abbr>LI-AAV</abbr>
@@ -112,7 +120,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2025-06-18T19:22:17+02:00">teiHeader was automatically produced by get-anton-data.sh 2025-06-18T19:22:17+02:00</change>
+      <change when="2025-06-20T17:43:17+02:00">teiHeader was automatically produced by get-anton-data.sh 2025-06-20T17:43:17+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

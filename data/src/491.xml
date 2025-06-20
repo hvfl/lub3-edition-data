@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-491">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Klage von Schaan und Vaduz gegen Sevelen wegen Wuhrbauten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-491">LI-GAS, U 12</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 29. August 1596 / Beschreibstoff: Papier</witness>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1154">LI-LA, RA 41/03/08</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="http://www.e-archiv.li/D42826">e-archiv.li</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Vertreter der Gemeinden Vaduz und Schaan begründet gegenüber den Zugesetzten den Standpunkt dieser Gemeinden im Konflikt mit der Gemeinde Sevelen. Die Seveler hätten wiederholt gegen die vertraglich festgelegten Verfahren beim Wuhrbau verstossen. So hätten sie in der Fastenzeit 1594 unter dem Vorwand, eine Fischfangvorrichtung zu bauen, ein festes Wuhr errichtet und zudem ein altes Schiff am Ufer befestigt, wodurch der Rhein zum grossen Schaden der Vaduzer und Schaaner an deren Ufer gelenkt worden sei. Zwar hätten die Seveler dieses Wuhr teilweise zurückgebaut, ein früher erbautes Wuhr, das, wie sich bei einem Augenschein herausgestellt habe, zu gross sei, aber belassen. Schliesslich hätten sich die Seveler beim Bau eines neuen Wuhrs nicht an den Schiedsspruch der beiden Landvögte der Grafschaften Vaduz und Werdenberg, Peter Christoph Schlabatius und Dietrich Weiss von Glarus, gehalten, sondern es so erstellt, dass der Rhein beim Dorf Vaduz viel Land weggeschwemmt habe. Dass die Vaduzer und Schaaner ein Gegenwuhr erstellten hätten, sei angesichts des Vertragsbruchs der Seveler gerechtfertigt gewesen. Angesichts dieser Sachlage hofften die Vaduzer und Schaaner, dass den Sevelern den Abbruch des Wuhrs befohlen werde, ihnen hingegen gestattet werde, das ihrige stehen zu lassen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-432">lett</term>
+          <term ref="lub-keywords-433">kopf(wuer)</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-434">krum(wuer)</term>
+          <term ref="lub-keywords-421">Naturgefahr</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-367">fach</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1596-08-29">29. Aug 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2218" source="gas-u-12-08-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2219" source="gas-u-12-07-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2220" source="gas-u-12-06-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2221" source="gas-u-12-05-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2222" source="gas-u-12-04-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2223" source="gas-u-12-03-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2224" source="gas-u-12-02-klein.jpg" corresp="A"/>
+    <graphic url="li-gas__u_12-0002.jpg" xml:id="lub-media-2225" source="gas-u-12-01-klein.jpg" corresp="A"/>
+    <graphic url="li-la__ra_41_03_08-0001.jpg" xml:id="lub-media-2862" source="li-la-ra-41-03-08-1-klein.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_03_08-0002.jpg" xml:id="lub-media-2863" source="li-la-ra-41-03-08-2-klein.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_03_08-0003.jpg" xml:id="lub-media-2864" source="li-la-ra-41-03-08-3-klein.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_03_08-0004.jpg" xml:id="lub-media-2865" source="li-la-ra-41-03-08-4-klein.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_03_08-0005.jpg" xml:id="lub-media-2866" source="li-la-ra-41-03-08-5-klein.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2225" n="1"/><lb n="1"/>Edle, veste, hochgelert und ernveste, sonders 
+<lb n="2"/>günstige liebe herren und guete 
+<lb n="3"/>freundt, vor denselben erschein 
+<lb n="4"/>ich an statt und innamen deß hochwolgebornnen, mines genedigen herrn, underthanen einer ersamen gemaindt baider dörffer <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> und bring reconvention clags weiß für gegen 
+<lb n="5"/>und wider die gantze gemaindt 
+<lb n="6"/>deß dorfs <placeName ref="lub-places-147">Sevelen</placeName>, in der grafschafft 
+<lb n="7"/><placeName ref="lub-places-73">Werdenberg</placeName> gelegen, mit vorbehalt 
+<lb n="8"/>aller und jeder rechtlicher noturfft, 
+<lb n="9"/>insonderhait mit überflüßiger 
+<lb n="10"/>beweißung unbeladen zusein, 
+<lb n="11"/>auch gemainlich alles, dessen ich mir 
+<lb n="12"/>bedingen oder vorbehalten solle, 
+<lb n="13"/>unnd sage demnach: Obwoln in etlich 
+<lb n="14"/>underschidlichen verträgen, in
+<lb break="no" n="15"/>sonderhait aber einem, wellicher
+<lb n="16"/>in anno <date when="1535">1535</date><note>Randvermerk: Anno 1535, 1562, 1582.</note> ufgerichtet worden, 
+<lb n="17"/>zuerhaltung guter nachbarschafft 
+<lb n="18"/>und fridliebender ainigkait 
+<lb n="19"/>notwendiglich fürkommen und 
+<lb n="20"/>versehen ist, daß wo die von 
+<lb n="21"/><placeName ref="lub-places-147">Sevelen</placeName> wuorens bedürfftig 
+<lb n="22"/>weren und sich deßelbigen mit 
+<lb n="23"/>denen von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> nit 
+<lb n="24"/>verainigen möchten, daß bei iren 
+<lb n="25"/>beiderseits obrigkaiten solle 
+<lb n="26"/>angeruoffen werden, sye darumben 
+<lb n="27"/>fürderlich zuentschaiden, wo aber  
+<lb n="28"/>gleichwol die obrigkaiten also 
+<lb n="29"/>zusamen kommen und doch auch 
+<lb n="30"/>nit verglichen werden möchten, 
+<lb n="31"/>daß jedes thail 2 oder 3 unpar
+<lb break="no" n="32"/>teyische menner zu sich ziehen,
+<lb n="33"/>umb sye, stritige parteyen, in der 
+<lb n="34"/>güete oder rechtlich zuentschaiden, 
+<lb n="35"/>und wie sy es machen, daß es 
+<lb n="36"/>dabei ungewaigert bleiben solle. 
+<lb n="37"/>Item, gleichfals ist durch  
+<lb n="38"/>verträg in annos <date when="1562">1562</date>, <date when="1582">1582</date><note>Randvermerk: 2. Anno 1582. In simili 1. Anno 1562.</note> statuirt 
+<lb n="39"/>und geordnet worden, daß kain 
+<lb n="40"/>thail one deß andern wüßen 
+<lb n="41"/>und rechtliche oder güetliche er
+<lb break="no" n="42"/>khandtnus der wuormaister
+<lb n="43"/>oder baider herrschafften landtvögt 
+<lb n="44"/>wuoren solle, bei straff 14 lb d,  
+<pb facs="lub-media-2224" n="2"/>
+<lb n="45"/>davon die halb straff der oberkait, 
+<lb n="46"/>darinn die straffbar oder brüchig 
+<lb n="47"/>partei geseßen, und der ander 
+<lb n="48"/>halb theil den wuormaistern zu
+<lb break="no" n="49"/>stendig und gehörig sein solle,
+<lb n="50"/>sambt andern mer articuln, 
+<lb n="51"/>die zuerhaltung guten nachbarlichen 
+<lb n="52"/>willens ufgerichtet und für 
+<lb n="53"/>augen gestelt worden. 
+</p>
+        <p><lb n="54"/>Dessen alles aber unangesehen die 
+<lb n="55"/>gedachten von <placeName ref="lub-places-147">Sevelen</placeName> in anno der 
+          <lb n="56"/>wenigern zal <date to="1594-04-09" from="1594-02-23">94 in der fasten</date><note>Randvermerk: Anno 94.</note>
+<lb n="57"/>zugefaren, alß sy gespürt und be
+<lb break="no" n="58"/>sorget, daß sich der <placeName ref="lub-places-103">Reyn</placeName> etwas
+<lb n="59"/>uf ir seiten lenden werde, und 
+<lb n="60"/>haimlicher, stillschweigender weiß 
+<lb n="61"/>ein gantz vesstes, wol underbauwes 
+<lb n="62"/><term ref="lub-keywords-367">vach</term> von starckhen eingeschlagnen 
+<lb n="63"/>pfälen und darein geflochtenen 
+<lb n="64"/>gerten an dem ort, alda der 
+<lb n="65"/><placeName ref="lub-places-103">Reyn</placeName> seinen einlauff nemmen 
+<lb n="66"/>wellen und unserseits grund und 
+<lb n="67"/>boden ist, gemachet under dem 
+<lb n="68"/>schein, alß wolten sy daselbsten 
+<lb n="69"/>ein vischfang anstellen und, 
+<lb n="70"/>daß noch frembder zuhören, auch 
+<lb n="71"/>gantz unnachbarlich ist, gleich ob 
+<lb n="72"/>demselbigen bevestigten <term ref="lub-keywords-367">vach</term> 
+<lb n="73"/>ein alt schiff<note>Randvermerk: Schiflin petreffend.</note> an einen erlenbaum 
+<lb n="74"/>gebunden, daß waßer damit  
+<lb n="75"/>zuschupfen. Was es nun für ein 
+<lb n="76"/>gestalt damit gehabt, ist wol 
+<lb n="77"/>zu erachten. Unnd also durch 
+<lb n="78"/>diße baide unerlaubte mittel 
+<lb n="79"/>der <placeName ref="lub-places-103">Reyn</placeName> im selbigen <date when="1594-01-01"/><note>Randvermerk: 94te jar.</note>
+<lb n="80"/>alda, daß <term ref="lub-keywords-367">vach</term> gestanden, nit 
+<lb n="81"/>allain einen hochen <term ref="lub-keywords-432">lett</term> und sand 
+<lb n="82"/>geworffen, sondern auch mit 
+<lb n="83"/>einer sollichen ungestümmigkait 
+<lb n="84"/>auf unser seiten gefallen und 
+<lb n="85"/>geschwungen worden ist, dergleichen 
+<lb n="86"/>kaum erlebt oder gesehen 
+<lb n="87"/>unnd iren gnaden, unsrem gene
+<lb break="no" n="88"/>digen herrn, an dero oberherrlichkait,
+<pb facs="lub-media-2223" n="3"/>
+<lb n="89"/>auch hocher vorstlichen und aller der 
+<lb n="90"/>enden habender obrigkait, sowol 
+<lb n="91"/>alß denen von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> 
+<lb n="92"/>an iren auwen, wun, waidt, 
+<lb n="93"/>trib und tratt großer abbruch 
+<lb n="94"/>und schmelerung beschehen ist. 
+</p>
+        <p><lb n="95"/>Unnd ob man gleich lang gnug zuge
+<lb break="no" n="96"/>sehen, biß sy letst die pfäl von
+<lb n="97"/>dem jetz geclagten <term ref="lub-keywords-367">vach</term> oben abgezwickt 
+<lb n="98"/>und daß fundament im grundt 
+<lb n="99"/>und waßer gelaßen worden, 
+<lb n="100"/>so ist es doch darbei nit verbliben, 
+<lb n="101"/>sondern haben in <date when="1595-03-26">anno 95<note>Randvermerk: Anno 95.</note> nach den 
+<lb n="102"/>österlichen feyrtagen</date> einen neuwen 
+<lb n="103"/>wuorsatz begert, denen mann 
+<lb n="104"/>zu gefallen uf den augenschein kommen, 
+<lb n="105"/>unnd alß sich befunden, daß sy 
+<lb n="106"/>an einem alten, zuvor gemachten 
+<lb n="107"/>wuor nit ein geringes über die 
+<lb n="108"/>schnuor gefaren, ist inen ein 
+<lb n="109"/>stuckh von selbigem alten wuor 
+<lb n="110"/>zuschleißen ufferlegt worden. 
+<lb n="111"/>Unnd dann, alß die verordneten 
+<lb n="112"/>wuormaister deß begerten neuwen 
+<lb n="113"/>wuorsatzes halber in iren erkhandt
+<lb break="no" n="114"/>nußen zerfallen, haben vermög
+<lb n="115"/>der <supplied>d</supplied>arumben ufgerichten verträg 
+<lb n="116"/>baide landtvögt der graf
+<lb break="no" n="117"/>schafften <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-73">Werdenberg</placeName>,
+<lb n="118"/>mit namen <persName ref="lub-actors-253">Peter Christoph Schla
+<lb break="no" n="119"/>batz</persName>, der rechten doctor, und <persName ref="lub-actors-254">Dietrich
+<lb n="120"/>Weiß</persName> von <placeName ref="lub-places-72">Glarus</placeName>, zyl und 
+<lb n="121"/>marckhen, wie weit der <placeName ref="lub-places-147">Seveler</placeName> 
+<lb n="122"/>begerte wuorsatz solle erstreckt 
+<lb n="123"/>und gemachet werden, ainhelliglich 
+<lb n="124"/>gesteckt und verordnet. Darauf 
+<lb n="125"/>ist solliche erkhandtnus und zyl 
+<lb n="126"/>von baiden thailen, den ehgedachten 
+<lb n="127"/>von <placeName ref="lub-places-147">Sevelen</placeName> und dann denen 
+<lb n="128"/>von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schaan</placeName>, gutwillig 
+<lb n="129"/>angenommen worden, darüber 
+<lb n="130"/>man auch wider freundt- und 
+<lb n="131"/>nachbarlich voneinandern geschaiden. 
+</p>
+        <p><pb facs="lub-media-2222" n="4"/><lb n="132"/>Bald aber darnach haben die vilge
+<lb break="no" n="133"/>melten von <placeName ref="lub-places-147">Sevelen</placeName> sich eines anderen
+<lb n="134"/>bedacht unnd nit allain die 
+<lb n="135"/>aberkhandte <term ref="lub-keywords-433">köpf</term>, <term ref="lub-keywords-405">schüpf</term> und 
+<lb n="136"/><term ref="lub-keywords-434">krümbinen</term>, die sy von obgehörtem 
+<lb n="137"/>alten wuor schleißen sollen, gantz 
+<lb n="138"/>und unversert, gleich alß wolten 
+<lb n="139"/>sy die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> nach 
+<lb n="140"/>irem gefallen im zaum halten 
+<lb n="141"/>und zuboden richten, sten laßen, 
+<lb n="142"/>sundern auch noch darzue und 
+<lb n="143"/>gleich daran ein sollich frefenlich 
+<lb n="144"/>und unverantwurtliches wuor, 
+<lb n="145"/>gleich wie es inen gefellig und 
+<lb n="146"/>am fürtreglichisten geweßen, 
+<lb n="147"/>dermaßen geschlagen, bevestiget 
+<lb n="148"/>und erlengeret wider alle 
+<lb n="149"/>brief und sigill, und wir nicht, 
+<lb n="150"/>wie sy unß bezichtigen. Dardurch 
+<lb n="151"/>der <placeName ref="lub-places-103">Rein</placeName> mit einem sollichen un
+<lb break="no" n="152"/>gestümmen gewalt uf daß dorff
+<lb n="153"/><placeName ref="lub-places-1">Vadutz</placeName> hineingeschwungen worden, 
+<lb n="154"/>daß man zusehlichen grundt und 
+<lb n="155"/>boden mit großer vile müessen 
+<lb n="156"/>durch den fluß hinab faren laßen 
+<lb n="157"/>und sollicher unwiderbringlicher 
+<lb n="158"/>schad beschehen ist, wie laider 
+<lb n="159"/>die jenigen wüßen, die hiebevor 
+<lb n="160"/>dißes landts gelegenhait ersehen 
+<lb n="161"/>haben, daß meniglich, sonderlich 
+<lb n="162"/>aber die benachbarte, sich dises 
+<lb n="163"/>geüebten gewalts und frefenlicher 
+<lb n="164"/>handlung dagegen ab 
+<lb n="165"/>unserer großen gedult verwunderet. 
+<lb n="166"/>Nichts destoweniger aber haben sy, 
+<lb n="167"/>die von <placeName ref="lub-places-147">Sevelen</placeName>, stetigs daran 
+<lb n="168"/>gebauwen und niemanden ange
+<lb break="no" n="169"/>sehen.
+<lb n="170"/>Daentgegen, da wir sy uf unser vil
+<lb break="no" n="171"/>feltig und etlichen abgesandten herren
+<lb n="172"/>von <placeName ref="lub-places-72">Glarus</placeName> selbst gethanem zu
+<lb break="no" n="173"/>sprechen weder mit rechtbieten
+<pb facs="lub-media-2221" n="5"/>
+<lb n="174"/>noch anderem von dißem iren frefelichen 
+<lb n="175"/>vornemmen bringen mögen, 
+<lb n="176"/>haben wir außtruckhenlich prote
+<lb break="no" n="177"/>stirt und unß vorbehalten, uf den
+<lb n="178"/>künfftigen notfall ein gegen
+<lb break="no" n="179"/>wuor an gelegenen orten zuschlagen,
+<lb n="180"/>oder daß sy bei den ergangnen 
+<lb n="181"/>erkhandtnußen bleiben und 
+<lb n="182"/>denselben statt thun sollen. 
+<lb n="183"/>Weil aber deren kains verfangen 
+<lb n="184"/>mögen und die sachen oberzelter 
+<lb n="185"/>maßen in warhait beschaffen, 
+<lb n="186"/>so ist unlaugbaren rechtens, 
+<lb n="187"/>daß, wo zwo parteyen verträg 
+<lb n="188"/>und mitel, umb etwas zuhalten, 
+<lb n="189"/>gegeneinandern eingangen, 
+<lb n="190"/>daßelbig aber von einem 
+<lb n="191"/>thail gebrochen und darwider gethan 
+<lb n="192"/>würdet, der anderthail 
+<lb n="193"/>auch nit mer zuhalten schuldig sei. 
+<lb n="194"/>Dann bei ufrichtung obgehörter 
+<lb n="195"/>verträgen drei wesentliche stuckh 
+          <lb n="196"/>eingefüert worden:<note>Randvermerk: 1. Persona promittens. 2. Persona, cui promittitur. 3. Et istud quod promittitur, ubi alterum horum defuerit, inutilis est promissio nec obligat. <persName ref="lub-actors-2050">Bart.</persName> in l. 1 § 1 π[?] de pact.</note> Erstlichen 
+<lb n="197"/>sind geweßen baide parteyen, 
+<lb n="198"/>denen dise vergleichung beliebt 
+<lb n="199"/>und darumben zusamen kammen, 
+<lb n="200"/>zum andern, waß mann uf
+<lb break="no" n="201"/>richten und halten, und zum driten,
+<lb n="202"/>waß man zuhalten versprochen. Daß 
+<lb n="203"/>ist auch verabschidet, aber von denen 
+<lb n="204"/>von <placeName ref="lub-places-147">Sevelen</placeName> unnachbarlicher 
+<lb n="205"/>und trutziger weiß mit sonderem 
+<lb n="206"/>vleiß, unnachbarschafft zuerweckhen 
+<lb n="207"/>und unß schaden damit zuzefüegen, 
+<lb n="208"/>übersehen worden. Dagegen 
+<lb n="209"/>die unßrigen von <placeName ref="lub-places-1">Vadutz</placeName> und  
+<lb n="210"/><placeName ref="lub-places-53">Schan</placeName> großer unvermeidenlicher 
+<lb n="211"/>noturfft halber ein gegenwuor 
+<lb n="212"/>schlagen müeßen, dann ir, 
+<lb n="213"/>denen von <placeName ref="lub-places-147">Sevelen</placeName>, gemachtes wuor 
+<lb n="214"/>kain ansehen noch vermutung 
+<lb n="215"/>geben wellen, als wann sy gedechten, 
+<lb n="216"/>die ufgerichten vertragsbrief 
+<lb n="217"/>und sigill fürbas zuhalten, sondern nach 
+<pb facs="lub-media-2220" n="6"/>
+<lb n="218"/>irem gefallen zuwuoren, dabei aber 
+<lb n="219"/>nit bedacht daß gemain sprüchwort:<note>Randvermerk: Fallere fallentem fraudemque expellere fraude, exemploque licet ludere quemque suo.</note> 
+<lb n="220"/>Frangenti fidem, fides frangatur 
+<lb n="221"/>eidem, daß, wellicher erstlich 
+<lb n="222"/>den glauben oder das zusagen breche, 
+<lb n="223"/>daß ime auch nit möge glauben 
+<lb n="224"/>gehalten werden. Hetten also 
+<lb n="225"/>die ufgerichte verträg beßer 
+<lb n="226"/>in acht nemmen sollen, transactio 
+<lb n="227"/>enim non minorem vim habet quam 
+<lb n="228"/>res iudicata et transactio
+<lb break="no" n="229"/>nes semel receptae viribus subsistunt,
+<lb n="230"/>l. r. c. de transactionis,<note>Randvermerk: C. de transactionis.</note> dann, 
+<lb n="231"/>waß einmal von zwayen partheyen 
+<lb n="232"/>also ufgerichtet, angenommen und 
+<lb n="233"/>eingangen würdet, das soll 
+<lb n="234"/>so steiff gehalten werden, alß were 
+<lb n="235"/>ein urtel darumben ergangen, 
+<lb n="236"/>und kan auch nit mer wider
+<lb break="no" n="237"/>fochten oder gebrochen
+<lb n="238"/>werden, es woltens dann 
+<lb n="239"/>baide thail mit gutem willen 
+<lb n="240"/>thun. 
+</p>
+        <p><lb n="241"/>Unnd dißem nach werden die herren 
+<lb n="242"/>gnugs<gap/>lich <gap/><note>Die Abschrift in LI-LA, RA 41/03/08, hat: gnuegsamblich verstandten.</note> haben, daß 
+<lb n="243"/>die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> vilmer 
+<lb n="244"/>zu clagen alß sy, die von <placeName ref="lub-places-72">Glarus</placeName>, 
+<lb n="245"/>in namen irer underthanen, deren 
+<lb n="246"/>von <placeName ref="lub-places-147">Sevelen</placeName> und <placeName ref="lub-places-148">Bux.</placeName> Dann da 
+<lb n="247"/>sy, die von <placeName ref="lub-places-147">Sevelen</placeName>, erstlichen die 
+<lb n="248"/>aberkandte <term ref="lub-keywords-439">bückh </term>und <term ref="lub-keywords-434">krümbinen</term> 
+<lb n="249"/>hinweckh geschlißen, volgendts 
+<lb n="250"/>der baiden landtvögt erkhandt
+<lb break="no" n="251"/>nußen, die sy angenommen, volnzogen und den
+<lb n="252"/>anfang diser handlung nit ge
+<lb break="no" n="253"/>machet, so hett es auch unserseits
+<lb n="254"/>kaines wuorens bedörfft und 
+<lb n="255"/>were unß unsere wun 
+<lb n="256"/>und waiden nit allain unversert und un
+<lb break="no" n="257"/>weckh<unclear>g</unclear>eschwembt verbliben, sondern
+<lb n="258"/>auch die armen underthanen irer 
+<lb n="259"/>arbait außwarten könden, da sy  
+<pb facs="lub-media-2219" n="7"/>
+<lb n="260"/>sonsten dißen weg alle tag on under
+<lb break="no" n="261"/>laß auf der wuorfron sein
+<lb n="262"/>und das irig daheimbden faren, versumen 
+<lb n="263"/>und undergehn laßen müeßen, 
+<lb n="264"/>welches inen nit zue geringen 
+<lb n="265"/>unstatten kombt und sy, die 
+<lb n="266"/>von <placeName ref="lub-places-147">Sevelen</placeName>, auch ire weib und kinder 
+<lb n="267"/>damit betrüebt haben, zugeschweigen 
+<lb n="268"/>des daraus entstandnen schadens, 
+<lb n="269"/>der nimmer zuwiderbringen ist. 
+<lb n="270"/>Unnd also mit der <placeName ref="lub-places-1">Vadutzer </placeName>und 
+<lb n="271"/><placeName ref="lub-places-53">Schaner </placeName>neuwgeschlagnem gegen
+<lb break="no" n="272"/>wuor nit den verstandt hatt,
+<lb n="273"/>als hetten sy wellen der graf
+<lb break="no" n="274"/>schafft <placeName ref="lub-places-73">Werdenberg </placeName>an iren järlichen
+<lb n="275"/>einkommen oder denen von <placeName ref="lub-places-148">Bux </placeName>
+<lb n="276"/>etwas schmelerung oder schaden 
+<lb n="277"/>unnachbarlicher weis zufüegen, 
+<lb n="278"/>wie auch inen nit eines pfenings 
+<lb n="279"/>werth nachtail oder schaden 
+<lb n="280"/>darauß ervolget, sondern strackhs 
+<lb n="281"/>widerumb, als der augenschein 
+<lb n="282"/>mitbringt, auf unser seiten 
+<lb n="283"/>gefallen und die gantze zeit über 
+<lb n="284"/>alda gelegen ist, ursachen, daß 
+<lb n="285"/>diß landt hierüber unserer seiten 
+<lb n="286"/>vil niderer und anleger als 
+<lb n="287"/>uf irer seiten, und wir also den <gap/> 
+<lb n="288"/>re<gap/> all<gap/> 
+          <lb n="289"/>gr<gap/><note>Die Abschrift in LI-LA, RA 41/03/08, hat: <placeName ref="lub-places-103">Reyn</placeName> an allen orthen in der. graffschafft.</note> <placeName ref="lub-places-1">Vadutz</placeName> uf dem un
+<lb break="no" n="290"/>serigen ligen haben. Dennoch
+<lb n="291"/>laßen sy sich nit settigen. Unnd a<unclear>ber</unclear> 
+<lb n="292"/>sovil desto mer getrösten wir unß, 
+<lb n="293"/>daß denen von <placeName ref="lub-places-147">Sevelen</placeName> ufferlegt 
+<lb n="294"/>werde, ir ungebürlich, frefelich 
+<lb n="295"/>gemachte wuor aus dem grundt 
+<lb n="296"/>widerumb hinweckh zuthun, und 
+<lb n="297"/>das der <placeName ref="lub-places-103">Rein</placeName> seinen vorigen alten 
+<lb n="298"/>lauff gewinnen möge, und 
+<lb n="299"/>das unserig als ein notwendig 
+<lb n="300"/>wuor sten bleibe und noch weiter 
+<lb n="301"/>wuoren mögen, wo uns solte schaden 
+<lb n="303"/>aller <supplied>c</supplied>östen und schäden, darein 
+<lb n="304"/>sy uns gefüert. Unnd wellen 
+<lb n="305"/>es als<supplied>o</supplied> zue euweren der herren zusätzen, 
+<lb n="306"/>richter<supplied>lic</supplied>her erkhandtnus, ob es 
+<lb n="307"/>nit bi<supplied>ll</supplied>ich beschehen solle, gesezt, 
+<lb n="308"/>auch denen von <placeName ref="lub-places-148">Bux </placeName>dise nachantwurt 
+<lb n="309"/>geben haben, wann sy das wuor, das 
+<lb n="310"/>inen v<unclear>on</unclear> den unserigen an der graf 
+<lb n="311"/>zu machen <gap/>gandt, widerumb kürtzeren 
+          <lb n="312"/>und der grede nach dem hauß <placeName ref="lub-places-753">Sax</placeName>zurichten, 
+<lb n="313"/>das inen nichts weiters manglen. 
+<lb n="314"/>Und wellen wie bißhero ire getreuwe, 
+<lb n="315"/>liebe nachbauren sein und bleiben. 
+<lb n="316"/>Vorbehältlich etc. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2218" n="1"/><lb n="1"/>Gravammina oder kurtze 
+<lb n="2"/>clag articul 
+          <lb n="3"/>der gemaindt <placeName ref="lub-places-1">Va
+            <lb break="no" n="4"/>dutz</placeName> und <placeName ref="lub-places-53">Schaan</placeName>
+<lb n="5"/>wider 
+<lb n="6"/>die gemainden zue 
+          <lb n="7"/><placeName ref="lub-places-147">Sevelen</placeName> und <placeName ref="lub-places-148">Bux</placeName> 
+<lb n="8"/>wuorens wegen. 
+          <lb n="9"/>Dato <origDate when="1596-08-29">donnerstags den 29. 
+            <lb n="10"/>augusti anno etc. 96</origDate> 
+<lb n="11"/>vorgebracht. 
+<lb n="12"/>Loco reconventionis. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

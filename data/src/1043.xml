@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1043">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid zwischen Wartau einerseits und Balzers und Triesen andererseits betreffend Wuhren am Rhein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-1043">LI-GAT, 7/2/7</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 19. März 1607 / Beschreibstoff: Papier / Unterschriften von Hans Heinrich Holzhalb und Jost Schilter</witness>
+          <witness xml:id="A2">A2: Original, Signatur: CH-StAZH, A 343.1, Nr. 110 (<orgName corresp="ch-stazh" ref="lub-objects-16">Staatsarchiv Zürich</orgName>) / Originaldatierung: 19. März 1607</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Graber, Urkunden- und Siegelsammlung, Nr. 37</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Heinrich Holzhalb, Ratsherr, Statthalter und Pannerherr zu Zürich, derzeit Vogt im Freiamt, und Jost Schilter, Ratsherr und Altlandammann von Schwyz, entscheiden den Streit zwischen Wartau einerseits und Triesen und Balzers andererseits betreffend Wuhren am Rhein.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-404">strichwuer</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-968">Holzhalb, Hans Heinrich</persName>
+          <date when="1607-03-19">19. Mär 1607</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-969">Schilter, Jost</persName>
+          <date when="1607-03-19">19. Mär 1607</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__7_2_7-0001.jpg" xml:id="lub-media-2680" source="gat-7-2-7-1.jpg" corresp="A1"/>
+    <graphic url="li-gat__7_2_7-0002.jpg" xml:id="lub-media-2681" source="gat-7-2-7-2.jpg" corresp="A1"/>
+    <graphic url="li-gat__7_2_7-0003.jpg" xml:id="lub-media-2682" source="gat-7-2-7-3.jpg" corresp="A1"/>
+    <graphic url="li-gat__7_2_7-0004.jpg" xml:id="lub-media-2683" source="gat-7-2-7-4.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2680" n="1"/><lb n="1"/>In dem gespan zwüschendt einer gmeind  
+<lb n="2"/><placeName ref="lub-places-140">Wartauw</placeName>, deß kilchspils <placeName ref="lub-places-278">Gritschins</placeName>  
+<lb n="3"/>an einem, so dan den beden gemeinden <placeName ref="lub-places-71">Balsers</placeName>  
+<lb n="4"/>und <placeName ref="lub-places-79">Trisen</placeName> der herschafft <placeName ref="lub-places-7">Vadutz</placeName> habend  
+<lb n="5"/>sich die frommen, ehrenvesten, fürnemmen  
+<lb n="6"/>und weyssen herren <persName ref="lub-actors-968">Hanß Heinrich Holtzhalb</persName>,  
+<lb n="7"/>deß raths statthalter und panerherr der  
+<lb n="8"/>statt <placeName ref="lub-places-20">Zürich</placeName>, der zeyt landtvogt der  
+<lb n="9"/><placeName ref="lub-places-700">Fryen Aemptern deß Argows</placeName> und her  
+<lb n="10"/><persName ref="lub-actors-969">Jost Schilter</persName>, deß raths und alter landt
+<lb break="no" n="11"/>amman zu <placeName ref="lub-places-187">Schwytz</placeName>, alß in diser sach er
+<lb break="no" n="12"/>betten satz zu irem theil sich dessen er
+<lb break="no" n="13"/>lütert und erkent wie volget.
+</p>
+        <p><lb n="14"/>Daß namlich für das erst sy, die erzelten gmeinden   
+<lb n="15"/>söllendt bestan und verblyben by alten iren  
+<lb n="16"/>zuvor uffgerihten verträgen, brief und siglen,  
+<lb n="17"/>so sy zu allen theilen mit und nebent einandern  
+<lb n="18"/>uffgericht, also, das denselben durch hienach ge
+<lb break="no" n="19"/>setzte puncten nützit sol benommen noch 
+<lb n="20"/>denselbigen ingrif beschechen sye. 
+</p>
+        <p><lb n="21"/>Zum andern anlangendt, das nüw gemachte  
+<lb n="22"/>wur, so von denen von <placeName ref="lub-places-140">Wartauw</placeName> irer not
+<lb break="no" n="23"/>wendigkeit halber geschlagen worden, do aber 
+<lb n="24"/>die von <placeName ref="lub-places-79">Trisen</placeName> vermeindendt, sy dessen nit be
+<lb break="no" n="25"/>füegt, sonder söll widerum geschlissen werden, 
+<lb n="26"/>lassendt sy es alligklichen in der lenge, so  
+<lb n="27"/>wyt dasselbige angefangen und angeschlagen  
+<lb n="28"/>verblyben. Jedoch mit dem anhang, diewil  
+<lb n="29"/>sölches nach lut der verträgen nit in die  
+<pb facs="lub-media-2681" n="2"/>
+<lb n="30"/>gredi gricht, so sollendt die von <placeName ref="lub-places-140">Wartauw</placeName> das
+<lb break="no" n="31"/>selbige von dato diß biß künfftigen <date when="--06-24">sant 
+<lb n="32"/>Johannis deß heilligen thöüffers tag</date>, der  
+<lb n="33"/>gestalt hinder sich züchen. Namlichen deß  
+<lb n="34"/>oberhalb by dem alten wurkopf des <placeName ref="lub-places-103">Reinß</placeName>  
+<lb n="35"/>port ein schnur gespannet, diesselbige biß her  
+<lb n="36"/>ab, so wyt sich daß angelegt wur (wie gemelt  
+<lb n="37"/>erstreckt) gezogen und sechs werk klaffter  
+<lb n="38"/>underhalb von deß <placeName ref="lub-places-103">Reinß</placeName> port gemessen und  
+<lb n="39"/>alßdan zwüschet gemelten beden zileren studen,  
+<lb n="40"/>stein und stöckh oberhalb dem wasser hinweg  
+<lb n="41"/>gethon und zu dem newen wur gelegt werden,  
+<lb n="42"/>vorbehalten den durchschlag deß giessens, der  
+<lb n="43"/>sölle verkyben, wie der geschlagen und allein  
+<lb n="44"/>hinderhalb desselben der schnur nach gefaren werden,  
+<lb n="45"/>wie vorgemelt. Es söllendt auch die von <placeName ref="lub-places-140">Wartaw</placeName>  
+<lb n="46"/>über das mit fernerem wuren alda stil ston. 
+<lb n="47"/>Eß syge dan, dar das der <placeName ref="lub-places-103">Ryn</placeName> an dem ort, wie auch  
+<lb n="48"/>anderstwo ferners inbrechen welle, alß dan so  
+<lb n="49"/>söllent sy die ennet halb <placeName ref="lub-places-103">Rynß</placeName>, welche sych zu  
+<lb n="50"/>beschwären hetten, dessen berichten und uff der  
+<lb n="51"/>augenschyn berüeffen. Im fahl dan der eine  
+<lb n="52"/>theil dem anderen zu wuren nit bewilligen welt,  
+<lb n="53"/>so möge doch der betrengte, uff recht hin uff dem  
+<lb n="54"/>seinigen der gredi und vorgemelten verträgen  
+<lb n="55"/>auf der nottwendigkeit nach, wol wuren und  
+<lb n="56"/>das seinige schirmen, biß das die zusätz, so fürter
+<lb n="57"/>hin zu beiden theilen im landt erwelt sollen  
+<lb n="58"/>werden den augenschyn inämmen und die  
+<lb n="59"/>spänigen partyen verglychen mögen. Im fahl  
+<lb n="60"/>sy sich in irem spruch nit vereinbaren möchten,  
+<lb n="61"/>söllendt sy einem obman zu erwellen gewalt  
+<pb facs="lub-media-2682" n="3"/>
+<lb n="62"/>haben, der inen gefellig und dessen usspruch er
+<lb break="no" n="63"/>warten, und solle also diß (wie gemelt) uff 
+<lb n="64"/>beide partyen, die so sich zu beschwären hetten,  
+<lb n="65"/>gedütet syn. 
+</p>
+        <p><lb n="66"/>Berüerend das wur, so die von <placeName ref="lub-places-71">Balsers</placeName> by der  
+<lb n="67"/>bruckh gemacht, darab sy ein gmeind von <placeName ref="lub-places-140">Wartaw</placeName>  
+<lb n="68"/>klagt, sye nit uff die march gesezt, wie auch  
+<lb n="69"/><term ref="lub-keywords-405">schupff</term> und nit <term ref="lub-keywords-404">strychs</term> wyß gemacht, da aber  
+<lb n="70"/>sich die herren sätz uff deren von <placeName ref="lub-places-79">Trisen</placeName> siten  
+<lb n="71"/>dessen nit annemmen wellen, sy gen auch nit von  
+<lb n="72"/>deßwegen da. Zu pflantzlung aber besserer  
+<lb n="73"/>nachpurschafft und vermydung grössers kostens und  
+<lb n="74"/>unwillens, habend sich die herren, diewyl sy ge
+<lb break="no" n="75"/>spürt, das die von <placeName ref="lub-places-71">Balsers</placeName> das wol lyden mögen, 
+<lb n="76"/>deß erkhendt, das dasselbige, wie es jetzundt stat,   
+<lb n="77"/>ston und verblyben sölle und fürterhin desse
+<lb break="no" n="78"/>wegen sich kein gspan erheben noch zutragen.
+</p>
+        <p><lb n="79"/>Waß anbelangt das wur, so die von <placeName ref="lub-places-71">Balsers</placeName>  
+<lb n="80"/>vom <placeName ref="lub-places-736">Älbärg</placeName> dannen gegen dem <placeName ref="lub-places-240">Scholberg</placeName> gmacht,  
+<lb n="81"/>wellendt sy sich dessen nüt bladan noch annemmen,  
+<lb n="82"/>sonder solliches unsern gnedigen herren und  
+<lb n="83"/>oberen fürbringen. Mögend sy es also gedulden wol  
+<lb n="84"/>und gut, habendt sy hiermit antwurt. 
+</p>
+        <p><lb n="85"/>So sich dan ettwas zureden zu beden theilen under  
+<lb n="86"/>einanderen verloffen, söllendt diesselbigen hiemit  
+<lb n="87"/>uffgheft und jettwederer part an iren glimpff  
+<lb n="88"/>und egren nützit schaden und ohn ufhelblich syn.  
+</p>
+        <p><lb n="89"/>Und wellendt hiemit den zu beder sytz hoch und  
+<lb n="90"/>nideren grichts herligkeiten recht und gröchtig
+<lb break="no" n="91"/>keiten kein ingrif gethon, wie auch inen noch 
+<lb n="92"/>der iren nützit benommen haben. 
+</p>
+        <p><pb facs="lub-media-2683" n="4"/><lb n="93"/>Söllendt auch fürterhin zu bedersyts gut  
+<lb n="94"/>fründt und nachpuren syn und blyben. 
+</p>
+        <p><lb n="95"/>Und so nun diser beder herren der sätzen us
+<lb break="no" n="96"/>spruch by ihren mittsätzen mag platz haben, 
+<lb n="97"/>und inen auch also glieben und gfallen möchte,  
+<lb n="98"/>soll es ein ußgemachte sach und verglychund syn.  
+<lb n="99"/>Wo aber nit wellendt sy den trigen vorbehal
+<lb break="no" n="100"/>ten han, alle ire rächtsamme, clag ud an
+<lb break="no" n="101"/>sprach, so sy gegen denen ennethalb <placeName ref="lub-places-103">Rinß</placeName> einer 
+<lb n="102"/>ald der anderen gmeind bißhar gethan und für
+<lb break="no" n="103"/>terhin han möchten, denselben auch mit vorge
+<lb break="no" n="104"/>setzten punctten nützit, benommen noch ver
+<lb break="no" n="105"/>hinderung thon haben.
+</p>
+        <p><lb n="106"/>Deß costens halb söll jedere party den  
+<lb n="107"/>an ir selbs haben und gedulden. Zu ur
+<lb break="no" n="108"/>khundt obgeschribner dingen habend sich 
+<lb n="109"/>beide herren die sätz mit eigner hand under
+<lb break="no" n="110"/>schriben und geben, den 19. mertzen anno 1607.
+<lb n="111"/><persName ref="lub-actors-968">Hanns Heinrich Holzhalb</persName> 
+<lb n="112"/><persName ref="lub-actors-969">Jost Schiltter</persName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

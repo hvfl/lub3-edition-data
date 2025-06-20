@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-06-18 19:22:15 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-06-20 17:43:13 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1765,6 +1765,7 @@
             <placeName type="main" xml:lang="de">Balzers</placeName>
             <placeName type="full" xml:lang="de">Balzers</placeName>
             <placeName type="sort" xml:lang="de">balzers</placeName>
+            <placeName type="alternative" xml:lang="de">Balsers</placeName>
             <placeName type="alternative" xml:lang="de">Baltzers</placeName>
             <placeName type="alternative" xml:lang="de">Balthers</placeName>
             <placeName type="alternative" xml:lang="de">Baltterß</placeName>
@@ -3291,6 +3292,38 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="P" xml:id="lub-places-148">
+            <placeName type="main" xml:lang="de">Buchs</placeName>
+            <placeName type="full" xml:lang="de">Buchs (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">buchs</placeName>
+            <location>
+              <geo>47.16597 9.46275</geo>
+              <settlement xml:lang="de">Buchs</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">148</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285374"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68277"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001346"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/873145858285323022799/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4197383-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Buchs_SG"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="A" xml:id="lub-places-149">
             <placeName type="main" xml:lang="de">Wartau (Herrschaft)</placeName>
             <placeName type="full" xml:lang="de">Wartau (Herrschaft) (St. Gallen)</placeName>
@@ -4011,6 +4044,44 @@
             <note type="description" xml:lang="de">
               <p>Eidgenössischer Ort. Luzern besass 1485–1493 die Herrschaften Werdenberg und Wartau.</p>
             </note>
+          </place>
+          <place type="A" xml:id="lub-places-187">
+            <placeName type="main" xml:lang="de">Schwyz</placeName>
+            <placeName type="full" xml:lang="de">Schwyz (Schwyz)</placeName>
+            <placeName type="sort" xml:lang="de">schwyz</placeName>
+            <placeName type="alternative" xml:lang="de">Schwytz</placeName>
+            <location>
+              <geo>47.0405 8.74101</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">187</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2658664"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q12433"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Schwyz-canton-Switzerland"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80093609"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007385"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/134271490/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4054019-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kanton_Schwyz"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="S" xml:id="lub-places-190">
             <placeName type="main" xml:lang="de">Masescha</placeName>
@@ -4934,6 +5005,29 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="T" xml:id="lub-places-240">
+            <placeName type="main" xml:lang="de">Schollberg; Scholberg</placeName>
+            <placeName type="full" xml:lang="de">Schollberg; Scholberg / Wartau (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">schollberg; scholberg</placeName>
+            <location>
+              <geo>46.97486 9.86573</geo>
+              <settlement xml:lang="de">Wartau</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">240</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6938258"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4047020"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Hoher, markanter waldiger Bergkopf südwestlich von Trübbach an der Grenze zu Sargans.</p>
+            </note>
+          </place>
           <place type="V" xml:id="lub-places-241">
             <placeName type="main" xml:lang="de">Blasenberg</placeName>
             <placeName type="full" xml:lang="de">Blasenberg / Vaduz</placeName>
@@ -5663,6 +5757,30 @@
             <note type="description" xml:lang="de">
               <p>Berg auf der Alp Sareis, südlich des Schaftälli, südöstlich des Augstenbergs; Grenzberg zu Österreich.</p>
             </note>
+          </place>
+          <place type="P" xml:id="lub-places-278">
+            <placeName type="main" xml:lang="de">Gretschins</placeName>
+            <placeName type="full" xml:lang="de">Gretschins / Wartau (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">gretschins</placeName>
+            <placeName type="alternative" xml:lang="de">Gritschins</placeName>
+            <location>
+              <geo>47.09897 9.4868</geo>
+              <settlement xml:lang="de">Wartau</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">278</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7670187"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1512869"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gretschins"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="V" xml:id="lub-places-282">
             <placeName type="main" xml:lang="de">Schwizerzun</placeName>
@@ -14544,6 +14662,117 @@
               <p>Titularbistum der römisch-katholischen Kirche, benannt nach einer untergegangenen Stadt in der römischen Provinz Syria.</p>
             </note>
           </place>
+          <place type="A" xml:id="lub-places-700">
+            <placeName type="main" xml:lang="de">Freie Ämter</placeName>
+            <placeName type="full" xml:lang="de">Freie Ämter (Aargau, Luzern)</placeName>
+            <placeName type="sort" xml:lang="de">freie aemter</placeName>
+            <placeName type="alternative" xml:lang="de">Fryen Aemptern deß Argows</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">700</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Freiamt_(Schweiz)"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q667187"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/fr/articles/008298"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Gemeine Herrschaft der eidgenössischen Orte Zürich, Luzern, Schwyz, Unterwalden, Zug und Glarus, ab 1531 auch von Uri. 1712 Teilung in die Unteren Freien Ämter, in denen Zürich, Bern und Glarus herrschten, und die Oberen Freien Ämter, in denen die sieben Orte und neu Bern gemeinsam herrschten.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-736">
+            <placeName type="main" xml:lang="de">Ellhorn</placeName>
+            <placeName type="full" xml:lang="de">Ellhorn</placeName>
+            <placeName type="sort" xml:lang="de">ellhorn</placeName>
+            <placeName type="alternative" xml:lang="de">Ellberg</placeName>
+            <placeName type="alternative" xml:lang="de">Älberg</placeName>
+            <location/>
+            <idno type="lub-places-id">736</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Ellberg: Unbekannt. Teils GR. Örtlich identisch mit Ellholz und Ellwald. Höchste Erhebung im Ellholz. Der Gipfel ist ein markanter, auf der Ostseite bewaldeter Felsvorsprung. GR.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-746">
+            <placeName type="main" xml:lang="de">Riet</placeName>
+            <placeName type="full" xml:lang="de">Riet / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">riet</placeName>
+            <placeName type="alternative" xml:lang="de">Riedt Gamperin</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">746</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Felder in der Ebene südlich von Bendern.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-747">
+            <placeName type="main" xml:lang="de">Burgundische Niederlande</placeName>
+            <placeName type="full" xml:lang="de">Burgundische Niederlande</placeName>
+            <placeName type="sort" xml:lang="de">burgundische niederlande</placeName>
+            <placeName type="alternative" xml:lang="de">Niederburgundische Lande</placeName>
+            <location/>
+            <idno type="lub-places-id">747</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Burgundische_Niederlande">Wiki</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Als Burgundische Niederlande bezeichnet man das Gebiet der heutigen Niederlande, Belgiens und Luxemburgs und eines Teils Nordfrankreichs zur Zeit der burgundischen und zu Beginn der habsburgischen Herrschaft.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-753">
+            <placeName type="main" xml:lang="de">Hohensax (Burg)</placeName>
+            <placeName type="full" xml:lang="de">Hohensax (Burg) / Sennwald (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">hohensax (burg)</placeName>
+            <placeName type="alternative" xml:lang="de">Sax</placeName>
+            <location>
+              <geo>47.230278 9.443611</geo>
+              <settlement xml:lang="de">Sennwald</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">753</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burg_Hohensax"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1012438"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/fr/articles/011367"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4519298-4"/>
+              </bibl>
+            </listBibl>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -14591,7 +14820,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-06-18T19:22:15+02:00">teiHeader was automatically produced from the database 2025-06-18T19:22:15+02:00</change>
+      <change when="2025-06-20T17:43:14+02:00">teiHeader was automatically produced from the database 2025-06-20T17:43:14+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

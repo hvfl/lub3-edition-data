@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1037">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Ruggell und Schellenberg einerseits und Bendern, Gamprin, Eschen und Mauren andererseits über Weiderechte</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Kopie (beglaubigt), Signatur: <ref type="identifier" target="lub-objects-1037">AT-HAL, H 2632 unfol</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 26. September 1594 / Beschreibstoff: Papier, 6 Seiten / Siegel: 1 Siegel unter Papiertektur (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Abschrift: <ref type="identifier" target="lub-objects-931">LI-LA RA, 30/04/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 26. September 1594 / Beschreibstoff: Papier, 5 Seiten / Siegel: Loco sigilli</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Landvogt Peter Christoph Schlabatius und Landschreiber Johann Jakob Beck entscheiden den Streit zwischen Ruggell und Schellenberg einerseits und Bendern, Gamprin, Eschen und Mauren andererseits wegen Weidgang und Streu in der Au.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-175">Weiderecht</term>
+          <term ref="lub-keywords-152">Nutzungsrecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-253">Schlabatius, Peter Christoph</persName>
+          <date when="1594-09-26">26. Sep 1594</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-177">Beck, Johann Jakob (von)</persName>
+          <date when="1594-09-26">26. Sep 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal_h_2632_unfol__1594_september_26-0001.jpg" xml:id="lub-media-1153" source="1594-09-26-hal-h-2632-spruchbrief-1.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2632_unfol__1594_september_26-0002.jpg" xml:id="lub-media-1154" source="1594-09-26-hal-h-2632-spruchbrief-2.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2632_unfol__1594_september_26-0003.jpg" xml:id="lub-media-1155" source="1594-09-26-hal-h-2632-spruchbrief-3.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2632_unfol__1594_september_26-0004.jpg" xml:id="lub-media-1156" source="1594-09-26-hal-h-2632-spruchbrief-4.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2632_unfol__1594_september_26-0005.jpg" xml:id="lub-media-1157" source="1594-09-26-hal-h-2632-spruchbrief-5.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2632_unfol__1594_september_26-0006.jpg" xml:id="lub-media-1158" source="1594-09-26-hal-h-2632-spruchbrief-6.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_30_04_01-0001.jpg" xml:id="lub-media-1975" source="ra-30-04-01-s01.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_30_04_01-0002.jpg" xml:id="lub-media-1976" source="ra-30-04-01-s02.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_30_04_01-0003.jpg" xml:id="lub-media-1977" source="ra-30-04-01-s03.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_30_04_01-0004.jpg" xml:id="lub-media-1978" source="ra-30-04-01-s04.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_30_04_01-0005.jpg" xml:id="lub-media-1979" source="ra-30-04-01-s05.jpg" corresp="B2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1153" n="1"/><lb n="1"/>Copia eines vertragbriefes. 
+<lb n="2"/>Wir mit namen <persName ref="lub-actors-253">Petrus Christophorus Schlabatius</persName>, bei
+<lb break="no" n="3"/>der rechten doctor, dieser zeit gräflicher sulzischer 
+<lb n="4"/>rath und landvogt, auch <persName ref="lub-actors-177">Johann Jakob Beck</persName>, kaiserlicher  
+<lb n="5"/>approbierter notarius und landschreiber der herrschafft  
+<lb n="6"/><placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blumenegg</placeName>, bekennen ge
+<lb break="no" n="7"/>mein und offentlich und thuen kundt allermänniglich mit 
+<lb n="8"/>diesem brief, als sich zwischen des wohlgebohrnen  
+<lb n="9"/>herrn, herrn <persName ref="lub-actors-13">Carl Ludwigen grafens zu Sulz</persName>, land
+<lb break="no" n="10"/>grafens im <placeName ref="lub-places-18">Cleggäw</placeName>, des <orgName ref="lub-actors-516">Heiligen Römischen Reichs</orgName> 
+<lb n="11"/>erbhofrichter zu <placeName ref="lub-places-17">Rottweil</placeName>, herrens zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-117">Schellen
+<lb break="no" n="12"/>berg</placeName> und <placeName ref="lub-places-12">Blumenegg</placeName>, auch kaiserlicher majestät rath 
+<lb n="13"/>und königlichen würden zu <placeName ref="lub-places-253">Hispanien</placeName> etc., auch fürstlicher durchlaucht  
+<lb n="14"/>zu <placeName ref="lub-places-505">Saphoyen</placeName> etc. obristen etc. unsers gnädigen herrn leib
+<lb break="no" n="15"/>aignen und unsern amtsanbefohlnen unterthanen, de
+<lb break="no" n="16"/>nen ehrsamen gemainden zu <placeName ref="lub-places-2">Ruggell</placeName> und denen 
+<lb n="17"/>ab <placeName ref="lub-places-117">Schellenberg</placeName> an ainem, sodann denen von <placeName ref="lub-places-36">Ben
+<lb break="no" n="18"/>deren</placeName>, <placeName ref="lub-places-328">Gamperin</placeName>, <placeName ref="lub-places-35">Eschen</placeName> und <placeName ref="lub-places-30">Mauren</placeName> andern thails, 
+<lb n="19"/>nachbarliche stritt und zweyungen umb und von we
+<lb break="no" n="20"/>gen wunnen und waid auf allen gemeindten, ein
+<lb n="21"/>und ausgeschlagenen gütern, daselbst in <placeName ref="lub-places-2">Ruggeller</placeName> zwing  
+<lb n="22"/>und bau gelegen, erregt und zugetragen, ob wel
+<lb break="no" n="23"/>chen sie vermeindten von dem gegentheil zu viel 
+<lb n="24"/>beschwerden überlegen und überschlagen zu sin, son
+<lb break="no" n="25"/>derlich in ansehung, weil die von <placeName ref="lub-places-36">Benderen</placeName> samt ihren 
+<lb n="26"/>mithafften jedes jahr gleich mit eingang des frühlings  
+<lb n="27"/>anfangen, auf sie zu treiben, allda mit ihren rossen  
+<lb n="28"/>und vieh verharren, bis die besten waiden abgenu
+<lb break="no" n="29"/>zet, und daneben droben auf dem <placeName ref="lub-places-746">Riedt Gamperin</placeName> 
+<lb n="30"/>und anderen orten, das ihrig bis gegen herbst fahren,  
+<lb n="31"/>und ihnen den zutrib gemainer waiden nicht gestatten  
+<lb n="32"/>wöllen, auch das ihnen der <placeName ref="lub-places-103">Rhein</placeName> die beßten wiesen  
+<pb facs="lub-media-1154" n="2"/>
+<lb n="33"/>und güter mehrer thails hinweg genommen, dermas
+<lb break="no" n="34"/>sen betrangt und vernachtheilt seyen, in solcher 
+<lb n="35"/>beschwernus und verschmeleten kleinen bezürck, al
+<lb break="no" n="36"/>so nit haussen noch bleiben könnten etc. Welches 
+<lb n="37"/>aller gegenthail widerfochten mit vermelden, das  
+<lb n="38"/>sie je und allwegen daselbsten gewaidet, recht und  
+<lb n="39"/>gerechtigkeit gehabt, und noch nit gedenken, davon  
+<lb n="40"/>zu weichen etc. Und als deswegen bey erst wohler
+<lb break="no" n="41"/>melten unserm gnädigem herrn umb einnehmung 
+<lb n="42"/>des augenscheins und folgends gütliche vergleichung  
+<lb n="43"/>dieser, ihrer spenen, unterthänigs fleiss angehalten  
+<lb n="44"/>und gebetten, und wann gleichwohl ihre gnaden an  
+<lb n="45"/>diesen strittigen enden und orthen gewesen, und sie  
+<lb n="46"/>beede theil ihre spenen gern gnädig entschaiden hät
+<lb break="no" n="47"/>ten. Jedoch als dieselben untersehens mit kriegs und 
+<lb n="48"/>anderer geschäfften beladen worden und nach den  
+<lb n="49"/><placeName ref="lub-places-747">Niederburgundischen Landen</placeName> gezogen, haben ihre gna
+<lb break="no" n="50"/>den uns nit allein diese und dergleichen, sondern 
+<lb n="51"/>auch mehr andere wichtige sachen ins werck zu rich
+<lb break="no" n="52"/>ten und zu verhandlen gnädiglich aufzutragen und 
+<lb n="53"/>befohlen, demnach aus unterthäniger und gehorsam
+<lb break="no" n="54"/>ber schuldigkeit habenden befelchs, auch geneigten 
+<lb n="55"/>guten willens, damit wür bayderseits partheyen zu  
+<lb n="56"/>verhütung allerhand weitläuftigkeit, widerwillens,  
+<lb n="57"/>auch mühe, arbeit, kosten, schaden und unaus
+<lb break="no" n="58"/>träglicher rechtfertigung, die künftiglich hätten dar
+<lb break="no" n="59"/>aus erwachsen mögen, beygethan seind, wür uns 
+<lb n="60"/>auf ihr willkührlich bitt und begehren an das ober
+<lb break="no" n="61"/>zehlte spenige orth verfügt, die im augenschein be
+<lb break="no" n="62"/>sichtiget, und hernacher die vollmächtigen abge
+<lb break="no" n="63"/>sandten personen, so von wegen allerseits partheyen 
+<pb facs="lub-media-1155" n="3"/>
+<lb n="64"/>auf <placeName ref="lub-places-31">Rauffenberg</placeName> in <persName ref="lub-actors-2437">Andreas Öhrins</persName>, des wirths, be
+<lb break="no" n="65"/>hausung daselbsten glaubwürdig vor uns erschienen 
+<lb n="66"/>sind, in ihren klagen, antworten, reden und wi
+<lb break="no" n="67"/>derreden, auch eingelegten brieflichen documentis, 
+<lb n="68"/>samt anderer berühmten rechten und gerechtigkei
+<lb break="no" n="69"/>ten nothdürfftiglich verhört und ersehen, und nach 
+<lb n="70"/>solichen die partheyen uns baidten ihrer vorgestel
+<lb break="no" n="71"/>ten oberamtleüten und zusätzen die ganze hand
+<lb break="no" n="72"/>lungs allerdings mit mund und hand umb gütliche
+<lb n="73"/>entschaidung freywilliglichen übergeben, haben wür  
+<lb n="74"/>uns darüber auf mehr wohlermelts unsers gnädi
+<lb break="no" n="75"/>gen herrn ratification und gutheissen eines recht
+<lb break="no" n="76"/>mässigen und billichen spruchs mitainander ainhel
+<lb break="no" n="77"/>liglich entschlossen und darnach eröffnet wie folgt.
+<lb n="78"/>Daß nämblichen alle dise obgemelte gemainden,  
+<lb n="79"/>die von <placeName ref="lub-places-2">Ruggell</placeName>, ab <placeName ref="lub-places-117">Schellenberg</placeName>, <placeName ref="lub-places-36">Benderen</placeName>, Gampe
+<lb break="no" n="80"/>rin, <placeName ref="lub-places-35">Eschen</placeName> und <placeName ref="lub-places-30">Mauren</placeName>, doch allein diejenige aus ih
+<lb break="no" n="81"/>nen, welche bisher den zutrib auf die <placeName ref="lub-places-2">Ruggeller</placeName> gü
+<lb break="no" n="82"/>ter gehabt, die awen, das groß und andere daran 
+<lb n="83"/>liegende felder, doch allein hie herwerts des <placeName ref="lub-places-103">Rheins</placeName>  
+<lb n="84"/>von <placeName ref="lub-places-328">Gamperiner</placeName> zechenden an bis hinab auf die baum
+<lb break="no" n="85"/>gärten des dorfs <placeName ref="lub-places-2">Ruggell</placeName>, allda ein zihl und sonder
+<lb break="no" n="86"/>liche gatter gestellt werden, zu seiner gewöhnlichen 
+<lb n="87"/>zeit, wie von alters bräuchig, ohne ainicher daroffen  
+<lb n="88"/>gewesen, mit ainander in gemain und gleichlich ohne  
+<lb n="89"/>ainicher darunter gesuchten vortheil, nutzen und  
+<lb n="90"/>niessen, auch obernannten gatter und die zün da
+<lb break="no" n="91"/>selbst herumen in gemainen kosten machen und er
+<lb break="no" n="92"/>halten sollen für ains. Am andern aber belan
+<lb break="no" n="93"/>gend die wiesen, aecker, gärten, groß und kleine 
+<lb n="94"/>felder, hölzer, ein- oder ausgeschlagene güter des
+<pb facs="lub-media-1156" n="4"/>
+<lb break="no" n="95"/>gleichen das riedt, sie seyen den bangsischen, <placeName ref="lub-places-746">Gam
+<lb break="no" n="96"/>periner</placeName>, <placeName ref="lub-places-35">Eschner</placeName>, <placeName ref="lub-places-36">Banderer</placeName>, oder anderen zugehö
+<lb break="no" n="97"/>rig, die neben und unter dem dorf <placeName ref="lub-places-2">Ruggell</placeName> bis 
+<lb n="98"/>auf den österreichischen boden an <placeName ref="lub-places-445">Bangser</placeName> zwing  
+<lb n="99"/>und bau hinab liegen, sollen die von <placeName ref="lub-places-2">Ruggell</placeName> und  
+<lb n="100"/>ab <placeName ref="lub-places-117">Schellenberg</placeName> laut ihrer gegen jetzt berührter  
+<lb n="101"/>gemain <placeName ref="lub-places-2">Roggell</placeName> habenden verträgen, brief und sigel,  
+<lb n="102"/>dabey mans bleiben lasset, wie von alters herkom
+<lb break="no" n="103"/>men und bishero unter ihnen bräuchig gewesen, 
+<lb n="104"/>mit auf- und abschlagen, wunn und waid, trieb  
+<lb n="105"/>und tratt, allein nutzen und niessen und alle dieje
+<lb break="no" n="106"/>nigen, welche aigenthumliche güter daselbst herum 
+<lb n="107"/>hätten, sie waren von <placeName ref="lub-places-36">Benderen</placeName>, <placeName ref="lub-places-328">Gamperin</placeName>, oder  
+<lb n="108"/>andere örter hero, denen soll nicht mehr gestattet  
+<lb n="109"/>werden, als zu seiner zeit den jährlichen blumen  
+<lb n="110"/>an korn, heu, oder dergleichen darab zu nehmen  
+<lb n="111"/>und des zutribs gänzlichen ausgesetzt seyn. Und  
+<lb n="112"/>zum dritten, was und welcherley güter die von <placeName ref="lub-places-2">Rog
+<lb break="no" n="113"/>gell</placeName> jenseit des <placeName ref="lub-places-103">Rheins</placeName> gegen der herrschafft <placeName ref="lub-places-9">Forstegg</placeName> 
+<lb n="114"/>liegen haben, die sollen ihnen mit aller nutzbarkeit  
+<lb n="115"/>allein zugehörig seyn, von niemanden, weder von  
+<lb n="116"/>denen ab <placeName ref="lub-places-117">Schellenberg</placeName> noch andern überfahren wer
+<lb break="no" n="117"/>den. Und schliesslich: das die betrifft, welche die von 
+<lb n="118"/><placeName ref="lub-places-445">Bangs</placeName> den sieben geschwornen in nammmen aller obbe
+<lb break="no" n="119"/>rührten gemainden aus den bis dato eingeschlage
+<lb break="no" n="120"/>nen gütern und was noch künftiglich dardurch de
+<lb break="no" n="121"/>nen ab <placeName ref="lub-places-117">Schellenberg</placeName> etwas schmälerung der waid 
+<lb n="122"/>beschehen, eingeschlagen werden möchte, jährlich ent
+<lb break="no" n="123"/>richt, sollen allerdings von ihnen gefallen und hin
+<lb break="no" n="124"/>füro denen von <placeName ref="lub-places-2">Roggell</placeName> und <placeName ref="lub-places-117">Schellenberg</placeName> allein zu
+<lb break="no" n="125"/>gehörig, auch hiemit alle theil ihren gehabten 
+<lb n="126"/>spen und zweyungen von ainander geschaiden und  
+<pb facs="lub-media-1157" n="5"/>
+<lb n="127"/>fürbas hin gute freünd und nachbaren bleiben und  
+<lb n="128"/>die gewehreter handlung beiderseits auferloffne  
+<lb n="129"/>kosten compensiert und verglichen seyn, und nach  
+<lb n="130"/>vorlesung dies mir jedem begehrenden thail brief
+<lb break="no" n="131"/>lich urkund gegeben und erkennt, mit unser baiden 
+<lb n="132"/>anhangenden insiglen, jedoch uns, unsern erben  
+<lb n="133"/>und amtsnachkommen in allweg ohnschädlich bekräfftiget  
+<lb n="134"/>haben. So beschehen ist auf den <origDate>sechs und zwain
+<lb break="no" n="135"/>zigisten monatstag septembris im fünfzehenhundert 
+<lb n="136"/>vier und neünzigisten jahr</origDate>. 
+</p>
+        <p><lb n="137"/>Diesen brief haben ihro gnaden gnädig ratificiert  
+<lb n="138"/>und gut gehaissen. Bezeüg ich 
+<lb n="139"/><persName ref="lub-actors-177">Johann Jakob Beck</persName>, notarius, dis zeit  
+<lb n="140"/>landschreiber, mit dieser meiner  
+<lb n="141"/>aignen handschrifft. 
+<lb n="142"/>L. S. L. S. 
+</p>
+        <p><lb n="143"/>Gegenwärtige abschrifft ist einer hier bey den akten  
+<lb n="144"/>liegenden illegalen copia durchaus gleichlautend. 
+<lb n="145"/>Liechtenstein, den 6. julii 1792. 
+<lb n="146"/>Hochfürstlich liechtensteinische  
+<lb n="147"/>oberamtskanzlei 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1158" n="1"/><lb n="1"/>Spruchbrief  
+<lb n="2"/>zwischen denen gemeinden  
+<lb n="3"/><placeName ref="lub-places-2">Ruggell</placeName>, <placeName ref="lub-places-117">Schellenberg</placeName>, <placeName ref="lub-places-36">Bendern</placeName>,  
+<lb n="4"/><placeName ref="lub-places-328">Gamperin</placeName>, <placeName ref="lub-places-35">Eschen</placeName> und <placeName ref="lub-places-30">Mauren</placeName>,  
+<lb n="5"/>das wunnen und waiden be
+<lb break="no" n="6"/>treffend.
+<lb n="7"/>De anno 1594. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

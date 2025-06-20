@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-06-18 19:22:14 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-06-20 17:43:11 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -2418,6 +2418,42 @@
               <list>
                 <item>Wohnhaft in Schaan. Besitzer einer Wiese im Grenzgebiet zwischen Buchs und Schaan.</item>
               </list>
+            </note>
+          </person>
+          <person xml:id="lub-actors-253">
+            <persName type="full" xml:lang="de">Schlabatius, Peter Christoph (1594–1594)</persName>
+            <persName type="main" xml:lang="de">Schlabatius, Peter Christoph</persName>
+            <persName type="sort" xml:lang="de">schlabatius, peter christoph</persName>
+            <persName type="alternative" xml:lang="de">Schlabatz</persName>
+            <birth when="1594-05-01"/>
+            <death when="1594-09-26"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * um 1565 St. Wendel (D), †15.10.1619.</p>
+              <list>
+                <item>Jurist (Dr. iur. utr.) 1592–1597 Landvogt von Vaduz.</item>
+              </list>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Schlabatius_(Schlabatz),_Peter_Christoph">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person>
+          <person xml:id="lub-actors-254">
+            <persName type="full" xml:lang="de">Weiss, Dietrich (1593–1596)</persName>
+            <persName type="main" xml:lang="de">Weiss, Dietrich</persName>
+            <persName type="sort" xml:lang="de">weiss, dietrich</persName>
+            <birth when="1593"/>
+            <death when="1596"/>
+            <note type="description" xml:lang="de">
+              <p>1593–1596 Glarner Landvogt in Werdenberg.</p>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>SSRQ SG III/4, S. 136</bibl>
+              </listBibl>
             </note>
           </person>
           <person xml:id="lub-actors-255">
@@ -8554,6 +8590,82 @@
               <p>Wohnhaft in Eschen. Vogt der Ehefrau von <ref target="964">Lutz Brendle</ref> aus Eschen.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-968">
+            <persName type="full" xml:lang="de">Holzhalb, Hans Heinrich (1564–1637)</persName>
+            <persName type="main" xml:lang="de">Holzhalb, Hans Heinrich</persName>
+            <persName type="sort" xml:lang="de">holzhalb, hans heinrich</persName>
+            <persName type="alternative" xml:lang="de">Holtzhalb, Hanß Heinrich</persName>
+            <birth when="1564-08-13"/>
+            <death when="1637-04-21"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * 1564-08-13 in Zürich; † 1637-04-21 in Zürich.</p>
+              <p>Zürcher Politiker.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/143681346"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q13883308"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-169235791/"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/143681346.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="http://viaf.org/viaf/169235791"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/018060/"/>
+              </bibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/a3OpKnYBUPOEfqBYeY6H.json"/>
+              </bibl>
+              <bibl>
+                <ptr type="hfls" target="http://www.hfls.ch/humo-gen/family/1/F103068?main_person=I295120"/>
+              </bibl>
+              <bibl>
+                <ptr type="burgerbibliothek" target="https://archives-quickaccess.ch/bbb/person/383762"/>
+              </bibl>
+              <bibl>
+                <ptr type="histhub" target="https://data.histhub.ch/person/11079724"/>
+              </bibl>
+              <bibl>
+                <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per002157"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="lub-actors-969">
+            <persName type="full" xml:lang="de">Schilter, Jost (1547–1627)</persName>
+            <persName type="main" xml:lang="de">Schilter, Jost</persName>
+            <persName type="sort" xml:lang="de">schilter, jost</persName>
+            <persName type="alternative" xml:lang="de">Schiltter, Jost</persName>
+            <birth when="1547"/>
+            <death when="1627-11-16"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * 1547; † 1627-11-16 in Schwyz.</p>
+              <p>Schwyzer Politiker.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q110550655"/>
+              </bibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/DcSoG3YBBhcBnYQeDq0w.json"/>
+              </bibl>
+              <bibl>
+                <ptr type="histhub" target="https://data.histhub.ch/person/11078592"/>
+              </bibl>
+              <bibl>
+                <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per001873"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/019032/2012-11-20/"/>
+              </bibl>
+            </listBibl>
+          </person>
           <person xml:id="lub-actors-970">
             <persName type="full" xml:lang="de">Johann, N. (1530–)</persName>
             <persName type="main" xml:lang="de">Johann, N.</persName>
@@ -9751,16 +9863,16 @@
             </note>
           </person>
           <person xml:id="lub-actors-1080">
-            <persName type="full" xml:lang="de">Öhri, Bartholomäus (1579–1584)</persName>
+            <persName type="full" xml:lang="de">Öhri, Bartholomäus (1551–1584)</persName>
             <persName type="main" xml:lang="de">Öhri, Bartholomäus</persName>
             <persName type="sort" xml:lang="de">oehri, bartholomaeus</persName>
             <persName type="alternative" xml:lang="de">Öre, Bartle</persName>
             <persName type="alternative" xml:lang="de">Öri, Bartlome</persName>
             <persName type="alternative" xml:lang="de">Öry, Barttel</persName>
-            <birth when="1579-08-17"/>
+            <birth when="1551-01-25"/>
             <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Weibel. Vater von <ref target="1760">Hans Öhri</ref>.</p>
+              <p>Wohnhaft in Eschen. Weibel. Verheiratet mit <ref target="2268">Martha Strub</ref>. Vater von <ref target="1760">Hans Öhri</ref>.</p>
             </note>
           </person>
           <person xml:id="lub-actors-1081">
@@ -19973,6 +20085,47 @@
               <p>Wohnhaft in Schaan.</p>
             </note>
           </person>
+          <person xml:id="lub-actors-2050">
+            <persName type="full" xml:lang="de">Saxoferrato, Bartolus de (1313–1357)</persName>
+            <persName type="main" xml:lang="de">Saxoferrato, Bartolus de</persName>
+            <persName type="sort" xml:lang="de">saxoferrato, bartolus de</persName>
+            <persName type="alternative" xml:lang="de">Sassoferata, Bartolo de</persName>
+            <birth when="1313"/>
+            <death when="1357-07-13"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * ca. 1313; † 1357-07-13.</p>
+              <p>Italienischer Rechtsgelehrter.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118652885"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q439050"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Bartolus-of-Saxoferrato"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118652885.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84095720"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/66498105"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bartolus_de_Saxoferrato"/>
+              </bibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/tVr5GnYBBhcBnYQeeaEP.json"/>
+              </bibl>
+              <bibl>
+                <ptr type="ethz" target="https://eth.swisscovery.slsp.ch/discovery/search?vid=41SLSP_ETH:ETH&amp;tab=discovery_network&amp;query=any,contains,[wd/person]Q439050"/>
+              </bibl>
+            </listBibl>
+          </person>
           <person xml:id="lub-actors-2051">
             <persName type="full" xml:lang="de">Fehr, Jos (1) (1530–)</persName>
             <persName type="main" xml:lang="de">Fehr, Jos (1)</persName>
@@ -22212,6 +22365,46 @@
               </bibl>
             </listBibl>
           </person>
+          <person xml:id="lub-actors-2267">
+            <persName type="full" xml:lang="de">Gut, Anna (1561–)</persName>
+            <persName type="main" xml:lang="de">Gut, Anna</persName>
+            <persName type="sort" xml:lang="de">gut, anna</persName>
+            <persName type="alternative" xml:lang="de">Guettin, Anna</persName>
+            <birth when="1561-11-10"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Eschen. Verheiratet mit <ref target="2263">Andreas Wanger (2)</ref>.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-2268">
+            <persName type="full" xml:lang="de">Strub, Martha (1551–)</persName>
+            <persName type="main" xml:lang="de">Strub, Martha</persName>
+            <persName type="sort" xml:lang="de">strub, martha</persName>
+            <persName type="alternative" xml:lang="de">Straubin, Martha</persName>
+            <birth when="1551-01-25"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Eschen. Verheiratet mit <ref target="1080">Bartholomäus Öhri</ref>.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-2269">
+            <persName type="full" xml:lang="de">Brendle, Kaspar (–1550)</persName>
+            <persName type="main" xml:lang="de">Brendle, Kaspar</persName>
+            <persName type="sort" xml:lang="de">brendle, kaspar</persName>
+            <persName type="alternative" xml:lang="de">Prenndlin, Caspar</persName>
+            <death when="1550"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Schellenberg. Vater von <ref target="2270">Lienhart</ref>. † vor 25.1.1551.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-2270">
+            <persName type="full" xml:lang="de">Brendle, Leonhard (1) (1551–)</persName>
+            <persName type="main" xml:lang="de">Brendle, Leonhard (1)</persName>
+            <persName type="sort" xml:lang="de">brendle, leonhard (1)</persName>
+            <persName type="alternative" xml:lang="de">Prenndtle, Liennhart</persName>
+            <birth when="1551-01-25"/>
+            <note type="description" xml:lang="de">
+              <p>Sohn von <ref target="2269">Kaspar</ref>.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-2271">
             <persName type="full" xml:lang="de">Tschuggli, Stefan (1491–1538)</persName>
             <persName type="main" xml:lang="de">Tschuggli, Stefan</persName>
@@ -23187,6 +23380,35 @@
               </bibl>
             </listBibl>
           </person>
+          <person xml:id="lub-actors-2350">
+            <persName type="full" xml:lang="de">Marxer, Lienhart (1) (–1550)</persName>
+            <persName type="main" xml:lang="de">Marxer, Lienhart (1)</persName>
+            <persName type="sort" xml:lang="de">marxer, lienhart (1)</persName>
+            <death when="1550"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Eschen.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-2354">
+            <persName type="full" xml:lang="de">Kaufmann, Ulrich  (1561–)</persName>
+            <persName type="main" xml:lang="de">Kaufmann, Ulrich</persName>
+            <persName type="sort" xml:lang="de">kaufmann, ulrich</persName>
+            <persName type="alternative" xml:lang="de">Khauffman, Uli</persName>
+            <birth when="1561-11-10"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Eschen.</p>
+            </note>
+          </person>
+          <person xml:id="lub-actors-2437">
+            <persName type="full" xml:lang="de">Öhri, Andreas (4) (1594–)</persName>
+            <persName type="main" xml:lang="de">Öhri, Andreas (4)</persName>
+            <persName type="sort" xml:lang="de">oehri, andreas (4)</persName>
+            <persName type="alternative" xml:lang="de">Öhrin, Andreas</persName>
+            <birth when="1594-03-01"/>
+            <note type="description" xml:lang="de">
+              <p>Wirt auf Rofaberg (Eschen).</p>
+            </note>
+          </person>
         </listPerson>
         <listOrg>
           <org xml:id="lub-actors-195">
@@ -23906,7 +24128,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2025-06-18T19:22:14+02:00">teiHeader was automatically produced from the database 2025-06-18T19:22:14+02:00</change>
+      <change when="2025-06-20T17:43:11+02:00">teiHeader was automatically produced from the database 2025-06-20T17:43:11+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

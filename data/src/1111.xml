@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1111">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Haus und einem Baumgarten in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-1111">LI-PfAE, U 8</ref> (<orgName key="li-pfae" ref="lub-objects-994">Pfarrarchiv Eschen</orgName>) / Originaldatierung: 10. November 1561 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Andres Wanger von Eschen und seine Frau Anna Guet verkaufen mit Hand von Peter Brendle, Ammann der Herrschaft Schellenberg am Eschnerberg, einen jährlichen Zins von 8 Schilling ab ihrem Haus, Hof und Baumgarten in Eschen an Georg Kaufmann, den Pfleger der St. Martinskirche in Eschen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-284">Obstgarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2263">Wanger, Andreas (2)</persName>
+          <date when="1561-11-10">10. Nov 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2267">Gut, Anna</persName>
+          <date when="1561-11-10">10. Nov 1561</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-65">Brendle, Peter</persName>
+          <date when="1561-11-10">10. Nov 1561</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-1126">Kaufmann, Georg (2)</persName>
+          <date when="1561-11-10">10. Nov 1561</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfae__u_8-0001.jpg" xml:id="lub-media-2857" source="pfa-e-u8-r-klein.jpg" corresp="A1"/>
+    <graphic url="li-pfae__u_8-0002.jpg" xml:id="lub-media-2858" source="pfa-e-u8-v-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2857" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2263">Anndres Wannger</persName> von <placeName ref="lub-places-35">Eschen</placeName>, unnd ich, <persName ref="lub-actors-2267">Anna Guettin</persName>, sein eelich weib, bekhennen offendtlich und thun khundt allermenigclich mit 
+<lb n="2"/>dem brief, das wir mit veraindtem guetem willen, wolbedachtem sinn und mueth zufürderung unsers nutz, besonnder mit hand des ersam
+<lb break="no" n="3"/>en, weisen <persName ref="lub-actors-65">Peter Brendlis</persName>, derzeit aman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, aufrecht und redlich verkhaufft und zuekhauffen
+<lb n="4"/>gegeben haben und geben auch hiemit wissentlich in chrafft dits briefs dem erberen <persName ref="lub-actors-1126">Jörg Khauffman</persName> zu <placeName ref="lub-places-35">Eschen</placeName>, der zeit phleger des lieben 
+<lb n="5"/>hailligen <persName ref="lub-actors-1006">sandt Martins</persName>, unnd allen seinen nachkhomenden phlegern nemblichen acht schilling phennig gueter <placeName ref="lub-places-101">Costentzer</placeName> müntz <placeName ref="lub-places-10">Veldtkhircher</placeName> 
+<lb n="6"/>werung recht, eewigs, järlichs zinß unnd phennig gelts von, usser unnd ab unserm aignen huß, hoff und bomgarthen zu <placeName ref="lub-places-35">Eschen</placeName> gelegen, 
+<lb n="7"/>stost gegen dem perg an die lanndtstraß, zur andern seiten an <persName ref="lub-actors-2354">Uli Khauffman</persName>, zur driten an <persName ref="lub-actors-1766">Bernhar<unclear>t</unclear> Wanger</persName> und wider an <persName ref="lub-actors-2354">Uli Khauffman</persName>, 
+<lb n="8"/>alles ab grund, grad, veld, wasen, wun, waid, stockh, stain, tach, gemach, zimmer, gemür, gestüdt, gerüdt, gengen, stegen und wegen und gemain
+<lb break="no" n="9"/>lich mit allen anderen iren rechten und zuegehörden, benembten und unbenembten, auch für ledig, loß unnd gegen allermenigclich unver
+<lb break="no" n="10"/>khümbert. Und also ist der eewig, redlich khauff erganngen unnd beschehen umb acht phundt phennig gueter vorgeschribner müntz und werung,
+<lb n="11"/>dero wir aller gar von dem khauffer als phleger erberlich usgericht und bezalt worden seind nach unserm gueten willen unnd benuegen. 
+<lb n="12"/>Darumb söllen wir, auch al unser erben und nachkhomen oder wer das obgemelt undterphandt nach uns ymmer ynhat, nutzet und brauchet, er
+<lb break="no" n="13"/>nennts lieben hailligen <persName ref="lub-actors-1006">sandt Marttins</persName> jetzigen unnd allen anndern seinen nach khomenden phlegern unnd ynhabern diß briefs gestimbte acht
+<lb n="14"/>schilling phennig nun hinenthin ymmer eewigclich unnd je jerlich alle jar uff <date when="--11-11">sanndt Martins tag</date>, achttag vor oder nach ungfarlich, guet
+<lb break="no" n="15"/>lich ausrichten, zinsen und zue iren sichern hannden unnd gewallt, für alles verhefftenn, auch verpieten und entwern, gentzlichen one allen
+<lb n="16"/>iren chossten und schaden, geben und andtwurtten. Wan und welliches jars das aber allso nit beschehe, über khurtz oder langezeit, so ist innen 
+<lb n="17"/>das obgemelt undterphandt, in bestimbten marckhen begriffen, ganntz zinsfellig worden und danenthin mit grund, grad und mit allen andern 
+<lb n="18"/>seinen obgenannten rechten, bessrungen und zuegehörden zu rechten eewigen aigen ymmermer haimbgefallen unnd verfallen, on unnser, aller 
+<lb n="19"/>erben und nachkhomen und allermenigclichs von unserntwegen irrung und widersprechen. Unnd hierauff diss ewigen, redlichen 
+<lb n="20"/>khouffs umb zinsfellige und für all abganng und minderung des obernenten unndterphandts, auch hoptguts, zinss und schadens und aller ob
+<lb break="no" n="21"/>genanter ding sollen und wellen wir, dickhernente verkheuffere, alle unser erben und nachkhomen des gerüerdten kheüffers als phleger
+<lb n="22"/>unnd allen anndern des lieben heilligen <persName ref="lub-actors-1006">sandt Martins</persName> nachkhomenden phleger recht guet und getrew khrefftig gewern, fürstandt und versprech
+<lb break="no" n="23"/>er gegen allermenigclich sein vor dem richter und gericht, darundter obbemelt undterphandt ligt, nach recht wa, wie, wen oder gegen wem, als
+<lb n="24"/>offt und dickh sy des nach dem rechten ymmer bedürffen oder notturfftig werden, allfart in unserm aignen chosten und one iren schaden, 
+<lb n="25"/>bey gueten trewen, on alle widerred, aufzug und geverde. Unnd wiewol der brief ainen eewigen khauff ausweist, nicht desterwenig
+<lb break="no" n="26"/>er mugen wir, auch all unnser erben und nachkhomen die acht schilling phennig jerlichs zinß von jetzigem und allen anderen nachkhom
+<lb break="no" n="27"/>enden phlegern wol widerumben khauffen und ablösen, nun hinent hin, wan und welliches jars wir wellen, über khurtz oder lange
+<lb n="28"/>zeit, doch vor zinsfall und uff <date when="--11-11">sandt Martins tag</date>, achttag vor oder nach ungefarlich, samenthafft mit dem obgeschribnen hoptguet, den 
+<lb n="29"/>acht phundt phennigen, doch alweg sambt allen gefallen ausstendigen zinsen, auch mit gueter müntz unnd werschafft, daran sy khainen ver
+<lb break="no" n="30"/>lust noch abgang haben, ob sich die jetzig müntz in der zeit verendern wurde, alles ungefarlich. Unnd des zu warem urkhundt haben wir,
+<lb n="31"/>obgemelte verkheuffere, mit vleiß und ernnst erpetten den obgedachten aman <persName ref="lub-actors-65">Peter Brenndle</persName>, das der insigl für unns unnd unnsre erben 
+<lb n="32"/>(doch im und seinen erben onschaden) offenndtlich an disen brief gehenckht hat, der geben ist uff <origDate when="1561-11-10">monntag vor sanndt Martins tag im 
+<lb n="33"/>fünffzehenhundert unnd ainunndsechtzigisten jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2858" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

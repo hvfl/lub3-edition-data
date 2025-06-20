@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1112">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Haus in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-1112">LI-PfAE, U 7</ref> (<orgName key="li-pfae" ref="lub-objects-994">Pfarrarchiv Eschen</orgName>) / Originaldatierung: 25. Januar 1551 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bartholomäus Öhri von Eschen und seine Frau Martha Strub verkaufen mit Hand von Michael Graf, Ammann der Herrschaft Schellenberg am Eschnerberg, ab ihrem Teil eines Hauses in Eschen einen jährlichen Zins von 1 Pfund Pfennig an Lienhart Brendle, den Sohn des verstorbenen Kaspar Brendle von Schellenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1080">Öhri, Bartholomäus</persName>
+          <date when="1551-01-25">25. Jan 1551</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2268">Strub, Martha</persName>
+          <date when="1551-01-25">25. Jan 1551</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1551-01-25">25. Jan 1551</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-2270">Brendle, Leonhard (1)</persName>
+          <date when="1551-01-25">25. Jan 1551</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfae__u_7-0001.jpg" xml:id="lub-media-2855" source="pfa-e-u7-v-klein.jpg" corresp="A1"/>
+    <graphic url="li-pfae__u_7-0002.jpg" xml:id="lub-media-2856" source="pfa-e-u7-r-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2856" n="1"/><lb n="1"/><gap/><persName ref="lub-actors-1080"><unclear>Bar</unclear>tolome Ery</persName> von <placeName ref="lub-places-35">Eschen</placeName>, unnd ich, <persName ref="lub-actors-2268">Martha Straubin</persName>, sein eliche hausfraw, bekennen offenntlich unnd thuon khunndt aller menigkhlich mit dissem prieffe, das 
+<lb n="2"/>wir mit veraintem guettem willen wolbedacht, sonnder mit hanndt des ersamen <persName ref="lub-actors-817">Micheln Grawen</persName>, der zeit unnser genedigen herschafft <placeName ref="lub-places-11">Schellenperg</placeName> aman am <placeName ref="lub-places-16">Eschnerperg</placeName>, recht und 
+<lb n="3"/>red<unclear>tlichen</unclear> verkaufft unnd zu kauffen geben haben unnd geben das jetzo hiemit wissenntlich mit dem prieff crefftig fur unns, all unnser erben unnd nachkomen dem 
+<lb n="4"/>erbern <persName ref="lub-actors-2270">Liennharten Prenndtle</persName>, weyllenndt <persName ref="lub-actors-2269">Caspar Prenndtlin</persName> von <placeName ref="lub-places-117">Schellenpuel</placeName> selligen nachgelassne sonne, allen seinen erben und nachkomen aines stetten, vessten, ewigen 
+<lb n="5"/>kauffs, nemlichen ain pfundt pfenng guetter genemer <placeName ref="lub-places-101">Cosstanntzer</placeName> muntz <placeName ref="lub-places-10">Veldtkircher</placeName> werung recht ewig jerlichs zeinß und pfening gelts von, usser unnd ab unserm 
+<lb n="6"/>tayl an hauß unnd hoff zu <placeName ref="lub-places-35">Eschen</placeName> im dorff gelegen, stosst vorne zuo an die lanndt straß, zu den andern zwayen seyten hinden unnd vornen zue an <persName ref="lub-actors-1093">Hannß Schreyber</persName>, aufwert 
+<lb n="7"/>an <persName ref="lub-actors-2350">Liennhart Marxers</persName> kindt, abgrundt, grat, wun, waydt, <gap/>, gemewer, dach, gemach, pomen, zweig, stogkh, stain, gesteut, gere<unclear>y</unclear>t, genngen, stegen und wegen und gemayngkhlich 
+<lb n="8"/>mit allen anndern seinen rechten und zuegehorennden, benempten und unpenempten, und auch fur ledig und loß und gegen meni<unclear>gk</unclear>hlichen unversetzt und unverkumert. 
+<lb n="9"/>Unnd ist der ewig, retlich kauff also beschehen und gethan worden umb zwaintzigkh pfundt pfening guetter obgenannter muntz und werung, deren wier von 
+<lb n="10"/>dem erbern <persName ref="lub-actors-1081">Josen Eri</persName> als obgemelts <persName ref="lub-actors-2270">Liennharts Prenndtle</persName> recht gegebner vogt erberlichen ausgeriht und bezalt worden sein nach allem unnserm willen und volligem 
+<lb n="11"/><gap/>ernigen. Unnd darumben so sollen und wellen wier obgenante verkeffer, ale unser erben unnd nahkomen den bestimpten zeinß als innhabern und besitzern obgemelts 
+<lb n="12"/>underpfanndt den genannten köffern, allen irnen erben und nachkomen innhabern ditz prieffs nunfurohin ewigklich und jerlich alle jar nemlihen auf <date when="--11-11">sant Martinß 
+<lb n="13"/>tag</date>, acht tag vor <supplied>o</supplied>der nach ungeverlichen, tugentlich richten, zeinsen und zu ieren sychern hannden und gewalt antworten und geben fur aller menigkhlichs hefften, verpieten 
+<lb n="14"/>unnd entweren, und gentzlichen an allen ieren cossten und schaden. Wann, wie oder weliches jarß daß aber also nit beschehe uber kurtz oder lannge zeyt, so ist innen dann ier 
+<lb n="15"/>obgemelt underpfandt, in ieren bestimpten marckhen begriffen, gannz zeinsfellig worden und dann danochthin mit grundt, grat und mit allen anndern seinen rehten und zuegeherenden 
+<lb n="16"/>haymgefallen unnd verfallen, one unnß, all unser erben unnd nahgkomen und aller menigklichs von unserntwegen sumen, ieren und widersprehen. Und hierauf ditz ee
+<lb break="no" n="17"/>wigen redtlichen kauffs umb zeinsfellige und fur all abganng obgenannter underpfandt, auch zeinß, hauptguets, schadens unnd aller obgenanter ding sollen und wellen
+<lb n="18"/>wier, obge<unclear>ne</unclear>nnte verkeffer, all unser erben und nachkomen der obgemelten käffer, allen ieren erben und nahkomen reht, guet, gethrew, k<gap/>tig weren, furstandt und verspreher sein vor dem 
+<lb n="19"/><unclear>rihter</unclear> und geriht, darunder obgemelt kauf beschehen und gelegen ist, wie, wo, wann und gegen wem als offt und digkh er des nah dem rehten imer bedarff und notturfftig wurde sein, 
+<lb n="20"/>albegen in unserm aignen cossten, an seinen schaden, pei gueten trewen, an alle wideret, auszug und geverde. Und wiewol diser prief ainen ewigen kauf außweist, danoht mogen wier 
+<lb n="21"/>den bestimpten <unclear>zein</unclear>ß von dem genanten käffer, allen seinen erben und nahkomen wol wi<unclear>der</unclear>köffen und ablösen, nun furohin ewigklih, wann wier wellen, uberkurtz oder lange zeyt, doh vor zeinsfal und 
+<lb n="22"/>a<unclear>lbegen</unclear> auf <gap/> <date when="--11-11">Martins tag</date>, aht tag vor oder nah ungeverlih, samenthafft mit dem obgemelten hauptguet sampt allen verfallen aussteenden zeinsen, auh mit solher muntz und werschafft, dar<unclear>an</unclear> 
+<lb n="23"/>sy <gap/> haben, ob syh die muntz in der zeyt verandern wurde, alles ungeferlih. Und des zu warem urkundt so haben wier, genante verkoffer, gepeten und erpeten den gedahten aman, das er sein 
+<lb n="24"/>aigen insigel <gap/> iem und seinen erben one schaden, an den prief gehenkht hat, der geben ist auf <origDate when="1551-01-25">Pauli pekerung tag nah Christi gepurt funffzehenhundert und im ainundfunffzigisten jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2855" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-06-18 19:22:16 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-06-20 17:43:16 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-06-18T19:22:16+02:00">teiHeader was automatically produced from the database 2025-06-18T19:22:16+02:00</change>
+      <change when="2025-06-20T17:43:16+02:00">teiHeader was automatically produced from the database 2025-06-20T17:43:16+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2069,6 +2069,22 @@
             </listBibl>
           </note>
         </item>
+        <item xml:id="lub-keywords-432">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">lett</label>
+          <label xml:lang="de" type="sort">lett</label>
+          <note type="description" xml:lang="de">
+            <p>Lehm, Tonerde, tonartiger Mergel.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/31487/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
         <item xml:id="lub-keywords-433">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">kopf(wuer)</label>
@@ -2081,6 +2097,22 @@
             <listBibl>
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/161081/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-434">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">krum(wuer)</label>
+          <label xml:lang="de" type="sort">krum(wuer)</label>
+          <note type="description" xml:lang="de">
+            <p>Gebogener, in der Regel wohl in einem stumpfen Winkel zur Fliessrichtung gestellter Damm im Fluss.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://termini.ssrq-sds-fds.ch/views/view-lemma.xq?id=lem015089">SSRQ, Sachregister und Glossar</ref>
               </bibl>
             </listBibl>
           </note>
