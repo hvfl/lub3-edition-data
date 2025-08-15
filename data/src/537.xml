@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-537">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Passport für Jakob Frommelt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-537">LI-GATb, A HA 19/1</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Originaldatierung: 27. November 1598 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Gurt, Claudius: Ediert auf <ref target="http://www.e-archiv.li/D49271">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Karl Ludwig von Sulz, Oberst eines Reichsregiments Fusssoldaten in Ungarn, stellt für Jakob Frommelt von Vaduz für seinen ehrenhaften Dienst unter seiner Fahne einen Passport aus, nachdem sein Regiment von der kaiserlichen Majestät abgedankt und entlassen wurde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-18">Türkenkrieg</term>
+          <term ref="lub-keywords-112">passbrief</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <placeName ref="lub-places-189">Bratislava</placeName>
+          <date when="1598-11-27">27. Nov 1598</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-346">Frommelt, Jakob (1)</persName>
+          <date when="1598-11-27">27. Nov 1598</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gatb__a_19_1-0002.jpg" xml:id="lub-media-2238" source="gatb-a-ha-019-001.jpg" corresp="A"/>
+    <graphic url="li-gatb__a_ha_19_1-0002.jpg" xml:id="lub-media-2804" source="gatb-a-ha-019-001-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2238" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-13">Carl Ludwig graff zue Sülz</persName>, landtgraff in  
+<lb n="2"/><placeName ref="lub-places-18">Cleckhew</placeName>, des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhoffrichter zue <placeName ref="lub-places-17">Rottweyll</placeName>, herr zue <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName>  
+<lb n="3"/>unnd <placeName ref="lub-places-12">Plaimenegkh</placeName>, römisch kayserlicher mayestät rath, irer mayesthät unnd deß <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName>  
+<lb n="4"/>obrister über ein regimendt hochteütscher kriegsvolckh zuo fuoß in <placeName ref="lub-places-146">Ungern</placeName> etc., bekhennen  
+<lb n="5"/>hiemit, daß gegenwüerttiger zaiger diß der ehren- und mannhafft <persName ref="lub-actors-346">Jacob Fruemeldt</persName>  
+<lb n="6"/>von <placeName ref="lub-places-7">Vaduz</placeName> von anfang unnd ufrichtung ermelts unsers regimendts biß  
+<lb n="7"/>zuo end und abdanckhung desselbigen under unserne leybfandell, für einen kriegs
+<lb break="no" n="8"/>mann gedient unnd in wehrenden zeyt uf zug und wachten bei tag und nacht zuo 
+<lb n="9"/>unnd von dem erbfeindt christliches namens, dem <orgName ref="lub-actors-267">Türggen</orgName>, in stürmen und schar
+<lb break="no" n="10"/>müzeln, wann unnd wie offt es die notturfft ervordert hatt, jeder zeit guottwillig, 
+<lb n="11"/>wie einem ehrliebenden soldaten gebüert unnd woll anstehet, ufrecht und redlich  
+<lb n="12"/>gebrauchen lassen unnd sich also verhalten, darab wir und menigelich ein gnädig  
+<lb n="13"/>unnd sonders wollgefahllen getragen. Dieweilen aber höchsternante kayserliche mayestät  
+<lb n="14"/>unnd das <orgName ref="lub-actors-516">Haylige Römische Reich</orgName> unserer kriegsdienst lenger nit behuofft, sonder  
+<lb n="15"/>allergnädigist unnd gnädig beurlauben und abdanckhen lassen. Also haben wir ime  
+<lb n="16"/>der wahrheith zuo steür unnd zuo gezeückhnus seines redlichen verhaltens, dise  
+<lb n="17"/>paßwort mitgethailt. Gelangt hierauf <supplied>an</supplied> alle und jede, was würdig stands  
+<lb n="18"/>oder wesens die sindt, unser ungebüer dienstfraindtliches ansinnen und bitten,  
+<lb n="19"/>die wöllen ermelten <persName ref="lub-actors-346">Jacob Frumbelden</persName> durch deroselben landt, stätt, fläckhen,  
+<lb n="20"/>päß, clauselln, zuo wasser unnd landt, frey, sicher unnd unverhindert durch
+<lb break="no" n="21"/>khomen unnd passieren lassen. ime auch von unser und seines redlichen verhaltens 
+<lb n="22"/>wegen alle guotten willen unnd gnädige befürderung erzaigen und beweysen, welchs  
+<lb n="23"/>wir nach gebüer dessen standes hinwiderumb zu beschulden urbiettig. Zuo ur
+<lb break="no" n="24"/>khundt haben wir dise paßportt mit unserm grävlichen secret verferttigt 
+<lb n="25"/>unnd mit aignen handen underschriben. Geben zuo <placeName ref="lub-places-189">Präßburg</placeName> an dem <origDate>sibenundzwainzigisten  
+<lb n="26"/>monatstag novembris etc. deß fünffzechenhundertachtundneünzigisten  
+<lb n="27"/>jars</origDate>. 
+<lb n="28"/><persName ref="lub-actors-13">Carle Ludwig graff zu Sulz</persName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2804" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-524">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Peter de Raschèr, Bischof von Chur, verleiht Kaspar von Ramschwag den Zehnt am Triesenberg sowie einen Zins aus dem Triesner Zehnten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-524">LI-GAT, U 35</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 7. Oktober 1586 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Gurt, Claudius: Ediert in <ref target="http://www.e-archiv.li/D42333">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Peter de Raschèr, Bischof von Chur, verleiht Kaspar von Ramschwag, Vogt auf Gutenberg, die Lehen, die ihm Hans von Gutenberg übergeben hatte, nämlich den Zehnt am Triesenberg und einen Zins von vier Scheffel Korn aus dem grossen Zehnt von Triesen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-316">Raschèr, Peter de</persName>
+          <date when="1586-10-07">7. Okt 1586</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_35-0002.jpg" xml:id="lub-media-2417" source="gat-u-035-r.jpg" corresp="A"/>
+    <graphic url="li-gat__u_35-0002.jpg" xml:id="lub-media-2418" source="gat-u-035-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2417" n="1"/><lb n="1"/>Wier <persName ref="lub-actors-316">Petrüs</persName>, von gottes genanden bischoff zü <placeName ref="lub-places-175">Chür</placeName>, bekhenen mit disem brieff, das wier dem edlen und  
+<lb n="2"/>vesten <persName ref="lub-actors-166">Caspern von Ramschwag</persName>, fürstlich durchlaucht ertzhertzog <persName ref="lub-actors-11">Ferdinanden zu Österreich</persName> etc., vogt zu <placeName ref="lub-places-13">Guettenberg</placeName> zu einem rechten  
+<lb n="3"/>fry lehen verlyhen haben, so <persName ref="lub-actors-289">Hans von Guettenberg</persName> ime fry ubergeben hatt, lyhen im auch in crafft ditz brieffs den zehenn
+<lb break="no" n="4"/>den am <placeName ref="lub-places-41">Trisnerberg</placeName> mit allenn rechten und zueghörden, unnd vier schöffel korn uß dem grossen zehenden zu <placeName ref="lub-places-79">Trißnenn</placeName> 
+<lb n="5"/>jerlicher gült, was wier dan von rechts wegen daran verlyhen sollen und mugen, die von uns und unser <orgName ref="lub-actors-2466">Stifft</orgName> zu lehenn  
+<lb n="6"/>herrueren. Also das er furohin den zehenden und khoren gült mit ir gerechtickhaitt in lehens wyß und recht inhaben,  
+<lb n="7"/>innemen, bruchen, nutzen und niessen. Darumb uns und unser <orgName ref="lub-actors-2466">Stifft</orgName> dienstlich gehorsam und gewerttig sein, unsern  
+<lb n="8"/>frommen furdern schaden wenden, verschwigne lehen offnen und alles das thuen soll, das ein lehenn man sinem  
+<lb n="9"/>lehenn herren von recht un<gap/>icher lehenn wegen pillich thuen soll. Als er unns des ainen aidt zu gott und denn  
+<lb n="10"/>hayligen geschworenn hatt, alles uns unnd unser <orgName ref="lub-actors-2466">Stifft</orgName> an unnsern rechten und lehenschafft one schaden. Des zu  
+<lb n="11"/>urkhundt haben wier unser secrett innsigel thun henckhen an disenn brieff, der geben ist am <origDate>sibenden tag octo
+<lb break="no" n="12"/>bris im jar als man zalt vor der geburtt Cristi unsers erlösers tusendt funffhunndertt und im sechsundach
+<lb break="no" n="13"/>zigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2418" n="1"/><lb n="1"/>Bischoff <persName ref="lub-actors-316">Petri</persName> frey lehen
+<lb break="no" n="2"/>brieff des zehenden am <placeName ref="lub-places-41">Tries
+<lb break="no" n="3"/></placeName>ner berg <gap/> 1586.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

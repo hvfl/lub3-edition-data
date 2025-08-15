@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-525">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid in den Weide- und Nutzungsstreitigkeiten zwischen Triesen und Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-525">LI-GAT, U 36</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 30. April 1584 / Beschreibstoff: Pergament / Siegel: ein Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-527">LI-GATb, U 18</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Originaldatierung: 30. April 1584 / Beschreibstoff: Pergament / Siegel: ein Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 175</bibl>
+          <bibl>Klenze, Alpwirtschaft S. 30f.</bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 55, S. 119</bibl>
+          <bibl>Gurt, Claudius, Edition in <ref target="http://www.e-archiv.li/D42355">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Karl Ludwig Graf von Sulz entscheidet zusammen mit seinen zugezogenen Amtleuten auf Ersuchen der Gemeinden Triesen und Triesenberg die zwischen ihnen herrschenden Weide- und Nutzungsstreitigkeiten. Den Konfliktparteien werden die Nutzungsrechte an Baumfrüchten und die gemeinsame Viehweide innerhalb bestimmter Grenzen festgelegt, wobei den Triesnern das Recht, ihre Schafe und Schweine zu weiden, zeitlich eingeschränkt wird. Schliesslich werden für die Triesenberger Bestimmungen betreffend Viehpacht zur Alpsömmerung erlassen und den Triesnern die Einzäunung der Fronwälder befohlen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+          <term ref="lub-keywords-165">Obst</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <date when="1584-04-30">30. Apr 1584</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_36-0002.jpg" xml:id="lub-media-2419" source="gat-u-036-v.jpg" corresp="A2"/>
+    <graphic url="li-gat__u_36-0002.jpg" xml:id="lub-media-2420" source="gat-u-036-r-klein.jpg" corresp="A2"/>
+    <graphic url="li-gatb__u_18-0002.jpg" xml:id="lub-media-2239" source="gatb-u-018-r-klein.jpg" corresp="A1"/>
+    <graphic url="li-gatb__u_18-0002.jpg" xml:id="lub-media-2803" source="gatb-u-018-v.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2420" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-13">Carol Ludwig grave zu Sultz</persName>, lanndtgrave in <placeName ref="lub-places-18">Kleggew</placeName>, deß <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhofrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, herr zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Blumenegg</placeName>, bekhennen hiemit offennlich unnd thuen khundt allermenigclich mit dißem brieve. Nachdeme sich  
+<lb n="2"/>enndtzwischen unnsern lieben getrewen underthonen der gemaind am <placeName ref="lub-places-41">Tryßnerberg</placeName> an ainem unnd dann der gmaind zue <placeName ref="lub-places-79">Trysen</placeName> am andern thayl ettliche nachpurliche irrung, spenn unnd mißverstennd erhebt unnd zuetragen, umb unnd von wegen deß waydtganngs unnd ackherts halben, so ihr ain thail ver
+<lb break="no" n="3"/>maint nach lauth habennder brief unnd siglen, beßere recht unnd gerechtigkhait darinnen zu haben, aber beede thail sich solcher irer speningen unnd unrichtigen sachen in der güetigkhait mitainanndern nicht vergleichen khönnden noch mögen. Unnd obgleich wol beede thayl dise mit recht zuerörtern 
+<lb n="4"/>willens unnd vorhabenns gewesen. Yedoch beyneben erwegen die darauß volgennde unnachburschafft unnd widerwillenns, auch zu ersparung merckhliches uncostenns, in welchen sy zu baiderseits leichtsamblich khomen hetten mögen, von solchem irem fürnemen gleich willigclichen gestannden unnd unns, als irn  
+<lb n="5"/>recht angebornnen nattürlichen leybheren unnderthenig unnd gehorsamliches vleiß angesucht unnd gebetten, wir wölten zu güetlicher hinlegung unnd vergleichung, dise gannze hanndlung auf unns laden, ire clag unnd beschwerden von unnd zu baider seits gnedigclich anhören, den augenschein der notturfft  
+<lb n="6"/>nach helffen einnemen unnd sy volgennz von ainanndern güetlich zu enndtschaiden, welche unnderthenig unnd diemüetige anmutung unnd gehorsambliches pitten, wir zu verhüetung weytterer ungelegenhait gern angenomen unnd der <supplied>sac</supplied>hen underfangen, wie auch auf heut zu ennd diß brieffs  
+<lb n="7"/><supplied>gesch</supplied>ribnen dato unns dahin auf den augenschein verfüegt in gegenwurtigkhait unnserer hierzue gezognen ambtleuten unnd dienern nach anhörung irer clag anndtwurt, red, widerred unnd verlesung irer furgelegten unnd abgehörten vertragßbrieven solchen augenschein notwenndig besichtiget,  
+<lb n="8"/><supplied>ein</supplied>genomen unnd mitsambt ermelten unnsern hier zugezognen personen aines spruchs unnd vertrags verainbart unnd enndtschlossen wie hernach volgt. Was nun erstlichen den waidganng, den sy, die <supplied>cl</supplied>eger am <placeName ref="lub-places-41">Tryßnerberg</placeName> vorhin gehabt, nach vermög aines alten  
+<lb n="9"/>besigelten unnd unverserten vertragsbriefs, deßen anfanng ist: Wir <persName ref="lub-actors-1670">Ludwig von Branndiß</persName>, freyherr etc., bekhennen etc., unnd am datum, der geben ist am <date when="1497-05-05">fünfften tag deß monats mayen nach Christi gepurt tausenndt vierhundert neunzig <supplied>unnd im sibennden jare etc.</supplied></date> betreffen thuet, derselbi<supplied>g</supplied> waid
+<lb break="no" n="10"/>ganng ist ordenlicher weys an iezo unnd diser gestalt außgemarckhet. Nemblichen solle der erst marckhstain gesezt werden am <placeName ref="lub-places-755">Aiche holz tobel</placeName>, den <supplied><placeName ref="lub-places-756">Bender</placeName></supplied> <supplied>nach</supplied> derselbig marckhstain solle scheinen auf den marckhsta<supplied>in</supplied> <supplied>an Mumaschlinen zaun, der soll schinen auf den marckhstain in <placeName ref="lub-places-758">Rüfi Egg</placeName></supplied>, allda der annder 
+<lb n="11"/>marckhstain soll gesezt werden. Von dannen der gredi nach soll er schinen in den marckhstain <placeName ref="lub-places-759">unnder der Brugg</placeName>, derselbig marckhstain soll zaigen unnd schinen <supplied>uf</supplied> den vierten marckhstain uf <placeName ref="lub-places-760">Vanolen</placeName>. Von dannen der gredi nach soll diser <supplied>marckhsthain scheinen uf den fünfften marckhstain</supplied> uf der <placeName ref="lub-places-761">Hohenegg</placeName>.  
+<lb n="12"/>Item von solcher <placeName ref="lub-places-761">Hohenegg</placeName> an soll der sechßt marckhstain gesezt werden, gesezt werden uf <placeName ref="lub-places-762">Marthin Jonen</placeName>, von dannen der gredi nach soll solcher marckhstain schinen in <placeName ref="lub-places-763">Vallsstobel</placeName> in <placeName ref="lub-places-375">Vall</placeName>. Was unnd wievil also ob disen erzelten marckhstainen an waidganng ligt unnd <supplied>ver</supplied>hannden ist, das  
+<lb n="13"/>sollen baidthail die am <placeName ref="lub-places-41">Tryßnerberg</placeName> unnd <placeName ref="lub-places-79">Tryßner</placeName> mitainanndern freundtlich unnd ainhellig nuzen unnd brauchen. Was aber nuß, kriesy, öpffel, bieren unnd dergleichen opswachs, so ob den angezaigten marckhen gelegen unnd erwachßen würdet, betrifft, das sollen unnd mögen die am  
+<lb n="14"/><placeName ref="lub-places-41">Tryßnerberg</placeName> allainig nuzen unnd nießen. Gleichfals unnd dagegen, was aber unnder merbestimbten marckhen ligen ist, unnd auch alda khünfftiger zeyt erwachßen würdet, solle denen zu <placeName ref="lub-places-79">Trysen</placeName> auch allainig zu nutzen unnd zunießen zugehören, auch sein unnd bleiben. Doch  
+<lb n="15"/>ist sonnderlich hierinnen lauter dahin abgehanndlt unnd betädiget worden, das die von <placeName ref="lub-places-79">Trysen</placeName> allain mit iren vech unnd aber doch mit den schafen unnd schweinen (inmassen solcher schweinen halber obangeregter alter vertragsbrief mit sich bringt) vor mitten mayen hinauf zufaren, nit macht noc<supplied>h gew</supplied>alt  
+<lb n="16"/>haben. Unnd aber nach mitten mayen sollen unnd mögen sy, die von <placeName ref="lub-places-79">Trysen</placeName>, mit allen iren vech, nichzit außgenomen, hinauf über dise vilgesagten marckhen zu füeren, zunuzen unnd zunießen neben inen macht, fueg unnd recht hab<supplied>en</supplied>. Unnd wann die ordennliche rechte zeyt der alpfart verhannden,  
+<lb n="17"/>sollen die an dem <placeName ref="lub-places-41">Tryßnerberg</placeName> ain ieder, er seye gleich reich oder arm, nit mer alls nur ain sumer kuo unnd wievil ainer kelber hat, dieselben anhaimbsch zu behalten macht haben unnd befüegt sein. Da aber ain solcher haußarmer mann verhannden were, der sich sambt seinen weib und kindern  
+<lb n="18"/>mit ainer ainzigen sumer kuo nicht erhalten khönndte, derselbig solle sich vor unns selbsten, oder unnserm lanndtvogt unnd ambtleuten erclagen unnd darüber nach eingeomnen bericht gestaltsame der sachen gnediges unnd gebierliches beschaidts erwarten. So  
+<lb n="19"/>dann betreffennde das spennig äckhert. Ist auch hierinnen gemittelt unnd außgesprochen worden. Nemblichen was unnd wievil ob den hieob sonnderbaren beschribnen marckhen unnd ihenhalb dem tobel an buoch aychlen, schlehen unnd heggen erwachßen unnd verhannden, das soll
+<lb break="no" n="20"/>en beede thail, die am <placeName ref="lub-places-41">Tryßnerberg</placeName> unnd der zu <placeName ref="lub-places-79">Trysen</placeName>, mitainanndern auch nachpurlich unnd zugleich nuzen unnd nießen ohn geverde. Letstlichen auch, demnach wir befunnden, das die fronwäld schlächtlichen erhalten unnd befridet werden. Derowegen 
+<lb n="21"/>die von <placeName ref="lub-places-79">Trysen</placeName> schuldig unnd verbunden sein sollen, solche fronwäld iren pessten vleis unnd vermögen nach zu befriden, wie von altem her in gebrauch gewesen, unnd darumben sy auch gelobt unnd geschworn haben. Nach eröffnung dises spruchs unnd vertrags haben baide gemainden  
+<lb n="22"/><supplied>die am</supplied> <placeName ref="lub-places-41">Trysnerberg</placeName> unnd zu <placeName ref="lub-places-79">Trysen</placeName>, denselben iez geschribner unnd erzelter maßen von unns in unndertheniger unnd gehorsamer dannckhbarkhait auf- unnd angenomen, auch solchem allem unnd ieden würckhlichen zugeleben unnd nachzekhomen, auch gennzlichen dabei zubleiben unns bey hanndts trewen  
+<lb n="23"/>zugesagt unnd versprochen, auch darüber iederthail brief unnd sigl unnderthenig begert, deß wir inen mit gnad bewilliget haben. Unnd <supplied>deß</supplied> zu warem urkhunndt seindt dern zwen gleichlautennde mit ainer hannd geschriben spruch- unnd vertragsbrief mit disem unnserm aignen ange
+<lb break="no" n="24"/>born hieran g<supplied>ehennckgten</supplied> ynsigl ververtigen unnd iedem thayl b<supplied>eso</supplied>nnder ainen zu hannden geben unnd stellen laßen. Doch unns unnd unnser erben an unsern herrlichaiten, recht unnd gerechtigkhaiten, wie auch mergemelten vertragsbrief ausserhalb diser spenningen hanndlung in alweg ohn
+<lb break="no" n="25"/>schädlich unnd unnachthailig. Geben unnd beschehen den <origDate>letsten monatstag aprilis nach Christi unnsers lieben herrn unnd seligmachers geburt gezelt fünffzehenhundert achzig unnd vier jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2419" n="1"/><lb n="1"/>Diser brief trifft an die marchen  
+<lb n="2"/>deß dorfs <placeName ref="lub-places-79">Trißen</placeName>, so sye  
+<lb n="3"/>gegen den bergleüten haben. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-107">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eheschließung von Praxedis von Sulz und Georg I Graf von Hohenlohe</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-107">CZ-SOAT, Cizi rody 344 z Hohenlohe 1</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 4. Oktober 1514 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/344/charter?q=344">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schweikard Herr von  Gundelfingen, vermittelt einen Ehevertrag zwischen Praxedis, Tochter von Rudolf V. Graf von Sulz und Georg I. Graf von Hohenlohe.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-26">Stuttgart</placeName>
+          <date when="1514-10-04">4. Okt 1514</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_344_z_hohenlohe_1_karton_15-0001.jpg" xml:id="lub-media-243" source="1514-10-04-soat-cizirodytrebon-344-hohenlohe01-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_344_z_hohenlohe_1_karton_15-0002.jpg" xml:id="lub-media-244" source="1514-10-04-soat-cizirodytrebon-344-hohenlohe01-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-243" n="1"/><lb n="1"/>Es ist zu wissenn, das durch underthenige, des wolgebornnen herren, herren <persName ref="lub-actors-33">Schweyckharts vonn Gundelfingen</persName> zu <placeName ref="lub-places-516">Newfron</placeName>, freyherrn etc., ein eeliche vermahelschafft got dem almechttigen zu lobe  
+<lb n="2"/>unnd auch vonn merung, liebe unnd frenntschafft wegen, zwischenn unsers <persName ref="lub-actors-8">Ruedolffen graven zu Sulz</persName> eeliche dochter, frawlin <persName ref="lub-actors-34">Braxedis</persName> unnd unser, <persName ref="lub-actors-32">Georigen graven vonn Hohennloe</persName> etc. abgeredt,  
+<lb n="3"/>weliche vergemehelschafft uff hewt durch denn hochgebornnenn fürsten unnd herren, herren <persName ref="lub-actors-2353">Ulrichen hertzogen zu Wurttenberg</persName> unnd zu <placeName ref="lub-places-288">Decke</placeName>, graven zu <placeName ref="lub-places-694">Mumpelgartten</placeName> etc., in namen der heyligen  
+<lb n="4"/>unzerteyltten driveltigkeytt leyblichen mit dem handtstreyche beschlossen, ist mit nachvolgendem gedinge unnd sonderlicher verfassung, wye unnd wellicher massen es der eestewr, der widerlegung  
+<lb n="5"/>der morgengabe, auch andern puncten der eelichen bejwonigen unnd allen dem, das sich in eynem eelichen heyrat gepurt, gehaltten werden solle, dem ist also, das unser grave <persName ref="lub-actors-8">Rudolffs</persName> obgenanten   
+<lb n="6"/>dochter, frawlin <persName ref="lub-actors-34">Braxedis</persName>, unnd wir, grave <persName ref="lub-actors-32">Georig</persName> etc., hie zwischen unnd faßnacht die nechst kompt, uber ein jare one alles verlengern nach cristenlicher ordnung, denn lobichen kirchgange zu rechter bestettigung  
+<lb n="7"/>unnd das erst beyschlaffen thun, unnd alßbalde mit sollichem beyschlaffen sollen unnd wellen, wie grave <persName ref="lub-actors-8">Ruedolff</persName> dem genanten <persName ref="lub-actors-32">Georigen graven vonn Hohennloe</persName> etc., unsrem frenntlichen, lieben dochtermann,   
+<lb n="8"/>unnd auch gedachtter unser dochtern zu irer nieß unnd heymferttigung also bare gebenn unnd raychen funffhündert guldin am gelde, unnd darnach in jars fristen auch one ufhaltung zu irer erstewr  
+<lb n="9"/>anttwortten unnd nießrechten drey tawsent gulden an gelde reinischer, unnd die selben bezalung thun in der zwayen stett, eyner <placeName ref="lub-places-695">Straßburg</placeName> oder <placeName ref="lub-places-17">Rotweyle</placeName>, an wellichen dem ort eins genanten unserm  
+<lb n="10"/>dochtterman wolgeliebtten. Dargegen sollenn unnd wellenn wir, genant <persName ref="lub-actors-32">Georig vonn Hohennloe</persName> etc., des gemelten unsers frenntlichen lieben schwehers dochter, unseren frenntlichen lieben gemahel, frewlin <persName ref="lub-actors-34">Braxedenn</persName> wider
+<lb break="no" n="11"/>legenn unnd schaffen drey tawsent gulden reinischer hawpguts, unnd darzu noch tawsent gulden reinischen zu morgengabe. Unnd sich sollichen vierthausent gulden widerlegung unnd morgengabe mitsampt 
+<lb n="12"/>denn drewtaußent gulden irs zugebrachten hayratgüts unnd vetterlicher eestewr, das seind sibentawßent gulden hawptguts an eyner summam versichern, beweyßen unnd beeidennenn uff unßerer graveschafft  
+<lb n="13"/>aygen ligenden unverpfandtten guttern, gultten unnd nutzungen dergestalt, das die gemelt, unßer frentlich liebe gemahel, ye vonn zwantzig gulden hawptguts ein guldenn, welicher nutzung unnd gefelle  
+<lb n="14"/>wol gehabenn, moge mitsampt eynem sloss unnd behawsung, mit schewen, gartten unnd hoffleytten, darzü guten holz unnd teglichen diensten der undersassen, umb das alles wir auch gnugsame verschrey
+<lb n="15"/>bungen, register unnd urkunde, der genanten unßer frenntlichen lieben gemahel ubergebenn, unnd ir oder irem annwalt, die undersassen daruff auch hulden, globenn unnd schweren sollen, wye sich gepurt,  
+<lb n="16"/>unnd sollenn wir, grave <persName ref="lub-actors-32">Georig</persName> solich urkunde, brieffe unnd register der verweysung unnd morgengabe zu der zeytt unßers beyschlaffens legen, unnd anttwortten zu des vorgenanten unßers lieben schwegers  
+<lb n="17"/>vonn <persName ref="lub-actors-33">Gundelfingen</persName> hannden und gewalt, der die behaltten zu getrewes handen verwaren, unnd zu der zeytt bezalung der drewtawsent gülden heymstewr, so unns die geschicht dieselben in unßers frunnt
+<lb break="no" n="18"/>lichen lieben schwehers gewalt uberanttwortten. Also das die bezalung gelts unnd uberanttworttung der bestyempten verweysung samptschafft mitainander zugaan unnd alßbalde daruff die pflicht der under
+<lb break="no" n="19"/>sassenn, wye obsteet, geschehenn. Es sol auch sonderlichen die gemelt unßer freüntlich liebe gemahel zu aller zeytt macht haben, die bestimpt ir morgengabe thowßent guldin hawptguts nach unßerm tode (da 
+<lb n="20"/>got lange vor sein wölle) wye freyer morgengabe recht unnd gewonhait ist, mit wissentlicher und rechtlicher forme zuverschaffen unnd darmit zu handlen nach allem irem gefallenn, one  
+<lb n="21"/>irung oder widersprechenn unserer erben unnd allermenglichs. Weliche thowsent guldin unsere erbenn nach irer liebe geschefft, ob sie die enderungen, wie vorstatt, thun wurde gitlichen nach irem tode  
+<lb n="22"/>(den got auch lange verhaltte welle), bezalenn unnd awßrichten sollen, oder sovil mit zins ge, vonn zwantzig gulden hawpguts ein guldenn jerlichs zins erstattenn, doch uff ablosung, aber mit der  
+<lb n="23"/>eestewr unnd der widerlegung solle es nachvolgender weyse gehaltten werden, wo sich fregtte, das wir, grave <persName ref="lub-actors-32">Georig vonn Hohenloe</persName> etc., uber kurtz oder lange nach gotlichen willen vorgenantten unßer  
+<lb n="24"/>frunntlichen lieben gemahel mit dot vonn dieser welt abscheiden, wir werden kinder oder keins verlassenn, so solle sie irenn widem, darvon vorgemelt ist, annemen, dennselben mit aller nutzparkeit  
+<lb n="25"/>ir lebenlange geprauchenn unnd inhaben, darzu unsere erbenn irer liebe auch volgen lassenn unnd geben sollen den dritten teyle alles unßers hawßrats, den wir in allen unßern hewsern habenn,  
+<lb n="26"/>werdenn darzu hundert guldin an barschafft, funffzehen rinder, vier ross, hundert malter kornns, hundert malter dinckels, hundert malter habern, vier hundert schaffe, die uff irer widem scheffereyen  
+<lb n="27"/>gaan, vier fueder weins, unnd darzu alle irer liebe klayder, kleynet unnd weß sie mit ir bracht. Auch silber geschir, kleyder unnd kleynat, weß zu irem leybe gehert, so sie bei unns erzeugt hette,  
+<lb n="28"/>oder ir geschenckt worden werenn, aber ferner an keiner andern ligenden oder farenden haabe, noch auch an schulden, wie die genant werden mecht, sol ir liebe kein teyle noch recht haben, daran auch nicht bezalen, auch  
+<lb n="29"/>vergelittenn helffen. Ob aber unsere frenntliche liebe gemahel nach unßren abgang unnd gotlicher schickung sich wider verheyratten wurde, so sollen unßere erben ungesehen, das sie die gutter, das  
+<lb n="30"/>wydems unnd beßitzs in gewehere unnd ingesuch genomen hette, macht unnd gut recht haben, ir anstat derselben widem guttere, jerlichen mit rechung der vierthalb hundert gülden, die ir liebe lawt irer  
+<lb n="31"/>verweysüng von den guttern han soltte, erstattung unnd vergleychung zuthun, ir dieselben summam jerlichen zugeben und die guttere mit aller oberkait, herlichait, zugeherung unnd gerechtigkeyttenn  
+<lb n="32"/>bey iren handen unnd gewaltsame zu behalttenn, wellicher gutter aller unnd yeder unser liebe gemahel ainß alß dan uff jerlich bezalung unnd vergnugung der vierthalbhündert gulden ferrer keins wegs sich  
+<lb n="33"/>verfahrenn solle, das auch in sollicher eelicher verenderung zu unßerer erben gefallen stan, solle, unserer lieben gemahel an stat der farenden haabe, die ir als vorgeschrieben ist, in irer liebe abteylunge zugeaygent  
+<lb n="34"/>werdenn solten, in eyner summa zuvergeltten vierhundert guldin. Unnd dieselben farendenn habe, alle one einich teylung oder sonderüng, bey iren handen zu behaltten. Allein kleyder, kleynott unnd silbergeschirre,  
+<lb n="35"/>so ir liebe mit ir bracht, bey unns erzewgt, oder durch schenküng uberkemen hat, sollenn irer liebe auch volgen, unnd werden, wan auch alßdan, in bestymptter anderer selicher verheyrattüng ir liebe  
+<lb n="36"/>kinder geberenn, so sollen dieselben, ire kinder, mitsampt den sie bey unns uberkomenn hette, mit der hilffe gottes, der drew thawsent güldin irer liebe vetterlicher eestewr unnd der thawsennt  
+<lb n="37"/>guldin morgengabe (ob sie die sunst nit verschafft hette) gleich erben sein. Auch alles das ir liebe an ander farender habe verlassen wurde, zu gleycherer genügen geteylt. Unnd denselbenn kindernn in  
+<lb n="38"/>der anderung sie geborenn, ir angebunügen der erbgerechtigkeytt an den drewtawßent gulden zugeprachts guts unnd andern, das vonn irer liebe zu erbfallenn herkomenn. Were auch denn thawsent guldin  
+<lb n="39"/>morgengabe vonn unsern ennden zu dreyenn jarenn denn nechsten nach unser liebe gemahel obgenant abgang vergnuge unnd bezalt werden, one ferreren irenn costen unns schadenn, doch sollenn  
+<lb n="40"/>die kinde der andren se geborenn nach unser lieben gemahel dott, der wyedem guetter one alle inrede, kein ferrer gerechtigkeytt haben. Wo aber die gemelt frawlin <persName ref="lub-actors-34">Braxedis</persName>, unßer graven <persName ref="lub-actors-8">Rudolffs  
+<lb n="41"/>vonn Sülz</persName> dochter, nach schickung des almechtigen ir lebenn vor genanten unsern freuntlichen lieben dochterman <persName ref="lub-actors-32">Georigen graven vonn Hohennloe</persName> etc. mit dotlichem abgange beschliessenn unnd sie nit kundpar   
+<lb n="42"/>verlassenn wurde. So solte derselbe, unser frenntlicher lieber dochterman, die drey tawsent guldin, die wir ime zusampt unser frenntlichen lieben dochter zu eestewr gegeben hetten, unnd was ir sunst  
+<lb n="43"/>zu erbfals weyß zugestandenn were, sein leben lange behaltten, aber nach seynem tode sol das alles unns, oder unsern erben vonn des genanten unnßrs frenntlichen dochtermans erben nach seynem  
+<lb n="44"/>tode bezalt werdenn in dreyenn jarenn denn nechsten, nemlichen eins yedenn jars das drytteyle unnd allewegen one costen unnd one schaden, ob auch unser grave <persName ref="lub-actors-8">Ruedolffs vonn Sulz</persName> dochter,   
+<lb n="45"/>frawlin <persName ref="lub-actors-34">Braxedis</persName>, gemelt ir morgengabe als obstet nit verschaffen, auch mitt kinder nach irem tode verlassenn wurde, so sollenn dieselbenn thawsent guldin morgengabe mitsampt denn  
+<lb n="46"/>widerlegten verweysten guttern gentzlichen widergefallen an des gemelten unsrs frenntlichen lieben dochtermans, <persName ref="lub-actors-32">Georigen gravenn von Hohenloe</persName> etc., negsten erbe des namenns unnd stammes <orgName ref="lub-actors-2465">vonn  
+<lb n="47"/>Hohennloe</orgName>, wie grave <persName ref="lub-actors-32">Georig vonn Hohennloe</persName> etc. obgenant, sollen unnd wellen auch zuvor, unnd er die drew tawsent gulden unns eestewr, so unns unßer frenntlicher lieber schweher  
+<lb n="48"/>raychenn solle, als obstett, bezalt werden mitsampt unser frenntlichen lieben gemahel frawlin Braxedis, als ir eenöge durch unns selbs, oder unsern volmechttigen gewalthaber zu Rotweyle,   
+<lb n="49"/>vor dem feut gericht nach rechtlicher gnugsamer forme unnd aller notturfft verzeyhen, aller vetterlicher, auch des wolgebornnenn <persName ref="lub-actors-36">Hermans graven zu Sulz</persName>, unsers frenntlichen lieben schwagers,  
+<lb n="50"/>erbschafft unnd gerechtigkeytt, unnd alle dieselben genzlichenn aigen, unnd sellen in des wolgebornnenn <persName ref="lub-actors-35">Hanns Ludwigs graven zu Sulz</persName>, unsers frenntlichen lieben schwehers, seine oder  
+<lb n="51"/>anderer eelichenn sone vonn seynem leybe geborenn handen und gewaltsame. Aber alle erbschafft unnd anfelle, so vonn der gedachten unserer frenntlichen lieben gemachel mutter,  
+<lb n="52"/>der wolgebornnenn frawenn <persName ref="lub-actors-47">Margaretha vonn Sültz</persName>, geborn greffin vonn <placeName ref="lub-places-6">Sonnenberg</placeName>, unsre frenntlichen lieben schwiger, herreichen dutt, oder hernach zufallen wirdet, unnd sonderlichen  
+<lb n="53"/>derselben sechsthawsennt guldin zugebrachter eestewr mitsampt tawsent gulden irer liebe morgengabe, so sie annders dieselbe morgengabe nit hette verschaffen, dazu was zu irer mutter,  
+<lb n="54"/>unser frenntlichen lieben schwiger, leyben gehort, solle alles unangesehen diesen verziegk volgen unnd gedeyenn zu rechter teylung unnd gepurnuß zu der zeytt, so unser liebe gemahel wir  
+<lb n="55"/>unnd ire kinde das nach gotlicher schickung erleben werden. Unnd nemlichen also das wir, grave <persName ref="lub-actors-8">Ruedolff vonn Sultz</persName>, obgenant unßer sone, oder unser erben nach unser lieben gemahel frowenn 
+<lb n="56"/><persName ref="lub-actors-47">Margaretha vonn Sultz</persName>, geborn greffin vonn <placeName ref="lub-places-6">Sonnenberg</placeName>, obgenant der in eynem jare dem nechsten unser frenntlichen lieben dochter <persName ref="lub-actors-34">Braxedis</persName>, oder derselben erben, so die zugegen werenn,  
+<lb n="57"/>volgen unnd anttwortten lassenn wollen, alles das zu gedachter irer mutter, unßer frenntlichen lieben gemahel leybe gehort hat, unnd nach irem unnd unßerm abgang, den got lange  
+<lb n="58"/>verhietten wolle. So sollen der vorgenant unser frenntlicher lieber sone <persName ref="lub-actors-35">Hanns Ludwig</persName> oder andere unsere sone, graven vonn Sulz, oder ire kinde, dem genanten unßerm frenntlichenn  
+<lb n="59"/>liebenn dochterman vonn <persName ref="lub-actors-32">Hohennloe</persName>, unnd unser lieben dochter frawlin <persName ref="lub-actors-34">Braxedis</persName>, oder irenn kinden unnd erben, reychen, geben unnd zu iren hannden anntwortten, ire gerechtigkeyttenn unnd  
+<lb n="60"/>erbschafften vonn denn sechßtawßent guldin mutterlichs heyrats, auch denn thaußent guldin mutterlicher morgengabe, auch alles andren underziegen, mutterlichen anfals unnd awßtrwcklichenn,   
+<lb n="61"/>dergestalt, das solichs alles vonn unsern sonen obgemelt, oder irenn erben, one alles widersprechen, one inrede, one verzwgk unnd one allen behelffe, wye yemant des erdencken machte, auch one  
+<lb n="62"/>costen unnd one schaden, in der stette eynen <placeName ref="lub-places-695">Straßburg</placeName>, <placeName ref="lub-places-108">Ulm</placeName>, oder <placeName ref="lub-places-17">Rottweyle</placeName>, welliche unser frenntlicher lieber dochterman, unser dochter, oder ire kinder, bestymmenn, vollenzogen unnd vergnugt  
+<lb n="63"/>werdenn, sollenn in den nechsten dreyenn jarenn nach unserm unnd unser gemahel abgange, mit namen eyns yeden jars, denn dryttenteyle, wann auch der obgenant unßer lieben sone <persName ref="lub-actors-35">Hanns  
+<lb n="64"/>Ludwig grave zu Sulz</persName> unnd unser lieben bruder, grave <persName ref="lub-actors-36">Herman</persName> unnd wir, grave <persName ref="lub-actors-8">Rudolff</persName> (das got verhuetten wolle) one manlich geborn leybs erben, des namen unnd stammen <orgName ref="lub-actors-7">vonn  
+<lb n="65"/>Sülz</orgName> abgan wurden, so solt auch dieser verzyegk dem gedachten unserm frenntlichen lieben dochterman vonn <persName ref="lub-actors-32">Hohenloe</persName> unnd unnßer dochter, seiner gemahel unnd iren erben unschedlichen, sonder alle  
+<lb n="66"/>anfallende erbschafft, wye die herkemenn were, oder namen hette, unbegeben sein in alle wege one alle geverde. Unnd daruff so geredenn, globenn unnd versprechen wir, grave <persName ref="lub-actors-8">Ruedolff  
+<lb n="67"/>vonn Sulz</persName>, für unns unnd unsern lieben sons graven <persName ref="lub-actors-35">Hanns Ludwigen</persName>, unnd unser liebe dochter frawlin <persName ref="lub-actors-34">Braxedis</persName>, unnd unßer alle erben, unnd wür, grave <persName ref="lub-actors-32">Georig vonn Hohenloe</persName> etc.,   
+<lb n="68"/>für unns unnd unser erben, in crafft dießer verschreybung alles vorgeschriebenn, sovil unßer yeden das berurt <gap/> ehese stette unnd unverprochenn zuhaltten dem allem getrewlichen nach
+<lb break="no" n="69"/>zukomenn, one alle widerrede unnd one alle geverde. Were aber sachen (das got nit welle), das unßer grave <persName ref="lub-actors-8">Rudolffs vonn Sulz</persName> dochter, frawlin <persName ref="lub-actors-34">Braxedis</persName>, oder wir, grave <persName ref="lub-actors-32">Georig vonn 
+<lb n="70"/>Hohennloe</persName> etc., vor unsren eelichen kirchgang und beyschlaffeng das abgan wurden, so solt kein teyle, alß dan gegen dem andren, umb eyncherlay hievorgeschriben, wye das vonn eynichen teyle furgewandt  
+<lb n="71"/>werdenn mocht, einich forderung, zuspruch, oder recht haben, in keynem wege, sonder damit alle diese verpflichtung gefallen tode unnd abe sein. Unnd des alles zu warem urkunde, so haben  
+<lb n="72"/>wir, grave <persName ref="lub-actors-8">Ruedolff vonn Sulz</persName>, unnd wir, grave <persName ref="lub-actors-32">Georig vonn Hohennloe</persName> etc., bayde samentlichen unnd yeder sonderlichen sein insigel an dießer heyrats brieffe zwenn lassen henckhen,   
+<lb n="73"/>unnd darzu erbetten unsern frenntlichen lieben schwager <persName ref="lub-actors-33">Sweyckhern herrenn zu Gundelfingen</persName>, das der sein insigel, doch ime onn schaden, auch daran hat lassen hencken, der yedertayl eynenn  
+<lb n="74"/>hat. Gebenn unnd geschehenn zu <placeName ref="lub-places-26">Stutgartt</placeName> uff <origDate>sant Francisen tage nach Christi gepurt funffzehenhundert unnd inn dem vierzehenden jarenn</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-244" n="1"/><lb n="1"/>Heyrats brief zwuschen graf <persName ref="lub-actors-32">Jorgen zu Hohenloe</persName><lb n="2"/>und fraw <persName ref="lub-actors-34">Braxedis</persName> geporne gräfin zu Sultz etc. 
+<lb n="3"/>Hierin ligt auch die quitantz von <persName ref="lub-actors-106">Ludwig Casamir grafen  
+<lb n="4"/>zu Hohenloye</persName> 
+<lb n="5"/>anno 1514. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

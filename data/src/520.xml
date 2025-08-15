@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-520">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lucius Iter, Bischof von Chur, verleiht Balthasar von Ramschwag den Zehnt zu Triesen sowie zwei Huben zu Flerden</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-520">LI-GAT, U 18</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 1. Februar 1544 / Beschreibstoff: Pergament / Siegel: ein Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 37f.</bibl>
+          <bibl>Gurt, Claudius: Edition in <ref target="http://www.e-archiv.li/D42300">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Lucius Iter, Bischof von Chur, verleiht Balthasar von Ramschwag, Vogt zu Gutenberg, den Zehnt zu Triesen unter dem Wald, von dem ein Viertel der Kirche Triesen gehört, sowie zwei Huben zu Flerden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-295">Iter, Lucius</persName>
+          <placeName ref="lub-places-170">Chur, Schloss</placeName>
+          <date when="1544-02-01">1. Feb 1544</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_18-0002.jpg" xml:id="lub-media-2409" source="gat-u-018-r.jpg" corresp="A"/>
+    <graphic url="li-gat__u_18-0002.jpg" xml:id="lub-media-2410" source="gat-u-018-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2409" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-295">Lucius</persName>, von gottes gnaden bischoff zu <placeName ref="lub-places-175">Chur</placeName>, bekhennen unnd thun khundt  
+<lb n="2"/>allermengklich mit disem brieff, das wir dem edlen vestenn <persName ref="lub-actors-156">Baltisar von Ramschwag</persName>,  
+<lb n="3"/>römisch königlicher mayestät vogt zu <placeName ref="lub-places-13">Guttenberg</placeName> zu ainem lehenn recht unnd redlich verlyhen habenn,  
+<lb n="4"/>unnd lyhenn auch wissenntlich in krafft ditz brieffs, was wir im vonn recht oder  
+<lb n="5"/>gewonhait darann zu lyhenn habenn, lyhenn sollenn unnd mogen, unns, unnsern nach
+<lb break="no" n="6"/>khomen unnd unnserm <orgName ref="lub-actors-2466">Stifft</orgName> unnschädlich. Namlich denn zehenden zu <placeName ref="lub-places-79">Trißner</placeName> kilch
+<lb break="no" n="7"/>spill under dem waldt, daruß der viertail desselbenn zehenden der kirchen daselbß 
+<lb n="8"/>zugehört. Item zwo huben zu <placeName ref="lub-places-171">Flordenn</placeName> gelegen, mit allen iren rechten und zugehörden.  
+<lb n="9"/>Also das er solch lehenn müge inhaben, nutzen unnd niessen, nach solcher lehen recht,   
+<lb n="10"/>hierumb hat unns der obgenant <persName ref="lub-actors-156">Baltisar vonn Ramschwag</persName> geschworen aine aydt  
+<lb n="11"/>zu gott unnd denn heiligenn, unns, unnsern nachkhomen unnd unnserm <orgName ref="lub-actors-2466">Stifft</orgName> zu <placeName ref="lub-places-102">Chur</placeName>  
+<lb n="12"/>gethreuw diennstlich unnd gewertig zu sein, unnd alles zu thonn, so ain lehenns
+<lb n="13"/>man seinem lehennherrn vonn solcher lehenn wegenn billich thonn soll und pflichtig  
+<lb n="14"/>ist, und sonnderlich solche lehenn an keinem endt zu berechten, dann vor unns. Des  
+<lb n="15"/>zu urkhundt habenn wir unnser secrett insigel offennlich thonn hengcken ann  
+<lb n="16"/>disem brieff, der geben ist in unnserem <placeName ref="lub-places-170">Schloß Chur</placeName> am <origDate>ersten tag februarii  
+<lb n="17"/>im jar, do man zalt nach der geburt Cristi unnßers erlösers tusennt funff
+<lb break="no" n="18"/>hundert unnd im vierundviertzigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2410" n="1"/><lb n="1"/>Lehen<supplied>briefe</supplied><lb n="2"/>von herrn <persName ref="lub-actors-295">Luciu</persName> bischof zu <placeName ref="lub-places-175">Chur</placeName>  
+<lb n="3"/>ertheilt <persName ref="lub-actors-156">Baltaßar von Ramschwag</persName>  
+<lb n="4"/>römisch kuniglicher majestät vogt zu <placeName ref="lub-places-13">Guttenberg</placeName> 
+<lb n="5"/>betreffend das lehenn zu <placeName ref="lub-places-79">Triesen</placeName> und in dem  
+<lb n="6"/>veldt, item zwo huben zu <placeName ref="lub-places-171">Florden</placeName> gelegen. 
+<lb n="7"/>Geben in <placeName ref="lub-places-170">Chur</placeName>, den 1. februarii 1544. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

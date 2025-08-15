@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-737">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Güterverzeichnisse der Pfarrpfründe zu Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Dieses Schriftstück ist inhaltlich weitgehend identisch mit einem Verzeichnis vom 17. August 1579. In Bezug auf die genannten Personen ist es unklar, wann diese gelebt haben.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-737">LI-LA, PfäA 21/07</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 1513 bis 1555 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Verzeichnis der Güter der Pfarre Eschen aus dem Jahr 1513 und 1555.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1513" to="1620">ca. 1513 – ca. 1620</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_21_07-0001.jpg" xml:id="lub-media-1583" source="pfafa-21-07-s01.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_07-0002.jpg" xml:id="lub-media-1584" source="pfafa-21-07-s02.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_07-0003.jpg" xml:id="lub-media-1585" source="pfafa-21-07-s03.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_07-0004.jpg" xml:id="lub-media-1586" source="pfafa-21-07-s04.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1583" n="1"/><lb n="1"/>Verzeichnuß der güeter der pfarrpfrundt <placeName ref="lub-places-35">Eschen</placeName> anno 1513. 
+<lb n="2"/>1. Erstlich ein pfarrhoff und krutgertlin, stosst zu allen seiten an die <placeName ref="lub-places-696">Allmeind</placeName> und strassen. 
+<lb n="3"/>Mer ein weingarten ob <placeName ref="lub-places-35">Eschen</placeName> dem dort mit xiiii bett. 
+<lb n="4"/>2. Mer ein widumb an <placeName ref="lub-places-443">Marxhalden</placeName>, stosst an einer seiten an <persName ref="lub-actors-1099">Ulrich Walchen</persName>, zu der anderen an <persName ref="lub-actors-165">Hanß  
+<lb n="5"/>Ori</persName>, amman, zu der driten an <placeName ref="lub-places-699">Dietprechts</placeName> weingarten, zur vierten an <persName ref="lub-actors-2360">Lienardt Brendli</persName>, zur 5. an <orgName ref="lub-actors-2361">Hasler</orgName>,   
+<lb n="6"/>Jung <persName ref="lub-actors-2362">Andreß Öri</persName> und <persName ref="lub-actors-222">Hug Knabenknecht</persName>. 
+<lb n="7"/>3. Mer ein äckerlin, genant daß <placeName ref="lub-places-444">Greuz äckherli</placeName>, stost zu der einen seiten an die <placeName ref="lub-places-345">Landtstrass</placeName>, zur  
+<lb n="8"/>anderen an <persName ref="lub-actors-1105">Jacob Algeuwer</persName> und <persName ref="lub-actors-165">Hanß Öri</persName>, amman, zum driten an <persName ref="lub-actors-1629">Bartli Maderß</persName> erben, 4. an <persName ref="lub-actors-408">Jörg  
+<lb n="9"/>Dietprechts</persName> guot. 
+<lb n="10"/>4. Mer ein widum im <placeName ref="lub-places-404">Bendern Veld</placeName> gelegen, stosst an der einen siten an die <placeName ref="lub-places-345">Landtstrass</placeName>, 2 an die  
+<lb n="11"/><orgName ref="lub-actors-2361">Haßler</orgName>, 3 an <persName ref="lub-actors-1105">Jacob Algeüer</persName>, 4 an <persName ref="lub-actors-1629">Bartli Maders</persName> erben und <persName ref="lub-actors-222">Hug Knabenknecht</persName>. 
+<lb n="12"/>5. Mer ein manmad wisen auff <placeName ref="lub-places-445">Banx</placeName> gelegen, stosst an <persName ref="lub-actors-1104">Victor Wolfart</persName> schnider, 2 an <persName ref="lub-actors-818">Joß Walckhen</persName>,  
+<lb n="13"/>3 an <persName ref="lub-actors-1079">Conrad Öri</persName> wechsel wiß, 4 an <persName ref="lub-actors-2055">Andreß Egli</persName>. 
+<lb n="14"/>6. Mer ein widum zu <placeName ref="lub-places-37">Müßnen</placeName> gelegen, stosst an zweyen orten an die weingerten, oben an zweyen  
+<lb n="15"/>seiten an die <placeName ref="lub-places-697">Fezer</placeName> gütter, zue driten an <persName ref="lub-actors-2367">Ulrich Marxer</persName> und an <persName ref="lub-actors-1124">Jörg Hemerli</persName>. 
+<lb n="16"/>7. Mer ein ackher zu <placeName ref="lub-places-30">Muren</placeName> in der <placeName ref="lub-places-446">Sandgruoben</placeName> gelegen, stost an ainer seiten an <persName ref="lub-actors-217">Ulrich Feren</persName>  
+<lb n="17"/>erben und an der herrschaft gut, und an <persName ref="lub-actors-216">Jacob Kranzen</persName>, zue 3. an der herrschafft guot, zum  
+<lb n="18"/>4 an der Frauen zu <placeName ref="lub-places-698">S. Peter</placeName>. 
+<lb n="19"/>8. Mer 2 widumb zu <placeName ref="lub-places-447">Nendlen</placeName>, der ein stosst an die <placeName ref="lub-places-345">Landtstrass</placeName> und an <placeName ref="lub-places-447">Nendlen Meder</placeName>.  
+<lb n="20"/>Der ander widumb an <persName ref="lub-actors-1103">Andreß Wigen</persName> und an die straß aufwert gen <placeName ref="lub-places-53">Schan</placeName>. 
+<lb n="21"/>9. Mer ein pritschen an <placeName ref="lub-places-448">Scheggenwiß</placeName> gelegen, stost zu der ainen saiten an die <orgName ref="lub-actors-1240">Ferer</orgName>, 2 an die <orgName ref="lub-actors-1128">Kiber</orgName>,  
+<lb n="22"/>3 an <persName ref="lub-actors-1080">Bartli Öri</persName> und Jacob Fromen. 
+<lb n="23"/>10. Mer ein pritschen under dem <placeName ref="lub-places-449">Garten</placeName> gelegen, stost zur einen siten an <persName ref="lub-actors-1081">Joß Öri</persName> erben, <persName ref="lub-actors-1089"><persName ref="lub-actors-1089">Jacob  
+<lb n="24"/>Meyers</persName></persName> und <persName ref="lub-actors-1095">Thomen Schuollens</persName> erben und <persName ref="lub-actors-2372">Thiß Öriß</persName> erben, 2 an <persName ref="lub-actors-222">Hug Knabenknecht</persName> und  
+<pb facs="lub-media-1584" n="2"/>
+<lb n="25"/><persName ref="lub-actors-1099">Ulrich Walchen</persName>, 3 an <persName ref="lub-actors-165">Hanß ammen Öriß</persName>, 4 an <persName ref="lub-actors-1078">Andreß Öri</persName> dem Alten. 
+<lb n="26"/>11. Mer ein prtischen in <placeName ref="lub-places-115">Erla</placeName> gelegen, stosst an der einen seiten an <placeName ref="lub-places-450">S. Luciß guot</placeName>, 2 an <persName ref="lub-actors-1122">Hanß Haßler</persName>,  
+<lb n="27"/>3 an der <placeName ref="lub-places-451">Mader</placeName> preiten und <persName ref="lub-actors-165">Hanß ammen Öriß</persName>, 4 an <persName ref="lub-actors-2360">Lienhardt Brendliß</persName>. 
+<lb n="28"/>12. Mer ein ackher im <placeName ref="lub-places-442">Thall</placeName> auff dem berg gelegen, stost zu der einen seiten an der herrschafft guot,  
+<lb n="29"/>2 an <persName ref="lub-actors-1114">Marx Fezens</persName> erben, 3 an <persName ref="lub-actors-1125">Valathin Kauffman</persName> kinder, 4 an <persName ref="lub-actors-1080">Bartli Öri</persName>. 
+<lb n="30"/>13. Mer ein ackher im <placeName ref="lub-places-442">Thall</placeName>, stost an der einen seiten an <persName ref="lub-actors-1099">Ulrich Walchen</persName> weingarten, zu der anderen an  
+<lb n="31"/>und 3 an der herrschaft gut, 4 an <persName ref="lub-actors-165">Hanß Öriß</persName> gut und <persName ref="lub-actors-610">Stachis Marxer</persName> erben und an die  
+<lb n="32"/>Frauen und an <persName ref="lub-actors-165">Hanß Öris</persName> ammen und <persName ref="lub-actors-1093">Hanß Schreibers</persName> und an die <placeName ref="lub-places-455">Kaufleuthen ackher</placeName> und  
+<lb n="33"/>an <persName ref="lub-actors-2373">Thiß Gaist</persName> erben. 
+<lb n="34"/>14. Mer <placeName ref="lub-places-456">S. Martiß punt</placeName>, stost an die <placeName ref="lub-places-345">Landtstraß</placeName>, 2 an alten <persName ref="lub-actors-2362">Andreß Öri</persName>, 3 an <persName ref="lub-actors-818">Joß Walchen</persName>,  
+<lb n="35"/>4 an <persName ref="lub-actors-1093">Hanß Schreibers</persName>, nochmalen an ammen <persName ref="lub-actors-165">Hanß Öri</persName>. 
+<lb n="36"/>15. Mer ein hoffstatli, daruff der zehendstadell stehet. 
+<lb n="37"/>Summa: Ein weingart, 4 äckher, 3 widum, 1 manmad wiesen,  
+<lb n="38"/>2 widumb oder pritschen zu <placeName ref="lub-places-118">Nendlen</placeName>, 3 pritschen zu <placeName ref="lub-places-35">Eschen</placeName>. 
+</p>
+        <p><pb facs="lub-media-1585" n="3"/><lb n="39"/>Diß sind die gerechtigkeit der pfarrpfrundt <placeName ref="lub-places-35">Eschens</placeName>, wie ichs, <persName ref="lub-actors-1153">Marti Scroff</persName>, pfarrherr,   
+<lb n="40"/>anno 1555 empfangen vom hochwürdigen fürsten und herrn <persName ref="lub-actors-1074">Rodolffen</persName>, deß <orgName ref="lub-actors-516">Heiligen Römischen Reichs</orgName>  
+<lb n="41"/>gefürsteten praelaten in beysein deß ehrbaren amman <persName ref="lub-actors-401">Brendlins</persName>, <persName ref="lub-actors-1082">Theiß Ori</persName>, waibels, <persName ref="lub-actors-1094">Jacob Schreiber</persName>,  
+<lb n="42"/><persName ref="lub-actors-2263">Andreß Wangners</persName> und <persName ref="lub-actors-1081">Jos Öri</persName>. 
+<lb n="43"/>Und ist zu wüßen, daß ein pfarrer in <placeName ref="lub-places-35">Eschen</placeName> hat klein und groß zehenden, drey felder, so  
+<lb n="44"/>allwegen daß ain dem pfarrherrn zehenden gibt 1. <placeName ref="lub-places-461">Güdigen</placeName>, 2. <placeName ref="lub-places-463">Popen Veld</placeName>, 3. hinder <placeName ref="lub-places-464">Wolff ackher</placeName>, 4  
+<lb n="45"/><persName ref="lub-actors-1089">Jacobs Maien</persName>. Item die von <placeName ref="lub-places-118">Nändlen</placeName> gend auch allerley zähenden von unerdenckhlichen  
+<lb n="46"/>jahren. Der weinzehend, so ein pfarrer für sin theil einzücht, 1. <placeName ref="lub-places-459">Ringen Weingärtlin</placeName>,  
+<lb n="47"/>2. <placeName ref="lub-places-457">Kopf weingarten</placeName>, 3. daß weingartlin im <placeName ref="lub-places-438">Graffert</placeName>, etwaß im <placeName ref="lub-places-460">Anckhweiler</placeName>. 
+<lb n="48"/>Item hat der pfarrer ein huß- und krutgarten, auch güetter. Item wie ein nachpar wund, weid,  
+<lb n="49"/>azung holz und alles, waß im bedürfftig. Item klein zehenden, hanff, rüeben, erbsen, fenck,  
+<lb n="50"/>hirsch, bonen, kruth. Item öbfel, piren, nussen und alle frücht, wie sie den namen haben, von  
+<lb n="51"/>unerdenckhlichen jahren här. Item in der kirch tauffgeld, gräbnusgeld, beichtgelt, opfer jahr
+<lb break="no" n="52"/>zeitgeldt. Item soll ihn niemand st<supplied>ra</supplied>ffen als ein obrigkeit, wo eß notwendig ist.
+<lb n="53"/>Item daß pfarrhauß in tach und hüllung halten mit hilff der gmeind, wie von alter häro,  
+<lb n="54"/>wie mihr mein herr auferlegt hat zu thuon. Item gibt man ain lib. d. dem herren  
+<lb n="55"/><orgName ref="lub-actors-7">von Sulz</orgName> schirmgeldt, auch verehrt man ihm ein fuoder stroh. 
+</p>
+        <p><lb n="56"/>Anno 1620 moratur <persName ref="lub-actors-667">Franciscus Dietrich</persName> qui domum parochialem et horrea renovavit,  
+<lb n="57"/>reliquit dimidium plaustrum optimi vini, quod illustrissimus princeps Michael ecclesiae me instigante  
+<lb n="58"/>donavit et sic redditus eius de novo promovit et auxit. F. Joa. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1586" n="1"/><lb n="1"/>Abschrifft aus einem alten pergameno  
+<lb n="2"/>calendario von dem stifft der pfarrey zu <placeName ref="lub-places-35">Eschen</placeName><lb n="3"/>wie auch der pfarrgüeter etc. etc. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

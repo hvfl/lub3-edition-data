@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-908">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schiedsspruch zwischen den Grafen von Sulz und Ulrich Philipp von Sax-Hohensax betreffend die Bezahlung eines Zinses, die Gerichtskompetenzen auf dem Rhein, die Fähre in Ruggell und die Herrschaftszugehörigkeit von Lienhard Albrecht</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Der Schiedsspruch liegt lediglich in einer Abschrift aus dem 17. Jahrhundert vor. Der Verfasser der Abschrift hat sich bei der Jahrzahl verschrieben. Aus der Angabe im Text, dass die Parteien den Schiedsspruch bis zum Beginn des nächsten Jahres 1556 annehmen oder ablehnen sollen, geht jedoch eindeutig hervor, dass der Spruch 1555 gefällt wurde. Laut einer Aussage von Johann Christoph von Sax-Hohensax von 1620 wurde der Schiedsspruch von hohensaxischer Seite nicht angenommen, vgl. [SSRQ SG III/4, Nr. 132](https://editio.ssrq-online.ch/SG/III_4/132-1.html).</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-908">CH-StASG, AA 2 A 4-3, Nr. 1</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Entstehungszeit: 17. Jh. / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: <ref target="https://editio.ssrq-online.ch/SG/III_4/132-1.html">SSRQ SG III/4, Nr. 132</ref></bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Göldi, Landvogt in Rheineck, und Jakob Stüssi, Landvogt in Werdenberg, als von Freiherr Ulrich Philipp von&#13;
+Sax-Hohensax, Herr zu Sax-Forstegg, ernannte Schiedssrichter sowie Balthasar von Ramschwag, Vogt auf Gutenberg, und Eitl Hans Gienger, Vogt in Feldkirch, als von den Brüdern Graf Wilhelm V. und Graf Alwig IX. von Sulz, Herren zu Vaduz und Schellenberg, ernannte Schiedssrichter, fällen im Konflikt zwischen den beiden Parteien folgenden Schiedsspruch:&#13;
+1.  Die Grafen von Sulz sollen den Zins von 80 Gulden, den sie dem Freiherrn von Hohensax schulden, mit 16 Batzen oder 64 Etschkreuzern pro Gulden bezahlen.&#13;
+2. Bezüglich des Anspruchs des Freiherrn, dass er als Herr über den Rhein berechtigt sei, auch auf der sulzischen Seite der Fähre bei Bendern zu strafenm wird entschieden, dass die Grafen zur Hälfte Herren über den Rhein sein sollen. Wenn es auf der sulzischen Seite des Rheins zu Vergehen kommt, sollen die Grafen die Bussen bei Niedergerichtsbarkeitsdelikten mit dem Herrn zu Sax teilen. Bei Hochgerichtsbarkeitsdelikten sollen ihnen die Bussen ganz zustehen. Die Fischereirechte sollen, wie bisher, dem Herrn zu Sax gehören.&#13;
+3. Der Inhaber der Fähre zu Ruggell, die den Grafen von Sulz gehört, soll den Herrn zu Sax und seine Diener kostenlos transportieren.&#13;
+4. Bezüglich der Herrschaftszugehörigkeit des Leibeigenen Lienhard Albrecht wird auf eine Regelung verzichtet, da die beiden Parteien angeboten haben, sich selber gütlich zu einigen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-304">Hochgerichtsbarkeit</term>
+          <term ref="lub-keywords-322">Niedergerichtsbarkeit</term>
+          <term ref="lub-keywords-252">Fähre</term>
+          <term ref="lub-keywords-320">Fischereirecht</term>
+          <term ref="lub-keywords-375">Etschkreuzer</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-734">Göldli, Hans</persName>
+          <placeName ref="lub-places-36">Bendern</placeName>
+          <date when="1555-09-16">16. Sep 1555</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <placeName ref="lub-places-36">Bendern</placeName>
+          <date when="1555-09-16">16. Sep 1555</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-735">Gienger, Eitl Hans</persName>
+          <placeName ref="lub-places-36">Bendern</placeName>
+          <date when="1555-09-16">16. Sep 1555</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-736">Stüssi, Jakob</persName>
+          <placeName ref="lub-places-36">Bendern</placeName>
+          <date when="1555-09-16">16. Sep 1555</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_2_a_4-3__nr__1-0001.jpg" xml:id="lub-media-2840" source="stasg-aa-2-a-4-3-1-3.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_2_a_4-3__nr__1-0002.jpg" xml:id="lub-media-2841" source="stasg-aa-2-a-4-3-1-2.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_2_a_4-3__nr__1-0003.jpg" xml:id="lub-media-2842" source="stasg-aa-2-a-4-3-1-1.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2842" n="1"/><lb n="1"/>Zuwüssen alß sich zwüschent dem edlen, wolgebohrnen 
+<lb n="2"/>herren <persName ref="lub-actors-164">Ulerich Phillippen, freyherr zu der Hohen Sax</persName>, 
+<lb n="3"/>herren zu <placeName ref="lub-places-164">Sax und Vorstegg</placeName>, ains und den wolgebornen 
+<lb n="4"/>herren, herren <persName ref="lub-actors-10">Wilhelm</persName> und <persName ref="lub-actors-9">Albig, gebrüdere, graffen zu 
+<lb n="5"/>Sultz</persName>, landgraffen zu <placeName ref="lub-places-18">Cleggew</placeName>, herren zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> 
+<lb n="6"/>und <placeName ref="lub-places-12">Pliomenegg</placeName> etc., anderstheils, kurtz vorgangener zeit her 
+<lb n="7"/>nachpurlich spenn, nemblich erstlich von wegen achtzig 
+<lb n="8"/>guldin zinß, welche die erstgenandten, wolgebohrnen 
+<lb n="9"/>herren <orgName ref="lub-actors-7">graffen zu Sultz</orgName> etc. den ernenneten <orgName ref="lub-actors-2443">freyherren 
+<lb n="10"/>zu Sax</orgName> jährlich zu reichen schuldig, und er, <persName ref="lub-actors-164">freyherr zu 
+<lb n="11"/>Sax</persName>, dieselben in gold zu haben vermainndt, zum anderen 
+<lb n="12"/>antreffendt, dz sich der <persName ref="lub-actors-164">herr von Sax</persName> als ein herr des 
+<lb n="13"/><placeName ref="lub-places-103">Rheins</placeName> dem hoch und nidern gricht darauf zugehörig 
+<lb n="14"/>seyendt, er auch am faar zu <placeName ref="lub-places-36">Bemedern</placeName> auf der wol
+<lb break="no" n="15"/>ermelten herren <orgName ref="lub-actors-7">graffen zu Sultz</orgName> seiten zu straffen
+<lb n="16"/>haben anmasst und daßelb die herren gräffen 
+<lb n="17"/>ihme, <persName ref="lub-actors-164">herren von Sax</persName>, widerfechten, zum driten belangend 
+<lb n="18"/><persName ref="lub-actors-737">Lienharten Albrechten</persName>, welcher ermelts <persName ref="lub-actors-164">herren von Sax</persName> 
+<lb n="19"/>leibaigner seyn soll und die herren <orgName ref="lub-actors-7">graffen zu Sultz</orgName> 
+<lb n="20"/>für eigen ansprechen und zu steüren vermanend, 
+<lb n="21"/>und zum vierdten und letsten dz faar zu <placeName ref="lub-places-2">Reggel</placeName>, 
+<lb n="22"/>den herren <orgName ref="lub-actors-7">graffen zu Sultz</orgName> zugehörig berüerend, erhebt 
+<lb n="23"/>und zugetragen. Und nach dem sich wolgedachte gräffen 
+<lb n="24"/>und herren zu beiderseits gemelter eingewachsner 
+<lb n="25"/>nachbeürlichen spen halben gern für sich selbs mit ein anderen 
+<lb n="26"/>vergleicht und vertragen heten, so hat aber solche ver
+<lb break="no" n="27"/>gleichung durch sy selbs nit ungern erfunden werden
+<lb n="28"/>und damit aber zwischen denselben fürterhin wie bisher 
+<lb n="29"/>gute nachpurschafft und väterliche fründschafft erhalten 
+<lb n="30"/>und gepflantzt werde, haben ermelte beede herren 
+<lb n="31"/>partheyen aufgeschlegne underhandlung, sie ermelter 
+<lb n="32"/>spenn halben zu beiderseits güetlich und nachpurlich von 
+<pb facs="lub-media-2841" n="2"/>
+<lb n="33"/>einanderen endtscheidigen auf einen gleichen 
+<lb n="34"/>unpartheyischen zusatz gesetzt und nemblich ernenter 
+<lb n="35"/><persName ref="lub-actors-164">herr von Sax</persName> als beschwehrter auf seiner seiten die 
+<lb n="36"/>edlen, ehrvessten, fürnemmen <persName ref="lub-actors-734">Hans Göldi</persName>, landvogt zu 
+<lb n="37"/><placeName ref="lub-places-502">Reinegg</placeName>, und <persName ref="lub-actors-736">Jacob Steüssi</persName>, landvogt der herschafft 
+<lb n="38"/><placeName ref="lub-places-73">Werdenberg</placeName>, und die wolermelten herren <orgName ref="lub-actors-7">graffen zu 
+<lb n="39"/>Sultz</orgName> zu irer gnaden theil die edlen, vesten <persName ref="lub-actors-156">Balthaßar 
+<lb n="40"/>von Rambschwag</persName>, rhömisch khöniglicher meyestät landvogt zu <placeName ref="lub-places-13">Gutten
+<lb break="no" n="41"/>berg</placeName>, und <persName ref="lub-actors-735">Eyttlhannsen Giennger</persName>, seiner khöniglichen meyestät vogt
+<lb n="42"/>der herschafft <placeName ref="lub-places-10">Veldkirch</placeName>, zu zusetzen benendt und fürgenommen. 
+<lb n="43"/>Welche jetz bennandte sich auch zu erhaltung guter fründ
+<lb break="no" n="44"/>schafft und nachpurschafft gutwillig hierzu bewegen
+<lb n="45"/>laßen und haben. Demnach jetz ermelter von beiden 
+<lb n="46"/>partheyen erkiesster gleicher zusatz nach anhörung 
+<lb n="47"/>vorgerüerter spenn einen gütigen vertrag fürge
+<lb break="no" n="48"/>nommen und denselben beiden herren partheyen eröffnet
+<lb n="49"/>und zuerkennen geben, wie nachvolgt: Erstlich 
+<lb n="50"/>so vil belangt die achtzig guldin jerlichs zinß ist 
+<lb n="51"/>beredt, dz die mehr wolgemelten herren <orgName ref="lub-actors-7">graffen zu 
+<lb n="52"/>Sultz</orgName>, gebrüeder, den wolermelten <persName ref="lub-actors-164">freyherren zu Sax</persName> 
+<lb n="53"/>ihme fürterhin jehrlich und jedes jahrs besonders für 
+<lb n="54"/>jeden guldin zinß sechzehen batzen oder vier und 
+<lb n="55"/>sechzig <term ref="lub-keywords-375">Etsch kreützer</term> gerait zu verzinßen und zuver
+<lb break="no" n="56"/>legen schuldig seyn söllen. Ob sich aber über kurtz oder
+<lb n="57"/>lange zeit begeben, daß die herren <orgName ref="lub-actors-7">graffen zu Sulz</orgName> ermelte 
+<lb n="58"/>achzig guldin jerlichs zinß von ermelten <persName ref="lub-actors-164">herren zu Sax</persName> 
+<lb n="59"/>oder desselben erben widerumben an sich lößen wolten, 
+<lb n="60"/>so soll solche ablößung innhalt und vermög der 
+<lb n="61"/>alten haubtzinß verschreibung, nemblich mit Reinischen 
+<lb n="62"/>goldguldin beschehen und erlegt werden. Und 
+<lb n="63"/>nachdem der <persName ref="lub-actors-164">herr zu Sax</persName> begehrt hat, dz ime der 
+<lb n="64"/>vest gemelts zinß auf die fünfzehen patzen gerait, 
+          <lb n="65"/>von <date from="1543" to="1544">drey oder vier und vierzigisten jahr</date> her herauß 
+<lb n="66"/>gegeben und bezalt worden, sol solcher vest hiemit 
+<lb n="67"/>gentzlich aufgehebt und deßelben halben bed herren 
+<lb n="68"/>partheyen fründtlich und veterlich entschaidigt seyn. 
+<lb n="69"/>Zum anderen die hoch und nidere obrigkeit auf dem 
+<lb n="70"/><placeName ref="lub-places-103">Rein</placeName> betreffent ist abermahls beredt, dz die herren <orgName ref="lub-actors-7">graffen zu 
+<lb n="71"/>Sulz</orgName>, gebrüder, nun fürterhin die herren des halben <placeName ref="lub-places-103">Reins</placeName> 
+<lb n="72"/>genandt seyn, heißen und bleiben sollen, dergestalt, 
+<lb n="73"/>wenne sich kleine freffel auf halbem <placeName ref="lub-places-103">Rein</placeName> gegen der 
+<lb n="74"/><orgName ref="lub-actors-7">graffen zu Sulz</orgName> seiten zutragen, solle wolgedacht herren 
+<lb n="75"/><orgName ref="lub-actors-7">graffen zu Sulz</orgName> dieselben kleinen freffel mit dem 
+<lb n="76"/><persName ref="lub-actors-164">herrn zu Sax</persName> zu theilen schuldig seyn. Begebe sich aber, 
+<lb n="77"/>das malefizisch sachen als todschlag und dergleichen, so der 
+<lb n="78"/>hochen obrigkeit anhengig sein möchten, auf halbem 
+<lb n="79"/><placeName ref="lub-places-103">Rein</placeName> gegen der hern <orgName ref="lub-actors-7">graffen zu Sultz</orgName> seiten fürgehen 
+<lb n="80"/>wurde, sollen dieselben begangann malefizischen hand
+<lb break="no" n="81"/>lungen den herren <orgName ref="lub-actors-7">graffen zu Sulz</orgName> allein zu straffen
+<lb n="82"/>zugehören und die straff darinne bleiben, unverhindert 
+<lb n="83"/>des <persName ref="lub-actors-164">herrn von Sax</persName>. Dargegen aber soll dem <persName ref="lub-actors-164">herren zu Sax</persName> 
+<lb n="84"/>die fischenen auf gemeinem <placeName ref="lub-places-103">Rhein</placeName> in maß, wie er 
+<lb n="85"/>dieselb von altem bißher gebraucht, allein zuständig bleiben 
+<lb n="86"/>und darinnen kein verhinderung beschehen. 
+<lb n="87"/>Zum driten, dz faar zu <placeName ref="lub-places-2">Reggel</placeName> berüerend, ist zu er
+<lb break="no" n="88"/>haltung gueter fründschafft für gut angesehen, dz die
+<lb n="89"/>jhenigen, so dz far daselbs zu <placeName ref="lub-places-2">Reggel</placeName> jederzeit inhaben und 
+<lb n="90"/>gebrauhen werden, sollen schuldig sein, den <persName ref="lub-actors-164">herren zu Sax</persName>, 
+<lb n="91"/>deßelben dienern und was zum hauß vorsteet und deßelben 
+<lb n="92"/>nohtdurfften zugehörig ist, anleihen lon wie von altem 
+<lb n="93"/>her, hin und wider zu füeren und deßhalben unver
+<lb break="no" n="94"/>hindert paßieren zu lassen.
+<lb n="95"/>Zum vierten und letsten des <persName ref="lub-actors-737">Lienhart Albrechts</persName> halber, 
+<lb n="96"/>dieweil sich bed herren partheyen selbs erbotten, sich von wegen 
+<lb n="97"/>deßelben selbs mit ein anderen güetiglich und veterlich zu 
+<lb n="98"/>vergleichen, so laßen es die herren zusatz auch darby bleiben. 
+<pb facs="lub-media-2840" n="3"/>
+<lb n="99"/>Nach eröffnung vorgemelter artiklen haben vil wolgedachte 
+<lb n="100"/>beed herren partheyen, der <persName ref="lub-actors-164">herr zu Sax</persName> und die wolgebohrnen 
+<lb n="101"/>herren <orgName ref="lub-actors-7">gräffen zu Sult</orgName>, dieselben artiklen biß auf daß 
+<lb n="102"/>nechst künfftig <date when="1556-01-01">new jagend sechß und fünfzigist jahr</date>, 
+<lb n="103"/>solche ein anderen zu oder abzeschreiben, angenommen 
+<lb n="104"/>und den bedacht biß daselbst hin vorbehalten. Deß zu 
+<lb n="105"/>urkundt sind dißer gütigen abred zwo gleich lautend 
+<lb n="106"/>verzeichnus gemacht und jedem theil eine under 
+<lb n="107"/>vorgemeldt herren zusätz fürgetrukten pitschafften 
+<lb n="108"/>und underschribnen eignen handschrifften verfertigt 
+<lb n="109"/>zugestelt worden, beschehen zu <placeName ref="lub-places-36">Bembdern</placeName> 
+<lb n="110"/><origDate when="1555-09-16">am xvi <unclear>ch</unclear>tag septembris im xx<gap/> jahr</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

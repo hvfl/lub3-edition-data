@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-861">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vertrag zwischen Sennwald und Ruggell über die Wuhrlinien in den Auen am Rhein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-861">CH-StAASG, AA 2a U 23</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16. Juli 1603 / Beschreibstoff: Pergament / Siegel: 2 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-781">LI-GAR, U 11</ref> (<orgName key="li-gar" ref="lub-objects-778">Gemeindearchiv Ruggell</orgName>) / Originaldatierung: 16. Juli 1603 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. fehlt, 2. gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Nachdem es zwischen den Gemeinden Sennwald und Ruggell zu Streit gekommen war, weil die Sennwalder von der Egeterau bis an die Landsknechten Mittelau gerodet haben, kamen die Parteie am 18. April zusammen, um eine Einigung zu finden. Da die Wuhrlinien nicht mehr zweifelsfrei festgestellt werden konnten, setzten Leonhard Brendle, Landammann von Schellenberg, und Hans Marxer, Landesfähnrich am Eschnerberg, als Vertreter von Ruggell sowie Peter Bösch von Salez und Rudolf Roduner von Sennwald als Vertreter von Sennwald acht Grenzsteine im Gebiet zwischen der Egeterau und der Landsknechten Mittelau. Die Wuhrlinie soll von Stefan Göldis Kammer über die neuen Grenzsteine bis zu Christian Schächles Brunnen in Falgedin in Ruggell verlaufen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-164">Rodung</term>
+          <term ref="lub-keywords-442">möni</term>
+          <term ref="lub-keywords-451">Auen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-697">Leuener, Kaspar</persName>
+          <date when="1603-07-16">16. Jul 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-698">Brendle, Leonhard (2)</persName>
+          <date when="1603-07-16">16. Jul 1603</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_2a_u_23-0001.jpg" xml:id="lub-media-2826" source="stasg-aa-2a-u-23-r-klein.jpg" corresp="A1"/>
+    <graphic url="ch-stasg__aa_2a_u_23-0002.jpg" xml:id="lub-media-2827" source="stasg-aa-2a-u-23-v-klein.jpg" corresp="A1"/>
+    <graphic url="li-gar,_u_11-0001.jpg" xml:id="lub-media-572" source="gar-u-011-r-1603-07-16.jpg" corresp="A2"/>
+    <graphic url="li-gar,_u_11-0002.jpg" xml:id="lub-media-1501" source="gar-u-011-v-1603-07-16.jpg" corresp="A2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2826" n="1"/><lb n="1"/>Wir, die im <placeName ref="lub-places-262">Sennwald</placeName> in der <placeName ref="lub-places-164">freyherrschafft Sax und Vorstegkh</placeName>, thun khundt und zu wüssen allermenigklichen mit dissem briff für uns, 
+<lb n="2"/>all unsere erben und nachkommen, wie daß wir mit unseren nachpuren zu <placeName ref="lub-places-2">Ruggell</placeName> im span sindt wegen etlicher owen, wie dan hernach 
+<lb n="3"/>volgen wirdt, als nemlich wir solten den <placeName ref="lub-places-2">Ruggeller</placeName>, wie sy nit anderst gewüst, inen zimlich nach gerüt haben von der <placeName ref="lub-places-279">Egerter Ow</placeName> biß an 
+<lb n="4"/>der <placeName ref="lub-places-280">Landts Knechten Mitel Ow</placeName>. Demnach aber sindt sy zu beiden theilen mit einander, damit nit etwan hernach ein größerer unvriden 
+<lb n="5"/>daruß entstehn möchte, sonder viel lieber solches enthaben und rübig sein, zu rath worden unnd einen bestimbten tag, wan wir zu beiden 
+<lb n="6"/>theilen zusamen kommen sollen, ernent und angesatzt, benandtlichen den <date when="1603-04-18" calendar="julianischer Kalender">achzehenden tag aprillen in dem jetz zu endt deß briffs geschriebnen 
+<lb n="7"/>jahrs</date>. Und da man uff erst gemelten tag zu sammen kommen, hat man kein gewüße <term ref="lub-keywords-442">möni</term> mehr können finden noch wüßen. Sonder die <placeName ref="lub-places-2">Rug
+<lb break="no" n="8"/>geller</placeName> habendt vermeindt, sy sollen uß deß <persName ref="lub-actors-2374">Steffan Göldis</persName> kemeten gohn in deß <persName ref="lub-actors-2375">Hanßelmans</persName> brunnen. Darnebent aber haben die <placeName ref="lub-places-109">Schwitzer</placeName>
+<lb n="9"/>oder <placeName ref="lub-places-262">Sennwalder</placeName> einen zimlichen alten briff oder schreiben herfür geben, welcher gelutet hat in deß <persName ref="lub-actors-2375">Hanßelmans</persName> hoff, alda seye ein 
+<lb n="10"/>eich abgehawen worden, daselbsten finde man noch zu einem war zeichen den stumpen. Dasselbig seye die rechte <term ref="lub-keywords-442">möni</term>. Die weill 
+<lb n="11"/>unnd aber jedweders theil kein rechten grundt gewüst hat oder sagen können, habend sy zu beiden seiten vier mannen uber geben, die marchen 
+<lb n="12"/>zu setzen nach irem willen und wolgefallen unnd wie es dieselbigen machen werden, jedweders theil daran kommen und zufrieden sein, als 
+<lb n="13"/>namlichen den ehrsammen, weisen <persName ref="lub-actors-698">Lenhart Brendel</persName>, der zyt landtamman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-16">Eschnerberg</placeName>, deßgleichen denn 
+<lb n="14"/>ehrsammen und bescheidnen <persName ref="lub-actors-834">Hans Marxser</persName>, landtsfenderich ab dem <placeName ref="lub-places-16">Eschnerberg</placeName>, von wegen denen von <placeName ref="lub-places-2">Ruggell</placeName>, demnach von der 
+<lb n="15"/><placeName ref="lub-places-262">Sennwalder</placeName> gemeindt den ehrsamen, bescheidnen <persName ref="lub-actors-700">Peter Bösch</persName> von <placeName ref="lub-places-202">Saletz</placeName> und <persName ref="lub-actors-701">Rudli Rodunner</persName> uß dem <placeName ref="lub-places-262">Sennwaldt</placeName>. Die erst angedeüte 
+<lb n="16"/>vier personen haben von der <placeName ref="lub-places-279">Egerten Ow</placeName> dannen, wie obgemelt, biß an die <placeName ref="lub-places-280">Landts Knechten Mitel Ow</placeName> so vil als acht steine marchen 
+<lb n="17"/>gesetzt. Von dannen soll es von einer marchen, es sey gleich krum oder gerad, in summa von einem endt zu dem andern gohn. Derohalben 
+<lb n="18"/>sindt zwen gleich lautende pergamentenen besiegleten briff einer handtschrifft uff gericht unnd jedwederem theil einen zugestelt 
+<lb n="19"/>worden, damit, wann einer verloren oder sonsten verwarloset wurde, dem andern, als wann sy beide zu gegen weren, 
+<lb n="20"/>nichts desto weniger gelten unnd glaubt werden. Es sollen auch beide theil hinder ziel unnd marchen bleiben. Aber waß nun antrifft 
+<lb n="21"/>die alten <term ref="lub-keywords-442">möninen</term>, sollen sy uß deß <persName ref="lub-actors-2374">Steffan Göldis</persName> kemeten gohn in die erste march, doch der <placeName ref="lub-places-279">Egerter Ow</placeName> ohn nachteilig, von einer 
+<lb n="22"/>march zu der andern biß an die letzste march unnd uß der letzsten march in deß <persName ref="lub-actors-2376">Christen Schechlis</persName> brunnen in <placeName ref="lub-places-530">Falgedin</placeName>, aber der 
+<lb n="23"/><placeName ref="lub-places-766">Landts Knechten</placeName> und der <placeName ref="lub-places-701">Schweitzer Ow</placeName> in allweg ohne schaden. Unnd dessen alles zu warem urkhundt und mehrer sicherheit haben 
+<lb n="24"/>wir, obgemelten sächer, zu beiden theilen gebetten und erpetten den ehrsamen, weisen <persName ref="lub-actors-697">Caspar Löwiner</persName>, der zeit landt amman der freyherr
+<lb break="no" n="25"/>schafft <placeName ref="lub-places-164">Sax unnd Forstegkh</placeName>, eins theils, deßgleichen den ehrsamen und weisen <persName ref="lub-actors-698">Lenhart Brendli</persName>, der zeit landtamman der herrschafft
+<lb n="26"/><placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-16">Eschnerberg</placeName> anders theils, daß sy beide iren eigen insiegel an dießen briff offentlich gehenckt haben (doch ihnen und 
+<lb n="27"/>iren erben in all andere weg ohne schaden), der geben und geschrieben wardt den <origDate when="1603-07-16" calendar="julianischer Kalender">sechtzehenden tag julius alten colenders, als 
+<lb n="28"/>man nach Christi, unsers einigen erlößers und seligmachenden, geburth zalete einthußendt sechshundert unnd drey jahre</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2827" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-865">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zeugenaussagen über die Jagd- und Fischereirechte der Grafschaften Werdenberg und Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-865">CH-StASG, AA 3 A 13-1</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 5. April 1559 / Beschreibstoff: Papier (Heft in zeitgenössischem Umschlag) / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Graf, Landschreiber der Grafschaft Toggenburg, nimmt im Konflikt zwischen Glarus, dem Besitzer der Grafschaft Werdenberg, und Gräfin Elisabeth von Sulz, geborene von Zweibrücken-Bitsch, um den Wildbann in der Grafschaft Werdenberg, die Fischereirechte im Rhein sowie um die Grenzen zwischen den Grafschaften Aussagen von Zeugen aus Salez, Frümsen, Sennwald, Werdenberg, Sevelen, Oberschan, Fontnas und Azmoos auf.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-41">Jagd</term>
+          <term ref="lub-keywords-324">Fischerei</term>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-360">Zeuge</term>
+          <term ref="lub-keywords-110">Wild</term>
+          <term ref="lub-keywords-452">gerhabe</term>
+          <term ref="lub-keywords-252">Fähre</term>
+          <term ref="lub-keywords-367">fach</term>
+          <term ref="lub-keywords-368">wartolf</term>
+          <term ref="lub-keywords-369">rüsche</term>
+          <term ref="lub-keywords-453">ber</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-571">Graf, Jakob (1)</persName>
+          <date when="1559">1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3_a_13-1-0001.jpg" xml:id="lub-media-2843" source="stasg-aa-3-a-13-1-1.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0002.jpg" xml:id="lub-media-2844" source="stasg-aa-3-a-13-1-10.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0003.jpg" xml:id="lub-media-2845" source="stasg-aa-3-a-13-1-9.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0004.jpg" xml:id="lub-media-2846" source="stasg-aa-3-a-13-1-8.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0005.jpg" xml:id="lub-media-2847" source="stasg-aa-3-a-13-1-7.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0006.jpg" xml:id="lub-media-2848" source="stasg-aa-3-a-13-1-6.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0007.jpg" xml:id="lub-media-2849" source="stasg-aa-3-a-13-1-5.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0008.jpg" xml:id="lub-media-2850" source="stasg-aa-3-a-13-1-4.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0009.jpg" xml:id="lub-media-2851" source="stasg-aa-3-a-13-1-3.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_a_13-1-0010.jpg" xml:id="lub-media-2852" source="stasg-aa-3-a-13-1-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2844" n="1"/><lb n="1"/>Ingenomne kuntschafft antreffend den span, 
+<lb n="2"/>so sich halltet entzwüschent minen gnedigen herrn 
+<lb n="3"/>von <placeName ref="lub-places-72">Glarüs</placeName> an ainem unnd der <persName ref="lub-actors-163">gräffinen von Sultz</persName> 
+<lb n="4"/>am andern der vischenntz und wildpanns halber gegent 
+<lb n="5"/>baiden graff- und herrschafften <placeName ref="lub-places-73">Werdenberg</placeName> und <placeName ref="lub-places-7">Vadutz</placeName> 
+<lb n="6"/>etc., durch mich, <persName ref="lub-actors-571">Jacob Graffen</persName>, landtschryber der graf
+<lb break="no" n="7"/>schafft <placeName ref="lub-places-91">Toggennburg</placeName>, als unpartyisch beschriben, unnd
+<lb n="8"/>hiemit also mit minem gewonlichen büttschier ver
+<lb break="no" n="9"/>schloßen, überantwurt uff <date when="1559-04-05">mittwoch nach quasimodo
+<lb n="10"/>anno etc. im 1559 isten</date>.  
+</p>
+        <p><pb facs="lub-media-2843" n="2"/><lb n="11"/>So volgend hernach ettlich kundtschafften, 
+<lb n="12"/>so die frommen ernvesten unnd wyssen herrn 
+<lb n="13"/><persName ref="lub-actors-305">Paulus Schuoler</persName>, allt lanndtamman und pann
+<lb break="no" n="14"/>erherr zuo <placeName ref="lub-places-72">Glarüs</placeName>, ouch <persName ref="lub-actors-693">Jossen Hössli</persName>, lanndt
+<lb break="no" n="15"/>schreyber daselbst, als gesanndte unnd innamen
+<lb n="16"/>irer herren unnd obern zuo <placeName ref="lub-places-72">Glarüs</placeName> zeverhör
+<lb break="no" n="17"/>en gestellt habennd zuo <placeName ref="lub-places-164">Vorstegg</placeName>, zuo <placeName ref="lub-places-73">Werdenn
+<lb break="no" n="18"/>berg</placeName> unnd <placeName ref="lub-places-172">Serganns</placeName> von wegen des
+<lb n="19"/>spans, so sich halltet entzwüschend den frommen, 
+<lb n="20"/>vesten, fürsichtigen, ersamen unnd wyssen 
+<lb n="21"/>herren <orgName ref="lub-actors-276">lanndtaman unnd räthen zuo Glarüs</orgName>, 
+<lb n="22"/>minen gnedigen herren, an einem, so dann 
+<lb n="23"/>der wolgepornen frowen, frow <persName ref="lub-actors-163">Elisabetha 
+<lb n="24"/>gräfin zuo Sultz</persName>, miner gnedigen frowen etc., 
+<lb n="25"/>am anndern, antreffent den wildpan, 
+<lb n="26"/>ouch die vischenntzen im <placeName ref="lub-places-103">Ryn</placeName> unnd lanndt
+<lb break="no" n="27"/>marchen, so sich inn der zyth zwüschennd der
+<lb n="28"/>grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> und der herrschafft 
+<lb n="29"/><placeName ref="lub-places-7">Vadutz</placeName> erhept habend etc., unnd durch 
+<lb n="30"/>mich, <persName ref="lub-actors-571">Jacoben Graffen</persName>, geschwornen lanndt
+<lb break="no" n="31"/>schryber der grafschafft <placeName ref="lub-places-91">Toggennburg</placeName>, als
+<lb n="32"/>hierzuo berufften, inn disem hanndel unpar
+<lb break="no" n="33"/>tyischen schryber, nachdem sich alle formck
+<lb break="no" n="34"/>lich grichts hanndlung nach bruch unnd ge
+<lb break="no" n="35"/>wonheyt yedes landts unnd orths innsonnders
+<lb n="36"/>verloffen (unnd die voreroffnung durch die ge
+<lb break="no" n="37"/>sanndten an die zügen beschechen), eigenntlich
+<lb n="38"/>erfragt unnd beschriben, welliche nun ye 
+<lb n="39"/>einer nach dem anndern nach form rechtens 
+<lb n="40"/>unnd wie sich gepürt by iren harumb gethonen 
+<lb n="41"/>ayden, so sy mit uffgehepten vingern unnd gelerten 
+<lb n="42"/>worthen zuo gott unnd den heilligen geschworn, 
+<lb n="43"/>gesagt unnd die nach vollenndung irer sag mit 
+<lb n="44"/>dem ayd gevestnett unnd bestäth. Erstlichen 
+<lb n="45"/>dise volgennden kundtschafften zuo <placeName ref="lub-places-9">Vorstegg</placeName> ver
+<lb break="no" n="46"/>hört uff <date when="1559-03-01">mittwoch nach dem sonntag oculi
+<lb n="47"/>anno etc. im 1559 isten</date>. 
+</p>
+        <p><lb n="48"/><persName ref="lub-actors-2400">Georg Bischoff</persName> von Saletz, sines allters ungfar siben unnd sechtzig jar, 
+<lb n="49"/>sagt by sinem geschwornen eyd, wie das er by dem allten <persName ref="lub-actors-400">herren von 
+<lb n="50"/>Sax</persName>, der des jetzigen <persName ref="lub-actors-164">herren von Sax</persName> vatter gsyn, lange zyth inn 
+<pb facs="lub-media-2852" n="3"/>
+<lb n="51"/>diennstswyss gwessen, domalen er nie ghört unnd sige im ouch nitt 
+<lb n="52"/>inwüssen, das die <orgName ref="lub-actors-7">von Sultz</orgName> dhein grechtigkeyt inn der grafschafft 
+<lb n="53"/><placeName ref="lub-places-73">Werdenberg</placeName> je gehapt habennd. Es sige im aber wol zuowüssen, das 
+<lb n="54"/>der allt <persName ref="lub-actors-400">herr von Sax</persName> alda habe den wildpan geprucht, alda gejaget 
+<lb n="55"/>gwild unnd huener one alle inred unnd hinderung der <orgName ref="lub-actors-7">graffen von 
+<lb n="56"/>Sultz</orgName>. Doch habe er sölliches gethon als domalen ein <term ref="lub-keywords-452">gerhab</term> der <orgName ref="lub-actors-1197">herren 
+<lb n="57"/>von Hewen</orgName>. Er, züg, achte ouch, das die <orgName ref="lub-actors-7">graffen von Sultz</orgName> mit kein
+<lb break="no" n="58"/>er billicheyt dhein intrag des wildpans inn der grafschafft
+<lb n="59"/><placeName ref="lub-places-73">Werdenberg</placeName> thuon künden. Zuo dem hette sich inn der zyth sines 
+<lb n="60"/>diennsts zuotragen, wann sin herr, der allt <persName ref="lub-actors-400">von Sax</persName> sellige ge
+<lb break="no" n="61"/>dechtnus, usserhalb der herrschafft <placeName ref="lub-places-164">Vorstegg</placeName> jagen wellen, habe er
+<lb n="62"/>inn zevor zuoderselben oberkeyt geschigkt, es sig zuo dem landtvogt 
+<lb n="63"/>zuo <placeName ref="lub-places-172">Sarganns</placeName> oder annderschwohin. Aber zuo den <orgName ref="lub-actors-7">graffen von Sultz</orgName> 
+<lb n="64"/>sige er nie geschickt worden. Da wol zuo erachten, wann sy, die graffen, 
+<lb n="65"/>den vorst inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> gehept, sin herr sellig 
+<lb n="66"/>hette inn glycher gestallt zu innen wie zuo den anndern ouch geschickt. 
+<lb n="67"/>So hette sich ouch begeben, diewyl er des allten <persName ref="lub-actors-400">herren von Sax</persName> diener 
+<lb n="68"/>gsyn, da er ime (als er kein jeger ghept) das gejegt zuversechen 
+<lb n="69"/>bevolhen. Alssdo were einer, sins namens <persName ref="lub-actors-2401">Baschion Losser oder 
+<lb n="70"/>Vogler</persName>, inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> gesessen, der nun dem 
+<lb n="71"/><persName ref="lub-actors-400">herren von Sax</persName> sonnder angenem unnd zum teil als vil als jeger
+<lb break="no" n="72"/>meister inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> gesyn, dergestallt, wann
+<lb n="73"/>er ettwas gwildts ussganngen unnd erfaren, dasselbig alwegen an
+<lb break="no" n="74"/>genndts sinem <persName ref="lub-actors-400">herren zuo Sax</persName> sellig anzeigt. Do habe sich uff ein
+<lb n="75"/>zyt zuotragen, das derselb <persName ref="lub-actors-2401">Baschion Losser oder Vogler</persName> ein wild 
+<lb n="76"/>schwyn glych by dem <placeName ref="lub-places-655">schloss Wartow</placeName> ussganngen hab, sölliches 
+<lb n="77"/>dem <persName ref="lub-actors-400">herren zuo Sax</persName> angeben. Glych zuostett hette er inne, zügen, 
+<lb n="78"/>mit den hunden hinuff geschickt, dasselbig ze jagen. Do were 
+<lb n="79"/>innen das schwyn übern <placeName ref="lub-places-103">Ryn</placeName> entrunnen. Demselben sige er nach
+<lb break="no" n="80"/>zogen bis inn die herschafft <placeName ref="lub-places-7">Vadutz</placeName>. Zuo derselben zyth sige einer
+<lb n="81"/>vogt uff <placeName ref="lub-places-33">Vadutz</placeName> gsyn, so man genempt <persName ref="lub-actors-56">Hanns von Pfyn</persName>. Er, züg, 
+<lb n="82"/>zuo im geritten unnd inne von sins herren, des allten <persName ref="lub-actors-400">von Sax</persName>, 
+<lb n="83"/>wegen gepetten, das er thuon welle wie ein guoter fründ unnd 
+<lb n="84"/>nachpur, ime im faal well helffen, dem schwyn nachziechen 
+<lb n="85"/>unnd helffen fachen, welliches er nitt thuon, sonnder abgeschlagen 
+<lb n="86"/>unnd inne geheissen, mit hunden unnd gejegt uss der herrschafft 
+<lb n="87"/><placeName ref="lub-places-7">Vadutz</placeName> ziechen oder erwarten, was im darnach gannge. Also hab er 
+<lb n="88"/>das schwyn verlassen müssen. Da er aber achte, wann der wild
+<lb break="no" n="89"/>pann inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> deren <orgName ref="lub-actors-7">graffen von Sultz</orgName>
+<lb n="90"/>were, sy hettend dem allten <persName ref="lub-actors-400">herren von Sax</persName> als einem <term ref="lub-keywords-452">gerhab</term> 
+<lb n="91"/>deren <orgName ref="lub-actors-1197">von Hewen</orgName> alda zejagen nitt vergundt. Hienebennd 
+<lb n="92"/>sige im nach wol zuowüssen, das uff ein zyth ein pur inn der 
+<lb n="93"/>grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> ein wild  schwyn, so von den hunden und 
+<lb n="94"/>gejägt erfellt worden sig, heimlich by nacht heimtragen hab. Wie 
+<lb n="95"/>nun dasselbig khundtlich worden, hab inn herr <persName ref="lub-actors-2402">Jörg von Hewen</persName> 
+<lb n="96"/>sellig darumb gestrafft unnd dieselb straff zuo sin unnd nitt zuo des 
+<lb n="97"/><orgName ref="lub-actors-7">graffen von Sultz</orgName> hannden gestellt. Danne der vischentzen 
+<lb n="98"/>halb wüsse er nütz annders, dann er habe allwegen ghört, ouch 
+<lb n="99"/>nitt annderst gwüsst, die von <placeName ref="lub-places-73">Werdenberg</placeName> habennd die vischentzen 
+<lb n="100"/>brucht, wie sy wellen, unnd nie ghört, das innen jemandts ett
+<lb break="no" n="101"/>was darin gredt habe. Sovil sige im beider artigklen halb zuowüssen.
+</p>
+        <p><lb n="102"/><persName ref="lub-actors-2403">Hanns Rhyner</persName> von <placeName ref="lub-places-202">Saletz</placeName>, statthallter zuo <placeName ref="lub-places-164">Vorstegg</placeName>, sines allters 
+<lb n="103"/>nün unnd sechzig jar, sagt by sinem geschwornen eyd, er möge unge
+<lb break="no" n="104"/>far by fünffzig jaren gedenngken, hab aber nie gehört nach von
+<lb n="105"/>sinen alltvordern verstannden, das die <orgName ref="lub-actors-7">graffen von Sultz</orgName> dehein 
+<lb n="106"/>recht oder grechtigkeyt inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> nie gehept, 
+<lb n="107"/>weder wenig nach vil. Sy habennd sich ouch söllichen zepflegen nie 
+<lb n="108"/>unnderstannden. Er sige ouch mit herr <persName ref="lub-actors-2402">Jörgen von Hewen</persName> 
+<lb n="109"/>selligen inn krieg zogen, habe aber weder von im nach sinem bruoder, 
+<lb n="110"/>herr <persName ref="lub-actors-2404">Wolffen</persName>, nie ghört, das die <orgName ref="lub-actors-7">graffen von Sultz</orgName> ettwas 
+<lb n="111"/>gwallts, inn irrer grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> ze jagen ald annders 
+<lb n="112"/>zethuon, fuog ald recht haben sölltend. Fürs annder von wegen 
+<lb n="113"/>der vischenntz im <placeName ref="lub-places-103">Ryn</placeName> wüsse er nütz annderst, er habe alwegen 
+<lb n="114"/>gehört, das die von <placeName ref="lub-places-73">Werdenberg</placeName> die vischenntzen brucht, wie sy 
+<lb n="115"/>es haben wellen, unnd nie ghört, das innen niemandts nütz 
+<lb n="116"/>darinn geredt habe. Sovil sige im zuowüssen. 
+</p>
+        <p><lb n="117"/><persName ref="lub-actors-2407">Hanns Stachel</persName> von <placeName ref="lub-places-728">Frümssen</placeName>, sins allters vier unnd sibenntzig 
+<lb n="118"/>jar, sagt by sinem geschwornen eyd, das er der <orgName ref="lub-actors-1197">herren von Hewen</orgName>, 
+<lb n="119"/>namlich <persName ref="lub-actors-2406">Friderichen</persName>, <persName ref="lub-actors-2402">Jörgen</persName> unnd <persName ref="lub-actors-2404">Wolffen</persName>, der ein thumb
+<lb break="no" n="120"/>herr zuo <placeName ref="lub-places-101">Costanntz</placeName> gsyn, all gebruodern, zuo <placeName ref="lub-places-151">Werdenberg</placeName> lannge
+<lb n="121"/>zyth spillman gwessen. Inn derselben zyth habe der allt <persName ref="lub-actors-400">herr 
+<lb n="122"/>von Sax</persName>, des jetzigen herren vatter, der obgenannten <orgName ref="lub-actors-1197">von Hewen</orgName> 
+<lb n="123"/>muotter, ein <persName ref="lub-actors-2408">gräffin von Lupffen</persName>, ghept. Do sige er als ir 
+<lb n="124"/>diener von innen hin unnd wider vil malen geschickt, angeschlagen 
+<pb facs="lub-media-2851" n="4"/>
+<lb n="125"/>zesamen zekomen, habennd mitteinanndern gevischet im <placeName ref="lub-places-103">Ryn</placeName>, ouch 
+<lb n="126"/>gejagt unnd also zesamen gewanndlet, das innen niemanndts, 
+<lb n="127"/>weder die von <placeName ref="lub-places-7">Vadutz</placeName> nach annder ennethalb dem <placeName ref="lub-places-103">Ryn</placeName>, nützit, 
+<lb n="128"/>weder wenig nach vil, darin gredt nach einichen intrag gethon, 
+<lb n="129"/>sonnder habennts nach irem gefallen mit jagen unnd vischen 
+<lb n="130"/>genutzet unnd geprucht, wie es innen gefellig gsyn. Doch habe 
+<lb n="131"/>der <persName ref="lub-actors-400">allt von Sax</persName> nie annderst unnd von keiner habennden grech
+<lb break="no" n="132"/>tigkeyt wegen alda inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> gejagt,
+<lb n="133"/>dann wie ein <term ref="lub-keywords-452">gerhab</term> deren <orgName ref="lub-actors-1197">von Hewen</orgName>, als er alwegen nitt 
+<lb n="134"/>annderst ghört. Er, züg, habe innen ouch ettwan geholffen. 
+<lb n="135"/>Zuo dem möge er wol wüssen, das der <persName ref="lub-actors-2405">Castellwarth</persName> alda zuo 
+<lb n="136"/><placeName ref="lub-places-73">Werdenberg</placeName> herr gsyn sige unnd die herschafft denen <orgName ref="lub-actors-1197">von Hewen</orgName> 
+<lb n="137"/>ze kouffen geben habe, aber nie ghört, das niemandt kein an
+<lb break="no" n="138"/>sprach hierzuo nie ghept biss jetzunder uff diss mal. Das sige im
+<lb n="139"/>hiervon zuowüssen. 
+</p>
+        <p><lb n="140"/><persName ref="lub-actors-2409">Hanns Rych</persName> ussem <placeName ref="lub-places-262">Sennwald</placeName>, sines allters ungfar by drü 
+<lb n="141"/>unnd sibenzig jaren, sagt by sinem geschwornen eyd, das er wol 
+<lb n="142"/>wüsse unnd habe nie annderst ghört, dann das der allt <persName ref="lub-actors-400">herr von 
+<lb n="143"/>Sax</persName> als ein <term ref="lub-keywords-452">geerhab</term> mit den jungen <orgName ref="lub-actors-1197">von Hewen</orgName> als sinen stüff
+<lb break="no" n="144"/>sönen biss uffhin an <placeName ref="lub-places-240">Scholberg</placeName> oder an <placeName ref="lub-places-729">Truobenbach</placeName> gejaget habe
+<lb n="145"/>unnd im, ouch innen nie niemandts nütz dar in gredt, weder die 
+<lb n="146"/>von <placeName ref="lub-places-7">Vadutz</placeName> nach annder ennett dem <placeName ref="lub-places-103">Ryn</placeName>. Wüsse ouch nütz 
+<lb n="147"/>darvon unnd habs nie gehört, das die von <placeName ref="lub-places-7">Vadutz</placeName> nie inn der graff
+<lb break="no" n="148"/>schafft <placeName ref="lub-places-73">Werdenberg</placeName> gejagt habend. So dann der visch
+<lb break="no" n="149"/>enntzen halb im <placeName ref="lub-places-103">Ryn</placeName> wüsse er nütz darvon, annderst er hab wol
+<lb n="150"/>ghört, wie die von <placeName ref="lub-places-72">Glarüs</placeName> die graffschafft koufft, das die 
+<lb n="151"/>vischenntzen innen zuo gehören sölle unnd habennd die von <placeName ref="lub-places-7">Vadutz</placeName> 
+<lb n="152"/>nütz daran. Der lanndtmarchen halb wüsse er nütz darvon 
+<lb n="153"/>zesagen. 
+</p>
+        <p><lb n="154"/><persName ref="lub-actors-2410">Hanns Löwiner</persName> ussem <placeName ref="lub-places-262">Sennwald</placeName>, sins allters ob achzig 
+<lb n="155"/>jaren, sagt by sinem geschwornen ayd, das er möge wüssen, das 
+<lb n="156"/>die <orgName ref="lub-actors-744">von Branndiss</orgName> zuo <placeName ref="lub-places-7">Vaduz</placeName> geherschett. Do habe des allten 
+<lb n="157"/><persName ref="lub-actors-400">herren von Sax</persName> frow, deren <orgName ref="lub-actors-1197">von Hewen</orgName> muoter, eyn dochter ghept. 
+<lb n="158"/>Dieselb hette einen <orgName ref="lub-actors-744">von Branndis</orgName> überkomen.<note><persName ref="lub-actors-2411">Sigmund II. von Brandis</persName> war mit <persName ref="lub-actors-2412">Katharina von Hewen</persName> verheiratet.</note> In der zyth biss untzhar 
+<lb n="159"/>hette er weder des wildpanns nach der vischenntzen halber khein 
+<lb n="160"/>gspan, irrung nach intrag zwüschend den zweyen grafschafft 
+<lb n="161"/>unnd herrschafften <placeName ref="lub-places-73">Werdenberg</placeName> unnd <placeName ref="lub-places-7">Vadutz</placeName> nach von niemandts 
+<lb n="162"/>annderm nie ghört, sonnder das wüsse er wol, das der <persName ref="lub-actors-400">allt von 
+<lb n="163"/>Sax</persName>, deren <orgName ref="lub-actors-1197">von Hewen</orgName> stüffatter, durch die grafschafft <placeName ref="lub-places-73">Werden
+<lb break="no" n="164"/>berg</placeName> uf mitt dennen <orgName ref="lub-actors-1197">von Hewen</orgName> habe helffen jagen. Nitt möge
+<lb n="165"/>er wüssen, ob er im selbst oder innamen deren <orgName ref="lub-actors-1197">von Hewen</orgName> alda 
+<lb n="166"/>gejagt habe. Von wegen der vischenntzen seyt er, 
+<lb n="167"/>das im nütz wüssend darvon sige, wie es inn der grafschafft 
+<lb n="168"/><placeName ref="lub-places-73">Werdenberg</placeName> gebrucht were. Aber inn der herrschafft <placeName ref="lub-places-164">Sax</placeName> 
+<lb n="169"/>sige die vischenntz mins gnedigen herren unnd das faar dero 
+<lb n="170"/>von <placeName ref="lub-places-7">Vadutz</placeName>. Sovil sige im hiervon zuowüssen. 
+</p>
+        <p><lb n="171"/>Glychsfaals nach volgennde kundt
+<lb break="no" n="172"/>schafft zuo <placeName ref="lub-places-73">Werdenberg</placeName> ingenomen
+<lb n="173"/>uff <date when="1559-03-02">donnstag nach oculi anno etc. 59 isten</date>. </p>
+        <p><lb n="174"/>Allt weibel <persName ref="lub-actors-2415">Pfyffner</persName>, sines allters ungefar acht unnd fünffzigk 
+<lb n="175"/>jar, hatt by sinem geschwornen ayd gsagt, das er vast by vierzig 
+<lb n="176"/>jaren ann der herren von <placeName ref="lub-places-72">Glarüs</placeName> ampt gwessen, unnd sige 
+<lb n="177"/>auch am ampt gsin, do herr <persName ref="lub-actors-1190">Ludwig  Tschudi</persName> sellig lanndt
+<lb break="no" n="178"/>vogt weri, könne aber sich nitt erinnern, das gedachter herr
+<lb n="179"/><persName ref="lub-actors-1190">Ludwig</persName> den vogt <persName ref="lub-actors-155">Mamersdorffer</persName> je inn die grafschafft <placeName ref="lub-places-73">Werd
+<lb break="no" n="180"/>enberg</placeName> uff das gejägt geladen. Woll uff ein mal habe er denn
+<lb n="181"/><persName ref="lub-actors-400">herren von Sax</persName>, dessglychen herr aman <persName ref="lub-actors-2414">Bussi</persName> den vogt <persName ref="lub-actors-580">Jouchen</persName> 
+<lb n="182"/>von <placeName ref="lub-places-186">Ury</placeName>, als er vogt zuo <placeName ref="lub-places-172">Serganns</placeName> gsyn, gen <placeName ref="lub-places-73">Werdennberg</placeName> uff 
+<lb n="183"/>das gejegt geladen, die kemind beid, sy fiengennd aber nütz. Er 
+<lb n="184"/>möge sich ouch bedenngken, das sy von <placeName ref="lub-places-73">Werdenberg</placeName> den herren zuo 
+<lb n="185"/><placeName ref="lub-places-72">Glarüs</placeName> zum ersten mal geschworn, hette man innen die urbar 
+<lb n="186"/>unnd rödel vorgelessen. Da stuond heyter, das der wildpann, 
+<lb n="187"/>das fäderspil, die vischenntzen im <placeName ref="lub-places-103">Ryn</placeName> unnd annders <gap/> 
+<lb n="188"/>den herren der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> gehöre. Unnd habe 
+<lb n="189"/>ouch nie gehört, das innen jemandt dar in gredt. Es habend 
+<lb n="190"/>ouch des vogts von <placeName ref="lub-places-7">Vadutz</placeName> jeger eins mals ein wild schwyn 
+<lb n="191"/>inn der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> geschossen, das innen gen <placeName ref="lub-places-73">Werdenberg</placeName> 
+<pb facs="lub-media-2850" n="5"/>
+<lb n="192"/>übern <placeName ref="lub-places-103">Ryn</placeName> enntrunnen unnd da todt funden. Habennts dero <orgName ref="lub-actors-7">von Sultz</orgName> 
+<lb n="193"/>jeger ervordert unnd wellen haben, das aber innen jetz herr aman 
+<lb n="194"/><persName ref="lub-actors-2414">Bussi</persName>, domalen vogt zuo <placeName ref="lub-places-73">Werdenberg</placeName>, nitt lassen wellt, sonnder 
+<lb n="195"/>schigkte die suw gen <placeName ref="lub-places-102">Chur</placeName>. Do enntputte im vogt <persName ref="lub-actors-155">Mamerss
+<lb break="no" n="196"/>dorffer</persName>, der wildpan were sin unnd wann ein hirtz zuo
+<lb n="197"/><placeName ref="lub-places-221">Werdenberg bim schloss</placeName> stünde, wellt er inn schiessen. 
+<lb n="198"/>Dargegen enputte ime herr aman <persName ref="lub-actors-2414">Bussi</persName>, das möchte er ver
+<lb break="no" n="199"/>suochen, er wellte im helffen. Hab ers grad darby plyben lassen
+<lb n="200"/>unnd nützit wyter angesprochen. Sovil ime hiervon zuo
+<lb break="no" n="201"/>wüssen.
+</p>
+        <p><lb n="202"/>So danne der vischenntzen halb habe er nie annderst gehört, dann 
+<lb n="203"/>das die im <placeName ref="lub-places-103">Ryn</placeName> unnd überal ze <placeName ref="lub-places-73">Werdenberg</placeName> derselben graffschaft 
+<lb n="204"/>zuo gehöre unnd zuo der zyth, als beid herrschafften <placeName ref="lub-places-73">Werdenberg</placeName> 
+<lb n="205"/>unnd <placeName ref="lub-places-7">Vadutz</placeName> geteillt, sige der zoll gen <placeName ref="lub-places-7">Vadutz</placeName> unnd vischenntz 
+<lb n="206"/>unnd faar gen <placeName ref="lub-places-73">Werdenberg</placeName> geteillt worden. Woll ettlicher 
+<lb n="207"/>jaren haben die vögt von <placeName ref="lub-places-7">Vadutz</placeName> an die vögt zuo <placeName ref="lub-places-73">Werdenberg</placeName> pitt
+<lb break="no" n="208"/>licher wyss lanngen lassen, innen ettliche <term ref="lub-keywords-367">vächli</term> allein zum
+<lb n="209"/>hus <placeName ref="lub-places-33">Vadutz</placeName> inn <placeName ref="lub-places-103">Ryn</placeName> zeschlachen güttlich zuovergunnen, das 
+<lb n="210"/>innen die vögt zuo <placeName ref="lub-places-73">Werdenberg</placeName> nie abgeschlagen, das er ghört 
+<lb n="211"/>habe. Zuo dem habe <persName ref="lub-actors-2416">Thoman Vischer</persName> sellig ettwan zuo zythen 
+<lb n="212"/><term ref="lub-keywords-369">rüschen</term>, <term ref="lub-keywords-368">wartolff</term> unnd geschlagne <term ref="lub-keywords-367">vächli</term> im <placeName ref="lub-places-103">Ryn</placeName> funden. 
+<lb n="213"/>Die hab er uss der vögten gheissen geschlissen, die <term ref="lub-keywords-369">rüschen</term> oder 
+<lb n="214"/><term ref="lub-keywords-453">beren</term> zerhowen. Darby er, züg, zum dickermal gsyn unnd 
+<lb n="215"/>im gholffen uss bevelch der vögten unnd habe innen nie
+<lb break="no" n="216"/>mandts darin gredt, gewert nach darnach gefraget.
+<lb n="217"/>Der marchen halb des <placeName ref="lub-places-282">Schwytzerzuns</placeName> etc. sige ime nitt annderst 
+<lb n="218"/>wüssend, dann das es recht lanndt marchen sigend, unnd habe 
+<lb n="219"/>sich gar offt unnd dick gefügt, das buossen zwüschennd dem 
+<lb n="220"/><placeName ref="lub-places-103">Ryn</placeName> unnd dem <placeName ref="lub-places-282">Schwytzerzun</placeName> verfräfflet unnd verschütt 
+<lb n="221"/>worden, die allwegen dem vogt zuo <placeName ref="lub-places-73">Werdenberg</placeName> verfallen 
+<lb n="222"/>unnd zuo komen sind, wiewol sich der vogt zuo <placeName ref="lub-places-7">Vadutz</placeName> einmal 
+<lb n="223"/>der buossen hiehalb <placeName ref="lub-places-282">Schwytzerzuns</placeName> unnd ennhalb <placeName ref="lub-places-103">Ryns</placeName> be
+<lb break="no" n="224"/>laden wellen. Als aber vogt <persName ref="lub-actors-2417">Bruner</persName> sellig, domalen vogt zuo
+<lb n="225"/><placeName ref="lub-places-73">Werdenberg</placeName>, unnd vogt <persName ref="lub-actors-591">Dolder</persName> sellig als ein gesanndter der 
+<lb n="226"/>herren von <placeName ref="lub-places-72">Glarüs</placeName> im söllchs nitt nachlassen wellen, 
+<lb n="227"/>sonnder desswegen zum vogt gen <placeName ref="lub-places-7">Vadutz</placeName> geritten unnd im 
+<lb n="228"/>fürghallten, das die buossen gen <placeName ref="lub-places-73">Werdenberg</placeName> gehörennd, 
+<lb n="229"/>hab es der vogt darby plyben lassen unnd inn dem faal 
+<lb n="230"/>nachwertz nütz wyters angesprochen. Sigennd also die buossen 
+<lb n="231"/>für unnd für gen <placeName ref="lub-places-73">Werdenberg</placeName> geben worden. Hienebend 
+<lb n="232"/>sige im nach wol ingedenngk, das <persName ref="lub-actors-161">Michel Schmid</persName> von <placeName ref="lub-places-53">Schan</placeName> 
+<lb n="233"/>uff ein mal den <persName ref="lub-actors-2418">Hanns Schächlin</persName> uss der grafschafft <placeName ref="lub-places-73">Werden
+<lb break="no" n="234"/>berg</placeName> zwüschennd dem <placeName ref="lub-places-282">Schwytzerzun</placeName> unnd dem <placeName ref="lub-places-103">Ryn</placeName> geschlagen
+<lb n="235"/>habe. Imselben toppell er gschwinnd übern <placeName ref="lub-places-282">Schwytzerzun</placeName> 
+<lb n="236"/>gewüscht, ehe man inn zuovertrösten hanndthaben mögen, 
+<lb n="237"/>unnd also domalen ledig darvon komen. Volgenndts nach 
+<lb n="238"/>einer guoten zyth sige der vermelt <persName ref="lub-actors-161">Michell Schmid</persName> gen 
+<lb n="239"/><placeName ref="lub-places-151">Werdenberg</placeName> kerth unnd mit dem lannndtvogt umb die buoss 
+<lb n="240"/>abkomen. Das sige im nach wol zewüssen. 
+</p>
+        <p><lb n="241"/><persName ref="lub-actors-2419">Ruodolff Gulis</persName>, sines allters ungfar sibenntzig jar, sagt by sinem 
+<lb n="242"/>geschwornen eyd, das er nie annderst gehört, dann das der zoll 
+<lb n="243"/>gen <placeName ref="lub-places-7">Vadutz</placeName> gehöre unnd die vischentzen gen <placeName ref="lub-places-73">Werdenberg</placeName>. Unnd 
+<lb n="244"/>uff ein mal were ein allter vischer, der geheissen <persName ref="lub-actors-2420">Repoli</persName>, von 
+<lb n="245"/><placeName ref="lub-places-79">Trissen</placeName> ennhalb <placeName ref="lub-places-103">Ryns</placeName> zuo ime, zügen, komen unnd inn pätten, 
+<lb n="246"/>das er mit im zum lanndtvogt gen <placeName ref="lub-places-73">Werdenberg</placeName> gannge, 
+<lb n="247"/>im helffe pitten, das er ouch im <placeName ref="lub-places-103">Ryn</placeName> dörffe vischen unnd 
+<lb n="248"/>ettwan ein <term ref="lub-keywords-367">vächli</term> schlachen, dann er ein armer gesell sige. 
+<lb n="249"/>Söllichs hab er, züg, gethon, für inn petten. Dotzemal sige es 
+<lb n="250"/>im uss gnaden von herren lanndtvogt verwilliget unnd 
+<lb n="251"/>vergonndt worden. Das sige im zuowüssen. 
+<lb n="252"/>Dessglychen hette uff ein mal einer, so geheissen <persName ref="lub-actors-2421">Hanns Zock</persName>, 
+<lb n="253"/>ein wildschwyn hiehalb inn <placeName ref="lub-places-172">Sergannser</placeName> herrschafft uff
+<lb break="no" n="254"/>genomen, dasselbig were übern <placeName ref="lub-places-103">Ryn</placeName> getrungen und komen,
+<lb n="255"/>ouch glych daselbst aller nechst bim dorff gestochen und gefellt 
+<lb n="256"/>worden. Habe domalen die herrschafft von <placeName ref="lub-places-7">Vadutz</placeName> dieselb 
+<lb n="257"/>suw genomen unnd dem <persName ref="lub-actors-2421">Hanns Zocken</persName> nütz darvon worden 
+<lb n="258"/>nach ettwas an schaden geben. Glychsfaals was sy ennet
+<lb break="no" n="259"/>halb für gwild inn ditz lannd gejagt unnd dar inn geschossen
+<lb n="260"/>ald gfanngen worden, hetten die von <placeName ref="lub-places-7">Vadutz</placeName> innen ouch nütz 
+<lb n="261"/>dar in gredt, wannn sy es genomen. Wellicher aber söllichs 
+<lb n="262"/>genomen, der habe müssen alhie mit dem herren darumb 
+<lb n="263"/>abkomen. Das wüsse er von disem hanndell. 
+</p>
+        <p><lb n="264"/><persName ref="lub-actors-2422">Sigmund Schwendiner</persName>, sines allters nün unnd sibentzig 
+<lb n="265"/>jar ungefarlich, sagt by sinem geschwornen eyd, das 
+<lb n="266"/>im innwüssen sige, das herr <persName ref="lub-actors-1190">Ludwig Tschudi</persName> sellig lanndt
+<lb break="no" n="267"/>vogt zuo <placeName ref="lub-places-73">Werdenberg</placeName> gsyn, derselbig habe wol ein mal
+<pb facs="lub-media-2849" n="6"/>
+<lb n="268"/>den <persName ref="lub-actors-400">herren von Sax</persName> sellig, dess gylchen herr aman <persName ref="lub-actors-2414">Bussi</persName>, als 
+<lb n="269"/>er alda vogt gsyn, den lanndtvogt von <placeName ref="lub-places-172">Sergans</placeName> uffs gejegt 
+<lb n="270"/>gen <placeName ref="lub-places-73">Werdenberg</placeName> geladen. Dieselben werind komen, aber als 
+<lb n="271"/>er ghört, dotzmal nütz gefanngen. Unnd sige inn sinem wüss
+<lb break="no" n="272"/>en nitt, das die von <placeName ref="lub-places-7">Vadutz</placeName> nie inn der grafschafft <placeName ref="lub-places-73">Werden
+<lb break="no" n="273"/>berg</placeName> gejagt nach von vögten hinüber geladen worden
+<lb n="274"/>sigend. Item wie auch sy von <placeName ref="lub-places-73">Werdenberg</placeName> zum erstenmal 
+<lb n="275"/>dennen herren zuo <placeName ref="lub-places-72">Glarüs</placeName> geschworn, lässe man innen die 
+<lb n="276"/>urbar unnd rödel vor. Dar inn were heyter vergriffen, das der 
+<lb n="277"/>wildpan, das fäderspill unnd die vischenntz im <placeName ref="lub-places-103">Ryn</placeName> den herren 
+<lb n="278"/>der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> zuogehorte. Hette ouch nie ghört, 
+<lb n="279"/>das innen jemandts darin gredt. Des von <placeName ref="lub-places-7">Vadutz</placeName> jeger 
+<lb n="280"/>habennd ouch uff ein mal ein wild schwyn inn der herrschafft 
+<lb n="281"/><placeName ref="lub-places-7">Vadutz</placeName> geschossen, welliches innen übern <placeName ref="lub-places-103">Ryn</placeName> gen <placeName ref="lub-places-73">Werdenberg</placeName> 
+<lb n="282"/>entrunen und alda todt funden. Dasselbig hette herr aman 
+<lb n="283"/><persName ref="lub-actors-2414">Bussi</persName>, domalen vogt zuo <placeName ref="lub-places-73">Werdennberg</placeName>, gen <placeName ref="lub-places-102">Chur</placeName> (wiewol die 
+<lb n="284"/><placeName ref="lub-places-7">Vadutzer</placeName> jeger es haben wellen) geschickt. Demnach 
+<lb n="285"/>emputte im vogt <persName ref="lub-actors-155">Mamerssdorffer</persName> von <placeName ref="lub-places-7">Vadutz</placeName>, der wildpann 
+<lb n="286"/>were sin unnd wann ein hirtz zuo <placeName ref="lub-places-221">Werdenberg bim schloss</placeName> 
+<lb n="287"/>stünde, wellt er inn schiessen. Daruff herr aman <persName ref="lub-actors-2414">Bussi</persName> ge
+<lb break="no" n="288"/>anntwurt, das möcht er versuochen, er wellte im helffen.
+<lb n="289"/>Sidhar hab er kein span mer ghört. 
+</p>
+        <p><lb n="290"/>Von wegen der vischenntzen habe er alwegen ghört unnd nie annderst 
+<lb n="291"/>vermeint, auch nach hütt by tag, dann wie man beid herr
+<lb break="no" n="292"/>schafften <placeName ref="lub-places-7">Vadutz</placeName> unnd <placeName ref="lub-places-73">Werdenberg</placeName> geteillt, sige der zoll
+<lb n="293"/>gen <placeName ref="lub-places-7">Vadutz</placeName> unnd faar unnd vischenntz gen <placeName ref="lub-places-73">Werdenberg</placeName> teilt 
+<lb n="294"/>worden, wiewol er ouch ettwan ghört, das die vögt von 
+<lb n="295"/><placeName ref="lub-places-7">Vadutz</placeName> an die vögt zuo <placeName ref="lub-places-73">Werdenberg</placeName> gschickt unnd sy gepetten, innen 
+<lb n="296"/>ettliche <term ref="lub-keywords-367">vächli</term> zum hus <placeName ref="lub-places-33">Vadutz</placeName> inn <placeName ref="lub-places-103">Ryn</placeName> zuoschlachen vergunnen. 
+<lb n="297"/>Das sige innen nie, als er ghört, abgeschlagen worden. So habe 
+<lb n="298"/>sich inn der zyth, ein wenig vor dem, als die von <placeName ref="lub-places-72">Glarus</placeName> die graff
+<lb break="no" n="299"/>schafft <placeName ref="lub-places-73">Werdenberg</placeName> koufft, begeben, das <persName ref="lub-actors-213">Hanns Schiersser</persName>
+<lb n="300"/>von <placeName ref="lub-places-53">Unnderschan</placeName> mit ime, zügen, unnd <persName ref="lub-actors-2423">Hanns Gassentzer</persName> 
+<lb n="301"/>stössig worden, grad by den uffgerichten steininen marchen. 
+<lb n="302"/>Danndotzemal nach kein <placeName ref="lub-places-282">Schwytzerzun</placeName> den marchen nach 
+<lb n="303"/>zwüschend beiden herrschafften <placeName ref="lub-places-73">Werdenberg</placeName> unnd <placeName ref="lub-places-7">Vadutz</placeName> 
+<lb n="304"/>were. Do wiche derselb <persName ref="lub-actors-213">Hanns Schiersser</persName> znechst hinder die 
+<lb n="305"/>marchen gegen <placeName ref="lub-places-7">Vadutz</placeName>. Dorfftend sy nützit wyters mit ime 
+<lb n="306"/>hanndlen, sonnder muossten inn also lauffen lassen. 
+<lb n="307"/>Derglychen, als <persName ref="lub-actors-161">Michel Schmid</persName> von <placeName ref="lub-places-53">Schan</placeName> den <persName ref="lub-actors-2418">Hanns Schächlin</persName> 
+<lb n="308"/>von <placeName ref="lub-places-151">Werdenberg</placeName> ouch zwüschennd dem <placeName ref="lub-places-282">Schwytzerzun</placeName> und 
+<lb n="309"/>dem <placeName ref="lub-places-103">Ryn</placeName> geschlagen, do sige er übern zun gesprungen, ee das 
+<lb n="310"/>man inn hanndthaben mögen, das er vertroste. Doch hernach 
+<lb n="311"/>were er mitt dem lanndtvogt zuo <placeName ref="lub-places-73">Werdenberg</placeName> umb die 
+<lb n="312"/>buoss abkomen, dann er das lannd nitt wol myden können. 
+<lb n="313"/>Das sige im zuowüssen. 
+</p>
+        <p><lb n="314"/><persName ref="lub-actors-2425">Ruodi Purgetzi</persName>, sines allters vier unnd sechzig jar, sagt by sinem ge
+<lb break="no" n="315"/>schwornen eyd, das er vom <persName ref="lub-actors-2424">Henni Riffer</persName>, dero <orgName ref="lub-actors-1197">von Hewen</orgName> aman,
+<lb n="316"/>ghört, als der allt <persName ref="lub-actors-400">herr von Sax</persName> (der jungen <orgName ref="lub-actors-1197">herren von Hewen</orgName> 
+<lb n="317"/>vogt) sine jeger gen <placeName ref="lub-places-147">Sevelen</placeName> gschigkt gen jagen, dieselben werend 
+<lb n="318"/>by im über nacht unnd wolltend volgenndts inns pirg. Do redte 
+<lb n="319"/>gemellter <persName ref="lub-actors-2424">Henni Riffer</persName>, alda habennd die jungen herren <orgName ref="lub-actors-1197">von 
+<lb n="320"/>Hewen</orgName> den wildpan inn diser grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> unnd 
+<lb n="321"/>er were allt unnd betagt, es möchte glych dartzuo komen, das es 
+<lb n="322"/>vergessen wurde. Darumb sage er, das der wildtpan innen ghört, 
+<lb n="323"/>unnd hab innen niemandts nütz darin zereden, ursachen, do die graffen 
+<lb n="324"/>beid herrschafften geteillt habennd, do sige dem hus <placeName ref="lub-places-33">Vadutz</placeName> der 
+<lb n="325"/>zoll zuogeteillt unnd <placeName ref="lub-places-73">Werdenberg</placeName> die vischenntzen im <placeName ref="lub-places-103">Ryn</placeName>. 
+<lb n="326"/>Fürs annder von wegen der marchen etc. wüsse er daselbst wol, 
+<lb n="327"/>das sich eins mals zuo tragen, das <persName ref="lub-actors-2427">Hanns Ruodolff</persName> von <placeName ref="lub-places-244">Allten
+<lb break="no" n="328"/>dorff</placeName> unnd <persName ref="lub-actors-2426">Gaberiel Wannger</persName> von <placeName ref="lub-places-53">Unnderschan</placeName> miteinanndern stössig
+<lb n="329"/>worden unnd also zwüschend dem <placeName ref="lub-places-103">Ryn</placeName> unnd dem <placeName ref="lub-places-282">Schwytzerzun</placeName> ein
+<lb break="no" n="330"/>anndern geschlagen. Do habe der <persName ref="lub-actors-2426">Wannger</persName> trostung müssen geben
+<lb n="331"/>unnd sige <persName ref="lub-actors-2422">Sigmund Schwenndiner</persName> für die buoss bürg worden. Im 
+<lb n="332"/>selben <persName ref="lub-actors-2426">Gaberiel Wannger</persName> vermeint, diewyl es ennhalb <placeName ref="lub-places-103">Ryns</placeName> 
+<lb n="333"/>geschechen, were er die buoss alher gen <placeName ref="lub-places-73">Werdenberg</placeName> zegeben nitt schuldig. 
+<lb n="334"/>Doch kemend sy zuo <placeName ref="lub-places-73">Werdenberg</placeName> mitenanndern in recht. Do 
+<lb n="335"/>gab gricht unnd urteil, was hiehalb <placeName ref="lub-places-282">Schwytzerzuns</placeName> unnd 
+<lb n="336"/>den gesetzten marchen für buossen verschütt, das die dem schloss 
+<lb n="337"/><placeName ref="lub-places-221">Werdenberg</placeName> gehören sölltend. Also verlure der <persName ref="lub-actors-2426">Wannger</persName> die buoss 
+<lb n="338"/>mit der urtel unnd hette sy dem vogt zuo <placeName ref="lub-places-73">Werdenberg</placeName> geben. Und habend 
+<lb n="339"/>sidt derselbigen urteil also für unnd für mit einanndern gebrucht 
+<lb n="340"/>unnd darby plyben lassen, das nie kein gspan (als inn sinem 
+<lb n="341"/>wüssen sige) darumb gsyn. 
+</p>
+        <p><lb n="342"/>Aman <persName ref="lub-actors-2428">Wittenwyler</persName>, sins allters sibenntzig jar ungfar, ettwas 
+<lb n="343"/>mer, sagt by sinem geschwornen eyd, er habe dem allten <persName ref="lub-actors-400">herren 
+<pb facs="lub-media-2848" n="7"/><lb n="344"/>von Sax</persName> dick selb geholffen inn der grafschafft <placeName ref="lub-places-73">Werden
+<lb break="no" n="345"/>berg</placeName> jagen, aber nie ghört, das im von der herrschafft
+<lb n="346"/><placeName ref="lub-places-7">Vadutz</placeName> nie kein intrag geschechen sige. 
+</p>
+        <p><lb n="347"/><persName ref="lub-actors-2429">Pauli Schwartz</persName>, sines allters fünff unnd vierzig jar ungefar, 
+<lb n="348"/>sagt by sinem geschwornen eyd, wie sich uff ein zyth begeben, das 
+<lb n="349"/>zwen, so uss <placeName ref="lub-places-7">Vadutzer</placeName> herrschafft gsyn, ein anndern hiehalb <placeName ref="lub-places-282">Schwytz
+<lb break="no" n="350"/>erzuns</placeName> geschlagen. Dieselben unnderstuondend sich, dem lanndtvogt
+<lb n="351"/>zuo <placeName ref="lub-places-73">Werdenberg</placeName> die buoss zuogeben, nitt zuovertrösten, der meinung, 
+<lb n="352"/>dann sy hortynd gen <placeName ref="lub-places-7">Vadutz</placeName>. Uff dasselbig schigktennd die von 
+<lb n="353"/><placeName ref="lub-places-72">Glarus</placeName> herrn vogt <persName ref="lub-actors-591">Tolder</persName> seligen zum vogt <persName ref="lub-actors-2417">Bruner</persName> selligen, der 
+<lb n="354"/>do vogt zuo <placeName ref="lub-places-73">Werdenberg</placeName> was, usshin gen <placeName ref="lub-places-73">Werdenberg</placeName>. Dieselben 
+<lb n="355"/>beid herren rittend alssdo überhin gen <placeName ref="lub-places-7">Vadutz</placeName> unnd hanndletend 
+<lb n="356"/>mit dem vogt daselbst, so genempt ward vogt <persName ref="lub-actors-404">Jörg</persName>. Also was für 
+<lb n="357"/>buossen hiehalb <placeName ref="lub-places-282">Schwytzerzuns</placeName> verfiellend, die sölltend gen 
+<lb n="358"/><placeName ref="lub-places-73">Werdenberg</placeName> einem lanndtvogt gehörren. Unnd sige ouch sidthar 
+<lb n="359"/>also (sins wüssens) darby beliben. 
+<lb n="360"/>Dess wildpanns halb sige im nütz annders zewüssen, dann das 
+<lb n="361"/>er zum dickermal offenntlich ennhalb <placeName ref="lub-places-103">Ryns</placeName> hieditzhalb <placeName ref="lub-places-282">Schwytz
+<lb break="no" n="362"/>erzuns</placeName> uffs gewild gwartet unnd, so im ettwas zuo hannden komen
+<lb n="363"/>were, hette ers geschossen. Darnach sige er offt übern <placeName ref="lub-places-103">Ryn</placeName> 
+<lb n="364"/>gewanndlet, aber inn habe niemandt darumb gerechtvertiget, 
+<lb n="365"/>biss jetzt ditzmals, das sich der unwill zwüschend dem vogt unnd 
+<lb n="366"/>im zuo tragen habe. 
+<lb n="367"/>So dann von wegen der vischenntz sige er ein mal inns <persName ref="lub-actors-2430">Hanns 
+<lb n="368"/>Martins</persName> hus zuo <placeName ref="lub-places-53">Unnderschan</placeName> gsyn. Do were vogt <persName ref="lub-actors-290">Franz Lanndt
+<lb break="no" n="369"/>man</persName> ouch by innen unnd unnder annderm seyt <persName ref="lub-actors-2430">Hans Marti</persName>
+<lb n="370"/>zum vogt: Herr vogt oder gfatter, machend unns den nachpuren 
+<lb n="371"/>von <placeName ref="lub-places-73">Werdenberg</placeName> guot gschir. Anntwort der vogt: Ja, guot nach
+<lb break="no" n="372"/>puren mit guoten trüwen, ungefarlich wie man all eyd schwert.
+<lb n="373"/>Deruff redte er, züg: Ich denngk, wir sigend guot nachpuren. Dann 
+<lb n="374"/>inn beduochte wol, waruff ers redte. Sagte der vogt wyter: Ich 
+<lb n="375"/>han minen unnderthonen verpotten unnd wils innen nach ver
+<lb break="no" n="376"/>pütten, das sy dinem herren im <placeName ref="lub-places-103">Ryn</placeName> nitt vischind. Er wellte
+<lb n="377"/>aber, das sy inn im wildpann ouch rüwig liessend. Uff sölliches 
+<lb n="378"/>redte er, züg: Ir fürchten üch vil mer, dann üch geschicht. Ich 
+<lb n="379"/>glaub, es thüe im niemanndt nütz etc. Sovil sige ime 
+<lb n="380"/>zuowüssen. 
+</p>
+        <p><lb n="381"/><persName ref="lub-actors-2431">Hanns Aberli</persName> von <placeName ref="lub-places-147">Sevilen</placeName>, sins allters ungfar by fünffzig 
+<lb n="382"/>jaren, sagt by sinem geschwornen eyd, das er ungefarlich 
+<lb n="383"/>vierzechen oder fünffzechen jar den wildpan brucht inn der 
+<lb n="384"/>grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> unnd ennethalb dem <placeName ref="lub-places-103">Ryn</placeName> biss an 
+<lb n="385"/><placeName ref="lub-places-282">Schwytzerzun</placeName>, als wyth der herren von <placeName ref="lub-places-72">Glarus</placeName> herrlicheyt 
+<lb n="386"/>gath, unnd habs im nie niemandt gwerth nach intrag gethon, 
+<lb n="387"/>hab ouch vermeint, er hette sy macht unnd gwallt. Unnd was 
+<lb n="388"/>er also gfanngen oder überkomen, hette er alwegen dem vogt 
+<lb n="389"/>zuo <placeName ref="lub-places-73">Werdennberg</placeName> unnd, was usserhalb der grafschafft 
+<lb n="390"/>inn der <orgName ref="lub-actors-845">Siben Orthen</orgName> lannden unnd herschafften geschossen 
+<lb n="391"/>oder gfanngen, dasselbig den lanndtvögten daselbst hin ouch 
+<lb n="392"/>überanntwurt. Hab ouch nie annderst ghört, dann es sige also 
+<lb n="393"/>brucht worden. So sige ein wild schwyn zuo <placeName ref="lub-places-730">Reffis</placeName> uffen 
+<lb n="394"/><placeName ref="lub-places-731">Bäffell</placeName> funden worden, unnd namlich hette er, züg, das selbst 
+<lb n="395"/>funden. Dasselbig habe vogt <persName ref="lub-actors-1190">Ludwig Tschudi</persName> zuo sinen hand 
+<lb break="no" n="396"/>en genomen unnd, wie er ghört, gen <placeName ref="lub-places-102">Chur</placeName> uffhin gschickt 
+<lb n="397"/>unnd habe niemandts nütz darin gredt. Der vischentzen 
+<lb n="398"/>halb wüsse er nütz, dann wie er zuo <placeName ref="lub-places-149">Warttow</placeName> ungfar 
+<lb n="399"/>vier unnd zwenntzig jar gedienet, wann sy zuo <placeName ref="lub-places-149">Warttow</placeName> hab 
+<lb break="no" n="400"/>ennd wellen im <placeName ref="lub-places-103">Ryn</placeName> vischen, wüsse er wol, das sy all
+<lb break="no" n="401"/>wegen die von <placeName ref="lub-places-72">Glarus</placeName> oder ire vögt darumb pitten unnd be
+<lb break="no" n="402"/>grüssen muossen. Das were im hiervon zuowüssen.
+</p>
+        <p><lb n="403"/>Dise jetz gehörten zügen, so zuo <placeName ref="lub-places-151">Werdenberg</placeName> khundtschafft gsagt, 
+<lb n="404"/>der merenteil all sagten ouch by iren geschwornen eyden, das 
+<lb n="405"/>sy vom aman <persName ref="lub-actors-2432">Schwartzen</persName>, der dann diser tagen durch gottes ge
+<lb break="no" n="406"/>wallt mit dem schlag oder guot getroffen unnd zuo bett nider
+<lb break="no" n="407"/>gelegt, dermassen, das er nitt mer reden können, zum dicker
+<lb break="no" n="408"/>mal hiervor ghört, das ime von disem hanndel zuowüssen
+<lb n="409"/>sige, wie der erst züg inn <placeName ref="lub-places-73">Werdenberg</placeName>, der allt weibel <persName ref="lub-actors-2415">Pfyff
+<lb break="no" n="410"/>ner</persName>, gesagt habe, unnd nach sovil wyter, das er wüsse,
+<lb n="411"/>der zun nitt allein zuo enntschidigung der güter gmacht, sonder 
+<lb n="412"/>er sige ein rechte lanndtmarch unnd rechte lanndtmarchen 
+<lb n="413"/>halb mans hoch stein darumb uffgericht. Unnd wann der 
+<lb n="414"/><placeName ref="lub-places-103">Ryn</placeName> derselben steinen ettlich zuo zythen hinwegneme, so richte 
+<lb n="415"/>man grad anndere wider uff. Dasselbig sige je unnd alwegen 
+<lb n="416"/>beschechen, als lanng er sich bedenngken möge. 
+</p>
+        <p><pb facs="lub-media-2847" n="8"/><lb n="417"/>Dess wildpanns halber wüsse er sovil wyter, das der <persName ref="lub-actors-400">herr 
+<lb n="418"/>von Sax</persName> der allt (do er deren <orgName ref="lub-actors-1197">von Hewen</orgName> <term ref="lub-keywords-452">gerhab</term> unnd vogt 
+<lb n="419"/>gsyn) inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> gejagt habe unnd 
+<lb n="420"/>da ettlich wildpräth geschossen unnd gfanngen, unnd hab 
+<lb n="421"/>nitt ghört, das im je niemand nützit dar in geret, nach dehein 
+<lb n="422"/>zanngk darumb gsyn sige. 
+</p>
+        <p><lb n="423"/>Die kundtschafften, so zuo <placeName ref="lub-places-76">Ser
+<lb break="no" n="424"/>ganns</placeName> ingenomen uff <date when="1559-03-03">frytag
+<lb n="425"/>nach oculli anno etc. 1559</date> 
+</p>
+        <p><lb n="426"/><persName ref="lub-actors-311">Hanns Enngler</persName> von <placeName ref="lub-places-732">Oberschan</placeName>, sines allters ungfar sibentzig 
+<lb n="427"/>jar, sagt by sinem geschwornen eyd, das im ganntz unnd gar 
+<lb n="428"/>nitt inwüssen, das die ennhalb <placeName ref="lub-places-103">Ryns</placeName> uss der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> 
+<lb n="429"/>inn der graffschafft <placeName ref="lub-places-73">Werdenberg</placeName> nie gejagt habend, dann 
+<lb n="430"/>er sige ein jeger all sin tag gsyn, hab aber, wie obgemelt, hie 
+<lb n="431"/>ditz halb <placeName ref="lub-places-103">Ryns</placeName> nie gsechen jagen. Doch habe sich ein mal begeben, 
+<lb n="432"/>das jungkher <persName ref="lub-actors-28">Uolrich von Ramschwag</persName> sellig, der des jetzigen 
+<lb n="433"/>jungkherrn <persName ref="lub-actors-156">Ballthasser von Ramschwags</persName> grossvater gwessen, 
+<lb n="434"/>ennhalb <placeName ref="lub-places-103">Ryns</placeName> inn <placeName ref="lub-places-7">Vadutzer</placeName> herrschafft gejagt habennd unnd 
+<lb n="435"/>ein wild schwyn im gejegt ghept. Je dasselbig schwyn were 
+<lb n="436"/>innen durch den <placeName ref="lub-places-103">Ryn</placeName> gegen <placeName ref="lub-places-149">Warttow</placeName> geschwumen. Imselben 
+<lb n="437"/>hette der allt <persName ref="lub-actors-400">herr von Sax</persName> inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> 
+<lb n="438"/>ouch gejaget, sonnderlich die owen uff. Werend also beide gejegt 
+<lb n="439"/>zesamen komen unnd tribend die suw biss gen <placeName ref="lub-places-733">Mallanss</placeName>. 
+<lb n="440"/>Do hettends ettlich gsellen ersechen, die sigend zuo gfaren 
+<lb n="441"/>unnd sy gestochen. Zuodemselben keme des von <persName ref="lub-actors-28">Ramschwags</persName> 
+<lb n="442"/>jeger unnd wollt das schwyn nemen. Aber sy wolltens im 
+<lb n="443"/>nit lassen. Doch er sagte, er wellte sy uss weyden, dann 
+<lb n="444"/>söllte sy nemen, wer recht dartzuo hette. Glych wie er sy uss
+<lb break="no" n="445"/>weydete, keme der allt <persName ref="lub-actors-400">herr von Sax</persName> (der <orgName ref="lub-actors-1197">herren von Hewen</orgName>
+<lb n="446"/><term ref="lub-keywords-452">geerhab</term>) unnd neme dasselbig wildschwyn unnd fuorte sy 
+<lb n="447"/>mit im gen <placeName ref="lub-places-9">Vorstegg</placeName>. Dotzemal redte im des von <persName ref="lub-actors-28">Ramschwags</persName> 
+<lb n="448"/>jeger gar nüt darin. Habe also des wildpanns halber weder 
+<lb n="449"/>vor noch nach nie kein span ghört unnd mög nach dennost ob 
+<lb n="450"/>fünffzig jaren dengken. Dess glychen, wie vogt <persName ref="lub-actors-580">Jauch</persName> 
+<lb n="451"/>von <placeName ref="lub-places-186">Ury</placeName> lanndtvogt zuo <placeName ref="lub-places-172">Serganns</placeName> gsyn, do werend die 
+<lb n="452"/>lanndtvögt zuo <placeName ref="lub-places-73">Werdenberg</placeName>, so domalen alda gwessen, mitt 
+<lb n="453"/>demselben vogt <persName ref="lub-actors-580">Jouchen</persName> uff ein zyth eines gejegts eins worden und 
+<lb n="454"/>mit einanndern angeschlagen, zuosamen zekomen. Dotzmal habents 
+<lb n="455"/>ein stuck gwild da niden uff der ebni zuo <placeName ref="lub-places-147">Sevella</placeName> gefanngen. Habe 
+<lb n="456"/>es die <orgName ref="lub-actors-7">graffen von Sultz</orgName> nütz anganngen, sige ouch niemandts 
+<lb n="457"/>von irtwegen by innen gsyn. So danne der vyschenntz 
+<lb n="458"/>halb habe er ghört den aman <persName ref="lub-actors-2433">Müller</persName>, sin vatter und die ämman, 
+<lb n="459"/>so er verdenngken möge, verpieten im namen deren <orgName ref="lub-actors-1197">von Hewen</orgName> 
+<lb n="460"/>unnd demnach deren von <placeName ref="lub-places-72">Glarüs</placeName> unnd iren lanndtvögten 
+<lb n="461"/>zuo <placeName ref="lub-places-73">Werdenberg</placeName> unnd sonst von deniemandts wegen. Söllichs 
+<lb n="462"/>sige im zuowüssen. 
+</p>
+        <p><lb n="463"/><persName ref="lub-actors-312">Hanns Sulsser</persName> von <placeName ref="lub-places-734">Funtnas</placeName>, sins allters drü unnd sechzig 
+<lb n="464"/>jar, sagt by sinem geschwornen eyd inn wyss unnd mass, wie 
+<lb n="465"/>der nechst hievor gestellt züg <persName ref="lub-actors-311">Hanns Enngler</persName>, dann sovil 
+<lb n="466"/>mer: Wann die gsellen zuo <placeName ref="lub-places-149">Warttow</placeName> unnd inn denselbigen 
+<lb n="467"/>dörffern ghört, das die <orgName ref="lub-actors-7">graffen von Sultz</orgName> oder ire vögt zuo 
+<lb n="468"/><placeName ref="lub-places-7">Vadutz</placeName> gjagt oder die uff <placeName ref="lub-places-13">Guotennberg</placeName>, sigennd sy an <placeName ref="lub-places-103">Ryn</placeName> uff 
+<lb n="469"/>die march ganngen, damit, wann ettwas gwildts durch 
+<lb n="470"/>den <placeName ref="lub-places-103">Ryn</placeName> über die march inn die grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> 
+<lb n="471"/>oder herrschafft <placeName ref="lub-places-149">Warttow</placeName> keme, ob sy dieselbigen könndtind 
+<lb n="472"/>schiessen, unnd sige ouch ettlich gwild (das er wol wüsse) 
+<lb n="473"/>gschossen worden. Darnach habennd die graffen nach 
+<lb n="474"/>ire vögt ennhalb <placeName ref="lub-places-103">Ryns</placeName> inn der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> nie nützit 
+<lb n="475"/>darnach gfraget nach darin gredt, als er mög wüssen. 
+<lb n="476"/>So sige im ouch zuowüssen, das der allt <persName ref="lub-actors-400">herr von Sax</persName> als ein 
+<lb n="477"/>gwallthaber deren <orgName ref="lub-actors-1197">von Hewen</orgName> ein hirtzen vor dryssig jaren 
+<lb n="478"/>gejagt. Derselbig sige bim <placeName ref="lub-places-729">Truobenbach</placeName> gefellt worden, wellichen 
+<lb n="479"/>er, züg, vom <placeName ref="lub-places-729">Truobenbach</placeName> biss inn das dorff <placeName ref="lub-places-735">Atzmans</placeName> gefürt. 
+<lb n="480"/>Darnach habennd sy denselben gen <placeName ref="lub-places-9">Vorstegg</placeName> gefertiget unnd sige 
+<lb n="481"/>niemandts <orgName ref="lub-actors-7">von Sultz</orgName> oder von der graffen wegen alda gsyn. 
+<lb n="482"/>Möge ouch nitt wüssen (wiewol er ob fünffzig jaren gedengken 
+<lb n="483"/>möge), das die ennet dem <placeName ref="lub-places-103">Ryn</placeName> sich des wildpanns inn der 
+<lb n="484"/>grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> nach daselbst umb nie nützit beladen 
+<lb n="485"/>habennd, weder das minder nach das mer. Wol hab er 
+<lb n="486"/>allwegen ghört, wie die zwo herrschafften <placeName ref="lub-places-73">Werdenberg</placeName> und 
+<lb n="487"/><placeName ref="lub-places-7">Vadutz</placeName> geteilt, das der zoll gen <placeName ref="lub-places-7">Vadutz</placeName> unnd vischenntz unnd 
+<lb n="488"/>der wildpann gen <placeName ref="lub-places-73">Werdenberg</placeName> teilt sigend worden. Sovil sige 
+<lb n="489"/>im zuo wüssen. 
+</p>
+        <p><pb facs="lub-media-2846" n="9"/><lb n="490"/><persName ref="lub-actors-2434">Hanns Alian</persName> ab <placeName ref="lub-places-149">Warttow</placeName> von <placeName ref="lub-places-735">Atzmans</placeName>, sines allters drü
+<lb n="491"/>unnd sechzig jar ungefarlich, sagt by sinem geschwornen 
+<lb n="492"/>eyd, das im ganntz unnd gar nit inn wüssen sige, das 
+<lb n="493"/>die von <placeName ref="lub-places-7">Vadutz</placeName> nach niemandts ennett dem <placeName ref="lub-places-103">Ryn</placeName> nie hie diss
+<lb break="no" n="494"/>halb inn der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> ald <placeName ref="lub-places-149">Warttow</placeName> gejagt
+<lb n="495"/>nach derhalb verpott thon habennd. Dessglychen habe er 
+<lb n="496"/>ouch nie ghört, das die ennet dem <placeName ref="lub-places-103">Ryn</placeName> kein <term ref="lub-keywords-367">vach</term> im <placeName ref="lub-places-103">Ryn</placeName> 
+<lb n="497"/>gemachet, nach das sy von der vischenntzen wegen kein verpott 
+<lb n="498"/>thon habennd. Sige ouch by sinem denncken nie beschechen, 
+<lb n="499"/>das er darvon wüssen möge. Das sige im zuowüssen. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2845" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

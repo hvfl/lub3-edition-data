@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-964">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkaufsverhandlungen Karl Ludwig Grafen von Sulz und dem Fürstabt von St. Gallen betreffend Vaduz und Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-964">LI-LA, RA 73/32</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. Januar 1613 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Karl Ludwig von Sulz antwortet Bernhard Müller, dem Fürstabt von St. Gallen, mit einem Vertragskonzept, das seine Änderungswünsche im  Kaufvertrag von Vaduz und Schellenberg die Zahlungsmodalitäten und noch einzufordernde Regalien betreffend enthält. Der bestehende Konflikt zwischen Sulz und Kaspar von Ramschwag wegen Kaspar Wolfinger soll beigelegt werden. Von den Kanonen und Waffen auf Schloss Vaduz möchte sich Karl Ludwig von Sulz die behalten, auf denen das Wappen der Sulz gegossen oder gemalt worden und eine Kanone, die mit dem Wappen der Freiherr von Brandis versehen ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-203">Vertrag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1613-01-11" to="1613-01-12">11. Jan 1613 – 12. Jan 1613</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_32-0001.jpg" xml:id="lub-media-1681" source="ra-73-32-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_32-0002.jpg" xml:id="lub-media-1682" source="ra-73-32-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_32-0003.jpg" xml:id="lub-media-1683" source="ra-73-32-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_32-0004.jpg" xml:id="lub-media-1684" source="ra-73-32-s04.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1681" n="1"/><lb n="1"/>Ex parte <persName ref="lub-actors-13">Sulz</persName>. 
+<lb n="2"/>Erleuterung wegen der, den 11. unnd 12. januarii  
+<lb n="3"/>anno 1612 abgehandletern kauffspuncten. Namblichen:  
+<lb n="4"/>1. Den ersten lasst man allerdings, wie derselbig abgeredt verbleiben. 
+<lb n="5"/>2. Den anndern deßgleichen. 
+<lb n="6"/>3. Wie nicht weniger den dritten, allein behallt ihme herr graf bevor  
+<lb n="7"/>vier <term ref="lub-keywords-455">stückhlin</term>, darauf das sulzisch wappen gossen, und eins dar
+<lb break="no" n="8"/>auf <orgName ref="lub-actors-744">Brandis</orgName> stehet. Die ubrigen grosse <term ref="lub-keywords-455">stuckh</term> will herr 
+<lb n="9"/>graf im <placeName ref="lub-places-33">Schloß</placeName> verbleiben lassen, und was sonnsten weiters  
+<lb n="10"/>herren <persName ref="lub-actors-706">käuffern</persName> angedingt. Darbey soll es allerdings verbleiben,  
+<lb n="11"/>allain wo das sulzisch wappen auf den <term ref="lub-keywords-455">stückhlin</term> gemahlet  
+<lb n="12"/>ist, soll außgethan, oder delirt werden. 
+<lb n="13"/>Dar<gap/> soll auch underschreiben. 
+<lb n="14"/>4. Deren vierdt punct würdt auch nit disputirt. 
+<lb n="15"/>5. Deß fünfften punctens ist man auch zuefriden, allain hat man  
+<lb n="16"/>die fürsorg, es möchten etliche verdächtige ihr gnaden gern eintrag  
+<lb n="17"/>thun, unnder dem praetext, weiln ihr fürstlich gnaden nicht im <orgName ref="lub-actors-516">Reich</orgName> gesessen. 
+<lb n="18"/>Dannenhero hat man biß auf bessere gelegenhait diß für  
+<lb n="19"/>ein interimsmittel gehallten, das biß zu völliger ratifica
+<lb break="no" n="20"/>tion ihr gnaden herr graf in ihr fürstlich gnaden nahmen reichs-, oder 
+<lb n="21"/>bluetvogt inn craft der regalien verbleiben möchte, oder ob  
+<lb n="22"/>ihr fürstlich gnaden durch einen vom adel, oder landtvogt, welhen ihr  
+<lb n="23"/>fürstlich gnaden naher <placeName ref="lub-places-7">Vaduz</placeName> aufnehmen würden, selbige zum affterlehen  
+<lb n="24"/>von ihr gnaden empfangen wollten. 
+<lb n="25"/>6. Bey dem sehsten puncten ist man deß zuefriden, sobald ihr fürstlich gnaden  
+<lb n="26"/>werden etwas am kauffschilling erlegen und die übrigen  
+<lb n="27"/>schulden auf sich nehmen, das selbige zugleich intuirt und der  
+<lb n="28"/>gefällen richtig sein, unnd dan zumahl auch die zinß zue
+<lb break="no" n="29"/>entrichten pro rato.
+<lb n="30"/>Darüber ein design
+<lb break="no" n="31"/>tion ubergeben und liqui
+<lb break="no" n="32"/>dirt werden soll.
+</p>
+        <p><pb facs="lub-media-1682" n="2"/><lb n="33"/>7. Beschwerdt sich herr graf der eviction halber, dann ihr gnaden  
+<lb n="34"/>30 jar zu lanng, iedoch aber wenn ihr gnaden für den reichs-,  
+<lb n="35"/>oder bluetvogt vermög deß 5 puncten, ihr fürstlich gnaden beliebt,  
+<lb n="36"/>so wollten ihr gnaden umb gepürende verzünßung biß auf  
+<lb n="37"/>ervolgte confirmation der regalien und gewisse anzahl  
+<lb n="38"/>jahren den überrest innlassen, allß nemblichen 10000 fl. schulden,  
+<lb n="39"/>50 000 pargellt unnd 50 000 innlassen. Doch wann ihr gnaden ein  
+<lb n="40"/>noth anstieße, dasselbig aufkhünden und ihr fürstlich gnaden nicht  
+<lb n="41"/>fueg haben, solhes eins oder deß andern stritts halber nicht  
+<lb n="42"/>auf- oder vorhallten, dann was für spänn mit dem vogt  
+<lb n="43"/>zue <placeName ref="lub-places-13">Guetenberg</placeName>, <persName ref="lub-actors-166">Casparn von Ramschwag</persName>, eines <persName ref="lub-actors-167">Caspar Wolf
+<lb break="no" n="44"/>ingern</persName> und angemasster fuchs- und hasenjagen halber für
+<lb break="no" n="45"/>gangen, dessen ist hievor bericht beschechen. Darbey mans 
+<lb n="46"/>verbleiben lassen, unnd wöllen ihr gnaden die graf- unnd  
+<lb n="47"/>herrschaften übergeben inn dem stanndt, wie selbige ieziger  
+<lb n="48"/>zeit seyen. 
+<lb n="49"/>8. Dises schreiben von ihr fürstlichen durchlaucht erzherzog <persName ref="lub-actors-184">Maximilian</persName>,   
+<lb n="50"/>dieweil es inn dem tumult zue <placeName ref="lub-places-25">Prag</placeName> bey den actitaten  
+<lb n="51"/>verbliben, wöllen ihr gnaden solches abfordern, und sobaldt sies  
+<lb n="52"/>bekhommen, ihren fürstlichen gnaden einantwurten. 
+<lb n="53"/>9. Was nun die verhindernus der ratification deß kaufs halben  
+<lb n="54"/>gewessen, haben ihr fürstlich gnaden auß deß herrn grafen  
+<lb n="55"/>schreiben gnedig verstannden, dahin man sich dan re
+<lb break="no" n="56"/>feriren thuet.
+<lb n="57"/>10. Der zehendt ist ihr gnaden, dem herrn grafen, auch nit zuewider,  
+<lb n="58"/>unnd seyen gränizbrief und verträg deßhalber verhanden   
+<lb n="59"/>und bey jüngster tractation fürgezaigt worden. 
+</p>
+        <p><pb facs="lub-media-1683" n="3"/><lb n="60"/>11. Der Reichs- unnd Anstännden halber ist ihr gnaden deßen auch  
+<lb n="61"/>zuefriden unnd dem puncten der eviction anhengig.  
+<lb n="62"/>12. Deß 12. punctens seindt ihr gnaden auch zuefriden. 
+<lb n="63"/>13. Bey disem puncten halltet ihr gnaden darfür, das der kaufschilling  
+<lb n="64"/>umb etwas solle erhöcht werden, namblichen auf 225 000 fl.,  
+<lb n="65"/>inn betrachtung ihren gnaden zuvor 227 000 fl. vom <persName ref="lub-actors-2359">erzbischoven  
+<lb n="66"/>zue Salzburg</persName> drauf botten worden. Dann 100 000 fl. schulden,  
+<lb n="67"/>60 000 par und den rest pro evictione stehn lassen auf  
+<lb n="68"/>etliche benanndte jar, wie man sich derselben halben ver
+<lb break="no" n="69"/>gleichen möchte, auch neben gebürender verzinßung darüber 
+<lb n="70"/>ein beschribne obligation zugeben, unnd was dißen puncten  
+<lb n="71"/>sonnsten weiter anhangt, deßen seindt ihr gnaden auch zufriden. 
+<lb n="72"/>14. Soll der kaufschilling zue seinen sichern hannden gelifert werden  
+<lb n="73"/>zue <placeName ref="lub-places-100">Jestetten</placeName> oder <placeName ref="lub-places-86">Kissenberg</placeName>, wo es ihr gnaden begeren, oder  
+<lb n="74"/>an einem andern orth in der landtgraffschaft <placeName ref="lub-places-18">Kleggew</placeName>  
+<lb n="75"/>allerhandt unglegenhait dardurch zu vermeiden. 
+<lb n="76"/>15. Bey dem 15. puncten soll es verabschidter maßen aller
+<lb break="no" n="77"/>dings verbleiben.
+<lb n="78"/>16. Inn gleichem auch bey dem sechzehendten. 
+<lb n="79"/>17. Beym beschluß deß lezten puncten lassens ihr gnaden bey  
+<lb n="80"/>dem buchstäblichen innhallt allerdings verbleiben. 
+</p>
+        <p><lb n="81"/>Neben puncten. 
+<lb n="82"/>1. Extanzen bey den underthanen. 
+<lb n="83"/>2. Wein und früchten, auch allerlai mobilia. 
+</p>
+        <p><lb n="84"/><orgName ref="lub-actors-708">St. Gallen</orgName>. 
+<lb n="85"/>1. Kaufschilling, vorrath hinweg, die schniz. 
+<lb n="86"/>2. Designatio pertitorum. 
+<lb n="87"/>3. Locus solutionis. 
+<lb n="88"/>4. Assecuratio. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1684" n="1"/><lb n="1"/>Ex parte <persName ref="lub-actors-13">Sulz</persName>. 
+<lb n="2"/>Erleuterung wegen der den 11. und 12.  
+<lb n="3"/>januarii anno 1612 abgehanndleter  
+<lb n="4"/>kauffspuncten. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-855">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verzicht auf eine Fischfangvorrichtung im Rhein bei Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-855">CH-StASG, AA 3 U 11</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 6. März 1540 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Balthasar von Ramschwag, kaiserlicher Vogt von Gutenberg, sowie die Geschworenen und die Gemeinde von Balzers und Mäls bezeugen, dass Glarus als Obrigkeit von Werdenberg und Wartau alleine aus nachbarschaftlicher Freundschaft und nicht aus rechtlichen Gründen versprochen hat, die Fischfangvorrichtung im Rhein beim Gretschinser und Wartauer Wuhr, die den Balznern und Mälsnern schadet, zu entfernen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-324">Fischerei</term>
+          <term ref="lub-keywords-367">fach</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1540-03-06">6. Mär 1540</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3_u_11-0001.jpg" xml:id="lub-media-2836" source="stasg-aa-3-u-11-v-klein.jpg" corresp="A1"/>
+    <graphic url="ch-stasg__aa_3_u_11-0002.jpg" xml:id="lub-media-2837" source="stasg-aa-3-u-11-r-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2837" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-156">Balthasar von Ramschwag</persName>, der zeit römischer kunigklicher mayestat etc., meins genedigisten herrn, vogt auff <placeName ref="lub-places-13">Gutennberg</placeName>, 
+<lb n="2"/>und wir, geschwornen und gantze gemaind des kilspel und dorffs zu <placeName ref="lub-places-71">Balthers</placeName> und <placeName ref="lub-places-166">Klainen Mayls</placeName>, bekhennen offenlich und thun 
+<lb n="3"/>khundt menigklich mit dissem brieve, demnach die eerenvesten, fursichtigen, ersamen, weisen <orgName ref="lub-actors-276">lanndtaman und radthe zu 
+<lb n="4"/>Glaruss</orgName> als herrn der grafschafft <placeName ref="lub-places-73">Werdennberg</placeName> und der herschafft <placeName ref="lub-places-149">Warthaw</placeName> ain <gap/>rch und gross durchgeend visch <term ref="lub-keywords-367">vach</term> neben unns 
+<lb n="5"/>bey <placeName ref="lub-places-71">Balthers</placeName> im <placeName ref="lub-places-103">Rhein</placeName> gleich an <placeName ref="lub-places-278">Gritschins</placeName> und <placeName ref="lub-places-140">Warthawer</placeName> wur geschlagen, so unns nach verlauffner vischitz zu frueling und sumers 
+<lb n="6"/>zeiten nit klainen schaden zufuegen und den <placeName ref="lub-places-103">Rhein</placeName> auff unns schupffen, laitten und weisen möcht, habend obgenant lanndtaman 
+<lb n="7"/>und radthe, unnser lieb freund und gute nachpauren, nach besichtigung desselben vachs und in ansechung, was daraus kheunfftig
+<lb break="no" n="8"/>klich volgen, auff unnser hochfleissig, freundtlich und nachpeurlich anhalten, selich <term ref="lub-keywords-367">vach</term> und, was darinn und darzu beruert, gar
+<lb n="9"/>und gäntzlich hynn und von dannen zuthun und abzeschleissen, allain aus genaigtem, guten, freundtlichen und nachpeurlichem 
+<lb n="10"/>willen und khainer ander sachen, recht noch gerechtigkaiten, vergunsst und bewilliget. Darauff wir gedachten <orgName ref="lub-actors-276">lanndtaman 
+<lb n="11"/>und radthe zu Glaruss</orgName> und iren nachkomen inhaber der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> und der herschafft <placeName ref="lub-places-149">Warthaw</placeName> zugesagt und 
+<lb n="12"/>versprochen haben, zusagen und versprechen auch jetzo wissentlich mit dissem brieve krefftig fur unns, all unnser erben unnd 
+<lb n="13"/>nachkomen also, das wir unns obgemelter beweist und erzaigter nachpeurlicher freundtschafft zu khainer recht noch 
+<lb n="14"/>gerechtigkaiten jetzo noch hinfuro kheunfftigklich nymermer gebrauchen noch zubehelffen underston noch furnemen wellen, 
+<lb n="15"/>in dhainen weg, weder mit noch one recht, gaistlichs noch weltlichs, besonnder also aus genaigtem, guten, freundtlichem 
+<lb n="16"/>und nachpeurlichem willen beschechen sein und beleiben lassen, an allen und jeden der grafschafft <placeName ref="lub-places-73">Werdennberg</placeName>, auch der her
+<lb break="no" n="17"/>schafft <placeName ref="lub-places-149">Warthaw</placeName> und innsonder unnserer genedigen herschafft <placeName ref="lub-places-7">Vadutz</placeName> freyhaiten, herlichaiten, gewonhaiten, alten breuch
+<lb break="no" n="18"/>en und herkomen, recht und gerechtigkaiten ganntz unvergriffen und unschedlich, alles one geverde. Und des zu warem und
+<lb n="19"/>offem urkhundt so hab ich, obgenanter <persName ref="lub-actors-156">Balthasar von Ramschwag</persName>, fur mich und vorgenante geschwornen, gemaind und 
+<lb n="20"/>gantze nachpaurschafft des kilspel und dorffs zu <placeName ref="lub-places-71">Balthers</placeName> und <placeName ref="lub-places-166">Klainen Mayls</placeName> auff ir sonnder hochfleissig, ernstlich pitt 
+<lb n="21"/>mein aigen ynnsigel, doch mir, mein erben und nachkomen ausserhalb disser sachen in alweg one schaden, offennlich 
+          <lb n="22"/>gehennckht an dissen brieve, der geben ist auff <origDate when="1540-03-06">sampstag nechst vor dem sonntag letare zu mitvassten, 
+<lb n="23"/>den sechsden tag des monats marcii nach der gepurtt Cristi, unnsers herrn und seligmachers, thaussent 
+<lb n="24"/>veinffhundert und im viertzigisten jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2836" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

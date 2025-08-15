@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-933">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schreiben wegen des Wuhrstreits zwischen Vaduz und Sax-Forstegg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-933">LI-LA, RA 41/01/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 24. April 1574 / Beschreibstoff: Papier, 6 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Klettgauer Landvogt schreibt an Bürgermeister und Rat von Zürich betreffend Wuhrstreitigkeiten zwischen den Herrschaften Vaduz und Sax-Forstegg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1574-04-24">24. Apr 1574</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-595">Zürich (Bürgermeister und Rat)</persName>
+          <date when="1574-04-25">ca. 25. Apr 1574</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_41_01_01-0001.jpg" xml:id="lub-media-1984" source="ra-41-01-01-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_01_01-0002.jpg" xml:id="lub-media-1985" source="ra-41-01-01-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_01_01-0003.jpg" xml:id="lub-media-1986" source="ra-41-01-01-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_01_01-0004.jpg" xml:id="lub-media-1987" source="ra-41-01-01-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_01_01-0005.jpg" xml:id="lub-media-1988" source="ra-41-01-01-s05.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_01_01-0006.jpg" xml:id="lub-media-1989" source="ra-41-01-01-s06.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1984" n="1"/><lb n="1"/>Gestrenng, edel, from, ernuest, fürsichtig, ersam, weüß.  
+<lb n="2"/>Euch sein mein guettwüllig freündtlich diennst zuvor. 
+<lb n="3"/>Günstig liebe herren unnd guette freündt. Der  
+<lb n="4"/>wolgebronnen meiner gnädigen herrschafft <persName ref="lub-actors-9">Sultz</persName> ampt
+<lb break="no" n="5"/>leüth der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> berichten mich. Nachdem 
+<lb n="6"/>sich zwüschen den wolgebornnen herren, herren  
+<lb n="7"/><persName ref="lub-actors-9">Alwigen graffen zue Sultz</persName> etc., meinem gnädigen  
+<lb n="8"/>herren wolseeliger gedechtnus, unnd herren <persName ref="lub-actors-164">Ulrich  
+<lb n="9"/>Philippenn freyherrenn zue der Hohen Sax</persName>, herren  
+<lb n="10"/>zue <placeName ref="lub-places-164">Sax unnd Vorsteckh</placeName> etc., unnd irer gnaden bayderseits  
+<lb n="11"/>unnderthannen, verschinen 65 jars wurens halber  
+<lb n="12"/>uff dem <placeName ref="lub-places-103">Rhein</placeName> spenn unnd irrung zugetragenn,  
+<lb n="13"/>das sich ire gnaden umb nachpaurschafft unnd  
+<lb n="14"/>mehrer freündtschafft wüllen, uff sechs stattliche  
+<lb n="15"/>unpartheysche man zue güettlicher unnderhand
+<lb break="no" n="16"/>lung verglichen. Die haben etliche mittel den <date when="1565-04-05">5. 
+<lb n="17"/>aprilis gemelts 65 jars</date> gesprochnen, vergwüssenn  
+<lb n="18"/>unnd mit iren aignen hannden unnderschribenn,  
+<lb n="19"/>welche gleich <date when="1565-04-08">sontags Judica darnach</date> von bayder  
+<lb n="20"/>thail darzue verordtneten, in der statt <placeName ref="lub-places-10">Veldtkürch</placeName>  
+<lb n="21"/>erleuttert, angenomen unnd ratificiert wordenn. 
+<lb n="22"/>Unnder anderm lautter beredt unnd gesprochenn.  
+<lb n="23"/>Wan sich khünfftiglich wurens halbern etwas  
+<lb n="24"/>weitter notturfft inreisse und einem oder  
+<lb n="25"/>dem andern theil wurens vonnötten, so solle  
+<lb n="26"/>der nottwendig thail denn andern nachpeürlich  
+<lb n="27"/>darumben ansuchen unnd die notturfft anzaigen,  
+<pb facs="lub-media-1985" n="2"/>
+<lb n="28"/>unnd nit one nachpeürliche bewülligung wuhren,  
+<lb n="29"/>noch einichen gewalt geprauchen, in krafft unnd  
+<lb n="30"/>vermög dises haben gleichwol sechßische unnderthannen,  
+<lb n="31"/>unnd zuvorderst der auch wolgeborn mein gnädiger   
+<lb n="32"/>junger <persName ref="lub-actors-164">her von Sax</persName>, sovil angehalten, das meiner  
+<lb n="33"/>gnaden herrschafft <persName ref="lub-actors-9">Sultz</persName> etc. unnderthonnen von <placeName ref="lub-places-2">Raggel</placeName>  
+<lb n="34"/>in guotter anzal, unnd mit innen bemelte vadutzische  
+<lb n="35"/>amptleüth, bey wolgemeltem jungen herren  
+<lb n="36"/><persName ref="lub-actors-164">von Sax</persName> unnd deßen unnderthannen uff  
+<lb n="37"/>den augenschein, wie sich gepeürt, erschünen. Sye  
+<lb n="38"/>haben aber nit nuhr allein uff der sultzischenn  
+<lb n="39"/>unnderthonnenn eignen grundt unnd boden,  
+<lb n="40"/>sonnder an einem solchen orth zue wuhren begert,  
+<lb n="41"/>das es scheinbarlich sultzischen unnderthonnen   
+<lb n="42"/>zuo noch weütterm grossenn verderblichenn  
+<lb n="43"/>schadenn unnd zue schmelerung der wolgebornnen  
+<lb n="44"/>meiner gnaden herren <persName ref="lub-actors-9">von Sultz</persName> etc. herrschafft  
+<lb n="45"/>ober- unnd herrlichhait gereichen wurde. Zudem  
+<lb n="46"/>das es ohne das alda zuo wuren nochmals ohnnöttig  
+<lb n="47"/>zuvor fürkomen unnd aberkhennt werden. Derwegen  
+<lb n="48"/>wolermelter <persName ref="lub-actors-164">von Sax</persName> unnd seine unnderthannen  
+<lb n="49"/>mit etlicher massen erinnerung vorergangner  
+<lb n="50"/>erkhanntnus darfür gepetten unnd uff der  
+<lb n="51"/>sultzischen unnderthannen grundt unnd boden  
+<lb n="52"/>zu wuren verweygert. Auch darüber für gewalt  
+<lb n="53"/>das recht fürgeschlagen worden, welches der  
+<lb n="54"/>jung herr an sein herren vatter zupringen  
+<pb facs="lub-media-1986" n="3"/>
+<lb n="55"/>zu bedenckhen gezogenn. Derauff erst dem  
+<lb n="56"/><date when="1574-03-19">19. jüngst abgeloffnen monats martii</date> sechßische  
+<lb n="57"/>unnderthannen der sultzischen vadutzischen amptleuth  
+<lb n="58"/>unnd unnderthannen ganntz unnd gar uhnersucht,  
+<lb n="59"/>an ein annder orth zeug oder sein zue wuoren  
+<lb n="60"/>gefüert haben, welches den sultzischen unnder
+<lb break="no" n="61"/>thannen, wo es sein fürgang erreichen soltte, 
+<lb n="62"/>auch zum höchsten schedlich unnd beschwerlich. Der
+<lb break="no" n="63"/>wegen sye, die vadutzische amptleüth, nachdem 
+<lb n="64"/>sye deßelbigen bericht jemandt uß iren mitteln  
+<lb n="65"/>mit obangeregten vertrags copeyen, den <date when="1574-03-20">20.  
+<lb n="66"/>berüerten monatz martii</date> zum jungen herren  
+<lb n="67"/><persName ref="lub-actors-164">von Sax</persName> verordnet, zuvernemen, ob es uß ir  
+<lb n="68"/>gnaden bevelch oder geheiß beschehenn. Darneben  
+<lb n="69"/>auch voriger handlung vleißig zu berichten unnd  
+<lb n="70"/>zu erinnern. Sye haben aber den herren nit funden,  
+<lb n="71"/>sonnder seyhe verritten gewessenn. Derwegen  
+<lb n="72"/>sye sich zu den sechßischen unnderthannen  
+<lb n="73"/>unnd wurmeistern verfüegt unnd nachpeürlich 
+<lb n="74"/>gepetten, mit dem wuhren vermög vor ergangnen  
+<lb n="75"/>spruchs stülzustenn, biß uff güettliche vergleich
+<lb break="no" n="76"/>ung, oder rechtliche erkanntnus. Daruff sye 
+<lb n="77"/>gleichwol selbigen mahln nit bösen beschaydt geben. 
+</p>
+        <p><lb n="78"/>Seidther aber bei wehnig tagen haben die sechßische  
+<lb n="79"/>unnderthannen über alles recht erbietten, für  
+<lb n="80"/>sich selbs ohne erlaupt wuhren. Unnd also sehen  
+<lb n="81"/>wöllen, wer innen solches zu wehren understiende,  
+<pb facs="lub-media-1987" n="4"/>
+<lb n="82"/>doch seyhe es demnach uff der <orgName ref="lub-actors-276">herren von Glaris</orgName> 
+<lb n="83"/>lanndtvogts zue <placeName ref="lub-places-73">Werdenberg</placeName> unnderhandlung  
+<lb n="84"/>dahin gericht worden, das der jung herr <persName ref="lub-actors-164">von Sax</persName>  
+<lb n="85"/>bewülligt damit stillzusteen, biß er es an sein  
+<lb n="86"/>herren vatter geen <date when="1574-04-11">Ostern</date> bey ewer statt  
+<lb n="87"/><placeName ref="lub-places-20">Zürich</placeName> gelegen gelanngen lassen etc. Alles vernern  
+<lb n="88"/>inhalts ieren, der sultzischen vadutzischen amptleüthen,  
+<lb n="89"/>deßwegen usfüerlichen berichts etc.  
+</p>
+        <p><lb n="90"/>Wann nuhn, günstig liebe herren unnd freündt,  
+<lb n="91"/>die sächßische unnderthannen ierem angemastem  
+<lb n="92"/>werckh also nachsötzen unnd mit denn wuhren  
+<lb n="93"/>vortzufahren sich unndersteen wurden, solches  
+<lb n="94"/>nit allein vorgeenden vertrag zuwider, sonnder  
+<lb n="95"/>meiner gnädigen herren <persName ref="lub-actors-9">von Sultz</persName> unnderthannen  
+<lb n="96"/>zu verderblichem schaden, auch ier gnaden selbs  
+<lb n="97"/>zu schmellerung ier gnaden herrschafft, ober unnd  
+<lb n="98"/>herrlichheidt gereichen möcht, der ursachen, wo disem  
+<lb n="99"/>durch anndere mittel nit fürkomen, daßelbig  
+<lb n="100"/>ditzmaln unersötzter vormündtschafft an die  
+<lb n="101"/>wolgebornen sultzischen verwandtschafft, gemeine  
+<lb n="102"/>meine gnädigen graffen unnd herren, nottwendig  
+<lb n="103"/>gelanngt werden müeste, was es nuhn zu erhaltung  
+<lb n="104"/>derselbigen jungen unmundtparn vettern unnd  
+<lb n="105"/>blutsverwandthen, meiner gnädigen jungen herren <persName ref="lub-actors-9">von Sultz</persName> etc., 
+<lb n="106"/>befuogßami unnd gerechtigkaytten für nachgedenckhens  
+<lb n="107"/>geberen würdt, haben ier alß die hochverstendigen  
+<lb n="108"/>ringß vermessen. 
+</p>
+        <p><pb facs="lub-media-1988" n="5"/><lb n="109"/>Hierauff zu furkomung unnd abschneidung allerhanndt  
+<lb n="110"/>angelegenhaiten unnd weiterung, auch zu erhaltung  
+<lb n="111"/>beederseits guotter freündt unnd nachpaurschafft,  
+<lb n="112"/>so lanngt an euch meins tragennden ampts wegen  
+<lb n="113"/>nachpeürliches unnd meiner person halben, mein  
+<lb n="114"/>alß des fridliebenden, ganntz diennstlich unnd  
+<lb n="115"/>freündtlich pitt, ier wellen in crafft unnd  
+<lb n="116"/>von wegen, das beede herrschafften <persName ref="lub-actors-9">Sultz</persName> unnd  
+<lb n="117"/><persName ref="lub-actors-164">Sax</persName> bey eüch zuo <placeName ref="lub-places-20">Zürich</placeName> verburget, wolermeltem  
+<lb n="118"/>meinem gnädigen alten herren <persName ref="lub-actors-164">von Sax</persName>, alßbaldt  
+<lb n="119"/>dieweül gefahr inn verzug, in der güette oder sonnst  
+<lb n="120"/>dahin weüssen, sich voriger erkanthnußen  
+<lb n="121"/>zu haltenn. Innsonderhait aber uhnervolgt rechtens  
+<lb n="122"/>oder güettlicher unnderhandlung, weder uff der  
+<lb n="123"/>sultzischen unnderthannen grundt unnd boden,  
+<lb n="124"/>noch sonsten zu wuehren unnd gewalt zu brauchen.  
+<lb n="125"/>Daran er weüssen ier zuvorderst verhoffentlich  
+<lb n="126"/>denn almechtigen angenembs gefallen unnd  
+<lb n="127"/>dan zu erhaltung fridliebens ein  
+<lb n="128"/>sonnders guottes werckh, solches wolermelten  
+<lb n="129"/>mein gnädigen herren sultzischer verwandtschafft  
+<lb n="130"/>unnderthenig zu rhüemen unnd umb eüch  
+<lb n="131"/>jeder zeit ganntz nachpeürlich unnd freündtlich  
+<lb n="132"/>willigs fleiß zu erwidern unnd zuverdiennen  
+<lb n="133"/>zu habenn, ewer schrüfftlich wideranthwurth  
+<lb n="134"/>beyzaygern, allein darumben abgesanten  
+<lb n="135"/>potten erwarttende. Datum,  
+<lb n="136"/><placeName ref="lub-places-56">Thüengen</placeName>, den <origDate>24. aprilis anno 74</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1989" n="1"/><lb n="1"/>Copia schreybens  
+<lb n="2"/>herrn landtvogts im <placeName ref="lub-places-18">Kleggow</placeName><lb n="3"/>an burgermaister und  
+<lb n="4"/>rhat zue <placeName ref="lub-places-20">Zürich</placeName>. 
+<lb n="5"/>Deß streyttigen wurens  
+<lb n="6"/>halben im <placeName ref="lub-places-103">Rhyn</placeName> 
+<lb n="7"/>zwüschen den sulzischen  
+<lb n="8"/>der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="9"/>unnd dann den saxischen  
+<lb n="10"/>underthonen.  
+<lb n="11"/>Außgangen, den <origDate>24. 
+<lb n="12"/>aprilis anno 74</origDate>. 
+</p>
+        <p><lb n="13"/>Worin die beschwerdt geführt wirdt,  
+<lb n="14"/>daß die unterthanen <gap/> wider ein  
+<lb n="15"/>vergleich de <date>anno 65</date> vermöge wessen  
+<lb n="16"/>versehen sey, daß man sich  
+<lb n="17"/>künftigs 
+<lb n="18"/>wuhrens halber etwas wei
+<lb break="no" n="19"/>ter nothurft einreiße und 
+<lb n="20"/>einem oder dem andern theil  
+<lb n="21"/>wuhrens vonnöthen, der noth
+<lb break="no" n="22"/>wendig theil der andern nach
+<lb break="no" n="23"/>paurlich darum ansuchen solle, 
+<lb n="24"/>gewaltthätig und ohne ansuchen  
+<lb n="25"/>auch sogar auf sulzischen  
+<lb n="26"/>boden gewuhret haben. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

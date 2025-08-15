@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-536">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Grenzstreit zwischen Triesen und Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-536">LIGAT, U 50</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 1. März 1513 / Beschreibstoff: Pergament / Siegel: 3 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902) S. 182ff.</bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 31, S. 115.</bibl>
+          <bibl>Gurt, Claudius: Edition in <ref target="http://www.e-archiv.li/D42450">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Schiedsgericht bestehend aus Martin Steinhauser, Vogt zu Vaduz, Albrecht Wolf, amtierender Ammann und Luzius Frick, Alt-Ammann von Vaduz sowie Jörg Thöni von Vaduz entscheidet die Nutzungskonflikte zwischen den beiden Kirchspielen Triesen und Balzers, legt den Grenzverlauf zwischen beiden Kirchspielen fest und bestätigt die in der gleichen Angelegenheit von Wolfhart V. von Brandis am 1. April 1440 getroffene Entscheidung.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-21">Steinhauser, Martin</persName>
+          <date when="1513-03-01">1. Mär 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-344">Frick, Luzius</persName>
+          <date when="1513-03-01">1. Mär 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-297">Thöni, Jörg (1)</persName>
+          <date when="1513-03-01">1. Mär 1513</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-296">Wolf, Albrecht</persName>
+          <date when="1513-03-01">1. Mär 1513</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_50-0002.jpg" xml:id="lub-media-2431" source="gat-u-050-v.jpg" corresp="A"/>
+    <graphic url="li-gat__u_50-0002.jpg" xml:id="lub-media-2432" source="gat-u-050-r-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2432" n="1"/><lb n="1"/>Wir nach benenntten mit namenn <persName ref="lub-actors-21">Martin Stainhawser</persName>, der zeitt vogtt zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-296">Abrecht Wollff</persName>, der zeitt aman zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-344">Luze Frick</persName>, alltter aman, unnd ich <persName ref="lub-actors-297">Jörig Th<supplied>ene</supplied></persName>, all  
+<lb n="2"/>drey zu <placeName ref="lub-places-7">Vaduz</placeName> gesessenn, bekennen offennlich unnd thun kunth allermenngklich mit dem briefe, das wir alls spruchlut in spennen unnd irrungenn zwischenn ainem ganz
+<lb break="no" n="3"/>en kilchspell <placeName ref="lub-places-79">Trisan</placeName> als klegger an ainem, unnd ainem gannzen kilchspell <placeName ref="lub-places-71">Ballzers</placeName> alls anntwurtter annders taills ufferstannden, wie dann weylunnd der edel und wol
+<lb break="no" n="4"/>geporenn herr, herr <persName ref="lub-actors-345">Wolffhart vonn Branndiss</persName>, freyherr, säliger gedechtnus, etlich spruch unnd sonnderungenn uff beider kilchspell <supplied>bitt</supplied> und anruffenn gethann hatt,
+<lb n="5"/>antreffennde durchgennde ganntze entschidigung in berg und tal, wunn und waid, holz, veld unnd allppen berierennde innhallt ains spruchbriefs. Unnd aber  
+<lb n="6"/>in dem selbenn spruch unnder annderm auslutt unnd anzaigenn ist ain rife unnd schlipffe, sodann grad über <placeName ref="lub-places-103">Rein</placeName> zaigenn soll in den grynen bihell in die tolen, die
+<lb break="no" n="7"/>selbig rife, ouch die tolen uff dem grynnen bihell, sie zu beiden tailen ungelichlichenn habenn wollenn verstann unnd ainannder pfenntt unnd in recht mit ainannder 
+<lb n="8"/>gewachssenn unnd komen seind. Unnd ab dem rechttenn durch mittellpersonen uff unns, als spruchlutt, betädingtt unnd beredtt wordenn, in krafftt unnd mass  
+<lb n="9"/>ainer muntlichenn veranlasung, frey, gernn unnd williklich, also was wir zwischenn beidenn tailenn uff ir furbringenn unnd darlegenn erkanntten und sprech
+<lb break="no" n="10"/>enn, das wöllttenn sie zu beidenn <supplied>ta</supplied>ilenn fur sie unnd ir nachkomen truwlichenn hallttenn, des sie unns angelobt habenn uff witter bestättigung, und darby 
+<lb n="11"/>beid taill unns ernnstlichenn gebettenn unnd angeriefftt, sie zu enntschaidenn. Demnach habenn wir inen zu beider sitt täg angeseztt, inen die zu gutter zeitt  
+<lb n="12"/>verkundt unnd sie uff den spennen inhalb <placeName ref="lub-places-103">Reins</placeName> uff dem grynnenbihell, da der spruchbrief die tolen anzaigtt unnd her <supplied>diss</supplied>halb <placeName ref="lub-places-103">Reins</placeName>, do er die schlipffe anzaigt, aigent
+<lb break="no" n="13"/>lich klag, anntwurtt, red, widerred, die spruchbrief, die konntschaffttenn, so sie zu beiden sittenn mit müe, arbaitt aus annderen gerichtenn uff dem span gehept habenn, 
+<lb n="14"/>gnugsamlichenn unnz an ir beider taill beniegenn verhort. Also nach klag, anntwurtt, red, widerred, verhörung, brief, gezugknus unnd nach allem furwannd  
+<lb n="15"/>ainhelliklich in der guttekaitt, alss sie unns zu beider sitt nachgebenn habenn, mit guttem willenn besprochenn unnd erkenntt, wie hie nach vollgtt. Anfanngklichen  
+<lb n="16"/>zu dem erstenn, das die marck unnd schynung zwischenn den genanntten beiden kilchspelern zaigenn unnd anfahenn soll uff dem grynenbihell inhalb <placeName ref="lub-places-103">Reins</placeName>,  
+<lb n="17"/>in der obernn tolen unnd von dannen gaun herüber <placeName ref="lub-places-103">Rein</placeName> in den marckstain, so wir gesetzt habenn in <placeName ref="lub-places-168">Salveplanen</placeName>, von demselbenn marckstain in den annderen  
+<lb n="18"/>marckstain in der <placeName ref="lub-places-745">Ruschenn Zipffell</placeName>, so man ouch nemptt <placeName ref="lub-places-168">Salveplanen</placeName>. Unnd von selbenn marckstain grad hinuff in die <supplied>marck</supplied>, die wir gesetzt hannd unnder der  
+<lb n="19"/><placeName ref="lub-places-640">Hohenn Wannd</placeName>, dann von derselben marck grad hinuff an die <placeName ref="lub-places-640">Wand</placeName> zu dem annderenn, als dann der bemelt herr <persName ref="lub-actors-345">Wollffhartt vonn Branndiss</persName> sälig witter erlütterung  
+<lb n="20"/>gebenn hatt, zwischenn dem <placeName ref="lub-places-103">Rein</placeName> unnd ennent dem brunnen, do sol die zaigung gaun in <persName ref="lub-actors-2435">Hainz von Bachs</persName> wisenn, so man nempt <placeName ref="lub-places-323">Gurtnetsch</placeName>, us demselbenn  
+<lb n="21"/>hinuff <placeName ref="lub-places-103">Reins</placeName> halbenn gen <placeName ref="lub-places-71">Balzers</placeName> in ainen marckstain, so wir geseztt habenn, do die allt mile gestanndenn ist, in <persName ref="lub-actors-2436">Stefa Reschs</persName> gutt. Es ist ouch witter in ainem  
+<lb n="22"/>versigellttenn erlutterung unnd klainen briefle von dem genannttenn herrenn <persName ref="lub-actors-345">Wolffharttenn vonn Branndiss</persName> usganngenn, ob sich der marckstain hienach  
+<lb n="23"/>verennderenn wurd, von <placeName ref="lub-places-103">Reins</placeName> nott oder sonnst, so mögenn sie ain annderen stain sezenn in derselbenn inhellde, <supplied>weder</supplied> höher noch niderer ungefarlichenn,  
+<lb n="24"/>darbey lassenn wir es belibenn. Unnd zu letschtt, so setzenn wir den spruchbrief unnd den erlutterung brief von dem <supplied>genanntten her</supplied>renn <persName ref="lub-actors-345">Wolffharten  
+<lb n="25"/>vonn Branndiss</persName>, säliger gedechtnus, usganngenn. In annder weg mit allenn artikelnn, mainungenn, innhalltungenn unnd ver<supplied>griffunngen</supplied> in krafftt. Unnd  
+<lb n="26"/>söllenn darmit beid tail aller der spenn, zwayung, mißhell unnd unwillenn bis uff hut darzwischenn geloffenn, <supplied>gannz gericht, geschlicht</supplied> unnd geaintt  
+<lb n="27"/>sein, geverd unnd argelist in allenn vorgeschribnen dingenn zu vermidenn. Unnd zu urkund unnd redl<supplied>icher</supplied> zugknus <supplied>haben wir, ob</supplied>genanntten, ich,  
+<lb n="28"/><persName ref="lub-actors-21">Martin Stainhawser</persName>, <persName ref="lub-actors-296">Abrecht Wolff</persName> unnd ich, <persName ref="lub-actors-344">Lutze Frick</persName>, unnsere aigne innsigell, ouch vonn bitt <supplied>wegenn <persName ref="lub-actors-297">Jörigenn Thenes</persName>, so kein aignes</supplied> sigell hat, offennlich  
+<lb n="29"/>gehennckt an den brief, doch unns, unnsern erbenn one schadenn, unnd uff beider kilchspell <supplied>begerenn jedem tail ainen brief gelicher</supplied> lut unnd form. Gebenn  
+<lb n="30"/>uff <origDate>zinstag vor Mitterfastenn, alls man zallt von der gepurtt Cristi unnsers liebenn herrenn fünff<supplied>zehenn hunndert unnd dryzeh</supplied>nn jar</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2431" n="1"/><lb n="1"/>Derenn vonn <placeName ref="lub-places-79">Trisan</placeName> spruch wegenn denen vonn <placeName ref="lub-places-71">Ballzerss</placeName>,  
+<lb n="2"/>trifft an die march auf <placeName ref="lub-places-168">Salvaplann</placeName>  
+<lb n="3"/>und Au de dato 1513. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-859">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Übereinkunft zwischen Glarus und Freiherr Ulrich Philipp von Hohensax wegen der Fähre Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Ohne Tag- und Monatsangabe. Die dafür leer gelassene Stelle in der letzten Zeile wurde nicht ausgefüllt.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-859">CH-StASG, AA 3 U 13</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 1546  / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. gut erhalten, 2. fehlt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-627">CH-StAZH, C I, Nr. 3203</ref> (<orgName key="ch-stazh" ref="lub-objects-16">Staatsarchiv Zürich</orgName>) / Originaldatierung: 1546 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. beschädigt, 2. gut erhalten.</witness>
+          <witness xml:id="B">B: Kopie (unvollständig), Signatur: LI-GAS, U 142 (<orgName corresp="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Entstehungszeit: ca. 18. Jh. / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition (nach A1): <ref target="https://editio.ssrq-online.ch/SG/III_4/123-1.html">SSRQ SG III/4, Nr. 123</ref> (mit Hinweisen auf weitere Abschriften)</bibl>
+          <bibl>Edition (der Abschrift in LI-GAS): <ref target="http://www.e-archiv.li/D43767">e-archiv.li</ref></bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Landammann und Rat von Glarus, Herren zu Werdenberg, sowie Freiherr Ulrich Philipp von Hohensax, Herr zu Forstegg und Bürglen, treffen eine Vereinbarung über ihre Rechte an der Fähre zu Bendern, die unter einem früheren Inhaber der Herrschaft Werdenberg vom Tentschagraba nach Bendern und somit von der Herrschaft Werdenberg in die Herrschaft Forstegg verlegt wurde. Glarus verzichtet auf alle Gerichtsrechte. Im Gegenzug vezichtet Ulrich Philipp von Hohensax auf alle Lehenrechte und verspricht, den Fährbetrieb zu schützen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-252">Fähre</term>
+          <term ref="lub-keywords-233">Busse</term>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-276">Glarus (Landammann und Rat)</persName>
+          <date when="1546">1546</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-164">Sax-Hohensax, Ulrich Philipp von</persName>
+          <date when="1546">1546</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3_u_13-0001.jpg" xml:id="lub-media-2824" source="stasg-aa-3-u-13-r-klein.jpg" corresp="A1"/>
+    <graphic url="ch-stasg__aa_3_u_13-0002.jpg" xml:id="lub-media-2825" source="stasg-aa-3-u-13-v-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2824" n="1"/><lb n="1"/>Wir, der <orgName ref="lub-actors-276">landtamman und gantzer gsessner rath des lands zu Glarus</orgName>, an einem, und ich, <persName ref="lub-actors-164">Ulrych Philips, fryher von der Hochen Sax</persName>, herr zu <placeName ref="lub-places-164">Vorsteg</placeName> und <placeName ref="lub-places-702">Burglon</placeName>, am anderen, bekennend all gmeinlich und jedertheil besunders 
+<lb n="2"/>für uns und unser ewig nachkommen und thund kund mencklichem mitt disem brieff, nach dem sich under uns beidersyt irrung und mißverstand gehalten als von wegen der fräfflen und bussen, ouch 
+<lb n="3"/>des feeren des fars zu und bi <placeName ref="lub-places-36">Benderen</placeName> am <placeName ref="lub-places-103">Rhyn</placeName>, also das wir, gemelt von <placeName ref="lub-places-72">Glarus</placeName>, bißhar vermeint und vorhabens gwesen, wyl und gemelt faar unser lechen vor, nachher und von alther har am <placeName ref="lub-places-165">Tenschen Gra
+<lb break="no" n="4"/>ben</placeName> uff unser herschafft <placeName ref="lub-places-73">Werdenberg</placeName> grund und boden glegen, demnach aber von komlicheyt wegen den hin und wider wandlenden in der selbigen gegne und zirck zu gemach und guttem, ouch mitt gunst,
+<lb n="5"/>wüssen und willen der selbigen unser graffschafft domalen rechten besitzeren und herren an gemelt end und flecken zu und bi <placeName ref="lub-places-36">Benderen</placeName> angsechen und gleyt worden, das uß sölchem fug und ursachen 
+<lb n="6"/>die fräffel und bussen, so zu jeder zyt an disem faar durch den feren und ander in und ussert dem schiff verwürckt und verfallen, uns als des fars rechten lechen herren nachvolgen, zugehören und innemlich 
+<lb n="7"/>wären und sin sölten, nütt minder dan vor am <placeName ref="lub-places-165">Tenschen Graben</placeName> beschechen, welcher unser vermuttung aber wolgemelter fryher, unser gutter, lieber her und fründ, uns nitt zulassen noch gestenndig 
+<lb n="8"/>sin wellen, sunder er des vorhabens, so vil und gedacht far jetz uff und in sinen hoch und nideren gerichten der herschafft <placeName ref="lub-places-164">Vorsteg</placeName> grund und boden gelegen, das ime davon all und jede fräffel und bussen, 
+<lb n="9"/>hoch und nider, an disem faar, es sy vom veren oder anderen, in und ussert dem schiff, verfallen, volgen, zugehören und innemlich sin söllen. Dargegent ich, obbemelter <persName ref="lub-actors-164">Ulrych Philips</persName>, frye, bißhar ouch 
+<lb n="10"/>vermeint und vorhabens gsin, das ich uß krafft der selbigen miner gerichten und herlicheyt, darin jetz sölch far glegen, ich ein jeden feren alda umb all fäl und mißhandlung mines gefallens in und ussert 
+<lb n="11"/>siner farpflicht zestraaffen, zerechtfertigen, zesetzen und entsetzen hab und haben sölte. Das aber wolgedachte min lieb herren und gutt fründ von <placeName ref="lub-places-72">Glarus</placeName> nütt gestendig noch zulassen wellen, sun
+<lb break="no" n="12"/>ders vermeynen und sind des entlichen vorhabens, das sy uß krafft irs lechens den selbigen und ein jeden feren diß fars zu jeder zyt irs gfallens umb fäl und mißhandlung, die far pflicht berürend, zesträffen,
+<lb n="13"/>zerechtfertigen, zesetzen und entsetzen habind und haben söllen. Und domitt aber und uns zu beider syt sölch unser irrung und mißverstand durch erzeigung früntlich und nachpürlichs gmütz 
+<lb n="14"/>furohin wie ouch biß har on einigen gezanck rechtens hingnommen, einem jeden das güttlich und billich blibe und erfolgt werd, hierumb so haben wir von <placeName ref="lub-places-72">Glarus</placeName> uns der zyt gruntlich erwegen, nach
+<lb break="no" n="15"/>dem wir uß unseren brieffen und gwarsamen, so wir umb diß far und lechen haben, nütt befinden mögen, wyl das weder uff unserem grund noch boden, gricht noch gebietten mer glegen (wie vormals),
+<lb n="16"/>das uns noch unseren nachkommen alda thein fräfel noch bussen, hoch noch nider, in noch ussert dem schiff, vom feren oder anderen verfallen, weder sträfflich zugehörig noch innemlich sind noch sin söllen, sun
+<lb break="no" n="17"/>ders wir das alles hiemitt und in krafft diß brieffs den selbigen obberkeyten, in dero gricht und herlicheyten sölch faar jetz glegen, damitt nach irem willen zeschaffen, unverhindert unser, heim
+<lb n="18"/>und zu geben wellen und söllen. Doch alles mitt der bescheidenheyt und heyter vorbehalt, wan diß, unser lechen und faar zu mittler zyt, wan das wär, durch uns oder unser nachkommen wider
+<lb break="no" n="19"/>umb uff unser herschafft <placeName ref="lub-places-73">Werdenberg</placeName> grund und boden angsechen und glegt wurd, das uns als dan diß ubersagung gegent wolgemeltem fryherren und sinen nachkommen, ouch gegent wem das wär,
+<lb n="20"/>nütt mer binden, sunder uns solch fräfel und bussen widerumb und wie von altherhar nachfolgen, zu gehören söllen. Desglych ich, <persName ref="lub-actors-164">Ulrich Philips</persName>, frye, glicher erwegung nach befunden hab, das 
+<lb n="21"/>ich noch min nachkommen gegent disem und einem jeden feren indert der rechtsame der faar pflicht und umb fäl und mißhandlung siner lechenpflicht nützit zesprechen, zerechtfertigen weder zesetzenn 
+<lb n="22"/>noch entsetzen hab noch haben söllen. Derhalb wir das alles denen, so diß fars lechen herren sind und sin wurden, unverhindert unßer hein und zugeben wellen und söllen, ouch in krafft diß gegen
+<lb break="no" n="23"/>wurtigen brieffs. Wyl und von gedachter miner gerichten und herlicheitt wegen mir sölch fräffel und bussen (wie vor anzeigt) sträfflich zugehörig und innemlich sind und sin söllen, darumb so sol
+<lb n="24"/>und wil ich, mine nachkommen, fürbaß so lang und vil sölch far in minen gerichten und gebietten gelegen, ein jeden feren des selbigen fars zu jeder zyt vor gwalt und unbill mencklichs helffen 
+<lb n="25"/>schirmen. Uff das gereden wir, dick gemelt beid parthyen, by unseren eeren und zu gutten trüwen disen fruntlichen und güttlichen unseren vertrag und, was an disem brieff stadt, war 
+<lb n="26"/>und stät zehalten, darwider nütt zesin noch zethun oder durch niemant verschaffen gethon werden, theinerley wyß noch weg, alles erbarlich und on all gfärd. Und zu warem, offen 
+<lb n="27"/>urkund haben wir von <placeName ref="lub-places-72">Glarus</placeName> fur uns und unser nachkommen unsers lands insigel und ich, <persName ref="lub-actors-164">Ulrich Philips</persName>, frye, für mich, mine erben und nachkommen min angeboren insigel an disen 
+<lb n="28"/>brieff, dero zwen glich lutend gmacht und jedem theill einer geben worden, angehenckt, bschechen uff<note>Lücke für Monat und Tag offengelassen.</note> <origDate when="1546">im jar nach Christi, unsers heilands, geburt zelt tusent 
+<lb n="29"/>funffhundert viertzig und sechs jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2825" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

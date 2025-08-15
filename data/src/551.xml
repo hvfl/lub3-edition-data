@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-551">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Weinberg im Quader in Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-551">LI-PfAS, U 6</ref> (<orgName key="li-pfas" ref="lub-objects-549">Pfarrarchiv Schaan</orgName>) / Originaldatierung: 11. November 1611 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: <ref target="https://www.e-archiv.li/D44435">e-archiv.li</ref></bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Thoman Knabenknecht und seine Frau Lena Hilti von Schaan verkaufen mit Zustimmung des Landammanns der Herrschaft Vaduz, Thomas Lampart, einen jährlichen Zins von 14 Batzen und 2 Kreuzern ab ihrem im Quader gelegenen Weingarten für 18 Gulden an Aristoteles Düntel von Schaan und Fridli Maurer von Vaduz, die Spendmeister von Schaan.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-260">Armenwesen</term>
+          <term ref="lub-keywords-349">spend</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-318">Knabenknecht, Thomas (2)</persName>
+          <date when="1611-11-11">11. Nov 1611</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-381">Hilti, Lena</persName>
+          <date when="1611-11-11">11. Nov 1611</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-228">Lampert, Thomas (2)</persName>
+          <date when="1611-11-11">11. Nov 1611</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-382">Düntel, Aristoteles (2)</persName>
+          <date when="1611-11-11">11. Nov 1611</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-383">Maurer, Fridolin</persName>
+          <date when="1611-11-11">11. Nov 1611</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-pfas__u_6-0002.jpg" xml:id="lub-media-2853" source="pfa-s-u6-r-klein.jpg" corresp="A1"/>
+    <graphic url="li-pfas__u_6-0002.jpg" xml:id="lub-media-2854" source="pfa-s-u6-v-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2853" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-318">Thoman Knabenkhnecht</persName>, haus heblich unnd sesshafft zue <placeName ref="lub-places-53">Schan</placeName>, unnd mit ime ich, <persName ref="lub-actors-381">Lenna Hiltin</persName>, sein eheliche hausfrauw, bekhennen offentlich 
+<lb n="2"/>für uns, all unsere erben und nachkhommen unnd thuen khundt allermenigklich mit dißem brieve, daß wir mit veraintem, freyen, gueten willen, wolbedachtem sein 
+<lb n="3"/>und müethe zue fürderung unsers beßeren nutz und fromen, besondern mit hand deß ersamen und weißen herren <persName ref="lub-actors-228">Thoman Lampardt</persName>, der zeit landtammen der herrschafft 
+<lb n="4"/><placeName ref="lub-places-7">Vadutz</placeName>, aufrecht und redlich verkhaufft unnd zue khauffen gegeben haben aines besteten, vesten, ewig unnd imerwerenden khaufs und geben auch hiemit wissent
+<lb break="no" n="5"/>lich in crafft ditz brieffs denn erbaren <persName ref="lub-actors-382">Ahrestotelen Dündtell</persName> von bemeltem <placeName ref="lub-places-53">Schan</placeName> unnd <persName ref="lub-actors-383">Fridlin Maurer</persName>, sesshafft zue <placeName ref="lub-places-1">Vadutz</placeName>, alls dißer zeit recht verordnate
+<lb n="6"/>und gesätzten spend maistern zue mehr benanten <placeName ref="lub-places-53">Schan</placeName>, unnd allen iren nachkhommenden spendmaisteren ahn stat der <term ref="lub-keywords-349">spendt</term> benantlichen vierzechen batzen unnd zwen 
+<lb n="7"/>kreützer gueter <placeName ref="lub-places-101">Costantzer</placeName> müntz <placeName ref="lub-places-10">Veldkhiercher</placeName> werung rechts, ewigs, jerlichs zinß unnd pfening gelts von, ußer und ab unßerem aignen stuckh weingarten in der 
+<lb n="8"/><placeName ref="lub-places-201">Quader</placeName> gelegen, stost ufwerdts dem landnach an <persName ref="lub-actors-1395">Fridlin Heni</persName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1417">Hannß Knabenkhneht</persName>, abwerdts ahn <persName ref="lub-actors-1358">Hannß Büerckhlin</persName>, gegen dem berg an 
+<lb n="9"/><persName ref="lub-actors-1004">sanct Flurinß</persName> pfruend güeter, alleß ab grundt, gradt, veld, waßen, wun, waid, stockh, stain, gesteüt, gereüt, gengen, stegen, wegen unnd sonst gemainlich ab allen andern 
+<lb n="10"/>derselben rechten unnd zue gehörenden, benanthen unnd unbenandten, auch sonst frei, ledig unnd loß, gegen allermenigkhlich unverkhümbert. Unnd allso ist der ewig, redlich 
+<lb n="11"/>khauf ergangen und beschechen benanthlich umb achzechen guldin ob geschribner müntz unnd werung, derren wir aller gar von innen, kheüfferen, erbarlich auß 
+<lb n="12"/>gericht unnd bezalt worden seind noch unßerem willen unnd gueten benüegen. Darumben so sollen unnd wellen wir, all unßere erben und nachkhommen, all die 
+<lb n="13"/>andere inhabere unnd besitzere vor gemelts underpfands bestimpten zinß, die vierzechen batzen unnd zwen kreützer, gesagten spendt maisteren unnd allen derren nach
+<lb break="no" n="14"/>khommen der <term ref="lub-keywords-349">spend</term> zue <placeName ref="lub-places-53">Schan</placeName> nunfürterhin ewigklich unnd alle jar jerlich uff <date when="0001-11-11">sannct Martinß deß hailligen bischoffs tag</date>, acht tag vor oder nach ungevarlich,
+<lb n="15"/>umb die selbige zeit güethlich richten und zue iren sicheren handen und gewalt geben und antwurten für aller menigkhlich verhefften, verbieten unnd entweren, 
+<lb n="16"/>gentzlich ohne allen iren costen unnd schadän. Wan, wie oder weliches jars daß aber allso nit bescheche uber kurtz oder lange zeit, so ist innen die obgemelte underpfand, 
+<lb n="17"/>in iren bestimpten marckhen begrifen, gantz zinß vellig worden unnd dannenthhin mit grund, gradt, auch allen anderen derselben obgenandten rechten, besserung 
+<lb n="18"/>unnd zue gehördem zue rechtem, ewigen haimgevallen unnd vervallen, ohne unßer, all unßer erben unnd nachkhommen, auch sonst aller menigklichs von unsertweg
+<lb break="no" n="19"/>en irung unnd wider red etc., ohne geverde. Hierauf ditz ewigen unnd redlichen khaufs umb zinß vellige, auch für all ab gang unnd minderung deß obgenanten
+<lb n="20"/>underpfands, haubt gueths, zinß, schadens unnd aller obgeschribner dingen sollen und wellen wir dickh genandte verkhöffere, all unßere erben und nachkhommen, 
+<lb n="21"/>der gerüerten keüffer unnd allen derselben nachkhommen recht guet und getreuw crefftig gewehren, für stönder unnd versprecher gegen allermenigklich sein vor 
+<lb n="22"/>dem richter und gericht, darunder obgeschribne underpfand gelegen ist, nach recht, wo, wie, wem oder gegen wem, alls offt unnd dickh sie daß nach dem rechten imer 
+<lb n="23"/>bedörffen oder not türfftig sein werden, allfart in unßeren aignen costen unnd ohne iren schaden, bei gueten treuwen, ohne alle wider red und auf zug. Und wie woll 
+<lb n="24"/>dißer brief ainen ewigen khauf auß weist und sagt, dem nach so haben mehr genante spen maister unß, ver kheüfferen, zue gelaßen unnd bewilliget, allso, daß wir, auch 
+<lb n="25"/>alle unßere erben und nachkhommen, gemelte vierzechen batzen unnd zwen kreützer zinß von innen oder iren nachkhommenden spen maisteren woll wider khauffen 
+<lb n="26"/>und ab lößen mögen, nun hinfüro, wan unnd wel<gap/>es jars wir, über kurtz oder lang zeit, wellen, doch allweg vor zinß fahll und uf <date when="--11-11">sanct Martins tag</date>, acht tag vor oder 
+<lb n="27"/>nach, umb die selbige zeit samenthafft mit den obgeschribnen achtzechen guldin hauph gueth sambt allen vervallen ausstendigen zinßen, auch mit gueter müntz und wer
+<lb break="no" n="28"/>schafft, daran sie khainen verlurst noch ab gang haben dörffen, ob sich die jetzig müntz in der zeit verenderen wurde etc., ungevarlich. Unnd des zue wahrem urkhundt
+<lb n="29"/>haben wir, obbekhennende verkheüffere, mit vleiß unnd ernst erbeten den obgedachten aman <persName ref="lub-actors-228">Thoman Lampardt</persName>, dz er sein aigen insigell für unß und unßere erben 
+          <lb n="30"/>und nachkhommen (doch ime, aman, und seinen erben ohne schaden) offenthlich gehenckht hat an disen brieve, der geben ist <origDate when="1611-11-11">uf sanct Martins deß hailligen bischoffs 
+<lb n="31"/>tag nach Christi, unßers lieben herren unnd selligmachers, geburt gezelt sechzechen hundert unnd ailliff jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2854" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

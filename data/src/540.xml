@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-540">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit um das Wegrecht über das Gut Gschind am Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-540">LI-GATb, U 13</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) Originaldatierung: 18. April 1598 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Thomas Lampert als Obmann, Hans Hilbe als Vertreter von Kaspar Beck, Ulrich Beck als Vertreter von Thomas Oswald sowie Klaus Tanner&#13;
+urteilen im Konflikt zwischen Kaspar und seinem Schwager Thomas Oswald, dass Oswald kein Wegrecht über Becks Gut Gschind habe, aber im Winter die Tränke bei Thomas Tanners Hof nutzen dürfe. Für Lampert siegelt Hans Nägeli, Ammann der Grafschaft Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-255">Wegrecht</term>
+          <term ref="lub-keywords-256">Tränke</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1941">Lampert, Thomas (4)</persName>
+          <date when="1598-04-18">18. Apr 1598</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gatb__u_13-0002.jpg" xml:id="lub-media-2240" source="gatb-u-013-r-klein.jpg" corresp="A"/>
+    <graphic url="li-gatb__u_13-0002.jpg" xml:id="lub-media-2805" source="gatb-u-013-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2240" n="1"/><lb n="1"/>Zu wüßen und kündt gethon seye allermeniglich hiemit dißem brieve 
+<lb n="2"/>alß sich spenn unnd zweyungen erregt unnd zugetragen haben, entzwischen den erbaren <persName ref="lub-actors-353">Caspar Beckhen</persName> abm <placeName ref="lub-places-41">Trißnerberg</placeName>, clegers ahn ainem  
+<lb n="3"/>unnd dann <persName ref="lub-actors-355">Thoman Oschwaldt</persName> seinem schwager daselbsten andtwurtern andertheils, umb unnd vonwegen, daß cleger <persName ref="lub-actors-353">Beckh</persName> vermeindt, er habe fug, macht und  
+<lb n="4"/>gewalt über sein, andtwurters guet, genant <placeName ref="lub-places-194">Angertschindt</placeName>, auf <persName ref="lub-actors-358">Thoman Danners</persName> h<supplied>of</supplied>, stoßt ufwert ahn die <placeName ref="lub-places-754">Allmein</placeName> unnd sonnsten zue allen dreyen seiten ahn  
+<lb n="5"/>seinen brueder <persName ref="lub-actors-2005">Peter Oschwaldten</persName>, zur drenckhi, welliche bemelter anndtwurter, sein bruder, unnd <persName ref="lub-actors-2016">Hannß Khauffman</persName>, dem cleger ohne nachteil unnd schaden 
+<lb n="6"/>gleich vor sein, <persName ref="lub-actors-358">Thomanß</persName>, behaußung uf der <placeName ref="lub-places-754">Allmeindt</placeName> gemacht, zufahren und daselbsten zu drenckhen, daß aber der andtwurter ohne recht nit nachgeben oder  
+<lb n="7"/>gestaten wellen. Darauf zuverhietung viler khosten unnd unnachbarschafft haben baid theil zwen erliche menner darzue erborgen, nemlichen <persName ref="lub-actors-353">Caspar Beckh</persName>  
+<lb n="8"/>hat geben denn erbaren <persName ref="lub-actors-352">Hannßen Hilbi</persName> am <placeName ref="lub-places-41">Trißnerberg</placeName> unnd <persName ref="lub-actors-355">Thoman Oschwaldt</persName>, <persName ref="lub-actors-354">Ulin Blin Beckhen</persName>, denn gerichtsman, und diße baiden haben zue inen gezogen <persName ref="lub-actors-1941">Thoman  
+<lb n="9"/>Lamparten</persName> zue ainem obman, unnd volgendts diße drey persohnen noch zue überfluß umb beßeren bericht einzunemmen, zue inen erbetten und genommen <persName ref="lub-actors-356">Clauß Dannern</persName>  
+<lb n="10"/>am berg und darüber, nach dem baidetheil die sach von handt und übergeben, haben sy die spenn dergestalt verglichen, daß erstlich der cleger <persName ref="lub-actors-353">Caspar Beckh</persName> denn  
+<lb n="11"/><persName ref="lub-actors-355">Thoman Oschwaldten</persName> uf obgeschribnen seinen guet ungeirt und ungesaumbt laßen, auch weder sommer noch winter zue ewigen zeiten nit darüber zufahren 
+<lb n="12"/>macht oder gewalt haben solle für eins. Sodann zum andern, damit besagter cleger, wie auch andere seine nachbaren, die daselbst herumben woh<supplied>nen</supplied>,  
+<lb n="13"/>ir vieh auch drenckhen unnd waßer haben mogen, so sollen sy hieaußen bey der altenn trenckhi, welche uf <persName ref="lub-actors-358">Thoman Danners</persName> hof je unnd <supplied>all</supplied>wegen gewe<supplied>ßen ist</supplied>,  
+<lb n="14"/>verbleiben unnd alda drenckhen, von <date when="--09-29">Michaelis der herbst zeit</date> ahn biß uf dem eingang apprellens unnd nit lenger. Wan aber sach were, daß hie zwi<supplied>schen</supplied>   
+<lb n="15"/>denn dreyen wintermonaten dißer bronnen außtruckhnen, abgehn oder versiegen solte, daß man daselbsten nit trenckhen khöndt, <supplied>so</supplied> sollen er, cleger,  
+<lb n="16"/>unnd alle diejenigen, die da zu trenckhen gerechtigkheit haben, alß dann und nit eher hineinfahren in <placeName ref="lub-places-643">Mulbach</placeName> ans hofye. Unnd diß jetz be
+<lb break="no" n="17"/>rüerte drenckhi bey <persName ref="lub-actors-358">Thoman Danners</persName> hof, sollen cleger unnd andtwurter, auch ale diejenigen, welliche alda zutrenckhen recht unnd gewalt haben, 
+<lb n="18"/>helffen erhalten, sy gebrauches oder nit. Damit soll also dise sach geschlicht unnd gericht, auch fürterhin sy durch unnd gegeneinander guote freundt
+<lb break="no" n="19"/>schweger unnd nachbawren sein unnd bleiben. Deßen alles zue warhafftiger gezeugnuß hab ich, obgehorter obman <persName ref="lub-actors-1941">Thoman Lampart</persName>, weil ich mich aigen 
+<lb n="20"/>insigels nit gebrauche, mit vleiß gebetten unnd erbetten denn ersamen weißen <persName ref="lub-actors-357">Hannßen Negeli</persName>, dißer zeit amman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, daß er daß seinig  
+<lb n="21"/>für mich (doch ime, wie auch meinen erben ohne schaden) offentlich gehenckht hat ahn dißen brief. Der geben ist ahn <origDate>Oster zinstag  
+<lb n="22"/>nach Christi geburt im fünffzehenhundert acht unnd neuntzigisten jars</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2805" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

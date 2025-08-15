@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-913">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Holzordnung von Schaan und Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-913">LI-LA, RA 10/2/08/2/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 30. April 1559 / Beschreibstoff: Papier, 4 Seiten (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1151">LI-LA, RA 10/2/08/2/05</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 30. April 1559 / Beschreibstoff: Papier, 6 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Holzordnung für die Dörfer Vaduz und Schaan, in der festgehalten wird, bis zu welchem Monat jeder Haushalt wie viel an Holz lagern darf. Die Bestrafung von Holzfrevel wird festgelegt.  Ulmen und Pappeln dürfen ohne Erlaubnis der Obrigkeit nicht gefällt werden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-157">Wald</term>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-449">Ulme</term>
+          <term ref="lub-keywords-400">alber</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1559-04-30">30. Apr 1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_10_2_08_2_04-0001.jpg" xml:id="lub-media-2741" source="ra-10-2-08-2-04-s01.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_10_2_08_2_04-0002.jpg" xml:id="lub-media-2742" source="ra-10-2-08-2-04-s02.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_10_2_08_2_04-0003.jpg" xml:id="lub-media-2743" source="ra-10-2-08-2-04-s03.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_10_2_08_2_04-0004.jpg" xml:id="lub-media-2744" source="ra-10-2-08-2-04-s04.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0001.jpg" xml:id="lub-media-2734" source="ra-10-2-08-2-05-s01.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0002.jpg" xml:id="lub-media-2735" source="ra-10-2-08-2-05-s02.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0003.jpg" xml:id="lub-media-2736" source="ra-10-2-08-2-05-s03.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0004.jpg" xml:id="lub-media-2737" source="ra-10-2-08-2-05-s04.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0005.jpg" xml:id="lub-media-2738" source="ra-10-2-08-2-05-s05.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0006.jpg" xml:id="lub-media-2739" source="ra-10-2-08-2-05-s06.jpg" corresp="B2"/>
+    <graphic url="li-la__ra_10_2_08_2_05-0007.jpg" xml:id="lub-media-2740" source="ra-10-2-08-2-05-s07.jpg" corresp="B2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2741" n="1"/><lb n="1"/>Zuwissen unnd khundt sey allermenigclich mit disem offenn  
+<lb n="2"/>zedl, daz sich die ehrsamen unnd wolbeschaidnen gemainden  
+<lb n="3"/>der zwayer herschafften ainer holz ord
+<lb break="no" n="4"/>nung mit hilff, rath unnd zuthun deß wolgebornem herrn 
+<lb n="5"/><persName ref="lub-actors-13">Carl Ludwigen</persName> graffenn etc. irer furgeseztenn  
+<lb n="6"/>obrigkhait, des ehrnuessten, wolgeachten <persName ref="lub-actors-24">Juvenaliis  
+<lb n="7"/>Kredern</persName>, ires gunstigen herrn lanndtvoggts, wie es  
+<lb n="8"/>nun furtterhin zu berg, tal unnd im lanndt mit holz  
+<lb n="9"/>hawen unnd in annder weg gehalten werden soll, verain
+<lb break="no" n="10"/>bart unnd vergleicht haben. Darbey ain genedige herr
+<lb break="no" n="11"/>schafft sy genedigclich schuzen, schirmen unnd hanndthaben 
+<lb n="12"/>wellen unnd lutt dieselb von arrtickhl zu dem anndern  
+<lb n="13"/>also. 
+</p>
+        <p><lb n="14"/>Unnd des ehrsten, das sich ain yeder einwoner bayder herrschaften  
+<lb n="15"/>nit annderst beholze, damit nit meer dann zway fueder  
+<lb n="16"/>alte scheitter nach mitten merzen bey ime befundenn.  
+<lb n="17"/>Unnd so aber meer bey ainem befunden, derselb soll von  
+<lb n="18"/>den geschwornen umb yedes fuoder umb fünff schilling  
+<lb n="19"/>pfening gestrafft werden. 
+</p>
+        <p><lb n="20"/>Zum anndern, wo ainicher nach gestimbtem mitten merzen  
+<lb n="21"/>gehawen holz inn ussern oder sonnst in den hölzern  
+<lb n="22"/>zu berg, tal unnd lannd ußgemacht, oder unußgemacht  
+<lb n="23"/>holz ain schaden, oder zuverderben ligen ließe, dasselb  
+<lb n="24"/>soll ainem yeden manglhafftigen (zu verbrennen, oder  
+<lb n="25"/>in annder weeg) preiss unnd erlaubt sein, unnd darzu der,  
+<lb n="26"/>der solch holz zu wuoßt unnd wunn nidergehauwen, von  
+<lb n="27"/>den geschwornnen als vom fuoder umb fünff schilling d.  
+<lb n="28"/>gestrafft werden. 
+</p>
+        <p><pb facs="lub-media-2742" n="2"/><lb n="29"/>Zum dritten das khainer khain fruchtbarn bom, ehr sey  
+<lb n="30"/>wild oder zam, uff der allmain abhauwe, unnd darzu  
+<lb n="31"/>daz auch khainer khain khlainen noch grossen <term ref="lub-keywords-449">ulmen</term> ab
+<lb break="no" n="32"/>hawe, ald mit pasten oder in annder weeg verderbe, 
+<lb n="33"/>allain hierinnen ußgeschlossen, die zu redern gebrucht  
+<lb n="34"/>werden söllen, die mag ain yeder mit vorwissen und  
+<lb n="35"/>verwilligen der geschwornen zu pruchen unverwuostlich  
+<lb n="36"/>abhawen. 
+</p>
+        <p><lb n="37"/>Zum vierdten, das khainer khain varen, so tuchels größe,  
+<lb n="38"/>und khainer darzu erwachsende abhawe, bey ver
+<lb break="no" n="39"/>wurckhung yedes stumppen funf schilling phening straf
+<lb break="no" n="40"/>gelts, auch daz khainer in den <placeName ref="lub-places-103">Rhein</placeName> awen khainen <term ref="lub-keywords-400">alber</term>, 
+<lb n="41"/>der sey khlain oder groß, niderhawe oder zuverderben ab
+<lb break="no" n="42"/>stumble.
+</p>
+        <p><lb n="43"/>Zum 5. soll auch ehrnstlich unnd zum höchsten verpotten sein,  
+<lb n="44"/>daz khainer, wer der sey, khain zimer noch bauw holz  
+<lb n="45"/>mit sein selbs gewalt unnd unerlobt der geschwornen,  
+<lb n="46"/>auch aman unnd waibels niderhawen oder umbschlachen  
+<lb n="47"/>lassen solle. Sy, die geschwornen, sollen aber uff  
+<lb n="48"/>sich unnd begeren mit hilff, rath unnd zuthun aman  
+<lb n="49"/>unnd waibls, so unnd annderst der anrueffend des  
+<lb n="50"/>augenscheindlich mannglhafftig, schuldig sein, an be
+<lb break="no" n="51"/>quemlichen ordten unnd alda es zum wenigisten schaden 
+<lb n="52"/>geburt, holz nach zimblicher unnd gepurlicher notturfft  
+<lb n="53"/>zuverordnen unnd verfolgen zulassen. Welcher  
+<lb n="54"/>aber hierwider ungehorsam erscheint, der wirdt durch  
+<lb n="55"/>die obrigkhait nach gepur gestrafft werden. 
+</p>
+        <p><pb facs="lub-media-2743" n="3"/><lb n="56"/>Zum sechsten unnd letsten, daz auch khainer dem anndern khain  
+<lb n="57"/>holz on vorwissen der geschwornen zu khauffen geben solle,  
+<lb n="58"/>bey straff yedes fuoder funf schilling phening, unnd welcher  
+<lb n="59"/>deren vorgeschribnen artickhl, ainen oder meer ubertritt  
+<lb n="60"/>unnd zuwider lebt, der soll durch die geschwornen, so es  
+<lb n="61"/>inen annderst zu thuhn geburt, unnachleßlich nach verdienung  
+<lb n="62"/>unnd ußweisung der artickhl gestrafft werden, unnd  
+<lb n="63"/>was also zu strafgelt ufgehebt, soll halber den geschwornen  
+<lb n="64"/>unnd daz annder halb thail den bayden gemainden gedienen  
+<lb n="65"/>unnd verfallen sein. Unnd im fal, so sich der straf
+<lb break="no" n="66"/>würdig nit an der geschwornen straf ergeben, sonnder ver
+<lb break="no" n="67"/>widern wurden, der oder dieselben sollen alßdann von den 
+<lb n="68"/>geschwornen der obrigkhait angezaigt unnd volgendts durch  
+<lb n="69"/>dieselb nach gepur gestrafft werden. Derhalben wiß sich  
+<lb n="70"/>menigclich vor schaden unnd straff zu verhuetten, doch  
+<lb n="71"/>soll hieneben ainer genedigen herrschafft an irer herr
+<lb break="no" n="72"/>lichait unnd obrigkhait nichts benommen, sonnder zu mindern,   
+<lb n="73"/>zu mern, oder zum thail gar abzuthun yeder zit vorbehalten  
+<lb n="74"/>sein. Beschehen am <origDate>suntag vor dem mays tag anno etc. 59</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2744" n="1"/><lb n="1"/>Wald- und holzordnung. 
+<lb n="2"/>Es solle  
+<lb n="3"/>1. Sich keiner mehrer beholzen, als so viel, daß man nach  
+<lb n="4"/>mitten merz nur 2 klaffter alte scheiter antreffen möge. 
+<lb n="5"/>2. Um gedachte zeit kein holz mehr im wald etc. liegen. 
+<lb n="6"/>3. Auf der allgemein keinen fruchtbaren baum noch <term ref="lub-keywords-449">ulmen</term>  
+<lb n="7"/>beschädigen oder umhauen. 
+<lb n="8"/>4. Kein fahre, so teichel größe hat, oder dazu aufwächst,   
+<lb n="9"/>hauen. 
+<lb n="10"/>5. Ohne wissen des amtsman, geschwornen und weibels  
+<lb n="11"/>kein bau- oder zimmerholz gehauen werden. 
+<lb n="12"/>6. Keiner dem andern ohne wissen des geschwornen sein holz  
+<lb n="13"/>zu verkaufen geben. 
+<lb n="14"/><date when="1656-04-30">Sontag vor majentag 1656</date>. 
+</p>
+        <p><lb n="15"/>Holzordnung der dörffer <placeName ref="lub-places-1">Vaduz</placeName> 
+<lb n="16"/>unnd <gap/> wordenn. 
+</p>
+        <p><lb n="17"/><gap/> anno etc. 
+<lb n="18"/>84 <gap/> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

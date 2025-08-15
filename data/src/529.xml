@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-529">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vergleich zwischen den Gemeinden Schaan und Triesen über die Grenzen zwischen den Alpen Gritsch und Valüna</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-529">LI-GAT, U 41</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 15. Juni 1608 / Beschreibstoff: Pergament / Siegel: ein Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Gurt, Claudius: Ediert in <ref target="http://www.e-archiv.li/D42335">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Gemeinden Schaan und Triesen vergleichen sich über die Grenzen zwischen ihren Alpen Gritsch und Valüna. Die Grenze soll vom Rettastein über Gampergritsch und Weissen Blatten bis zum höchsten Gipfel gehen. Die Urkunde wird von den Landvögten, Räten und Oberamtleuten der Herrschaften Vaduz und Schellenberg mit dem Amt- und Kanzleisiegel von Graf Karl Ludwig von Sulz besiegelt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-155">Alp</term>
+          <term ref="lub-keywords-1">Grenze</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1608-06-15">15. Jun 1608</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_41-0002.jpg" xml:id="lub-media-2425" source="gat-u-041-v.jpg" corresp="A"/>
+    <graphic url="li-gat__u_41-0002.jpg" xml:id="lub-media-2426" source="gat-u-041-r-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2426" n="1"/><lb n="1"/>Kündt und züe wissen gethan sey allermenigklich hiemit disem briefe demnach  
+<lb n="2"/>sich endtzwüschen den beiden gemainden <placeName ref="lub-places-53">Schan</placeName> an ainem und <placeName ref="lub-places-79">Trisen</placeName> anderz tailß wegen der beiden allppen <placeName ref="lub-places-132">Gritsch</placeName>  
+<lb n="3"/>und <placeName ref="lub-places-133">Valilen</placeName>, edtwaß nachparliche spän und missverstend der marckhen halben erreckht und zuegetragen. Zue ablainung aber dessen und zue erhaltung guetter, fridlieb
+<lb break="no" n="4"/>ender nachparschafft und verhüedtung vergeblicher uncösten haben ermelte beide gemainden sich verglichen, wie buochstablich hernach volgt. Erstlichen, so sind zwüschen mehrermelten beiden 
+<lb n="5"/>gemainden von deroselben beiderseits verordneten usschüssen volgendte marckhen erkhendt, außgesprochen und von beiden gemainden acceptiert und angenomen worden. Benantlichen  
+<lb n="6"/>die erst marckh, so ain stain ist gesezt, uff dem Reittenstain, von sölichem aller gredi nach, den <placeName ref="lub-places-36">Benderen</placeName> und felßen biß in <placeName ref="lub-places-179">Gampagritsch</placeName>, so zue der linckhen hand in der egg steth, auch ain  
+<lb n="7"/>stain, von dennen zue ainer großen lerch, auch in <placeName ref="lub-places-179">Gampagritsch</placeName>, allda soll auch uff ainer egg daselbsten ain marckhstain sten, von solicher egg in felßen und von dißen  
+<lb n="8"/>fellßen nach in den ursprung des Brunnen uff der <placeName ref="lub-places-180">Weißen Blatten</placeName>, so die marckh sein solle, von demselbigen Brunen dem Graben nach uff aber zue ainem gesezten marckhstain ,  
+<lb n="9"/>von demselben uffwertß gegen der rechten hand aber zue ainem gesezten marckhstain, danenhero denselbigen grädigs uff in den höchsten spiz. Welich obgeschribner marckh
+<lb break="no" n="10"/>en vergleichung sich mehr berüerte gemainden nachpar- und ainhelligklich verainbart und verglichen, diß alleß auch offtgedachte gemainden, oder derselben ausschüss ainanderein mit hand gebnen 
+<lb n="11"/>trewen und glauben für sie, ire ewige nachkhomen, steiff vestigklich zuehalten, deme zuegeleben und nachzuekhomen verlopt, zuegesagt und versprochen, niemermehr darwider zue handlen  
+<lb n="12"/>und zuethuen, nach schaffen zuethuen werden, alles mit und in crafft dißeß marckhenenbrieffs, getreülich und sonders geferde. Zue dessen wahrem und glaubhafften urkhundt  
+<lb n="13"/>sind dißer brieffen zwen gleich lauttendt gemacht, mit ainer hand geschriben und jeder gemaind ainer zuebehendiget worden. Weliche innamen deß hochwolgebornen, ireß gnädigen  
+<lb n="14"/>herren, herren <persName ref="lub-actors-13">Carl Ludwigen graven zue Sulz</persName>, landtgraven im <placeName ref="lub-places-18">Cleggöw</placeName>, deß <orgName ref="lub-actors-516">Hailligen Römischen Reichs</orgName> erbhoffrichters zue <placeName ref="lub-places-17">Rotweill</placeName>, herrens zue <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName>,  
+<lb n="15"/>römisch kayserlicher mayestät rath, kamerers, öbristen hoffmarkhschalckhens, kriegsrathspraesidentens und general öbrister leüdtenampt über ain regement hochdeütscheß kriegsvolch zue fueß etc., 
+<lb n="16"/>die edeln ernveste und fürneme gräffliche sulzische beider graff- und herrschafften <placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> landtvogt, räth und oberamptleüdt, ire günstige herren und fürge
+<lb break="no" n="17"/>sezte obrigkhait, uff ir underdienstlich und ainhelligeß pitten, daß ir anbefolchen verordnete, irer gnaden ampts und canzlei secret offentlich hieran gehenckht. 
+<lb n="18"/>So geben und beschechen, den <origDate>fünffzechendten monaths tag junii deß lauffendten sechtzechen hundertisten und achten jars</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2425" n="1"/><lb n="1"/>Marckhbrief  
+<lb n="2"/>zwischen denn alpen <placeName ref="lub-places-132">Gritsch</placeName> und  
+<lb n="3"/><supplied><placeName ref="lub-places-133">Valunen</placeName></supplied></p>
+      </div>
+    </body>
+  </text>
+</TEI>

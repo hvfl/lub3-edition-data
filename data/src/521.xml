@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-521">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Triesen und den Walsern am Triesenberg um Holznutzung jenseits des Kulm</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-521">LI-GAT, U 21</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 29. September 1516 / Beschreibstoff: Pergament / Siegel: ein Siegel, gut erhalten-</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1057">LI-LA, RA 73/12</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) Originaldatierung: 29. September 1516 / Beschreibstoff: Papier, 5 Seiten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 196</bibl>
+          <bibl>Büchel, Gemeinde Triesen, Bd. 2, S. 804, Bd. 3, S. 1045f.</bibl>
+          <bibl>Klenze, Alpwirtschaft S. 102</bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 34, S. 115.</bibl>
+          <bibl>Gurt, Claudius: Edition in <ref target="https://www.e-archiv.li/D42302">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Rudolf V. von Sulz entscheidet den Streit zwischen den Leuten von Triesen und den Walsnern am Triesenberg um die Holznutzung jenseits des Kulm. Zuvor hatten Hans von Pfyn, Vogt zu Vaduz, und Albrecht Wolf, Ammann von Vaduz, sowie Jörg Thöni und Hans von Schiers, Urteilssprecher des Gerichts zu Vaduz, und Matthias Wagner und Hug Knabenknecht, Urteilssprecher des Gerichts am Eschnerberg, die Parteien vernommen und die Urkunden, die sie von Graf Heinrich von Werdenberg-Sargans-Vaduz innehaben, verhört.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-38">Walser</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
+          <placeName ref="lub-places-33">Vaduz, Schloss</placeName>
+          <date when="1516-09-29">29. Sep 1516</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_21-0002.jpg" xml:id="lub-media-2411" source="gat-u-021-r.jpg" corresp="A"/>
+    <graphic url="li-gat__u_21-0002.jpg" xml:id="lub-media-2412" source="gat-u-021-v.jpg" corresp="A"/>
+    <graphic url="li-la__ra_73_12-0001.jpg" xml:id="lub-media-1729" source="ra-73-12-s01.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0002.jpg" xml:id="lub-media-1730" source="ra-73-12-s02.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0003.jpg" xml:id="lub-media-1731" source="ra-73-12-s03.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0004.jpg" xml:id="lub-media-1732" source="ra-73-12-s04.jpg" corresp="B"/>
+    <graphic url="li-la__ra_73_12-0005.jpg" xml:id="lub-media-1733" source="ra-73-12-s05.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2411" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-8">Rudolf grauf zu Sultz</persName>, landtgraf im <placeName ref="lub-places-18">Cleggow</placeName> deß <orgName ref="lub-actors-516">Reichß</orgName> hofrichter zu <placeName ref="lub-places-17">Rotwyl</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-12">Blumnegg</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>, etc., bekennen offentlich und th
+<lb break="no" n="2"/>und kundt menigclich mit dem brief, nachdem und sich irrung und spenn gehalten habend, zwuschen <supplied>unsern</supplied> leudten deß dorfß zu <placeName ref="lub-places-79">Trisan</placeName> gemainlich alß cleger an 
+<lb n="3"/>ainem, und unsern <orgName ref="lub-actors-941">Wallissern</orgName> gemainlich am <placeName ref="lub-places-41">Trißnerberg</placeName> gesessen alß antwurter am andern thailn, ber<supplied>üerend</supplied> daß holtz enhalb dem <placeName ref="lub-places-138">Gulmen</placeName>, daß die von <placeName ref="lub-places-79">Tri
+<lb break="no" n="4"/>sen</placeName> vermaintenn, die <orgName ref="lub-actors-941">Wallisser</orgName> <supplied>ho</supplied>wend da holtz und zimmerholtz und schindelholtz wustlich, und hettind kaini recht darzu, sunder si hettind die <orgName ref="lub-actors-941">Wallisser</orgName> da uss 
+<lb n="5"/>gutem willen lässen hewen, <supplied>daß sy jez</supplied> fur <supplied>ain gerech</supplied>tigkait weltind haben. Dar gegen die <orgName ref="lub-actors-941">Wallisser</orgName> vermainten, si hettind gerechtigkait sölich holtz da zu  
+<lb n="6"/>howen, und gestundind inen nit, <supplied>daß die von <placeName ref="lub-places-79">Trisen</placeName></supplied> inen daß gutz willenß zethun vergundt hettind, uff sölichß habend wir unserm getrewen und lieben <persName ref="lub-actors-56">Han
+<lb break="no" n="7"/>sen von Pfyn</persName>, <supplied>un</supplied>serm vogt zu <placeName ref="lub-places-7">Vadutz</placeName>, bef<supplied>ohlen</supplied> an unser statt irn span zu besichtigen erfaren und erlerrnen. Daruf er unsern getruwen und lieben <persName ref="lub-actors-296">Abrecht Wolf
+<lb break="no" n="8"/>en</persName>, unsern <supplied>amman zu</supplied> <placeName ref="lub-places-1">Vadutz</placeName>, und ander unpartigig ludt zu im genommen und mit inen uff den span gezogen. Und da ire clagen <supplied>antwurt, red</supplied> und widerred und darzu iren 
+<lb n="9"/>be<supplied>derthail brief, so si von dem</supplied> wolgeborrnen herrn <persName ref="lub-actors-299">Hainrichen grafen von Werdenberg von Sanganß</persName> selgen, unserm lieben herren und vorfarn unser gemelten herrschaft  
+<lb n="10"/><supplied>Vadutz zu beder seyt umb</supplied> ire gerechtigkhait vermainten zehaben verhört. Daruf wir baid parthyen fur unß betagt und iren brief und daruf ire red und <supplied>wider-</supplied> 
+<lb n="11"/>red selbs <supplied>gehört und auff</supplied> sölichß alß der herr zwuschen inen so vil mittelß erfunden, daß si unß die sach in der güttigkait hin zu legen, merern und unnutzen, <supplied>cost-</supplied> 
+<lb n="12"/>en und unwillen zwuschen inen zu verhuten, vertruwt, uff <supplied>daß</supplied> wir ab<supplied>ermal</supplied>ß unser getrew und lieb <persName ref="lub-actors-297">Jörgen Thöni</persName> und <persName ref="lub-actors-298">Hansen von Schierß</persName>, baid unserß geri<supplied>chts</supplied>  
+<lb n="13"/>zu <supplied>Vaduz</supplied> gesworen urtalsprecher und <persName ref="lub-actors-221">Thyssen Wagner</persName> und <persName ref="lub-actors-222">Hugen Knabenknecht</persName>, baid unserß gerichtz am <placeName ref="lub-places-16">Eschnerberg</placeName> gesworn urt<supplied>elsprecher</supplied>, all vier alß unpar
+<lb break="no" n="14"/>tigig man an unser statt uff den span verordnet, und si ir bedertail gemelt brief, und daruf ire red und wider<supplied>red</supplied> gegen ainandern gnugsamlich verhorn und 
+<lb n="15"/>den span zu besichtigen ze erfaren und ze erlernen lassen. Und haben wir daruf mit radt der obgenannten unserß vogtß och unserß ammanß und den vier urtelsprech
+<lb break="no" n="16"/>ern solch ir bedertail brief, och ire red und widerred gegen ain andern erwegen und ermessen. Und haben wir uff sölichs alleß zwuschen inen in der gutigkait ge
+<lb break="no" n="17"/>sprochen, also, daß ir bedertail brief von genanntem graf <persName ref="lub-actors-299">Hainreichen von Werdenberg</persName> etc. usgangen, söllen in krefften stan und beliben, und söllen die <orgName ref="lub-actors-941">Wallisser</orgName> ludt 
+<lb n="18"/>irß briefß holtz und zimberholtz und schindelholtz hewen, doch also daß ain jeder <orgName ref="lub-actors-941">Wallissar</orgName> weder zimmerholtz noch schindelholtz sol wustlich howen, sunder allain zu  
+<lb n="19"/>siner aignen notdurft. Und welcher also howt, eß sey zimmerholtz oder schindelholtz, daß sol er bi der <orgName ref="lub-actors-941">Walser</orgName> clainen buss, daß ist namlich funf pfund pfening in zwayen  
+<lb n="20"/>jaren verzimberrn und verbuwen. Und welcher mer dann zu sinr selbß notdurft zimberholtz oder schindelholtz howt, <supplied>es wer, daß</supplied> erß verkoffen, verschenken, oder suss  
+<lb n="21"/>hingeben welte, wie daß ware, oder eß erfulen liesse, oder eß lenger denn zway jar ligen liesse, und eß in den zwayen jaren nit verwercheti oder verbuwti, der sol der  
+<lb n="22"/><orgName ref="lub-actors-941">Wallisser</orgName> claine buss, wie vor stat, zu geben verfallen sin, da von unß, unsern erben und nachkommen der zwen tail, und der drittail dem dorff gmainlich ze <placeName ref="lub-places-79">Trisan</placeName> zu ge
+<lb break="no" n="23"/>hören sol, und deß costungß halben, <supplied>da sol ir jeder</supplied> tail sinen costung im selbß daruf ergangen, selbß usrichten und der <supplied>costen</supplied> und zerung, so uff die sach gangen ist, durch 
+<lb n="24"/>die so von unß den span zum andern <supplied>mal zu</supplied> besichtigen erforderrt und beschaiden sind, sol ir jeder tail glich <supplied>halben</supplied> usrichten und sol darzu ir jeder tail sinen bri
+<lb break="no" n="25"/>ef und sigel darum von unß ufgericht selbß lösen und sollend damit bedtail gegen ain anderrn uff ain ludt<gap/>end veraint und <supplied>vertragen</supplied>, und aller unwill der 
+<lb n="26"/>sach halb zwuschen inen tod und ab haissen und sin, und sol deß entwederer tail dem andern zu argem <supplied>noch unguete nimerme</supplied> äfern, rechen, noch gedencken, we
+<lb break="no" n="27"/>der mit worten, werchen, noch sachen, gaistlichen noch weltlichen, in kain wys noch weg, sunder sol eß bi <supplied>disem</supplied> unserm spruch <supplied>also hinfüro</supplied> beliben, und demnach 
+<lb n="28"/>komen und gelobt werden, alß si dan bedtail <supplied>unserm genanten</supplied> vogt an unser statt bi irn hand ge<supplied>lob</supplied>ten trewen <supplied>trulich und un</supplied>gefarlich zu halten, gelo
+<lb break="no" n="29"/>bt habend. Und deß alleß zu warem offem urkund haben wir ir jedem tail ainen brief, bed gl<supplied>ichlutend</supplied>, mit unserm anhangenden secret, doch unß, unsern 
+<lb n="30"/>erben und nachkomen an unser herrligkait und obeikait unvergriffen und unschädlich und och genantem unserm vogt, och dem genannten amman und den  
+<lb n="31"/>obgenannten unparrtigigen nammen, so von unsern wegen uff den besichtigung en irer spennen gewesen sind und allen iren erben one schaden offenlich besigelt. Geb
+<lb break="no" n="32"/>en in unserm <placeName ref="lub-places-33">Schloss Vadutz</placeName> an <origDate>sant Michelß tag nach Cristi geburt funfzehen hundert und sechtzehen jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2412" n="1"/><lb n="1"/>Betrifft mit den bergleuthen <gap/><lb n="2"/>dem <gap/> imd straf deren so alldort wüstlich  
+<lb n="3"/>holtzen. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

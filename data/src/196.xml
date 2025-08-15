@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-196">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Balthasar von Ramschwag wird das Lehen in Vaduz neuerlich verliehen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-196">CZ-SOAT, Cizí statky 726 II 411 C 2</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 3. Mai 1578 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/726/charter?q=726">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Heinrich Graf von Fürstenberg, Vormund der Kinder von Alwig IX. Grafen von Sulz, verleiht Balthasar von Ramschwag, Vogt auf Gutenberg, neuerlich die Lehen in der Grafschaft Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-7">Vaduz (Grafschaft)</placeName>
+          <date when="1578-05-03">3. Mai 1578</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_statky_726_ii_411_c_2-0001.jpg" xml:id="lub-media-303" source="1578-05-03-soat-cizistatkytrebon-726-r.jpg" corresp="A"/>
+    <graphic url="cizí_statky_726_ii_411_c_2-0002.jpg" xml:id="lub-media-304" source="1578-05-03-soat-cizistatkytrebon-726-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-303" n="1"/><lb n="1"/>Wür <persName ref="lub-actors-466">Hainrich grave zu Fürstennberg, Haylgennberg unnd Wärdenberg</persName>, landtgrave inn <placeName ref="lub-places-333">Bare</placeName>, her zu <placeName ref="lub-places-334">Hausenn</placeName> im <placeName ref="lub-places-335">Künzgerthal</placeName> etc., <persName ref="lub-actors-566">Schweickhart grave zu  
+<lb n="2"/>Helffenstain, freyherr zu Gundelfingen</persName> und <placeName ref="lub-places-692">Gomegin</placeName>, fürstlicher bayrischer rhatt und pfleger zu <placeName ref="lub-places-693">Landsperg</placeName> etc., als weylundt des wolgebornen <persName ref="lub-actors-9">Alwigen graven zu Sultz</persName>, landtgraven in <placeName ref="lub-places-18">Cleggeuw</placeName>,  
+<lb n="3"/>des <orgName ref="lub-actors-516">Hayligenn Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rottweil</placeName>, herren zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Pluomeneckh</placeName> etc., unseres freündtlichen lieben vettern und schwagers, seeliger gedechtnus, von der römisch  
+<lb n="4"/>kayserlichen mayestät, unserm allergnedigisten herren hinderlaßnen minderjariger kindere, confirmierte und verordnete vormündere. Bekhennen offentlich und thun khundt allermenigklich  
+<lb n="5"/>mitt dem brieve, das fur unns komen und erschinen ist der edel, vest, unserer vormundtschafft lieber, getreuwer <persName ref="lub-actors-23">Jerg Balthassar von Ramschwag</persName>, fürstlicher durchleuchtigkait ertzhertz
+<lb break="no" n="6"/>zogs <persName ref="lub-actors-11">Ferdinandi zu Österreich</persName> etc. vogt uff <placeName ref="lub-places-13">Guottennberg</placeName>, unnd uns anzaigt, wie er verscheines sybenn und sechtzigisten jars von wolgemeltem, unserem gelierpten vettern unndt 
+<lb n="7"/>schwagernn grave <persName ref="lub-actors-9">Allwigenn</persName>, seinem gnedigen herren wolseeliger gedechtnus, ettliche gerechtigkaitten in und an dem weinzehenden. Darzu ain achtzehenden theil des weinzehenden, ainen vier
+<lb break="no" n="8"/>thail als kornzehenden, opszehenden, rübenzehenden, hünerzehenden und klainen zehenden, alles zu <placeName ref="lub-places-1">Vadutz</placeName> här dißhalb dem <placeName ref="lub-places-311">Mülinbach</placeName> gelegen, zu lehenn empfangenn und ettlich zeitt bißhär 
+<lb n="9"/>inn lehens weyse innengehabt und genossenn habe, nach ußweysung desselbenn lehenbrieffs, den er vor uns gezeigt und bewisenn. Dieweil dann bemelt lehen uns von erzeltter  
+<lb n="10"/>unserer vormundt kindern, als diser zeitt rechten lehenherren von der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> wegen zuverleyhenn gepüertt. So hatt der gedacht <persName ref="lub-actors-23">Jerg Baltassar von Ramschwag</persName> uns  
+<lb n="11"/>hieruff gantz undertheniglich angerueffen und gebetten, dass wur ime die obgeschribnen gerechtigkaittenn und zehenden, mit allen iren rechten und zugehörungen, zu lehen gnedig
+<lb break="no" n="12"/>lich geruchten zu verleyhen. Also habenn wur sein underthenig vleissig ud ernstlich pitt, auch die gethreuwen dienst, so er und seine vordern, gedachten unsern vormundt kindern 
+<lb n="13"/>und derselben vordern, bitzhero erzaigett und bewisen, auch furohin wol thun soll unnd mag, gnediglich angesehen. Unnd die obgenandten gerechtigkaitten und zehenden, mit allen iren rechten 
+<lb n="14"/>und zugehörungen, genanttem <persName ref="lub-actors-23">Jerg Baltassarn von Ramschwag</persName> zu lehenn gnediglich gelyhen und verlyhen. Unnd leyhenndt auch ime hiemitt wissentlich, in crafft diß brieffs,  
+<lb n="15"/>alles das, so wur von derselben unserer vormundt khinder wegen, als lehenherren, wie obstehett, von recht und gewonhaitt wegen daran zuverleyhen haben. Also das er dieselbenn  
+<lb n="16"/>gerechtigkaitten und zehenden nun furohin in lehensweyse innennhaben, nutzen, niessen, geprauchen, besetzen, endtsetzen soll und mag. Doch unseren vormundt khindern und iren erben  
+<lb n="17"/>an derselben herrlichaitten und rechten der lehenschafft, mitt empfahung als offt solches zu schuldenn kompt, nach dises lehenrecht, und sonst in andere weg unschadlich und unvergriffen.  
+<lb n="18"/>Unnd besonder so soll er unns vormundtlicher weyse und unsern vormundt khindern als ain lehenmann in allen geburlichen dingen, gethreuw, gehorsam und gewertig sein, derselben unsernn  
+<lb n="19"/>vormundt khindern, nutz und fromen furdern, schaden und nachtail warnnen und wenden. Auch alles das thun, so dan ain lehenman von solchem lehen seinem lehenherren ze thuen schuldig und pflichtig  
+<lb n="20"/>ist. Bey dem gelüpt und ayde, so er deßhalbenn zu gott und den hayligen geschworenn, alles gethreuwlich und ungeverlich. Unnd des zu uhrkhundt mitt unserem vormundtlichen anhangendenn  
+<lb n="21"/>secrett insigel besiglet. Unnd gebenn <origDate>den dritten tag des monats maii, von Christi unßers lieben herren und seligmachers gepuort gezaltt funffzehenhundert sybendtzig unnd  
+<lb n="22"/>acht jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-304" n="1"/><lb n="1"/><gap/>ngen uber den kleinen  
+<lb n="2"/>zehenden zu <placeName ref="lub-places-1">Vadutz</placeName> dißhalb  
+<lb n="3"/>deß <placeName ref="lub-places-311">Mülinbachs</placeName> gegen <persName ref="lub-actors-23">Georg  
+<lb n="4"/>Balthaser von Rambschwag</persName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

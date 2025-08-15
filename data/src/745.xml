@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-745">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schreiben wegen des Eschner Pfarrers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K">K: Konzept, Signatur: <ref type="identifier" target="lub-objects-745">LI-LA, PfäA 26/02</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 9. Mai 1575 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Entwurf eines Schreibens des Klosters Pfäfers an die Kirchgenossen von Eschen wegen ihrer Bitte, den Pfarrer Christian Höflin seines Amtes zu entheben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-247">Pfarrer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-309">Pfäfers, Kloster</persName>
+          <date when="1575-05-09">ca. 9. Mai 1575</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_26_02-0001.jpg" xml:id="lub-media-1571" source="pfafa-26-02-s01.jpg" corresp="K"/>
+    <graphic url="li-la__pf-fa_26_02-0002.jpg" xml:id="lub-media-1572" source="pfafa-26-02-s02.jpg" corresp="K"/>
+    <graphic url="li-la__pf-fa_26_02-0003.jpg" xml:id="lub-media-1573" source="pfafa-26-02-s03.jpg" corresp="K"/>
+    <graphic url="li-la__pf-fa_26_02-0004.jpg" xml:id="lub-media-1574" source="pfafa-26-02-s04.jpg" corresp="K"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1571" n="1"/><lb n="1"/>Unnsern fründtlichen grus sampt alles ehrn unnd  
+<lb n="2"/>gutz zuvor. Ehrwirdiger unnd wolgeleerter  
+<lb n="3"/>herr unnd fründt. Uff mentag, den <date to="1575-05-09">9 tag  
+<lb n="4"/>jez louffends monats meyens</date> sind in unns
+<lb break="no" n="5"/>erm gotzhuß <orgName ref="lub-actors-309">Pfäffers</orgName> vor uns erschinen etlich 
+<lb n="6"/>gesandten von <placeName ref="lub-places-35">Eschen</placeName>. Die  
+<lb n="7"/>habent durch  
+<lb n="8"/>irn bystannd anzeigen lassen, nachdem unns  
+<lb n="9"/>(irs erachtens) wol zu wüssen, uß was ursachen  
+<lb n="10"/>gemeine kilchgnoßen unnd pursami zu  
+<lb n="11"/><placeName ref="lub-places-35">Eschen</placeName> mit herrn <persName ref="lub-actors-665">Christanns Höflin</persName>, pfarrer  
+<lb n="12"/>daselbst, vor us und dem geistlichen rächten  
+<lb n="13"/>zu übennde rechtvertigung erwachsen syen, die
+<lb break="no" n="14"/>wyl nunmer vyl kosten damit ufgeloffen, 
+<lb n="15"/>unnd biß zu ußtrag deß rechtens noch vyl  
+<lb n="16"/>darüber gon, sover die sach  
+<lb n="17"/>langer verzogen unnd nit ußgeüebt wurde etc. 
+<lb n="18"/>Derhalben sy in namen unnd uß bevälch gesagter  
+<lb n="19"/>gantzen gmeind <gap/> als calator unnd  
+<lb n="20"/>leechenherren gesagter pfarr pfrund <placeName ref="lub-places-35">Eschen</placeName> fründtlich unnd underthenigklich  
+<lb n="21"/>gepätten, wir welind inen hilflich uhnnd räth
+<lb break="no" n="22"/>lich sin, damit die sach ettwelicher gestalt 
+<lb n="23"/>güetlich, oder räthlich ein ußtrag gewünne  
+<lb n="24"/>unnd wytere köstig erspart werdint  
+<lb n="25"/>unnd gedachts priesters abkomind. Dann  
+<lb n="26"/>sy unns unverhalten haben wellen, das  
+<lb n="27"/>in ganntzer gmeind nit ein man, der im  
+<lb n="28"/>ein willen. Unnd sover er inen mit gewalt  
+<lb n="29"/>(wie er vermeine, beschächen sölle) ufbunden, were ze be
+<lb break="no" n="30"/>sorgen, es wurde nüt gutz daruß entspringen 
+<lb n="31"/>unnd grosses leid darnach volgen. Mit  
+<lb n="32"/>wytterer anzeigung, das ir unnd herr  
+<lb n="33"/>lanndvogt zu <placeName ref="lub-places-7">Vadutz</placeName> voermaln sich des spans unnder
+<lb break="no" n="34"/>wunden, zu beiden theiln sy gütlich ze
+<lb break="no" n="35"/>vereinbarn, habe ers abgeschlagen, unnd 
+<lb n="36"/>üwer tädung nit annemen wellen etc. 
+<lb n="37"/>Weliches unns höchlich beduret, habend ouch nit  
+<lb n="38"/>unbillich ein groß misfallen darab empfangen,  
+<lb n="39"/>das er sich nit baß, sunder hettend  
+<lb n="40"/>unns nüt anderst versachen. Er sollte sich der
+<lb break="no" n="41"/>massen priesterlich nach luth vernempts herr 
+<lb n="42"/>lanndtvogts wolrüemens unnd schrifftlich  
+<lb n="43"/>fürpitts gehalten haben. Wyl aber  
+<pb facs="lub-media-1572" n="2"/>
+<lb n="44"/>leider semliches nit beschächen,  
+<lb n="45"/>unnd er uns die sach  
+<lb n="46"/>uff das ringist, so er gehandlet,  
+<lb n="47"/>auch daz nur ettlich puren unnd nit ein ganze  
+<lb n="48"/>gemein wider in syend, fürgeben, hab
+<lb break="no" n="49"/>end wir sinem anzeigen glaubt unnd im uff 
+<lb n="50"/>sin vylfaltig nachi louffen unnd pittlich  
+<lb n="51"/>begern, die presentatz unnd  
+<lb n="52"/>investur besiglet zugestelt, doch nit andern  
+<lb n="53"/>gestalt, dann unß
+<lb break="no" n="54"/>ers gotzhuß fry
+<lb break="no" n="55"/>heit unnd gerecht
+<lb break="no" n="56"/>igkeit, one schäd
+<lb break="no" n="57"/>lich unnd sover 
+<lb n="58"/>er sich priesterlich  
+<lb n="59"/>halt, dann unns  
+<lb n="60"/>zuvor nit sunders kelgt von sintwegen  
+<lb n="61"/>fürkomen, dann das wir vermeint, der  
+<lb n="62"/>handel würde sich zu gutem verrichten.  
+<lb n="63"/>Warind aber wir zuvor, wie jetz, der sich  
+<lb n="64"/>unnd gmeiner pursami unnd kilchgnoßen   
+<lb n="65"/>wider willen verständiget unnd uns  
+<lb n="66"/>klagßwyß fürkomen, welind wir one allen  
+<lb n="67"/>zweyfel sinen nit sovil beladen unnd gloubt,  
+<lb n="68"/>sunder ein andres mit im geredt haben. 
+<lb n="69"/>Sidmal nun die sach (wie gehärt) also  
+<lb n="70"/>gschaffen, habent wir, vorgenanten gsandten,  
+<lb n="71"/>von <placeName ref="lub-places-35">Eschen</placeName> unnd iren bystand disen  
+<lb n="72"/>bescheid geben, das wir keinswegs  
+<lb n="73"/>gsinet, gemeinen kilchgnossen unnd pursami  
+<lb n="74"/>zu <placeName ref="lub-places-35">Eschen</placeName> weder herrn <persName ref="lub-actors-665">Cristan Höflin</persName> noch  
+<lb n="75"/>ein andren priester, der sich unpriesterlich  
+<lb n="76"/>halt, unnd inen widerig zeordnen noch  
+<lb n="77"/>uffzeburden, wyl er sich nit anderer gestalt gehalten. 
+<lb n="78"/>So welind wir sinen diser sichhalb nützet mer beladen,  
+<lb n="79"/>der halben langt an üch unnser fründtlich  
+<lb n="80"/>pitt, ir welend  
+<lb n="81"/>nochmal in der sach das best thun  
+<lb n="82"/>unnd verholfen sin, das der handel  
+<lb n="83"/>uff das fürderlichist vertragen unnd der  
+<lb n="84"/>uncost abgewend werden  
+<lb n="85"/>unnd sy zu ruwen komen, dann ir als  
+<lb n="86"/>der hochverständig wol ermäßen kan, wyl  
+<lb n="87"/>sich die puren so höchlich ab im klagen  
+<pb facs="lub-media-1573" n="3"/>
+<lb n="88"/>unnd den unwillen gegen im hand, was nutz
+<lb n="89"/>unnd fruchtpars er in der kilchen unnd sunst gegen der  
+<lb n="90"/>gmeind schaffen, sunderlich wann er inen mit pächt oder  
+<lb n="91"/>mit gewalt ufbunden wurde, das sy in haben  
+<lb n="92"/>müsten. Wir vermeinte ouch, er sölte  
+<lb n="93"/>länger ze belyben selbs nit, sunder mer zu  
+<lb n="94"/>ruw unnd frid begern, amit im etlich seiner  
+<lb n="95"/>mißhandlung verschwigen  
+<lb n="96"/>blyben werend. Wir  
+<lb n="97"/>getrösten unnd versächend unns je werden  
+<lb n="98"/>in der sach zum besten wol wüssen ze handlen. 
+<lb n="99"/>Damit ouch unnsern gotzhuß <orgName ref="lub-actors-309">Pfeffer</orgName>
+<lb break="no" n="100"/>ers fryheit unnd gerechtigkeiten in keinem 
+<lb n="101"/>weg, kein ingriff beschech. Wamit  
+<lb n="102"/>wir üch ouch angenems gfalens, liebs unnd  
+<lb n="103"/>gutz erzeigen könen, sind wir jederzyt  
+<lb n="104"/>geneigt 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1574" n="1"/><lb n="1"/>Die pfar <placeName ref="lub-places-35">Eschen</placeName> betreffendt. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

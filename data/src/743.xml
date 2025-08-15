@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-743">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vermerk betreffend Zehnt in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-743">LI-LA, PfäA 22/06</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 29. Juli 1608 / Beschreibstoff: Papier, 2 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Vermerk betr. Wein- und Kornzehnt in Eschen, Brotzins und Zehntverleihung an Ammann Jos Öhri.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1608-07-29">29. Jul 1608</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_22_06-0001.jpg" xml:id="lub-media-1566" source="pfafa-22-06-s01.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_22_06-0002.jpg" xml:id="lub-media-1567" source="pfafa-22-06-s02.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1566" n="1"/><lb n="1"/>Erstlich zu wüssen, daß der kilchensaz zu  
+<lb n="2"/><placeName ref="lub-places-35">Eschen</placeName> sampt win- und korn-zehenden denn gozhuß  
+<lb n="3"/><orgName ref="lub-actors-309">Pfeverß</orgName> zum theil zugehörig. 
+</p>
+        <p><lb n="4"/>Item <persName ref="lub-actors-1071">Andriß Zehenders</persName> erben zinsendt jerlichen  
+<lb n="5"/>drey schilling pfennig an wiß brott vom lechen  
+<lb n="6"/>unnd sind diße hienach volgende underpfandt  
+<lb n="7"/>darumb. 
+</p>
+        <p><lb n="8"/>Item ein wingart in <placeName ref="lub-places-438">Grafen</placeName> in <placeName ref="lub-places-35">Eschner</placeName> kilchsper  
+<lb n="9"/>stost erstlich an der grafen <orgName ref="lub-actors-7">von Sulz</orgName> wingartten,  
+<lb n="10"/>oben an <placeName ref="lub-places-450">Sant Luziß</placeName> wingartten, hinuß werth  
+<lb n="11"/>auch an der graffen <orgName ref="lub-actors-7">von Sulz</orgName> gut, dahinden an  
+<lb n="12"/><persName ref="lub-actors-1072">Hanß Kochs</persName> von <placeName ref="lub-places-35">Eschen</placeName> wingartten, unnd undten an  
+<lb n="13"/>des huß <orgName ref="lub-actors-172">von Österichs</orgName> erblechen. 
+</p>
+        <p><lb n="14"/>Uff den <origDate>29. tag hoüwmonet anno 1608</origDate> hat ir  
+<lb n="15"/>hochfürstlich gnaden <persName ref="lub-actors-2357">Michael</persName> von gottes gnaden  
+<lb n="16"/>den <persName ref="lub-actors-2356">Melchior Cryßen</persName>, ir gnaden dinner gen <placeName ref="lub-places-35">Eschen</placeName>  
+<lb n="17"/>geschickt, den zehenden zu verliehen. Unnd ist mit  
+<lb n="18"/>amen <persName ref="lub-actors-664">Joßen</persName> über einkumen, was den korn zehenden  
+<lb n="19"/>bedrieft in obgemelten jar (so sol er, amen <persName ref="lub-actors-664">Joß  
+<lb n="20"/>Öury</persName> ir fürstlich gnaden geben uf zukünfftigen herpst  
+<lb n="21"/>anno 1608 27 scheffel korn, den zwen theil gersten, den  
+<lb n="22"/>drytten theil weissen. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-1567" n="1"/>
+          <lb n="1"/>
+          <placeName ref="lub-places-35">Eschen</placeName>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

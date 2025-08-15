@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-111">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mitgift der Praxedis von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-111">CZ-SOAT Cizí rody 360 z Hohenlohe 3</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 7. März 1519 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/360/charter?q=360">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Graf von Hohenlohe, auch für seine Frau Praxedis, geborene Gräfin von Sulz, bestätigt, dass die im Ehevertrag vereinbarte Mitgift und Ausstattung in Höhe von 3.500 Gulden von Rudolf Graf von Sulz, ordnungsgemäß ausgestellt wurde. Praxedis verzichtet weiter auf das Erbe ihres Vaters Rudolf Graf von Sulz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-11">Ehevertrag</term>
+          <term ref="lub-keywords-12">Mitgift</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1519-03-07">7. Mär 1519</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_třeboň_360_z_hohenlohe_3_karton_16-0001.jpg" xml:id="lub-media-239" source="1519-03-07-soat-cizirodytrebon-360-hohenlohe03-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_třeboň_360_z_hohenlohe_3_karton_16-0002.jpg" xml:id="lub-media-240" source="1519-03-07-soat-cizirodytrebon-360-hohenlohe03-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-239" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-32">Georig grave vonn Hohennloe</persName> etc. bekennen offennlichen mit diesem brieve und thun kunth allerenngklichen, als zu dem eelichenn heyrat  
+<lb n="2"/>zwuschen der wolgebornnen <persName ref="lub-actors-34">Braxedis greffin vonn Hohenloe, gebornne greffin zu Sulz</persName>, unser fruntlichen lieben gemahel, und unns mit begunst
+<lb break="no" n="3"/>tigung des wolgebornen <persName ref="lub-actors-8">Rudolffen graven zu Sulz</persName>, unsers fruntlichen lieben schwehers und vatters, uffgericht, gemelter unser fruntlicher lieber schweher 
+<lb n="4"/>sich verpflicht gemacht hat, unns und unser gemahel, seiner gedachten tochter, drew tauset und funffhundert guldin zu heimstewr, klaydung und zuge
+<lb break="no" n="5"/>brachtem gut zugebenn. Doch mit sonderm gedunge und beredung, das sich gemelte, unsere frenntliche liebe gemahel, seiner liebe dochter und mir fur unns 
+<lb n="6"/>und unser bayder erben verzeyhen sollen, vatterlicher und bruderlicher,, auch des wolgebornnen <persName ref="lub-actors-36">Hermans graven zu Sulz</persName> erbschafft, so lang ein mans person  
+<lb n="7"/>des namens und stammens von seiner liebe in lebenn sein wurde, hindangesatzt die erbschafft von der wolgebornnen <persName ref="lub-actors-47">Margaretha greffin vonn Sulz</persName>,  
+<lb n="8"/>gebornne greffin vonn <placeName ref="lub-places-6">Sonnenberg</placeName>, unser frundtlichen lieben schwiger und mutter herrurende. Unnd sollicher vertzigk gescheen und becrefftigt werdenn  
+<lb n="9"/>vor dem kayserlichen <orgName ref="lub-actors-519">Hoffgericht zu Rottweyl</orgName> nach der besten form rechtens, wie dann der buchstabe des begriffen heyrats brieve derhalben uffgericht, kler
+<lb break="no" n="10"/>lichen und aigentlichen aussweysenn, die mit allertail, auch des wolgebornnen <persName ref="lub-actors-33">Schweyckers herren zu Gundelfingen</persName>, unsers fruntlichen lieben schwagers,  
+<lb n="11"/>innsiegel versigelt sind, und der datum steet <placeName ref="lub-places-26">Stutgarten</placeName> uff <date when="1514-10-04">Sant Franciscen tage nach Cristi gepurt funffzehenhundert und in dem vierzehennden  
+<lb n="12"/>jare</date>. So nun sollicher verzigk durch unser benante liebe gemahel nach uns bishere auß verhinderung nit bescheen ist, doch zu unser mercklichen nutzbaren  
+<lb n="13"/>notturfft, vonn unser fruntlichen bitt und sonderer liebe wegen, hat der obgemelt, unser fruntlicher lieber schwaher, unns yetze sollich obbestimpt heyrat
+<lb break="no" n="14"/>gut aller sumam genzlichen gar bezalt, außgericht unnd zu unsern handen sicherlichen gewhert. Darumb so gereden und versprechen wir fur uns, 
+<lb n="15"/>unnser gedachte fruntliche liebe gemahel und unser bayder erben, bey unserm glauben und waren trewen, mit urkunde und in crafft dies brieffs, wan  
+<lb n="16"/>und zu wellicher zeit, uber kurz oder lang, der obgemelt, unser frentlicher lieber schweher und vatter, grave <persName ref="lub-actors-8">Rudolff</persName>, oder seine erben, uns oder unser ge
+<lb break="no" n="17"/>mahel, schrifftlichen oder muntlichen erfordern werden, das wir unnser fruntliche liebe gemahel darzu vermogen und halten sollen und wollen, obge
+<lb break="no" n="18"/>melten verzigk zu <placeName ref="lub-places-17">Rotweyl</placeName> zuthun, in einem monat dem nachsten nach irer liebe erforderung. Und den ferttigen und uffrichten mit gnugsamer ver
+<lb break="no" n="19"/>sicherhait nach form rechtens und des <orgName ref="lub-actors-519">Hoffs zu Rottweyl</orgName> gewonhait, nach außweyßung des vorangezaigten artickels inhaltung aller wort im heyrats 
+<lb n="20"/>brieve verfasset. Und das volllenden inn bestimbter zeit, one alle irrung, außzug, oder einichen behelffe, wie der ymmer furgewandt, furfallen, oder  
+<lb n="21"/>erdacht werden mocht, fur alle acht, kriege, bann und alle sachen, getrewelichen und one alle geverde. Zu warem urkunde, so haben wir unnser  
+<lb n="22"/>aygen innsiegel offennlichen an disenn brieve gehangen. Darzu hat genante, unser liebe gemahel sich mit aigner handt underschrieben, unnd  
+<lb n="23"/>wir bayde samhafft haben erbetten denn wolgebornnen <persName ref="lub-actors-2352">Albrechten graven von Hohennloe</persName> etc., unsern frenntlichen lieben bruder, das sein liebe sein  
+<lb n="24"/>aygne insiegel auch hieran hat lassen hencken, das wir, grave <persName ref="lub-actors-2352">Albrecht</persName> unnd <persName ref="lub-actors-34">Braxedis</persName>, bekennen gethan haben, alles getrewenlichen versprechende,  
+<lb n="25"/>der geben ist <origDate>uff montag nach dem sontag Estomihi nach Cristi unsers lieben herren gepurt funffzehenhundert und in den neunzehenden jaren</origDate>. 
+<lb n="26"/><persName ref="lub-actors-34">Prazodes greffin von Hochenloe</persName>  
+<lb n="27"/>geborne greffin von Sulz 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-240" n="1"/><lb n="1"/>Der von Hohenlohe verschreibung das sie wel  
+<lb n="2"/>in monats frist nach den und sie erfordert wirt,  
+<lb n="3"/>den vertzigk zu <placeName ref="lub-places-17">Rotwel</placeName> thun  
+<lb n="4"/>anno 1519 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-528">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Triesen und den Leuten vom Guggerboda um Holznutzung</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-528">LI-GAT, U 37</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 10. Juni 1573 / Beschreibstoff: Pergament / Siegel: ein Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 205ff.</bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 50, S. 118</bibl>
+          <bibl>Gurt, Claudius: Edition in <ref target="http://www.e-archiv.li/D42334">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Juvenal Kreder, Landvogt zu Vaduz, entscheidet als Obmann mit Heinrich Quaderer, Ammann, Jos Thöni, Andreas Schierscher und Thomas Knabenknecht, alle Gerichtsgeschworene, als Zugesetzte, den Streit zwischen Christian Hitz, Luzius Senn, Crispin Rig, Jakob Rig, Lienhart Kindli, Fridli Gantner und Hans Schurti, den Geschworenen von Triesen, mit ihren Beiständen Toni Schurti, Hilarius Plank und Lienhart Verling, alle drei Gerichtsgeschworene von Triesen, einerseits und Thomas Bürzle dem Jüngeren, Stefan Schädler und Klaus Hilbe vom Guggerboda andererseits um Holzschlag in den Wäldern neben dem Gewelb. Die Leute vom Guggerboda zitieren Urkunden vom 19. Dezember 1424, 1503 und vom 20. November 1493 \(heute offenbar verloren). Es werden neue Grenzen gesetzt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-1">Grenze</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1573-06-10">10. Jun 1573</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_37-0002.jpg" xml:id="lub-media-2421" source="gat-u-037-v-klein.jpg" corresp="A"/>
+    <graphic url="li-gat__u_37-0002.jpg" xml:id="lub-media-2422" source="gat-u-037-r-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2422" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-24">Jüvenalis Kreder</persName>, der zeit lanndtvogt der herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Pluemenegg</placeName> etc., bekhenn offenlich undt thuen khundt allermenigelich mit disem briefe. Nachdem sich zwischen den ersamen und erbern  
+<lb n="2"/>denn geschwornnen des dorffs <placeName ref="lub-places-79">Triesen</placeName>, mit namen <persName ref="lub-actors-285">Cristan Hiz</persName>, <persName ref="lub-actors-284">Luzi Senn</persName>, <persName ref="lub-actors-319">Crispinus Reig</persName>, <persName ref="lub-actors-320">Jacob Reig</persName>, <persName ref="lub-actors-321">Lienhart Kindli</persName>, <persName ref="lub-actors-322">Fridli Gantner</persName> und <persName ref="lub-actors-323">Hanß Schurtti</persName>, mitsambt iren beistennder <persName ref="lub-actors-2467">Teis Schurti</persName>, <persName ref="lub-actors-325">Larius Plannckhen</persName> und <persName ref="lub-actors-279">Leonnhardt Verlingen</persName>, aldrey gerichts  
+<lb n="3"/>geschwornne unnd zu <placeName ref="lub-places-79">Triesen</placeName> seßhafft an ainem, unnd jung <persName ref="lub-actors-326">Thaman Burzli</persName>, <persName ref="lub-actors-328">Steffan Schedler</persName> unnd <persName ref="lub-actors-327">Cleßlin Hilbin</persName>, die drey auf dem <placeName ref="lub-places-176">Guggerboden</placeName> seßhafft am anndern tail, nachvolgender sachen halben spenn und irrung zuegetragen, umb wel
+<lb break="no" n="4"/>liches sy vor aman und gerichte der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> in recht erwachssen, aber auf biderwerleuten zuereden haben sy die selbige vom rechten aufgehebt unnd auf mich, als obman, auch gleiche zuesez die ersamen und erbern aman <persName ref="lub-actors-246">Hainrich Quader</persName>, 
+<lb n="5"/><persName ref="lub-actors-317">Joß Thoni</persName>, <persName ref="lub-actors-247">Anndres Schierser</persName> und <persName ref="lub-actors-318">Thaman Knabenknecht</persName>, all vier gerichtsgeschwornne, die sachen guetlich hinzulegen, khomen lassen. Darauf ich mich sambt den zuegesezten, auf heut dato auf denn augenschein verfüegt, ire beschwerdten anzuheren, be
+<lb break="no" n="6"/>gerdt. Darauf liesen erstlich die gewelten geschwornnen von <placeName ref="lub-places-79">Triesen</placeName> fürbringen, sy weren in erfarung khomen, wie das die am <placeName ref="lub-places-176">GuggerBoden</placeName>, in iren wälden, <placeName ref="lub-places-772">neben dem Stain</placeName> genant, das <placeName ref="lub-places-177">Gewelb</placeName> gleich hinumb oben und unnden, so in iren zeil unnd 
+<lb n="7"/>marckhen gelegen, mit abhawung viller stuckhi holz ainen schaden zuegefüegt, dessen sy dann weder macht noch gewalt gehabt, noch haben sollen, sy auch wie sich gebürt, darumben straffen wöllen. Desselben sich aber die gemelten am <placeName ref="lub-places-176">GuggerPoden</placeName>   
+<lb n="8"/>gewert und verwaigert mit anzaigung, sy vermainende, nit in iren, dern von <placeName ref="lub-places-79">Triesen</placeName> marckhen, sonnder auf irem aignen gut gehawen zu haben, weliches dann sy, die von <placeName ref="lub-places-79">Triesen</placeName>, höchlichen beschwere, auch one rechtliche, oder guetliche erleüterung  
+<lb n="9"/>nit nachgeben wöllen. Daenntgegen liessen die am <placeName ref="lub-places-176">Gugger Poden</placeName> fürbringen, es were nit weniger, sy hetten ain anzall holz an obgemelten ortt gehawen, vermainde aber, es seye an selbigen ennden das irig, darumben sy alte kaufbrief unnd  
+<lb n="10"/>sigl haben, die sy zuverlesen begerten. Erstlich ain kaufbrief, so anfanngs: Ich <persName ref="lub-actors-2468">Tonat Geil</persName> und <persName ref="lub-actors-2469">Anna Merckherin</persName>, sein eheliche hausfraw. Und am datum: <date when="1424-12-19">Am nechsten zinßtag nach sanct Lucis tag, do man zalt von Cristus geburt vierzehenhundert  
+<lb n="11"/>vierundzwainzig jar</date>. Item aber ain kaufbrief, so anfanng: Wir, die geschwornen zue <placeName ref="lub-places-79">Triesen</placeName>. Und am datto: <date when="1503">fünfzehenhundert und drew jar</date>. Der in sich halt, das sy verkhaufft <persName ref="lub-actors-2470">Steffan Schedler</persName> und <persName ref="lub-actors-2471">Elsa</persName> seiner hausfrawen, ir aigen guet ob dem  
+<lb n="12"/><placeName ref="lub-places-41">Triesnerberg</placeName>, ob dem obern <placeName ref="lub-places-740">Matelin</placeName> und dem <placeName ref="lub-places-773">Ringe</placeName> gelegen, <gap/> zu ainer seiten an des des keüfers guet, obnen zu der anndern in den <placeName ref="lub-places-742">Zug</placeName> in das <placeName ref="lub-places-743">Prünli</placeName>, hinauf in obern marckhstain ob dem <placeName ref="lub-places-774">Ritt Poden</placeName>, zur vierten in den <placeName ref="lub-places-742">Zug</placeName>, aber in den <placeName ref="lub-places-743">Prunen</placeName> und von demselben <placeName ref="lub-places-743">Prun
+<lb break="no" n="13"/>en</placeName> hinab vornnen in den Stain in das <placeName ref="lub-places-177">Gewelble</placeName>, zu der sech<supplied>sten</supplied> <gap/> keüfers gut etc. Mer in ainem kaufbrief, anfanng: <persName ref="lub-actors-2472">Caspar Gasner</persName> und <persName ref="lub-actors-2473">Elsa</persName> sein ehelichs weib, haben verkhaufft <persName ref="lub-actors-2470">Steffan Schedler</persName> und <persName ref="lub-actors-2471">Elsa</persName> seiner ehelichen hausfraw. Und ain datum: <date when="1493-11-20">Mitwochen vor 
+<lb n="14"/>sant Katherina tag nach der geburt Cristi unnsers lieben herrn, vierzehenhundert dreyundneunzig jar</date> etc. Gleichwol noch zwen anndere kaufbrief, darinnen aber khain merere oder sonnderbare zeuckhnus begriffen, weliche kaufbrief in den anstoßen  
+<lb n="15"/>vermögen von unnden hinauff zwischen dem marckhstain, <gap/> und dem <placeName ref="lub-places-177">Stain gewelb</placeName>, biß in die hoche dessen sy sich zu behelffen verhoffen und auch ir aigen gut sein solle, oder doch aber das inen soliches von dem <placeName ref="lub-places-177">Staingewelb</placeName> biß in <placeName ref="lub-places-742">Grossen Zug</placeName> inn <placeName ref="lub-places-743">Prunnen</placeName>,   
+<lb n="16"/>und von dem <placeName ref="lub-places-743">Prunnen</placeName> biß <supplied>hinab</supplied> an ire marckhen bei dem <gap/> und das darunder ligendt ir aigen guet sein und bleiben. Unnd darvon nit getr<gap/>en werden sollen, inmassen dann in der geschwornnen kaufbriefen zur sechsten seitten ge<supplied>pürlich</supplied> <supplied>erfund-</supplied> 
+<lb n="17"/>en werde an ir, der k<supplied>eufer</supplied> guet stossende etc. Die von <placeName ref="lub-places-79">Tri<supplied>es</supplied>en</placeName> aber ir verantwurttung fürgebracht, obschon ire fürgelegte kaufbrief in dem ainen auf den gradt und in dem anndern bis an hochenberg lauttendt, und der drit, den sy von den geschwor
+<lb break="no" n="18"/>nen haben, zur sechstten seiten an der keüfer guet stosende, <gap/>, habe selbiger anstoß disen versta<gap/> und <gap/>, den anstoss unnden hinauf, daselbs stose es an die keüfere. Unnd dann von dem <placeName ref="lub-places-177">Stain gwelb</placeName> bis in das <placeName ref="lub-places-743">Prinnelin</placeName> im waldt im <placeName ref="lub-places-775">Töbeli</placeName>, dar
+<lb break="no" n="19"/>bei kurzverschiner zeit ain trog gestannden. Und von dannen in den marckhstain bei dem <placeName ref="lub-places-776">Onhorn</placeName>, auch <supplied>forthin</supplied> von demselben marckhstain hinab, den marckhstainen nach von ainem in anndern etc. Was darob, das seye der gemaindt zu <placeName ref="lub-places-79">Trisen</placeName> zuegehörig,  
+<lb n="20"/>und was darunder, das seye inen, den im <placeName ref="lub-places-176">Gugger Poden</placeName>, zuegehörig und nit weitter etc. Die im <placeName ref="lub-places-176">Guggerboden</placeName> liesen ungevarlich vorige mainung füertragen und verhoffen bei derselben ansprach zu beleiben, wellen innen auch bei iren straf nichzit schuld
+<lb break="no" n="21"/>ig sein. etc. Unnd wiewol baide partheyen mer red und widerred gegeneinander gebrauchten, ist doch unvonnötten, soliche nach lennge zuerzellen, also nach verhör baider tail genuegsamen fürtrag, auch einnemung des augenscheins habe ich mich <supplied>mit
+<lb n="22"/>sambt</supplied> den zuegesezten aines endtschaidts endtschlossen, solch inen eröffnet und furgehalten, der also laut erstlichen das ire fürgezaigten marckhen von dem <placeName ref="lub-places-177">Stain gewelb</placeName> in das <placeName ref="lub-places-743">Prinnelin</placeName> im waldt, darbei ain prunentrog gestannden und von  
+<lb n="23"/>dannen bis in den marckhstain bei dem <placeName ref="lub-places-776">Onhoren</placeName>, weliches die von <placeName ref="lub-places-79">Trisen</placeName> furgeben und dann so die am <placeName ref="lub-places-176">Gugger Poden</placeName> füerbracht, was zwischen dem <placeName ref="lub-places-177">Stain gwelb</placeName> und dem <placeName ref="lub-places-743">Prunnelin</placeName> im <placeName ref="lub-places-742">Grossen Zug</placeName> biß in die hoche in grat und hinab biß in die marckhn  
+<lb n="24"/><supplied>das irig sei</supplied> hiemit aufgehebt und newe marckhen genendt und gesezt werden sollen. Nemblich von dem <placeName ref="lub-places-177">Stain gewelb</placeName> bei dem <placeName ref="lub-places-778">Vordersten Egg</placeName>, darbei ain marckhstain gesezt, gleich den graden hinüber in nechsten <placeName ref="lub-places-777">Weisen Khopf</placeName>, darbei auch ain marckhstain  
+<lb n="25"/><supplied>gesezt</supplied> <supplied>jezund die</supplied> marckhen sein sollen. Unnd solle also der marckhstain bei dem <placeName ref="lub-places-177">Stain gewelb</placeName> hinüber in den marckhstain beim <placeName ref="lub-places-777">Weisen Kopf</placeName> und von demselben marckhstain beim <placeName ref="lub-places-777">Weisen Kopff</placeName> bis in den marckhstain beim <placeName ref="lub-places-776">Onhoren</placeName> zaigen, von daselbs dannen von  
+<lb n="26"/><supplied>ainem marckhstain</supplied> in anndern, das also was ob den gemelten marckhen gelegen, das solle denen von <placeName ref="lub-places-79">Triesen</placeName>, und was darunder denen im <placeName ref="lub-places-176">Gugger boden</placeName> zuegeherig sein und bleiben. Doch solle denen von <placeName ref="lub-places-79">Trissen</placeName> mit holz, wover sy dern ennden, steeg und weeg bedurfft
+<lb break="no" n="27"/>ig <supplied>wurden</supplied> <supplied>zuegelass</supplied>en und zu rechter ordenlicher zeit zue gebrauchen vorbehalten sein etc. Zum anndern sovil dann die straff, so die von <placeName ref="lub-places-79">Triesen</placeName> von wegen des abgehawnen holz angemueth bedrifft, sollen baide thail selbiges, dieweyl soliches noch verhannden, mit
+<lb break="no" n="28"/><supplied>aindern taillen</supplied> und ieder tail das halb thail zue seinen hannden nemen. Und zum driten sollen die gemelten im <placeName ref="lub-places-176">Gugger boden</placeName>, solich ir holz zu irer notturfft nuzen und brauchen, aber doch söliches nit ausser der herrschafft verkhauffen inn khain weiß noch 
+<lb n="29"/><supplied>weg</supplied>. Es solle <supplied>auch fürnemblich</supplied> der kaufbrief, so mit ainem anstoß in gradt und dann der ander kaufbrief, so mit ainem anstoß an hochen berg lauttet, sovil dieselbige ansteß betreffendt, todt und ab sein und hinfurter nichzit mer gelten in khain weiß noch weeg  
+<lb n="30"/><supplied>und hiemit aller irer spenn</supplied> verglichen und verainberdt sein und bleiben etc. Nacheröffnung dises spruchs haben sy denselben zu baiden tailen zu freundtlichem dannckh angenomen. Darneben auch mit mund und hanndt zuegesagt und verspr<supplied>ochen</supplied>, den<supplied>selben</supplied>  
+<lb n="31"/><supplied>vor</supplied> vest, steet und un<supplied>verbruch</supplied>lich zu halten. Darwider nit zuthuen noch schaffen gethan werde, alles getrewlich und ungevorlich. Demnach paten und begerten die von <placeName ref="lub-places-79">Trisen</placeName> inen hierumben brief und sigl mitzethailen, die ich inen auf ir pit<supplied>en zu geben be-</supplied> 
+<lb n="32"/>willigt hab. Da<supplied>rauf ich dis</supplied>en brief verferttigen lassen und zu gueter zeuckhnus und warem urkhundt solichen mit meinem innsigl besiglt (doch mir, auch den beisessen und allen unsern erben und nachkhomen, in allweg one schaden) offenlich ge
+<lb break="no" n="33"/>henckht an disen brieff. Der geben ist, den <origDate>zehenden tag juni im fünfzehenhundert dreyundsibennzigisten jhars</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2421" n="1"/><lb n="1"/>und das ussert die  
+<lb n="2"/>herrschafft von bergleüten der holz uß  
+<lb n="3"/>ihrem <placeName ref="lub-places-779">Güggerboden Wald</placeName> nit sol  
+<lb n="4"/>verkhaufft werden. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

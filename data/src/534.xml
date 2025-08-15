@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-534">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abt und Konvent des Klosters St. Luzi in Chur verleihen Sebastian Kindle und Hans Gantner die Kapelle St. Maria in Triesen und die dazugehörenden Güter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-719">LI-LA, U 65</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. fehlt, 2. aufgedrückt</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-534">LI-GAT, U 42</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1121">LI-PfABe A 27/12</ref> (<orgName key="li-pfabe" ref="lub-objects-599">Pfarrarchiv Bendern</orgName>) / Originaldatierung: 11. November 1610 / Beschreibstoff: Papier, 7 Seiten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902) S. 26.</bibl>
+          <bibl>Gurt, Claudius: Edition in <ref target="http://www.e-archiv.li/D42443">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abt Simon, zugleich Pfarrer von Bendern, und der Konvent des Klosters St. Luzi in Chur geben den beiden Triesnern Sebastian Kindli und Hans Gantner die zur Kapelle St. Maria in Triesen gehörenden, im Dorf gelegenen  Güter mit samt dieser Kapelle und die beiden darunter liegenden Keller gegen einen jährlichen Zins von 6 Pfund Pfennig weniger 3 Pfennig zu Lehen unter Vorbehalt eines um 4 Pfund gegenüber anderen Käufern billiger liegenden Vorkaufsrechts.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-336">Maurer, Simon</persName>
+          <date when="1610-11-11">11. Nov 1610</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1610-11-11">11. Nov 1610</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_65-0001.jpg" xml:id="lub-media-1495" source="u-65-r-600ppi.jpg" corresp="A1"/>
+    <graphic url="li-la,_u_65-0002.jpg" xml:id="lub-media-1496" source="u-65-v-600ppi.jpg" corresp="A1"/>
+    <graphic url="li-gat__u_42-0002.jpg" xml:id="lub-media-2427" source="gat-u-042-v.jpg" corresp="A2"/>
+    <graphic url="li-gat__u_42-0002.jpg" xml:id="lub-media-2428" source="gat-u-042-r-klein.jpg" corresp="A2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2428" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-336">Simon</persName>, abte deß würdigen gottßhauß zue <orgName ref="lub-actors-337">Sanct Luzi</orgName> und gemeiner conven<supplied>ts</supplied> <supplied>pr</supplied>aemonstrator ordens nach ob der statt <placeName ref="lub-places-102">Chuer</placeName> gelegen,  
+<lb n="2"/>und der zeit pharrherr zue <placeName ref="lub-places-36">Bendern</placeName>, thuen khundt allermenigelichen mit disem offnen brieffe, für unnß und unnsere nachkommen, daß wir auf heut undter dato geschriben zue ainen  
+<lb n="3"/>rechten leyberblehen und nachleyberblehens recht, aufrecht und redlich gelihen haben, und thuendt auch das wissentlich <supplied>in</supplied> crafft und urkhundt dits briefs, den beschaidnen <persName ref="lub-actors-338">Sebastian  
+<lb n="4"/>Khindlin</persName> und <persName ref="lub-actors-339">Hans Gantnern</persName>, baid zue <placeName ref="lub-places-79">Thrysen</placeName> allß lehenträger <placeName ref="lub-places-183">Unnser Lieben Frawen Cappel</placeName> und derselben zuegehörigen guettern sambt ierer mitverwantten. Und leihen allso  
+<lb n="5"/>hiemit für unnß, allen unnsern nachkhomen, den bemelten lehenträgern sambt iren mittverwanten, angeregte <placeName ref="lub-places-183">Unnser Lieben Frawen</placeName> nachgeschribne stuckhe und unsers gottß
+<lb break="no" n="6"/>haus aigne güetter, alle in <placeName ref="lub-places-79">Thryßner</placeName> kilchspel gelegen im dorff daselbs, allen ihren leiberben und nachkhommen. Namblichen und zum ersten das gueth, so ringweyß umb 
+<lb n="7"/>die <placeName ref="lub-places-183">Cappel</placeName> gelegen, sambt der <placeName ref="lub-places-183">Cappel</placeName>, zwayen kellern, darundter auch hauß und hof, hoffstatth, stadl und torggl, alleß anainendern in ainem einfang, stosst gegen dem perg  
+<lb n="8"/>an aman <persName ref="lub-actors-286">Ynntl Paulin</persName> und <persName ref="lub-actors-1015">Geörg Kressen</persName> weingahrten, abwertß dem landnach an den <placeName ref="lub-places-410">Dorffbach</placeName>, aufwerts dem landnach an <persName ref="lub-actors-1016">Maria Niggin</persName> lehen guet und <persName ref="lub-actors-1017">Anna Varlingin</persName> aigen  
+<lb n="9"/>gueth, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an aman <persName ref="lub-actors-286">Yntl Paulinß</persName> lehen und <persName ref="lub-actors-1049">Geörg Khindlinß</persName> aigen gueth. Ittem ainen paumgarten under <placeName ref="lub-places-183">Unnßer Lieben Frawen Cappell</placeName> gelegen, stost gegen dem  
+<lb n="10"/>perg an <persName ref="lub-actors-1018">Hanß Rygen</persName> seelig erben, aufwertß dem landnach an <persName ref="lub-actors-1019">Petter Rygen</persName> und <persName ref="lub-actors-339">Hanß Ganttner</persName>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an aman <persName ref="lub-actors-286">Yntl Paulin</persName>, abwert dem landnach an <persName ref="lub-actors-1049">Geörg Kindlin</persName>.  
+<lb n="11"/>Ittem ain stuckh gueth ob <placeName ref="lub-places-411">Rungels</placeName> gelegen, daruf jezinger zeit ain stampf steht, stost gegen dem perg an <placeName ref="lub-places-412">Mülbach</placeName>, aufwerts dem landnach und gegen dem <placeName ref="lub-places-103">Ryn</placeName> an ain haimgass,  
+<lb n="12"/>abwert dem landnach an <persName ref="lub-actors-796">Hannß Sennen</persName> hauß und hoffstatt, und an <persName ref="lub-actors-550">Geörg Eberlins</persName> weingartten. Ittem ain ackher zue <placeName ref="lub-places-216">Tryßner Veldt</placeName> gelegen, stosst gegen dem perg an <persName ref="lub-actors-1022">Ulrich Thöniß</persName> lehen
+<lb break="no" n="13"/>ackher, aufwerth dem landnach an <persName ref="lub-actors-1029">Lenz Banzers</persName> lehenackher, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an die <placeName ref="lub-places-345">Lanndtstrass</placeName>, abwert dem landnach an <persName ref="lub-actors-1021">Geörg Wolffen</persName> selig und <persName ref="lub-actors-1018">Hanß Rygen</persName> selig erben. Ittem 
+<lb n="14"/>ain akcher bey der <placeName ref="lub-places-413">Alten Arghurdt</placeName> gelegen, stosst gegen dem perg an <persName ref="lub-actors-1022">Ulin Tönis</persName> lehenackher, aufwert an <persName ref="lub-actors-1027">Jacob Khindlinß</persName> weybs guet, <persName ref="lub-actors-1023">Greta Lampartin</persName>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an die <placeName ref="lub-places-345">Landtstras</placeName>, ab
+<lb break="no" n="15"/>wert dem landnach an <persName ref="lub-actors-1024">Steffan Banzers</persName> lehen ackher. Ittem ain ackher in <placeName ref="lub-places-414">Resch</placeName> gelegen, stosst gegen dem perg an <persName ref="lub-actors-1025">Florin Niggen</persName>, aufwert dem landnach an <persName ref="lub-actors-1026">Georg Gaßners</persName>, <supplied>gegen dem</supplied> <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-320">Jacob Rygen</persName> selig erben, 
+<lb n="16"/>abwertß dem landnach an <persName ref="lub-actors-339">Hanß Ganttnern</persName>. Ittem ain stückhlin gueth, gena<supplied>n</supplied>t das hinder <placeName ref="lub-places-415">Gapont</placeName>, stost gegen dem perg an aman <persName ref="lub-actors-286">Yntl Paulin</persName> und jung <persName ref="lub-actors-1034">Hanß Schurttin</persName>, aufwert <supplied>dem</supplied> landnach aber an aman <persName ref="lub-actors-286">Paulin</persName>, gegen dem  
+<lb n="17"/>
+                    <placeName ref="lub-places-103">Ryn</placeName> an obgedachts <persName ref="lub-actors-1027">Jacob Kindlinß</persName> weibs und <persName ref="lub-actors-1017">Anna Varlingin</persName> güetter, abwerts an <persName ref="lub-actors-1018">Hanß Rygen</persName> selig kinder lehengüetter. Ittem ain stuckhe guet, genant daß usser <placeName ref="lub-places-415">Gapont</placeName>, stost gegen dem perg an aman <persName ref="lub-actors-286">Intl Paulin</persName>,  
+<lb n="18"/>aufwert dem landnach an ain haimgassen, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an die <placeName ref="lub-places-345">Landtstraß</placeName>, abwert dem landnach an <persName ref="lub-actors-1019">Petter Rygen</persName> und <persName ref="lub-actors-1023">Greta Lampartin</persName>. Ittem ain stuckh im <placeName ref="lub-places-216">Veldt</placeName> gelegen, stost gegen dem perg an <persName ref="lub-actors-1028">Debus  
+<lb n="19"/>Khindlin</persName>, aufwert dem landnach an <persName ref="lub-actors-339">Hanß Ganttner</persName> und <persName ref="lub-actors-1019">Petter Rygen</persName> lehengüeter, gegem dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1029">Lenz Banzer</persName>, und abwert dem landnach an <persName ref="lub-actors-1028">Debus Kindlin</persName>. Mer ain stuckhe im <placeName ref="lub-places-216">Trißner Veldt</placeName>, stost gegen  
+<lb n="20"/>dem perg an <persName ref="lub-actors-1030">Styna Khindlin</persName>, aufwert dem landnach an <persName ref="lub-actors-1031">Galle Rygen</persName> erben, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an amman <persName ref="lub-actors-286">Yntl Paulin</persName>, abwerts dem landnach an das <placeName ref="lub-places-416">Bechlin</placeName>. Mer ain stuckh daselbst im <placeName ref="lub-places-216">Trißner Veldt</placeName>, stost gegen  
+<lb n="21"/>dem perg an aman <persName ref="lub-actors-286">Yntl Paulin</persName> und <persName ref="lub-actors-2440">Hanßle Rygen</persName>, aufwerts an <persName ref="lub-actors-1049">Gerg Khindlin</persName>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1031">Galle Rygen</persName> selig erben, abwerts dem landnach an <persName ref="lub-actors-1030">Stina Khindlin</persName>. Ittem aber ain stuckh daselbsten  
+<lb n="22"/>im <placeName ref="lub-places-216">Feldt</placeName> gelegen, stosst gegen dem perg an <persName ref="lub-actors-339">Hanß Ganttner</persName>, aufwerts dem landtnach an das <placeName ref="lub-places-416">Bächlin</placeName>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1331">Luzi Schurttis</persName> weybs gueth <persName ref="lub-actors-1033">Barbara Bargezin</persName>, abwerts dem landtnach an alten  
+<lb n="23"/>
+                    <persName ref="lub-actors-323">Hans Schurtin</persName>. Ittem ain pündt bi <placeName ref="lub-places-417">Fescha gass</placeName>, stosst gegen dem perg an <persName ref="lub-actors-1035">Wolff Bargezi</persName>, aufwerth dem landnach an <persName ref="lub-actors-1028">Debus Khindlin</persName>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1174">Fridli Niggen</persName> lehen ackher, abwerts dem landtnach  
+<lb n="24"/>an ain haimgassen. Ittem aber ain pündt bey der <placeName ref="lub-places-417">Feschen gass</placeName>, stost gegen dem perg an <persName ref="lub-actors-1016">Maria Niggin</persName>, aufwerts dem landnach an <persName ref="lub-actors-1028">Debus Khindlin</persName>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an die <placeName ref="lub-places-345">Landstras</placeName>, abwert dem landtnach an  
+<lb n="25"/>ain haimgasse. Ittem ain ackher bey <placeName ref="lub-places-413">Arg</placeName> im <placeName ref="lub-places-216">Tryßner Veldt</placeName> gelegen, stost gegen dem perg an <persName ref="lub-actors-1028">Debus</persName> und <persName ref="lub-actors-1027">Jacob</persName> die Khindlin, aufwerts dem landnach an <persName ref="lub-actors-1036">Frydle Maroggen</persName> erben, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1024">Steffan Banzers</persName>  
+<lb n="26"/>erben lehengueth, abwerts dem landnach an <supplied>Geörg Kündlin</supplied> und alten <supplied>Hans Schurtin</supplied>. Ittem ain ackher, das <placeName ref="lub-places-418">Reeberlin</placeName> genant, im <placeName ref="lub-places-216">Tryßner Veldt</placeName> gelegen, stost gegen dem perg an <persName ref="lub-actors-1037">Jacob Bargezin</persName>, aufwerth  
+<lb n="27"/>dem landnach an <persName ref="lub-actors-1038">Andreaß Lampart</persName> <supplied>und</supplied> <supplied><persName ref="lub-actors-1039">Jacob Frommelt</persName></supplied> <supplied><persName ref="lub-actors-1030">, gegen dem</persName></supplied> <placeName ref="lub-places-103">Ryn</placeName> an <supplied><persName ref="lub-actors-1030">Stina Khindlinen</persName></supplied>, abwert dem landnach an <persName ref="lub-actors-1040">Debus Khindl</persName>in. Ittem ain ackher bey dem <placeName ref="lub-places-416">Bächlin</placeName> gelegen, stost gegen dem perg an <persName ref="lub-actors-1056">Ule  
+<lb n="28"/>Rygen</persName> selig erben, aufwerth dem landnach an das <supplied><placeName ref="lub-places-416">Bechlin</placeName></supplied>, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <supplied><persName ref="lub-actors-1040">Jacob Welzen</persName></supplied> weybs gueth <persName ref="lub-actors-2441">Stina Gaheynin</persName>, abwerts dem landnach an <persName ref="lub-actors-1042">Anna Rygin</persName> und <persName ref="lub-actors-1043">Andreas Hyzen</persName> erben. Ittem ain ackher, in der  
+<lb n="29"/>
+                    <placeName ref="lub-places-419">Hellenbarten</placeName> genannt, stost gegen dem perg an <persName ref="lub-actors-1044">Hanß Maroggen</persName> <supplied>selig erben lehen gueth</supplied>, aufwert dem landnach an <persName ref="lub-actors-1019">Petter Rygen</persName> kinder, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1028">Debus Kindlin</persName>, abwert dem landnach an <persName ref="lub-actors-1016">Maria Niggin</persName>  
+<lb n="30"/>erben lehen guet. Ittem mehr ain stuckhe guet in der <placeName ref="lub-places-419">Hellenbartt<supplied>en</supplied>
+                    </placeName> <supplied>gelegen</supplied>, stosst gegen dem perg an <persName ref="lub-actors-1045">Gretta Berttschin</persName> erben lehen guet, aufwert dem landnach an <persName ref="lub-actors-763">Paulin Kindlins</persName> erben, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-339">Hans  
+<lb n="31"/>Ganttners</persName> lehen guet, abwert dem landnach an <persName ref="lub-actors-1028">Debus Kindlin</persName>. <supplied>Ittem</supplied> ain ackher, genant <supplied>under</supplied> des <placeName ref="lub-places-420">Enderlis Weingartten</placeName>, stosst gegen dem perg und dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1028">Debas Kindlin</persName>, aufwert dem landnach an <persName ref="lub-actors-364">Petter  
+<lb n="32"/>Lamparth</persName>, abwert dem landnach an <supplied><persName ref="lub-actors-339">Hanß Ganttner</persName></supplied>. Ittem <supplied>mehr</supplied> ain stuckh, genant in der <placeName ref="lub-places-419">Hellenbarten</placeName>, stosst gegen perg und abwert dem landnach an <persName ref="lub-actors-1028">Debus Kindlin</persName>, aufwert dem landnach an <persName ref="lub-actors-763">Paulin Kindlins</persName>  
+          <lb n="33"/>erben, gegen dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1044">Hanß Maroggen</persName> erben lehengut. Ittem ain <supplied>a</supplied>ckher, der <placeName ref="lub-places-421">Groß Lehen Ackher</placeName> genant, stost gegen dem perg an <persName ref="lub-actors-1046">Thrina Töninin</persName>, aufwert dem landnach an das <placeName ref="lub-places-416">Bächlin</placeName>, gegen den <placeName ref="lub-places-103">Ryn</placeName> ahn  
+<lb n="34"/>
+                    <supplied>Jacob Bargezi</supplied> und <persName ref="lub-actors-1043">Andreas Hyzen</persName> erben lehen güetter, <supplied>abwerts an</supplied> <supplied>Georg Kindlins</supplied> selig erben. Ittem ain ackherle in <placeName ref="lub-places-684">Tryßner Veldt</placeName> gelegen, stost gegen dem perg an <persName ref="lub-actors-1043">Andreas Hizen</persName> erben lehen guet,  
+          <lb n="35"/>aufwarts an <persName ref="lub-actors-1037">Jacob Bargezis</persName> erben lehen guet, gegen den <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-339">Hanß Ganttner</persName>, abwert dem landnach an alten <persName ref="lub-actors-357">Hans Negelli</persName>. Ittem ain ackher ab <placeName ref="lub-places-413">Arg</placeName> gelegen, stost gegem perg an <persName ref="lub-actors-1044">Hanß Maroggen</persName>, auf
+          <lb break="no" n="36"/>wert an <persName ref="lub-actors-1048">Caspar Niggen</persName> weybs guet, gegen <supplied>dem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1027">Jacob</persName>
+                    </supplied> und <persName ref="lub-actors-1028">Debus Kindlin</persName>, <supplied>ab</supplied>wert <supplied>dem landnach an</supplied> <supplied><persName ref="lub-actors-1031">Galle Rygen</persName></supplied>. Ittem ain äckherlin zwischen <persName ref="lub-actors-1056">Ulin Rygen</persName> selig lehen ackher im <placeName ref="lub-places-216">Trysner Veldt</placeName> gelegen, 
+<lb n="37"/>stost gegen dem perg an <persName ref="lub-actors-1056">Ule Rygen</persName> erben lehen <supplied>guet, auf</supplied>werts dem landnach an <persName ref="lub-actors-1037">Jacob Bargezes</persName> erben lehen guet, gegem <placeName ref="lub-places-103">Ryn</placeName> an <persName ref="lub-actors-1042">Anna Rygin</persName> lehen guet, abwert dem landnach an alten <persName ref="lub-actors-357">Hans Negelin</persName>,  
+<lb n="38"/>mit grundt, gradt, wun, waydt, <supplied>steg, weg und</supplied> alle<supplied>ntlich</supplied> mit allen ihren rechten und zuegehördten, allso und mit sollichem geding, das sy, die obgemelten lehenträger, für sich selbst und iren mit verwandten,  
+<lb n="39"/>allen ihren leybserben und nachkomben, <supplied>ehegemelte guetter nun hinfüro</supplied> zu rechtem leyb erblehen brauchen, nuzen, niessen, phlanzen, pawen und in weßenliche ehren halten und in allweg vor abgang zuverhüetten  
+<lb n="40"/>und insonderß <supplied>d</supplied>amit handlen und <supplied>thuen sollen, alß mit jedem lyb erble</supplied>hen und nach erblehens recht, doch alleß mit unß und unnsern nachkommen äbte, alß ires lehenherrens bewilligung. Darumben so sollen sy,  
+<lb n="41"/>die lehenträger für sich und ire mitverwantten, <supplied>auch derselb</supplied>igen aller leyberben und nachkomen, alle jar <date when="--11-11">uff sanct Martins des hayligen bischoffs tag</date>, acht tag vor oder nach ungevar, unnß und unsern nachkommen  
+<lb n="42"/>sechß phundt weniger <supplied>drey</supplied> phening costanzer munz, <supplied>veldtkircher</supplied> werung, <supplied>gen</supplied> <placeName ref="lub-places-36">Bendern</placeName> zue andtwurten und zu bezahlen schuldig sein, ohne unsern costen. Und dagemelte lehenträger ald ire mitverwanten, auch der
+<lb break="no" n="43"/>selbigen aller leyberben und nachkomen mitlerweylen ernambte lehenst<supplied>uckh</supplied>, ains oder mehr nit in wessenlichen ehren erhielten, auch daß kainß versezen, verkauffen, verendern, zertaylen noch darvon komen lassen 
+<lb n="44"/>sollen in kain weyß noch weg, oder ohne unnser, deß lehenherrn, gunsten, wissen und willen beschweren wolten, als gleichfalß ernenter lehenzinß in massen vorsteth, nicht gericht und erlegt wurde etc. Ittem wann  
+<lb n="45"/>sy auch uber kurz oder lang zeit ihre recht und grechtig<supplied>keitten da</supplied>ran verleihen, versezen, ald verkauffen wolten, allß dann sollen sy, die unnß und unsern nachkommen zuvor anbietten und kundt thuen, auch  
+<lb n="46"/>vier phundt phening obvermelter werung <gap/>eher lassen und geben dann jemandt anderen. Wolten aber wir alld unsere nachkommen solliche güetter nit, so mügen sy die in vier wuchen den negsten nach irem anbieten,  
+<lb n="47"/>die dannenthin ire recht samenthaftt verkauffen wem sy wollen, doch unß, unßern nachkomen an allen unsern zinsen, zinsfellen, rechten und gerechtigkeiten ohne schaden. Und wo sy der stuckhe ainß oder  
+<lb n="48"/>mehr nit hielten, so soll und ist ersternente lehengüetter unß und unsern nachkomen, allß ihrem lehenherrn allenclich haimbgefallen nach leiberblehens recht, wellche wir allßdann nach unserm gefallen verner  
+<lb n="49"/>verleihen mögen etc. Zue urkundt und vesten sicherheit, so haben wir, vorgenanter abt <persName ref="lub-actors-336">Simon</persName>, unser abtey und gemainer convent insigl für unß und all unßer nachkommen deß gottßhauß <orgName ref="lub-actors-337">Sant Luzi</orgName>  
+<lb n="50"/>offentlich gehenckht an dißen brief. Der geben ist, do man <origDate>nach Cristus unßers lieben herrn und selligmachers geburth gezelt sechzehenhundert und zehen jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2427" n="1"/><lb n="1"/>Lehenbrieve 
+<lb n="2"/>Denn erbarn <persName ref="lub-actors-338">Sebastian Kindlin</persName> und <persName ref="lub-actors-339">Hanß  
+<lb n="3"/>Ganttnern</persName> zue <placeName ref="lub-places-79">Trisen</placeName>, allß lehentragern  
+<lb n="4"/>von <placeName ref="lub-places-183">Unser Frawen Cappele</placeName> daselbsten und  
+<lb n="5"/>derselben umbligendten güettern etc. sambt ihren  
+<lb n="6"/>mittverwandten. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

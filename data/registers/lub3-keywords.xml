@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-06-20 17:43:16 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-08-15 17:24:53 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-06-20T17:43:16+02:00">teiHeader was automatically produced from the database 2025-06-20T17:43:16+02:00</change>
+      <change when="2025-08-15T17:24:53+02:00">teiHeader was automatically produced from the database 2025-08-15T17:24:53+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -100,6 +100,12 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Ehevertrag</label>
           <label xml:lang="de" type="sort">ehevertrag</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-12">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Mitgift</label>
+          <label xml:lang="de" type="sort">mitgift</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-13">
@@ -338,6 +344,15 @@
           <label xml:lang="de" type="main">Verpflegung</label>
           <label xml:lang="de" type="sort">verpflegung</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-112">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">passbrief</label>
+          <label xml:lang="de" type="sort">passbrief</label>
+          <note type="description" xml:lang="de">
+            <p><note type="editorial">Reise</note>Pass, Passierschein, Ausweis</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-121">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -733,6 +748,12 @@
           <label xml:lang="de" type="sort">rente</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-252">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Fähre</label>
+          <label xml:lang="de" type="sort">faehre</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-253">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Holz</label>
@@ -743,6 +764,18 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Transport</label>
           <label xml:lang="de" type="sort">transport</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-255">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Wegrecht</label>
+          <label xml:lang="de" type="sort">wegrecht</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-256">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Tränke</label>
+          <label xml:lang="de" type="sort">traenke</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-258">
@@ -1039,6 +1072,12 @@
           <label xml:lang="de" type="sort">feuer</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-324">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Fischerei</label>
+          <label xml:lang="de" type="sort">fischerei</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-325">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Gefängnis</label>
@@ -1302,7 +1341,9 @@
           <label xml:lang="de" type="main">sant Martins tag</label>
           <label xml:lang="de" type="sort">sant martins tag</label>
           <note type="description" xml:lang="de">
-            <p>11. November. Beliebter Termin für Abgaben, besonders für Lehen-, Pacht- und Schuldzinsen.</p>
+            <list type="ordered">
+              <item>November. Beliebter Termin für Abgaben, besonders für Lehen-, Pacht- und Schuldzinsen.</item>
+            </list>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
@@ -1311,7 +1352,7 @@
           <label xml:lang="de" type="main">mannsspanne</label>
           <label xml:lang="de" type="sort">mannsspanne</label>
           <note type="description" xml:lang="de">
-            <p>Längenmass (Spannweite einer Männerhand).</p>
+            <p>Längenmass <note type="editorial">Spannweite einer Männerhand</note>.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1372,8 +1413,8 @@
         </item>
         <item xml:id="lub-keywords-371">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">federschnur</label>
-          <label xml:lang="de" type="sort">federschnur</label>
+          <label xml:lang="de" type="main">federschnur; schnuor</label>
+          <label xml:lang="de" type="sort">federschnur; schnuor</label>
           <note type="description" xml:lang="de">
             <p>Angelschnur, Fischereigerät</p>
           </note>
@@ -1483,7 +1524,7 @@
           <label xml:lang="de" type="main">garnrichte</label>
           <label xml:lang="de" type="sort">garnrichte</label>
           <note type="description" xml:lang="de">
-            <p>Ort, wo Netzfallen (für Tiere) aufgestellt sind.</p>
+            <p>Ort, wo Netzfallen <note type="editorial">für Tiere</note> aufgestellt sind.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1515,7 +1556,7 @@
           <label xml:lang="de" type="main">käner</label>
           <label xml:lang="de" type="sort">kaener</label>
           <note type="description" xml:lang="de">
-            <p>Wasserleitungsrinne; rinnenförmige Bodensenkung (im Gebirge)</p>
+            <p>Wasserleitungsrinne; rinnenförmige Bodensenkung <note type="editorial">im Gebirge</note></p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1598,7 +1639,7 @@
           <label xml:lang="de" type="main">treien</label>
           <label xml:lang="de" type="sort">treien</label>
           <note type="description" xml:lang="de">
-            <p>Fussweg (im Gebirge), Viehweg.</p>
+            <p>Fussweg <note type="editorial">im Gebirge</note>, Viehweg.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1630,7 +1671,7 @@
           <label xml:lang="de" type="main">hauptvieh</label>
           <label xml:lang="de" type="sort">hauptvieh</label>
           <note type="description" xml:lang="de">
-            <p>Ausgewachsenes Stück (Rind)Vieh.</p>
+            <p>Ausgewachsenes Stück <note type="editorial">Rind</note>Vieh.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1694,11 +1735,26 @@
           </note>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-394">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Wallfahrt</label>
+          <label xml:lang="de" type="sort">wallfahrt</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-395">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Kirchenbau</label>
           <label xml:lang="de" type="sort">kirchenbau</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-396">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">articuli elisivi</label>
+          <label xml:lang="de" type="sort">articuli elisivi</label>
+          <note type="description" xml:lang="de">
+            <p>Beweismittel des Klägers gegen die Einreden des Beklagten.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-397">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -1748,10 +1804,26 @@
             </listBibl>
           </note>
         </item>
+        <item xml:id="lub-keywords-400">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">alber</label>
+          <label xml:lang="de" type="sort">alber</label>
+          <note type="description" xml:lang="de">
+            <p>Pappel</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id1.htm#!page/10185/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
         <item xml:id="lub-keywords-404">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">strichwuer</label>
-          <label xml:lang="de" type="sort">strichwuer</label>
+          <label xml:lang="de" type="main">strich(wuer)</label>
+          <label xml:lang="de" type="sort">strich(wuer)</label>
           <note type="description" xml:lang="de">
             <p>Parallel zur Fliessrichtung erbauter Damm.</p>
           </note>
@@ -1921,7 +1993,7 @@
           <label xml:lang="de" type="main">anfall</label>
           <label xml:lang="de" type="sort">anfall</label>
           <note type="description" xml:lang="de">
-            <p>Eintreten (einer Erbschaft) als Rechtsvorgang; Erbteil; Erbanspruch.</p>
+            <p>Eintreten <note type="editorial">einer Erbschaft</note> als Rechtsvorgang; Erbteil; Erbanspruch.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1992,7 +2064,7 @@
           <label xml:lang="de" type="main">Spiess</label>
           <label xml:lang="de" type="sort">spiess</label>
           <note type="description" xml:lang="de">
-            <p>Ein Spiess (auch Pike von französisch piquer ‚stechen‘) ist eine historische Stichwaffe zu Jagd- und Kriegszwecken, die im Unterschied zum Speer oder Wurfspieß nicht geworfen wird. Synonym wird oft das Wort Lanze verwendet, das jedoch eigentlich den Spieß des Reiters bezeichnet.</p>
+            <p>Ein Spiess <note type="editorial">auch Pike von französisch piquer ‚stechen‘</note> ist eine historische Stichwaffe zu Jagd- und Kriegszwecken, die im Unterschied zum Speer oder Wurfspieß nicht geworfen wird. Synonym wird oft das Wort Lanze verwendet, das jedoch eigentlich den Spieß des Reiters bezeichnet.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2008,7 +2080,7 @@
           <label xml:lang="de" type="main">Hellebarde</label>
           <label xml:lang="de" type="sort">hellebarde</label>
           <note type="description" xml:lang="de">
-            <p>Die Hellebarde oder auch Helmbarte ist eine Mischform von Hieb- und Stichwaffe, die die Mannstoppwirkung eines Spießes mit der panzerbrechenden Wirkung der Axt kombinierte. Sie gehört zu den Stangenwaffen des Fußvolks und wurde vorwiegend vom 14. bis zum 16. Jahrhundert verwendet.</p>
+            <p>Die Hellebarde oder auch Helmbarte ist eine Mischform von Hieb- und Stichwaffe, die die Mannstoppwirkung eines Spießes mit der panzerbrechenden Wirkung der Axt kombinierte. Sie gehört zu den Stangenwaffen des Fußvolks und wurde vorwiegend vom 14. bis zum 16. Jahrhundert verwendet.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2033,7 +2105,7 @@
           <label xml:lang="de" type="main">Hakenbüchse</label>
           <label xml:lang="de" type="sort">hakenbuechse</label>
           <note type="description" xml:lang="de">
-            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern[1] (nach anderen Angaben bis zu 25 Millimeter).</p>
+            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern<supplied>1</supplied> <note type="editorial">nach anderen Angaben bis zu 25 Millimeter</note>.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2245,7 +2317,7 @@
           <label xml:lang="de" type="main">werklafter</label>
           <label xml:lang="de" type="sort">werklafter</label>
           <note type="description" xml:lang="de">
-            <p>Amtlich bestimmtes Klafter. Das Klafter diente als Längen-, Flächen- und Raummass. Als Längenmass entsprach das Klafter 6 Fuss (bzw. Schuh).</p>
+            <p>Amtlich bestimmtes Klafter. Das Klafter diente als Längen-, Flächen- und Raummass. Als Längenmass entsprach das Klafter 6 Fuss <note type="editorial">bzw. Schuh</note>.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2304,6 +2376,84 @@
               <bibl>Krünitz, Bd. 81, S. 248.</bibl>
             </listBibl>
           </note>
+        </item>
+        <item xml:id="lub-keywords-449">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Ulme</label>
+          <label xml:lang="de" type="sort">ulme</label>
+          <note type="description" xml:lang="de">
+            <p>Baum</p>
+          </note>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-450">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Neubruch (Noval)</label>
+          <label xml:lang="de" type="sort">neubruch (noval)</label>
+          <note type="description" xml:lang="de">
+            <p>Zehnt auf Neuland</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+        </item>
+        <item xml:id="lub-keywords-451">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Auen</label>
+          <label xml:lang="de" type="sort">auen</label>
+          <note type="description" xml:lang="de">
+            <p>Mit Gehölz bewachsene Gebiete entlang von Fliessgewässern, die regelmässig überflutet werden.</p>
+          </note>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://historisches-lexikon.li/Auen">HLFL</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-452">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">gerhabe</label>
+          <label xml:lang="de" type="sort">gerhabe</label>
+          <note type="description" xml:lang="de">
+            <p>Vormund, Pfleger</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=gerhabe">DRW</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-453">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">ber</label>
+          <label xml:lang="de" type="sort">ber</label>
+          <note type="description" xml:lang="de">
+            <p>Fischernetz</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&amp;term=ber">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id4.htm#!page/41453/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-455">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Stückli (Kanone)</label>
+          <label xml:lang="de" type="sort">stueckli (kanone)</label>
+          <note type="description" xml:lang="de">
+            <p>Bezeichnung für eine kleine oder leichte fahrbare Kanone.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
       </list>
       <p/>

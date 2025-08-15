@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-535">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Wuhrstreit zwischen Triesen und Sevelen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-535">LI-GAT, U49</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 16. Mai 1562 / Beschreibstoff: Pergament / Siegel: 4 Siegel, 3 gut erhalten, 1 beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: LI-LA, RA 41/8 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: LI-GAT, Urkundenbuch, S. 140-152 (<orgName corresp="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Entstehungszeit: um 1800</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Büchel, Pfarrei Triesen. In: JBL 2 (1902), S. 201ff.</bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften. In: JBL 8 (1908) Nr. 47, S. 117.</bibl>
+          <bibl>Gurt, Claudius: Edition in <ref target="http://www.e-archiv.li/D42361">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Späth, kaiserlicher Rat und Hauptmann in Konstanz, und Hans Schnabel von Schönstein als Zugesetzte von Graf Alwig IX. von Sulz sowie Bernhard von Cham, alt Burgermeister von Zürich, und Kaspar Rothmund, alt Ammann von Rorschach, als Vertreter von Landammann und Rat von Glarus, entscheiden die Steitigkeiten zwischen Triesen und Sevelen um Wuhrbauten im Rhein, nachdem Alwig von Sulz sowie Aegidius Tschudi  und Paulus Schuler, beide Glarner alt Landammänner, die jeweiligen Standpunkte vorgebracht haben. Bei künftigen Streitigkeiten sollen der Graf oder seine Untertanen in der Grafschaft Vaduz, wenn sie Kläger sind, einen Kleinrat aus einem der eidgenössischen Orte Zürich, Luzern, Uri oder Schwyz als Obmann wählen. Falls Glarus oder seine Untertanen in der Grafschaft Werdenberg Kläger sind, sollen sie einen Kleinrat aus einer der Städte Konstanz, Radolfzell, Feldkirch oder Bregenz als Obmann wählen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-340">Speth, Georg</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1562-05-16">16. Mai 1562</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-94">Schnabel von Schönstein, Hans</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1562-05-16">16. Mai 1562</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-341">Cham, Bernhard von</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1562-05-16">16. Mai 1562</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-342">Rothmund, Kaspar</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1562-05-16">16. Mai 1562</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_49-0002.jpg" xml:id="lub-media-2429" source="gat-u-049-v-klein.jpg" corresp="A1"/>
+    <graphic url="li-gat__u_49-0002.jpg" xml:id="lub-media-2430" source="gat-u-049-r-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2430" n="1"/><lb n="1"/>Wir nachbenannten, <persName ref="lub-actors-340">Georg Späth</persName>, rhömischer khaiserlicher mayeustet etc. rath unnd hauptman zu <placeName ref="lub-places-101">Cosstennz</placeName>, <persName ref="lub-actors-94">Hanns Schnabel von Rhönstain</persName>, als gesezte des wolgebornnen herrn <persName ref="lub-actors-9">Alwigen grave zu Sulz</persName>, landtgrave  
+<lb n="2"/>in <placeName ref="lub-places-18">Cleggew</placeName> herr zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Pluomenegg</placeName> etc., unnsers genedigen herrn <persName ref="lub-actors-341">Bernhardt von Cham</persName>, alth burgermaister zu <placeName ref="lub-places-20">Zurch</placeName>, unnd <persName ref="lub-actors-342">Caspar Rodtmundt</persName>, alt aman zu <placeName ref="lub-places-184">Roschach</placeName>, als gesezte der fromen, vessten, fursichtigen, ersamen unnd weisen herrn lannd
+<lb break="no" n="3"/>aman unnd rath des lands <placeName ref="lub-places-72">Glaris</placeName>. Bekhennen, nachdem sich zwischendt wolermeltem herrn graven unnd seinen unnderthanen der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, des dorffs <placeName ref="lub-places-79">Trisen</placeName> ains, unnd ermelten herrn aman unnd rath von wegen irer unnderthanen der herr
+<lb break="no" n="4"/>schafft <placeName ref="lub-places-73">Werdenberg</placeName>, des dorffs <placeName ref="lub-places-147">Seveln</placeName>, annderstails, von wegen machung <term ref="lub-keywords-404">streich</term>- unnd <term ref="lub-keywords-405">schupffwhurn</term> an dem wasser des <placeName ref="lub-places-103">Reins</placeName>, irrung unnd mißverstendt erhalten unnd zugetragen. Derwegen wolernenter herr grave in aigner person unnd von wegen der herrn 
+<lb n="5"/>von <orgName ref="lub-actors-276">Glaris</orgName> die fromen, vessten <persName ref="lub-actors-343">Gilg Tschaudi</persName> unnd <persName ref="lub-actors-305">Paulus Schuoler</persName>, baide alth lanndaman daselbst, in gegenwurttigkhait baider irer unnderthanen von <placeName ref="lub-places-79">Trisen</placeName> unnd <placeName ref="lub-places-147">Seveln</placeName>, zue unns als zu baiderseits gesezte zu <placeName ref="lub-places-7">Vaduz</placeName>, als zu diser sachen unnd hanndlung veranlaßtem  
+<lb n="6"/>orth, zu guettlicher hanndlung khomen. Wann wir nun dise mißverstenndt nit gern gehördt unnd solche gern in der guete verglichen gesehen, so haben wir unnserm genedigen herrn zu diennstlichen eheren, auch ermelten herrn zu <orgName ref="lub-actors-276">Glaris</orgName> zu freundtlichem ge
+<lb break="no" n="7"/>fallen der sachen unnderfangen, sy in ieren clagen unnd fürbringen, so schrifftlich unnd mundtlich beschehen, angehördt, den augenschein darauf genomen. Unnd de<supplied>mn</supplied>ach in <supplied>anno</supplied> etc. <date>funffzehenhundert dreissig und sechse</date> gleichfäligs streits halber durch guet
+<lb break="no" n="8"/>liche unnderhanndler ain vertrag gemacht, vermug desselbigen marckhen aufgericht worden, wie es furohin uff deren von <placeName ref="lub-places-79">Trisen</placeName> seiten mit verwarnung irer guetter unnd reichsstrassen mit den whuren soll gehalten werden. So haben wir zu aigentlicher 
+<lb n="9"/>erlernung die schnuor auf den marckhen anschlachen unnd dieselbigen biß zu dem phal hinabziehen lassen, durch welche ziehung der <term ref="lub-keywords-371">schnuor</term> unnd abmessung sich befund<supplied>en</supplied>, d<supplied>ie von</supplied> <placeName ref="lub-places-79">Trisen</placeName> zwischen den marckhen annderst nit gepauwt, dann wie inen obgemelter vertrag zu
+<lb break="no" n="10"/>laßt. So haben es die herrn gesezten bei demselbigen bruchen, pleiben unnd besteen lassen mit dem verrern beschaid, so auch die von <placeName ref="lub-places-79">Trisen</placeName> hinfuro der ennds pau<supplied>wen, daz</supplied> sy das vermug angeregts vertrags innerhalb der <term ref="lub-keywords-371">schnuor</term> unnd zeilen thun sollen und mugen. 
+<lb n="11"/>Am anndern, als sich dann die von <placeName ref="lub-places-147">Seveln</placeName> auch erclagten, das die von <placeName ref="lub-places-79">Thrisen</placeName> nechst oberhalbs des gezurckhs, dahin die <term ref="lub-keywords-371">schnuor</term> (wann es die notturfft erhaischt) soll gezogen werden, ain <term ref="lub-keywords-405">schupffwhuor</term> gepauwt unnd damit den fluß deß <placeName ref="lub-places-103">Reins</placeName> ab inen auf sy, die von <placeName ref="lub-places-147">Seveln</placeName>,   
+<lb n="12"/>triben mit verrerm anzaigen, diweil solches den verträgen, herkhomen unnd gemainem lanndtßprauch diß strombs zuwider, sy, die von <placeName ref="lub-places-79">Trisen</placeName>, in der güethe dahin zuweisen, solchen pauw abzuthun unnd wo von nöthen, allain ain <term ref="lub-keywords-404">streichwhur</term> zu machen. Demnach die von  
+<lb n="13"/><placeName ref="lub-places-79">Trisen</placeName> anzaigt, sy hofften es werde sich lautter unnd chlar befinden, das sy der ennds khain new, noch vil weniger ain <term ref="lub-keywords-405">schupffwhur</term> gemacht, der mergemelt vertrag geb inen lautter unnd chlar zu, das sy das whur, wie zuvor an dem orth gewesen, in ir gelegenhait  
+<lb n="14"/>unnd notturfft pessern, sterckhern unnd höchern mugen, dem sy durch bißhär also nachkhumen unnd sich annderst nichts, dann desste befuegt gebraucht. Dargegen die von <placeName ref="lub-places-147">Seveln</placeName> furbrachten, gestienden der vertrag ließ zu, sy dz alt whur, wie das zuvor  
+<lb n="15"/>gewesen, pessern und erhöchern möchten, sy weren aber mit dem kopf, so sich zu ennd des whurs erzaigte, über das alth whur hinauß gefaren, auß dem <term ref="lub-keywords-404">streich</term> ain <term ref="lub-keywords-405">schupfwhur</term> gemacht. Darumb begerten sy das gepew, sy fur das alth whur hinauß gethan, abzeschaffen   
+<lb n="16"/>unnd bei irem althen, so allain nun ain <term ref="lub-keywords-404">streichwhur</term>, vermug des vertrags zubeleiben. Dargegen aber die von <placeName ref="lub-places-79">Trisen</placeName> anzaigten, sy versehen sich nit, dz sy über das fundenmendt des alten whurs hinauß gebauwt, damit man aber zu aigentlicher erlernung diß streits khomenn  
+<lb n="17"/>möchte, dieweil sy dann diß whur zu irer notturfft ettwas erhöht, so wolten sy solch neuw gepeuw biß auf das fundenmendt des althen whurs abheben, das fundenmendt in beisein deren von <placeName ref="lub-places-147">Seveln</placeName> besehen, funde sich, das sy auf demselbigen pliben, sollent sy pillich ver
+<lb break="no" n="18"/>mug des vertrags darbei gelassen unnd darwider nit beschwert werden. Were aber, das sy fur das fur das fundenment des alten whurs hinauß gegriffen, so weren sy auch des erpietens, das sy mit dem pauw wider hinder sich biß auf das fundenmenth des alten whurs ruckhen 
+<lb n="19"/>unnd sich weitters nit, dann inen der vertrag zuliese, gebrauchen woldten. Dieweil dann die gesanndten der herrn von <orgName ref="lub-actors-276">Glaris</orgName>, auch die unnderthanen von <placeName ref="lub-places-147">Seveln</placeName>, mit deren von <placeName ref="lub-places-79">Trisen</placeName> erpieten benuegig unnd sich jeder thail erpotten, bei den verträgen ze pleiben unnd denen zugelebenn,   
+<lb n="20"/>so haben wir die guettlichen zusez unnd unnderhanndler mit unnserm guettlichen spruch enndtschaiden, das dem also nachgesezt, auch hinfüro vermug des vertrags gepauwt unnd gehalten werden solle. Am dritten auch die von <placeName ref="lub-places-147">Seveln</placeName> sich beclagt, aines  
+<lb n="21"/><term ref="lub-keywords-405">schupfwhurs</term>, so die von <placeName ref="lub-places-79">Trisen</placeName> unnd <placeName ref="lub-places-1">Vaduz</placeName> an den zwayen neuw enndtstanndnen giesen, so unnderhalbs bevorbemelts zwayer <term ref="lub-keywords-404">streich</term> gemacht mit anzaigen, das sy dardurch den rechten laßt unnd strom des <placeName ref="lub-places-103">Reins</placeName>, ab inen auf sy, die von <placeName ref="lub-places-147">Seveln</placeName>, und an ir aigne güetter, so innen dar
+<lb break="no" n="22"/>durch teglichs hinweg genomen werden, tringend, welches nit allain den verträgen, sonnder auch dem gemainen lanndtßprauch zuentgegen, dann billich den giesen, so allain durch die auwen ganngenn, nit verpauwt, sonnder denselbigen ir freyer lauf, so sy an der 
+<lb n="23"/><placeName ref="lub-places-345">Lanndtstraß</placeName> unnd aignen guetter nichts verzeren, gelassen werden sol. Dann wo diz nit sein unnd alle giesen so enndtstendt, verpauwt unnd der fluß des <placeName ref="lub-places-103">Reins</placeName> allenclichen i<supplied>n die</supplied> ganng gericht werden solte, hiette man leichtlich zu erwegen, das damit der fluß, wohin  
+<lb n="24"/>er sich lenndet (wie ehr dann mit gewalt auf inen wher) nach unnd nach alle guetter daran er stieß, hinweg nemen unnd letzstlich enntlich zu grund richten wurd. Dargeg<supplied>en</supplied> die von <placeName ref="lub-places-79">Trisen</placeName> furbracht, sy gestannden, das sy ain <term ref="lub-keywords-404">streichwhur</term> fur die zwen newen giesen ge
+<lb break="no" n="25"/>macht, gestannden aber nit, das sy dardurch den verträgen, noch vil weniger dem lanndtßprauch zuwider gehanndelt, dann obgleich wol der vertrag in anno etc. <date>vierzehenhundert sechzig sibne</date> aufgericht, unnder annderm mit sich pringt, das sy hinfüro nit weitter pauwen 
+<lb n="26"/>sollen, dann allain zu hanndthabung irer guetter unnd des reichsstraß an irer angender porth in den <placeName ref="lub-places-103">Rhein</placeName>, so weith diz sich ainem zimblichen <term ref="lub-keywords-404">streichenden whur </term>gleichen mug, so ehrstreckh sich doch dasselb annderst unnd weitter nit, dann an die orth, darumb man domalen  
+<lb n="27"/>streittig gewesen, dann ain jeder unnderhanndler das khünfftig, unnd was deßhalben auf dem fhal die notturfft erfordern wurde, nit wissen khan, sovil destweniger maß unnd ordnung geben muge, wie es in khünfftigen fhälen und notturfft, so er nit waißt, gehalten werden  
+<lb n="28"/>solte. So werden <supplied>auch</supplied> die verträg, deßgleichen der lanndtßprauch in jezigen oder khunfftigen zufallenden sachen, da sich befinden wurd, der volkhomen laßt unnd fluß des <placeName ref="lub-places-103">Rheins</placeName> zu irem nachtail auf sy fallen welte, nit abstrickhen, das sy nit geburlich dargegenn   
+<lb n="29"/>pauwen möchten. Derhalben unnd dieweil sich im augenschein der new gemachten giesen befindt, wo da nit gepauwt, sonnder die also, wie sy der <placeName ref="lub-places-103">Rhein</placeName> innerhalb drey jarn , gelassen werden solten, diz der <placeName ref="lub-places-103">Rein</placeName> in zwayen oder dreyen gusen oder überluffen, so auf sy fallen   
+<lb n="30"/>unnd nit allain die auwen, waid unnd was in denselben zu niesen, sonnder auch anndere ire aigne guetter zu irem merckhlichen schaden hinweg nemen wurd. Dieweil sy dann solches zuzesehen und zugedulden nit schuldig, so begerten sy, wir guettliche unnderhandler welten  
+<lb n="31"/>die von <placeName ref="lub-places-147">Seveln</placeName> in der güette dahin weisen unnd vermugen, das sy von <supplied>irem</supplied> begeren abstienden, unnd sy bei irem gemachten unnd nottwendigen <term ref="lub-keywords-404">streichwhur</term> zu verhuettung aines solchen <supplied>und</supplied> verderblichen schaden ruewigclich pleiben liesen. So dann ain jeder thail auf seinem fürbringen  
+<lb n="32"/>unnd begeren ver<supplied>hart,</supplied> haben wir doch bei inen erhalten, das sy bewilligt, mit unns auf den augenschein zuziehen, daselbst bericht geben unnd nemen, auch von unns, den unnderhandlern, anhörn, auf was massen sy auf leidenliche weeg solten und möchten vergliechen werden.  
+<lb n="33"/>Demnach wir mit <supplied>inen</supplied> auf den augenschein zogen, den auch baiderthail in ierem fürbringen notturfftigclichen eingenomen, volgends sy mit baiderseits wissen und guten willen in der güette dahin verglichen. Nemblich das die von <placeName ref="lub-places-79">Drisen</placeName> dz versunckhen schif, so  
+<lb n="34"/>sy vermug des jungsten spruchs uß dem <placeName ref="lub-places-103">Rein</placeName> thun sollen, also wie es ligt, pleiben lassen mugen. Unnd demnach sollen sy dz gemacht whur vor dem neuw enndtstanndnen giesen alle<supplied>nc</supplied>khlich hinweg thun unnd hinder demselben ainannder <term ref="lub-keywords-404">streichwhur</term>, wie inen domals auf  
+<lb n="35"/>dem augenschein die pfal geschlagen worden, machen, doch dz sy mit demselben pauw unnd whur hinder der <term ref="lub-keywords-371">schnuor</term>, so auf dei phal gezogen werden soll, beleiben. Wo sich auch jez oder khunfftigclich begeben, dz der <placeName ref="lub-places-103">Rein</placeName> meer giesen oder greben in der auw  
+<lb n="36"/>machen welte, <supplied>mu</supplied>gen sy dieselbigen, auch die drey jez enndtstanndnen graben jederzeit an irem porth des <placeName ref="lub-places-103">Reins</placeName> oberhalb dem jezbenanten neuwen whuor, so ungefarlichen zu end ist, als <placeName ref="lub-places-79">Drisner</placeName> und <placeName ref="lub-places-1">Vaduzer</placeName> mit wun und waid vonainander schaiden, gegen <placeName ref="lub-places-79">Drisen</placeName> hinauf  
+<lb n="37"/>werth, mit <term ref="lub-keywords-404">streichwhuren</term> pauwen unnd dem <placeName ref="lub-places-103">Rein</placeName> abweren. Damit dann hinfuro dester pessere richtigkhait unnd vergwissung derselbigen gehalten werde, so hat man des andern tags hernach ain marckhstain gesezt aussert dem zaun am <placeName ref="lub-places-665">Mayerhof</placeName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> werth,  
+<lb n="38"/>so da oberhalb dem marckhstain der baide kilchspel <placeName ref="lub-places-1">Vaduz</placeName> unnd <placeName ref="lub-places-79">Trisen</placeName> schaidt, sechzig veldkircher werkhlaffter unnd drey werkhschuoch statt, unnd von demselbigen marckhstain <supplied>in gem</supplied>eltem zaun des <placeName ref="lub-places-665">Mayerhofs</placeName> richtigs hinauß der gredi nach, biß an den usseristen phal, zu  
+<lb n="39"/>unnderst am newen whur ze messen, pringt zwayhundert unnd zwainzig vorgemelter werkhlaffter unnd ain werchschuoch. Also wann hinfüro da gemessen wurde, soll ma<supplied>n</supplied> ain sail, dz funfundreissig khlaffter lanng seye, nemen, und dasselbig vom marckhstain auf dem  
+<lb n="40"/>erdtrich hinauß über greben, thuolen unnd giesen gegen dem unnderisten phal zu end des whurs streckhen, dermassen dz es khaine rumpf oder khrum über khruz, sonnder gestrackh lige, auch nit vesster gestreckht werde, also damit furmessen, biß obgemelte suma der werkhlaffter und  
+<lb n="41"/>schuochen erfult werden, so unnd uber der phal mittlerweil durchs wasser oder in annder weeg hinweg kheme, soll denn zumal der scheinung nach die grede ain gut werkhlaffter, ungefarlich ob dem <placeName ref="lub-places-147">Seveler</placeName> thurm, anhin genommen unnd gerechnet werden. Am annderen,  
+<lb n="42"/>demnach die von <placeName ref="lub-places-147">Sevelen</placeName> auf ir seiten ain pauw, so da wurdt genannt das <placeName ref="lub-places-752">Haber Whur</placeName>, demselben ain sonndern anhanng achtzehen khlaffter lanng gemacht, welche lennge des anhangs durch die vorige unnderhanndler denen von <placeName ref="lub-places-147">Sevelen</placeName> also aberkhendt, das sy dasselbig  
+<lb n="43"/>nit weitters pauwen noch befesstigen, sonnder wie es jez ist, pleiben unnd sich nach unnd nach selbs verschleissen lassen. Ist durch unns, die güettlichen unnderhandler, beschädigt, auch von wolernentem unnserm genedigen herrn und derselben unnderthanen bewilligt, das  
+<lb n="44"/>die von <placeName ref="lub-places-147">Sevelen</placeName> bemelten anhanng in der lenng der achtzehen khlaffter behalten, den zu irer notturfft pauwen, pessern unnd sterckhen mugen, doch dz sy mit demselbigen nit weitter, dann wie es jez ist, in den <placeName ref="lub-places-103">Rein</placeName> hinaußfaren. Unnd so sich dann jez oder khünfftigclichen  
+<lb n="45"/>ereugen wurde, denen von <placeName ref="lub-places-147">Sevelen</placeName> zu befridung irer güetter weitters zu pauwen von nötten, sollen sy solches durch güettliche bewilligung des herrn graven, derselbigen nachkhumenden herren unnd irern gnaden unnderthanen, oder durch ordenliche recht von baiderseits herrschafften  
+<lb n="46"/>geordnet thun. Wo auch hinfüro ainichem thail in den obbemelten zwayen herrschafften das recht zu befridung des rheinsstades und irer güetter von nötten, solches bei seiner herrschafft, oder desselben ambtleuten suochen und begeren wurde, sollen alßdann baiderseits herrschafften,   
+<lb n="47"/>oder wo die nit gelegenhait darzu haben würden, derselben vögt oder ambtleut, dem begerennden thail zu furderlichem unnd unverlenngtem rechten beholffen sein. Es ist auch innsonnderhait beredt unnd vorbehalten, das alle zuvor aufgerichte ver
+<lb break="no" n="48"/>träg unnd urttelbrief (was usserhalb der jezigen verglichnen puncten) in irn würden unnd crefften sein, pleiben und besteen, auch baiderseits herrschafften irer habennden herrlich- und oberkhaiten in all annder weg unvergriffenlich, unabbruchlich und unschedlich sein
+<lb n="49"/>solle. Wo sich auch hinfuro irrung unnd mißverstend von wegen pauwung der wuhr, oder annders halben im <placeName ref="lub-places-103">Rein</placeName> oder giesen zutragen wurde, deren man sich dann mit ainander in der giethe nit vergleichen khünde, so soll jeder thail zwen unpartheyisch menner  
+<lb n="50"/>als zusatz geben. Die sollen sich aines furderlichen tags mitainander, oder die oberkhait daselbs vergleichen, die partheyen notturfftigclichen gegenainannder anhören, wo von nötten, den augenschein einnemen und sy, wo muglich, in der güethe vergleichen. Wo aber die  
+<lb n="51"/>güettigkait über der unnderhandler angewendten vleiß bei ainem oder dem anndern theil nit verfahen möcht, sollen sy alßdann mit irem rechtlichenn spruch enndtschaiden, so aber die nidergesezten sich durch dz meerer der urttel mitainannder nit vergleichen khunden,  
+<lb n="52"/>derhalben zu erlanngung ainer urttel ain obman zunemmen von nötten sein wurden, sodann der herr graf, oder seine unnderthanen von wegen der - und herrschafft <placeName ref="lub-places-7">Vaduz</placeName> cleger, soll<supplied>en sy ma</supplied>cht haben, auß der <supplied>vier ortten der</supplied> <orgName ref="lub-actors-515">Aignosschafft</orgName> ainem, nemblich <placeName ref="lub-places-20">Zurch</placeName>, <placeName ref="lub-places-185">Lucern</placeName>, <placeName ref="lub-places-186">Ury</placeName>  
+<lb n="53"/>und <placeName ref="lub-places-187">Schweiz</placeName> ain person, die des khleinen raths, zu ainem obman zuerkhiesen. Deßgleichen so die herrn von <orgName ref="lub-actors-276">Glaris</orgName> von wegen der herrschafft <placeName ref="lub-places-73">Werdenberg</placeName>, oder derselben <supplied>unnderthanen</supplied> bemelter grafschafft cleger weren, und zu erlanngung der urttel aines obmans von nötten,  
+<lb n="54"/>sollen sy auß den vier stetten ainer, nemblich <placeName ref="lub-places-101">Costennz</placeName>, <placeName ref="lub-places-188">Rattolffzell</placeName>, <placeName ref="lub-places-10">Veldtkirch</placeName> oder <placeName ref="lub-places-45">Bregennz</placeName>, auß dem khleinen rath nemmen, unnd welche person also von ain oder dem anndern thail von den bemelten stetten und orthen auß dem khleinen rath genomen wirdt, soll also on  
+<lb n="55"/>ainiche verwägerung des anndern thails zugelassen und von baiden thailen demselben obman zugeschriben und pitlichen angesuocht werden, sich der sachen anzenemen. Gleichffals auch seiner oberkhait zugeschriben und ze pithen, das sy denselbigen obman, der jhe ernennth  
+<lb n="56"/>wurth hierzuhalten und vermugen, das er die sachen anneme unnd die zu fürderlichem außtrag helffe vollenden, damit durch ine khain verlenngerung und ufzug beschehe<supplied>ens</supplied>, so er dann mit verwilligung baider partheyen ettwas in der guette ald freundtlichait handlen,   
+<lb n="57"/>oder sy disfhals vergleichen möchte, soll er desse anfanngs gewalt haben. Wo aber khain bewilligung ald güettlichait an den partheyen im fhal erfunden möchte werden, alßdann soll der obman auf aintwedere urtl, so von jedem thail der zugesezten gegeben, welche inne  
+<lb n="58"/>billich unnd recht bei seiner gewißne sein bedunckhen, one alle anhänng unnd zuthun fallen, auch deren volgung geben. Unnd was also durch dieselb urttel zu recht gesprochen würdt, darbei soll es pleiben, dem in allweg nachganngen und gelebt worden. Hiemit  
+<lb n="59"/>sollen sy dises ires jezgehördten spans vertragen, gericht unnd geschlicht, auch furtter gut nachbauren und freündt gegen ainander haisen und sein. Des alles zu warem urkhundt, so haben wir, obgenannte güettliche unnderhandler unnd zusäz, all  
+<lb n="60"/>vier unnd ain jeder innsonnders sein aigen innsigl an disen brief, deren zwen gleichlauttend gemacht, unnd jedem thail auf sein begeren ainen geben, gehennckht, doch unns unnd unnsern erben in alweg one schaden und unnachthaillig, der geben und beschehen ist  
+<lb n="61"/>zu <placeName ref="lub-places-1">Vaduz</placeName>, <origDate>am hailigen Phingst aubenndt, den sechzehenden tag des monats may von Christi unnsers liebe herrn geburt gezelt thaussendt fünffhundert sechzig unnd zway jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2429" n="1"/><lb n="1"/>Betrifft an die wuehr zwischen den <placeName ref="lub-places-1">Vaduz
+<lb break="no" n="2"/>ner</placeName>, <placeName ref="lub-places-79">Trißner</placeName> unnd <placeName ref="lub-places-147">Sevolen</placeName> 1562.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

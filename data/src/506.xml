@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-506">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Thomas Planta, Bischof von Chur, verleiht Balthasar von Ramschwag den Zehnt am Triesnerberg und einen Kornzins aus dem Triesner Zehnt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-506">LI-GAT, U 10</ref> (<orgName key="li-gat" ref="lub-objects-501">Gemeindearchiv Triesen</orgName>) / Originaldatierung: 4. Februar 1553 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Thomas Planta, Bischof von Chur, verleiht Balthasar von Ramschwag, Vogt auf Gutenberg, den Zehnten am Triesnerberg und einen Zins von 4 Scheffel Korngeld aus dem Triesner Zehnten, die ihm Hans von Gutenberg übergeben hatte.&#13;
+&#13;
+Ediert auf [e-archiv.li](http://www.e-archiv.li/D42281).</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-288">Planta, Thomas</persName>
+          <date when="1553-02-04">4. Feb 1553</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gat__u_10-0002.jpg" xml:id="lub-media-2405" source="gat-u-010-r.jpg" corresp="A"/>
+    <graphic url="li-gat__u_10-0002.jpg" xml:id="lub-media-2406" source="gat-u-010-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2405" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-288">Thomas</persName>, vonn gottes gnaden bischoff zu <orgName ref="lub-actors-2466">Chur</orgName>, bekhenne mit disem brieff, das  
+<lb n="2"/>wir dem edlenn und vesten <persName ref="lub-actors-156">Baltisar von Ramschwag</persName>, römisch kuniglicher mayestät vogt zu <placeName ref="lub-places-13">Guttenberg</placeName>, zu  
+<lb n="3"/>ainem rechtenn freylehenn verlyhenn habenn, so <persName ref="lub-actors-289">Hans von Guttenberg</persName> im fry übergeben hatt,  
+<lb n="4"/>lyhenn im ouch in krafft diss brieffs denn zehennden am <placeName ref="lub-places-41">Trissnerberg</placeName> mit allenn rechten  
+<lb n="5"/>unnd zugehörden, unnd vier schöffel korn uss dem grossenn zehennden zu <placeName ref="lub-places-79">Trissnen</placeName> jerlicher  
+<lb n="6"/>gült, was wir dann vonn rechts wegenn darann verlyhenn söllenn unnd mögenn, die  
+<lb n="7"/>vonn unns unnd unnser <orgName ref="lub-actors-2466">Stifft</orgName> zu lehenn herruerrenn. Also das er furohin denn  
+<lb n="8"/>zehennden unnd khorn gült mit ir gerechtigkhait inn lehenns wiß unnd rechten  
+<lb n="9"/>innhabenn, innemen, bruchenn, nutzenn unnd niessenn. Darumb unns unnd unnsern  
+<lb n="10"/><orgName ref="lub-actors-2466">Stifft</orgName> diennstlich gehorsam unnd gewertig sein, unnsern frommen fürderen schadenn  
+<lb n="11"/>wennden, verschwigne lehenn offnenn, unnd alles das thun soll, das ein lehenn
+<lb break="no" n="12"/>man sinem lehenn herrn vom recht unnd solichen lehenn wegenn pillich thun 
+<lb n="13"/>soll, als er unns des ainen aid zu gott unnd denn hailigenn geschworenn hatt,  
+<lb n="14"/>alles unns unnd unnser <orgName ref="lub-actors-2466">Stifft</orgName> ann unnsem rechtenn unnd lehennschafft one schaden.  
+<lb n="15"/>Des zu urkhundt habenn wir unnser secrett innsigel thun hengckhen ann disen  
+<lb n="16"/>brieff, der gebenn ist am <origDate>vierdtenn tag februarii im jar als man zalt vonn der  
+<lb n="17"/>geburt Christi unnsers erlösers tusent funffhundert unnd im drey unnd funfftzigsten  
+<lb n="18"/>jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2406" n="1"/><lb n="1"/>lehen brieff von man <gap/><lb n="2"/>von <orgName ref="lub-actors-2466">Chur</orgName> vür den zechenden  
+<lb n="3"/>am <placeName ref="lub-places-41">Drisnerberg</placeName> anno 1553. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

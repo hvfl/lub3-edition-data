@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1035">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verpfändung des Zehnten in Schaan und Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1035">AT-HAL, H 2623 unfol</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 20. Juni 1526 / Beschreibstoff: Papier, 4 Seiten (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: LI-LA, U 89/21, S. 57-60 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>)</witness>
+          <witness xml:id="B3">B3: Vidimus, Signatur: <ref type="identifier" target="lub-objects-726">CH-StiASG, U RR1 B23</ref> (<orgName key="ch-stiasg" ref="lub-objects-867">Stiftsarchiv St. Gallen</orgName>)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Nachdem Georg Waibel und seine Frau Anna Konzett ihre Schulden bei Vogt Heinrich Gutenberg nicht zahlen konnten, half das Kloster St. Johann mit 311 fl. d. aus. Dafür verpfänden sie Johann [Staiger], Abt des Klosters St. Johann im Thurtal, ihren Zehnt in Schaan und Vaduz für 311 Gulden. Wenn sie den Zehnt nicht innert zwei Jahren auslösen, kann ihn das Kloster ganz erwerben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-268">Pfand</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-619">Waibel, Jörg</persName>
+          <date when="1526-06-20">20. Jun 1526</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-620">Konzett, Anna</persName>
+          <date when="1526-06-20">20. Jun 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal_h_2623_unfol__1526_juni_20-0001.jpg" xml:id="lub-media-1141" source="1526-06-20-hal-h-2623-1.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol__1526_juni_20-0002.jpg" xml:id="lub-media-1142" source="1526-06-20-hal-h-2623-2.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol__1526_juni_20-0003.jpg" xml:id="lub-media-1143" source="1526-06-20-hal-h-2623-3.jpg" corresp="B1"/>
+    <graphic url="at-hal_h_2623_unfol__1526_juni_20-0004.jpg" xml:id="lub-media-1144" source="1526-06-20-hal-h-2623-4.jpg" corresp="B1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1141" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-619">Georg Waibel</persName> von Sandtains und ich <persName ref="lub-actors-620">Anna Contzetin</persName> seine  
+<lb n="2"/>eheliche haußfrau, bekennen beede samentlichen und ohnverschiedent
+<lb break="no" n="3"/>lichen für unß, all unsere erben und nachkohmmen offentlich mit 
+<lb n="4"/>diesem brieffe. Demnach und wir seyndt verschrieben dem ehrenvesten  
+<lb n="5"/><persName ref="lub-actors-621">Henrichen Guttenbergern</persName>, vogdt zu <placeName ref="lub-places-248">Crappelß</placeName>, umb ein zünß nach inn
+<lb break="no" n="6"/>halt deßelbigen brieffs, der unß also schwerlich und ganz überlegen 
+<lb n="7"/>zu geben gewest. Deshalben wir durch underhandlung etlicher guten  
+<lb n="8"/>freündten den ehrwürdigen unsern gnädigen herrn Johannes, der zeith  
+<lb n="9"/>abbte des gotteshauß zu <orgName ref="lub-actors-195">St. Johann im Turthal</orgName> Benedictiner  
+<lb n="10"/>ordens, <placeName ref="lub-places-101">Constanzer</placeName> bisthumbs gelegen, mit sondern und hohen fleiß  
+<lb n="11"/>und ernst erbetten, daß er sich mitsambt seinem convent des genan
+<lb break="no" n="12"/>ten gotteshauß, damit und wir des schwerlichen zünß enthebt undt 
+<lb n="13"/>entlediget würden gegen den obgedachten <persName ref="lub-actors-621">Henrichen Gutenberger</persName>  
+<lb n="14"/>von unsern wegen benandtlichen umb dreytzehen gulden rheinisch in müntz,  
+<lb n="15"/>doch jeh für einen gulden sechzig kreutzer veltkircher wehrung jahrlichs  
+<lb n="16"/>zünß alß selbst schuldtner und gewehren zu richten und zu geben, wie  
+<lb n="17"/>dan in demselben brieff begrieffen ist, verschrieben habend, unß auch  
+<lb n="18"/>zusambt jetz bemelten fürstandt und verschreibung fünffzig undt  
+<lb n="19"/>einen gulden rheinisch in müntz obgenanter wehrung an parem gelt,  
+<lb n="20"/>doch alles mit solchem geding, wie hernach folget fürgesetzet und geliehen.  
+<lb n="21"/>Darumben so haben wir bedachten unsern gnädigen herren abbte und  
+<lb n="22"/>seinen convent zu rechten redtlichen pfandt und in pfandtsweiße  
+<lb n="23"/>unseren aignen weitzen, korn, hampff, hirsch und fenckhzehendten  
+<lb n="24"/>in kirchspell <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> gelegen, so wir dan nach inhalt der  
+<lb n="25"/>haubtbrieffen erkaufft haben, hiemit eingesetzet und versetzet, er  
+<lb n="26"/>unser gnädiger herr abbte auch sein bemeltes convent solle und  
+<lb n="27"/>mögen jetz genandten unsern aigenen zehendten die nechst kohmmenden  
+<lb n="28"/>zwey jahr lang nach dato dieß brieffs innhaben, nutzen, nießen und  
+<lb n="29"/>sich des gebrauchen nach ihren willen und gefallen von unß und mennig
+<lb break="no" n="30"/>lichen von unsertwegen sunnen, irren und wiedersprechen, doch in 
+<lb n="31"/>keine weiß noch weeg veruberhandlen nachdem und hier in beredt,  
+<lb n="32"/>also daß wir, unser erben und nachkohmmen den berührten unseren  
+<lb n="33"/>zehendten, so wir dan mehrgedachten unsern gnädigen herrn abbte und  
+<lb n="34"/>seinen convent zu rechten underpfandt fürgedachte verschreibung   
+<pb facs="lub-media-1142" n="2"/>
+<lb n="35"/>und geliehenn gelt eingesetzet, in den bemelten zweyen jahren mitsambt  
+<lb n="36"/>dem zünß haubtgut und geliehen gelt, so sich alles in einer summa laufft,  
+<lb n="37"/>dreyhundert und elff gulden obbemelter müntz und wehrung, woll  
+<lb n="38"/>wiederumb zu unsern handen ziehen und ablösen mögen, woh wir  
+<lb n="39"/>unsere erben und nachkohmmen daran seümig und die genandte  
+<lb n="40"/>summa gelts dreyhundert und elff gulden in den bestimbten zwey jahren  
+<lb n="41"/>nit erlegten und also die losung nit thäten, alß dan so sollen und mügen  
+<lb n="42"/>vielbemelter unser gnädiger herr abbte und sein convent unß,  
+<lb n="43"/>unseren erben und nachkohmmen uff die vorgenandten summa geben  
+<lb n="44"/>und bezahlen zwey hundert sechzig und neun gulden vorgenandter  
+<lb n="45"/>müntz und wehrung, daß sich dann alles in einer summa thuet und  
+<lb n="46"/>macht fünffhundert und siebentzig gulden. Daran wir, unsere  
+<lb n="47"/>erben und nachkohmmen gantz wohl begnügt und bezahlt seyen und  
+<lb n="48"/>vielgedachtem unserem gnädigen herren abbtte und seinen convent  
+<lb n="49"/>haubt- und kauffbrieff umb obbemelten zehendten besagende mit
+<lb break="no" n="50"/>sambt einem übergabbrieff hinaußgeben und überandtworten 
+<lb n="51"/>sollen undt wollen, ohne alle einredt, uffzug und gefehrde. 
+<lb n="52"/>Doch dem wohlgebohrnen unserem gnädigen herrn graff <persName ref="lub-actors-8">Ru
+<lb break="no" n="53"/>dolphen von Sulz</persName> und seiner gnaden erben zu diesen unsern be
+<lb break="no" n="54"/>nandten zehendten zug und lösung, wenn und welches jahrs 
+<lb n="55"/>sy wöllendt in alle weeg vorbehalten. Undt ob aber der  
+<lb n="56"/>obbemelt unser zehendten offtgedachtem unserem gnädigen herrn  
+<lb n="57"/>abbte und seinen convent also in vorbestimbten kauff und gelt  
+<lb n="58"/>nit gefällig und angenehm seyen würde, so gereden, versprechen  
+<lb n="59"/>und geloben wir doch für unß, all unsere erben und nachkohmmen  
+<lb n="60"/>wißentlich in krafft dieß brieffs solch obgenandte summa drey
+<lb break="no" n="61"/>hundert und elff gulden verschriebens und geliehens gelts in den 
+<lb n="62"/>zweyen jahren, und namblich uff <date when="1527-11-11">St. Martins tag des sieben undt  
+<lb n="63"/>zwantzigsten jahrs</date>, acht tag vor oder nach ohngefahrlich, dem dickh  
+<lb n="64"/>bemelten unseren gnädigen herren abbte und seinen convent oder  
+<lb n="65"/>wer diesen brieff ihrentwegen innenhatt gantz ohnverzogentlich,   
+<lb n="66"/>auch ohn allen ihren kösten, schaden und abgang, für allermenniglichs  
+<lb n="67"/>hefften, verpiehten und entwehren freündtlich entledigen, außrüsten  
+<lb n="68"/>und zahlen, also und mit den rechten ob vor die bezahlung wie jetz  
+<pb facs="lub-media-1143" n="3"/>
+<lb n="69"/>gemelt ist nit thäten, sondern säumig worden, daß es nit seyn soll,  
+<lb n="70"/>alß dan sollen und mögen offtgedachter unser gnädiger herr abbte und  
+<lb n="71"/>sein convent, wem sie es zu thun befelchen, daß angezeigt  
+<lb n="72"/>ihr underpfandt darumb angreiffen, rechtfärtigen, verkauffen, ver
+<lb break="no" n="73"/>ganten und zu ihren handen ziehen und nehmen, bis sy ihrs haubtguths auch 
+<lb n="74"/>alles kösten und schadens darauff ergangen, außgericht, vergnügt  
+<lb n="75"/>und bezahlt seyn, alles getreülich und ohngefährlich. Undt des alles  
+<lb n="76"/>zu warem, vesten und offenn urkundt, so haben wir beede mit sondern  
+<lb n="77"/>fleiß und ernst gebetten und erbetten den ehrenvesten <persName ref="lub-actors-155">Caspar Nonnen
+<lb break="no" n="78"/>dörffer</persName>, der zeith vogdt zu <placeName ref="lub-places-7">Vadutz</placeName>, daß er sein aigen insiegel, doch 
+<lb n="79"/>ihme und seinen erben ohne allen schaden, für unß, all unsere erben  
+<lb n="80"/>und nachkohmmen offentlich getruckht hatt in diesem brieff, der geben  
+<lb n="81"/>ist <origDate>uff mittwochen nach st. Vitus tag nach Christi unseres lieben  
+<lb n="82"/>herrn geburt fünffzehen hundert zwantzig und sechs jahr</origDate>. 
+<lb n="83"/>L. S. 
+<lb n="84"/>Collationirt und auscultirt ist diese gegenwärtige copia  
+<lb n="85"/>auch ihren rechten wahren original, so an papier, schrifft,  
+<lb n="86"/>sigil gantz ohnverzehrt durchauß gleichlautend erfunden worden  
+<lb n="87"/>durch mich, Joan Joachim Mayle, geschwornen notarium, deßen  
+<lb n="88"/>zu urkundt habe ich mein gewohnlich notariat signet beyseiten  
+<lb n="89"/>auffgetruckht. Actum im gotteshauß <orgName ref="lub-actors-708">St. Gallen</orgName>, den 12. 
+<lb n="90"/>novembris anno 1622. 
+<lb n="91"/>Joan Joachim Mayle 
+<lb n="92"/>Bestallung des baumans des hoffs zu <placeName ref="lub-places-1">Vadutz</placeName> betreffend  
+<lb n="93"/>das gotteshauß <orgName ref="lub-actors-195">St. Johan im Thurthall</orgName>. 
+<lb n="94"/>Erstlichen hat in gotteshauß <orgName ref="lub-actors-195">St. Johan</orgName> den zehendten von korn zu  
+<lb n="95"/><placeName ref="lub-places-53">Schann</placeName>, der wirdt getheilt mit dem pfarrer dasselbst der vier
+<lb break="no" n="96"/>theil, und darnach werden die andere drey vierthail aber getheilt 
+<lb n="97"/>in vier vierthail, davon nimbt ein gottshauß <orgName ref="lub-actors-195">St. Johan</orgName> den  
+<lb n="98"/>zweyn theil oder den halben theil, die andern zweyn theil nimbt der  
+<lb n="99"/>graff und die von <orgName ref="lub-actors-22">Ramenschwag</orgName> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1144" n="1"/><lb n="1"/>Georg Waibl von Sandteins  
+<lb n="2"/>schuld verschreibung mit ver
+<lb break="no" n="3"/>pfändung des zehents dem 
+<lb n="4"/>convent zu St. Johann de anno 1526/1622 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

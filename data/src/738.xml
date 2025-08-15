@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-738">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verzeichnis der Gerechtigkeiten der Pfarrpfründe Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-738">LI-LA, PfäfA 22/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1513 – 1555 / Beschreibstoff: Papier, 3 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Einigung über einen Zehntstreit zwischen dem Kloster Pfäfers und dem Pfarrer in Eschen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-450">Neubruch (Noval)</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1513" to="1555">1513 – 1555</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_22_01-0001.jpg" xml:id="lub-media-1542" source="pfafa-21-01-s01.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_22_01-0002.jpg" xml:id="lub-media-1543" source="pfafa-21-01-s02.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_22_01-0003.jpg" xml:id="lub-media-1544" source="pfafa-21-01-s03.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-1542" n="1"/><lb n="1"/>In den spennen, so sich zutragen zwuschen minem gnädigen herrn von  
+<lb n="2"/><orgName ref="lub-actors-309">Pfafers</orgName> und dem pfarrherren in <placeName ref="lub-places-35">Eschen</placeName>, die sollen in der  
+<lb n="3"/>gütlichhait hinzelegen, sind diße nachvolgenden mittel gesucht  
+<lb n="4"/>und abgeredt, und jeder parthy geben sich daruff ze bedencken,  
+<lb n="5"/>dieselben also anzenemmen etc. 
+</p>
+        <p><lb n="6"/>Item des ersten der vier wingartten halben, uß welchen der  
+<lb n="7"/>pfarrherr bißhär den gantzen zehenden genomen hatt, soll  
+<lb n="8"/>er hinfüro von denselben vier wingarten den zehenden alß gantz haben und nemmen, wie von alter  
+<lb n="9"/>här khommen und gebrucht werden ist. 
+</p>
+        <p><lb n="10"/>Item der nüwbrüchen halben, von welchen der pfarrherr ettlich jar  
+<lb n="11"/>den gantzen zehenden genomen hatt, soll der pfarrherr  
+<lb n="12"/>umb das verschinen unersucht beliben. Aber daz jetz loffend  
+<lb n="13"/>jar und hinfüro in kunfftig sollen uss denselben newbrüchen  
+<lb n="14"/>dem gotzhuß <orgName ref="lub-actors-309">Pfäfers</orgName> zwen tail und dem pfarrherren der drittend  
+<lb n="15"/>des zehenden, wie von andren wingarten zugehören und volgen. 
+</p>
+        <p><lb n="16"/>Item der widemgütter halben, was widemgütter sind und nit zehenden  
+<lb n="17"/>geben, die sollen zehend fry beliben, welche aber derselben  
+<lb n="18"/>gütter zehenden geben, in denselben soll ain herr von <orgName ref="lub-actors-309">Pfäffers</orgName>  
+<lb n="19"/>och zwentail und der pfarrer den dritten tail zehenden haben. 
+<lb n="20"/>Doch vorbehalten, so der pfarrher gnugsamlich bybrächte,  
+<lb n="21"/>das er und sine vorfaren von demselben widemgütter, so zehenden  
+<lb n="22"/>geben, lenger den menschlich gedechtnüß den zehenden gantz  
+<lb n="23"/>ingenomen und empffangen hetten, als dann sol es och, wie von  
+<lb n="24"/>alter här darby beliben. 
+</p>
+        <p><lb n="25"/>Item des zehenden halben züm endlen soll der pfarrherr den
+<lb break="no" n="26"/>selben hinfüro innemmen und empfahen, wie er desselben biß
+<lb break="no" n="27"/>här im bruch und besitzung geweßen ist, doch vorbehalten, 
+<lb n="28"/>das min gnädiger herr oder ain erster und convent zu <orgName ref="lub-actors-309">Pfäfers</orgName> sich  
+<lb n="29"/>bedencken und erkhundigen mögen, was grundt oder gerechtig
+<lb break="no" n="30"/>kait sy darumb haben, und soll daruff aber beschehen, was 
+<lb n="31"/>billich und recht ist. 
+</p>
+        <p><pb facs="lub-media-1543" n="2"/><lb n="32"/>Item das ain herr von <orgName ref="lub-actors-309">Pfäfers</orgName> ain püttin mög verordnen,  
+<lb n="33"/>darin man den zehenden trage von den wingarten da  
+<lb n="34"/>zwen tail dem gotshuß <orgName ref="lub-actors-309">Pfäfers</orgName> und der drittail dem  
+<lb n="35"/>pfarrherren gehören und uß derselben puttin sol man  
+<lb n="36"/>den zehenden tailen ain herren von <orgName ref="lub-actors-309">Pfäffers</orgName> zwen und  
+<lb n="37"/>dem pfarrherren den drittentail. Es wäre dann, das baid  
+<lb n="38"/>parthien jedes jars uff ain andren wegn den zehenden ze  
+<lb n="39"/>tailen sich wirden verainigen. 
+</p>
+        <p><lb n="40"/>Item deshalben fuder wins halben, so der pfarrher uß  
+<lb n="41"/>mins gnädigen herrn von <orgName ref="lub-actors-309">Pfäfers</orgName> zwentail zehenden genomen,  
+<lb n="42"/>hatt an die pension, die er doctor <persName ref="lub-actors-2358">Lucas Conratten</persName> seligen  
+<lb n="43"/>hatt müssen geben, sol der pfarrher umb die jar, in  
+<lb n="44"/>welchen er die pension bezalt hatt, unversuecht bliben.  
+<lb n="45"/>Aber umb das ledtst jar, do der pfarrherr das halb  
+<lb n="46"/>fuder genommen und die pension nit bezalt hatt, soll  
+<lb n="47"/>er desselbig halb fuder min gnädigen herrn widerum  
+<lb n="48"/>erstatten und bezalen, so ver sin gnad dasselbig nit 
+<lb n="49"/>uß gnaden nach lassen wil. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1544" n="1"/><lb n="1"/>Ein Copy betrefned den  
+<lb n="2"/>span zwüschen einem  
+<lb n="3"/>herren von <orgName ref="lub-actors-309">Pfäffers</orgName>  
+<lb n="4"/>unnd einem pfarrer zu  
+<lb n="5"/><placeName ref="lub-places-35">Eschen</placeName> deß zehendens halb. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
