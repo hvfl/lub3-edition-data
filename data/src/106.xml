@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-106">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lebenslange Zahlung von Rudolf von Sulz an Domprobst Johannes von Brandis</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-106">CZ-SOAT Cizí rody 321 z Brandisu 15</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 19. März 1510 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/15/charter?q=321">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Johannes von Brandis, Probst des Stifts Chur, bestätigt, dass er durch Mattheus Brünig, Kanoniker desselben Klosters, 1000 Gulden von seinem Verwandten, Graf Rudolf V. von Sulz, erhalten hat als Vorauszahlung zu einer zusätzlichen lebenslangen Zahlung von 100 Gulden jährlich als Leibgeding.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-340">leibgeding</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1510-03-19">19. Mär 1510</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_321_z_brandisu_15_karton_3-0001.jpg" xml:id="lub-media-245" source="1510-03-19-soat-cizirodytrebon-321-brandisu15-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_321_z_brandisu_15_karton_3-0002.jpg" xml:id="lub-media-246" source="1510-03-19-soat-cizirodytrebon-321-brandisu15-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-245 " n="1"/><lb n="1"/>Wir <persName ref="lub-actors-31">Johanns fryherr von Branndis</persName>, thumprobst zu <orgName ref="lub-actors-2466">Chur</orgName> unnd thumherr der hochennstifft zu <orgName ref="lub-actors-2475">Strasburg</orgName> etc., 
+<lb n="2"/>bekennenn unnd thund khunnd menngklichem mit disem brieffe, als dann der wolgeporn, unnser lieber vetter <persName ref="lub-actors-8">Rudolff grave  
+<lb n="3"/>zu Sults</persName>, lanndtgrave im <placeName ref="lub-places-18">Klegew</placeName>, eins ludt aines vertrags zwischennd unns gemacht, alle unnd jedes jares hunndert  
+<lb n="4"/>guldin rinisch libgedingg allwegen uff <date when="--10-18">sanndt Lucien tag</date> gefallennde zu geben schuldig gewesenn, unnd aber wir uns  
+<lb n="5"/>abermaln veraint unnd beratten der massen, das wir gedachtenn unnserm vettern <persName ref="lub-actors-8">von Sults</persName> solch libgeding der hundert  
+<lb n="6"/>guldin mit tusennd guldin rinisch heptgutt zu lösenn vergundt unnd zugelassenn haben, das wir uff hütigen tag durch  
+<lb n="7"/>mittel des erwirdigen herrn <persName ref="lub-actors-2474">Matheussen Brünig</persName>, thumherr obgedachter stifft zu <orgName ref="lub-actors-2466">Chur</orgName>, unnsers capitel bruders, von  
+<lb n="8"/>obgedachts unnsers vetters <persName ref="lub-actors-8">von Sults</persName> anwelten unnd in sinem namen benanntlich tußennd guldin heptgutt für  
+<lb n="9"/>das libgeding unnd darzu hunndert guldin rinisch libgeding, so unns uff <date when="--10-18">sanndt Lucien tag</date> nicht verschinen verfallen  
+<lb n="10"/>unnd noch unnbezalt ußgestanndenn warenn, zu unnsern sichern hannden unnd gewalt, zu unnserm nutz und  
+<lb n="11"/>frummen ingenommen unnd emmpfanngen haben, hierumb, so sagenn und zellenn wir für unns, all unser  
+<lb n="12"/>erbenn unnd nachkommen bemeltenn unnsern vettern <persName ref="lub-actors-8">von Sults</persName> sun, erbenn unnd nachkomenn unnd wer darumb  
+<lb n="13"/>quittierenns notürfftig ist, umb bemelten tusennd guldin rinisch für das libgeding unnd hunndert guldin rinisch  
+<lb n="14"/>usstenndigs libgedings unnd aller ansprach unnd zuspruch, so wir dero haben gehept hettenn, oder in künnfftigem  
+<lb n="15"/>jrmmer haben möchten fry, quidt, ledig unnd loss, in krafft disz brieffs und unnser aigenn innsigel hieran ge
+<lb n="16"/>hennckht zu urkundt besigelt unnd geben uff <origDate>zinstag vor sanndt Benedicts tag als man zalt von der gepurt  
+<lb n="17"/>Christi unnsers liebenn herrn tusennd funnffhunndert unnd in dem zechennden jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-246" n="1"/><lb n="1"/>Quittung: 
+<lb n="2"/>Welchermassen herr <persName ref="lub-actors-31">Johanns  
+<lb n="3"/><unclear>freyherr</unclear> von Brandis</persName>, thumbpropst  
+<lb n="4"/>in <orgName ref="lub-actors-2475">Strasburg</orgName>, graf <persName ref="lub-actors-8">Rudolph  
+<lb n="5"/>von Sulz</persName> umb 100 fl. jerlich leib
+<lb break="no" n="6"/>geding gelt, so abgelößt, quitiert 
+<lb n="7"/><gap/> 1510. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

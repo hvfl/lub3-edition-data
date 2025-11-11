@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-190">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Altkirch als Lehen für Rudolf V Graf von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-190">CZ-SOAT Cizí statky 4 II 30 1</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 6. Mai 1518 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/4/charter">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaiser Maximilian I. gewährt Rudolf V. Graf von Sulz als Lehen einen Gutshof in Altkirch mit der Massgabe, dass er bei einem Wechsel dieses Besitztums die entsprechenden Kosten selbst zu tragen hat.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-4">Maximilian I.</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1518-05-06">6. Mai 1518</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_statky_4_ii_30_1,_karton_2-0001.jpg" xml:id="lub-media-279" source="1518-05-06-soat-cizistatkytrebon-4-r-1.jpg" corresp="A"/>
+    <graphic url="cizí_statky_4_ii_30_1,_karton_2-0002.jpg" xml:id="lub-media-280" source="1518-05-06-soat-cizistatkytrebon-4-r-2.jpg" corresp="A"/>
+    <graphic url="cizí_statky_4_ii_30_1,_karton_2-0003.jpg" xml:id="lub-media-281" source="1518-05-06-soat-cizistatkytrebon-4-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-280" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-4">Maximilian</persName> von gotes genaden erwelter römischer kayser, zu allenn zeiten merer des <orgName ref="lub-actors-516">Reichs</orgName> in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>,  
+<lb n="2"/><placeName ref="lub-places-123">Croatien</placeName> etc. kunig, ertzhertzog zu <orgName ref="lub-actors-172">Österreich</orgName>, hertzog zu <placeName ref="lub-places-120">Burgundi</placeName>, zu <placeName ref="lub-places-121">Brabannt</placeName> unnd phalenntzgrave etc. Bekennen für unns  
+<lb n="3"/>unnd unnser erben unnd nachkomen, daz wir yezo dem edlen, unnserm lieben, getreuen <persName ref="lub-actors-8">Ruedolffen graven zu Sulz</persName> auf sein begern, auch  
+<lb n="4"/>besichtigung der, so wir darzu verordnen werden unnd der notturfft nach, etlich weyerstet in unnser herrschafft <placeName ref="lub-places-57">Altkirch</placeName>, so er von uns  
+<lb n="5"/>phanntsweys innenhat, zemachen vergonnt unnd bewilligt haben, wissenntlich hiemit in crafft dits brieffs also daz wir ime und seinen  
+<lb n="6"/>erben den cosstung, so er also auf solhe weyer zemachen legen unnd darleyhen, wievil sich des in gueter raittung befunden wirdet auf bemelt  
+<lb n="7"/>unnser herrschafft <placeName ref="lub-places-57">Altkirch</placeName> zusambt annderm phanntschilling, so sy vormals darauf habenn, slagenn unnd ime alßdann gepurlich ver
+<lb n="8"/>schreibung darüber aufrichtenn unnd uberanntworten sollen unnd wellenn, doch der gestalt, wo wir unnser erbenn, oder nachkomenn uber kurtz  
+<lb n="9"/>oder lanng obbemelt unnser herrschafft <placeName ref="lub-places-57">Altkirch</placeName> laut unnser verschreibung widerumb von inenn an unns lösen, oder anndern an unser  
+<lb n="10"/>stat ze lesen bewilligen wurden unnd unns oder dennselbenn solhe weyer darzu zunemmenn, nit gemaint noch gelegen sein wolt, daz alßdann  
+<lb n="11"/>benannter cosstung, so wie obsteet, auf die genannt herrschafft geslagenn wirdet, on erlegung unnd bezalung des phanntschillings abgezogenn  
+<lb n="12"/>unnd obberuertem grave <persName ref="lub-actors-8">Ruedolffen von Sulz</persName> die obgedachten weyer innenhaben, nuzen unnd niessen, soll unnd mag, so lanng unnd vill  
+<lb n="13"/>unnz er unnd seine erbenn desselben cossten unnd darlegenn wie obsteet, von unns oder denen wir solhe herrschafft ynnenzehaben und zuver
+<lb n="14"/>wesen bevelhen werdenn, wirderumb gennzlichen enttricht sein ongeverde. Mit urkhunt dits brieffs. Geben zw <placeName ref="lub-places-19">Ynnsprug</placeName> <origDate>am sechten  
+<lb n="15"/>tag des monats may nach Cristi unnser herrn geburde funffzehenhundert unnd im achtzehenden</origDate> unnserer Reiche des Romischen  
+<lb n="16"/>im dreyunnddreissigisten unnd des Hungerischen im newnundzwainzigisten jaren.  
+<lb n="17"/><gap/> 
+<lb n="18"/><gap/> 
+<pb facs="lub-media-279" n="2"/>
+<lb n="19"/>Commissio domini 
+<lb n="20"/>imperator<unclear>is manu propria</unclear> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-281" n="1"/><lb n="1"/>Bewilligung von tax vorgestatten 
+<lb n="2"/>zemachen in <gap/> anno etc. XVIII 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

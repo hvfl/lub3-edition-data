@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-184">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erbverzicht der Margaretha von Lupfen geborene Gräfin von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-184">CZ-SOAT Cizí rody 454 z Lupfen 3</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 4. Dezember 1560 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/454/charter?q=454">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Margaretha Gräfin von Lupfen, geborene Gräfin von Sulz, verzichtet auf jeden Anspruch aus der Erbschaft ihrer Familie.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-23">Erbe</term>
+          <term ref="lub-keywords-29">Erbverzicht</term>
+          <term ref="lub-keywords-11">Ehevertrag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1560-12-04">4. Dez 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_454_z_lupfen_3_karton_31-0001.jpg" xml:id="lub-media-253" source="1560-12-04-soat-cizirodytrebon-454-lupfen03-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_454_z_lupfen_3_karton_31-0002.jpg" xml:id="lub-media-254" source="1560-12-04-soat-cizirodytrebon-454-lupfen03-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-253" n="1"/><lb n="1"/>In dem namen gottes herren amen. Khundt unnd zu wyssen allermenigklich mit disem gegenwärtigen offen instrument unnd urkundt denen es underkompt, lessen, oder hören lessen, das als man von Christi Jhesu, unnsers geliepten herren erlößers unnd seligemachers gepurt  
+<lb n="2"/>gezalt <date>thaussent fünffhundert unnd sechtzig jar</date> in der dritten römerzinnßzal, zu latin indictio genant, bey zeit unnd regierung deß allerdurchleuchtigisten, großmachtigisten fürsten unnd herren <persName ref="lub-actors-26">Ferdinandi</persName> römischen kaysers, zu allen zeiten maerer des <orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Böhaim</placeName>,  
+<lb n="3"/><placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName> unnd <placeName ref="lub-places-294">Schlavonien</placeName> khunig, infandt zu <placeName ref="lub-places-253">Hispanien</placeName>, erzherzogs <orgName ref="lub-actors-172">zu Össterreich</orgName>, herzog zu <placeName ref="lub-places-120">Burgundi</placeName>, <placeName ref="lub-places-259">Steyr</placeName>, <placeName ref="lub-places-260">Kerndten</placeName>, <placeName ref="lub-places-261">Crayn</placeName> und <placeName ref="lub-places-263">Wirtemberg</placeName>, graven zu <placeName ref="lub-places-96">Tyrell</placeName> etc. unsers allergnedigisten herrn, seiner maisten <orgName ref="lub-actors-516">Reiche des Römischen</orgName> im dreyssigsten unnd der ander aller im vier und dreyssigisten  
+<lb n="4"/>jare, majitwoch den <date when="1560-12-04">vierdte tag des monats decembris</date> zwischen ailff unnd zwölff vor mittag zeit in der statt <placeName ref="lub-places-56">Tuengen</placeName> unnd daselbsten in dem schloß, dem klainen stublin neben dem saal, seinde vor mir offen geschwornnen und approbierten notario, nachdem ich zuvor zum nachfolgenden geschäfft  
+<lb n="5"/>amptshalb, wie sich gepirt, erfordert worden, sampt den gezeugen nachbenant erschinen und gestanden, die wolgebornnen herrn, herrn <persName ref="lub-actors-109">Jacob grave zu Zwayenbrugkhen</persName>, herr zu <placeName ref="lub-places-789">Bitsch</placeName>, <placeName ref="lub-places-790">Liechtennberg</placeName> unnd <placeName ref="lub-places-807">Ochssenstain</placeName> etc., herr <persName ref="lub-actors-10">Wilhalm</persName> unnd herr <persName ref="lub-actors-9">Alwig</persName>, gebrueder, graven <orgName ref="lub-actors-7">zu Sulz</orgName>, landtgraven  
+<lb n="6"/>in <placeName ref="lub-places-18">Cleggew</placeName>, sodann herr <persName ref="lub-actors-107">Eyttel Friderich grave zu Lupffen</persName>, landtgrave zu <placeName ref="lub-places-58">Stiellingen</placeName>, auch fraw <persName ref="lub-actors-112">Margretha von Lupffen, gebornne gräffin zu Sulz</persName>, sein freundtlich liebe eegemahle, desgleichen die edlen, vesten <persName ref="lub-actors-2477">Hanns Mölchier Hegezer</persName>, römisch kayserlicher majestät rath unnd H<persName ref="lub-actors-2478">anns Joachim von Haydegkh</persName>, in namen  
+<lb n="7"/>und als iner frewen <persName ref="lub-actors-112">Margretha</persName> hierynnen unnd zu diser sachen angenennten und erpettener vormunder alle meine gnedigen herren, frawen unnd gunstige junckhern, unnd ließ die yez und wolgedachte fraw <persName ref="lub-actors-112">Marggretha von Lupffen, gepornne gräffin zu Sulz</persName> etc. durch erstbemelten <persName ref="lub-actors-2478">Hanns  
+<lb n="8"/>Joachim von Haydeckh</persName> etc., iren vormundern, diz maynung fürtragen. Nachdem mer und wolernante fraw <persName ref="lub-actors-112">Margretha von Lupffen, gepornne gräffin zu Sulz</persName>, verschiner irem dem wolgebornnen herrn, herrn <persName ref="lub-actors-107">Eyttel Friderichen graven zu Lupffen</persName>, landtgraven zu <placeName ref="lub-places-58">Stiellingen</placeName>, irem freundt
+<lb break="no" n="9"/>lichen lieben herrn unnd gemahel eelich verheurat werden. Damals und bey solchem heurat under anderm abgeredt und bethädigt, das sye, fraw <persName ref="lub-actors-112">Margretha von Lupffen, gebornne gräffin zu Sulz</persName> etc., sich zum krefftigisten und nach vermög der rechten verzeichen und begeben, solle alles vätterliche guett
+<lb break="no" n="10"/>erliche, bruederlichen und schwesterlichen verlassnen guts und erbfählen von denen der graffschafft und herschafft Sulz bißhär gefallen, meren, oder furo gefalle würden, alles innhalt heurat nottels darüber ufgericht, denselben articul volg und statt zu thun, hette fraw <persName ref="lub-actors-112">Margretha von Lupffen, 
+<lb n="11"/>gebornne gräffin zu Sulz</persName> etc., selbigen iren verzig und was maßen sye den thun welte, mit wolermeltes ires freundtlichen lieben herrn und gemahels, auch seinen als vermunder alß gutten rath, wissen und willen, ganz wolbedachtlich in ain schrifft und papirun zedel verfaßt, den erken, verkenn  
+<lb n="12"/>vor euch offen geschwornnen notarien, unnd disen gegenwirtigen gezeugen erscheinen wir, <persName ref="lub-actors-112">Margretha, grävin zu Lupffen, gepornne gräffin zu Sulz</persName> etc., bekennen und thuen kundt mengklich mit diser schrifft für uns, unser erben und nachkomen, als durch schigkung gottes almächtigen,  
+<lb n="13"/>mit wissen, rath und willen der wolgebornnen <persName ref="lub-actors-10">Wilhelmen</persName> und <persName ref="lub-actors-9">Alwigen</persName> graven <orgName ref="lub-actors-7">zu Sulz</orgName>, landtgraven im <placeName ref="lub-places-18">Cleggew</placeName> etc., unserer freundtlichen lieben gebrueder des verschinen drey unnd fünffzigisten jares, wir eelichen verheurat werden seindt dem wolgebornnen <persName ref="lub-actors-107">Eyttel Friderichen  
+<lb n="14"/>graven zu Lupffen</persName>, landtgraven zu <placeName ref="lub-places-58">Stiellingen</placeName> etc., unserm freundtlichen lieben herrn unnd gemahel. In derselbigen heuratsberedung, aber mit vorwissen yezgemelts unßers herrn und gemahels, nemlichen bethudingt, abgeredt unnd beschlossen worden ist, mit was zugab, abfertigung,  
+<lb n="15"/>wydumb wydem sitz, morgengab, varendt haab und andern wir sollen versorgt und versichert werden. Daruf auch mit demselbigen von der graffschafft und herschafft Sulz etc. dahin wir geboren, abverttiget sein und uns in besser und bestendigister form das von rechts oder gewon
+<lb break="no" n="16"/>hait wegen beschehenn kundt, solle oder möcht, aigner person, wie sich nach frawlicher rechten gepürt, gründtlich verfeichen sollen unßers vätterlichen, muetterlichen, <unclear>br</unclear>uderlichen und schwesterlichen verlaßnen guth und erbfählen von denen der bemelten graffschafft und herschafft 
+<lb n="17"/>Sulz etc. bißhäro oder furderhin zu gefallen werendt, oder würden, und wir oder unser erben derhalben etwas vähig thayl, oder gemain haben mögen, so wir dann denen, auch yederzeit und sonderlichen, in oben vermeltet unser verheurattung, unser darbey geschehenn versehung  
+<lb n="18"/>gedachter unnser freundtlicher lieber gebrueder, gutten frundtlichen willen vermerkt haben, seindt wir in betrachtung abgemelter unser gebrueder und derelbigen erben uffkomen, auch die ehr unnsers stammens <orgName ref="lub-actors-7">von Sulz</orgName> etc., die wir jeder zeit gern haben und sechen welen, ganntz  
+<lb n="19"/>willig gewessten und nach obangezaigten verzig, wie sich gepirt zu thun. Unnd dem allem nach sei wir mit willen, wissen, vergunst unnd gehaiss obgemelts unnsers lieben herrn und gemahels, darzu auch des edlen und vesten unsers lieben besonders <persName ref="lub-actors-2478">Hanns Joachims von Haydegkh</persName> etc., als  
+<lb n="20"/>unsers hierynnen angenommen und erpettnen vormundts gleichem gunst, wissen und zulassen, uß freyem wolbedachtem mut, vorgemelten unsern gebruedern unnd iren eelichen leibs erben entwichen, ganz zu mal für unns und unsere erben und thuen das hiermit nachter aller  
+<lb n="21"/>bessten unnd bestendigisten form, wie es in allen rechten, gaistlichen und weltlichen, auch allen lands sitten, gewonhaiten unnd ubungen mit krafft hat haben soll und mag, fürer uns, unsere erben und nachkomen und menigklichs von unsert wegen, wie unns die vom gebluet verwandt  
+<lb n="22"/>werendt, oder sein würden, dann wie sollichen verzig us freyen muet, rechten wissen und uß aigner bewegnus, one getrungen und one bezwungen, uff die graffschafft und herschafft Sulz etc., aller obgemelter vätterlicher, muetterlicher, bruederlicher unnd schwesterlicher erbschafften,  
+<lb n="23"/>auch unnsers naturlichen khunde und anthails erfüllung, und aller anders, es seye an aigen lüthen, pfandtschafften und barschafften, ligende oder varende, in alweg nicht ußgeschiden noch vorbehalten, das uns durch obangemelte weg zugehörig gewessen, oder fürderhin werden,  
+<lb n="24"/>merher gethan haben. Wir verzeuchen unns auch hiemit aller inred, restitution des aliers und anderer sachen, aller suplication, usszug, schirm und behelff der gemainden rechten, die disen verzig zur uns verlegen etc. Dann wir wöllen uns hierynn des kirchen rechten gepruchs haben und dann aller  
+<lb n="25"/>anderer, so dem weiplichen geschlecht desselben blödigkait halb von Vellegiano und divo Adriano, oder anderer gegeben, zu fürstandt komen muchten, sonderlichen aber auch der rechten das gemaine verziehung nit bindig, es gar dann ain sönnders zuvor und in kurz aller anndern  
+<lb n="26"/>freyhaiten und gnaden, die unser person aliers oder dergleichen sachen halben, uß gemainen oder sonderlichen rechten oder gewonhaiten hiewider möchten fürgezogen werden, unns der nit zu zu gepruchen unnd damit in künfftiger zeit durch unns, unsern herrn unnd gemaheln, unnsere  
+<lb n="27"/>erben, freund, oder andere hierwider nicht gehandlet werde, des gescheche gleich woll mit oder one recht, auch dhainerlay vermuttung oder zufahl, als ob wir durch dißen unnsern verzig, oder deselben bewilligung mit furcht, gewalt, doer arglist hinderkomen und mit höchster  
+<lb n="28"/>verlezung überlengt weren, das wir uß unser fürsichtigkeit, unnserer jugent, mindern jaren, oder anderen sachen, die in rechten zuvor gegrundt und usgetrugkt weren, erfunden oder auch von obrigkait wegen unns, unsern erben und nachkomen hiewider zu hilff mittge
+<lb break="no" n="29"/>thaylt werden möchte. Dann wir sollichs alles hiemit krafft loß gemacht und getan haben wöllen, als wir unns dessen alles hiemit bekennen, uß rechten wissen und vorgenden gnugsamen erinnerung wider die sich auch fuegen das yemands, wer der were, von unnsers, 
+<lb n="30"/>oder unnser erben wegen, unns oder sye hievon zu erledigen understeen, oder aber unns, oder unser erben durch die obrigkait uß aigner bewegnus hierwider alles und yedes etwas vergundt unnd verlorhen werde. Nachdem wir fürnemlichen unserer fröwlichen frey
+<lb break="no" n="31"/>haiten unnd was uns derhalben auch sonnsten allen rechten nach zu fürstandt komen, möchte gnugsam verstendigklichen und underschidliche bericht worden, wöllen und sollen wir unnd unsere erben dasselbig alles noch ainst thails nit annemen, oder desselbigen nit 
+<lb n="32"/>gepruchen noch weniger behelffen, sonnder das krafftlos und für nichtig achten, hiemit unkrefftig und zu unnerden gemacht haben, auch schuldig sein, disem, unserm verzig, gestracks zu geleben unnd nachzukomen, also, das dergleichen sachen noch ainicher geprech durch unns,  
+<lb n="33"/>oder unnser erben hier wider nit fürgenomen noch yemands bevelchen, oder wie das dan unnser wegen gehandlet, dasselbig nit solle angenomen und gehalten werden. Dann wir unns dessen alles bey unnsern frowlichen eeren für unns, unnser erben unnd nachkomen  
+<lb n="34"/>mit wissen, willen, gunst und gehaiß, obsteen lütterlichen unnd genzlichen begeben unnd uns daruff verzigen haben, yez alßdann und dann als yezo. Yedoch haben wir unns, unsern eelichen leibs erben vorbehalten, unns auch gleicher gestalt von den wolgebornnen <persName ref="lub-actors-10">Wilhalm</persName>  
+<lb n="35"/>unnd <persName ref="lub-actors-9">Alwigen</persName>, gebruedern, graven <orgName ref="lub-actors-7">zu Sulz</orgName>, landtgraven in <placeName ref="lub-places-18">Cleggaw</placeName>, unsern freundtlichen lieben gebruedern, so personlich alhie zugegen für sich und ire erben hierynnen freundtlich unnd bruederlich vergeundt und zugelassen, wo sich über kurz oder lang zeit ain  
+<lb n="36"/>nebentfahl zutragen und begeben würde, woher unnd von whem das sein unnd gelangen möchte, daß unns, auch unsern eelichen leibs erben, an unnsern gepirlichen erbschafften unnd erbgerechtigkeiten hiemit und bei dißem veszig, ganz nichz benomen, sonder die alle  
+<lb n="37"/>unnd yede, sament unnd sonderlichen, uß taugklichen unnd in alweg vorbehalten sein. Doch so wir one eeliche leybs erben mit todt abgiengen, alßdann dasselbig alles, nichz ußgenomen, sampt dem zugeprachten heuratgut, solle obgemelter unnser freundtlicher lieber herr und  
+<lb n="38"/>gemahel sein leben lang, aber one minderung hauptguts, nutzen unnd niessen, aber nach seinem tödtlichen abgang widerub hinder sich an unsere nechsten plutsverwandten und erben, davon es herkomen und denen es auch von rechts wegen gepirt, unnd sonnst an  
+<lb n="39"/>niemands andern erblich fallen und wachssen, und also uff ablessung unnd verhörung erstbemelts zedels unnd schrifft fraget ich, unden benanter notarius, wolgedacht fraw <persName ref="lub-actors-112">Margretha von Lupffen, gepornne gräffin zu Sulz</persName>, mein gnedig frawen etc., die doch zuvor zum andern mal ußge
+<lb break="no" n="40"/>standen und mit irem freundtlichen lieben herrn unnd gemahel, herrn <persName ref="lub-actors-107">Eytel Friderichen graffen zu Lupffen</persName>, landtgraven zu <placeName ref="lub-places-58">Stiellingen</placeName>, unnd <persName ref="lub-actors-2478">Hanns Joachim von Haydegkh</persName> etc., iren erpettnen und angenemmen formunndern, gnugsamlich unnd nach lengs underredt, ob das ihrig unnd 
+<lb n="41"/>wie ir yezbemelten zedel begriffen und geschriben, ir freyer unbezwungner stäter will unnd meynung were, auch sein solte unnd solcher maßen sich verzigen unnd begeben haben, auch denselbigen verzig unnd diz alles vermög der rechten mit leyblichem ayde betheuren unnd be
+<lb break="no" n="42"/>stettigen welte (als nun ire gnaden zu sollichem allem lutter unnd ustrucgklich ja gesagt, hab ich iren gnaden den ayde mit gepirenden worten unnd capital gegeben, den sye auch mit zwayen usgestreckten fordern fingern irer gerechte hannd uff ire linck brust 
+<lb n="43"/>gelegt, leiplich zu gott unnd den hailligen, wie recht, geschworen. Daruber frage ich further den wolgebornnen herrn, herrn <persName ref="lub-actors-107">Eyttel Friderichen graven zu Lupffen</persName>, landtgraffen zu <placeName ref="lub-places-58">Stiellingen</placeName>, meinen gnedigen herrn, ob seiner gnaden freundtliche liebe gemahel, frow <persName ref="lub-actors-112">Mar
+<lb break="no" n="44"/>gretha von Lupffen, geporne greffin zu Sulz</persName>, sollichen verzig unnd alles wie obsteet mit seiner gnaden, als derselben eegemahels gutten gunst, wissen, willen unnd gehaiss thette und volfierte, seine gnaden auch für sich, derselben erben und nachkomen darbey pleiben wird 
+<lb n="45"/>unnd stet halten, darwider nichz reden wolte, auch yemands zu thun gestatten, weder yez noch künfftigklich in kainen weg, haben seine gnaden gleichfals mit ussprechendem mundt ja gesagt. Beyneben dem fraget ich gemelten <persName ref="lub-actors-2478">Hanns Joachim von Haydegkh</persName> etc., meinen  
+<lb n="46"/>günstigen junckhern, als von vor unnd wolgedachter frawen <persName ref="lub-actors-112">Margrethn von Lupffen, gepornne gräffin zu Sulz</persName> et., erpettner und angenomenen vormundern, ob seiner vestin vogtfrew, erst und wolbenante fraw <persName ref="lub-actors-112">Margretha</persName>, angeregten verzig und dasjhenig von ire begriffen  
+<lb n="47"/>unnd verlessen, mit seinem als vermunders guttem gunst, wissen und willen gethan und erstatten. Er auch ja gesagt, das es sein will und maynung sei, wover auch zu vormundsweiss darbei pleiben, darwider nit handlen noch thun in kainen weg, welchenn  
+<lb n="48"/>verzig unnd alles oberzelter maßen geschechene, auch bayde wolernante herrn <persName ref="lub-actors-10">Wilhelm</persName> und herrn <persName ref="lub-actors-9">Alwig</persName>, gebrueder, graven <orgName ref="lub-actors-7">zu Sulz</orgName>, landtgraven in <placeName ref="lub-places-18">Cleggew</placeName>, meine gnedigen herren, von frawen <persName ref="lub-actors-112">Margretha von Lupffen, gepornne greffin zu Sulz</persName> etc. irer freundtlichen lieben  
+<lb n="49"/>schwestern, gegenwirtigklich zu freundtlichen, bruderlichen, dannckbarlichen bemügen uff unnd angenomen. Diss alles ergangen in dem jar indiction, kayserlicher regierung monat, tag, stund unnd der ende oblut in beysein der edlen vesten Walraff zue <gap/> und  
+<lb n="50"/>Jergen Wilwalt von Zeilen, meiner günstigen junckhern, die ich derselbigen sachen neben mir ingedennckh ze sein, als gezeugen hierüber insonderhait mit vleiß erfordert und geporn. Unnd wir, <persName ref="lub-actors-107">Eytell Friderich grave zu Lupffen</persName>, landtgrave zu <placeName ref="lub-places-58">Stuellingen</placeName> etc.  
+<lb n="51"/>ver<unclear>jahen</unclear> wie vom notario angezogen, das unnsere freundtliche liebe gemahel frew <persName ref="lub-actors-112">Margretha von Lupffen, gepronne gräffin zu Sulz</persName>, sollichen verzig unnd alles wie obsteet, mit unserm als ires egemahles gutten gunst, gehaiß, gethan und volfierdt, bereden unnd ver
+<lb break="no" n="52"/>sprechen, auch hierynn bey unnsern gräfflichen eren für unns unnd unsere erben, darbey zu pleiben, war unnd stet zu halten. Darwider nichz reden, thun, noch schaffen gehen werden, weder yezt oder hienach, kains wegs. Desselben zu warem urkhundt haben wir uff 
+<lb n="53"/>vylgedachten unnserer freundtlichen lieben egemahls fraw <persName ref="lub-actors-112">Margretha von Lupffen, gepornne gräffin zu Sulz</persName> etc., freundtlicher pitt willen, auch für uns selbs, unns und unserer beder erben, damit diß alles zu bezeugende unser aigen angeporn innsigel an diß  
+<lb n="54"/>offen instrument gehenckt. So bekenne ich, <persName ref="lub-actors-2478">Hanns Joachim von Heydegk</persName>, als von der wolgebornnen frewen, fraw <persName ref="lub-actors-112">Margretha von Lupffen, gepornne gräffin zu Sulz</persName> etc. hierzu erpettener vormunder, das in maßen der notari erzellt ire gnaden angeregten   
+<lb n="55"/>verzig unnd dasjhenig hieoben vermeldet, mit meinem, als irer gnaden vormundere wissen unnd willen gethan unnd erstattet, versprich auch bey <gap/> waren truwen und glauben in vormundt weiß, darbei zu pleiben, war und stet zu halten, zu merer  
+<lb n="56"/>begrefftigung desselben uff wolgedachten meiner gnedigen vogtfrewen pitt unnd dann für mich in vormundsweiß hab ich auch mein aigen angeporn inns<unclear>igel</unclear> hieran thun hennckhen. Doch mir und meinen erben usserhalb in andere weg one nachthayl und schaden. 
+</p>
+        <p><lb n="57"/>Wann nun ich, Johann Noppis, bürger unnd des kayserlichen <orgName ref="lub-actors-519">Hovegerichts</orgName> cannzley secretarius zu <placeName ref="lub-places-17">Rotweil</placeName>, unser römischen khayserlichen gevalier gefuegter offener unnd am kayserlichen <orgName ref="lub-actors-521">Chammergericht</orgName>  
+<lb n="58"/>approbierter zugelassner notarius bei gethonen fürpringen übergeben unnd verlessung des zedels gesolnen entpfachung des ayde erinnerung unnd befragung auch gefallen, antwurtung  
+<lb n="59"/>aller obgemelten partheyen allem anderm jhenigen hieoben zu getragen und verlouffen, sampt den gezeugen personnlich zu gegen gereissten, das gesechen geherrdt, vernomen und  
+<lb n="60"/>meins thailß verhandlet. Hierumb hab ich diz offen instrument hierüber gemacht in diß form, gestallt, mit meiner selbs aigen hanndt gechriben unnd underschriben.  
+<lb n="61"/>Darzu mit meinem gewonnlichen signet unnd notariatzaichen signiert unnd bezaichnet, alles zu warem glaubwirdigem urkundt unnd gezeugknus obbestimpter sachen das  
+<lb n="62"/>zu thun, wie sich gepirt, amptshalben requiriert, erfordert unnd gepenen. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-254" n="1"/><lb n="1"/>Verzig  
+<lb n="2"/>der wolgebornen frawen, frawen  
+<lb n="3"/><persName ref="lub-actors-112">Margretha grävin zu Lupfen,  
+<lb n="4"/>geborner gräfin zu Sulz</persName> etc. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

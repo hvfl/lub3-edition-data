@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1134">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dekret betreffend die bessere Kultivierung der Wochen- und Jahrmärkte in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1134">AT-HAL, H 2644 unfol</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 4. Mai 1607 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Karl Ludwig von Sulz befiehlt den Untertanen der Grafschaft Vaduz, alle Arten von Produkten regelmässig auf den Wochen- und Jahrmärkten feil zu bieten. Diese Wochenmärkte finden immer am Donnerstag in Vaduz beim neuen Bau, oder auf dem Platz bei der Linde statt. Es</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-107">Wochenmarkt</term>
+          <term ref="lub-keywords-10">Jahrmarkt</term>
+          <term ref="lub-keywords-306">Ware</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <placeName ref="lub-places-33">Vaduz, Schloss</placeName>
+          <date when="1607-05-04">4. Mai 1607</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_2644_unfol__1607_mai_4-0001.jpg" xml:id="lub-media-2675" source="hal-h-2644-1607-05-04-1.jpg" corresp="B1"/>
+    <graphic url="at-hal__h_2644_unfol__1607_mai_4-0002.jpg" xml:id="lub-media-2676" source="hal-h-2644-1607-05-04-2.jpg" corresp="B1"/>
+    <graphic url="at-hal__h_2644_unfol__1607_mai_4-0003.jpg" xml:id="lub-media-2677" source="hal-h-2644-1607-05-04-3.jpg" corresp="B1"/>
+    <graphic url="at-hal__h_2644_unfol__1607_mai_4-0004.jpg" xml:id="lub-media-2678" source="hal-h-2644-1607-05-04-4.jpg" corresp="B1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2675" n="1"/><lb n="1"/>Getrewe liebe ambts unterthanen. 
+<lb n="2"/>Dieweil wir abermahlen vernommen, daß beynah  
+<lb n="3"/>der mehrentheyl under euch ihr vieh, schaaf,  
+<lb n="4"/>kälber, schmaltz, käß, hüener, ayer, flachs,  
+<lb n="5"/>hanff, tuch und anders heimlichen weyß  
+<lb n="6"/>an frembde orth verführen, tragen und ver
+<lb break="no" n="7"/>kauffen, und weeder wochen- noch jahrmarckten 
+<lb n="8"/>allhie in der herrschafft achten, ohnangesehen hie
+<lb break="no" n="9"/>bevor unser gnädiger herr, herr <persName ref="lub-actors-13">Carl Lud
+<lb break="no" n="10"/>wig graff zu Sultz</persName>, landgraff in <placeName ref="lub-places-18">Cleggen</placeName>, 
+<lb n="11"/>deßwegen mehrmahlen unterschiedliche mandaten  
+<lb n="12"/>hat lassen ußkhünden, die da vermügen,  
+<lb n="13"/>daß ihr es zuvor in der herrschafft, und sonder
+<lb break="no" n="14"/>lich in ihro gnaden behausung und <placeName ref="lub-places-33">Schloß</placeName>, und 
+<lb n="15"/>derselben vorgesetzten oberamtleüthen, auch denen  
+<lb n="16"/>wirthen hin und wieder hätten faylbieten  
+<lb n="17"/>sollen, daß aber von etlichen vielen unter euch  
+<lb n="18"/>freventlichen unterlassen und in wind geschlagen  
+<lb n="19"/>worden. Deme aber zue fürkommen,  
+<lb n="20"/>so gebieten wir im nahmen unsers gnädigen  
+<lb n="21"/>herrn darauf ernstlich und wollen, daß ihr  
+<lb n="22"/>allesamt und sonders, welcher etwas zu ver
+<lb break="no" n="23"/>kauffen hat, an jetzo über kurtz oder lang, 
+<lb n="24"/>es seyen ochsen, kühe, rinder, kälber, schaaf,  
+<lb n="25"/>schwein, geisslein, kützin, schmaltz, käß, gänß,  
+<lb n="26"/>enten, hüener, ayer, flachs, hanff, tuch, oder  
+<pb facs="lub-media-2676" n="2"/>
+<lb n="27"/>anderes, was oder woran daß sey, nichts darvon  
+<lb n="28"/>außgenommen, hinfürter solches alle wochen auff  
+<lb n="29"/>den donnerstag geen <placeName ref="lub-places-1">Vadutz</placeName> auff und zue dem  
+<lb n="30"/>newen baw, oder uff dem <placeName ref="lub-places-785">Platz bey der Linden</placeName>,  
+<lb n="31"/>je nach gelegenheit der zeit, bringen und nichts im  
+<lb n="32"/>hauß oder anderwerts, weeder metzgern noch an
+<lb break="no" n="33"/>dere verkauffen, es seye dann zuvor daselbsten 
+<lb n="34"/>zue <placeName ref="lub-places-1">Vadutz</placeName> fayl gebotten worden bey peen und  
+<lb n="35"/>straff 10 lb. d. ohnnachläßlich zubezahlen, und  
+<lb n="36"/>daß sich begebe, daß an dem bestimten donnerstag  
+<lb n="37"/>ein feyertag wäre, so soll der marckt an nächsten  
+<lb n="38"/>wercktag darnach gehalten werden, und welcher  
+<lb n="39"/>daßjenige, was er fail hat, an den geordneten  
+<lb n="40"/>marckttagen nit verkauffen, der möchte es dar
+<lb break="no" n="41"/>nach anderwärts verkauffen nach seiner gele
+<lb break="no" n="42"/>genheit und besten nutzen.
+<lb n="43"/>Darob sollen die ambtleüth und geschwornen mit  
+<lb n="44"/>ernst uffsehens haben und alle unsers gnädigen  
+<lb n="45"/>herrn unterthanen ein jeder bey seinem aydt,  
+<lb n="46"/>damit er unserm gnädigen herrn zugethan,  
+<lb n="47"/>deme also nachkommen und die verbrecher  
+<lb n="48"/>angezaigt werden. 
+</p>
+        <p><lb n="49"/>Werden die jahrmärckt gehalten werden wie  
+<lb n="50"/>folgt. 
+</p>
+        <p><lb n="51"/>Verzaichnus der jahrmärckt, so jährlichen  
+<lb n="52"/>in der graffschafft <placeName ref="lub-places-7">Vadutz</placeName> gehalten werden. 
+<lb n="53"/>Der erste. 
+<lb n="54"/>Wirdt gehalten alle jahr uff <date when="--10-16">S. Gallen tag</date>,  
+<lb n="55"/>weil aber er dieses jahr uff den sonntag fallt,  
+<pb facs="lub-media-2677" n="3"/>
+<lb n="56"/>wirt er am montag darnach begangen werden. 
+<lb n="57"/>Der ander. 
+<lb n="58"/><date when="--12-07">Am nächsten tag nach Nicolai</date>, oder wo derselbig  
+<lb n="59"/>tag ein sonntag oder feyrtag wäre, am mon
+<lb break="no" n="60"/>tag darnach.
+<lb n="61"/>Der dritte. 
+<lb n="62"/>Am <date when="--03-01">ersten montag martii</date>. 
+<lb n="63"/>Der vierte. 
+          <lb n="64"/>Am nächsten montag nach deß <date when="--05-03">Heyligen Creutz  
+<lb n="65"/>Erfindung im mayen</date>. 
+<lb n="66"/>Der fünffte und letzte. 
+<lb n="67"/>Auff den nächsten <date when="--09-28">tag vor Michaelis</date>. 
+<lb n="68"/>Datum <placeName ref="lub-places-1">Vadutz</placeName>, den <origDate>4. tag maii anno 1607</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2678" n="1"/><lb n="1"/>Decret  
+<lb n="2"/>an die Vadutzer herrschafft  
+<lb n="3"/>unterthaner in puncto besserer  
+<lb n="4"/>cultivirung der wochen- unnd  
+<lb n="5"/>jahr-märckten, alß ehedessen. 
+<lb n="6"/>De dato <origDate>4. maii 1607</origDate> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

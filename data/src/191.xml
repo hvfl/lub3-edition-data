@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-191">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rudolf V. Graf von Sulz erhält ein Haus in Innsbruck</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-191">CZ-SOAT Cizi statky 336 II 191 A 1</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 21. April 1534 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/336/charter?q=336">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der römische König Ferdinand I. schenkt Rudolf V. von Sulz und dessen Frau Margaretha das sogenannte "Kräuterhaus" in Innsbruck.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-28">Haus</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1534-04-21">21. Apr 1534</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizi_statky_336_ii_191_a_1,_karton_47-0001.jpg" xml:id="lub-media-298" source="1534-04-21-soat-cizistatkytrebon-336-r-1.jpg" corresp="A"/>
+    <graphic url="cizi_statky_336_ii_191_a_1,_karton_47-0002.jpg" xml:id="lub-media-299" source="1534-04-21-soat-cizistatkytrebon-336-r-2.jpg" corresp="A"/>
+    <graphic url="cizi_statky_336_ii_191_a_1,_karton_47-0003.jpg" xml:id="lub-media-300" source="1534-04-21-soat-cizistatkytrebon-336-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-299" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-26">Ferdinannd</persName> von gots genaden römischer künig zu allenn zeiten merer des <orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName> zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Beheim</placeName>, <placeName ref="lub-places-122">Dalma
+<lb break="no" n="2"/>cien</placeName>, <placeName ref="lub-places-123">Croacien</placeName> etc. künig, infannt in <placeName ref="lub-places-253">Hispanien</placeName>, erzherzog zu <orgName ref="lub-actors-172">Österreich</orgName>, herzog zu <placeName ref="lub-places-120">Burgunndi</placeName> etc., graf zu <placeName ref="lub-places-96">Tyrol</placeName> etc. bekennen. Als 
+<lb n="3"/>weylennd graf <persName ref="lub-actors-2498">Ludwig Helffrichs von Helffennstain</persName> gelassen wittib mit tod abganngen, dardurch unnser behawsung alhie zu  
+<lb n="4"/><placeName ref="lub-places-19">Ynnsprugg</placeName>, genannt das <placeName ref="lub-places-808">Kreweterhaws</placeName>, daz ir ir leben lanng verschriben gewest, verledigt worden. Daz wir darauf die
+<lb break="no" n="5"/>selb unnser behawsung dem wolgebornnen unnserm lieben getrewen <persName ref="lub-actors-8">Ruedolffen graven zu Sulz</persName>, unnserm statthalter <placeName ref="lub-places-160">Ober
+<lb break="no" n="6"/>österreichischer Lannde</placeName>, aus sonndern gnaden bewilligt. Also daz er unnd sein gemachel dieselb unnser behawsung mit 
+<lb n="7"/>irer gerechtigkait unnd zuegehörung sein, des grafen, leben lanng söllen unnd mügen innhaben, brauchen, nutzen unnd niessen,  
+<lb n="8"/>nach irer notturfft unnd gevallen, von unns unnd menigclich daran unverhinndert. Mit vorbehalt des gebrauchs zu  
+<lb n="9"/>unnsern notturfften in derselben behawsung, wie bey leben gedachter <persName ref="lub-actors-2505">gräfin zu Helffennstain</persName> bißher gewest ist, ongeverde.  
+<lb n="10"/>Mit urkunndt dits briefs, geben zu <placeName ref="lub-places-19">Ynnsprugg</placeName> am <origDate>ainunndzwainzigisten tag des monats apprilis nach  
+<lb n="11"/>Cristi geburde fünffzehenhunndert unnd im vierunnddreyssigisten</origDate>, unnserer <orgName ref="lub-actors-516">Reiche des Römischen</orgName> im vierdten unnd der  
+<lb n="12"/>anndern im achtennden jarn. 
+</p>
+        <p><pb facs="lub-media-298" n="2"/><lb n="13"/>Commissio domini 
+<lb n="14"/>regis in consilio 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-300" n="1"/>
+          <lb n="1"/>
+          <gap/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

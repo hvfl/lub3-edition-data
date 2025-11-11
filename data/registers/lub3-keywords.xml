@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-15 17:24:53 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-11-11 16:05:59 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-08-15T17:24:53+02:00">teiHeader was automatically produced from the database 2025-08-15T17:24:53+02:00</change>
+      <change when="2025-11-11T16:05:59+01:00">teiHeader was automatically produced from the database 2025-11-11T16:05:59+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -96,6 +96,12 @@
           <label xml:lang="de" type="sort">zoll</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-10">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Jahrmarkt</label>
+          <label xml:lang="de" type="sort">jahrmarkt</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-11">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Ehevertrag</label>
@@ -150,6 +156,12 @@
           <label xml:lang="de" type="sort">privileg</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-23">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Erbe</label>
+          <label xml:lang="de" type="sort">erbe</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-26">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Erbschaft</label>
@@ -166,6 +178,12 @@
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Haus</label>
           <label xml:lang="de" type="sort">haus</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-29">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Erbverzicht</label>
+          <label xml:lang="de" type="sort">erbverzicht</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
         <item xml:id="lub-keywords-30">
@@ -327,6 +345,12 @@
           <label xml:lang="de" type="sort">schmalz</label>
           <objectType xml:lang="en">Sachschlagwort</objectType>
         </item>
+        <item xml:id="lub-keywords-107">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Wochenmarkt</label>
+          <label xml:lang="de" type="sort">wochenmarkt</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-108">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Jagdrecht</label>
@@ -350,7 +374,7 @@
           <label xml:lang="de" type="main">passbrief</label>
           <label xml:lang="de" type="sort">passbrief</label>
           <note type="description" xml:lang="de">
-            <p><note type="editorial">Reise</note>Pass, Passierschein, Ausweis</p>
+            <p>(Reise)Pass, Passierschein, Ausweis</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
@@ -1352,7 +1376,7 @@
           <label xml:lang="de" type="main">mannsspanne</label>
           <label xml:lang="de" type="sort">mannsspanne</label>
           <note type="description" xml:lang="de">
-            <p>Längenmass <note type="editorial">Spannweite einer Männerhand</note>.</p>
+            <p>Längenmass (Spannweite einer Männerhand).</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1524,7 +1548,7 @@
           <label xml:lang="de" type="main">garnrichte</label>
           <label xml:lang="de" type="sort">garnrichte</label>
           <note type="description" xml:lang="de">
-            <p>Ort, wo Netzfallen <note type="editorial">für Tiere</note> aufgestellt sind.</p>
+            <p>Ort, wo Netzfallen (für Tiere) aufgestellt sind.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1556,7 +1580,7 @@
           <label xml:lang="de" type="main">käner</label>
           <label xml:lang="de" type="sort">kaener</label>
           <note type="description" xml:lang="de">
-            <p>Wasserleitungsrinne; rinnenförmige Bodensenkung <note type="editorial">im Gebirge</note></p>
+            <p>Wasserleitungsrinne; rinnenförmige Bodensenkung (im Gebirge)</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1639,7 +1663,7 @@
           <label xml:lang="de" type="main">treien</label>
           <label xml:lang="de" type="sort">treien</label>
           <note type="description" xml:lang="de">
-            <p>Fussweg <note type="editorial">im Gebirge</note>, Viehweg.</p>
+            <p>Fussweg (im Gebirge), Viehweg.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1671,7 +1695,7 @@
           <label xml:lang="de" type="main">hauptvieh</label>
           <label xml:lang="de" type="sort">hauptvieh</label>
           <note type="description" xml:lang="de">
-            <p>Ausgewachsenes Stück <note type="editorial">Rind</note>Vieh.</p>
+            <p>Ausgewachsenes Stück (Rind)Vieh.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -1993,7 +2017,7 @@
           <label xml:lang="de" type="main">anfall</label>
           <label xml:lang="de" type="sort">anfall</label>
           <note type="description" xml:lang="de">
-            <p>Eintreten <note type="editorial">einer Erbschaft</note> als Rechtsvorgang; Erbteil; Erbanspruch.</p>
+            <p>Eintreten (einer Erbschaft) als Rechtsvorgang; Erbteil; Erbanspruch.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2064,7 +2088,7 @@
           <label xml:lang="de" type="main">Spiess</label>
           <label xml:lang="de" type="sort">spiess</label>
           <note type="description" xml:lang="de">
-            <p>Ein Spiess <note type="editorial">auch Pike von französisch piquer ‚stechen‘</note> ist eine historische Stichwaffe zu Jagd- und Kriegszwecken, die im Unterschied zum Speer oder Wurfspieß nicht geworfen wird. Synonym wird oft das Wort Lanze verwendet, das jedoch eigentlich den Spieß des Reiters bezeichnet.</p>
+            <p>Ein Spiess (auch Pike von französisch piquer ‚stechen‘) ist eine historische Stichwaffe zu Jagd- und Kriegszwecken, die im Unterschied zum Speer oder Wurfspieß nicht geworfen wird. Synonym wird oft das Wort Lanze verwendet, das jedoch eigentlich den Spieß des Reiters bezeichnet.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2105,7 +2129,7 @@
           <label xml:lang="de" type="main">Hakenbüchse</label>
           <label xml:lang="de" type="sort">hakenbuechse</label>
           <note type="description" xml:lang="de">
-            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern<supplied>1</supplied> <note type="editorial">nach anderen Angaben bis zu 25 Millimeter</note>.</p>
+            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern<supplied>1</supplied> (nach anderen Angaben bis zu 25 Millimeter).</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">
@@ -2317,7 +2341,7 @@
           <label xml:lang="de" type="main">werklafter</label>
           <label xml:lang="de" type="sort">werklafter</label>
           <note type="description" xml:lang="de">
-            <p>Amtlich bestimmtes Klafter. Das Klafter diente als Längen-, Flächen- und Raummass. Als Längenmass entsprach das Klafter 6 Fuss <note type="editorial">bzw. Schuh</note>.</p>
+            <p>Amtlich bestimmtes Klafter. Das Klafter diente als Längen-, Flächen- und Raummass. Als Längenmass entsprach das Klafter 6 Fuss (bzw. Schuh).</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
           <note type="sources">

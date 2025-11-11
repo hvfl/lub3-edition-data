@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-181">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ehevertrag zwischen Eitelfriedrich von Lupfen-Stühlingen und Margaretha von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-181">CZ-SOAT Cizí rody 430 z Lupfen 1</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 22. Juli 1553 / Beschreibstoff: Pergament / Siegel: 7 Siegel, 5 gut erhalten, 2 abgefallen</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/430/charter?q=430">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Eitelfriedrich Graf von Lupfen, Konrad Graf von Tübingen, Anton von Staufen und Joachim Graf von Lupfen einerseits, Jakob Graf von Zweibrücken-Bitsch, Wilhelm und Alwig Grafen von Sulz andererseits vermitteln den Ehevertrag zwischen Eitelfriedrich Graf von Lupfen, Sohn des verstorbenen Wilhelm Graf von Lupfen und Margaretha Gräfin von Sulz, Tochter des verstorbenen Johann Ludwig Graf von Sulz. Die Brüder der Braut, Wilhelm und Alwig, zahlen ihr 4.000 Gulden Mitgift. Als Morgengabe zahlt der Bräutigam ihr 5.200 Gulden. Dieses Kapital wird für die Braut auf den Gütern des Eitelfriedrichs versichert. Durch die Annahme dieser Mitgift und Morgengabe verzichtet Margaretha auf alle anderen Ansprüche, insbesondere auf Erbansprüche. Der Vertrag regelt weiter die Bedingungen für eine möglichen Witwenstand der Braut.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-11">Ehevertrag</term>
+          <term ref="lub-keywords-12">Mitgift</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1553-07-22">22. Jul 1553</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_430_z_lupfen_1_karton_30-0001.jpg" xml:id="lub-media-249" source="1553-07-22-soat-cizirodytrebon-430-lupfen01-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_430_z_lupfen_1_karton_30-0002.jpg" xml:id="lub-media-250" source="1553-07-22-soat-cizirodytrebon-430-lupfen01-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-249" n="1"/><lb n="1"/>Inn dem namen der hayligen untaylbarn dreyvaltigkayt, gott deß vatterß, sonß unnd hayligen gaistß, zue wissen unnd khundt sey allermenigclich so disen brief  
+<lb n="2"/>sehen, leßen oder hören leßen, das auff heut dato gott dem almechtigen zuo lob unnd eere, auch zuo merung der christenhait zwüschen dem wolgebornen herrn <persName ref="lub-actors-107">Itlfriderichen graven zuo Lupffen</persName>, lanndtgraven zuo <placeName ref="lub-places-58">Stüelingen</placeName>, weylund deß wolgebornen herrn <persName ref="lub-actors-2487">Wilhelmen  
+<lb n="3"/>graven zuo Lupffen</persName> etc. eelichen sone an ainem, unnd frewlin <persName ref="lub-actors-112">Margaretha grävin zuo Sulz</persName>, weylund deß wolgebornen herrn <persName ref="lub-actors-35">Johann Ludwigen graven zuo Sulz</persName> etc. eeleiplichen tochter annderßthail mit guottem vorwissen unnd willen der wolgebornen herren, herrn  
+<lb n="4"/><persName ref="lub-actors-111">Connraten graven zuo Thüwingen</persName>, herrn zuo <placeName ref="lub-places-793">Liechtnegkh</placeName> etc., herrn <persName ref="lub-actors-2486">Anthonien freyherrn zuo Stauffen</persName> etc., beede wolgemelts herrn grave <persName ref="lub-actors-107">Itlfriderichen</persName> fürmindere, unnd herrn <persName ref="lub-actors-110">Joachimen graven zuo Lupffen</persName>, lanndtgraven zuo <placeName ref="lub-places-58">Stüelingen</placeName> etc. auff wolermelts herrn grave  
+<lb n="5"/><persName ref="lub-actors-107">Itlfriderichen</persName> seyten, sodann herrn <persName ref="lub-actors-109">Jacoben graven zuo Zweinbrügkhen</persName> unnd <placeName ref="lub-places-789">Bittsch</placeName>, herrn zuo <placeName ref="lub-places-790">Liechtenberg</placeName> etc., herrn <persName ref="lub-actors-10">Wilhalmen</persName> unnd <persName ref="lub-actors-9">Alwigen</persName>, gebrüeder graven <orgName ref="lub-actors-7">zuo Sulz</orgName>, lanndtgraven in <placeName ref="lub-places-18">Kleggew</placeName> etc. auff wolgenants fröwlin <persName ref="lub-actors-112">Margarethen zuo Sulz</persName> seyten, ain eelicher  
+<lb n="6"/>heirat unnd gemahelschafft zuo ir aller nutz, eeren, auffnung unnd guotter wolfart abgeredt unnd von allen thailen angenomen, bewilligt, zuegesagt unnd versprochen inn maß unnd gestalt, wie hernach volgt. Erstlichs, das sy baide wolgemelte herr  
+<lb n="7"/>grave <persName ref="lub-actors-107">Itlfriderich zuo Lupffen</persName> unnd fröwlin <persName ref="lub-actors-112">Margreth zuo Sulz</persName>, ainandern zum sacrament der hailigen ehe nemen haben mit khirchganng unnd eelichem beyschlaffen volnziehen söllen, wie sich das wol hergebrachter göttlicher unnd christenlicher ordnung nach zumpt  
+<lb n="8"/>unnd gepurt. Furs annder das wolgenannte herrn <persName ref="lub-actors-10">Wilhalm</persName> unnd <persName ref="lub-actors-9">Alwig</persName> graven <orgName ref="lub-actors-7">zuo Sulz</orgName> etc. wolgemeltem herrn grave <persName ref="lub-actors-107">Itlfriderichen zuo Lupffen</persName> etc., irem schwager, zuo gedachtem fröwlin <persName ref="lub-actors-112">Margreth</persName>, irer schwöster, zuo rechtem heyrathguott  
+<lb n="9"/>unnd eesteur geben söllen vier thußent guldin, jhe feunffzehen bazen für den guldin gerechent. Darzue auch gedacht fröwlin <persName ref="lub-actors-112">Margreth</persName> ir schwester mit ainem guldinen stugkh unnd sonnsten eherlichen claidern, clainottern, geschmückh unnd gebennd,  
+<lb n="10"/>wie den eeren unnd stannd nach ainer grävin gezimet, versehen, verlaiten unnd abverttigen söllen. Es söllen auch gedachte vier thußent guldin heurathguot sampt irer widerlegung auff herrn grave <persName ref="lub-actors-107">Itlfriderichen zuo Lupffen</persName> haab unnd güettern genuog
+<lb break="no" n="11"/>sam verweißen unnd versichert werden. Hiergegen soll herr grave <persName ref="lub-actors-107">Itlfriderlich</persName> fröwlin <persName ref="lub-actors-112">Margrethen</persName> rechter widerlegung unnd zue ainem khrefftigen unnd bestenndigen widem auch vier thußent guldin hauptguots, unnd davon zwayhundert guldin 
+<lb n="12"/>järlicher nutzung unnd innkhomens, obgerüerter werung verlegen. Darzue soll auch grave <persName ref="lub-actors-107">Itlfriderich</persName> fröwlin <persName ref="lub-actors-112">Margarethen</persName> seinem eelichen gemahel nach volzognem beyschlaff zwölff hundert guldin, unnd davon sechzig guldin järlicher nuzung und  
+<lb n="13"/>gefell zuo haben unnd zuo geniessen, zuo ainer rechten freyen morgengab geben unnd bemorgengaben. Dergestalt das heurat guott widerlegung unnd morgengab inn ainer summ neunthußent unnd zwayhundert guldin vorerzelter werung bringen  
+<lb n="14"/>unnd machen, denen er sy auff voran gezaigte seine haab unnd guetter gnuegsamlich vorweisen unnd versichern. Darzuo iren drey vom adl zuo bürgen geben, das sy, wo sich der vhal (den der a<unclear>l</unclear>mechtig lanng verhüetten wölle) zuotragen unnd begeben wurde,  
+<lb n="15"/>von obgemelten neun thußent unnd zwayhundert guldin jarlicher nuzung unnd güllten vierhundert unnd sechzig guldin wolgehaben unnd gewiß sein möge, unnd ir darüber nottdurfftige verschreibungen auffrichten. Darauff soll wolgemelt frowlin  
+<lb n="16"/><persName ref="lub-actors-112">Margreth</persName> auff alle unnd jede vätterliche, müetterliche, brüederliche, schwösterliche erbfäll gannz unnd gar völlige unnd bestenndige, wie sollichs nach außweißung der recht am krefftigisten unnd bestenndigisten beschehen sein soll, khan, oder mag, als das bißher und  
+<lb n="17"/>anndere thöchtenn der graven <orgName ref="lub-actors-7">von Sulz</orgName> gewonlich gethan haben, verzeihung thuon, allso das sy unnd dero erben, noch jemandts annders von irentwegen khain vordrung oder ansprach zuo ires herrn vatters säligen gedächtnus irer muotter unnd deren baider erben, von erbschafft  
+<lb n="18"/>wegen so lanng deß namens unnd stamens der graven <orgName ref="lub-actors-7">von Sulz</orgName> mannßpersonen inn leben haben, noch fürbaß er gewinen söllen, wie söllichs imer erdacht oder fürgenomen werden möchte inn khain weiß. Jedoch, so haben wolgedachte herrn <persName ref="lub-actors-10">Wilhalm</persName> unnd <persName ref="lub-actors-9">Alwig</persName>  
+<lb n="19"/>graven <orgName ref="lub-actors-7">zuo Sulz</orgName> etc. für sich unnd ire erben wolermelter irer schwester, frewlin <persName ref="lub-actors-112">Margaretha</persName>, brüederlich verginnt unnd zuogelassen, wo sich uber khurz oder lanng zeyt ain neben vhal zuotragen unnd begeben wurde, woher unnd von wem das sein unnd gelangen möchte,  
+<lb n="20"/>das als dann erst wolgedachtem frewlin <persName ref="lub-actors-112">Margareth</persName> unnd iren eelichen leybs erben an irer gepürliche erbschafft unnd erbs gerechtigkhait nichzit benomen, sonnder die alle unnd jede sament unnd sonnderlich außtruckhenlich unnd inn allweg vorbehalten sein  
+<lb n="21"/>unnd zuogelassen werden sölle. Unnd ob es sich füegte unnd begebe, das herr grave Itlfriderich vor dem wolbenanten fröwlin <persName ref="lub-actors-112">Margreth</persName> seiner eelichen gemahl, nach dem sy eelichen beygeschlaffen hetten, todts verschiede (deß sy der almechtig  
+<lb n="22"/>lanng gefrissten unnd erhalten thue) unnd khain leibs erben von irer baider leiben geporn, hinder ime verließ, so söllen dem wolbemelten fröwlin <persName ref="lub-actors-112">Margreth</persName> bevorauß volgen, alle ire claider, clainotter, geschmückh unnd anders zuo irem leib gehörig,  
+<lb n="23"/>unnd für alle herr grave <persName ref="lub-actors-107">Itlfriderichs</persName> farende haab, acht hundert guldin vorgedachter werung unnd darzuo das silbergeschier unnd anders, so obgemeltem herrn grave <persName ref="lub-actors-107">Itlfriderichen</persName> unnd fröwlin <persName ref="lub-actors-112">Margrethen</persName> auff die hochzeit haimfürerung unnd sonnsten geschenckht,  
+<lb n="24"/>wirdet, aber mit den schulden unnd gegen schulden unnd gegenschulden, innemens unnd außgebens, soll sy nicht zuo thuon haben, oder zuobezalen schuldig sein. Unnd sollen darzuo iren die acht thußent guldin zuogebrachts unnd gegen widem guotz, deren leben lanng  
+<lb n="25"/>unnd nit weitter zuosteen unnd beleiben unnd nach irem abganng iro vier thußent guldin zuogebrachts heuratguots sampt der morgengab (welche morgengab sy doch umb gottes liebe, freundtschafft unnd guotthatten willen hingeben, vertestieren, oder sonnsten damit  
+<lb n="26"/>hanndlen, schalten unnd walten soll unnd mag, nach freyer morgengab recht unnd gewonhait unverhindert seiner erben, nachkhomen unnd menigclichs) wo dieselbige nit inn testaments, oder annderer weiße, wie oblaut durch sie vermacht, oder hinweg verordnet were.  
+<lb n="27"/>Deßgleichen obgemelte acht hundert guldin unnd das silbergeschier, so wie vorstett, auff die hochzeit haimfüerung unnd sunsten geschenckht unnd gegabt würdet, iren nechsten erben unnd die vier thußent guldin gegen widems, desselben herrn grave Itlfriderichen  
+<lb n="28"/>nechsten erben widerumb haim unnd zuofallen. Were es aber, das frewlin <persName ref="lub-actors-112">Margreth</persName> vor herrn grave <persName ref="lub-actors-107">Itlfriderichen</persName> inn gleichem vhal absturbe, allso das sy khain khint von ir baider leib geboren, inn leben verließ, so soll es gleicher gestallt, wie vorsteet, gehalten  
+<lb n="29"/>werden. Namlich, das er sein leben lanng die acht thaußent guldin zuo niessen haben unnd nach seinem absterben an ir jedes thails nechsten erben vier thaußent guldin widerumb hinder sie fallen söllen. Ob sich aber zuotrueg unnd begebe, das ir ains vor  
+<lb n="30"/>dem andern thodts abgienng unnd eeliche khinder von iren baider leiben geboren, hinder ime inn leben verließ, so soll es mit dem beysiz unnd niessung der acht thußent guldin baider eegemächt halber unnd der morgengab, auch der acht hundert guldin und silberge
+<lb break="no" n="31"/>schiers der frowen halben abermals inmassen obstet gehalten werden. So baid aber fröwlin <persName ref="lub-actors-112">Margreth</persName> zur andern ehe greifft, so söllen ir volgen die niessung unnd nuzungen des heurattguotz unnd widerlegung, wie vorstett. Unnd darzuo ire morgengab, claider, clainotter, 
+<lb n="32"/>geschmückh unnd annders zuo irem leib gehörig, auch die acht hundert guldin, silbergeschier unnd annders, wie offtgemelt, auff die hochzeit, haimfüerung unnd sonnsten geschenckht würdt. Unnd söllen die uberigen deß abgestorbnen verlassen haab unnd gütter, den  
+<lb n="33"/>khindern von ir baider leiben eelich geborn, bleiben unnd volgen. Unnd ob sy mit nachgeenden eegemaheln, auch khinder uber khäme, so soll den khindern erster ehe die gerechtigkhait güetterlicher erbschafft nach deren absterben unbenomen, sonnder zuo gleichem erb  
+<lb n="34"/>zueghen vorbehalten sein. Doch sollen in dißem vhal die vier thußent guldin widerlegung unnd obgemelte morgengab, wo die nit inmassen vorsteet, vermacht werden unnd die acht hundert guldin mit gemeltem silber geschier nach solchem, der muotter absterben,  
+<lb n="35"/>denselben khindern inn erster ehe geporn, bevorauß volgen unnd zuosteen. Begäbe sich aber, das mergedacht fröwlin <persName ref="lub-actors-112">Margreth</persName> vor herrn grave <persName ref="lub-actors-107">Itlfriderichen</persName> thodts verfüere, mit khindern, ainem oder merern, inen baiden eelich geborn unnd gezeugtt, so soll er  
+<lb n="36"/>obbestimpt heuratguot sein leben lang zuemessen haben unnd nach seinem tod solchs als müetterlich guot an ire khinder, oder wem das alßdann von rechts wegen zuosteet, fallen. Es soll auch offt unnd wolgemelt frewlin <persName ref="lub-actors-112">Margreth</persName>, alle dieweil sy iren wittwenstuel  
+<lb n="37"/>nit verruckht, auff sein, herrn grave <persName ref="lub-actors-107">Itlfriderichs</persName>, schloß <placeName ref="lub-places-58">Stüelingen</placeName> iren sitz unnd wonung haben. Unnd soll ir gedachter widem sitz mit eerlichem haußrath acht silberin bechern auff ain thisch, unnd ainem eerlichen trinckh geschier vor ire person be
+<lb break="no" n="38"/>claidet, versehen, unnd järlichs hundert guldin (usserthalb hievor bestimpter suma) so lanng sy inn wittwenstannd unverendert bleibt, unnd nit weitter, damit sy denselbigen desto stattlicher unnd eherlicher erhalten möge, ob sy auch gleich schon anhaimsch 
+<lb n="39"/>ziehen wurde, von herrn grave <persName ref="lub-actors-107">Itlfriderichs</persName> erben unnd nachkhomen geraicht, gelifert unnd bezalt werden. Wover aber wolgedachtem fröwlin <persName ref="lub-actors-112">Margareth</persName> vorgeschribner widum sitz zubewonen entlegen, oder sy sonnsten zuo iren freunden zeziehen willens,  
+<lb n="40"/>das alßdann sein, grave <persName ref="lub-actors-107">Itlfriderichs</persName>, erben ire für solchen widem sitz järlichs, unnd alle dieweyl sy ohne verendert pleibt, ain hundert guldin inn münz zuogeben unnd zuo irn sichern handen ze überanttwurtten schuldig sein. Unnd soll benantenn  
+<lb n="41"/>herrn grave <persName ref="lub-actors-107">Itlfriderichen</persName> seine geschwüsterd unnd vettern, graven unnd grävin zue Lupffen etc. herwiderumb auch herrn grave <persName ref="lub-actors-10">Wilhalmen</persName> unnd <persName ref="lub-actors-9">Alwigen</persName> von <orgName ref="lub-actors-7">Sulz</orgName> etc., gebrüeder, unnd frewlin <persName ref="lub-actors-112">Margreth</persName> ir schwester hierwider unnd alles das, so inn  
+<lb n="42"/>disem brief unnd heurats beredung geschriben unnd begriffen ist, nit schürmen, freyen noch befriden, khainerlay gnad, freyhait, tröstung, gelait, restitution, appellation, dispensation, oder relaxation, sy weren oder wurden gegeben von den hailigen concilien bäpsten,  
+<lb n="43"/>cardinälen, rhömischen khaißern, khönigen, erzbischoven oder sunst von andern gaistlichen unnd welltlichen fürsten, oder andern oberkhaiten, woher unnd wie die wären, oder sein möchten, noch auch khain lanndfrid, büntnus, verainigung, gewonhait,  
+<lb n="44"/>stattut der fürsten, herrn, oder landes noch khain khamer, hof, statt, oder landrecht unnd gericht, noch ichzit annderer sachen, die jemandt khündte oder möchte erdenckhen, oder <unclear>erdacht weren</unclear> gar nichtz außgenomen. Dann sy sich dessen alles und jedes  
+<lb n="45"/>sampt unnd besonnder, als obe das von worth zuo worthen hierinn außtrugkhenlich geschriben stüende, auch deß rechten unnd freyhaiten, voleinani unnd anderer dergleichen weiplichen geschlächt unnd minderjärigen zue hilff, verstand unnd widerbringung  
+<lb n="46"/>ires rechten (welches innen zuvor gnuogsam unnd aigentlich vertheutscht unnd erclärt worden) verliehen unnd gegeben mitsampt dem rechten gemainer verzeihung, ohne vorgeende sönnderung widersprechende für sich alle, ire erben unnd nachkhomen,  
+<lb n="47"/>gennzlichen unnd gar frey willigclichen verzigen unnd begeben haben, gevärd unnd arglist hierinn gennzlich vermitten unnd hindann gesezt. Deß alles zuo stätten warem urkhunde bekhennen wir, obgenante grave <persName ref="lub-actors-107">Itlfriderich zuo Lupffen</persName> etc. grave <persName ref="lub-actors-111">Conrat  
+<lb n="48"/>zuo Thüwingen</persName>, <persName ref="lub-actors-2486">Anthoni freyherr zuo Stauffen</persName>, beede fürminder, unnd <persName ref="lub-actors-110">Joachim grave zuo Lupffen</persName> etc. an ainem, sodann vom grave <persName ref="lub-actors-109">Jacob zuo Zwaybrügkhen</persName> etc., <persName ref="lub-actors-10">Wilhalm</persName> unnd <persName ref="lub-actors-9">Alwig</persName>, geb<unclear>brüe</unclear>der graven <orgName ref="lub-actors-7">zue Sulz</orgName> etc. am andern thaile, dieweyl obge<gap/>ung  
+<lb n="49"/>mit unnserm freien wissen unnd guotten willen, allso wie oblauth zuogangen unnd angenomen werden, das wir dessen zuo gezeigkhnus unnser jeder sein aigen innsigil, unns, grave <persName ref="lub-actors-107">Itlfriderichen zuo Lupffen</persName> unnd unnser freundtliche liebe gemahl unnd unsere  
+<lb n="50"/>erben vorgeschribner ding damit zuo besagende an dißen heiratsbrief zwen gleich lauttende thuon henckhen, die geben seind auff <origDate>sambstag, den zweiunndzwainzigisten tag deß monnats julii nach der gepurt Christi gezallt thaußent fünffhundert fünffzig  
+<lb n="51"/>unnd drew jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-250" n="1"/><lb n="1"/>Heuratsbrief  
+<lb n="2"/><persName ref="lub-actors-107">Eitelfriderichen grafens zu Lupfen</persName><lb n="3"/><gap/><lb n="4"/>freulein <persName ref="lub-actors-112">Margreta gräfin zu Sulz</persName><lb n="5"/>anno 1553 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

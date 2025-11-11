@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-126">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grenzen des Jagdgebietes zwischen Feldkirch und  Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-126/">AT-HAL, U 1515 August 27</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 27. August 1515 / Beschreibstoff: Papier / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Wilhelm, Gustav: Das Jagdgebiet der Herren von Sulz und Brandis; in: JBL 38 (1938), S. 95-106.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Albrecht Wolf, Ammann des Grafen Rudolf von Sulz, nimmt auf Klage des Hans von Pfyn, Vogts von Vaduz und im Beisein Joachims von Stuben, kaiserlichen Hubmeister in Feldkirch, Kundschaft auf über die Grenzen der Jagdgebiete zwischen Feldkirch und Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1515-08-27">27. Aug 1515</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__u_1515_august_27-0001.jpg" xml:id="lub-media-2888" source="hal-ur15150827-r.jpg" corresp="A"/>
+    <graphic url="at-hal__u_1515_august_27-0002.jpg" xml:id="lub-media-2889" source="hal-ur15150827-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2888" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-296">Abrecht Wolf</persName>, der zeit deß wolgeporrnen herren, herrn <persName ref="lub-actors-8">Rudolfß grave zu Sultz</persName>, lanndtgraf im <placeName ref="lub-places-18">Cleggow</placeName>, herr zu  
+<lb n="2"/><placeName ref="lub-places-7">Vadutz</placeName> etc. amman zu <placeName ref="lub-places-7">Vadutz</placeName>, bekenn offenlich und thun kundt menclich mit dem brief, daß uff huttigen tag siner date,  
+<lb n="3"/>alß ich von gnaden und befelch wegen deß genannten minß gnädigen herren daselbß zu <placeName ref="lub-places-1">Vadutz</placeName> im dorff offenlich zu ge
+<lb break="no" n="4"/>richt gesessen bin. Alda fur mich und offen verbannen gericht komen ist der frumm und vest <persName ref="lub-actors-56">Hans von Pfyn</persName>, der zeit vogt 
+<lb n="5"/>zu <placeName ref="lub-places-7">Vadutz</placeName>, an statt und in nammen minß genannten gnädigen herren. Und eroffnet durch sinen erlobten und zu recht angedingten  
+<lb n="6"/>fursprecher uff mainung wie siner gnaden amptlut, uff <date when="1509-03-17">sambstag vor dem sunntag Letare ze mitter Fasten im funfzehenhund
+<lb break="no" n="7"/>errt und nunden iar</date> nächst verschinen, von den nach genannten erbern mannen zwuschen kayserlicher mayestät und minem genannten 
+<lb n="8"/>gnädigen herren kundtschaft der warhait deß gejagds halben in <placeName ref="lub-places-44">Gamperdon</placeName> ingenommen hetten. Dieselben mann ire kundtschaff
+<lb break="no" n="9"/>ten bestät, jeder mit sinen geswornen aide und wären, och den gemelten amptluten irer jagen brief und sigel zu geben mit 
+<lb n="10"/>urtl erkandt, und darumm stunde er da und begärte an die, so in läben wären, deß lutrung und underricht, des glychen von  
+<lb n="11"/>der wägen, so uff egemelten tag och kuntschaft der sach halb geben hetten und in mitler zyt abgestorben wären, ob die selben ire  
+<lb n="12"/>sagen och mit irn aiden bestät und darumm brief und urkund zu geben erkendt wäre. Deß begert er och underricht und lutrung  
+<lb n="13"/>von inen und mir, richter und gericht, im in dem rechten zu geben. Dargegen der edel und vest <persName ref="lub-actors-18">Jochem von Stuban</persName>, kayserlicher  
+<lb n="14"/>mayestät hubmaister zu <placeName ref="lub-places-10">Veltkirch</placeName>, dem der sach halben von wegen kayserlicher mayestät uff hutt här zum rechten verkundt, waß durch sinen  
+<lb n="15"/>erlobten fursprecher uff mainung reden liess, wäre sölche kundtschaft nach ordnung rechtenß genommen und schrifften darumm wären,  
+<lb n="16"/>sölte man die hören lassen, wo nit, so begerte er deß och von mir, richter, dem gericht und von denen, so kuntschaft geben hetten,  
+<lb n="17"/>globlich underricht, und ob och jemand von kayserlicher mayestät wegen uff den obgemelten tag zu rechten verkundt wär, uff diss alleß dis  
+<lb n="18"/>nachgenannten mann <persName ref="lub-actors-2377">Michil Jon</persName>, <persName ref="lub-actors-2378">Hannß Koffmann</persName>, <persName ref="lub-actors-1548">Cunrat Beck</persName>, <persName ref="lub-actors-2379">Hanß Säle</persName>, <persName ref="lub-actors-2380">Hanß Pfyffer</persName>, all funf ab dem <placeName ref="lub-places-41">Trisnerberg</placeName>, <persName ref="lub-actors-2381">Stoffel  
+<lb n="19"/>Ganntner</persName> ab <placeName ref="lub-places-124">Blangken</placeName>, <persName ref="lub-actors-2382">Claß Jeger</persName> von <placeName ref="lub-places-106">Mayenfeld</placeName> und <persName ref="lub-actors-914">Haintz Schampletz</persName> von <placeName ref="lub-places-79">Trisan</placeName>, durch irn erlobten fursprechen reden liessen,  
+<lb n="20"/>man sölte si die kundtschaft verhören lassen. Daruf welte ir jeder dann nach siner gewissne sagen, was im zu wissen wäre,  
+<lb n="21"/>sölichß baid parthyen vogt und hubmaister zugabend. Daruf wurdend dis nachvolgenden kuntschaften von wort zu wor
+<lb break="no" n="22"/>ten verläsen. Item deß ersten <persName ref="lub-actors-2383">Clas Michel</persName> ab dem <placeName ref="lub-places-41">Trisnerberg</placeName> sälg, bi funfzig jaren alt, hat gesagt, das im wol wissenlich 
+<lb n="23"/>sey, daß er von sinem vatter hab gehört, der sey uff dru und nunzig jar alt worden, daß der herren <orgName ref="lub-actors-744">von Brandiss</orgName> marcken  
+<lb n="24"/>gen söllend von der <placeName ref="lub-places-725">Illbrugg</placeName> in <placeName ref="lub-places-125">Siroya</placeName> inn <placeName ref="lub-places-707">Kuchelspitz</placeName>, von dannen in <placeName ref="lub-places-713">Vilgoppen</placeName>, darnach in <placeName ref="lub-places-272">Gampsengrat</placeName> in die höhi, von dannen  
+<lb n="25"/>in daß <placeName ref="lub-places-704">Schwartz horn</placeName>, darnach in <placeName ref="lub-places-710">Spitz gurff</placeName>, darnach in <placeName ref="lub-places-715">Gallfatzen</placeName>, darnach in die <placeName ref="lub-places-639">Landquart</placeName>, der <placeName ref="lub-places-639">Landquart</placeName> nach in den  
+<lb n="26"/><placeName ref="lub-places-103">Rein</placeName>, dem <placeName ref="lub-places-103">Rein</placeName> nach wider in die <placeName ref="lub-places-615">Ill</placeName>. Im sey och wol wissenlich, daß die herren <orgName ref="lub-actors-744">von Brandiss</orgName>, sälger gedächtnuss, grosse gejagt  
+<lb n="27"/><gap/> habenn, so die thier ufgenommen am <placeName ref="lub-places-704">Schwartzenhorn</placeName> in der ruche und von dannen triben in den <placeName ref="lub-places-425">Naf</placeName>. Sin vatter und är  
+<lb n="28"/>haben nie gehört, daß den herren <orgName ref="lub-actors-744">von Brandiss</orgName> kain irrung desshalb nie geschehen sey. <persName ref="lub-actors-2377">Michel Jon</persName>, ungefarlich bi siben und  
+<lb n="29"/>sibentzig jaren alt, redt, wie im wol zu wissen sey, er hab eß och von sinem vatter gehört die mainunng, wie dann <persName ref="lub-actors-2383">Clas Michal</persName>  
+<lb n="30"/>och gesagt hat. Und mer eß sey ain hirtz uff ain zeit inn <placeName ref="lub-places-724">Löbern</placeName> angehetzt und in <placeName ref="lub-places-42">Malbun</placeName> gefangen worden, hab nie gehört, daß  
+<lb n="31"/>den herren <orgName ref="lub-actors-744">von Brandiss</orgName> kein intrag innderthalb der marcken geschehen sey. <persName ref="lub-actors-2384">Werli Gasner</persName> sälg ab dem <placeName ref="lub-places-41">Trisnerberg</placeName> ungefarr
+<lb break="no" n="32"/>lich bei nunzig jaren alt hat geredt, im sey zu wissen in all mass wie <persName ref="lub-actors-2383">Claß Michel</persName> geredt hab, und habe och nie gehört, daz 
+<lb n="33"/>den herren <orgName ref="lub-actors-744">von Brandiss</orgName> innerthalb der bestimbten marcken kain intrag nie geschehen sey, und wann die herren die grossen gejagt  
+<lb n="34"/>haben gehabt, so nämind si die thier uf in <placeName ref="lub-places-714">Sewisser</placeName> ruche im <placeName ref="lub-places-704">Schwartzenhorn</placeName> und tribends dann inn <placeName ref="lub-places-425">Naf</placeName>. <persName ref="lub-actors-2385">Jacob Jon</persName> sälg, ungefar
+<lb break="no" n="35"/>lich bi sechts und achtzig jaren alt, redt, wie wol zu wissen sey, daß er mermal die marcken hab hören ruffen, der Ill nach 
+<lb n="36"/>hinayn in <placeName ref="lub-places-532">Samunnen</placeName>, von dannen in <placeName ref="lub-places-713">Villgoppen</placeName> in daß <placeName ref="lub-places-743">Brunnili</placeName>, von dannen in den berg Imat, von dannen in <placeName ref="lub-places-272">Gampsen grat</placeName> in  
+<lb n="37"/>die höhe, von dannen in <placeName ref="lub-places-710">Spitz gurff</placeName>, von dannen in <placeName ref="lub-places-715">Dalfatzen</placeName>, darnach in die <placeName ref="lub-places-639">Landtquart</placeName>, darnach in <placeName ref="lub-places-103">Rein</placeName>. Er hab och mermal  
+          <lb n="38"/>gehört, daß die herren <orgName ref="lub-actors-744">von Brandiss</orgName> die thier ufgenommen habenn in <placeName ref="lub-places-709">Brander ruche</placeName> und dann triben in den <placeName ref="lub-places-425">Naf</placeName>, und nie gehört,  
+<lb n="39"/>daz den herren innerthalb denen marcken kain intrag geschehen sye. <persName ref="lub-actors-2381">Stoffel Gantner</persName>, bi sechtzig jaren alt, redt, daß im zu  
+<lb n="40"/>wüssen sey, wie er von sinen vatter <persName ref="lub-actors-2386">Cristan Gantner</persName> gehört hab, der uff achtzig jar kommen sey, daß die marcken söllen geen  
+<lb n="41"/>von den <placeName ref="lub-places-725">Illbrugg</placeName> uff den <placeName ref="lub-places-726">Nentzengast</placeName>, von dannen in <placeName ref="lub-places-125">Siroyen</placeName>, von dannen in den <placeName ref="lub-places-707">Kuchelspitz</placeName>, von dannen in daß Mittel krutz, dar
+<lb break="no" n="42"/>nach in die <placeName ref="lub-places-717">Roten wand</placeName>, darnach inn <placeName ref="lub-places-375">Fall</placeName>, dem <placeName ref="lub-places-375">Fall</placeName> inn <placeName ref="lub-places-705">Schönenberg</placeName>, von dannen in <placeName ref="lub-places-272">Gampsen grat</placeName>, darnach in die höchi in <placeName ref="lub-places-713">Vill
+<lb break="no" n="43"/>goppen</placeName>, uss <placeName ref="lub-places-713">Villgoppen</placeName> in daß <placeName ref="lub-places-704">Swartzhorn</placeName>, von dannen in <placeName ref="lub-places-710">Spitz gurff</placeName>, von dannen in <placeName ref="lub-places-716">Dalfatzerbach</placeName>, darnach in die <placeName ref="lub-places-639">Landtquarrt</placeName>, 
+<lb n="44"/>von dannen in die <placeName ref="lub-places-615">Ill</placeName>. Hab och nie gehört, daß den herren <orgName ref="lub-actors-744">von Brandiss</orgName> kein intrag nie geschechen sey. <persName ref="lub-actors-2382">Claß Jeger</persName> von <placeName ref="lub-places-106">Mayen
+<lb break="no" n="45"/>feld</placeName>, ungefarlich bi acht und viertzig jaren, sagt, daß er ganz wol bericht sye, die wyl und är der herren <orgName ref="lub-actors-744">von Brandiss</orgName> 
+<lb n="46"/>jeger gewesen sey, habe inen wol vier und zwaintzig jar gedient, daß er in denen marcken, wie dann <persName ref="lub-actors-2381">Stoffel Ganntner</persName> an
+          <lb break="no" n="47"/>zaigen geben und geredt hab, menig mal mit dem <persName ref="lub-actors-2388">Österreicher</persName> der zu <placeName ref="lub-places-10">Veltkirch</placeName> jeger sey gewesen, gejagt hab, und im niem
+          <lb break="no" n="48"/>and nichtz gewert. Hab och in den <placeName ref="lub-places-724">Löbern</placeName> gejagt und den hag gemacht von dern wand, die vom bogen gat bis an den bach. 
+          <lb n="49"/>Habe von sinem vatter gehört, daß die herren <orgName ref="lub-actors-744">von Brandiss</orgName> die thier ufgenommenim <placeName ref="lub-places-704">Swartzenhorrn</placeName>, und die triben  
+          <lb n="50"/>in den <placeName ref="lub-places-425">Naf</placeName>. <persName ref="lub-actors-2387">Hainrich Pfefferli</persName>, bi sechs und funftzig jaren alt, redt, wie im wol zu wissen sey, wie er mit dem <persName ref="lub-actors-2388">Ogstiß
+            <lb break="no" n="51"/>riedt</persName>, der der herren <orgName ref="lub-actors-744">von Branndiss</orgName> jeger gewesen sey, und mit <persName ref="lub-actors-2389">Hansen Pfefferli</persName> menigmal jagen gangen sey, und habend  
+          <lb n="52"/>die hund abgehetzt under <placeName ref="lub-places-271">Geffel</placeName> im wald, und habend den hag anpunden ob der Schaffbrugg, an wenig in de <placeName ref="lub-places-724">Löbern</placeName>.   
+          <lb n="53"/>Habe och <persName ref="lub-actors-2390">Clasen von Bach</persName>, so der herren <orgName ref="lub-actors-744">von Brandiss</orgName> jäger sey gewesen, an dem end helffen jagen und die thier triben  
+          <lb n="54"/>uss <placeName ref="lub-places-709">Brander ruche</placeName> in die <placeName ref="lub-places-714">Sewisser ruche</placeName>, uff <placeName ref="lub-places-708">Baniel</placeName> uber nacht beliben und die nacht die thier da gehut und mornetz
+          <lb n="55"/>in den <placeName ref="lub-places-425">Naf</placeName> triben, und sey inen nie nichtz gewert worden. <persName ref="lub-actors-2378">Hanß Koffman</persName>, bi sechtzig jaren alt, redt, er hab dem <persName ref="lub-actors-2388">Ogstisriedt</persName>  
+          <lb n="56"/>und <persName ref="lub-actors-2391">Jörg Michel</persName>, seyen der herren jeger gewesen, hiertz helffen jagen in <placeName ref="lub-places-44">Gamperdun</placeName>, und waß innerthalb der Schaffbrugk  
+          <lb n="57"/>ware, geschähe inen kain intrag. Er habe och die gampß thier helffen tryben uss <placeName ref="lub-places-709">Prander ruche</placeName>, von dannen in <placeName ref="lub-places-714">Sewisser  
+            <lb n="58"/>ruche</placeName>, und ob <placeName ref="lub-places-708">Baniel</placeName> herus. Und da die nacht gelegen, und morrnetz dem pfat zu triben an die garn, und hab nie  
+          <lb n="59"/>gehört, daß den herren kain inred geschehen sey.<persName ref="lub-actors-1548">Cunrat Beck</persName>, bi funf und sechtzig jaren alt, redt, daß er wol wiss,  
+          <lb n="60"/>wie die herren <orgName ref="lub-actors-744">von Brandiss</orgName>, alß er och von sinem vatter gehört hab, die gampß thier gejagt haben von dern <placeName ref="lub-places-721">Schygen</placeName> und von  
+          <lb n="61"/>dem <placeName ref="lub-places-722">Tregel</placeName> heruf in <placeName ref="lub-places-272">Gampsengrat</placeName> in die Schlucht. Er hab och menig mal gehört von sinem vatter und <persName ref="lub-actors-2391">Jörgen Michel</persName>, der  
+          <lb n="62"/>sye der herren jeger gewesen, daß si die thier ufgenommen habind uff <placeName ref="lub-places-720">Sätsch</placeName> und <placeName ref="lub-places-708">Baniel</placeName>, und dann uber<placeName ref="lub-places-271">Gefel</placeName> uff <placeName ref="lub-places-378">Bar
+          <lb break="no" n="63"/>dimell</placeName>, und von dannen an daß Weiss sand in Garrnaren in den <placeName ref="lub-places-425">Naf</placeName>, unf von kainer irrung nie gehört. <persName ref="lub-actors-2392">Jörg 
+<lb n="64"/>Nägili</persName> selg ob sibentzig jaren alt, redt, daß im zu wissen sey, daß ob sechtzig jaren die herren <orgName ref="lub-actors-744">von Brandiss</orgName> die gampß  
+          <lb n="65"/>thier habenn lassen triben von <placeName ref="lub-places-819">Brannd</placeName> und ab <placeName ref="lub-places-720">Sätsch</placeName>, und lagen uff <placeName ref="lub-places-708">Baniel</placeName> uber nacht, und tribends dann wydter in den  
+          <lb n="66"/><placeName ref="lub-places-425">Naf</placeName>, und hab von kainer irrung nie gehört. <persName ref="lub-actors-2393">Stoffel Beck</persName> sälig, bi dru und sechtzig jaren alt, sagt, wie im wol zu  
+          <lb n="67"/>wissen sey, daß er dru mal hab helffen jagen und die thier triben von <placeName ref="lub-places-709">Brannder ruche</placeName> zu dem <placeName ref="lub-places-743">Brunneli</placeName>, und von  
+          <lb n="68"/>dannen gen <placeName ref="lub-places-708">Baniel</placeName>, und da uber nacht gelegen und die thier gehut, und mornetz uber <placeName ref="lub-places-378">Bardinell</placeName> in den <placeName ref="lub-places-425">Naf</placeName>, und  
+          <lb n="69"/>hab von kainer irrung nie gehört. <persName ref="lub-actors-2394">Claß Steffan</persName> sälg, bi dru und sechtzig jaren alt, redt wie er minr herren <orgName ref="lub-actors-744">von Brandiss</orgName>  
+          <lb n="70"/>jeger sey gewesen und sunst alwegen helffen jagen, innerthalb denen marcken, wie dann <persName ref="lub-actors-2383">Claß Michel</persName> anzaigt hab  
+          <lb n="71"/>und nie von kainer irrung nie gehört. Und habe die gampß thier triben uss <placeName ref="lub-places-709">Brannder ruche</placeName> hindurch in <placeName ref="lub-places-708">Baniel</placeName> und  
+          <lb n="72"/>da uber nacht gelegen, und dann mornetz triben in den <placeName ref="lub-places-425">Naf</placeName>. <persName ref="lub-actors-2379">Hans Säle</persName>, bi dru und sechtzig jaren alt, sagt, er  
+          <lb n="73"/>hab gehört mer mal von sinen eltern, wie mine herren in der <placeName ref="lub-places-724">Löbern</placeName> hiertz habenn lassen jagen, und heg und zug  
+          <lb n="74"/>ufgericht, und von kainer irrung nie gehört, habe och von den alten und besunder von <persName ref="lub-actors-2391">Jörg Michel</persName>, der der herren  
+          <lb n="75"/>jeger ist gesin, gehört, daß in denen marcken, so <persName ref="lub-actors-2383">Claß Michel</persName> in siner sag anzaigt hab, kain intrag sey geschehen, und  
+          <lb n="76"/>hab gehört, daz die herren die thier in <placeName ref="lub-places-709">Brander ruche</placeName> genommen, und von dannen uff <placeName ref="lub-places-708">Baniel</placeName> und hinuber in <placeName ref="lub-places-425">Naf</placeName>  
+          <lb n="77"/>habenn lassen triben. <persName ref="lub-actors-2390">Claß von Bach</persName> selg ob sechtzig jaren ungefarlichen alt, redt, wie er der herren <orgName ref="lub-actors-744">von Branndiss</orgName> jeger   
+<lb n="78"/>ain lange zeit gewesen und sunst vyl zeit hab helffen jagen und hab gehört, wie die marcken zwuschen kayserlicher mayestät an
+          <lb break="no" n="79"/>fahen söllen, uff der <placeName ref="lub-places-725">Illbrugg</placeName> und von dannen gen in <placeName ref="lub-places-125">Siroya</placeName>, von dannen in die <placeName ref="lub-places-712">Vall egg</placeName>, von dannen in den <placeName ref="lub-places-706">Ogstenberg</placeName>, von 
+          <lb n="80"/>dannen dem grat nach hinuf an die <placeName ref="lub-places-721">Schygen</placeName>, von dannen grad hinuber im <placeName ref="lub-places-44">Gamperdun</placeName> an den <placeName ref="lub-places-666">Bach</placeName>, innerhalb dem <placeName ref="lub-places-666">Bach</placeName>  
+          <lb n="81"/>habe er bi dryssig jaren die thier helffen nämmen, ob <placeName ref="lub-places-708">Baniel</placeName> in der ruche und von dannen triben gegen <placeName ref="lub-places-714">Sewisser</placeName> ruche  
+          <lb n="82"/>und dann fur <placeName ref="lub-places-710">Spitz gurff</placeName> herus in den <placeName ref="lub-places-425">Naf</placeName>, und zu menig und vyl malen, alß ain jeger in <placeName ref="lub-places-44">Gamperdun</placeName> hirtz ange
+          <lb break="no" n="83"/>hetzt und gejagt, der <persName ref="lub-actors-2388">Österricher</persName> alß ain jeger zu <placeName ref="lub-places-10">Veltkirch</placeName> im da menig mal helffen jagen, und hab von kainer 
+          <lb n="84"/>irrung nie nit gehört. <persName ref="lub-actors-914">Haintz Schampletz</persName>, bi sechtzig jaren alt ungefarlich, redt, wie er der herren <orgName ref="lub-actors-744">von Brandiss</orgName>  
+          <lb n="85"/>diener vyl jar sey gewesen und alewgen gehört, daz die marcken anheben söllen, an der <placeName ref="lub-places-725">Illbrugg</placeName> von dannen in <placeName ref="lub-places-125">Sa
+            <lb break="no" n="86"/>royen</placeName> inderwert in die <placeName ref="lub-places-712">Vall egg</placeName>, von dann in <placeName ref="lub-places-706">Ogstenberg</placeName>, darnach gerichtz dem grat nach hin uf in die <placeName ref="lub-places-721">Schygen</placeName>, 
+          <lb n="87"/>von der <placeName ref="lub-places-721">Schygen</placeName> in <placeName ref="lub-places-44">Gamperdun</placeName> an die Schaffbrugg. Da hab er mer mal hoch gwild helffen jagen und ainen hag  
+<lb n="88"/>under der Schaffbrugg ufgericht und daran gejagt one inred. Und dann innhalb deß wasserß habe er die gampß  
+          <lb n="89"/>thier uss <placeName ref="lub-places-709">Brannder ruche</placeName> und ab <placeName ref="lub-places-708">Banieler</placeName> ruche helffen namen und dann triben gegen <placeName ref="lub-places-714">Sewisser</placeName> ruche, und von  
+          <lb n="90"/>dannen in <placeName ref="lub-places-425">Naf</placeName>, und von kainer irrung nie nichtz gehört. <persName ref="lub-actors-2380">Hanß Pfyffer</persName>, bi vier und sechtzig jare alt, ladt  
+          <lb n="91"/>sin sag bi der sag, wie <persName ref="lub-actors-914">Haintz Schampletz</persName> geredt hat bliben der marcken und jagenß halb. Und hab von  
+          <lb n="92"/>kainem intrag nie nichtz gehört. <persName ref="lub-actors-2395">Hanß Cunrat</persName> sälg, bi sechtzig jaren alt, ladt sin sag och bi <persName ref="lub-actors-914">Haintz  
+<lb n="93"/>Schampletz</persName> sag beliben, und sey im der marcken und jagenß halb och also zu wissen, und hab von kainer irrung nie nichtz  
+<lb n="94"/>gehört. Die obgemelten acht mann habenn offenlich bekennt, das jeder sin sag uff obgemelten tag in aller mass, wie  
+<lb n="95"/>ob stat, geredt und die mit sinem gesworrnen aid bestat hab. Desglychen haben die genannten acht mann, och ich, richter und  
+<lb n="96"/>gericht bekennt, daß die abgestorbenen ir jeder sin kundtschaft och also wie ob stat, uff obgemelten tag gerdet und ir je
+<lb break="no" n="97"/>der sin sag mit sinem aid bestat. So haben ich, richter und gericht, in sunder bekannt, daz die kundtschafften nach ord
+          <lb break="no" n="98"/>nung rechtenß ingenommen, sey och kayserliche mayestät amptluten darzu verkundt, und minß gnädigen herren <orgName ref="lub-actors-7">von Sultz</orgName> anwälten
+          <lb n="99"/>urtelbrief zu geben erkendt, und alleß uff obgemelten tag beschehen. Wydter, so hat minß genannten herren <orgName ref="lub-actors-7">von Sultz</orgName>  
+          <lb n="100"/>vogt, <persName ref="lub-actors-56">Hanß von Pfyn</persName>, uff hutt dato durch sinn fursprecher in gegenwurtigkait genannten hubmaisterrß zu den erbern  
+          <lb n="101"/><persName ref="lub-actors-2396">Hanß Jonen</persName> ab dem Trisnerberg, <persName ref="lub-actors-2397">Burkart Spiegel</persName>, <persName ref="lub-actors-2398">Werli Mader</persName> und <persName ref="lub-actors-2399">Hanß Gantzman</persName>, all dry von Schan, umm kuntschaft  
+<lb n="102"/>der warhait uff sin eroffnunng im rechtigclich clagt. Dargegen si vier durch irn fursprecher reden liessen, si  
+<lb n="103"/>hofften one erkanntnuss des rechten nit schuldig sin, darumm kundtschaft zu geben, und da mit zu baider sydt zu recht ge
+<lb break="no" n="104"/>setzt. Ist uff min ummfrag ainhellig zu recht erkendt, daz ir jeder sölle der warhait zu lieb und der gerechtigkait zu 
+<lb n="105"/>hilff, uff sin genannten vogten eroffnung sagen, so vyl im darumm zu wissen sey, und söllen ir jeder ainen gelerten ayd  
+          <lb n="106"/>gethon, und deß ersten <persName ref="lub-actors-2396">Hanß Jon</persName> daruf geredt, daß im wol zu wissen sey, daß er vom alten <persName ref="lub-actors-2391">Jörg Michel</persName>, der der herrsch
+          <lb break="no" n="107"/>aft <orgName ref="lub-actors-744">von Branndiss</orgName> jager sey gesin, gehört hab, wie <persName ref="lub-actors-2383">Claß Michel</persName> kundtschaft geben hat, und geb die kundtschaft daruf och 
+          <lb n="108"/>mit den anstössen und andren dingen wie <persName ref="lub-actors-2383">Claß Michel</persName> und sey bi sechtzig jaren alt, <persName ref="lub-actors-2397">Burkart Spiegil</persName> redt, er sey bi vier  
+          <lb n="109"/>und sechtzig jaren alt, und hab von sin vatter vor oder bi viertzig jaren gehört, der sey der herren<orgName ref="lub-actors-744">von Branndiss</orgName> waibil gesin   
+          <lb n="110"/>vor funfzig iaren, daz die herren <orgName ref="lub-actors-744">von Brandiss</orgName> in den zaichen und marcken wie <persName ref="lub-actors-2383">Claß Michel</persName> hat geredt, gesagt habind,  
+          <lb n="111"/>sin vatter hab och v<supplied>or</supplied> gericht die marcken zu dickern mal müssen usrüffen. <supplied><persName ref="lub-actors-2398">Werli Mader</persName></supplied>, bis sibentzig jaren alt, redt,  
+<lb n="112"/>er hab gehört von a<supplied>inem je</supplied>ger, hab gehaissen Strub, jeger vor viertzig oder funfzig jaren, <supplied>daß</supplied> ainr herrschaft niemat gew
+          <lb break="no" n="113"/>ert hab da zu jagen. Habs och vom <persName ref="lub-actors-2388">Ogstisriedt</persName> und vom Kluntzen gehört, und der <persName ref="lub-actors-2388">Österreicher</persName> sey dick hie oben gesin und 
+<lb n="114"/>mit der herrschafft jeger hin ynzogen, dez selb hab enhalb und der herrschaft jeger hie disshalb gejagt, wie dann die kunt
+          <lb break="no" n="115"/>schafften oben anzaigen. Und habs nie nieman gewerrt und sey och nie kain irrung da gesin. So redt <persName ref="lub-actors-2399">Hanß Gantzman</persName> ob siben
+          <lb break="no" n="116"/>tzig jaren alt, wie <persName ref="lub-actors-2398">Werli Mader</persName> geredt und vom Strub jeger gehört, daß hab er och von sin vatter zum dickern mal ge
+<lb break="no" n="117"/>hört. Hubmaister liess durch sinn fursprechen reden, er welte sinen obren und im alß amptman ir inreden wider die kuntsch
+<lb break="no" n="118"/>afften zu thun, behalten haben. Diser sagen und gerichtz begert der obgenant vogt brief und urkund, die im uff min umm
+<lb break="no" n="119"/>frag underr minem insgel zu geben erkendt worden sind. Ze urkund han ich, richter, im disen brief uff sin begern mit 
+<lb n="120"/>minem ufgedruckten insigel alß mit urtel erkendt ist, doch mir und dem gericht one schaden offenlich besigelt. Geben an  
+<lb n="121"/><origDate when="1515-08-27">mentag nach Sant Bartholomes tag nach Cristi geburt funfzechen hundert und funfzechen jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2889" n="1"/><lb n="1"/>Aydtlich abgehörte kundtschafft  
+<lb n="2"/>srittige jadtbahrkeith undt landtmarkhung  
+<lb n="3"/>in Gamperdon undt wie weith vor dießen die jagdt
+<lb break="no" n="4"/>bahrkeith gangen. Zwischen Östreich 
+<lb n="5"/>undt herrschafft Vadutz undt Schellenberg  
+<lb n="6"/>de anno 1515. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

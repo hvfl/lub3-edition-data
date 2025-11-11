@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-112">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erbstreit zwischen Georg I. Graf von Hohenlohe und Rudolf V. Graf von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-112">CZ-SOAT Cizí rody 370 z Hohenlohe 4</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 7. November 1522 / Beschreibstoff: Pergament / Siegel: 3 Siegel, alle beschädigt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/370/charter?q=370">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hugo, Bischof von Konstanz, vermittelt zwischen Georg Graf von Hohenlohe und seinem Schwiegervater Rudolf Graf von Sulz im Streit um die Ansprüche der Erben beider Familien, insbesondere von Rudolfs Sohn Johann Ludwig Graf von Sulz und der Kinder von Georg und seiner Frau Praxedis, der Tochter von Rudolf, zum Erbe von Rudolf und Hermann Grafen von Sulz. Der Streit entstand nach dem Tod der Gräfin Praxedis, die auf ihren Anspruch auf das Erbe verzichtet hatte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-29">Erbverzicht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1522-11-07">7. Nov 1522</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_třeboň_370_z_hohenlohe_4_karton_16-0001.jpg" xml:id="lub-media-237" source="1522-11-07-soat-cizirodytrebon-370-hohenlohe04-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_třeboň_370_z_hohenlohe_4_karton_16-0002.jpg" xml:id="lub-media-238" source="1522-11-07-soat-cizirodytrebon-370-hohenlohe04-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-237" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-37">Hug</persName> von gottes gnaden bischoff zu <placeName ref="lub-places-101">Costennz</placeName> etc., bekennen unnd offenbaren mengklichem mit urkundt dis brieffs, nachdem sich zwischen den wolge
+<lb break="no" n="2"/>bornen hern <persName ref="lub-actors-8">Rudolffen graven zu Sulz</persName> an ainem unnd hern <persName ref="lub-actors-32">Jorigen graven zu Hochenloe</persName> etc. am anndern tail etlich irrung erhalten, darumb wir 
+<lb n="3"/>uff ir fruntlich ansuchen uff hewt dato dis brieffs ain güttlichen onverbunden tag furgenomen, alda ir lieb auch erscheynen und uns ir anligend  
+<lb n="4"/>gegen enanndern anzeigt. Namlich hat grave <persName ref="lub-actors-8">Rudolff von Sulz</persName> unns zuerkennen geben, wie er weylendt die wolgebornen fraw <persName ref="lub-actors-34">Braxedis</persName>, sein lieb  
+<lb n="5"/>dochter gewesen, uß fruntlichem unnd gutem willen gedachtem grave <persName ref="lub-actors-32">Jorigen</persName> zu der hayligen ee vermehelt, auch mit haymsteur und sunst wie ainer greffin  
+<lb n="6"/>geburt abgefertigt. Dagegen dann grave <persName ref="lub-actors-32">Jorig</persName> unnder annderm bewilligt unnd versprochen, vor unnd ee sollich haymsteur geraycht unnd bezalt wurde,  
+<lb n="7"/>das sein lieb mitsampt fraw <persName ref="lub-actors-34">Braxedis</persName> als seinem eegemachel unnd ir eevogt selbs, oder seinem volmachtigen gwalthaber, zu <placeName ref="lub-places-17">Rottweyl</placeName> vor dem hoffgericht,  
+<lb n="8"/>nach rechtlicher gnugsamer form und aller notdurfft verzyhen aller vetterlich, auch des wolgebornen hern <persName ref="lub-actors-36">Hermans graven zu Sulz</persName> erbschafft und gerech
+<lb break="no" n="9"/>tigkait, und die selb verziehung genzlich aygen in des wolgebornen <persName ref="lub-actors-35">Hanns Ludwigs graven zu Sulz</persName>, sein, graven <persName ref="lub-actors-8">Rudolffs</persName>, sunn, oder anndern seiner eelichen 
+<lb n="10"/>sunn handen unnd gwaltsame stellen, alles nach vermög der heyrats beredung, darumb versigelt uffgericht. Nun hette aber er, grave <persName ref="lub-actors-8">Rudolff</persName>, des heyrat
+<lb break="no" n="11"/>gut ußgericht und bezalt, unnd were die verzychung one volstreck beliben ansteen biß gedacht fraw <persName ref="lub-actors-34">Braxedis</persName> mit tod vergangen, und were also fraw 
+<lb n="12"/><persName ref="lub-actors-34">Braxedis</persName> one verzigen mit tod verschiden unnd etwa menig kinder verlasen, darauß ime, grave <persName ref="lub-actors-8">Rudolffen</persName>, und seinen sunen mercklicher nachtail, ir
+<lb break="no" n="13"/>rung und schad erwachsen, wie wir unnd jeder verstendiger erachten mochte, begert an graff <persName ref="lub-actors-32">Jorigen</persName> sollichs zufurkomen und das dem so abgeredt, so 
+<lb n="14"/>vil und nachmals muglich gelebt wurde, das welte er umb grave <persName ref="lub-actors-32">Jorigen</persName>, als sein sun unnd fruntlichen lieben dochterman, fruntlich beschulden. Dargegen  
+<lb n="15"/>grave <persName ref="lub-actors-32">Jorig</persName> vermeldet, das die verziehung nit volstreckt were ganz kainer arger noch geferlicher maynung, sonder allain uß hinlessigkait, und das  
+<lb n="16"/>auch grave <persName ref="lub-actors-8">Rudolff</persName> stilschwigenndt hingangen beschechen, auch das er sich des absterbens weylendt fraw <persName ref="lub-actors-34">Braxedis</persName> sein herzlieber eegemachel geweßen,  
+<lb n="17"/>nit verstehen wolt und möchte liden, die verzychung were in pester form uffgericht, were auch sein wil und gonnet ander nit, dann sollich kunfftig  
+<lb n="18"/>irrung so vil menschlich zufur komen unnd dem so beredt, sovil und muglich ist, zugeloben, wie dann graff <persName ref="lub-actors-8">Rudolff</persName>, sein lieber vatter unnd schweher,  
+<lb n="19"/>geredt unnd begerte hette. Also haben wir sovil darunder gehandelt unnd fruntlich betedingt, dweyl grave <persName ref="lub-actors-32">Jorig</persName> mitsampt weylundt fraw  
+<lb n="20"/><persName ref="lub-actors-34">Braxedis</persName> obgemelt verzyhung gethan haben solt, wie dann das die heyrats beredung vermag, das dann grave <persName ref="lub-actors-32">Jorig</persName> nachmals sollich verziehung  
+<lb n="21"/>fur sich und sein erben, vor uns als fürsten des <orgName ref="lub-actors-516">Hayligen Reychs</orgName> thun soll, unnd im, grave <persName ref="lub-actors-8">Rudolffen</persName>, und seiner lieb sunn deßhalb in alweg schadloß  
+<lb n="22"/>halten, das sich dann grave <persName ref="lub-actors-32">Jorig</persName> gütlich bewilligt und begebt hat, also hat graff <persName ref="lub-actors-32">Jorig</persName> vor unns fur sich und seiner lieb erben weylund fraw  
+<lb n="23"/><persName ref="lub-actors-34">Braxedis</persName> vetterlich und grave <persName ref="lub-actors-36">Hermans von Sulz</persName> erbschafft unnd erbgerechtigkait mit mund unnd hand verzigen unnd an aydes statt versprechen,  
+<lb n="24"/>kain vorderung noch ansprach darzu noch daran nit zu haben, ze üben noch zugebruchen, unnd ob sich begebe, das got verhütten welle, das grave  
+<lb n="25"/><persName ref="lub-actors-32">Jorigen</persName> eeliche kinder, es syen hern oder frewlin, grave <persName ref="lub-actors-8">Rudolffen</persName> oder seinen erben an obvermelten erbschafften unnd erbgerechtigkaiten ainich  
+<lb n="26"/>irrung, intrag, oder bekumernus thetten, und von sollicher verziehung nicht halten welten, es sye mit gerichten oder one gericht, mit der that und gwalt  
+<lb n="27"/>unnd grave <persName ref="lub-actors-8">Rudolff</persName> oder seine erben des zu schaden komen, in was gestalt das were, so auch grave <persName ref="lub-actors-32">Jorigen</persName> kinder sollich erbfall mit urtail behielten,  
+<lb n="28"/>das alles mitsampt allem interesse, sol unnd wil grave <persName ref="lub-actors-32">Jörig</persName> fur sich, seine erben unnd nachkomen, gedachten grave <persName ref="lub-actors-8">Rudolffen</persName> und seinen erben wider
+<lb break="no" n="29"/>legen, ußrichten unnd bezalen, das alles graff <persName ref="lub-actors-8">Rudolff</persName> zugefallen, angenomen unnd sich daran bemugen lassen hat, wir, grauff <persName ref="lub-actors-8">Rudolff</persName> unnd wir, 
+<lb n="30"/>grave <persName ref="lub-actors-32">Jorig</persName> bekennen, das alles wie oblut gehanndelt ist und geschriben stat, das wir sollichs selbs gehanndelt gethan, das zugesagt zu halten  
+<lb n="31"/>versprochen unnd zugefallen angenomen haben, als wir das thun hiemit in crafft dis brieffs, doch sol sollich handlung der heyrats nottel in all  
+<lb n="32"/>anndern arrickeln unnd claußeln in allweg on abbruchig unnd on verlezlich wol, die in iren crefften synn unnd beliben, des zu warem und offen urkundt  
+<lb n="33"/>haben wir, graff <persName ref="lub-actors-32">Jorig</persName>, unnsere aygen insigel an disen brieff thun hencken, der geben ist uff <origDate>freyttag vor sannt Martins des hayligen byschoffs  
+<lb n="34"/>tag von der gepurt Cristi gezelt funfftzehenhundert zwannzig unnd zway jar</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-238" n="1"/><lb n="1"/><gap/><lb n="2"/>Anno 1522 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

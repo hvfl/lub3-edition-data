@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-197">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dorothea Katharina Gräfin von Sulz, geboren Sayn, erhält von ihrem Vater Güter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Kopie, Signatur: <ref type="identifier" target="lub-objects-197">CZ-SOAT, Cizí statky 630 II 356 1</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 27. Juni 1602 / Beschreibstoff: Papier, 12 Seiten / Siegel: Notariatssignet (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: <ref type="identifier" target="lub-objects-1165">CZ-SOAT, Cizí statky 631 II 356 2</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 27. Juni 1602 / Beschreibstoff: Papier, 11 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/630/charter?q=630">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Heinrich IV. Graf von Sayn vererbt seiner Tochter Dorothea Katharina Gräfin von Sulz sämtliche Güter der Grafen von Sayn, insbesondere der Grafschaft Sayn, der Güter Montclair und Meinsberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-26">Erbschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-59">Diedenhofen</placeName>
+          <date when="1602-06-27">27. Jun 1602</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0001.jpg" xml:id="lub-media-2896" source="1602-06-27-soat-cizistatkytrebon-630-01.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0002.jpg" xml:id="lub-media-2897" source="1602-06-27-soat-cizistatkytrebon-630-02.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0003.jpg" xml:id="lub-media-2898" source="1602-06-27-soat-cizistatkytrebon-630-03.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0004.jpg" xml:id="lub-media-2899" source="1602-06-27-soat-cizistatkytrebon-630-04.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0005.jpg" xml:id="lub-media-2900" source="1602-06-27-soat-cizistatkytrebon-630-05.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0006.jpg" xml:id="lub-media-2901" source="1602-06-27-soat-cizistatkytrebon-630-06.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0007.jpg" xml:id="lub-media-2902" source="1602-06-27-soat-cizistatkytrebon-630-07.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0008.jpg" xml:id="lub-media-2903" source="1602-06-27-soat-cizistatkytrebon-630-08.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0009.jpg" xml:id="lub-media-2904" source="1602-06-27-soat-cizistatkytrebon-630-09.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0010.jpg" xml:id="lub-media-2905" source="1602-06-27-soat-cizistatkytrebon-630-10.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0011.jpg" xml:id="lub-media-2906" source="1602-06-27-soat-cizistatkytrebon-630-11.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_630_ii_356_1-0012.jpg" xml:id="lub-media-2907" source="1602-06-27-soat-cizistatkytrebon-630-12.jpg" corresp="B1"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0001.jpg" xml:id="lub-media-2908" source="1602-06-27-soat-cizistatkytrebon-631-01.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0002.jpg" xml:id="lub-media-2909" source="1602-06-27-soat-cizistatkytrebon-631-02.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0003.jpg" xml:id="lub-media-2910" source="1602-06-27-soat-cizistatkytrebon-631-03.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0004.jpg" xml:id="lub-media-2911" source="1602-06-27-soat-cizistatkytrebon-631-04.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0005.jpg" xml:id="lub-media-2912" source="1602-06-27-soat-cizistatkytrebon-631-05.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0006.jpg" xml:id="lub-media-2913" source="1602-06-27-soat-cizistatkytrebon-631-06.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0007.jpg" xml:id="lub-media-2914" source="1602-06-27-soat-cizistatkytrebon-631-07.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0008.jpg" xml:id="lub-media-2915" source="1602-06-27-soat-cizistatkytrebon-631-08.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0009.jpg" xml:id="lub-media-2916" source="1602-06-27-soat-cizistatkytrebon-631-09.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0010.jpg" xml:id="lub-media-2917" source="1602-06-27-soat-cizistatkytrebon-631-10.jpg" corresp="B2"/>
+    <graphic url="cz-soat__ciz-_statky_631_ii_356_2-0011.jpg" xml:id="lub-media-2918" source="1602-06-27-soat-cizistatkytrebon-631-11.jpg" corresp="B2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2896" n="1"/><lb n="1"/>In gottes nahmen amen etc. Khundt offenbar  
+<lb n="2"/>und wissent sey jedermenigclichen den so die  
+<lb n="3"/>gegenwerttig offen instrument vor kombt,  
+<lb n="4"/>daselbig ansehen, leßen, oder hören leßen, das  
+<lb n="5"/>im jahr nach Christi unnßers lieben herrn  
+<lb n="6"/>geburth <origDate>1602</origDate> in der fünfzehendten römer
+<lb break="no" n="7"/>zinßzahl, zue latein indictio genant, bey 
+<lb n="8"/>regierung des allerdurchleuchtigsten, groß
+<lb break="no" n="9"/>mechtigsten und unüberwindtlichsten fürsten 
+<lb n="10"/>und herrn, herrn <persName ref="lub-actors-27">Rudolphen des andern</persName>, im  
+<lb n="11"/>nahmen erwölter römischern kayßern, zue allen  
+<lb n="12"/>zeiten mehrern des <orgName ref="lub-actors-516">Reichs</orgName> in <placeName ref="lub-places-145">Germanien</placeName>,  
+<lb n="13"/>zue <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Beheim</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName>  
+<lb n="14"/>und <placeName ref="lub-places-294">Sclavonien</placeName> etc. khönigs, erzherzogen zue  
+<lb n="15"/><orgName ref="lub-actors-172">Össterreich</orgName>, herzogen zue <placeName ref="lub-places-120">Burgundi</placeName>, <placeName ref="lub-places-259">Steyr</placeName>, <placeName ref="lub-places-260">Kerndten</placeName>,  
+<lb n="16"/><placeName ref="lub-places-261">Crain</placeName> und <placeName ref="lub-places-263">Würtemberg</placeName>, graven zue <placeName ref="lub-places-96">Tyrol</placeName> etc. 
+<lb n="17"/>unnsers allergnedigsten herrn, in irer mayestät  
+<lb n="18"/><orgName ref="lub-actors-516">Reich des Römischen</orgName> im acht und zwainzigisten  
+<lb n="19"/>jahr, auf <origDate>donnerstag, den 27. monatstag  
+<lb n="20"/>junii</origDate>, neurn calenders nachmüttag zue drey  
+<lb n="21"/>uhrn ungefehrlich vor uns offenbahren, kayserlicher  
+<lb n="22"/>notarien und nachbenanten zeugen in eigner  
+<lb n="23"/>persohn komen und erschinen ist der wolgeborn  
+<lb n="24"/>herr <persName ref="lub-actors-153">Heinrich graf zue Sayn</persName>, herr zue <placeName ref="lub-places-809">Homburg</placeName>,  
+<lb n="25"/><placeName ref="lub-places-66">Monclar</placeName> und <placeName ref="lub-places-67">Menzenburg</placeName> etc., durch göttlicher  
+<lb n="26"/>verleichung noch gesundts leibs vernunfft  
+<lb n="27"/>und verstandts, in willen und mainung,  
+<lb n="28"/>der auch wolgebornen frawen <persName ref="lub-actors-58">Dorathen Catha
+<lb break="no" n="29"/>rina, geborner gräfin zue Sayn, grävin und 
+<pb facs="lub-media-2897" n="2"/>
+<lb n="30"/>frawen zue Sulz</persName>, seiner frawlin baaßen auß  
+<lb n="31"/>freyem unverboundtlichen willen, etliche irer  
+<lb n="32"/>gnaden unübergebene graf- und herrschafften,  
+<lb n="33"/>durch eine freye unwiderrüeffliche gifft  
+<lb n="34"/>donatio inter vivos zue latein genant, zue  
+<lb n="35"/>übergeben, haltende in seiner gnaden hand einen  
+<lb n="36"/>darüber in schrifften ufs papeyr abgefassten und  
+<lb n="37"/>mit dero hand und siegl becrefftigter donation
+<lb break="no" n="38"/>brief, den ire gnaden unß, notarien, überreicht  
+<lb n="39"/>mit gnedigem ansinnen, dieselben offentlich  
+<lb n="40"/>zu verleßen, sodann auch alßbaldt in beisein und  
+<lb n="41"/>in gegenwertigkhait erstwolermelten herrn donato
+<lb break="no" n="42"/>ris und hernach geschribener gezeugen verleßen 
+<lb n="43"/>wardt, von wortten zue wortten lautende wie  
+<lb n="44"/>volgt. Wir, <persName ref="lub-actors-153">Heinrich graf zue Sain,  
+<lb n="45"/>herr zue Homburg</persName>, <placeName ref="lub-places-66">Monclar</placeName> und <placeName ref="lub-places-67">Menzenberg</placeName>,  
+<lb n="46"/>uhrkhunden und bekhennen hiemit vor uns, unsere  
+<lb n="47"/>erben und nachkhomen. Obwohl wir im negst  
+<lb n="48"/>verwichenen sechzehen hunderten und ersten  
+<lb n="49"/>habe uf mitwochen, den zweyten monatstag  
+<lb n="50"/>decembris nach dem alten, aber den zwölfften  
+<lb n="51"/>deselben monats nach dem neuen calender  
+<lb n="52"/>zue <placeName ref="lub-places-23">Cölln</placeName> ein testamentliche disponsition,  
+<lb n="53"/>wie es mit unnserer erb- und verlassen
+<lb break="no" n="54"/>schafften nach unnserm tödtlichen abfahl soll 
+<lb n="55"/>gehalten sein worden, in beisein <persName ref="lub-actors-2501">Gerarden Beckh
+<lb break="no" n="56"/>mans</persName> und <persName ref="lub-actors-2500">Friderichen Krebs</persName>, bayder kayserlicher ge
+<lb break="no" n="57"/>schwornen notarien, sambt darzue erbettener 
+<lb n="58"/>gezeugen ufgericht, wie aber aus hochrichtigen  
+<pb facs="lub-media-2898" n="3"/>
+<lb n="59"/>wilfaltigen bedenckhlichen, pillichen, rechtmeßigen  
+<lb n="60"/>und gewißen ursachen inmittelst verlauffner  
+<lb n="61"/>zeit und in sonderlicher erwegung der wolgebohren  
+<lb n="62"/><persName ref="lub-actors-154">Wilhelm graf zue Sain und Wittgenstein</persName> etc. unns  
+<lb n="63"/>bei unsern gefunden tagen, sonder einigen befüegten  
+<lb n="64"/>schein, nicht allein nach unsern graf- und herr
+<lb break="no" n="65"/>schafften, sonder auch nach unser ehr, glimpf 
+<lb n="66"/>und reputation notaria gestanden, nunmehr  
+<lb n="67"/>uns all solcher beschwerdt befunden, das wir  
+<lb n="68"/>demnach vor uns selbst und aus unnserm eigenen  
+<lb n="69"/>bedacht, solche unser vorig testament zue re
+<lb break="no" n="70"/>vociern, zue widerrueffen, cassirn und zue
+<lb break="no" n="71"/>vernichtigen, mehr dann in einem weg befuegt 
+<lb n="72"/>und verursacht, inmassen wir dann daselb  
+<lb n="73"/>hiemit specialiter und in craft dieses  
+<lb n="74"/>wissentlich und wolbedächtlich, sambt  
+<lb n="75"/>allen deselben inverleibte clausulis dero
+<lb break="no" n="76"/>gatoriis tam generalibus quam specialibus 
+<lb n="77"/>omni meliori modo widersprechen, revocirn,  
+<lb n="78"/>cassiern und genzlich vernichtiget haben wollen,  
+<lb n="79"/>und als wir der auch wolgebornen  
+<lb n="80"/>unser fröwlin lieben baasen <persName ref="lub-actors-58">Doratheaen Catharinen,  
+<lb n="81"/>geborner grafin zue Sain, gravin und frawen  
+<lb n="82"/>zue Sulz</persName>, beyde unser schlößer und herrschafften  
+<lb n="83"/><placeName ref="lub-places-66">Monclar</placeName> und <placeName ref="lub-places-67">Menzberg</placeName>, mit allen und  
+<lb n="84"/>jeden deren zuegehörungen, recht und gerechtig
+<lb break="no" n="85"/>kheiten, nichts davon außgeschlossen, beneben 
+<lb n="86"/>unnserm zehenden, so wir von dem würdigen  
+<lb n="87"/>und andechtigen herrn dechant und capittel  
+<pb facs="lub-media-2899" n="4"/>
+<lb n="88"/><placeName ref="lub-places-810">Sanct Cassis kirchen</placeName> zue <placeName ref="lub-places-811">Bohn</placeName> erkhaufft  
+<lb n="89"/>und erblich an uns bracht hiebevor den <date when="1601-10-11">eilften  
+<lb n="90"/>octobris negst obgerüerten sechzehenhunderten  
+<lb n="91"/>und ersten jars</date> gifftlichen gaben, mit gewißen  
+<lb n="92"/>außbedingten beschwernuß zue wissen, das  
+<lb n="93"/>jenig so zwischen den auch wolgebornen unßern  
+<lb n="94"/>freundtlichen lieben schwager, herr <persName ref="lub-actors-2499">Petter  
+<lb n="95"/>Ernsten freyherrn zue Crichingen</persName> und <placeName ref="lub-places-812">Püttingen</placeName>  
+<lb n="96"/>anstatt und innahmen seiner lieben ge
+<lb break="no" n="97"/>mahlin und uns wegen deroselben widumbs 
+<lb n="98"/>hinderstelligen retardaten transigendo  
+<lb n="99"/>vergleichen in richtigkait zue bringen, ohne  
+<lb n="100"/>einigen fernern und weitern lasst, wisent
+<lb break="no" n="101"/>lich und wolbedachtlich doniert und über
+<lb break="no" n="102"/>geben, weliche donation wie auch volgendts 
+<lb n="103"/>am ersten aprilis dieses umblauffenden  
+<lb n="104"/>jahrs vor einem tabellion des <placeName ref="lub-places-814">Teutschen  
+<lb n="105"/>Bellisthumbs</placeName> <placeName ref="lub-places-813">Lottringen</placeName> bestättiget  
+<lb n="106"/>und confirmirt, das wir demnach die in  
+<lb n="107"/>oberclertem dato geschehene gifft und darauf  
+<lb n="108"/>ervolgte bestettigung hiemit und in  
+<lb n="109"/>craft dises, in bester formb rechtens  
+<lb n="110"/>iterative confirmirn, und wöllen das  
+<lb n="111"/>aus reiffer und zeitlicher vorbetrachtung  
+<lb n="112"/>und wolbedachtem verwantlichen gemüeth,  
+<lb n="113"/>ob wolermelter unser geliebter basen, der  
+<lb n="114"/><persName ref="lub-actors-58">gräfin zue Sulz</persName>, dero liebten erben und nachkommen,  
+<pb facs="lub-media-2900" n="5"/>
+<lb n="115"/>alle und jede unnsere unübergebene graf
+<lb break="no" n="116"/>und herrschaften, sowohl lehen als allodial 
+<lb n="117"/>erb und aigenthumb sambt allen und jeden  
+<lb n="118"/>ihren grosen und geringen zuegehörigen stückhen  
+<lb n="119"/>und pertinentien, wie die sein oder namen  
+<lb n="120"/>haben mögen, in was orth und enden dieselbe  
+<lb n="121"/>auch gelegen, wie wir dieselbe von unßern  
+<lb n="122"/>in gott ruhenden geliebten voreltern ererbt  
+<lb n="123"/>oder sonsten an uns bracht haben, auß unver
+<lb break="no" n="124"/>bindtlichen freyen willen und rechter wißen
+<lb break="no" n="125"/>hait lauterlich und pürlich, jedoch mit allen 
+<lb n="126"/>und jeden ihren darauf stehenden verbrieften  
+<lb n="127"/>oder unverbrieften richtigen schulden, und  
+<lb n="128"/>verhafften beschwernußen eigener, freyer,  
+<lb n="129"/>unwiderrufflicher gifft, wie solches under  
+<lb n="130"/>den lebendigen in bester und bestendiger form  
+<lb n="131"/>der rechten und nach übung und gebrauch  
+<lb n="132"/>eines jedes chur- und fürstenthumbs, darin  
+<lb n="133"/>dieselbige gelegen, herbrachter gewonhait  
+<lb n="134"/>geschehen soll, kann oder mag, zue grundt  
+<lb n="135"/>und erb geschenckht, zuegestelt und übergeben  
+<lb n="136"/>haben. Wie wir dann auch hiemit und  
+<lb n="137"/>in crafft dises irer liebten lauter und pürlich  
+<lb n="138"/>zue grundt und erb schenckhen, zuestellen  
+<lb n="139"/>und übergeben, gestalt hernegst dieselbe  
+<lb n="140"/>also übergebene güetter zue besizen, deren  
+<pb facs="lub-media-2901" n="6"/>
+<lb n="141"/>zue genießen und zue gebrauchen, damit zue  
+<lb n="142"/>thuen, zue lassen, zue bueßen und zue brechen,  
+<lb n="143"/>als ires aigenen proper erb und guets, davon  
+<lb n="144"/>und daraus wir uns doch zehen taußendt  
+<lb n="145"/>franckhfurter gulden, gestalt damit und  
+<lb n="146"/>darüber unßers gefallens hernegst zue dis
+<lb break="no" n="147"/>ponieren, mit ausstruckhlicher reservation 
+<lb n="148"/>vorbehalten haben, wie wir nit weniger auch  
+<lb n="149"/>ob wolermelte unnsere baaß, freundt-vetter
+<lb break="no" n="150"/>lichen ersuecht haben, in die grafschafft 
+<lb n="151"/><placeName ref="lub-places-65">Sayn</placeName>, und darzue gehörige herrschaften keine  
+<lb n="152"/>andere religion lehr oder glauben einzuefieren,  
+<lb n="153"/>noch andern solches zue thuen zuegestatten.  
+<lb n="154"/>Dann allein die so in der augspurgischen im  
+<lb n="155"/>jar tausendt fünffhundert und dreißig  
+<lb n="156"/>kayser <persName ref="lub-actors-185">Carlen dem fünfften</persName> von den evange
+<lb break="no" n="157"/>lischen chur- und fürsten übergeben, und volgendts 
+<lb n="158"/>im jar <date when="1555">tausendt fünffhundert fünffzig  
+<lb n="159"/>fünf</date> in der constitution des religions  
+<lb n="160"/>friedens bestettigter confession begrifen  
+<lb n="161"/>ist und uff solchen außbedingten fürbehalt,  
+<lb n="162"/>haben wir uns aller und jeder unser graf
+<lb break="no" n="163"/>und herrschafften lehen und allodial 
+<lb n="164"/>eigenthumbs erb und güetter, lauterlich  
+<lb n="165"/>und freiwillig enterbt und entrechtiget  
+<lb n="166"/>und obwolermelte unnsere baaß dero  
+<lb n="167"/>liebdten erben und nachkhomen damit  
+<pb facs="lub-media-2902" n="7"/>
+<lb n="168"/>geerbet und berechtigt, mit diser freywillig
+<lb n="169"/>er erclerung, das mer besagte graff- und  
+<lb n="170"/>herrschafften, lehen, allodial, eygenthumb,  
+<lb n="171"/>erb- und güetter nicht mehr unser, sonder  
+<lb n="172"/>erblich und ewig obwohlermelter unserer  
+<lb n="173"/>baaßen, dero liebdten erben und nachkommen  
+<lb n="174"/>sein und verbleiben sollen. Zue desto mehrer  
+<lb n="175"/>befesstigung wir dann alle und jede  
+<lb n="176"/>unsere underthanen, der unß geleister  
+<lb n="177"/>aydt und huldigung hiemit ledig gezelt  
+<lb n="178"/>und sie deßwegen an obwolgedachte unßere  
+<lb n="179"/>liebe baaß und dero liebten erben unnd  
+<lb n="180"/>nachkhomen gewiesen haben, auch zum  
+<lb n="181"/>befürderlichsten es möglich ihre liebten alle  
+<lb n="182"/>darüber sprechende brief und sigill sovil  
+<lb n="183"/>deren in unser verwahrung seindt anhendig  
+<lb n="184"/>zuestellen sollen. Wir gereden und ge
+<lb break="no" n="185"/>loben auch bey unnseren gräflichen ehren
+<lb n="186"/>und wahren wortten, in eins rechten  
+<lb n="187"/>geschwornen aidts statt diese gifft  
+<lb n="188"/>und donation steeth, vesst und unver
+<lb break="no" n="189"/>brüchlich zue halten. Darwider nun noch 
+<lb n="190"/>zue ewigen tagen nimmermehr zue sein, zue
+<lb break="no" n="191"/>khomen, zue thun, zue handlen, durch unß 
+<lb n="192"/>selbsten oder jemandts anders von unsert
+<pb facs="lub-media-2903" n="8"/>
+<lb break="no" n="193"/>wegen mit verzaichung aller rechtlicher 
+<lb n="194"/>behüelff exceptionen und außflüchten, die  
+<lb n="195"/>unß darfür freyen und schirmen khöndten oder  
+<lb n="196"/>möchten, innsonderhait aber  
+<lb n="197"/>de insinuanda donatione et excedente quan
+<lb break="no" n="198"/>titate und des rechtes sagende gemainer 
+<lb n="199"/>verzüge sey nicht bündig, es sey dann ein  
+<lb n="200"/>absunderlicher vorgangen, dem allem sambt  
+<lb n="201"/>und sonders wir unnß hiemit außtruckh
+<lb break="no" n="202"/>lichm wißentlich und wolbedächtlich begeben 
+<lb n="203"/>argelist und gefehrde genzlich hierinn außge
+<lb break="no" n="204"/>schieden. Dessen zue rechtem, steetem 
+<lb n="205"/>und immerwehrendem urkhundt haben  
+<lb n="206"/>wir <persName ref="lub-actors-153">Heinrich graf zue Sayn</persName> etc. vorgewandt  
+<lb n="207"/>dise donation neben ufftruckhung unsers  
+<lb n="208"/>angebohrnen insiegels eigener handen under
+<lb break="no" n="209"/>schrieben zue <placeName ref="lub-places-59">Diettenhoven</placeName>, <origDate>am sieben und 
+<lb n="210"/>zwainzigisten monats tag junii des  
+<lb n="211"/>jars tausendt sechßhundert und zway</origDate>  
+          <lb n="212"/>also underschrieben, <persName ref="lub-actors-153">Heinrich graff zue  
+<lb n="213"/>Seyn</persName>, und war ihrer gnaden insigel in rothen  
+<lb n="214"/>wachß mit überlegtem papeyr darneben ge
+<lb break="no" n="215"/>truckht, also und nach offentlicher verleßung 
+<lb n="216"/>hievorn inserierten donation brieffs, hat  
+          <lb n="217"/>dickh wohlgemelter herr <persName ref="lub-actors-153">Heinrich graff  
+<lb n="218"/>zue Sayn</persName> etc. sich erclert, das ire gnaden diße  
+<lb n="219"/>gifft steeht, vesst und unvergrifflich  
+<lb n="220"/>halten, und sich crafft derselben hiemit  
+<pb facs="lub-media-2904" n="9"/>
+<lb n="221"/>seiner übergebener graff- und herrschaften  
+<lb n="222"/>enterbt und mehr wolgedachte sein baaß,   
+          <lb n="223"/>der <persName ref="lub-actors-58">grafin von Sulz</persName>, damit besser formb  
+<lb n="224"/>rechtens geerbet haben wolt und dieweil  
+          <lb n="225"/>neben obwolermelter <persName ref="lub-actors-58">gravin von Sulz</persName> der  
+          <lb n="226"/>auch wolgeborne herr, herr <persName ref="lub-actors-2499">Petter Ernst  
+<lb n="227"/>freyherr zue Kriechingen</persName> und <placeName ref="lub-places-812">Püttingen</placeName> etc., bey  
+<lb n="228"/>dießer vorgangener gifft und donation gegen
+<lb break="no" n="229"/>wertig geweßen, haben ire gnaden innahmen 
+          <lb n="230"/>obwolermelter <persName ref="lub-actors-58">gravin</persName> als deroselben von iren  
+          <lb n="231"/>herrn gemahl, dem herrn <persName ref="lub-actors-13">graven zue Sulz</persName>,   
+<lb n="232"/>erbettener curator bemelter gifft also zue  
+<lb n="233"/>danckh angenohmen, mit beyderseits gnedigen  
+<lb n="234"/>gesinnen und begehren an uns, notarien, baider  
+<lb n="235"/>irer gnaden sowohl über die geschehene donation,  
+          <lb n="236"/>alß auch in nahmen obwolgedachter <persName ref="lub-actors-58">gräfin</persName>  
+<lb n="237"/>darauf ervolgte acceptation eines oder mehr  
+<lb n="238"/>instrumenta, sovil vonnöthen under unßerer und  
+<lb n="239"/>der gegenwertiger hierzue sunderlich erfordert und  
+<lb n="240"/>erbettener adenlichen gezeugen subscriptionen  
+<lb n="241"/>ufzuerichten, zu verfertigen und mitzuetheilen,  
+<lb n="242"/>welches, welches iren gnaden irer uf vorergangene  
+<lb n="243"/>gebürende requisition tragenden ambts halber  
+<lb n="244"/>nicht zu verwaiger gewust. Geschehen seindt  
+<lb n="245"/>diße dinge zue <placeName ref="lub-actors-59">Diettenhoven</placeName> in des fürgeachten  
+          <lb n="246"/><persName ref="lub-actors-2507">Matheißen Wollschlagers</persName>, büchsenmaisters daselbst  
+<lb n="247"/>behaußung, im obersten saal zur gaßen, im  
+<lb n="248"/>jar indiction, kaiserlicher regierung  
+<lb n="249"/>monat, tag und stunde, in beysein und gegen
+<lb break="no" n="250"/>wertigkhait der wohl, edlen, gestrengen und vessten 
+<pb facs="lub-media-2905" n="10"/>
+          <lb n="251"/>herrn <persName ref="lub-actors-2502">Johannsen herrn zue Wylz</persName>, <placeName ref="lub-places-816">Stadbrednus</placeName>  
+<lb n="252"/>und <placeName ref="lub-places-815">Buzii</placeName>, hochfürstlicher durchleichtigkheiten  
+<lb n="253"/>gubernatorn, probsten und haubtmans daselbst,  
+<lb n="254"/>Peter Ernsten von Brandenburg, herrn zur Scheiren,  
+          <lb n="255"/><placeName ref="lub-places-821">Weyßenburg</placeName> und Ventsch etc., <persName ref="lub-actors-2508">Georgen von Lellich</persName>, herrn  
+          <lb n="256"/>zue <placeName ref="lub-places-820">Puppalsdorff</placeName>, Friderichen von Gondeßdorff,  
+<lb n="257"/>herrn zue Bettingen und Friderichen von Fran
+<lb break="no" n="258"/>caquin, als glaubwürdiger gezeugen hierzue 
+<lb n="259"/>sonnderlich erfordert und erbetten. 
+</p>
+        <p><lb n="260"/><persName ref="lub-actors-153">Hainrich graff  
+<lb n="261"/>zue Sain</persName> manu propria 
+          <lb n="262"/><persName ref="lub-actors-2502">Johann her zu Wylz</persName> 
+          <lb n="263"/><persName ref="lub-actors-58">Dorothea gräfin zue  
+<lb n="264"/>Sulz, geborne gräfin von  
+<lb n="265"/>Sain</persName> etc. 
+          <lb n="266"/><persName ref="lub-actors-2499">Petter Ernst frey
+<lb break="no" n="267"/>herr zue Crieching</persName> etc.
+<lb n="268"/>Friderich von Gondesdorff manu propria 
+<lb n="269"/>Francaquin manu propria 
+</p>
+        <p><lb n="270"/>Wann dann ich, <persName ref="lub-actors-2506">Anthon Runzell</persName>, auß römischer  
+<lb n="271"/>kayserlicher mayestät macht und gewaltt offenbarer  
+<lb n="272"/>notarius bei oberlerter donation und accep
+<lb break="no" n="273"/>tation auch allen und jeden obgeschribenen 
+<lb n="274"/>dingen, wie es aigentlich nacheinandern  
+<lb n="275"/>verhandlet und geschrieben, mitsambt den  
+<lb n="276"/>vorgenanten adenlichen gezeugen und meinen  
+<lb n="277"/>mit notario Joanni Gwalther, in
+          <lb break="no" n="278"/>wohnern der statt <placeName ref="lub-places-59">Dittenhoben</placeName>, selbst per
+<lb break="no" n="279"/>sohnlich zuegegen geweßen bin, solches also 
+<lb n="280"/>beschehen zue sein gesehen und gehörtt. Darumb  
+<lb n="281"/>hab ich die gegenwertig offen instru
+<lb break="no" n="282"/>ment darüber begriffen, ufgericht 
+<lb n="283"/>und in dise form bracht, daselb durch  
+<lb n="284"/>einen andern vertrauten schreiber  
+<pb facs="lub-media-2906" n="11"/>
+<lb n="285"/>ingroßieren lassen, demnach wolgedachtem  
+          <lb n="286"/>herrn donatoris, auch wohlermelten <persName ref="lub-actors-2499">herrn zue  
+            <lb n="287"/>Criechingen</persName> der <persName ref="lub-actors-58">gravin zue Sulz</persName> und der vorbe
+<lb break="no" n="288"/>nanten darzue erforderten adelichen gezeugen 
+<lb n="289"/>subscription mit meinem lauf und zue
+<lb break="no" n="290"/>nahmen, auch gewöhnliche notariatsignet 
+<lb n="291"/>underschrieben und verzeichnet, zue wahrer ur
+<lb break="no" n="292"/>khundt und gezeugnus aller obgeschriebener 
+<lb n="293"/>dingen darzue sonderlich erfordert und gebetten. 
+</p>
+        <p><lb n="294"/>Demnach auch ich, Johannes Gwathyr,  
+          <lb n="295"/>inwohner zue <placeName ref="lub-places-59">Diedenhoben</placeName>, außer kayser
+<lb break="no" n="296"/>licher mayestät gwalt offenbahrer notarius 
+<lb n="297"/>neben vorgemeltem notario bey der über
+<lb break="no" n="298"/>geben donation und deroselben acceptation 
+<lb n="299"/>an und bey geweßen, dieselbe also geschehen zue  
+<lb n="300"/>sein gesehen und gehörtt, alß hab ich diß  
+<lb n="301"/>mit meinem nahmen zuenahmen und  
+<lb n="302"/>notariat zeichen verzeichnet, hierzue er
+<lb break="no" n="303"/>fordert und requiriert
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2907" n="1"/><lb n="1"/>Copia instrumenti donationis  
+<lb n="2"/>deß wolgebornen herrn, herrn  
+<lb n="3"/>Heinrichen, grafen zue Sayn  
+          <lb n="4"/>herrn zue <placeName ref="lub-places-809">Homburg</placeName>, <placeName ref="lub-places-66">Monclar</placeName>  
+          <lb n="5"/>und <placeName ref="lub-places-67">Menzenberg</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

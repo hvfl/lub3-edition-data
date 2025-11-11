@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-180">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verzicht auf Erbansprüche an die Grafen von Sulz von Ludwig Casimir Graf von Hohenlohe und seiner Schwester Anna Gräfin bei Rhein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-180">CZ-SOAT Cizí rody 416 z Hohenlohe 5</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 27. April 1547 / Beschreibstoff: Papier / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/416/charter?q=416">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ludwig Casimir Graf von Hohenlohe und seiner Schwester Anna verzichten zugunsten der Kinder des verstorbenen Johann Ludwig Grafen von Sulz auf Erbansprüche von Seiten ihrer verstorbenen Mutter Praxedis Gräfin von Hohenlohe, geborene Gräfin von Sulz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-29">Erbverzicht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1547-04-27">27. Apr 1547</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_416_z_hohenlohe_5_karton_16-0001.jpg" xml:id="lub-media-247" source="1547-04-27-soat-cizirodytrebon-416-hohenlohe05-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_416_z_hohenlohe_5_karton_16-0002.jpg" xml:id="lub-media-248" source="1547-04-27-soat-cizirodytrebon-416-hohenlohe05-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-247" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-106">Ludwig Casimir grave von Hohenlohe</persName> etc., urkhunden hiemit gegen allermeniglich, als  
+<lb n="2"/>durch absterbenn weillenndt der wolgebornnen <persName ref="lub-actors-47">Marggrethenn grevin zue Sulz</persName>, witwe, geborne grefin  
+<lb n="3"/>v<orgName ref="lub-actors-2480">onn Sonnenberg</orgName>, unnser lieben fraw ansfrawenn seliger unnd löblicher gedechtnus, unns die erb
+<lb break="no" n="4"/>schafft unnd gerechtigkeitenn, weliche weillandt der wolgebornnen <persName ref="lub-actors-34">Braxedis grefin von Hohenlohe</persName> etc. 
+<lb n="5"/>gepornn greffin <orgName ref="lub-actors-7">vonn Sulz</orgName>, unnser liebenn fraw mutter, auch seliger unnd löblicher gedechtnus  
+<lb n="6"/>in dem heuretbrieve zwueschenn iren liebden unnd dem wolgebornnen <persName ref="lub-actors-32">Geörigen graven vonn  
+<lb n="7"/>Hohennlohe</persName> etc., unnserm lieben herrn und vatter, uffgericht, vorbehaltenn worden. Von wegenn  
+<lb n="8"/>unnser selbs, auch der wolgebornnen <persName ref="lub-actors-105">Anna Wildt und Reingrevin</persName>, witwen, gepornnen greffin  
+<lb n="9"/><orgName ref="lub-actors-2465">vonn Hohennlohe</orgName> etc., unser lieben schwester, uff unnd angeerbt seindt, das demnach von wegen  
+<lb n="10"/>unnser selbs unnd iez gedachter unser verziegenn schwester, umb die erbschafft und gerechtigkeit  
+<lb n="11"/>weliche in vermög gemelts heuratbriefs unns baiden geschwisterten, als ir gemelter unnser lieben  
+<lb n="12"/>fraw ansfrawenn leib gehörig, verlassenn unnd zusteen mogen (hindangestelt die drey thausent  
+<lb n="13"/>guldin ansfruwliches hewretguts unnd halbenthails derselbigen liebden morgengabe, auch der  
+<lb n="14"/>gerechtigkeit unnd erbschafft vonn dem stamen <orgName ref="lub-actors-2480">Sonnenberg</orgName> herruerende, als die in disen vertrag  
+<lb n="15"/>nit gezogenn. Jedoch unnser angepürnus in unser selbs costen verbandelt werden sollen) wir  
+<lb n="16"/>unns heut dato für unns, gedachte unnsere verzigenne schwester, unnser unnd derselbenn erbenn  
+<lb n="17"/>guettlich unnd freuntlich verglichen, vereiniget und vertragen haben mit denwolgebornnen  
+<lb n="18"/><persName ref="lub-actors-2481">Wilhelmen graven zu Eberstain</persName> etc. unnd <persName ref="lub-actors-109">Jacoben graven zu Zweinpruecken</persName>, herrn zu <placeName ref="lub-places-789">Bytsch</placeName> und  
+<lb n="19"/><placeName ref="lub-places-790">Liechtennperg</placeName>, unnsern liebenn vettern, als vormundern weillandt des wolgebornnen <persName ref="lub-actors-35">Johann Ludwigen  
+<lb n="20"/>graven zu Sulz</persName> etc., auch unnsers vetternn seliger unnd löblicher gedechtnus, nachgelassener kinder,  
+<lb n="21"/>unnsern liebenn jungen vettern und bäßlin. Also das wir vonn wegenn obberurter unserer erb
+<lb break="no" n="22"/>schafft unnd gerechtigkeit umb das jhenig, so zu gemelter unser fraw anfrawen leib gehorig geweßen 
+<lb n="23"/>unnd uns zu unserm angepürenden thail erblichen zusteen mögen, auch sonnsten aller zuspruch  
+<lb n="24"/>unnd vorderung von dannen herruerende (usserhalb der obbestümpten dreithawsent guldin anfraw
+<lb break="no" n="25"/>licher ehestewr und dem halbenthail morgengabe sampt anderer anspruch und erbgerechtighait, so 
+<lb n="26"/>vonn dem stamen <orgName ref="lub-actors-2480">Sonnenberg</orgName> herruerendt, mir iezo haben oder gewüren möchten) an hewt dato  
+<lb n="27"/>empfangen haben ein guldin kettenn, ungeverlich uff dreihundert guldin werth, und ein demut in  
+<lb n="28"/>einem geschmeltzten ring versezt, uff sechzigk gulden ungeverlich geacht, darmit wir uns angeregter  
+<lb n="29"/>jezo vertragennter sachen halber freuntlichen haben bemuegen lassen. Unnd was ausserhalb der iezt
+<lb break="no" n="30"/>gemelten beder stuckh vorhanden, uns, oder gedachter unser verziegen schwester zugehorig. Dasselbig aus 
+<lb n="31"/>rechter freuntschafft in gemelter unser jungen vettern und beßlin handen gelassen, als die beineben  
+<lb n="32"/>diser unser freuntlichen begebung mit bezallung der schulden von unser anfrawen darruerende beladen  
+<lb n="33"/>sein sollen. Hieruf so verzeihen und begeben wir uns, von wegen unser selbs  
+<lb n="34"/>unnd gedachter unster verziegenn schwester, unser und irer liebden erben, aller vererer ansprüch, gerechtig
+<lb break="no" n="35"/>kait und erbschafft, uns umb obvermelter zu unser fraw anfrawen leyb zugehörigen. Auch alle 
+<lb n="36"/>andere dero verlassenschafft, wie solichs namen hat (unnd hier inen nit außgenomen noch vorbehalten)  
+<lb n="37"/>zusteen mögen, kein verer forderung, anspruch, clag noch gerechtigkait, zu haben wie das were, mit oder 
+<lb n="38"/>one recht, weder durch uns selbs noch andere von unsernt- oder irentwegen, ganz in kainer weg, wie das  
+<lb n="39"/>imer erdacht were oder sein würde. Dan wir uns aller solicher weitter forderung, zuspruch und  
+<lb n="40"/>gerechtigkaiten, so unns hieran inmassen obsteet, gepürt oder gepüern mögen, genzlich und gar  
+<lb n="41"/>verzigen haben. Sagen auch die gedachten fürmindere, ire pflegkündere, derselben erben  
+<lb n="42"/>und nachkomen für unns, unsere verziegen schwester, obgemelt unser und derselben erben und nach
+<lb break="no" n="43"/>komen, umb das alles und ydes hiemit quit ledig und los. Wir wollen auch 
+<lb n="44"/>hiebey aus rechter wissen und zeittlichem bedacht den verziegk, welichen unser liebe fraw mutter in  
+<lb n="45"/>vermög ermelter irer liebdten heuratbriefs, alles desselbigen inhalt thun sollen, one angesehen dz  
+<lb n="46"/>solicher verzigkh in zeit irer liebe leben nit, sonder allererst hernach durch unsern herrn und vatter  
+<lb n="47"/>beschehenn, hiemit für uns mergemelte unsere verzigere schwester, unser und derselben erben be
+<lb break="no" n="48"/>crefftiget haben und genehm halten, als ob der durch unnser fraw mutter seligen mit irer liebe selbs 
+<lb n="49"/>geschwornnem ayde, auch wie sichs rechtlicher ordnung nach gepürt, geschehen were. Bereden  
+<lb n="50"/>unnd versprechenn für uns und unsere erben darwider nit zehandeln noch fürzunemen, mit  
+<lb n="51"/>oder onne recht, in kain weis noch wege, mit verzeihung aller gnaden, freyhaiten und rechtenn,  
+<lb n="52"/>so wir oder unsere erben hiewider und alles so obsteet, fürziehen, oder erdencken kenten oder möchten.  
+<lb n="53"/>Dann wir uns des alles unnd yedes, sampt den rechten gemeiner verzeihung one vorgeende sonderung  
+<lb n="54"/>widersprechenndt bar unnd genzlich verziegen und begeben haben, alles getrewlich und one geverde.  
+<lb n="55"/>Des zu warem urkhundt haben wir diese quitantz mit eigener handt underschrieben, auch mit  
+<lb n="56"/>unnserm zurueckh ufgedrüeckten secret besigeln lassenn. Die gebenn ist uf <origDate>mitwochen nach  
+<lb n="57"/>Misericordia domini anno etc. 1547</origDate>.  
+<lb n="58"/><persName ref="lub-actors-106">Ludwig Casimir graff  
+<lb n="59"/>von Hohennloe</persName> etc. <gap/> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-248" n="1"/><lb n="1"/>Verzichts quittung  
+<lb n="2"/>herre <persName ref="lub-actors-106">Ludtwig Casimirs graffen zu Hohenlohe</persName><lb n="3"/>und seiner schwester <persName ref="lub-actors-105">Anna Wildt und Rheingräfin</persName></p>
+      </div>
+    </body>
+  </text>
+</TEI>

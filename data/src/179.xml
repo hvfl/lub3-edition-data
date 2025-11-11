@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-179">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mitgift für Elisabeth Gräfin von Bitsch bei ihrer Heirat mit Johann Ludwig Grafen von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-179">CZ-SOAT Cizí rody 372 z Bütsche</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 16. September 1523 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/372/charter">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Reinhard Graf zu Zweibrücken-Bitsch, Herr von Lichtenberg verpflichtet sich zur Zahlung von 4000 Gulden Mitgift an Johann Ludwig Grafen von Sulz bei der Eheschliessung seiner Tochter Elisabeth Gräfin von Bitsch, im Sinne des von Wilhelm Bischof von Strassburg ausgehandelten Ehevertrags.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-12">Mitgift</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1523-09-16">16. Sep 1523</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_rody_třeboň_372_z_bütsche,_karton_4-0001.jpg" xml:id="lub-media-235" source="1523-09-16-soat-cizirodytrebon-372-buetsche-r.jpg" corresp="A"/>
+    <graphic url="cizí_rody_třeboň_372_z_bütsche,_karton_4-0002.jpg" xml:id="lub-media-236" source="1523-09-16-soat-cizirodytrebon-372-buetsche-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-235" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-103">Reinhart grave zu Zweyenbruckenn</persName>, herrn zu <placeName ref="lub-places-789">Butsch</placeName> unnd <placeName ref="lub-places-790">Liechtennbergk</placeName>, thunt kunth menglich mit disem brieffe, als in der  
+<lb n="2"/>ebereddung durch denn hochwurdigenn fürstenn unnd herrenn, herrenn <persName ref="lub-actors-102">Wylhelmen</persName> bischoffenn zu <orgName ref="lub-actors-2475">Strasburg</orgName> und lantgraven zu  
+<lb n="3"/><placeName ref="lub-places-307">Elsas</placeName>, unnserm gnedigenn herren, zwyschenn dem wolgebornen unßerm liebenn tochterman <persName ref="lub-actors-35">Hans Ludwigen graffen zu Sultz</persName>,  
+<lb n="4"/>des wolgebornens unßers liebenn schwähers <persName ref="lub-actors-8">Rudolffenn graven zu Sultz</persName>, lantgraven im <placeName ref="lub-places-18">Kleckawe</placeName>, des <orgName ref="lub-actors-516">Heyligen Riechs</orgName> hoffrichter  
+<lb n="5"/>zu <placeName ref="lub-places-17">Rottweyll</placeName>, elichen sone an eym, unnd der wolgepornnen unnßern lieben tochter, fräwlin <persName ref="lub-actors-163">Elizabeth grevine zu Butsch</persName> etc.,  
+<lb n="6"/>am andernn theyle gemacht, under annderm bededingt worden, das wir der selbigen unserer dochter zu gedachtem grave <persName ref="lub-actors-35">Hans Ludwigen</persName>,  
+<lb n="7"/>irem elichenn gemahell zu rechter esture uyer dußent rinisch guldin in zweyen den nechßvolgenden jaren gebenn sollenn unnd  
+<lb n="8"/>darüber reverßbrieff machen etc., alles vermöge und inhalt desselbenn hyrattbrieffs daruber uffgeriecht. Bekennen wir hiemit für  
+<lb n="9"/>uns und alle unnßere erben inn und mit crafft dis brieffs, das wir solich vier tußent guldin gnantem unßerm dochterman in zweien  
+<lb n="10"/>jarenn nach dato des hierattbrieffs, nechstkunfftig namlich eyns yeden jares zwey tußent guldin bezalen, und ann allen seynen costen  
+<lb n="11"/>und schadenn gegen gepuelichenn quitdantzen zu gemelts unßers gnedigenn herren von <orgName ref="lub-actors-2475">Strasburgs</orgName> als underthedigers handen unnd  
+<lb n="12"/>gewalt inn seiner furstlichenn gnaden statt <placeName ref="lub-places-307">Elsaß</placeName> <placeName ref="lub-places-791">Zabernn</placeName> anwurtenn lassenn sollenn und wöllen die daselbst further hab zu  
+<lb n="13"/>entpfhehen mit der namlichen bescheydenheit, ob wir daran funig wurden. Und die berurten vier dußent guldin obberurter massen  
+<lb n="14"/>nit bezaltenn, so soll gnanter unser tochterman und dochter nach verschienung solicher zweier jare die witter anzunemen nit schul
+<lb break="no" n="15"/>dig, sunder als dann die selbig, unser tochter, tun statt der selbenn eyn fry unverzigne erptochter und aller erpfälltn glich andernn irenn 
+<lb n="16"/>brudernn und schwesternn velig sin, onn alle widderrede, ußzug und geverde, dawider uns unnd alle unßere erben nit schirmen, furtragen  
+<lb n="17"/>nach behelffenn soll, dheynerley fryheitten, schirm, trostung oder hulff, wie unns die vom <orgName ref="lub-actors-2479">Heyligen Stull</orgName> zu <placeName ref="lub-places-284">Rome</placeName> cardinalen,  
+<lb n="18"/>legattenn, ertzbischoffen, bischoffen, romischen kayßernn, kunigen, churfurstenn, fursten, lannden und oberkeitten, zu hilff erdacht,  
+<lb n="19"/>ußpracht, oder uß eygner bewegnus gegebenn werden möchtenn, dan wir uns deren aller und yeder in gemein und sonderheit sampt  
+<lb n="20"/>dem rechtenn gemeyner verziehung, one vergande sunderung widersprechendt, wissentlich, verziegen und begeben, auch des alles  
+<lb n="21"/>zu warem urkundt unßer ingesygell ann dißenn brieff gehangen habenn, uns unnd alle unnßere erbenn, aller vorgeschribner  
+<lb n="22"/>dinge vestiglich damit zu beswerenn, der geben ist <origDate>am mitwoch nach des hayligen Crutz tags der erhöhung als man zalt nach  
+<lb n="23"/>der gepurt Christi unnßers liebenn herrenn funffzehenhundert zwentzig unnd drey jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-236" n="1"/><lb n="1"/>Bekhandtnus  
+<lb n="2"/>grave <persName ref="lub-actors-103">Reinhardts zue Bitsch</persName> per 4000 fl. heuratguets  
+<lb n="3"/><origDate>1523</origDate> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

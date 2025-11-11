@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-653">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schiedsspruch im Streit um Rheinwuhren zwischen Triesen, Vaduz und Schaan einerseits und Buchs, Sevelen und Wartau andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>A1, Original, Signatur: <ref type="identifier" target="lub-objects-653">CH-StASG, AA 3 U 17</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 20. Februar 1582 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: <ref type="identifier" target="lub-objects-654">CH-StASG, AA 3 A 3-4</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Entstehungszeit: 20. Februar 1582 / Beschreibstoff: Papier / Siegel: 2 Siegel, gut erhalten</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: CH-LAGL, AG III.2401:036, S. 169-175 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>) / Entstehungszeit: um 1570 / Beschreibstoff: Papier</witness>
+          <witness xml:id="B3">B3: Kopie, Signatur: CH-LAGL, AG III.2401:044, S. 390-394 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>) / Entstehungszeit: 28. April 1754 / Beschreibstoff: Papier</witness>
+          <witness xml:id="B4">B4: Kopie, Signatur: CH-StASG, AA 3 B 2, S. 383-398 (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Entstehungszeit: 28. April 1754 / Beschreibstoff: Papier</witness>
+          <witness xml:id="C1">C1: Kopie, Signatur: CH-LAGL, AG III.2468:005, S. 57-64 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>) / Entstehungszeit: 18. Jh. / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: <ref target="https://p.ssrq-sds-fds.ch/SSRQ-SG-III_4-144-1">SSRQ SG III/4, Nr. 144</ref></bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Schweikhard von Helfenstein, Freiherr Peter von Mörsberg, Freiherr Konrad von Bemelberg, die Administratoren der Grafen Rudolf und Karl Ludwig von Sulz, sowie alt Landammann Melchior Hässi und Landessäckelmeister Thomas Schmid von Glarus entscheiden nach einem Augenschein im Streit um Rheinwuhren zwischen Triesen, Vaduz und Schaan einerseits und Buchs, Sevelen und Wartau andererseits Folgendes:&#13;
+1. Die Landvögte von Sargans, Werdenberg und Vaduz sollen das obere Wuhr in Triesen und die von den Wartauern errichteten Gegenwuhre in Augenschein nehmen und versuchen, eine gütliche Einigung zu erzielen.&#13;
+2. Die Triesner sollen das Kopfwuhr, das sie bei ihrer Viehtränke errichtet haben, um die Landstrasse zu schützen, so verkleinern, dass es den Sevelern keinen Schaden mehr zufügt. Künftig sollen sie die Landstrasse mit Streichwuhren schützen.&#13;
+3. Die Triesner sollen das Wuhr beim grossen Stein unterhalb des Dorfes, das zu stark gekrümmt ist, innert Jahresfrist gemäss dem Vertrag von 1562 begradigen..&#13;
+4. Die Seveler sollen ihr neues Wuhr nach Anweisung der Landvögte von Werdenberg und Vaduz und der Wuhrmeister korrigieren, sobald die Wasserverhältnisse es zulassen.&#13;
+5. Die Vaduzer dürfen beim Wuhr bei der Mündung des Vaduzer Bächleins die obere Krümmung belassen, müssen aber die untere begradigen.&#13;
+6. Die Buchser dürfen das gewünschte Wuhr errichten.&#13;
+7. Zur Vermeidung künftiger Konflikte werden Wuhrmeister eingesetzt, je zwei von Triesen, Sevelen und Buchs sowie zwei von Vaduz und Schaan zusammen. Wenn zwischen zwei Dörfern Wuhre gebaut werden sollen, sollen die Wuhrmeister der nicht beteiligten Dörfer unter Beizug der Landvögte einen gütlichen Entscheid treffen. Die Bestimmungen des Vertrags von 1562 bleiben in Kraft. Wer Wuhre baut, ohne die Gegenpartei und die Wuhrmeister zu informieren, wird mit 14 Pfund gebüsst.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-439">buck(wuer)</term>
+          <term ref="lub-keywords-433">kopf(wuer)</term>
+          <term ref="lub-keywords-434">krum(wuer)</term>
+          <term ref="lub-keywords-444">werklafter</term>
+          <term ref="lub-keywords-404">strich(wuer)</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-566">Helfenstein, Schweikhard von</persName>
+          <date when="1582-02-20">20. Feb 1582</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-567">Mörsberg, Peter von</persName>
+          <date when="1582-02-20">20. Feb 1582</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-568">Bemelberg, Konrad von</persName>
+          <date when="1582-02-20">20. Feb 1582</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-262">Hässi, Melchior</persName>
+          <date when="1582-02-20">20. Feb 1582</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2438">Schmid, Thomas (1)</persName>
+          <date when="1582-02-20">20. Feb 1582</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3_u_17-0001.jpg" xml:id="lub-media-2820" source="stasg-aa-3-u-17-v.jpg" corresp="xml:id not found"/>
+    <graphic url="ch-stasg__aa_3_u_17-0002.jpg" xml:id="lub-media-2886" source="stasg-aa-3-u-17-r-klein.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2886" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-566">Schweigkhart, grave zu Hellffenstain</persName>, 
+<lb n="2"/>freyherr zu <placeName ref="lub-places-344">Gundelfingen</placeName> unnd <placeName ref="lub-places-703">Gomögnis</placeName>, fürstlich <placeName ref="lub-places-388">bayerischer</placeName> rath unnd pfleger zu <placeName ref="lub-places-693">Landsperg</placeName> etc., <persName ref="lub-actors-567">Peter, freyherr zu Mörsperg</persName> unnd <placeName ref="lub-places-748">Beffort</placeName>, fürstlicher durchlaucht ertzhertzog <persName ref="lub-actors-11">Ferdinanden zuo Österreich</persName> rath unnd landvogt inn 
+<lb n="3"/><placeName ref="lub-places-749">Orttnaw</placeName>, unnd <persName ref="lub-actors-568">Conradt, freyherr zu Bemelberg</persName> unnd <placeName ref="lub-places-750">Hochennburg</placeName>, herr zu <placeName ref="lub-places-751">Marckht Bißingen</placeName> etc., als von der romischen kayserlichen majestät etc., unserm aller gnedigisten herren, denn wolgebornnen, unnsern freündtlichen, lieben vettern <persName ref="lub-actors-113">Ruodolffen</persName> unnd <persName ref="lub-actors-13">Carlin Ludwigenn, 
+<lb n="4"/>graven zu Sultz</persName>, lanndtgraven in <placeName ref="lub-places-18">Kleggew</placeName>, herrn zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Blomeneckh</placeName>, verordnete administratorn, so dann wir, nachbenannte <persName ref="lub-actors-262">Melchior Hessi</persName>, allt lanndt aman, unnd <persName ref="lub-actors-2438">Thoman Schmidt</persName>, lanndt seckellmayster, beede des rahts zue 
+<lb n="5"/><placeName ref="lub-places-72">Glaris</placeName>, alls vonn herrn <orgName ref="lub-actors-276">lanndt aman unnd gantzen lanndt rath daselbstenn zue Glaris</orgName> abgeordnete bottschafft, bekhennen unnd thun khundt menigklichem, demnach zwischen denn underthonnen der herrschafft <orgName ref="lub-actors-7">Sulltz</orgName> zu <placeName ref="lub-places-79">Trißen</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> unnd 
+<lb n="6"/><placeName ref="lub-places-53">Schann</placeName> ains unnd der graveschafft <placeName ref="lub-places-73">Werdennberg</placeName> irer unnderthonnen zue <placeName ref="lub-places-148">Buchs</placeName> unnd <placeName ref="lub-places-147">Sevellen</placeName> unnd herrschafft <placeName ref="lub-places-149">Warttaw</placeName> andersthaills des wuerenns am <placeName ref="lub-places-103">Rehin</placeName> halber spenn, irrung unnd stöß enndstannden, das jeder thaill sich wider 
+<lb n="7"/>brieff unnd sigell des wueren gebraucht zuhabenn vermainnt, welche brief unnd sigell vermechten, wie auch landtbreüchig, wo einem thaill wuorenns vonnötten, mit deß andern vorwissenn unnd willen geschechen, als dann der 
+<lb n="8"/>schnur nach den schadenn wol besseren möge, aber <term ref="lub-keywords-405">schupff</term> unnd <term ref="lub-keywords-439">buckh</term> sich in allweg enndthallten unnd nit gebrauchenn solle. Solchem enndtgegen unnd zuwider die zu <placeName ref="lub-places-79">Trißen</placeName> sich ab dennen von <placeName ref="lub-places-149">Warttaw</placeName>, das sy inen zu nachthaill ge
+<lb break="no" n="9"/>wueret, unnd die von <placeName ref="lub-places-147">Sevelle</placeName>, das die von <placeName ref="lub-places-79">Trißen</placeName> oberhalb irer vich trünckhen ain <term ref="lub-keywords-433">kopff</term>, sodann vom grossen stain bey dem würtshauß ain <term ref="lub-keywords-434">krum wuer</term> in <placeName ref="lub-places-103">Rein</placeName> geschlagenn, beclagdt, dardurch die von <placeName ref="lub-places-147">Sevellen</placeName> ain wuehr bey dem
+<lb n="10"/><placeName ref="lub-places-752">Haberwuer</placeName> dargegen zu bawen verursacht sein vermeindt, ab welchem die von <placeName ref="lub-places-147">Sevellen</placeName> new wuer, die von <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Tschan</placeName> sich das inen dasselbig zu nachtaill gelannge, beschwertt. Dergleichenn die von <placeName ref="lub-places-148">Buchs</placeName> wider deren von 
+<lb n="11"/><placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Tschann</placeName> wuer, so sy neben dem einfluss des <placeName ref="lub-places-1">Vadutzer</placeName> bechlins der schnuer nach schlagen sollen, aber oben unnd unden sich <term ref="lub-keywords-439">bieckhe</term> unnd <term ref="lub-keywords-434">krümmen</term> gebraucht, clag eingefiert unnd die <term ref="lub-keywords-439">buckh</term> der schnur nach auß zue 
+<lb n="12"/>füerenn begert. Neben dem der ernvest <persName ref="lub-actors-576">Hanns Ellmar</persName>, der zeit lanndtvogdt der graffschafft <placeName ref="lub-places-73">Werdenberg</placeName> unnd herrschafft <placeName ref="lub-places-149">Warthaw</placeName>, deß raths zu <placeName ref="lub-places-72">Glaris</placeName>, fürgebracht, wie der <placeName ref="lub-places-103">Rhein</placeName> gegen denen von <placeName ref="lub-places-148">Buchs</placeName> zugefallen, daß inen, 
+<lb n="13"/>schaden zue für khomme, aines kleinnen wuehrs vonnötten, mit nachparlicher pitt, man wollte inen dasselbig guettwillig gestatten. Also obgedachter aller unnd jeder wuehren klag und beschwerden der augenschein von ain
+<lb break="no" n="14"/>em landt zue dem andern eingenommenn, alle gelegenhait von oben her <placeName ref="lub-places-103">Reins</placeName> herab biß gehn <placeName ref="lub-places-151">Werdenberg</placeName> nach notturfft besichtiget, auch, wo vonnöten gewesen, brieff unnd sigell abgehört unnd auß sollcher ganntzen
+<lb n="15"/>hanndlung befunndenn, da beederthaills unnderthonnen sich gegen ain andern nach außweysunng brieff unnd sigell ainer bessern beschaidennheitt gebrauchen, das deren spenn unnd stöß in dem, das jederthaill, da 
+<lb n="16"/>ime wuerenns vonnöttenn, mit deß andern vorwissenn thon unnd wz er beschaidenn, sich desselbigenn gebrauchenn unnd weitter nit schreittenn sollte, vill verhüett werdenn kendte. Wann aber zubesorrgen, wo nit 
+<lb n="17"/>etwa ain mittell fürfallennder wassers noht unnd gefahr, weß sich der gefahrenndt thaill im wuehrenn zu halltenn gesucht, dardurch bey den unnderthonnenn ain anndernn wie bißher selbst anzusuchennn 
+<lb n="18"/>abgestellt, das sy sich der gefahr nit enndthalltenn unnd zwischenn innenn nimmermehr rhue oder früdenn sein werde, so habenn wir unns, wie nit allein oberzelltenn spennenn, irrunngenn unnd stossen 
+<lb n="19"/>an jetzunnder gleich abgeholffennn, sonnder auch so woll denn oberkhaittenn täglichenn überlauffs als denn unnderthonnenn zu bestenndiger rhue, auch abstellung viller muehe, versaumnus unnd costenns, weß 
+<lb n="20"/>mann sich nun fürohin, da ainem oder dem andernn thaill wuehrenns vonnöttenn sein wurde, zuverhalltenn, mit ainanndern freünndtlich unnd nachpärlich unnderredt unnd aller sachenn nottwenndiger gelegenhait 
+<lb n="21"/>nach verainbart unnd verglichenn: Erstlichs so vil gegenwerttige clagenn unnd beschwerdenn unnd nammlichen die <placeName ref="lub-places-79">Trißammer</placeName> unnd <placeName ref="lub-places-149">Warttawer</placeName> belannget, dieweill die von <placeName ref="lub-places-149">Wartaw</placeName> dißmalle 
+<lb n="22"/>nit zugegenn, das dann die drei lanndtvögdt <placeName ref="lub-places-172">Sarganns</placeName>, <placeName ref="lub-places-73">Werdenberrg</placeName> unnd <placeName ref="lub-places-7">Vadutz</placeName> fürderrlichenn zusammenn khommenn, denn augennscheinn der <placeName ref="lub-places-79">Trißammer</placeName> ober unnd der <placeName ref="lub-places-149">Warttawer</placeName> dargegen gemachtenn 
+<lb n="23"/>wuehr besichtigennn, sich fründtlich unnd nachparlich mit ainannder verglichenn. Wo es aber über allenn angewennntenn vleiß nit sein künndte oder wollte, jedemmthaill sein gepürlich recht vorbehalten 
+<lb n="24"/>sein soll. Zum anndernn, diewyll die von <placeName ref="lub-places-79">Trißenn</placeName> bey dem gesslinn vom dorff herab oberhalb irer in <placeName ref="lub-places-103">Reihnn</placeName> vichtrünnckhenn ain <term ref="lub-keywords-433">kopff</term> gleichwol zu beschirmunng der lanndt strassenn 
+<lb n="25"/>in <placeName ref="lub-places-103">Reihnn</placeName> geschlagenn, aber dennenn zu <placeName ref="lub-places-147">Sevellenn</placeName> zu nachthaill gelannngdt, sollenn sy, die vonn <placeName ref="lub-places-79">Trissenn</placeName>, dennselben <term ref="lub-keywords-433">kopf</term> biß auff zwai gutte <term ref="lub-keywords-444">werckg klaffter</term>, so sie <term ref="lub-keywords-404">streich</term>- unnd nit <term ref="lub-keywords-405">schupf</term>weis zuerhalltunng der 
+<lb n="26"/>lanndstraß behalltenn mögen, schliessenn unnd vonn dannenn hin der lanndtstraß durchnider inen mit <term ref="lub-keywords-404">streich wuerenn</term> zu irer notturfft ze werenn unbenommenn, sonnder zugelassenn 
+<lb n="27"/>sein, doch gefahr hindann gesetzt. Zum drittenn, deß wuehrenns halb, so von dem grossennn stainn zue negst unnder dem dorff <placeName ref="lub-places-79">Trißenn</placeName> durch die vonn <placeName ref="lub-places-79">Trißenn</placeName> gemacht, dieweill daß
+<lb break="no" n="28"/>selbig zuvill gekrümnt, ist erleütert unnd gesprochennn, das die von <placeName ref="lub-places-79">Trißenn</placeName> denn <term ref="lub-keywords-439">buckh</term> in jars frist, damit es, durch auß inmassenn der anno <date when="1562">ain tausenndt fünffhunndert sechtzig zway
+<lb n="29"/>jar</date> aufgericht vertrag außweisst, snuerrichtig sey, vom annfanng biß zum enndt ausfillenn sollennn. Zum vierttenn, dieweill die vonn <placeName ref="lub-places-147">Sevellenn</placeName> ihr new wuer zue negst 
+<lb n="30"/>unnder dem <placeName ref="lub-places-752">Haber Wuehr</placeName> vonn wegenn derenn vonn <placeName ref="lub-places-79">Trißenn</placeName> obgedachtenn <term ref="lub-keywords-433">kopfs</term> unnd wuehrs zuschlagen verurrsacht unnd dennenn vonn <placeName ref="lub-places-79">Trißenn</placeName> dasselbig innhallt vorgeenndenn articulls zubesseren 
+<lb n="31"/>ufferlegdt, dennen vonn <placeName ref="lub-places-147">Sevellen</placeName> dardurch weitter khein schadenn zugefahrenn unnd derowegenn alls baldt auch der schnuer nach zubesserenn schuldig werrenn, nach dem sy aber angezaigdt, das inen der <placeName ref="lub-places-103">Rhein</placeName> oben herab 
+<lb n="32"/>leichtlich hinder dem wuehr einbrechen unnd dann undenn gegenn dem alltenn wuehr auch wider einfallenn, allso grossenn schadenn thonn möchte, ist vonn dennen zu <placeName ref="lub-places-53">Tschann</placeName> unnd <placeName ref="lub-places-1">Vadutz</placeName> bewilliget, das in bey
+<lb break="no" n="33"/>sein beeder lanndtvögtenn zu <placeName ref="lub-places-7">Vadutz</placeName> unnd <placeName ref="lub-places-73">Werdennberg</placeName>, auch derenn zu <placeName ref="lub-places-53">Tschann</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-79">Trißen</placeName> zuverrhiettung anngezaigter zer erwarttennder gefahr, jetzunder allein erbessern mögen, so baldt sie aber wasser<unclear>s</unclear>
+<lb n="34"/>halb khönnen, das gemellt wuehr in der gerede schnuerschlecht nach erkhanndtnus der lanndtvögt unnd wuermaister zue enndernn schuldig sein. Zum fünfftenn, so vil derenn von <placeName ref="lub-places-1">Vadutz</placeName> lanng wuehr 
+<lb n="35"/>unnd des <placeName ref="lub-places-1">Vadutzer</placeName> bechlins einflus den <placeName ref="lub-places-103">Reihn</placeName> hinab belanngdt, ist beschlossenn, das die vonn <placeName ref="lub-places-1">Vadutz</placeName> denn unndernn <term ref="lub-keywords-439">buckh</term> in die kredenn ausfillenn unnd richtenn sollenn. Unnd nach dem die vonn <placeName ref="lub-places-1">Vadutz</placeName> für 
+<lb n="36"/>den obern <term ref="lub-keywords-439">buckh</term> gebettenn, derselbig unns, den kayserlichen administratorn, unnd unnserm freündtlichenn, liebenn vetternn unnd pfleg sohn <persName ref="lub-actors-13">Carlin Ludwigenn, gravenn zu Sulltz</persName> etc., so auch zu gegenn gewesenn, zu ehrenn und 
+<lb n="37"/>den zu <placeName ref="lub-places-1">Vadutz</placeName> zue lieb, wie der selbig jetzunder hinab biß auf denn unndern außgefülltenn <term ref="lub-keywords-439">buckh</term> zupleibenn gelassenn wordenn. Zum sechstenn gegenn sollchem ist enndtgegenn dennenn zu <placeName ref="lub-places-148">Buchs</placeName> 
+<lb n="38"/>bewilliget, das sy uff acht klaffter ann dem orth, sy es jetzunnder begert, inn beisein derenn vonn <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Tschann</placeName> woll wuerenn mögenn, doch in dem unnd negst vorgemelltem articull, da den gegenn 
+<lb n="39"/>gesessnennenn benachpaurttenn künnfftiger zeittenn nachthaill daruß zugewarttenn nach erkhanndtnus der wuermaister in beysein beeder lanndtvögdt <placeName ref="lub-places-7">Vadutz</placeName> unnd <placeName ref="lub-places-73">Werdenberg</placeName> gebessert werdenn oder 
+<lb n="40"/>dargegenn die notturfft fürzunemmenn unnbenummenn sein soll. Lettstlichenn, damit fürohinn großer uncostenn, widerwillenn unnd schadenn beeder herrschafftenn, irer lanndenn unnd under 
+<lb n="41"/>thonnenn erspart unnd guette nachpaurschafft erhalltenn werde, sein wir zu beedenthailenn überein khommenn, das des wuerenns, wassergebeuwenn, auch des <placeName ref="lub-places-103">Reins</placeName> gelegennhait verstenndige wuermeister 
+<lb n="42"/>an jetzo gleich erkuest, gesetzt unnd geordnet werdenn, nammlichenn zu <placeName ref="lub-places-79">Trißenn</placeName> zwenn, zu <placeName ref="lub-places-147">Sevellenn</placeName> zwenn, zu <placeName ref="lub-places-148">Buchs</placeName> zwenn unnd zu <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Tschann</placeName> zwenn, so daruff zu fürfallennder noht allwegennn 
+<lb n="43"/>erhalltenn werdenn unnd uff das wuehrenn ain sonndernn aydt in beysein beeder herrschafftenn schwerenn, in crafft desselbenn aydt sich wuerenns halber, auch in bey sein beeder herrschafftenn landt
+<lb break="no" n="44"/>vögtenn erkhennenn. Allso wann zwischenn <placeName ref="lub-places-79">Trißenn</placeName> unnd <placeName ref="lub-places-147">Sevellenn</placeName> wuerenns vonnöttenn, so soll der begerenndt thaill dem gegenthaill verkhünndenn unnd sollenn die vier wuermeister
+<lb n="45"/>vonn <placeName ref="lub-places-148">Buchs</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Tschann</placeName> in beywesenn unnd mit rath beeder lanndtvögdt sich auff ir aydt in guettigkhait darumb erkhennen, wie mann wuerenn solle nach brieff unnd sigell, 
+<lb n="46"/>auch dem lanndts gebrauch unnd gestallt same der sachenn. Dem selbenn nach mögenn dann die wuehr unnd nit anderst gemacht werdenn. Gleicher gestallt, wann noth fürfielle, das zu wuehrenn vonnötenn sein wurde 
+<lb n="47"/>zwischen dennen vonn <placeName ref="lub-places-148">Buchs</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Tschann</placeName>, sollenn die wuehrmaister vonn <placeName ref="lub-places-79">Trißen</placeName> unnd <placeName ref="lub-places-147">Sevellenn</placeName> herrab beruffenn unnd inn beisein beeder lanndtvögt gehanndlet werdenn, wie obsteth. Ob aber 
+<lb n="48"/>ier guettlicher spruch ainer oder beeder parthei gar nit annemmlich sein sollte, so ist jedem thaill sein recht, wie es die vertreg anno etc. <date when="1562">fünffzehennhundert sechtzig unnd zwai</date> zuegebenn, vorbehalltennn. 
+<lb n="49"/>Es soll auch in beedenn herrschafftenn khain thaill ohne vorwissenn des andernn unnd diser angeregdtenn wuermaister wuerenn bei peenn unnd straff vierze<unclear>h</unclear>enn pfunndt pfenninng ohne gnadtt, 
+<lb n="50"/>darvonn der herrschafft, darunnder die straffpar parthei gesessenn, halb unnd der annder halb thaill solcher straff denn wuermaisternn gebürenn unnd zu stehnn. Welches alles unnd jedes, wie vorsteht, wir, die 
+<lb n="51"/>kayserlichen administratores ann statt unnd vonn wegenn obwollerrmellter, unnserer freündtlichenn, liebenn vetternn unnd pflegsohnenn der gravenn zu <orgName ref="lub-actors-7">Sulltz</orgName> unnd derenn underthonnenn zu <placeName ref="lub-places-79">Trißenn</placeName>, <placeName ref="lub-places-1">Vadutz</placeName> unnnd 
+<lb n="52"/><placeName ref="lub-places-53">Tschann</placeName>, auch wir, <orgName ref="lub-actors-276">lanndtamann unnd ganntzer lanndtrath zu Glaris</orgName>, uf beschehenn unnserer obgedachter abgesanntenn bottenn relation, alles was gehanndlet unnd in disem brieff begriffenn, doch ellter
+<lb break="no" n="53"/>en briefenn ausserhalb diser hanndlung unvergriffenn, ratificieren unnd bekrefftigenn, für unns selbst unnd anstatt unnserer underthonnenn zu <placeName ref="lub-places-147">Sevellenn</placeName> unnd <placeName ref="lub-places-148">Buchs</placeName> der graffschafft <placeName ref="lub-places-73">Werdennberrg</placeName>, demm
+<lb n="54"/>allem also zu allenn thaillenn fürohin nach zu khomm<supplied>e</supplied>nn, war unnd steth zuhalltenn, darwider nit zu thun noch schaffenn, gethonn zu werdenn, angenommenn, verwilliget, zugesagdt unnd versprochennn, 
+<lb n="55"/>wie wir dann dasselbig beederseits von oberkhait wegenn verwilligenn, zu sagenn unnd versprechenn inn crafft diß brieffs, derenn zu mehrerm urkhundt unnd sicherhait zwenn gleich laudtendt 
+<lb n="56"/>uffgericht unnd unnder unnser, der administrator, unnd unnserer, derenn vonn <placeName ref="lub-places-72">Glaris</placeName>, anhanngenndenn innsigell geferttiget, jeder oberkhai<supplied>t</supplied> ain originall unnd denn underthonnen jedes ortts glaubwürdigen 
+<lb n="57"/>copey davonn zugestellt. Geschehenn unnd gebenn <origDate when="1582-02-20">zinstags, denn zwainntzigistenn februarii, im jar als man zallt nach der gnadenreichenn gepurtt Christi, unsers hailandts, gezallt tausent fünffhundert zwei unnd 
+<lb n="58"/>achtzig</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2820" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

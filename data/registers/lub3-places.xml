@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-15 17:24:51 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-11-11 16:05:58 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -657,6 +657,48 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Schaffhausen"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-23">
+            <placeName type="main" xml:lang="de">Köln</placeName>
+            <placeName type="full" xml:lang="de">Köln</placeName>
+            <placeName type="sort" xml:lang="de">koeln</placeName>
+            <placeName type="alternative" xml:lang="de">Cölln</placeName>
+            <location>
+              <geo>50.93333 6.95</geo>
+              <settlement xml:lang="de">Köln</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">23</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2886242"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q365"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Cologne-Germany"/>
+              </bibl>
+              <bibl>
+                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/04116a.htm"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80050882"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/006585"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/157037914/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4031483-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Köln"/>
               </bibl>
             </listBibl>
           </place>
@@ -1381,7 +1423,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Die im 15. Jahrhundert entstandene Grafschaft <note type="editorial">später Herrschaft</note> Sonnenberg umfasste das Gebiet der heutigen Vorarlberger Gemeinden Frastanz und Nenzing <note type="editorial">Kleine Gnoss</note> sowie Bürs, Bürserberg, Brand, Nüziders, Innerbraz, Dalaas, Klösterle und den Lecher Ortsteil Omesberg <note type="editorial">Grosse Gnoss</note>, bis 1695 auch das städtische Umland von Bludenz. Benannt ist sie nach der um 1410 von «Nüziders» in Sonnenberg umbenannten und 1473 zerstörten Burg.</p>
+              <p>Die im 15. Jahrhundert entstandene Grafschaft (später Herrschaft) Sonnenberg umfasste das Gebiet der heutigen Vorarlberger Gemeinden Frastanz und Nenzing (Kleine Gnoss) sowie Bürs, Bürserberg, Brand, Nüziders, Innerbraz, Dalaas, Klösterle und den Lecher Ortsteil Omesberg (Grosse Gnoss), bis 1695 auch das städtische Umland von Bludenz. Benannt ist sie nach der um 1410 von «Nüziders» in Sonnenberg umbenannten und 1473 zerstörten Burg.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-48">
@@ -1453,7 +1495,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Bis 1806 bestehende Herrschaft im Allgäu mit dem Hauptort Weitnau <note type="editorial">Lkr. Oberallgäu</note>. Namensgebend war die abgegangene Burg Hohenegg <note type="editorial">Gde. Grünenbach, Lkr. Lindau</note>.</p>
+              <p>Bis 1806 bestehende Herrschaft im Allgäu mit dem Hauptort Weitnau (Lkr. Oberallgäu). Namensgebend war die abgegangene Burg Hohenegg (Gde. Grünenbach, Lkr. Lindau).</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-50">
@@ -1671,6 +1713,70 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="A" xml:id="lub-places-58">
+            <placeName type="main" xml:lang="de">Stühlingen</placeName>
+            <placeName type="full" xml:lang="de">Stühlingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">stuehlingen</placeName>
+            <placeName type="alternative" xml:lang="de">Stiellingen</placeName>
+            <placeName type="alternative" xml:lang="de">Stüelingen</placeName>
+            <placeName type="alternative" xml:lang="de">Stuelingenn</placeName>
+            <location>
+              <geo>47.7333 8.43333</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">58</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558151"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Landgrafschaft_Stühlingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1802944"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Landgrafschaft</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-59">
+            <placeName type="main" xml:lang="de">Diedenhofen</placeName>
+            <placeName type="full" xml:lang="de">Diedenhofen / Thionville (Département Moselle)</placeName>
+            <placeName type="sort" xml:lang="de">diedenhofen</placeName>
+            <placeName type="alternative" xml:lang="de">Diedenhoben</placeName>
+            <placeName type="alternative" xml:lang="de">Dittenhoben</placeName>
+            <placeName type="alternative" xml:lang="de">Diettenhoven</placeName>
+            <placeName type="alternative" xml:lang="de">Dietenhofen</placeName>
+            <location>
+              <geo>49.35994 6.16044</geo>
+              <settlement xml:lang="de">Thionville</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">59</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2972811"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q22640"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Thionville"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n94022793"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/156595861/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4221510-9"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="P" xml:id="lub-places-60">
             <placeName type="main" xml:lang="de">Rotenberg</placeName>
             <placeName type="full" xml:lang="de">Rotenberg / Rougemont-le-Château (Giromagny)</placeName>
@@ -1726,6 +1832,96 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="S" xml:id="lub-places-63">
+            <placeName type="main" xml:lang="de">Neckarburg</placeName>
+            <placeName type="full" xml:lang="de">Neckarburg / Rottweil (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">neckarburg</placeName>
+            <location>
+              <geo>48.19665 8.61694</geo>
+              <settlement xml:lang="de">Rottweil</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">63</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2866778"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1228850"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/235299542/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/7828454-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Neckarburg"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Burg bei Villingendorf im Stadtgebiet von Rottweil.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-64">
+            <placeName type="main" xml:lang="de">Untermettingen</placeName>
+            <placeName type="full" xml:lang="de">Untermettingen / Ühlingen-Birkendorf (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">untermettingen</placeName>
+            <placeName type="alternative" xml:lang="de">Enndermettingen</placeName>
+            <placeName type="alternative" xml:lang="de">Unndermöttingen</placeName>
+            <location>
+              <geo>47.70367 8.34735</geo>
+              <settlement xml:lang="de">Ühlingen-Birkendorf</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">64</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2819071"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q18028960"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/248356229/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Untermettingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/7836643-4"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Ortsteil.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-65">
+            <placeName type="main" xml:lang="de">Sayn (Grafschaft)</placeName>
+            <placeName type="full" xml:lang="de">Sayn (Grafschaft) (Rheinland Pfalz)</placeName>
+            <placeName type="sort" xml:lang="de">sayn (grafschaft)</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">65</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Grafschaft_Sayn"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q553182"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/241482238/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4116352-7"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="S" xml:id="lub-places-66">
             <placeName type="main" xml:lang="de">Montclair</placeName>
             <placeName type="full" xml:lang="de">Montclair / Mettlach (Saarland)</placeName>
@@ -1733,6 +1929,7 @@
             <placeName type="alternative" xml:lang="de">Monclar</placeName>
             <placeName type="alternative" xml:lang="de">Monclär</placeName>
             <placeName type="alternative" xml:lang="de">Moncler</placeName>
+            <placeName type="alternative" xml:lang="de">Munckhlar</placeName>
             <location>
               <geo>49.49586 6.55687</geo>
               <settlement xml:lang="de">Mettlach</settlement>
@@ -1762,15 +1959,18 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Die Burg Montclair <note type="editorial">„Munzlar“</note> <note type="editorial">lat. mons clarus = heller Berg</note> ist eine mittelalterliche Burgruine bei Mettlach, einer Gemeinde im Landkreis Merzig-Wadern <note type="editorial">Saarland</note>. Die Burg war im Mittelalter eine der bedeutendsten Befestigungen an der unteren Saar und diente der Kontrolle des Flusses als Verkehrsader. Mit annähernd 900 Metern Länge zählte die im Jahr 1351 geschleifte Vorgängeranlage „Alt-Montclair“ zu den größten Burgen des Hochmittelalters in Deutschland.</p>
+              <p>Die Burg Montclair („Munzlar“) (lat. mons clarus = heller Berg) ist eine mittelalterliche Burgruine bei Mettlach, einer Gemeinde im Landkreis Merzig-Wadern (Saarland). Die Burg war im Mittelalter eine der bedeutendsten Befestigungen an der unteren Saar und diente der Kontrolle des Flusses als Verkehrsader. Mit annähernd 900 Metern Länge zählte die im Jahr 1351 geschleifte Vorgängeranlage „Alt-Montclair“ zu den größten Burgen des Hochmittelalters in Deutschland.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-67">
             <placeName type="main" xml:lang="de">Meinsberg</placeName>
             <placeName type="full" xml:lang="de">Meinsberg / Manderen (Moselle)</placeName>
             <placeName type="sort" xml:lang="de">meinsberg</placeName>
+            <placeName type="alternative" xml:lang="de">Menzenburg</placeName>
             <placeName type="alternative" xml:lang="de">Mennzburg</placeName>
             <placeName type="alternative" xml:lang="de">Malbrouck</placeName>
+            <placeName type="alternative" xml:lang="de">Menzenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Menzberg</placeName>
             <location>
               <geo>49.45729 6.43291</geo>
               <settlement xml:lang="de">Manderen</settlement>
@@ -3009,7 +3209,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Brabant <note type="editorial">deutsch <supplied>bʁa'bant</supplied>, niederländisch <supplied>ˈbraːbɑnt</supplied>, französisch <supplied>bʁa.bɑ̃</supplied></note> ist ein historisches Gebiet, das in etwa aus den belgischen Provinzen Antwerpen und Brabant <note type="editorial">heute in Flämisch-Brabant, Wallonisch-Brabant und die Region Brüssel-Hauptstadt geteilt</note> sowie der im Süden der Niederlande gelegenen Provinz Noord-Brabant besteht.</p>
+              <p>Brabant (deutsch <supplied>bʁa'bant</supplied>, niederländisch <supplied>ˈbraːbɑnt</supplied>, französisch <supplied>bʁa.bɑ̃</supplied>) ist ein historisches Gebiet, das in etwa aus den belgischen Provinzen Antwerpen und Brabant (heute in Flämisch-Brabant, Wallonisch-Brabant und die Region Brüssel-Hauptstadt geteilt) sowie der im Süden der Niederlande gelegenen Provinz Noord-Brabant besteht.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-122">
@@ -3052,8 +3252,8 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Seit Vladislav II. <note type="editorial">1490–1516</note> gesellte sich zu dem ungarischen Königstitel „rex Dalmatiae et Croatiae“ <note type="editorial">König Dalmatiens und Kroatiens</note> der Beisatz „et Slavoniae“ <note type="editorial">und Slawonien</note>. Infolge der türkischen Eroberung wurde ein Teil Slawoniens später <note type="editorial">siehe oben</note> als „Kroatien“ von „Slawonien“ im engeren Sinn <note type="editorial">Virovitica, Požega und Sirmien</note> geschieden. Die Türkenherrschaft verschlang großenteils diese Gebiete. Unter Kaiser Leopold I. wurde ganz Slawonien zurückerobert und im Karlowitzer Frieden 1699 an das Habsburgerreich abgetreten.</p>
-              <p>Im 15. Jahrhundert wurde fast ganz Kroatien von den Osmanen erobert und schrumpfte auf einen kleinen Streifen zwischen Adria und Drau. 1527 wählte der kroatische Sabor in der Burg Cetin „völlig frei und ohne fremde Beeinflussung“ Ferdinand I. von Habsburg zu ihrem König <note type="editorial">siehe Charta von Cetingrad</note>. Dabei erhofften sie sich eine effektivere militärische Hilfe bei der Verteidigung Kroatiens gegen die vordringenden Osmanen. Ferdinand I. sammelte Soldaten und stellte Geldmittel für Verteidigungszwecke zur Verfügung. Kroatien blieb seitdem mit kurzen Unterbrechungen in verschiedener Form bis zum Jahre 1918 unter der Herrschaft der Habsburger mit dem Königreich Ungarn vereinigt.</p>
+              <p>Seit Vladislav II. (1490–1516) gesellte sich zu dem ungarischen Königstitel „rex Dalmatiae et Croatiae“ (König Dalmatiens und Kroatiens) der Beisatz „et Slavoniae“ (und Slawonien). Infolge der türkischen Eroberung wurde ein Teil Slawoniens später (siehe oben) als „Kroatien“ von „Slawonien“ im engeren Sinn (Virovitica, Požega und Sirmien) geschieden. Die Türkenherrschaft verschlang großenteils diese Gebiete. Unter Kaiser Leopold I. wurde ganz Slawonien zurückerobert und im Karlowitzer Frieden 1699 an das Habsburgerreich abgetreten.</p>
+              <p>Im 15. Jahrhundert wurde fast ganz Kroatien von den Osmanen erobert und schrumpfte auf einen kleinen Streifen zwischen Adria und Drau. 1527 wählte der kroatische Sabor in der Burg Cetin „völlig frei und ohne fremde Beeinflussung“ Ferdinand I. von Habsburg zu ihrem König (siehe Charta von Cetingrad). Dabei erhofften sie sich eine effektivere militärische Hilfe bei der Verteidigung Kroatiens gegen die vordringenden Osmanen. Ferdinand I. sammelte Soldaten und stellte Geldmittel für Verteidigungszwecke zur Verfügung. Kroatien blieb seitdem mit kurzen Unterbrechungen in verschiedener Form bis zum Jahre 1918 unter der Herrschaft der Habsburger mit dem Königreich Ungarn vereinigt.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-124">
@@ -3127,7 +3327,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Bergkuppe östlich ob Nendeln, nordöstlich ob Gafadura <note type="editorial">Planken</note>, östlich der Fuermazög, auf der Landesgrenze zu Österreich.</p>
+              <p>Bergkuppe östlich ob Nendeln, nordöstlich ob Gafadura (Planken), östlich der Fuermazög, auf der Landesgrenze zu Österreich.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-126">
@@ -3176,7 +3376,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Hanaböda 1, Planken: Weidhang mit Alphütte nordwestlich unter Gafadura, nördlicher Teil des Alpzinka, an der Gemeindegrenze zu Eschen und Gamprin. Örtlich identisch mit Böda.<div type="br"/> Hanaböda 2, Eschen: Waldteil östlich ob Nendeln, nördlich der Alp Gafadura <note type="editorial">Planken</note>, nördlich des Gebiets Obem Alpzinka.</p>
+              <p>Hanaböda 1, Planken: Weidhang mit Alphütte nordwestlich unter Gafadura, nördlicher Teil des Alpzinka, an der Gemeindegrenze zu Eschen und Gamprin. Örtlich identisch mit Böda.<div type="br"/> Hanaböda 2, Eschen: Waldteil östlich ob Nendeln, nördlich der Alp Gafadura (Planken), nördlich des Gebiets Obem Alpzinka.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-129">
@@ -3235,7 +3435,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Nicht mehr bewirtschaftete Alp im Saminatal, nördlich des Garsälli <note type="editorial">Triesenberg</note> und nordwestlich des Zegerbergs <note type="editorial">Balzers</note>. Das Alpgebiet ist sehr trocken, stark verrüfnet, felsig und verwachsen. Örtlich identisch mit Plankner Garselli.</p>
+              <p>Nicht mehr bewirtschaftete Alp im Saminatal, nördlich des Garsälli (Triesenberg) und nordwestlich des Zegerbergs (Balzers). Das Alpgebiet ist sehr trocken, stark verrüfnet, felsig und verwachsen. Örtlich identisch mit Plankner Garselli.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-132">
@@ -3266,7 +3466,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Alp östlich über der Alp Valüna <note type="editorial">Triesen</note>, erstreckt sich vom Naafkopf bis zum Vaduzer Hahnenspiel. Zur Alpgenossenschaft gehören die Alpen Gritsch und Mittlervalorsch.</p>
+              <p>Alp östlich über der Alp Valüna (Triesen), erstreckt sich vom Naafkopf bis zum Vaduzer Hahnenspiel. Zur Alpgenossenschaft gehören die Alpen Gritsch und Mittlervalorsch.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-133">
@@ -3601,7 +3801,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Mit dem Gebiet um die Burg, dem Dorf Gretschins und umfangreichen Gütern in der Gemeinde Wartau <note type="editorial">u.a. Kollaturrecht, Rheinfähre</note> stellte Wartau bis 1798 eine kleinräumige Herrschaft mit eigener Niedergerichtsbarkeit dar. Ab 1517 Teil der Glarner Landvogtei Werdenberg.</p>
+              <p>Mit dem Gebiet um die Burg, dem Dorf Gretschins und umfangreichen Gütern in der Gemeinde Wartau (u.a. Kollaturrecht, Rheinfähre) stellte Wartau bis 1798 eine kleinräumige Herrschaft mit eigener Niedergerichtsbarkeit dar. Ab 1517 Teil der Glarner Landvogtei Werdenberg.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-151">
@@ -3827,6 +4027,7 @@
             <placeName type="sort" xml:lang="de">oberoesterreich</placeName>
             <placeName type="alternative" xml:lang="de">Oberösterreichische Lande</placeName>
             <placeName type="alternative" xml:lang="de">Oberösterreichischen Landen</placeName>
+            <placeName type="alternative" xml:lang="de">Oberösterreichischer Lannde</placeName>
             <location/>
             <idno type="lub-places-id">160</idno>
             <listBibl>
@@ -3838,7 +4039,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Oberösterreich <note type="editorial">lateinisch Austria Superior</note>, auch Tirol und die Vorlande, war die Bezeichnung für einen durch Erbteilung der Habsburger von 1406 bis 1665 bestehenden Herrschaftsbereich, der aus der Grafschaft Tirol mit den Landesteilen Vorderösterreich und Vorarlberg bestand.</p>
+              <p>Oberösterreich (lateinisch Austria Superior), auch Tirol und die Vorlande, war die Bezeichnung für einen durch Erbteilung der Habsburger von 1406 bis 1665 bestehenden Herrschaftsbereich, der aus der Grafschaft Tirol mit den Landesteilen Vorderösterreich und Vorarlberg bestand.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-161">
@@ -3904,7 +4105,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Niederlassung <note type="editorial">Kommende</note> des Johanniterordens.</p>
+              <p>Niederlassung (Kommende) des Johanniterordens.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-164">
@@ -4235,7 +4436,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Steiler, von Valüna/Waldboda <note type="editorial">Triesen</note> auf Gritsch <note type="editorial">Schaan</note> aufsteigender Hang beidseits der Gemeindegrenze.</p>
+              <p>Steiler, von Valüna/Waldboda (Triesen) auf Gritsch (Schaan) aufsteigender Hang beidseits der Gemeindegrenze.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-180">
@@ -4258,7 +4459,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt. Nicht genau lokalisierbar; im Grenzgebiet der Alpen Gritsch und Valüna <note type="editorial">Triesen</note>.</p>
+              <p>Unbekannt. Nicht genau lokalisierbar; im Grenzgebiet der Alpen Gritsch und Valüna (Triesen).</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-181">
@@ -4341,6 +4542,9 @@
                   <ref target="https://historisches-lexikon.li/Kapelle_St._Maria">HLFL</ref>
                 </bibl>
               </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Kapelle in Triesen, erstmals erwähnt 1415. Mitte des 17. Jahrhunderts abgebrochen und an gleicher Stelle neu errichtet.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-184">
@@ -4717,9 +4921,9 @@
             </note>
           </place>
           <place type="S" xml:id="lub-places-199">
-            <placeName type="main" xml:lang="de">St. Peter, Kapelle</placeName>
-            <placeName type="full" xml:lang="de">St. Peter, Kapelle / Schaan</placeName>
-            <placeName type="sort" xml:lang="de">st. peter, kapelle</placeName>
+            <placeName type="main" xml:lang="de">St. Peter, Kapelle (Schaan)</placeName>
+            <placeName type="full" xml:lang="de">St. Peter, Kapelle (Schaan) / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">st. peter, kapelle (schaan)</placeName>
             <location>
               <geo>47.16372 9.50928</geo>
               <settlement xml:lang="de">Schaan</settlement>
@@ -5725,6 +5929,7 @@
             <placeName type="full" xml:lang="de">Walgau (Tal) (Vorarlberg)</placeName>
             <placeName type="sort" xml:lang="de">walgau (tal)</placeName>
             <placeName type="alternative" xml:lang="de">Wallgew</placeName>
+            <placeName type="alternative" xml:lang="de">Vallis Drusiana</placeName>
             <location>
               <geo>47.1844 9.72167</geo>
               <country xml:lang="de">Österreich</country>
@@ -5874,7 +6079,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Die Burg Hasegg wurde auf einem Eckhaus <note type="editorial">Haus am Eck – Pfannhaus am Eck</note> an der Stadtbefestigung in Hall errichtet. In dem Haus bzw. der Burg befand sich zuerst ein Teil der Salzpfanne und später die Münzprägestätte der Habsburger.</p>
+              <p>Die Burg Hasegg wurde auf einem Eckhaus (Haus am Eck – Pfannhaus am Eck) an der Stadtbefestigung in Hall errichtet. In dem Haus bzw. der Burg befand sich zuerst ein Teil der Salzpfanne und später die Münzprägestätte der Habsburger.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-256">
@@ -5947,7 +6152,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Steier<note type="editorial">mark</note>, Kärnten, Krain, Görz, Triest und das Küstenland</p>
+              <p>Steier(mark), Kärnten, Krain, Görz, Triest und das Küstenland</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-259">
@@ -6437,6 +6642,47 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="P" xml:id="lub-places-284">
+            <placeName type="main" xml:lang="de">Rom</placeName>
+            <placeName type="full" xml:lang="de">Rom</placeName>
+            <placeName type="sort" xml:lang="de">rom</placeName>
+            <location>
+              <geo>41.89193 12.51133</geo>
+              <settlement xml:lang="de">Rom</settlement>
+              <country xml:lang="de">Italien</country>
+              <country xml:lang="en">Italy</country>
+            </location>
+            <idno type="lub-places-id">284</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3169070"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q220"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Rome"/>
+              </bibl>
+              <bibl>
+                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/13164a.htm"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79018704"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/006605"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/445149106006268490419/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4050471-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Rom"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="P" xml:id="lub-places-285">
             <placeName type="main" xml:lang="de">Überlingen</placeName>
             <placeName type="full" xml:lang="de">Überlingen (Baden-Württemberg)</placeName>
@@ -6739,7 +6985,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Das Zwischenstromland der Drau und Save geriet seit dem Emporkommen der kroatischen Fürsten unter deren Herrschaft und hieß ungarisch „Tótország“, „Slavonia“ im lateinischen, „windisches“ Land im deutschen Sprachgebrauch, zum Unterschied vom südlich angrenzenden Altkroatien <note type="editorial">ung. „Horvátország“</note>. Erst nach wiederholten Kämpfen mit dem byzantinischen Kaiserreich blieb das Gebiet seit 1165 endgültig in ungarischem Besitz. Seit Vladislav II. 1491–1516 gesellte sich dann zum ungarischen Königstitel rex Dalmatiae et Croatiae <note type="editorial">Dalmatien und Hochkroatien</note> der Beisatz et Slavoniae.Die Grenzen des historischen Territoriums, auf das sich der Name Slawonien bezieht, haben sich im Laufe der Zeit deutlich verschoben. Im Mittelalter wurde der gesamte in der Donau- und Savetiefebene gelegene Teil des damaligen Königreiches Dalmatien, Kroatien und Slawonien als Slawonien <note type="editorial">lateinisch Regnum Slavoniae</note> bezeichnet. Das politische Zentrum des mittelalterlichen Slawoniens war die heutige kroatische Hauptstadt Zagreb.Nachdem infolge der türkischen Eroberungen im 16. Jahrhundert der größte Teil des Königreiches Dalmatien, Kroatien und Slawonien mit Ausnahme des Gebietes um Zagreb vom Osmanischen Reich erobert worden war, wurde Kroatien von Slawonien im engeren Sinn <note type="editorial">Virovitica, Požega und Sirmien</note> unterschieden. Zagreb wurde infolgedessen politisches Zentrum des Restgebietes, also des westlichen Teils des mittelalterlichen Slawoniens. Der Name Slawonien bezeichnet seitdem nur noch den östlichen Teil dieses Gebietes.</p>
+              <p>Das Zwischenstromland der Drau und Save geriet seit dem Emporkommen der kroatischen Fürsten unter deren Herrschaft und hieß ungarisch „Tótország“, „Slavonia“ im lateinischen, „windisches“ Land im deutschen Sprachgebrauch, zum Unterschied vom südlich angrenzenden Altkroatien (ung. „Horvátország“). Erst nach wiederholten Kämpfen mit dem byzantinischen Kaiserreich blieb das Gebiet seit 1165 endgültig in ungarischem Besitz. Seit Vladislav II. 1491–1516 gesellte sich dann zum ungarischen Königstitel rex Dalmatiae et Croatiae (Dalmatien und Hochkroatien) der Beisatz et Slavoniae.Die Grenzen des historischen Territoriums, auf das sich der Name Slawonien bezieht, haben sich im Laufe der Zeit deutlich verschoben. Im Mittelalter wurde der gesamte in der Donau- und Savetiefebene gelegene Teil des damaligen Königreiches Dalmatien, Kroatien und Slawonien als Slawonien (lateinisch Regnum Slavoniae) bezeichnet. Das politische Zentrum des mittelalterlichen Slawoniens war die heutige kroatische Hauptstadt Zagreb.Nachdem infolge der türkischen Eroberungen im 16. Jahrhundert der größte Teil des Königreiches Dalmatien, Kroatien und Slawonien mit Ausnahme des Gebietes um Zagreb vom Osmanischen Reich erobert worden war, wurde Kroatien von Slawonien im engeren Sinn (Virovitica, Požega und Sirmien) unterschieden. Zagreb wurde infolgedessen politisches Zentrum des Restgebietes, also des westlichen Teils des mittelalterlichen Slawoniens. Der Name Slawonien bezeichnet seitdem nur noch den östlichen Teil dieses Gebietes.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-295">
@@ -6916,7 +7162,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Grafschaft mit der Stadt Pfirt <note type="editorial">heute Ferrette</note> als Zentrum.</p>
+              <p>Grafschaft mit der Stadt Pfirt (heute Ferrette) als Zentrum.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-305">
@@ -6975,7 +7221,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Historische Landschaft im heutigen Italien, mit der Stadt Görz <note type="editorial">heute: Gorizia</note> als Zentrum.</p>
+              <p>Historische Landschaft im heutigen Italien, mit der Stadt Görz (heute: Gorizia) als Zentrum.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-307">
@@ -7458,7 +7704,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Kulturlandfläche und Strasse südlich beim Riet <note type="editorial">südlich der Rietstrasse</note>.</p>
+              <p>Kulturlandfläche und Strasse südlich beim Riet (südlich der Rietstrasse).</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-327">
@@ -8066,9 +8312,11 @@
             </note>
           </place>
           <place type="L" xml:id="lub-places-356">
-            <placeName type="main" xml:lang="de">Anell; Ell</placeName>
-            <placeName type="full" xml:lang="de">Anell; Ell / Balzers</placeName>
-            <placeName type="sort" xml:lang="de">anell; ell</placeName>
+            <placeName type="main" xml:lang="de">Anell</placeName>
+            <placeName type="full" xml:lang="de">Anell / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">anell</placeName>
+            <placeName type="alternative" xml:lang="de">Ell</placeName>
+            <placeName type="alternative" xml:lang="de">an Ell</placeName>
             <location>
               <geo>47.052277 9.486653</geo>
               <settlement xml:lang="de">Balzers</settlement>
@@ -8089,7 +8337,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Magere Heuwiesen, bestehend aus Bodawesa und Böchelwesa, südlich von Lobwinkel und Anaresch, nach Süden ansteigend. Teils in Fläsch <note type="editorial">GR</note>. Örtlich identisch mit Ellböchel und Ellwesa.</p>
+              <p>Magere Heuwiesen, bestehend aus Bodawesa und Böchelwesa, südlich von Lobwinkel und Anaresch, nach Süden ansteigend. Teils in Fläsch (GR). Örtlich identisch mit Ellböchel und Ellwesa.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-358">
@@ -8499,7 +8747,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen und Felder im Riet beim Hinteren Schaanwald, unter der Bahn, an der Landesgrenze zu Österreich <note type="editorial">Gemeinde Feldkirch</note>.</p>
+              <p>Wiesen und Felder im Riet beim Hinteren Schaanwald, unter der Bahn, an der Landesgrenze zu Österreich (Gemeinde Feldkirch).</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-381">
@@ -8524,7 +8772,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Brunnen und an demselben vorbeiführende Strasse am nordöstlichen Dorfrand unweit der Landesgrenze, in der Binza. Der Strassenname wurde aufgrund der <note type="editorial">älteren</note> historischen Belegformen festgelegt; eigentlich volkstümlich ist aber Sanktbrunna, das nun allmählich verdrängt wird. Örtlich identisch mit Sanktbrunna.</p>
+              <p>Brunnen und an demselben vorbeiführende Strasse am nordöstlichen Dorfrand unweit der Landesgrenze, in der Binza. Der Strassenname wurde aufgrund der (älteren) historischen Belegformen festgelegt; eigentlich volkstümlich ist aber Sanktbrunna, das nun allmählich verdrängt wird. Örtlich identisch mit Sanktbrunna.</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-382">
@@ -8540,7 +8788,7 @@
             <idno type="lub-places-id">382</idno>
             <note type="sources">[LNB](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
             <note type="description" xml:lang="de">
-              <p>Felswand im nördlichen Teil der Südostflanke des Talhügels Eschnerberg, sowie die oben angrenzenden Wälder und Wiesen mit einer Strasse im Hinteren Schellenberg; der schroffe Absturz verläuft vom Hinderschloss in nordöstlicher Richtung; südöstlich darunter der Tostnerwald <note type="editorial">bei Tosters</note>; die Wand bildet auf beinahe ihrer ganzen Länge die Landesgrenze gegen Feldkirch <note type="editorial">Vorarlberg</note>. Das Gebiet wird unterteilt in Hinter - und Vorder Gantenstein.</p>
+              <p>Felswand im nördlichen Teil der Südostflanke des Talhügels Eschnerberg, sowie die oben angrenzenden Wälder und Wiesen mit einer Strasse im Hinteren Schellenberg; der schroffe Absturz verläuft vom Hinderschloss in nordöstlicher Richtung; südöstlich darunter der Tostnerwald (bei Tosters); die Wand bildet auf beinahe ihrer ganzen Länge die Landesgrenze gegen Feldkirch (Vorarlberg). Das Gebiet wird unterteilt in Hinter - und Vorder Gantenstein.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-383">
@@ -8606,7 +8854,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Entwässerungsgraben entlang der Landesgrenze zu Vorarlberg <note type="editorial">Stadtgemeinde Feldkirch</note>, mündet in den Spiersbach. Örtlich identisch mit Frickgraba und Grenzgraba.</p>
+              <p>Entwässerungsgraben entlang der Landesgrenze zu Vorarlberg (Stadtgemeinde Feldkirch), mündet in den Spiersbach. Örtlich identisch mit Frickgraba und Grenzgraba.</p>
             </note>
           </place>
           <place type="H" xml:id="lub-places-386">
@@ -8656,7 +8904,21 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Siedlung <note type="editorial">Rotte</note> in der Gemeinde Sonntag.</p>
+              <p>Siedlung (Rotte) in der Gemeinde Sonntag.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-388">
+            <placeName type="main" xml:lang="de">Bayern</placeName>
+            <placeName type="full" xml:lang="de">Bayern</placeName>
+            <placeName type="sort" xml:lang="de">bayern</placeName>
+            <location>
+              <geo>49 11.5</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">388</idno>
+            <note type="description" xml:lang="de">
+              <p>Herzogtum</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-389">
@@ -8732,7 +8994,7 @@
             </location>
             <idno type="lub-places-id">393</idno>
             <note type="description" xml:lang="de">
-              <p>Weiler <note type="editorial">Rotte</note> in Fontanella.</p>
+              <p>Weiler (Rotte) in Fontanella.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-394">
@@ -8753,7 +9015,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Weiler <note type="editorial">Rotte</note> in Fontanella.</p>
+              <p>Weiler (Rotte) in Fontanella.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-395">
@@ -8979,7 +9241,7 @@
             <location/>
             <idno type="lub-places-id">407</idno>
             <note type="description" xml:lang="de">
-              <p>Im Mittelalter und in der Frühen Neuzeit allg. Bezeichnung für das an den deutschen Sprachraum angrenzende romanischsprachige Gebiet <note type="editorial">Westschweiz, Italien, Frankreich</note>. Seit dem 19. Jahrhundert nur noch Bezeichnung für die Westschweiz.</p>
+              <p>Im Mittelalter und in der Frühen Neuzeit allg. Bezeichnung für das an den deutschen Sprachraum angrenzende romanischsprachige Gebiet (Westschweiz, Italien, Frankreich). Seit dem 19. Jahrhundert nur noch Bezeichnung für die Westschweiz.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-408">
@@ -9176,7 +9438,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wohngebiet und Strasse zwischen Gässli und Dorfstrasse, im oberen Teil an den Undera Winkel anschliessend. Der Name umfasste früher ein weit grösseres, in mehrere Bereiche unterteiltes Gebiet <note type="editorial">siehe die historischen Belege</note>.</p>
+              <p>Wohngebiet und Strasse zwischen Gässli und Dorfstrasse, im oberen Teil an den Undera Winkel anschliessend. Der Name umfasste früher ein weit grösseres, in mehrere Bereiche unterteiltes Gebiet (siehe die historischen Belege).</p>
             </note>
           </place>
           <place type="H" xml:id="lub-places-416">
@@ -9424,13 +9686,13 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Äcker und Strasse westlich des Dorfes, zwischen dem Grossen Kanal und dem Kleinen Kanal. Die Strasse verbindet Zollstrasse und Tröxlegass; der Strassenname wird mit Präposition <note type="editorial">Im Grabaton</note> verwendet.</p>
+              <p>Wiesen, Äcker und Strasse westlich des Dorfes, zwischen dem Grossen Kanal und dem Kleinen Kanal. Die Strasse verbindet Zollstrasse und Tröxlegass; der Strassenname wird mit Präposition (Im Grabaton) verwendet.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-428">
-            <placeName type="main" xml:lang="de">Äule</placeName>
-            <placeName type="full" xml:lang="de">Äule / Schaan</placeName>
-            <placeName type="sort" xml:lang="de">aeule</placeName>
+            <placeName type="main" xml:lang="de">Äule (Schaan)</placeName>
+            <placeName type="full" xml:lang="de">Äule (Schaan) / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">aeule (schaan)</placeName>
             <placeName type="alternative" xml:lang="de">Öwle</placeName>
             <placeName type="alternative" xml:lang="de">Schänner Äwlin</placeName>
             <location>
@@ -9557,7 +9819,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Felder und Strasse südlich des Dorfes Eschen, unter dem Obera Flux, mit Häusern. Örtlich identisch mit Grossfeld. Der Strassenname wird mit Präposition <note type="editorial">Im Böschfeld</note> verwendet.</p>
+              <p>Wiesen, Felder und Strasse südlich des Dorfes Eschen, unter dem Obera Flux, mit Häusern. Örtlich identisch mit Grossfeld. Der Strassenname wird mit Präposition (Im Böschfeld) verwendet.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-433">
@@ -9609,7 +9871,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Häuser und Strasse mit steilem bewaldetem Abhang nördlich über dem Dorf, südlich von Morgagab, Oksner und Krummenacker, nördlich der Hala, an der Grenze zu Feldkirch <note type="editorial">Tisis</note>. Örtlich identisch mit †Undera Oksner.</p>
+              <p>Wiesen, Häuser und Strasse mit steilem bewaldetem Abhang nördlich über dem Dorf, südlich von Morgagab, Oksner und Krummenacker, nördlich der Hala, an der Grenze zu Feldkirch (Tisis). Örtlich identisch mit †Undera Oksner.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-435">
@@ -9694,7 +9956,7 @@
             <note type="description" xml:lang="de">
               <list type="unordered">
                 <item>
-                  <div type="a">LNB</div>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
                 </item>
               </list>
             </note>
@@ -9854,7 +10116,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Bezeichnung für das Gebiet im nördlichen Zipfel der Gemeinde, gegen die Landesgrenze zu Vorarlberg, westlich der Bangserstrasse, gegen den Rhein und die Ortschaft Bangs <note type="editorial">Feldkirch</note>.</p>
+              <p>Bezeichnung für das Gebiet im nördlichen Zipfel der Gemeinde, gegen die Landesgrenze zu Vorarlberg, westlich der Bangserstrasse, gegen den Rhein und die Ortschaft Bangs (Feldkirch).</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-446">
@@ -10480,9 +10742,9 @@
             </listBibl>
           </place>
           <place type="V" xml:id="lub-places-471">
-            <placeName type="main" xml:lang="de">Au (2)</placeName>
-            <placeName type="full" xml:lang="de">Au (2) / Schaan</placeName>
-            <placeName type="sort" xml:lang="de">au (2)</placeName>
+            <placeName type="main" xml:lang="de">Au (2) (Schaan)</placeName>
+            <placeName type="full" xml:lang="de">Au (2) (Schaan) / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">au (2) (schaan)</placeName>
             <placeName type="alternative" xml:lang="de">Aw</placeName>
             <placeName type="alternative" xml:lang="de">Auw</placeName>
             <location>
@@ -10954,7 +11216,7 @@
             </location>
             <idno type="lub-places-id">490</idno>
             <note type="description" xml:lang="de">
-              <p>Die Grafschaft Flandern <note type="editorial">niederländisch Vlaanderen, französisch Flandre</note> ist ein historisches Territorium auf dem Gebiet der heutigen Staaten Belgien, Frankreich und Niederlande. Bis 1477 war die Lehnshoheit geteilt: Der grössere Teil gehörte zu Frankreich, der kleinere Teil rechts der Schelde zum Heiligen Römischen Reich <note type="editorial">daher auch: „Reichsflandern“</note>.</p>
+              <p>Die Grafschaft Flandern (niederländisch Vlaanderen, französisch Flandre) ist ein historisches Territorium auf dem Gebiet der heutigen Staaten Belgien, Frankreich und Niederlande. Bis 1477 war die Lehnshoheit geteilt: Der grössere Teil gehörte zu Frankreich, der kleinere Teil rechts der Schelde zum Heiligen Römischen Reich (daher auch: „Reichsflandern“).</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-491">
@@ -11267,7 +11529,7 @@
             </location>
             <idno type="lub-places-id">505</idno>
             <note type="description" xml:lang="de">
-              <p>Das Herzogtum Savoyen <note type="editorial">italienisch Ducato di Savoia, französisch Duché de Savoie</note> war ein Territorium in Westeuropa, welches von 1416 bis 1847 bestand.</p>
+              <p>Das Herzogtum Savoyen (italienisch Ducato di Savoia, französisch Duché de Savoie) war ein Territorium in Westeuropa, welches von 1416 bis 1847 bestand.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-506">
@@ -11350,7 +11612,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt. Stelle bei der Wes <note type="editorial">Waldwiesen oberhalb der Feldkircher Strasse</note>.</p>
+              <p>Unbekannt. Stelle bei der Wes (Waldwiesen oberhalb der Feldkircher Strasse).</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-509">
@@ -11482,7 +11744,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Einzelner Gipfel des Gebirgszugs <div type="a">Drei Schwestern <note type="editorial">2</note></div>, südöstlich ob Gafadura.</p>
+              <p>Einzelner Gipfel des Gebirgszugs <ref target="/places/512">Drei Schwestern (2)</ref>, südöstlich ob Gafadura.</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-514">
@@ -11908,7 +12170,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Tal im liechtensteinischen Berggebiet, mit den Alpen Sücka, Bargälla, Garsälli und Plankner Garselli <note type="editorial">Planken</note> am Westhang, sowie Vordervalorsch, Mittlervalorsch <note type="editorial">beide Schaan</note> und Zegerberg <note type="editorial">Balzers</note> am Osthang; führt vom Steg nordwärts nach Vorarlberg <note type="editorial">Gemeinde Frastanz</note>.</p>
+              <p>Tal im liechtensteinischen Berggebiet, mit den Alpen Sücka, Bargälla, Garsälli und Plankner Garselli (Planken) am Westhang, sowie Vordervalorsch, Mittlervalorsch (beide Schaan) und Zegerberg (Balzers) am Osthang; führt vom Steg nordwärts nach Vorarlberg (Gemeinde Frastanz).</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-533">
@@ -12058,7 +12320,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Nicht sicher lokalisierbar, möglicherweise Grenze zwischen Bärgi <note type="editorial">Triesenberg</note> und Stachler.</p>
+              <p>Nicht sicher lokalisierbar, möglicherweise Grenze zwischen Bärgi (Triesenberg) und Stachler.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-539">
@@ -12231,7 +12493,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Flacheres Wiesland mit Häusern und Strasse nordöstlich des Dorfes, zwischen Klifeld und Fanal. Der Strassenname wird offiziell <note type="editorial">in Abweichung zum traditionellen Gebrauch</note> mit Präposition <note type="editorial">Im Bartledura</note> gebraucht.</p>
+              <p>Flacheres Wiesland mit Häusern und Strasse nordöstlich des Dorfes, zwischen Klifeld und Fanal. Der Strassenname wird offiziell (in Abweichung zum traditionellen Gebrauch) mit Präposition (Im Bartledura) gebraucht.</p>
             </note>
           </place>
           <place type="R" xml:id="lub-places-548">
@@ -12311,7 +12573,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Häuser mit Obstgärten und Strasse zwischen Zollstrasse und Wesagass. Der Strassenname wird offiziell mit Präposition <note type="editorial">Im Pardiel</note> verwendet. Vgl. auch †Grosspardiel.</p>
+              <p>Wiesen, Häuser mit Obstgärten und Strasse zwischen Zollstrasse und Wesagass. Der Strassenname wird offiziell mit Präposition (Im Pardiel) verwendet. Vgl. auch †Grosspardiel.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-551">
@@ -12491,7 +12753,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Häuser und Strasse nordöstlich des Dorfes, zwischen Äscherle und Besch. Die Strasse verbindet Eschner Strasse und die Strasse Im Äscherle; der Strassenname wird offiziell mit Präposition <note type="editorial">Im Zagalzel</note> verwendet.</p>
+              <p>Wiesen, Häuser und Strasse nordöstlich des Dorfes, zwischen Äscherle und Besch. Die Strasse verbindet Eschner Strasse und die Strasse Im Äscherle; der Strassenname wird offiziell mit Präposition (Im Zagalzel) verwendet.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-558">
@@ -12535,7 +12797,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesland, Häuser und Strasse im Gebiet Quader, westlich des Gebiets Bardella, nördlich der Quaderröfi. Die Strasse verläuft westlich des Gebiets und verbindet die Strassen Im Wingert und Bardellaweg; der Strassenname wird offiziell mit Präposition <note type="editorial">Im Katzarank</note> verwendet. Vgl. auch †Pfrundkatzenrank.</p>
+              <p>Wiesland, Häuser und Strasse im Gebiet Quader, westlich des Gebiets Bardella, nördlich der Quaderröfi. Die Strasse verläuft westlich des Gebiets und verbindet die Strassen Im Wingert und Bardellaweg; der Strassenname wird offiziell mit Präposition (Im Katzarank) verwendet. Vgl. auch †Pfrundkatzenrank.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-560">
@@ -12558,7 +12820,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Mässig ansteigendes Wiesland und Strasse südöstlich oberhalb des Dorfes, im Gebiet Quader. Die Strasse verbindet Obergass und Bardellaweg; der Strassenname wird offiziell mit Präposition <note type="editorial">Im Hasenacker</note> verwendet.</p>
+              <p>Mässig ansteigendes Wiesland und Strasse südöstlich oberhalb des Dorfes, im Gebiet Quader. Die Strasse verbindet Obergass und Bardellaweg; der Strassenname wird offiziell mit Präposition (Im Hasenacker) verwendet.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-561">
@@ -12709,7 +12971,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen und Äcker und Strasse westlich des Dorfes, nördlich der Bahn, bis zur Zollstrasse oder darüber hinaus reichend. Der Strassenname wird offiziell mit Präposition <note type="editorial">Im Loma</note> verwendet.</p>
+              <p>Wiesen und Äcker und Strasse westlich des Dorfes, nördlich der Bahn, bis zur Zollstrasse oder darüber hinaus reichend. Der Strassenname wird offiziell mit Präposition (Im Loma) verwendet.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-567">
@@ -12792,7 +13054,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Häuser mit Wiesen und Äckern und Strasse nordwestlich des Dorfes, zwischen Tröxlegass und Zollstrasse. Der Strassenname wird offiziell mit Präposition <note type="editorial">Im Malarsch</note> verwendet.</p>
+              <p>Häuser mit Wiesen und Äckern und Strasse nordwestlich des Dorfes, zwischen Tröxlegass und Zollstrasse. Der Strassenname wird offiziell mit Präposition (Im Malarsch) verwendet.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-570">
@@ -12921,7 +13183,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Häuser und Strasse im oberen Dorfgebiet, zwischen Rebera und Resch. Der Strassenname wird offiziell mit Präposition <note type="editorial">Im Rossfeld</note> verwendet.</p>
+              <p>Wiesen, Häuser und Strasse im oberen Dorfgebiet, zwischen Rebera und Resch. Der Strassenname wird offiziell mit Präposition (Im Rossfeld) verwendet.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-575">
@@ -13324,7 +13586,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Weidhang im Hochtal Malbun, an der Grenze zu Sass <note type="editorial">Schaan</note>, östlich oberhalb des Tschugga, teilweise flach.</p>
+              <p>Weidhang im Hochtal Malbun, an der Grenze zu Sass (Schaan), östlich oberhalb des Tschugga, teilweise flach.</p>
             </note>
           </place>
           <place type="H" xml:id="lub-places-593">
@@ -13775,7 +14037,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Runse am Nendler Berg, vom Mösleberg zum Rüttiwald abfallend, grenzt an den Wuerwald <note type="editorial">Eschen</note>.</p>
+              <p>Runse am Nendler Berg, vom Mösleberg zum Rüttiwald abfallend, grenzt an den Wuerwald (Eschen).</p>
             </note>
           </place>
           <place type="H" xml:id="lub-places-611">
@@ -14005,7 +14267,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt. Evtl. handelt es sich um den Grenzgrat zwischen Garsälli und Plankner Garselli <note type="editorial">Planken</note>.</p>
+              <p>Unbekannt. Evtl. handelt es sich um den Grenzgrat zwischen Garsälli und Plankner Garselli (Planken).</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-621">
@@ -14053,7 +14315,7 @@
               <p>Unbekannt. Ev. in der Rütti gelegen.</p>
             </note>
           </place>
-          <place type="L" xml:id="lub-places-623">
+          <place type="V" xml:id="lub-places-623">
             <placeName type="main" xml:lang="de">Platzer</placeName>
             <placeName type="full" xml:lang="de">Platzer / Eschen</placeName>
             <placeName type="sort" xml:lang="de">platzer</placeName>
@@ -14145,7 +14407,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen, Häuser und Strasse im Dorf, nordöstlich der Kirche. Der Strassenname wird offiziell mit Präposition <note type="editorial">Im Reberle</note> verwendet.</p>
+              <p>Wiesen, Häuser und Strasse im Dorf, nordöstlich der Kirche. Der Strassenname wird offiziell mit Präposition (Im Reberle) verwendet.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-627">
@@ -14674,7 +14936,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesen nördlich des Dorfes Ruggell, an der Landesgrenze zu Vorarlberg <note type="editorial">Stadtgemeinde Feldkirch</note>; teilweise feucht.</p>
+              <p>Wiesen nördlich des Dorfes Ruggell, an der Landesgrenze zu Vorarlberg (Stadtgemeinde Feldkirch); teilweise feucht.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-652">
@@ -14906,7 +15168,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Name abgegangen. Wohl Fels im Gebiet "Bim Galga" <note type="editorial">in der Rütti, an der Grenze zu Triesen</note>.</p>
+              <p>Name abgegangen. Wohl Fels im Gebiet "Bim Galga" (in der Rütti, an der Grenze zu Triesen).</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-664">
@@ -15048,7 +15310,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt. Örtlich identisch mit Bofel <note type="editorial">2</note>: Ebene, grosse Kulturlandfläche nordwestlich des Dorfes, südlich des Gebiets Meder.</p>
+              <p>Unbekannt. Örtlich identisch mit Bofel (2): Ebene, grosse Kulturlandfläche nordwestlich des Dorfes, südlich des Gebiets Meder.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-671">
@@ -15188,7 +15450,7 @@
             <idno type="lub-places-id">679</idno>
             <note type="sources">-[LNB](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt. Im Raum Riet <note type="editorial">1</note>, im Gebiet Bofel<note type="editorial">2</note> /Grabaton.</p>
+              <p>Unbekannt. Im Raum Riet (1), im Gebiet Bofel(2) /Grabaton.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-680">
@@ -15204,7 +15466,7 @@
             <idno type="lub-places-id">680</idno>
             <note type="sources">-[LNB](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt. Beim Gebiet Bofel<note type="editorial">2</note> /Weslewolf; vermutlich identisch mit †Pfrundgut <note type="editorial">4</note>.</p>
+              <p>Unbekannt. Beim Gebiet Bofel(2) /Weslewolf; vermutlich identisch mit †Pfrundgut (4).</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-682">
@@ -15295,7 +15557,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Mässig ansteigendes Wiesland und Strasse mit Häusern östlich oberhalb des Dorfes, grenzt im oberen Teil und südlich an den Vaduzer Zepfelwald. Offizieller Strassenname <note type="editorial">in Abweichung zum traditionellen Gebrauch</note>: Im Gafos.</p>
+              <p>Mässig ansteigendes Wiesland und Strasse mit Häusern östlich oberhalb des Dorfes, grenzt im oberen Teil und südlich an den Vaduzer Zepfelwald. Offizieller Strassenname (in Abweichung zum traditionellen Gebrauch): Im Gafos.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-687">
@@ -15387,7 +15649,7 @@
             </location>
             <idno type="lub-places-id">694</idno>
             <note type="description" xml:lang="de">
-              <p>Die Grafschaft Mömpelgard <note type="editorial">französisch Comté de Montbéliard</note> war ein weltliches Territorium am Mittellauf des Doubs im heutigen Frankreich, das ursprünglich zur Freigrafschaft Burgund gehörte und ab dem späten 14. Jahrhundert rund 400 Jahre lang Teil Württembergs war. Der namensgebende Hauptort der Grafschaft war die Stadt Mömpelgard <note type="editorial">Montbéliard</note>.</p>
+              <p>Die Grafschaft Mömpelgard (französisch Comté de Montbéliard) war ein weltliches Territorium am Mittellauf des Doubs im heutigen Frankreich, das ursprünglich zur Freigrafschaft Burgund gehörte und ab dem späten 14. Jahrhundert rund 400 Jahre lang Teil Württembergs war. Der namensgebende Hauptort der Grafschaft war die Stadt Mömpelgard (Montbéliard).</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-695">
@@ -15548,7 +15810,332 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Herrschaft, die seit dem Spätmittelalter die niederen Gerichte Bürglen, Uerenbohl, Guntershausen <note type="editorial">heute Guntershausen bei Berg</note>, Heldswil, Mettlen und Istighofen sowie Teile von Hüttenschwil und Sulgen umfasste. 1447-1550 im Besitz der Freiherren von Sax-Hohensax.</p>
+              <p>Herrschaft, die seit dem Spätmittelalter die niederen Gerichte Bürglen, Uerenbohl, Guntershausen (heute Guntershausen bei Berg), Heldswil, Mettlen und Istighofen sowie Teile von Hüttenschwil und Sulgen umfasste. 1447-1550 im Besitz der Freiherren von Sax-Hohensax.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-703">
+            <placeName type="main" xml:lang="de">Gommegnies</placeName>
+            <placeName type="full" xml:lang="de">Gommegnies (Hauts-de-France)</placeName>
+            <placeName type="sort" xml:lang="de">gommegnies</placeName>
+            <placeName type="alternative" xml:lang="de">Gomogins</placeName>
+            <location>
+              <geo>50.27155 3.70625</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">703</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6438261"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q535753"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/159637328"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Gommegnies"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4596636-9"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="T" xml:id="lub-places-704">
+            <placeName type="main" xml:lang="de">Schwarzhorn</placeName>
+            <placeName type="full" xml:lang="de">Schwarzhorn / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">schwarzhorn</placeName>
+            <placeName type="alternative" xml:lang="de">Schwartz horn</placeName>
+            <placeName type="alternative" xml:lang="de">Schwarzenhorn, Swartzhorn, Swartzen horn</placeName>
+            <placeName type="alternative" xml:lang="de">Swartzenhorrn</placeName>
+            <location>
+              <settlement xml:lang="de">Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">704</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Bergspitze in Lawena, östlich von Grauspitz und Falknis.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-705">
+            <placeName type="main" xml:lang="de">Schönberg</placeName>
+            <placeName type="full" xml:lang="de">Schönberg / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">schoenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Schönenberg</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">705</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Gipfel und Berghalde mit Weiden auf der Alp Guschg.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-706">
+            <placeName type="main" xml:lang="de">Ochsenkopf</placeName>
+            <placeName type="full" xml:lang="de">Ochsenkopf / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">ochsenkopf</placeName>
+            <placeName type="alternative" xml:lang="de">Ogstenberg</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">706</idno>
+            <note type="sources">-[LNB](https://www.namenbuch.li/)</note>
+            <note type="description" xml:lang="de">
+              <p>Bergmassiv und Gipfel südöstlich über dem Valorschtal, an der Landesgrenze (Gemeinde Frastanz).</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-707">
+            <placeName type="main" xml:lang="de">Küachlispitz</placeName>
+            <placeName type="full" xml:lang="de">Küachlispitz / Vandans (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">kueachlispitz</placeName>
+            <placeName type="alternative" xml:lang="de">Kuchelspitz</placeName>
+            <location>
+              <settlement xml:lang="de">Vandans</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">707</idno>
+          </place>
+          <place type="T" xml:id="lub-places-708">
+            <placeName type="main" xml:lang="de">Panül</placeName>
+            <placeName type="full" xml:lang="de">Panül (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">panuel</placeName>
+            <placeName type="alternative" xml:lang="de">Panüöl</placeName>
+            <placeName type="alternative" xml:lang="de">Baniel</placeName>
+            <location>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">708</idno>
+            <note type="description" xml:lang="de">
+              <p>Alpe im Nenzinger Himmel.</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-709">
+            <placeName type="main" xml:lang="de">Brandner Rüfe</placeName>
+            <placeName type="full" xml:lang="de">Brandner Rüfe / Brand (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">brandner ruefe</placeName>
+            <placeName type="alternative" xml:lang="de">Brandner ruche</placeName>
+            <location>
+              <settlement xml:lang="de">Brand</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">709</idno>
+            <note type="description" xml:lang="de">
+              <p>Rüfe im Brandnertal.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-710">
+            <placeName type="main" xml:lang="de">Spitz gurff</placeName>
+            <placeName type="full" xml:lang="de">Spitz gurff</placeName>
+            <placeName type="sort" xml:lang="de">spitz gurff</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">710</idno>
+            <note type="description" xml:lang="de">
+              <p>Es könnte sich um den Gorfion (Triesenberg) oder um den Spitzagul (Balzers) handeln (siehe dort).</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-712">
+            <placeName type="main" xml:lang="de">Fallegg</placeName>
+            <placeName type="full" xml:lang="de">Fallegg</placeName>
+            <placeName type="sort" xml:lang="de">fallegg</placeName>
+            <placeName type="alternative" xml:lang="de">Vall egg</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">712</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-713">
+            <placeName type="main" xml:lang="de">Vergoppa</placeName>
+            <placeName type="full" xml:lang="de">Vergoppa / Frastanz (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">vergoppa</placeName>
+            <placeName type="alternative" xml:lang="de">Vilgoppen</placeName>
+            <location>
+              <settlement xml:lang="de">Frastanz</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">713</idno>
+            <note type="sources">Tiefenthaler, S. 87.</note>
+            <note type="description" xml:lang="de">
+              <p>Vergopatobel, ein rauhes, steiniges Seitental zur Samina, vgl. 1515: in Villgoppen bzw. uß Villgoppen, 1783: Vergopa Tobl. Dabei ist Vergopa aus roman. *Val cuppa herzuleiten. Der Goppaschrofen, ein Berg im Gemeindegebiet von Frastanz erhebt sich ebendort.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-714">
+            <placeName type="main" xml:lang="de">Seewis im Prättigau</placeName>
+            <placeName type="full" xml:lang="de">Seewis im Prättigau / Seewis (Graubünden)</placeName>
+            <placeName type="sort" xml:lang="de">seewis im praettigau</placeName>
+            <placeName type="alternative" xml:lang="de">Sewiss</placeName>
+            <location>
+              <settlement xml:lang="de">Seewis</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">714</idno>
+          </place>
+          <place type="S" xml:id="lub-places-715">
+            <placeName type="main" xml:lang="de">Dalfazza</placeName>
+            <placeName type="full" xml:lang="de">Dalfazza / Grüsch (Graubünden)</placeName>
+            <placeName type="sort" xml:lang="de">dalfazza</placeName>
+            <placeName type="alternative" xml:lang="de">Gallfatzen</placeName>
+            <placeName type="alternative" xml:lang="de">Dalfatzen</placeName>
+            <location>
+              <settlement xml:lang="de">Grüsch</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">715</idno>
+            <note type="description" xml:lang="de">
+              <p>Weiler</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-716">
+            <placeName type="main" xml:lang="de">Taschinasbach</placeName>
+            <placeName type="full" xml:lang="de">Taschinasbach / Grüsch (Graubünden)</placeName>
+            <placeName type="sort" xml:lang="de">taschinasbach</placeName>
+            <placeName type="alternative" xml:lang="de">Dalfatzerbach</placeName>
+            <location>
+              <settlement xml:lang="de">Grüsch</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">716</idno>
+            <note type="description" xml:lang="de">
+              <p>Name in der Quelle unklar.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-717">
+            <placeName type="main" xml:lang="de">Rot Wand</placeName>
+            <placeName type="full" xml:lang="de">Rot Wand / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">rot wand</placeName>
+            <placeName type="alternative" xml:lang="de">Roten wand</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">717</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Sehr steiles, mit rötlichem Stein durchsetztes, felsiges Gelände auf der Alp Gritsch, im Naaftal, südwestlich der Pfälzerhütte.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-720">
+            <placeName type="main" xml:lang="de">Setsch</placeName>
+            <placeName type="full" xml:lang="de">Setsch / Nenzing (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">setsch</placeName>
+            <placeName type="alternative" xml:lang="de">Sätsch</placeName>
+            <location>
+              <settlement xml:lang="de">Nenzing</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">720</idno>
+          </place>
+          <place type="T" xml:id="lub-places-721">
+            <placeName type="main" xml:lang="de">Scheiakopf</placeName>
+            <placeName type="full" xml:lang="de">Scheiakopf / Nenzing (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">scheiakopf</placeName>
+            <placeName type="alternative" xml:lang="de">Schygen</placeName>
+            <location>
+              <settlement xml:lang="de">Nenzing</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">721</idno>
+          </place>
+          <place type="T" xml:id="lub-places-722">
+            <placeName type="main" xml:lang="de">Triegel</placeName>
+            <placeName type="full" xml:lang="de">Triegel / Nenzing (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">triegel</placeName>
+            <placeName type="alternative" xml:lang="de">Tregel</placeName>
+            <location>
+              <settlement xml:lang="de">Nenzing</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">722</idno>
+          </place>
+          <place type="T" xml:id="lub-places-724">
+            <placeName type="main" xml:lang="de">Löber</placeName>
+            <placeName type="full" xml:lang="de">Löber / Frastanz (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">loeber</placeName>
+            <placeName type="alternative" xml:lang="de">Löbern</placeName>
+            <location>
+              <settlement xml:lang="de">Frastanz</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">724</idno>
+          </place>
+          <place type="R" xml:id="lub-places-725">
+            <placeName type="main" xml:lang="de">Illbrücke</placeName>
+            <placeName type="full" xml:lang="de">Illbrücke / Frastanz (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">illbruecke</placeName>
+            <placeName type="alternative" xml:lang="de">Illbrugg</placeName>
+            <location>
+              <settlement xml:lang="de">Frastanz</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">725</idno>
+          </place>
+          <place type="T" xml:id="lub-places-726">
+            <placeName type="main" xml:lang="de">Letzegast</placeName>
+            <placeName type="full" xml:lang="de">Letzegast / Frastanz (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">letzegast</placeName>
+            <placeName type="alternative" xml:lang="de">Nentzengast</placeName>
+            <location>
+              <settlement xml:lang="de">Frastanz</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">726</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>Flurnamen Walgau, S. 39.</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Waldgebiet zwischen Spondella und Maria Grün auf der Letze.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-728">
@@ -15824,6 +16411,7 @@
             <placeName type="main" xml:lang="de">Brünnli</placeName>
             <placeName type="full" xml:lang="de">Brünnli / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">bruennli</placeName>
+            <placeName type="alternative" xml:lang="de">Brunnili</placeName>
             <placeName type="alternative" xml:lang="de">Brunelin</placeName>
             <placeName type="alternative" xml:lang="de">Prünli</placeName>
             <placeName type="alternative" xml:lang="de">Prunen</placeName>
@@ -15901,6 +16489,133 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Als Burgundische Niederlande bezeichnet man das Gebiet der heutigen Niederlande, Belgiens und Luxemburgs und eines Teils Nordfrankreichs zur Zeit der burgundischen und zu Beginn der habsburgischen Herrschaft.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-748">
+            <placeName type="main" xml:lang="de">Belfort</placeName>
+            <placeName type="full" xml:lang="de">Belfort (Bourgogne-Franche-Comté)</placeName>
+            <placeName type="sort" xml:lang="de">belfort</placeName>
+            <placeName type="alternative" xml:lang="de">Beffort</placeName>
+            <location>
+              <geo>47.64218 6.85385</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">748</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3033791"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q171545"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Belfort"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/fr/articles/007027"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4087112-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81018655"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/141899400"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Belfort"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="lub-places-749">
+            <placeName type="main" xml:lang="de">Ortenau</placeName>
+            <placeName type="full" xml:lang="de">Ortenau (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">ortenau</placeName>
+            <placeName type="alternative" xml:lang="de">Orttnaw</placeName>
+            <location>
+              <geo>48.44864 8.03242</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">749</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2857016"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q373448"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4043909-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81031884"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/151277291"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Ortenau"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Landvogtei am rechten Oberrhein.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-750">
+            <placeName type="main" xml:lang="de">Hohenburg-Bissingen</placeName>
+            <placeName type="full" xml:lang="de">Hohenburg-Bissingen (Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">hohenburg-bissingen</placeName>
+            <location>
+              <geo>48.71694 10.61766</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">750</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Herrschaft_Hohenburg-Bissingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1614404"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Herrschaft um die Burg Hohenburg bzw. Bissingen.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-751">
+            <placeName type="main" xml:lang="de">Bissingen</placeName>
+            <placeName type="full" xml:lang="de">Bissingen (Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">bissingen</placeName>
+            <placeName type="alternative" xml:lang="de">Marckht Bißingen</placeName>
+            <location>
+              <geo>48.71694 10.61766</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">751</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558756"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q515410"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4080418-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/1652147270590535700007"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Bissingen_(Bayern)"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Hauptort der Herrschaft Hohenburg-Bissingen.</p>
             </note>
           </place>
           <place type="L" xml:id="lub-places-752">
@@ -16199,7 +16914,7 @@
             </location>
             <idno type="lub-places-id">768</idno>
             <note type="description" xml:lang="de">
-              <p>Die Grafschaft Oettingen <note type="editorial">auch Öttingen</note>, seit dem 17./18. Jahrhundert auch Fürstentum Oettingen, war eine reichsunmittelbare Herrschaft der Grafen von Oettingen rund um die Reichsstadt Nördlingen, mit dem Kerngebiet im Nördlinger Ries im heutigen Bayern und Baden-Württemberg.</p>
+              <p>Die Grafschaft Oettingen (auch Öttingen), seit dem 17./18. Jahrhundert auch Fürstentum Oettingen, war eine reichsunmittelbare Herrschaft der Grafen von Oettingen rund um die Reichsstadt Nördlingen, mit dem Kerngebiet im Nördlinger Ries im heutigen Bayern und Baden-Württemberg.</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-772">
@@ -16379,6 +17094,510 @@
               <p>Grosser Waldhang, vom Weiler Wangerbärg bis zum Obera Guggerboda reichend.</p>
             </note>
           </place>
+          <place type="S" xml:id="lub-places-785">
+            <placeName type="main" xml:lang="de">Linda</placeName>
+            <placeName type="full" xml:lang="de">Linda / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">linda</placeName>
+            <placeName type="alternative" xml:lang="de">Platz bey der Linden</placeName>
+            <location>
+              <settlement xml:lang="de">Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">785</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nach Ospelt 1911, 69 ehemaliger Gerichtsplatz der Grafschaft Vaduz.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-788">
+            <placeName type="main" xml:lang="de">Malbrouck, Burg</placeName>
+            <placeName type="full" xml:lang="de">Malbrouck, Burg / Manderen</placeName>
+            <placeName type="sort" xml:lang="de">malbrouck, burg</placeName>
+            <placeName type="alternative" xml:lang="de">Menezburg</placeName>
+            <location>
+              <settlement xml:lang="de">Manderen</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">788</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Burg_Malbrouck">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Burg Malbrouck, auch Burg Meinsberg, in alten historischen Büchern auch „Münzburg“ genannt, ist eine komplett renovierte mittelalterliche Burganlage in Manderen im französischen Département Moselle in der historischen Region Lothringen unweit der Grenze zu Deutschland.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-789">
+            <placeName type="main" xml:lang="de">Bitsch</placeName>
+            <placeName type="full" xml:lang="de">Bitsch (Département Moselle)</placeName>
+            <placeName type="sort" xml:lang="de">bitsch</placeName>
+            <placeName type="alternative" xml:lang="de">Butsch</placeName>
+            <placeName type="alternative" xml:lang="de">Bytsch</placeName>
+            <placeName type="alternative" xml:lang="de">Bitche</placeName>
+            <placeName type="alternative" xml:lang="de">Bittsch</placeName>
+            <location>
+              <geo>49.05232 7.42992</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">789</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3032518"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Herrschaft_Bitsch">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Herrschaft Bitsch war ein Territorium des Heiligen Römischen Reiches, das von Fischbach bei Dahn im Osten bis an die Saar in der Nähe von Saargemünd im Westen reichte. Die Herrschaft wurde im 10. Jahrhundert durch die Grafen von Metz-Lunéville gegründet, kam in den Besitz der Grafen des Elsasses, gehörte dann zu Lothringen, wurde als Lehen zum Kern der Grafschaft Zweibrücken-Bitsch und schließlich wieder Bestandteil von Lothringen. Heute gehört der französische Teil des Gebietes zum Département Moselle, der deutsche Teil zu Rheinland-Pfalz und zum Saarland.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-790">
+            <placeName type="main" xml:lang="de">Lichtenberg</placeName>
+            <placeName type="full" xml:lang="de">Lichtenberg</placeName>
+            <placeName type="sort" xml:lang="de">lichtenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Liechtennbergk</placeName>
+            <placeName type="alternative" xml:lang="de">Liechtennperg</placeName>
+            <location/>
+            <idno type="lub-places-id">790</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Herrschaft_Lichtenberg">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Herrschaft Lichtenberg war ein Territorium des Deutschen Reichs, das unter den Herren von Lichtenberg vorwiegend im Unterelsass im Umfeld der Städte Straßburg und Hagenau entstand und sich später auch auf die gegenüberliegende, rechte Seite des Rheins ausbreitete. Im ausgehenden Mittelalter gelang es den Lichtenbergern allmählich, durch konsequente Territorialpolitik eine Vorherrschaft in diesem Gebiet einzunehmen. Prägend für die Lichtenberger Geschichte war zunächst seine Lage im Spannungsfeld zwischen dem Bistum Metz, dem Bistum Straßburg und der aufstrebenden Stadt Straßburg.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-791">
+            <placeName type="main" xml:lang="de">Saverne</placeName>
+            <placeName type="full" xml:lang="de">Saverne (Elsass)</placeName>
+            <placeName type="sort" xml:lang="de">saverne</placeName>
+            <placeName type="alternative" xml:lang="de">Zabern</placeName>
+            <placeName type="alternative" xml:lang="de">Zabernn</placeName>
+            <placeName type="alternative" xml:lang="de">Zawere</placeName>
+            <location>
+              <settlement xml:lang="de">Saverne</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">791</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Saverne">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Saverne <supplied>sa’vɛʀn</supplied>, deutsch Zabern, (elsässisch Zàwere <supplied>ˈd̥sɒvəʀə</supplied>) ist eine Stadt im Unterelsass (Europäische Gebietskörperschaft Elsass), an der Zorn und dem parallel dazu verlaufenden Rhein-Marne-Kanal gelegen. Im östlichen Gemeindegebiet verläuft die Mossel, ein Zufluss der Zorn.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-793">
+            <placeName type="main" xml:lang="de">Lichteneck, Burg</placeName>
+            <placeName type="full" xml:lang="de">Lichteneck, Burg / Kenzingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">lichteneck, burg</placeName>
+            <placeName type="alternative" xml:lang="de">Liechtnegkh</placeName>
+            <location>
+              <settlement xml:lang="de">Kenzingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">793</idno>
+          </place>
+          <place type="P" xml:id="lub-places-794">
+            <placeName type="main" xml:lang="de">Rielasingen-Worblingen</placeName>
+            <placeName type="full" xml:lang="de">Rielasingen-Worblingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">rielasingen-worblingen</placeName>
+            <placeName type="alternative" xml:lang="de">Ruelassingen</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">794</idno>
+          </place>
+          <place type="S" xml:id="lub-places-795">
+            <placeName type="main" xml:lang="de">Rosenegg, Burg</placeName>
+            <placeName type="full" xml:lang="de">Rosenegg, Burg / Rielasingen-Worblingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">rosenegg, burg</placeName>
+            <placeName type="alternative" xml:lang="de">Roßnegkh</placeName>
+            <location>
+              <settlement xml:lang="de">Rielasingen-Worblingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">795</idno>
+            <note type="description" xml:lang="de">
+              <p>Höhenburg (Ruine)</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-796">
+            <placeName type="main" xml:lang="de">Arlen</placeName>
+            <placeName type="full" xml:lang="de">Arlen / Rielasingen-Worblingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">arlen</placeName>
+            <location>
+              <settlement xml:lang="de">Rielasingen-Worblingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">796</idno>
+            <note type="description" xml:lang="de">
+              <p>Ortsteil</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-797">
+            <placeName type="main" xml:lang="de">Untereggingen</placeName>
+            <placeName type="full" xml:lang="de">Untereggingen / Eggingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">untereggingen</placeName>
+            <placeName type="alternative" xml:lang="de">Unndereggingen</placeName>
+            <location>
+              <settlement xml:lang="de">Eggingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">797</idno>
+            <note type="description" xml:lang="de">
+              <p>Ortsteil von Eggingen.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-798">
+            <placeName type="main" xml:lang="de">Eberfingen</placeName>
+            <placeName type="full" xml:lang="de">Eberfingen / Stühlingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">eberfingen</placeName>
+            <location>
+              <settlement xml:lang="de">Stühlingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">798</idno>
+            <note type="description" xml:lang="de">
+              <p>Stadtteil</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-799">
+            <placeName type="main" xml:lang="de">Villingen-Schwenningen</placeName>
+            <placeName type="full" xml:lang="de">Villingen-Schwenningen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">villingen-schwenningen</placeName>
+            <placeName type="alternative" xml:lang="de">Schwainingen</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">799</idno>
+            <note type="description" xml:lang="de">
+              <p>Stadtteil</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-800">
+            <placeName type="main" xml:lang="de">Unterwangen</placeName>
+            <placeName type="full" xml:lang="de">Unterwangen / Stühlingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">unterwangen</placeName>
+            <placeName type="alternative" xml:lang="de">Unnderwanngen</placeName>
+            <location>
+              <settlement xml:lang="de">Stühlingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">800</idno>
+            <note type="description" xml:lang="de">
+              <p>Stadtteil.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-801">
+            <placeName type="main" xml:lang="de">Ruine Hohenstoffeln</placeName>
+            <placeName type="full" xml:lang="de">Ruine Hohenstoffeln / Hilzingen-Binningen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">ruine hohenstoffeln</placeName>
+            <placeName type="alternative" xml:lang="de">Stoffeln</placeName>
+            <location>
+              <settlement xml:lang="de">Hilzingen-Binningen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">801</idno>
+          </place>
+          <place type="S" xml:id="lub-places-802">
+            <placeName type="main" xml:lang="de">Mägdeberg, Burg</placeName>
+            <placeName type="full" xml:lang="de">Mägdeberg, Burg / Mühlhausen-Ehingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">maegdeberg, burg</placeName>
+            <placeName type="alternative" xml:lang="de">Megtberg</placeName>
+            <location>
+              <settlement xml:lang="de">Mühlhausen-Ehingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">802</idno>
+            <note type="description" xml:lang="de">
+              <p>Ruine</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-803">
+            <placeName type="main" xml:lang="de">Hüfingen, Schloss</placeName>
+            <placeName type="full" xml:lang="de">Hüfingen, Schloss / Hüfingen (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">huefingen, schloss</placeName>
+            <location>
+              <settlement xml:lang="de">Hüfingen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">803</idno>
+          </place>
+          <place type="A" xml:id="lub-places-807">
+            <placeName type="main" xml:lang="de">Ochsenstein, Herrschaft</placeName>
+            <placeName type="full" xml:lang="de">Ochsenstein, Herrschaft</placeName>
+            <placeName type="sort" xml:lang="de">ochsenstein, herrschaft</placeName>
+            <placeName type="alternative" xml:lang="de">Ochssenstain</placeName>
+            <location/>
+            <idno type="lub-places-id">807</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Herrschaft_Ochsenstein">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Herrschaft Ochsenstein, älter Ossenstein, war ein ritterschaftliches Territorium des Heiligen Römischen Reiches im Unterelsass und umfasste Burg Ochsenstein bei Reinhardsmünster mit einer Reihe elsässischer Orte. Vom 13. bis zum 15. Jahrhundert im Besitz der Herren von Ochsenstein, fiel die Herrschaft 1485 mit dem Aussterben des Geschlechts an Zweibrücken-Bitsch.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-808">
+            <placeName type="main" xml:lang="de">Kräuterhaus</placeName>
+            <placeName type="full" xml:lang="de">Kräuterhaus / Innsbruck (Tirol)</placeName>
+            <placeName type="sort" xml:lang="de">kraeuterhaus</placeName>
+            <placeName type="alternative" xml:lang="de">Kreweterhaws</placeName>
+            <location>
+              <settlement xml:lang="de">Innsbruck</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">808</idno>
+          </place>
+          <place type="S" xml:id="lub-places-809">
+            <placeName type="main" xml:lang="de">Homburg, Schloss</placeName>
+            <placeName type="full" xml:lang="de">Homburg, Schloss / Nümbrecht (Nordrhein-Westfalen)</placeName>
+            <placeName type="sort" xml:lang="de">homburg, schloss</placeName>
+            <location>
+              <settlement xml:lang="de">Nümbrecht</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">809</idno>
+          </place>
+          <place type="S" xml:id="lub-places-810">
+            <placeName type="main" xml:lang="de">Cassius-Stift</placeName>
+            <placeName type="full" xml:lang="de">Cassius-Stift / Bonn (Nordrhein-Westfalen)</placeName>
+            <placeName type="sort" xml:lang="de">cassius-stift</placeName>
+            <placeName type="alternative" xml:lang="de">St. Cassis Kirche</placeName>
+            <location>
+              <settlement xml:lang="de">Bonn</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">810</idno>
+            <note type="description" xml:lang="de">
+              <p>Bonner Münster</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-811">
+            <placeName type="main" xml:lang="de">Bonn</placeName>
+            <placeName type="full" xml:lang="de">Bonn (Nordrhein-Westfalen)</placeName>
+            <placeName type="sort" xml:lang="de">bonn</placeName>
+            <placeName type="alternative" xml:lang="de">Bohn</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">811</idno>
+          </place>
+          <place type="P" xml:id="lub-places-812">
+            <placeName type="main" xml:lang="de">Puttelange-lès-Thionville</placeName>
+            <placeName type="full" xml:lang="de">Puttelange-lès-Thionville (Département Moselle)</placeName>
+            <placeName type="sort" xml:lang="de">puttelange-les-thionville</placeName>
+            <placeName type="alternative" xml:lang="de">Püttlingen</placeName>
+            <placeName type="alternative" xml:lang="de">Püttingen</placeName>
+            <location>
+              <geo>49.48513 6.26457</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">812</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2985027"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="lub-places-813">
+            <placeName type="main" xml:lang="de">Lothringen, Herzogtum</placeName>
+            <placeName type="full" xml:lang="de">Lothringen, Herzogtum</placeName>
+            <placeName type="sort" xml:lang="de">lothringen, herzogtum</placeName>
+            <placeName type="alternative" xml:lang="de">Lottringen</placeName>
+            <location/>
+            <idno type="lub-places-id">813</idno>
+            <note type="description" xml:lang="de">
+              <p>Das Gebiet des Herzogtums Lothringen im Nordosten des heutigen Frankreich entspricht teilweise der ehemaligen Region Lothringen.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-814">
+            <placeName type="main" xml:lang="de">Deutsches Bellistum</placeName>
+            <placeName type="full" xml:lang="de">Deutsches Bellistum (Lothringen)</placeName>
+            <placeName type="sort" xml:lang="de">deutsches bellistum</placeName>
+            <placeName type="alternative" xml:lang="de">Teusches Bellisthumb</placeName>
+            <placeName type="alternative" xml:lang="de">Teutschen Bellisthumbs Lottringen</placeName>
+            <location/>
+            <idno type="lub-places-id">814</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Deutsches_Bellistum">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Das Deutsche Bellistum (französisch: bailliage d'Allemagne) war einer der drei Verwaltungsbezirke des Herzogtums Lothringen. Das bailliage d'Allemagne umfasste den deutschsprachigen Norden des Herzogtums. Die anderen beiden Bellistümer waren die bailliage de Nancy mit Sitz in Nancy und die bailliage de Vôge mit Sitz in Mirecourt.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-815">
+            <placeName type="main" xml:lang="de">Bous</placeName>
+            <placeName type="full" xml:lang="de">Bous / Bous-Waldbredimus</placeName>
+            <placeName type="sort" xml:lang="de">bous</placeName>
+            <placeName type="alternative" xml:lang="de">Buzii</placeName>
+            <location>
+              <geo>49.55389 6.32917</geo>
+              <settlement xml:lang="de">Bous-Waldbredimus</settlement>
+              <country xml:lang="de">Luxemburg</country>
+              <country xml:lang="en">Luxembourg</country>
+            </location>
+            <idno type="lub-places-id">815</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6693348"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-816">
+            <placeName type="main" xml:lang="de">Stadtbredimus</placeName>
+            <placeName type="full" xml:lang="de">Stadtbredimus</placeName>
+            <placeName type="sort" xml:lang="de">stadtbredimus</placeName>
+            <placeName type="alternative" xml:lang="de">Stadtbrednus</placeName>
+            <placeName type="alternative" xml:lang="de">Stadbrednus</placeName>
+            <location>
+              <geo>49.56278 6.36444</geo>
+              <country xml:lang="de">Luxemburg</country>
+              <country xml:lang="en">Luxembourg</country>
+            </location>
+            <idno type="lub-places-id">816</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6693355"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-819">
+            <placeName type="main" xml:lang="de">Brand</placeName>
+            <placeName type="full" xml:lang="de">Brand (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">brand</placeName>
+            <placeName type="alternative" xml:lang="de">Brannd</placeName>
+            <location>
+              <geo>47.10987 9.74334</geo>
+              <settlement xml:lang="de">Brand</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">819</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2781584"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q431289"/>
+              </bibl>
+              <bibl>
+                <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb12390801c"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1034480839"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/164675068"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-820">
+            <placeName type="main" xml:lang="de">Pépinville</placeName>
+            <placeName type="full" xml:lang="de">Pépinville / Richemont</placeName>
+            <placeName type="sort" xml:lang="de">pepinville</placeName>
+            <placeName type="alternative" xml:lang="de">Pepinsdorff</placeName>
+            <placeName type="alternative" xml:lang="de">Puppalsdorff</placeName>
+            <location>
+              <geo>45.72194 -0.36487</geo>
+              <settlement xml:lang="de">Richemont</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">820</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2983650"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-821">
+            <placeName type="main" xml:lang="de">Weißenburg (Elsass)</placeName>
+            <placeName type="full" xml:lang="de">Weißenburg (Elsass) (Grand Est (Elsass))</placeName>
+            <placeName type="sort" xml:lang="de">weißenburg (elsass)</placeName>
+            <placeName type="alternative" xml:lang="de">Wissembourg</placeName>
+            <placeName type="alternative" xml:lang="de">Weyßenburg</placeName>
+            <location>
+              <geo>49.03708 7.94548</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">821</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2967325"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="lub-places-838">
+            <placeName type="main" xml:lang="de">St. Wolfgang, Kapelle</placeName>
+            <placeName type="full" xml:lang="de">St. Wolfgang, Kapelle / Triesen</placeName>
+            <placeName type="sort" xml:lang="de">st. wolfgang, kapelle</placeName>
+            <location>
+              <settlement xml:lang="de">Triesen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">838</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Kapelle_St._Wolfgang">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Abgegangene Kapell in Triesen. Erstmals erwähnt 1520.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -16426,7 +17645,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-08-15T17:24:51+02:00">teiHeader was automatically produced from the database 2025-08-15T17:24:51+02:00</change>
+      <change when="2025-11-11T16:05:59+01:00">teiHeader was automatically produced from the database 2025-11-11T16:05:59+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

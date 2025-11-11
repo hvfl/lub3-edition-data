@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-195">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alwig IX. Graf von Sulz schenkt seiner Frau Barbara das Schloss Neckarburg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-195">CZ-SOAT Cizí statky 490 II 289 A 3</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 9. August 1571 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/490/charter?q=490">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Alwig IX. Graf von Sulz schenkt seiner Frau Barbara das Schluss Neckarburg mit allem Zubehör und die Mühle im Dorf Untermettingen mit allem Zubehör.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-63">Neckarburg</placeName>
+          <date when="1571-08-09">9. Aug 1571</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cizí_statky_490_ii_289_a_3-0001.jpg" xml:id="lub-media-301" source="1571-08-09-soat-cizistatkytrebon-490-r.jpg" corresp="A"/>
+    <graphic url="cizí_statky_490_ii_289_a_3-0002.jpg" xml:id="lub-media-302" source="1571-08-09-soat-cizistatkytrebon-490-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-301" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-9">Alwig grave zue Sultz</persName>, lanndtgrave im <placeName ref="lub-places-18">Cleggew</placeName>, des <orgName ref="lub-actors-516">Heyligen Römischen</orgName> hoffrichter zue <placeName ref="lub-places-17">Rotweul</placeName>, herr zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName>, fürstlicher durchleuchtigkeit ertzhertzog <persName ref="lub-actors-11">Ferdinandi  
+<lb n="2"/>zue Österreich</persName> etc. rhat, obrister hauptman unnd landtvoggt in <placeName ref="lub-places-422">Obern Elsaß</placeName>. Bekhennen hiermit für unns alle, unnsere erben unnd nachkhomen offentlich unnd thuen khundt aller
+<lb break="no" n="3"/>meinigclichen, das wir von wegen gethrewer, wolmeinender, guettherziger gemahelschafft unnd liebe, der wolgebornen <persName ref="lub-actors-126">Barbara gravin zue Sultz, geborner gravin zue Helffenstein</persName> etc. unnserer freündt
+<lb break="no" n="4"/>lichen geliebten gemahel, mit wolbedachtem mueth, guettem zeittigem vorgehaptem rhat, one hindergangen oder getrenngen, sondern freyes eignen willens, unnser burg unnd haus <placeName ref="lub-places-63">Neckherburg</placeName> sampt allen desselben 
+<lb n="5"/>ein unnd zuegehörde, veldern, höltzern, ackhern, matten, wassern, wun, weid, trib unnd trab, auch darzue gehörigen gerechtsame. Gleichfals unnser eigne mulin des dorffs <placeName ref="lub-places-64">Unndermöttingen</placeName> mit allen iren jär
+<lb break="no" n="6"/>lichen einkomen, nutzen unnd geniessen, gantz unnd gar nichts darvon ausgenomen oder hindan gesetzt, übergeben unnd geschenckt. Geben unnd schencke auch iren solliche in besster form, weis unnd gestalt, wie das 
+<lb n="7"/>vor allen rechten unnd gerichten am bessten und bestendigisten guett kraft unnd macht gehaben soll, kan unnd mag hiemit wüssentlich in uhrkhundt dis briefs. Dergestalt das sy nun hinfüran  
+<lb n="8"/>von dar dis briefs die zeit sy bey unns in dem eelichen standt wohnen, oder, da der almechtig gott nach seinem vätterlichen göttlichen willen, unns von disem jamerthal unnd zergengclichen leben vor iren erfordern  
+<lb n="9"/>thete, so lang sy indem witwen stath beharren unnd verpleiben wurde, järlichen unnd jedes jars besonder die ernanten unnsere ir ubergebne guetter unnd mulin deren järlichs einkhomen, zu iren eignen sichern handen  
+<lb n="10"/>gewalt nemen, dasselbig nutzen, niessen, einziehen, geprauchen unnd unweigelich besitzen, damit handlen, schalten, walten, thuen, lassen und bessten iren nutz unnd fromen zue schaffen, soll unnd mag nach  
+<lb n="11"/>irem wolgefallen, one unnser, unnserer erben unnd nachkomen, oder allermeinigclichen hindern, irren, widerrede, oder eintrag unnd gentzlich furwehrt. Dann wir unns deren aller hiermit für unns,  
+<lb n="12"/>unnsere erben und nachkhomen, sampt rechtens gemeiner verzeichung, gentzlichen verzeichen unnd begeben thuen. Doch im faale obgehörter unnser tödtlicher abgang (das alles zue dem allermechtigen stehet)  
+<lb n="13"/>uber kurz oder lang sich zutragen unnd wolgemelte, unnser freundtliche geliebte gemahel, in wenig oder vilen jaren zue der ander ehe greiffen unnd sich widerumben verheuraten, oder sy hiezwuschen vor oder nach unns  
+<lb n="14"/>(welches der allmechtig lang verhuetten wölle) tods abgang wurd. Söllen als dann obgemelte übergebne guetter sampt aller irer ein- unnd zuegehörde, unns oder unnsern erben und nachkhomen wider
+<lb break="no" n="15"/>umben one verpfendt oder beschwert, sonder frey, ledig unnd eigen, als sy iren zuegestölt worden, oneweigerlich oder alles mittel eingeantwortet werden, unnd dise schenckung ganz todt unnd ab sein etc.
+<lb n="16"/>Unnd nachdem auch anfangs der eheberehedung merwolgemelter unnserer freundtlichen geliebten gemahel, vermug unnd nach innhalt der aufgerichten heuratsbrieffen, da sy unnser tödtlichen abgang erleben würde,  
+<lb n="17"/>unnser haus in der statt <placeName ref="lub-places-17">Rottweul</placeName> gelegen, zue einem widumsitz einzugeben, durch unns versprochen unnd verschriben worden. Im faale aber iren dasselbig haus zu <placeName ref="lub-places-17">Rotweul</placeName> zue einem wid
+<lb break="no" n="18"/>umbsitz nit gefellig, annemlich, oder ungelegenlich were, sölle iren von unnserm erben unnd nachkomen, unnser haus zue <placeName ref="lub-places-100">Jestetten</placeName>, zue einem rechten unnd steeten widumbsitz, so lang sy in leben, oder den 
+<lb n="19"/>widumstaath oneverendert erhalten wurdet, eingeraumpt. Nicht weniger auch die frohn mit holtz unnd andern notwendigen sachen einzufuehren, von unnsern unnderthanen der landtgraveschaft <placeName ref="lub-places-18">Kleggew</placeName>,  
+<lb n="20"/>nicht anderst, als wir es jezo in gewondlichem geprauch haben, erstattet unnd oneweigerlichen geleistet werde. Wir wollen auch in uhrkhundt dis briefs, das unnsere erben oder nachkomen vil wol
+<lb break="no" n="21"/>ernanter unnserer freundtlichen geliebten gemahel bemelt unnser haus <placeName ref="lub-places-100">Jestetten</placeName>, gehörter massen irem begeren nach einrhaumen, sy darinen <gap/>eirret, oder one einiches widerreden wonen, ires gefallens unnd 
+<lb n="22"/>guetten willens (gleichermassen wie in den vorermelten heuratsbrieffen von dem haus zue <placeName ref="lub-places-17">Rotweul</placeName> austruckenlich unnd specifice begriffen unnd angezogen) aus unnd einwandern, auch als erst angeregt die  
+<lb n="23"/>frohn (doch lenger nit, dann wie oben von den ubergebnen neckerburgischen guettern, auch der mulin zue <placeName ref="lub-places-64">Unndermöttingen</placeName> vorbehalten unnd gemeldet) one sperren ervolgen lassen sollen. Dann wir  
+<lb n="24"/>allen unnd jeden innhalt dis briefs, war, vest, steif unnd steet (deme auch von unnsern erben unnd nachkhomen, die wir hiemit vestigclich verbinden, oneverfrohenlichen nachgesetzt werden solle) zuehalten, bey  
+<lb n="25"/>unnsern grävelichen trawen, eeren unnd glauben, geloben unnd versprechen, alles gethrewlich und onegeverde. Dessen zu wahrem unnd vestem uhrkhundt, haben wir für uns,  
+<lb n="26"/>all unnser erben unnd nachkomen, unnser eigen angeborn insigel an disen brieff offentlich lassen hencken unnd zue endt mit eigner handt underschriben, der geben ist, den <origDate>neundten tag monats augusti  
+<lb n="27"/>als man nach der gepurt Christi unnsers einigen erlösters unnd seeligmachers gezölt funfzehenhundert sibenzig unnd ein jare</origDate>. 
+</p>
+        <p><lb n="28"/><persName ref="lub-actors-9">Alwig grauve zu Sulz</persName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-302" n="1"/><lb n="1"/>herr grave <persName ref="lub-actors-9">Alwig zue Sulz</persName> schenckt  
+<lb n="2"/>irer frau gemehel frauen <persName ref="lub-actors-126">Barbara  
+<lb n="3"/>geborner grävin zue Helffenstein</persName>  
+<lb n="4"/>dises schloss und hof <placeName ref="lub-places-63">Neckherburg</placeName> und  
+<lb n="5"/>die mülin zue <placeName ref="lub-places-64">Undermettingen</placeName> 
+<lb n="6"/>anno 1571. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
