@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-863">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bestätigung der Grenzen in der Buchserwies</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-863">CH-StASG, AA 3a U 27</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 21. Januar 1574 / Beschreibstoff: Pergament / Siegel: 2 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-490">LI-GAS, U 11</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 21. Januar 1574 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. erhalten, 2. fehlt</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: LI-LA, RA 30/01/52 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeit: 1791</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: <ref target="http://www.e-archiv.li/D42823">e-archiv.li</ref></bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Juvenalis Kreder, Landvogt der Herrschaften Vaduz, Schellenberg und Blumenegg, und Gabriel Streuli, Landvogt der Herrschaften Werdenberg und Wartau, bestätigen den zwischen Vaduz und Schaan, vertreten durch Ammann Jakob Plenki, Ammann Heinrich Quaderer und Andreas Schierscher, einerseits und Buchs, vertreten durch den Fähnrich Schwarz, Luzi Schmid, Klaus Rohrer und Mathias Zogg, andererseits geschlossenen Vertrag. Auf Bitte der Vaduzer und Schaaner wurde mit Zustimmung der Buchser zum Schutz des Grenzsteins am Rheinufer in der Buchserwies bei der Biegung des Schweizerzauns auf der Wiese des Andreas Frick eine Hintermark gesetzt, 93 Feldkircher Klafter vom Grenzstein entfernt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-440">hintermarch</term>
+          <term ref="lub-keywords-442">möni</term>
+          <term ref="lub-keywords-444">werklafter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-245">Streuli, Gabriel</persName>
+          <date when="1574-01-21">21. Jan 1574</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1574-01-21">21. Jan 1574</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3a_u_27-0001.jpg" xml:id="lub-media-2832" source="stasg-aa-3a-u-27-v-klein.jpg" corresp="A1"/>
+    <graphic url="ch-stasg__aa_3a_u_27-0002.jpg" xml:id="lub-media-2833" source="stasg-aa-3a-u-27-r-klein.jpg" corresp="A1"/>
+    <graphic url="li-gas__u_11-0002.jpg" xml:id="lub-media-2217" source="gas-u-11-klein.jpg" corresp="A2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2833" n="1"/><lb n="1"/>Wir, mit namen <persName ref="lub-actors-24">Juvenalis Kreder</persName>, der zeit lanndtvoggt der herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> unnd <placeName ref="lub-places-12">Pluemennegg</placeName>, unnd <persName ref="lub-actors-245">Gaberiel Ströwle</persName>, der zeit lanndt
+<lb break="no" n="2"/>voggt der herrschafften <placeName ref="lub-places-73">Werdennperg</placeName> unnd <placeName ref="lub-places-149">Warttow</placeName>, bekhennen offennlich unnd thuen kundt allermenigclich mit dem brief, das auf heut dato unnsere ambts unnderthonen, erstlich die gesanndten der
+<lb n="3"/>gemaind baider dörffer <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName>, mit namen aman <persName ref="lub-actors-214">Jacob Plennckhi</persName>, aman <persName ref="lub-actors-246">Hainrich Quader</persName> unnd <persName ref="lub-actors-247">Anndres Schierser</persName>, an ainem unnd fennderich <persName ref="lub-actors-2429">Schwartz</persName>, <persName ref="lub-actors-249">Lutzi Schmid</persName>, <persName ref="lub-actors-250">Clos Rorer</persName> unnd <persName ref="lub-actors-251">Theis Zogg</persName>, auch 
+<lb n="4"/>als gesanndte der gemaind des kilspels <placeName ref="lub-places-148">Buchs</placeName>, am anndern thail fuer unns khomen unnd erscheinen sind, auch unns gemainlich unnd sonnders zuerkhennen geben, nach dem verscheinen drei oder vier jaren 
+<lb n="5"/>ungevarlich inen, den von <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName>, der <placeName ref="lub-places-103">Rein</placeName> gleich bei irem marckhstain im puckh bei <placeName ref="lub-places-150">Buxer Wisen</placeName> im zaun, genannt <placeName ref="lub-places-282">Schweitzer Zaun</placeName>, gelegen, so zwuschen baiden thailen mit und nebandern 
+<lb n="6"/>marckhstainen vermög alter brief unnd sigel wun unnd waid schidigen, gar uberlesstig gewesen. Darumben weren sy in sorgen gestanden, der <placeName ref="lub-places-103">Rein</placeName> wurde denselben etwann könnfftigclich hinweg 
+<lb n="7"/>reisen oder nemen, wie auch seiderhär beschechen. Dernnhalben, altem gebrauch unnd gewonnhait nach, haben die obgedachten von <placeName ref="lub-places-1">Vadutz</placeName> unnd <placeName ref="lub-places-53">Schan</placeName> vorgemelte nachpauren von <placeName ref="lub-places-148">Buchs</placeName> freundtlich 
+          <lb n="8"/>unnd nachpeurlich angesuecht unnd gebetten, sy welten inen von demselben marckhstain, weil er so gar nachennd davornnen auf dem <placeName ref="lub-places-103">Reins</placeName> port stuennde, ain <term ref="lub-keywords-440">hinder marckh</term> helffen setzen unnd zwuschen 
+<lb n="9"/>solichen das mess darvon nemen unnd damit soliches in bericht verhannden plibe, brief unnd sigel darumben auftzuerichten. Desselben sich die nachpauren von <placeName ref="lub-places-148">Buchs</placeName> zuthuen bewilligt 
+<lb n="10"/>unnd darauf ainen tag, selbiges zuverrichten, angesetzt haben. Denselben angesetzten tag haben auch sy, baide thail, vertretten unnd von dem marckhstain auf dem port hindersich, gegen <persName ref="lub-actors-2511">Jos Frickhen</persName> 
+<lb n="11"/>seligen wisen, die yetzt <persName ref="lub-actors-252">Anndres Frickh</persName> innhenndig hat, gemessen in beisein baider thail, am mess befunden drew unnd neuntzig werkhlaffter <placeName ref="lub-places-10">Veldkhircher</placeName> mess, daselbs in gemelter wisenn 
+          <lb n="12"/>ain marckhstain als fuer ain <term ref="lub-keywords-440">hinder marckh</term> gesetzt mit diser beschaidennhait, sover der gemelt marckhstain auf dem <placeName ref="lub-places-103">Reins</placeName> port verinen unnd verlorn unnd volgenndts der <placeName ref="lub-places-103">Rein</placeName> das sannd 
+          <lb n="13"/>unnd awen widerumben geben wurde unnd die marckh auch widerumb haben unnd setzen wolten, das alsdann von der gesetzt<unclear>n</unclear> <term ref="lub-keywords-440">hinder marckh</term> gredigs hinaus der <term ref="lub-keywords-442">muni</term> nach gegen dem <placeName ref="lub-places-239">Grab<unclear>ser</unclear></placeName> 
+<lb n="14"/>kirchen tuerm die obernennten drew unnd ne<gap/>tzig weerkhlaffter <placeName ref="lub-places-10">Veldkhircher</placeName> mess genomen unnd gemessen werden sollen. Unnd so derselbig marckhstain gesetzt, der solle volgenndts 
+          <lb n="15"/>nitsich weert, zuvorderst in das mess, da ain marckhstain in <placeName ref="lub-places-281">Vitlers Awelin</placeName> gestannden, der aber verrunen, unnd dessen ain <term ref="lub-keywords-440">hindermarckh</term> auf <persName ref="lub-actors-2510">Hanns Fritschen</persName> seligen mad gesetzt worden ist, zaigen 
+<lb n="16"/>lauth darumben sonnderbaren baiderseits habennden brief unnd sigelen. Wo auch aine oder mer marckhen zwuschen yet<unclear>zg</unclear>emelten baiden marckhstainen vermeldet oder antzaigt wurden, 
+<lb n="17"/>dieselben sollen hiemit (umb willen, das die villicht nit mer zufinden) aufgehoben, tod unnd ab sein, sonnsten aber alle alte brief ires innhalts in allen crefften sein unnd pleiben. Unnd 
+          <lb n="18"/>es werde solicher marckhstain uber kurtz oder lanng zeit wider gesetzt oder widerumb verlorn, solle doch die gedacht <term ref="lub-keywords-440">hindermarckh</term> nicht dester weniger mit irem mess alwegen in crefften 
+<lb n="19"/>pleiben unnd furtterhin wie yetzt gehalten werden, doch mit was gelegennhait in beysein baider thailen die marckhen gesetzt werden sollen, das solle hinfurtter beschechen 
+<lb n="20"/>unnd gehalten werden, wie von altem här. Nach eröffnung yetztgemelter irer abhanndlung sind sy, baide thail, dessen a<unclear>in</unclear>anndern guet kanndtlich unnd gichtig gewesen unnd uns 
+<lb n="21"/>darauf diennstlich angerueffen unnd gebetten, wir welten inen deshalben glaubwurdige brief unnd sigel aufrichten, damit sy die zur zeit der notturfft zugebrauchen haben. Sovil 
+<lb n="22"/>wir dann, als vorsteet, sy, baide thail, ainanndern solicher sachen kanndtlich gewesen, befunden, haben wir inen darumben brief unnd sigel aufzurichten bewilligt, demnach 
+<lb n="23"/>zwen gleich lauttenndt brief aufrichten lassen. Unnd zu warer zeuckhnus unnd urkhundt haben wir unnd yeder insonnders auf baider thail obgenannten gesanndte pitten sein aigen innsigel 
+<lb n="24"/>(doch unns unnd unnsern erben in alweeg onschaden) offennlich an dise brief gehennckht unnd auch darneben mit aignen hannden unnderschriben, die geben sind den <origDate when="1574-01-21">ainunndzwaintzigisten 
+<lb n="25"/>tag des monnats januari des funfftzechennhundert vierunndsibenntzigisten jars</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2832" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

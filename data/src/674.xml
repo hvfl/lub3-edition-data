@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-674">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schiedsspruch zwischen der Gemeinde Buchs einerseits und den Gemeinden Vaduz und Schaan andererseits um Rheinwuhre</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>A1, Original, Signatur: <ref type="identifier" target="lub-objects-674">CH-StASG, AA 3 U 18</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 7. März 1597 / Beschreibstoff: Pergament / Siegel: 4 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness>B1, Kopie: Signatur: CH-LAGL, AG III.2468:005, S. 65-71 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>) / Beschreibstoff: Papier</witness>
+          <witness>B2, Kopie: Signatur: CH-LAGL, AG III.2401:044, S. 557-560 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Wolfgang Jonas, Stadtvogt und Verwalter von Neuburg, und Andreas Götz, Baumeister von Feldkirch, als Zusätze der Untertanen von Karl Ludwig Graf zu Sulz in Schaan und Vaduz einerseits und Johann Luzius Gugelberg von Moos, Rat der Drei Bünde und Stadtvogt von Maienfeld, und Kaspar Dietschi von Schwyz, Vogt des Abtes von St. Gallen zu Blatten, als Zusätze der Glarner Untertanen in Buchs andererseits, fällen im Konflikt um Rheinwuhre folgenden Schiedsspruch:&#13;
+1. Das von den Buchsern erbaute obere Wuhr in der Burgerau darf bestehen bleiben, die Buchser müssen jedoch besorgt sein, dass keine Krümmung entsteht.&#13;
+2. Die Buchser dürfen das Wuhr in der Grof in Richtung der Kirche von Sennwald vergrössern, dürfen jedoch kein Buck- oder Schupfwuhr errichten.&#13;
+3. Für das alte Wuhr wird in der Grossen Grof ein Grenzstein gesetzt.&#13;
+4. Die Kosten soll jede Partei selber tragen.&#13;
+5. Die Parteien sollen den Spruch annehmen und weiterhin gute Nachbarschaft halten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-400">alber</term>
+          <term ref="lub-keywords-439">buck(wuer)</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-434">krum(wuer)</term>
+          <term ref="lub-keywords-440">hintermarch</term>
+          <term ref="lub-keywords-443">schinung</term>
+          <term ref="lub-keywords-444">werklafter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-255">Jonas, Wolfgang</persName>
+          <date when="1597-03-07">7. Mär 1597</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-227">Rainolt, Sigmund</persName>
+          <date when="1597-03-07">7. Mär 1597</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-257">Gugelberg von Moos, Johann Luzius</persName>
+          <date when="1597-03-07">7. Mär 1597</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-581">Dietschi, Kaspar</persName>
+          <date when="1597-03-07">7. Mär 1597</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-261">Götz, Andreas</persName>
+          <date when="1597-03-07">7. Mär 1597</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3_u_18-0001.jpg" xml:id="lub-media-2817" source="stasg-aa-3-u-18-v-klein.jpg" corresp="xml:id not found"/>
+    <graphic url="ch-stasg__aa_3_u_18-0002.jpg" xml:id="lub-media-2818" source="stasg-aa-3-u-18-r-1-klein.jpg" corresp="xml:id not found"/>
+    <graphic url="ch-stasg__aa_3_u_18-0003.jpg" xml:id="lub-media-2819" source="stasg-aa-3-u-18-r-2-klein.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2818" n="1"/><lb n="1"/>Wyr, die hienach benempten <persName ref="lub-actors-255">Wolffgang Jonnes</persName>, kayserlicher mayestät stadt vogt und verwalter uff <placeName ref="lub-places-139">Nüwburg</placeName>, <persName ref="lub-actors-261">Andres Götz</persName>, buwmeister und des raths der stat <placeName ref="lub-places-10">Veldkilch</placeName> etc., des hoch und wolgebornen hern, 
+<lb n="2"/><persName ref="lub-actors-13">Carol Ludwig graffe zu Sultz</persName>, landt graffe im <placeName ref="lub-places-18">Klegöw</placeName>, des <orgName ref="lub-actors-516">Römischen Richs</orgName> erbhoff richter zu <placeName ref="lub-places-17">Rotwyl</placeName>, her zu <placeName ref="lub-places-7">Fadutz</placeName>, <placeName ref="lub-places-11">Schellen Berg</placeName> und <placeName ref="lub-places-12">Blumen Eck</placeName> etc., siner lib eignen anhörigen underthonen <placeName ref="lub-places-53">Schan</placeName> 
+<lb n="3"/>und <placeName ref="lub-places-1">Fadutz</placeName> beider gmeinden erwelte und erbetne zusetz von wegen des <placeName ref="lub-places-103">Rin</placeName> flus eins theils, <persName ref="lub-actors-257">Hans Lutzy von Moß genant Gugel Berg</persName>, der zyt gmeiner <orgName ref="lub-actors-808">Dryen Bünten</orgName> rath und statvogt zu <placeName ref="lub-places-106">Meyenn
+<lb break="no" n="4"/>feld</placeName>, <persName ref="lub-actors-581">Kasper Dietschy</persName> von <placeName ref="lub-places-187">Schwytz</placeName>, des fürstlichen apts zu <orgName ref="lub-actors-708">Sant Gallen</orgName> rath und vogt uff <placeName ref="lub-places-770">Blaten</placeName>, dern edlen, ernvesten, frommen, vornemen und wyssen hern <orgName ref="lub-actors-276">landtamen und raths</orgName>, ouch gantzes landts
+<lb n="5"/>zu <placeName ref="lub-places-72">Glarus</placeName> anhörige, ouch lib eigne under thonen alß ein gnosame und gmeind zu <placeName ref="lub-places-148">Buchs</placeName> in der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> anders theils erwelte und erbetne underhendler und schidigs lüt etc., bekhennend 
+<lb n="6"/>und thund khund allermenckclichem mit dissem brieff, alß sich spen und stös zwüschend den obgemelten gmeinden erhept, gewachsen und zutragen von wegen wurns des <placeName ref="lub-places-103">Rins</placeName> flußes etc. Also des ersten 
+<lb n="7"/>liessend die gmein old gnosame zu <placeName ref="lub-places-148">Buchs</placeName> reden, melden und anzeigen, wie sych vor ettlichen jarn begeben und zu tragen habe, das die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> mangel an einem wursatz gsin, wellichen inen in 
+<lb n="8"/>guttigkeit von denen von <placeName ref="lub-places-148">Buchs</placeName> zugelassen worden mit söllichem anfang und underscheidt, das die gmein old gnossame von <placeName ref="lub-places-148">Buchs</placeName> den <placeName ref="lub-places-103">Rin</placeName>, wo er under der <placeName ref="lub-places-771">Graff</placeName> an sy fallen wel, mögend empfachen nach 
+<lb n="9"/>irn willen und wol gevallen nach erwyssung des letschen vorergangnen vertrags brieffen. Derwegen und die wyl sich söllichs befunden, sige ein gnosame willens, das selbig wur under der <placeName ref="lub-places-771">Graff</placeName> 
+<lb n="10"/>zu erlengern und verer erstrecken nach irn gevallen und im nutzlichesten duncken sin möge, die wyl inen söllichs verwilliget und zu gelassen worden sige etc. Hin gegen liessend die gnosamenenn 
+<lb n="11"/><placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> reden und antwurten, sy könnend nüt vil wider die verhörte khundtschafft, so im vor ergangnen vertrag wysse, die wil und aber man wol seche, so sy, die von <placeName ref="lub-places-148">Buchs</placeName> old gnosame daselbs, das 
+<lb n="12"/>selbig wur wyter erstrecken wurden, möcht es inen zu grossem schaden und nachtheil glangen und kommen, vermeind ouch derwegen, die wyl sy den <placeName ref="lub-places-103">Rin</placeName> flus forhin mit so einem starcken <term ref="lub-keywords-433">kopf wur</term> 
+<lb n="13"/>empfangen und hinübern geschwungen, söllind sy ein benüögen haben und nüt mer befüögt sin, söllich wur zu strecken und zu erlengern, dan inen söllichs zu grosem schaden reichen und dienen wurde. 
+<lb n="14"/>Zum andern, so habe ouch ein gnosame old gmein zu <placeName ref="lub-places-148">Buchs</placeName> ein wur an <placeName ref="lub-places-484">Burgers Ow</placeName> geschlagen, wellichs zu fil und zu starck und ouch nüt nach uß wyssung der wurmeistern komnus und erkhennen mer stande, 
+<lb n="15"/>sonder inen von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> zu grossem schaden und nach theil tröwe und reiche. Dern wegen sige ir früntlich nachpürlich bit, man wel das abschlißen biß dahin, das der wurmeistern erkhantnus volzogen 
+<lb n="16"/>werde, damit söllichen schaden so ansechelich vermiten und abgetrent bliben werde etc. Hin gegen liessind die von <placeName ref="lub-places-148">Buchs</placeName> old gnosame daselbs witer reden und anzeigen von wegen des wurs an <placeName ref="lub-places-484">Burgers 
+<lb n="17"/>Ow</placeName>, so habind sy das gmacht nach ußwyssung, erkhantnus der wurmeistern, werde sich ouch bim wenigesten befinden, das söllichs witter old ferer wider aber erkent und zu gelassen erstreck sige. 
+<lb n="18"/>Bettend derhalben, wir, die under hendler und schidigs hern, weltend die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> mit unserm rechtlichen spruch dahin wyssen, das sy von des wegen sy unersucht lassend. Und von wägen 
+<lb n="19"/>des wurns under der <placeName ref="lub-places-771">Graff</placeName> vermeinend sy, mögend alda wern und wurn, ouch die wurstreck nach irn willen und gevallen. Der boden sige ouch irn, ennert und disent <placeName ref="lub-places-103">Rins</placeName>. Es möcht sich ouch noch 
+<lb n="20"/>ettlich und vil klaffter von dem wur under der <placeName ref="lub-places-771">Graff</placeName> irn grund und boden erstrecken und befinden, biß an dern von <placeName ref="lub-places-53">Schan</placeName> zil und march. Derwegen were irn früntlich bit, wir alß die underhendlen 
+<lb n="21"/>und zu setz weltind ouch die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> mit unserm gütlichen old rechtlichen spruch dahin erkhenen, das sy inen in söllichem nüt darwider, sonder unentwert lassind und setzind alles hiemit 
+<lb n="22"/>zu rächt, was harinen recht werden möge. Hingegen liessind die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> witter reden und antwurten, des wurs halb an <placeName ref="lub-places-484">Burgers Ow</placeName> söl man den ougen schin in nemen und besichtigen, wie 
+<lb n="23"/>das inen zu grossem schaden reiche, diene und tröwe und zum nachteil gemacht sig, und sover man das besechen, daruff wer dan irn früntlich bit und an suchen wir, die underhendler und zu setz, weltind sy 
+<lb n="24"/>mit unserm güötlichen old rechtlichen spruch dahin wyssen und erkhenen, das sy, die gnosame, von irn söllichem wurn uffhörind und sich müösigend, damit inen söllichen schaden vermiten unnd 
+<lb n="25"/>ab gewent werde. Des wurns halb under der <placeName ref="lub-places-771">Graff</placeName> söl man das ouch besechen, wie es inen, den von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName>, übel tröwen wurde, wan die von <placeName ref="lub-places-148">Buchs</placeName> old gnosame daselbs das möchtind machen, 
+<lb n="26"/>schwingen und setzen nach irn willen und gfallen. Der halben were ouch daruff, wan das beschechen, irn früntlich ansuchen und biten, wir, die underhendler und zu setz, weltind die von <placeName ref="lub-places-148">Buchs</placeName> old gmein 
+<lb n="27"/>daselbs dahin wyßen und mit unserm rechtlichen old güötlichen spruch erkhenen, das sy ouch von irm fürnemen abhörind und das wur, so sy gemacht, nüt witter erstreckind, sonder bim selbigen verbliben 
+<lb n="28"/>lassend. Setzind es hiemit ouch zu recht, was das selbig geben möge etc. Und nach irn, beiden parthien, klagen und antwurten und mern worten, welliche onne not harinen zu melden, habind 
+<lb n="29"/>wir under hendler und recht setz den ougen schin nach aller notturfft und jedes begern ingnommen und besechen und haruff beide parthien angrüöfft, gesucht und betten, söllichen irn rechtshandel 
+<lb n="30"/>und gespan uns in güötigkeit lassen zuverglichen und zuverein barn, in ansächung, so das bescheche, vil mer nachpurschafft pflantzete und gebe ouch merer früntschafft und einigkheit zu erhalten und 
+<lb n="31"/>ouch bliben wurde. Und nach langem unsern an halten und an suchen habind sy alle nachpurschafft und fründschafft und unser früntlich fürhalten betracht und erwegen und uns 
+<lb n="32"/>harinen geeret, söllich in güötigkheit zu machen und uß zesprechen nach unserm im billichesten beduncken zu sin, ouch uns harinen mit mundt und hand an gelopt, verheissen und versprochen, dem nach 
+<lb n="33"/>zu gon, stat zu thuon, ouch zu halten, was wir harinen im billichesten erkhenen und bedunck zu sin etc. Haruff dissen güöttlichen über gab und vetruwen habind wir underhendler und schidigs 
+<lb n="34"/>lüt, nach dem wir alle ding, wie gmelt, gesechen und gehört, einheligklich erkhent und gesprochen, wie dan ein artickel nach dem andern volget und zu gibt. Dem ist allso etc. 
+<lb n="35"/>Erstlichen des obern wurs halb an <placeName ref="lub-places-484">Burgers Ow</placeName>, das sol bliben und beston, doch aber die von <placeName ref="lub-places-148">Buchs</placeName> söllind hindersich uff biß an ab gehownen <term ref="lub-keywords-400">alber</term> uf füllen und verhüötten, das darob ouch 
+<lb n="36"/>khein gevarlichen <term ref="lub-keywords-439">buck</term> in risse. Sunst söllind und wurdend sy den selben, so er sich zu einem <term ref="lub-keywords-405">schupf wur</term> an sechen ließ, ouch uß zefüllen schuldig sin nach lut der vorgegebnen urtel und vertregen. 
+<lb n="37"/>Zum andern des wurns halb an der <placeName ref="lub-places-771">Graff</placeName>, mögend die von <placeName ref="lub-places-148">Buchs</placeName> old gnosame daselbs an der ußersten wand des gesetzten wurs hinin gegen <placeName ref="lub-places-148">Buchs</placeName> wert an setzen und an ein andern gestracks der schnur 
+<lb n="38"/>nach in die kirchen im <placeName ref="lub-places-262">Sennwald</placeName>, die <placeName ref="lub-places-781">Rot Kirch</placeName> genant, om ein andern wurn nach irer notturfft, doch das in khein wyß noch weg kheinen <term ref="lub-keywords-405">schupf</term> noch <term ref="lub-keywords-439">buck</term> gemacht noch an gricht werden sölle. 
+<lb n="39"/>Zum driten, so ist ouch von wegen des alten erkhenten wurs, da sy, die von <placeName ref="lub-places-148">Buchs</placeName>, an der inern wand gegen <placeName ref="lub-places-148">Buchs</placeName> wert an fachen söllind, ein <term ref="lub-keywords-440">hinder march</term> gesetz und erkhent, weliche in der <placeName ref="lub-places-782">Grossen 
+<lb n="40"/>Graff</placeName> in der pfruond gut by einem nus boum an der stras ist, sol gredig die <term ref="lub-keywords-443">schinig</term> uß der march hin übern gon <placeName ref="lub-places-53">Schan</placeName> in <placeName ref="lub-places-212">Sant Lorentzen</placeName> thurn gnomen und geschiniget werden und erstreck 
+<lb n="41"/>sich von gemelter march biß uff den alten <term ref="lub-keywords-458">wurkopf</term> under der <placeName ref="lub-places-771">Graff</placeName> hundtert und fünff <term ref="lub-keywords-444">werklaffter</term> etc. Zum vierten der cöstigen halben, söllind jede parthy, die enhalb und disent 
+<lb n="42"/>halben <placeName ref="lub-places-103">Rins</placeName>, an inen selber haben und jeder theil sinen uß richten und erlegen. Zum fünfften und zum letschen, so ist dern hern zu setzen früntlich an suchen und piten, wel jede parthy an gemeltem 
+<lb n="43"/>spruch vergutt nemen, dan sy es also im billichesten bedunck zu sin. Ouch welle jede parthy für hin noch in gutter langwiriger nachpurschafft und fründschafft wie biß har ver bliben 
+<lb n="44"/>und verharn. Ammen etc. Des alles unsers güöttlichen spruchs begertind beide theil brieff und sigel, die inen von uns einhelligklich zu gelassen erkhent sind etc. Wellicher brieff 
+<lb n="45"/>zwen glich luttende von einer hand gestelt und geschriben und jetwederm, <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> einen und denen von <placeName ref="lub-places-148">Buchs</placeName> old gnosame daselbs, einen geben etc. Des alles zu 
+<lb n="46"/>warn, vesten und gwüsser urkhund so habind wir, ob gemelte underhendler und schidigs lüt, unsere eigne an erborne in sigel lassen hencken an dissen brieff, doch jeder sinen 
+<lb n="47"/>gnedigen obern, ouch im und sinen erben onne schaden, der geben ist den <origDate when="1598-03-07">sybenten tag mertz im jar noch unssers einigen er lossers und sellig machers geburt Jesu Christy 
+<lb n="48"/>gezelt fünff zechen hundtert nüntzig und syben jar</origDate>.  
+</p>
+        <p><pb facs="lub-media-2819" n="2"/><lb n="49"/>Und als nun der obgemelt <persName ref="lub-actors-261">Andres Götz</persName>, buwmeister und 
+<lb n="50"/>des raths der stat <placeName ref="lub-places-10">Veldkilch</placeName> in der zyt, do der vertrag 
+<lb n="51"/>uff gricht, zu göttlichen gnaden berufft, so hat an
+<lb break="no" n="52"/>statt des selbigen der edel, vest, vornem und wyß
+<lb n="53"/><persName ref="lub-actors-227">Sigmund Reinold</persName>, alter stat amen zu <placeName ref="lub-places-10">Veldkilch</placeName>, der zyt 
+<lb n="54"/>landtvogt der herschafft <placeName ref="lub-places-7">Fadutz</placeName> und <placeName ref="lub-places-11">Schellen Berg</placeName>, uß 
+<lb n="55"/>bit und ansuchen beider barthyen sin eigen an
+<lb break="no" n="56"/>erborn insigel lassen häncken an disen brieff,
+<lb n="57"/>doch sinem gnedigen hern, ouch ime und sinen 
+<lb n="58"/>erben in alwäg onne schaden. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2817" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1171">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit zwischen Triesen und Wartau um die Zäune in den Rheinauen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1171">CH-StASG, AA 4 B 19, f. 87r-89r</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Entstehungszeit: Ende 16. Jahrhundert / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: Graber, Wartau, S. 122-125, Nr. 30.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Im Streit zwischen der Gemeinde Triesen und dem Kirchspiel Gretschins-Wartau wegen der Zäune in den Rheinauen auf der Wartauer Seite des Rheins konnte sich ein Schiedsgericht, bestehend aus dem Obmann Peter Jauch von Uri, Landvogt zu Sargans, Johann Jakob Beck, dem sulzischen Landschreiber in den Herrschaften Vaduz, Schellenberg und Blumenegg, und Adam Schierscher, Ammann von Vaduz, den Zugesetzten von Triesen, sowie Balthasar Tschudi von Glarus, Herr zu Gräplang und Landeshauptmann im Sarganserland, und Jakob Good von Mels, Landammann im Sarganserland, den Zugesetzten von Gretschins-Wartau, an einem Rechtstag in Anwesenheit von Lienhart Verling, Fridolin Nigg, Paul Pauli und Matthäus Kindle von Triesen sowie Paul Sulser, Jürg Biet, der Weibel Paul Gafafer, Johannes Gabathuler und Matthias Sulser von Gretschins Wartau nicht auf ein einhelliges Urteil einigen. Da die Triesner trotz wiederholter Aufforderung nicht zu einem zweiten Rechtstag erschienen, fällt das Gericht in ihrer Abwesenheit folgendes Urteil:&#13;
+1. Die alten Verträge sollen in Kraft bleiben.&#13;
+2. Die Triesner sollen im Gebiet ihrer Heuwiesen vom Schärgiessen bis zur Seveler Grenze einen Zaun gegen die Gretschinser und Wartauer Auen errichten. Oberhalb des Schärgiessens sollen beide Gemeinden je die Hälfte des Zauns errichten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-159">Einzäunung</term>
+          <term ref="lub-keywords-150">Vieh</term>
+          <term ref="lub-keywords-451">Auen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2512">Jauch, Peter</persName>
+          <date when="1593-06-16">16. Jun 1593</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-177">Beck, Johann Jakob (von)</persName>
+          <date when="1593-06-16">16. Jun 1593</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-287">Schierscher, Adam</persName>
+          <date when="1593-06-16">16. Jun 1593</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2513">Tschudi, Balthasar</persName>
+          <date when="1593-06-16">16. Jun 1593</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2514">Good, Jakob (2)</persName>
+          <date when="1593-06-16">16. Jun 1593</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_4_b_19__f__87r-89r-0001.jpg" xml:id="lub-media-2996" source="stasg-aa-4-b-19-87r.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_b_19__f__87r-89r-0002.jpg" xml:id="lub-media-2997" source="stasg-aa-4-b-19-87v.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_b_19__f__87r-89r-0003.jpg" xml:id="lub-media-2998" source="stasg-aa-4-b-19-88r.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_b_19__f__87r-89r-0004.jpg" xml:id="lub-media-2999" source="stasg-aa-4-b-19-88v.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_b_19__f__87r-89r-0005.jpg" xml:id="lub-media-3000" source="stasg-aa-4-b-19-89r.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2996" n="1"/><lb n="1"/>Ich, houptman <persName ref="lub-actors-2512">Petter Jouch</persName>, deß raths zu <placeName ref="lub-places-186">Ury</placeName>, der zyt 
+<lb n="2"/>der edlen, gesträngen, frommen, vesten, fürsichtigen 
+<lb n="3"/>unnd wyßen, miner gnedigen herren der <orgName ref="lub-actors-845">Siben Ortten 
+<lb n="4"/>der Eidtgnoschafft</orgName> landtvogt in <placeName ref="lub-places-172">Sanganßerlande</placeName>, 
+<lb n="5"/>thun khundt mengklichem mit disem brief, alß sich 
+<lb n="6"/>dann zwüschent den erbaren lüthen der nachburschafft 
+<lb n="7"/>unnd gemeind zu <placeName ref="lub-places-79">Trißen</placeName> eins theilß unnd der 
+<lb n="8"/>nachburschafft und gmeinden der kilchhöri <placeName ref="lub-places-278">Gritschinß</placeName> 
+<lb n="9"/>unnd <placeName ref="lub-places-140">Warthow</placeName> annders theilß von wegen etlicher 
+<lb n="10"/>zünig der owen, so die von <placeName ref="lub-places-79">Trißen</placeName> dißhalb <placeName ref="lub-places-103">Ryns</placeName> habend,  
+<lb n="11"/>gespän unnd irrung zugetragen unnd derhalben 
+<lb n="12"/>nach luth unnd ußwyßung brief unnd sigel mich, 
+<lb n="13"/>obgenanten lanndtvogt, alß ein obman unnder
+<lb break="no" n="14"/>thänig unnd früntlich angerüfft und gepätten
+<lb n="15"/>mit sampt vier unparthyischer manen, zu glychem 
+<lb n="16"/>zusatz von beden parthyen erwelt, uf den ougenschyn 
+<lb n="17"/>ires habenden gespans ze keren unnd alda ir 
+<lb n="18"/>anligen unnd beschwärden zebesichtigen unnd sy gegen 
+<lb n="19"/>einandern güttlich ald rechtlich zevertragen, 
+<lb n="20"/>welliches nun ich der billigkeit nach unnd zu ver
+<lb break="no" n="21"/>mydung größers gespans unnd widerwillens
+<lb n="22"/>gethan unnd also uff ein bestimpten, 
+<lb n="23"/>darumb angesetzten tag mit sampt den zugesatzten, 
+<lb n="24"/>alß namlichen uf der clegern sythen der eerenvest, 
+<lb n="25"/>fürnäm und wyß <persName ref="lub-actors-177">Hannß Jacob Beckh</persName>, deß 
+<lb n="26"/>wolgebornen herren, herrn <persName ref="lub-actors-13">Charol Ludwigen 
+<lb n="27"/>graffen zu Sultz</persName>, landt graf im <placeName ref="lub-places-18">Khläggöw</placeName>, deß 
+<lb n="28"/><orgName ref="lub-actors-516">Heilligen Römischen Rychs</orgName> erbhoffrichter zu <placeName ref="lub-places-17">Rottwyl</placeName>, 
+<lb n="29"/>herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Blumen Egg</placeName>, 
+<lb n="30"/>landtschryber bemelter dry herrschafftten, unnd 
+<pb facs="lub-media-2997" n="2"/>
+<lb n="31"/>der ersam wyß <persName ref="lub-actors-287">Adam Schierßer</persName>, wonhafft zu <placeName ref="lub-places-53">Schan</placeName>, aman 
+<lb n="32"/>der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, unnd uf der anntwurteren 
+<lb n="33"/>syten der edel vest <persName ref="lub-actors-2513">Balthaßar Tschudy</persName> von <placeName ref="lub-places-72">Glaruß</placeName>, 
+<lb n="34"/>herr unnd besitzer der vesti <placeName ref="lub-places-248">Gräplang</placeName> unnd lanntz
+<lb break="no" n="35"/>houptman in <placeName ref="lub-places-172">Sanganßerland</placeName>, unnd der fürnäm
+<lb n="36"/>wyß <persName ref="lub-actors-2514">Jacob God</persName> von <placeName ref="lub-places-173">Melß</placeName>, die zyt landtamman 
+<lb n="37"/>inn ermeltem <placeName ref="lub-places-172">Sanganßerlande</placeName>, ouch in bywäßen 
+<lb n="38"/>beider parthyen der gmeinden abgeordnete bevelch und gwalt habere, 
+<lb n="39"/>namlich uf deren zu <placeName ref="lub-places-79">Trißen</placeName> <persName ref="lub-actors-279">Lienhart Farling</persName>, <persName ref="lub-actors-1174">Fridli 
+<lb n="40"/>Nickh</persName>, <persName ref="lub-actors-2515">Pally Pally</persName>, der müller, unnd <persName ref="lub-actors-1028">Thöüß Kindli</persName>, 
+<lb n="41"/>von der kilchhöri <placeName ref="lub-places-278">Gritschinß</placeName> unnd <placeName ref="lub-places-140">Warthow</placeName> die 
+<lb n="42"/>erbaren <persName ref="lub-actors-2516">Palli Sulßer</persName>, <persName ref="lub-actors-2517">Jörg Pieth</persName>, <persName ref="lub-actors-2518">Palli Gaffafer</persName>, der 
+<lb n="43"/>weibel, <persName ref="lub-actors-2519">Johannes Gabenthuller</persName> unnd <persName ref="lub-actors-2520">Thyß Sulßer</persName> 
+<lb n="44"/>der jung, uff dem ougen schyn ires gespans erschinen 
+<lb n="45"/>unnd sy für unß genommen unnd zu beiden theillen 
+<lb n="46"/>verhört, wie hernach volgt: Erstlichen vermeindten 
+<lb n="47"/>die clegere, ob wol die gmeinden zu beiden theillen 
+<lb n="48"/>gutte ufgerichte brief unnd sigel, waß hinder jedeße 
+<lb n="49"/>zil unnd marchen glegen, jetwedere parthy daß iren, 
+<lb n="50"/>es sy an wun, weid, holtz und väld, nutzen unnd 
+<lb n="51"/>bruchen möchte nach irem willen unnd bester irer 
+<lb n="52"/>notturfft on entwert der andern parthy, so wärde  
+<lb n="53"/>doch (on angesechen deß) innen ir veech und haab je zu 
+<lb n="54"/>zyten, wann sy daß iren ouch nutzen wellend, 
+<lb n="55"/>pfändt, nitt uß ir, dero von <placeName ref="lub-places-79">Trißen</placeName>, einiche ver
+<lb break="no" n="56"/>sumnuß, sonder allein uß der ursach, daß ir wider
+<lb break="no" n="57"/>parthy innen nit halbe zünig geben unnd machen
+<lb n="58"/>wellend. Derhalben vermeinend sy, die gmeind 
+<lb n="59"/>der kilchhöry <placeName ref="lub-places-278">Gritschinß</placeName> und <placeName ref="lub-places-140">Warthow</placeName> söllend 
+<lb n="60"/>mit unßer erkhanndtnuß dahin gewißen werden, 
+<lb n="61"/>innen halbe zünig zegeben oder aber ir veech on pfänd laßen. 
+<pb facs="lub-media-2998" n="3"/>
+<lb n="62"/>Dargegen aber die anntwurtere fürwandten, sy sigen 
+<lb n="63"/>unnder dem <placeName ref="lub-places-826">Schärgiessen</placeName> biß aben an die <placeName ref="lub-places-147">Seveller</placeName> 
+<lb n="64"/>march zezünen nützit schuldig, dann alß die von 
+<lb n="65"/><placeName ref="lub-places-79">Trißen</placeName> die <placeName ref="lub-places-825">Höw Wißen</placeName> ingeschlagen, sige er uf die 
+<lb n="66"/><placeName ref="lub-places-79">Trißner</placeName> zezünen abteilt worden. Was aber 
+<lb n="67"/>ob dem <placeName ref="lub-places-826">Schärgießen</placeName> glegen, daselbst sige jetwedere 
+<lb n="68"/>gmeind halben zun zemachen schuldig. Da sy, die 
+<lb n="69"/>anntwurter, je und allwegen den theil, so innen 
+<lb n="70"/>zu theilt, gemacht, vermeinend deßwegen wyter 
+<lb n="71"/>nit zezünen, dann wie gmeldet. Wann aber 
+<lb n="72"/>die von <placeName ref="lub-places-79">Trißen</placeName> den überigen theil zun nit machend 
+<lb n="73"/>unnd hierdurch, alß dann innen in iren owen 
+<lb n="74"/>von dem <placeName ref="lub-places-79">Trißner</placeName> vech schaden begegne, söllend, 
+<lb n="75"/>ob gott wil, sy daß zepfänden wol befügt sin ver
+<lb break="no" n="76"/>mög brief unnd siglen, hofend ouch, daß mit rechtlichen
+<lb n="77"/>spruch erkhendt söl werden. Unnd alß 
+<lb n="78"/>nun ich, obgenanter lanndtvogt, sampt den wol ermelte<supplied>n</supplied> 
+<lb n="79"/>vier zugesatzten der jetzgedachten beider parthyen clag, 
+<lb n="80"/>anntwurt, red unnd widerred mit mer 
+<lb n="81"/>worthen, unnothwendig alle zebeschryben, ouch brief 
+<lb n="82"/>unnd sigel gnugsamlich biß an ir ufhören verhört 
+<lb n="83"/>unnd verstanden unnd die gespän besichtiget, sy ouch 
+<lb n="84"/>daruf diser irer hanndel zu unßer rechtlichen erkhandtn<supplied>uß</supplied> 
+<lb n="85"/>gesetzt, waß wir hierin sprechend, daby zublyben 
+<lb n="86"/>unnd aber dero von <placeName ref="lub-places-79">Trißen</placeName> zugesatzten in irem urtel 
+<lb n="87"/>zerfiellen, sonder der ein daß wider hindersich zu 
+<lb n="88"/>bringen begert oder an e<gap/> recht wisen, so hab ich, obgenanter landt vogt, 
+<lb n="89"/>der sachen ein anndern tag anzesetzen ein ufschub 
+<lb n="90"/>genommen unnd nachgentz dennen von <placeName ref="lub-places-79">Trißen</placeName> 
+<lb n="91"/>unnd iren zugesatzten mer alß ein tag schrifftlich 
+<pb facs="lub-media-2999" n="4"/>
+<lb n="92"/>unnd mundtlich verkhünden laßen, im letstlich, alß sy deren keinen besucht, uf der antwurter 
+<lb n="93"/>vilfaltig unnd trungenlichs anhalten in der verkhündung 
+<lb n="94"/>melden laßen, sy erschinend ald nit, so werd ich unnd 
+<lb n="95"/>die obgerürten zugesatzten unnßer erkhandtnuß geben. 
+<lb n="96"/>Unnd alß sy daruf aber nit erschinen, so sind wir uf hütt, datto diß briefs, wider
+<lb break="no" n="97"/>umb zusamen kommen, der obgedachten beider parthyen
+<lb n="98"/>sachen früntlich betrachtet unnd erinneret unnd unnß 
+<lb n="99"/>daruf disen nachgeschribnen urtel unnd rechtspruchs 
+<lb n="100"/>erkhenndt: Erstlichen, so söllend die vor ufgerichten 
+<lb n="101"/>unnd verhörten brief unnd sigel in iren crefften 
+<lb n="102"/>bestan unnd blyben unnd denselben nützit benommen sin. 
+<lb n="103"/>Zum anndern, sovil die <placeName ref="lub-places-825">Höw Wißen</placeName> belangt, diewyl die 
+<lb n="104"/>von <placeName ref="lub-places-79">Thrißen</placeName> sidt mentschen gedechtnus gegen deren  
+<lb n="105"/>von <placeName ref="lub-places-278">Gritschins</placeName> unnd <placeName ref="lub-places-140">Warthower</placeName> owen zündt unnd 
+<lb n="106"/>darumb by drü jaren har khein gespan gwäßen, derhalben 
+<lb n="107"/>söllend die von <placeName ref="lub-places-79">Trißen</placeName> gegen deren von <placeName ref="lub-places-278">Gritschinß</placeName> 
+<lb n="108"/>unnd <placeName ref="lub-places-140">Warthower</placeName> owen zünen von <placeName ref="lub-places-826">Schärgießen</placeName> dannen 
+<lb n="109"/>biß aben an die <placeName ref="lub-places-147">Seeveller</placeName> march, wie von alter har. 
+<lb n="110"/>Waß aber ob dem <placeName ref="lub-places-826">Schärgießen</placeName> glegen ist, söllend die von 
+<lb n="111"/><placeName ref="lub-places-278">Gritschinß</placeName> unnd <placeName ref="lub-places-140">Wartow</placeName> den halben theil ouch  
+<lb n="112"/>zezünen schuldig sin, wie es uf sy zezünen vor etlichen 
+<lb n="113"/>jaren abteilt unnd sy sidhar gemacht habend. 
+<lb n="114"/>Zum letsten, sovil den ufgelofnen costen betrifft, ist deßhalb 
+<lb n="115"/>erkhenndt, daß jede parthy den iren an ir selbst habe, 
+<lb n="116"/>ußgenomen waß mit mir, dem lanndtvogt, 
+<lb n="117"/>unnd zugesatzten, es wär mit zerung ald belonung, 
+<lb n="118"/>ufgelofen, söllend die von <placeName ref="lub-places-79">Thrißen</placeName> die zwen theil unnd 
+<lb n="119"/>den tritheil die kilchhöry <placeName ref="lub-places-278">Gritschinß</placeName> unnd <placeName ref="lub-places-140">Warthow</placeName> erlegen 
+<lb n="120"/>unnd abtragen. Unnd söllend hiemit diß ires 
+<lb n="121"/>habenden gespans vereint unnd betragen, ouch fürbaß 
+<pb facs="lub-media-3000" n="5"/>
+<lb n="122"/>gut fründ unnd nachpuren sin unnd blyben. 
+<lb n="123"/>Diser unnßer erkhanndtnuß begerten die anwält 
+<lb n="124"/>der gmeinden <placeName ref="lub-places-278">Gritschins</placeName> unnd <placeName ref="lub-places-140">Warthow</placeName> eins 
+<lb n="125"/>briefs, der innen zegeben erkhenndt. Unnd 
+<lb n="126"/>deß zu wharem urkund so hab ich, obgenanter 
+<lb n="127"/>lanndtvogt min eigen insigel ofennttlich gehenckt 
+<lb n="128"/>an disen brief (doch wolgedachter, minen 
+<lb n="129"/>gnedigen herren an ir recht unnd herlicheit, ouch 
+<lb n="130"/>mir, den zugesatzten unnd unßern erben 
+<lb n="131"/>in allweg one schädloch unnd on vergrifen), 
+<lb n="132"/>geben <origDate when="1593-06-16">mitwuch vor unßers herren fronlych
+<lb break="no" n="133"/>nams tag nach desselben, unnßers herren
+<lb n="134"/>Jesu Cristi, gepurt gezelt tusennt fünf
+<lb break="no" n="135"/>hundert nünzig unnd drü jar</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

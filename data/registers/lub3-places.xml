@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-11-11 17:03:09 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-12-12 10:04:03 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3804,6 +3804,26 @@
               <p>Mit dem Gebiet um die Burg, dem Dorf Gretschins und umfangreichen Gütern in der Gemeinde Wartau (u.a. Kollaturrecht, Rheinfähre) stellte Wartau bis 1798 eine kleinräumige Herrschaft mit eigener Niedergerichtsbarkeit dar. Ab 1517 Teil der Glarner Landvogtei Werdenberg.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-150">
+            <placeName type="main" xml:lang="de">Buchserwies</placeName>
+            <placeName type="full" xml:lang="de">Buchserwies / Buchs (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">buchserwies</placeName>
+            <location>
+              <geo>47.201071065874 9.4835946075078</geo>
+              <settlement xml:lang="de">Buchs</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">150</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4054790"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Ebenes Wies- und Ackerland in der Rheinebene an der Gemeindegrenze zu Grabs und Sennwald (Haag), schiebt sich zwischen Rhein und Werdenberger Binnenkanal weit nach Norden vor.</p>
+            </note>
+          </place>
           <place type="P" xml:id="lub-places-151">
             <placeName type="main" xml:lang="de">Werdenberg (Stadt)</placeName>
             <placeName type="full" xml:lang="de">Werdenberg (Stadt) / Grabs (St. Gallen)</placeName>
@@ -4284,6 +4304,41 @@
               </bibl>
               <bibl>
                 <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007645"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-173">
+            <placeName type="main" xml:lang="de">Mels</placeName>
+            <placeName type="full" xml:lang="de">Mels (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">mels</placeName>
+            <location>
+              <geo>47.04556 9.42318</geo>
+              <settlement xml:lang="de">Mels</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">173</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7286481"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q67027"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n98095324"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001354"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/157286936/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4287617-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Mels"/>
               </bibl>
             </listBibl>
           </place>
@@ -5699,6 +5754,27 @@
               <p>Unbekannt. Weg über den Kulm in das Alpengebiet.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-236">
+            <placeName type="main" xml:lang="de">Au (Balzers)</placeName>
+            <placeName type="full" xml:lang="de">Au (Balzers) / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">au (balzers)</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">236</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Wohl umfassender Name für das Gebiet am Rhein.</p>
+            </note>
+          </place>
           <place type="P" xml:id="lub-places-239">
             <placeName type="main" xml:lang="de">Grabs</placeName>
             <placeName type="full" xml:lang="de">Grabs (St. Gallen)</placeName>
@@ -6136,7 +6212,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Wiesenkuppe über dem Dorf Eschen auf dem Eschnerberg</p>
+              <p>Wiesenkuppe über dem Dorf Eschen auf dem Eschnerberg.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-258">
@@ -6582,6 +6658,25 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Name abgegangen; Örtlichkeit im Raum Sennwald, genaue Lage unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-281">
+            <placeName type="main" xml:lang="de">Vitlers Au</placeName>
+            <placeName type="full" xml:lang="de">Vitlers Au / Buchs (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">vitlers au</placeName>
+            <location>
+              <settlement xml:lang="de">Buchs</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">281</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4054922"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Name abgegangen; Örtlichkeit in der Rheinau; nicht näher lokalisiert.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-282">
@@ -7801,6 +7896,37 @@
             <note type="description" xml:lang="de">
               <p>Alp im Gamperdonatal.</p>
             </note>
+          </place>
+          <place type="P" xml:id="lub-places-332">
+            <placeName type="main" xml:lang="de">Heiligenberg</placeName>
+            <placeName type="full" xml:lang="de">Heiligenberg (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">heiligenberg</placeName>
+            <location>
+              <geo>47.820833 9.3125</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">332</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q509155"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6556042"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79109898"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/158266696/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4024047-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Heiligenberg_(Bodenseekreis)"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="A" xml:id="lub-places-333">
             <placeName type="main" xml:lang="de">Baar (Landgrafschaft)</placeName>
@@ -10742,9 +10868,9 @@
             </listBibl>
           </place>
           <place type="V" xml:id="lub-places-471">
-            <placeName type="main" xml:lang="de">Au (2) (Schaan)</placeName>
-            <placeName type="full" xml:lang="de">Au (2) (Schaan) / Schaan</placeName>
-            <placeName type="sort" xml:lang="de">au (2) (schaan)</placeName>
+            <placeName type="main" xml:lang="de">Au (Schaan)</placeName>
+            <placeName type="full" xml:lang="de">Au (Schaan) / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">au (schaan)</placeName>
             <placeName type="alternative" xml:lang="de">Aw</placeName>
             <placeName type="alternative" xml:lang="de">Auw</placeName>
             <location>
@@ -16058,6 +16184,22 @@
               <p>Sehr steiles, mit rötlichem Stein durchsetztes, felsiges Gelände auf der Alp Gritsch, im Naaftal, südwestlich der Pfälzerhütte.</p>
             </note>
           </place>
+          <place type="H" xml:id="lub-places-718">
+            <placeName type="main" xml:lang="de">Dornaugiessen</placeName>
+            <placeName type="full" xml:lang="de">Dornaugiessen / Schaan / Vaduz</placeName>
+            <placeName type="sort" xml:lang="de">dornaugiessen</placeName>
+            <placeName type="alternative" xml:lang="de">Dornnauw Giessen</placeName>
+            <placeName type="alternative" xml:lang="de">Dornach Giessenn</placeName>
+            <location>
+              <settlement xml:lang="de">Schaan / Vaduz</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">718</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
           <place type="T" xml:id="lub-places-720">
             <placeName type="main" xml:lang="de">Setsch</placeName>
             <placeName type="full" xml:lang="de">Setsch / Nenzing (Vorarlberg)</placeName>
@@ -16917,6 +17059,50 @@
               <p>Die Grafschaft Oettingen (auch Öttingen), seit dem 17./18. Jahrhundert auch Fürstentum Oettingen, war eine reichsunmittelbare Herrschaft der Grafen von Oettingen rund um die Reichsstadt Nördlingen, mit dem Kerngebiet im Nördlinger Ries im heutigen Bayern und Baden-Württemberg.</p>
             </note>
           </place>
+          <place type="S" xml:id="lub-places-770">
+            <placeName type="main" xml:lang="de">Blatten</placeName>
+            <placeName type="full" xml:lang="de">Blatten / Oberriet (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">blatten</placeName>
+            <location>
+              <geo>47.308034 9.564818</geo>
+              <settlement xml:lang="de">Oberriet</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">770</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q18534466"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/fr/articles/011343"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1053321198"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Burg am Rhein südlich von Oberriet. 1486-1798 Amtssitz der Vögte des Klosters St. Gallen in Kriessern.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-771">
+            <placeName type="main" xml:lang="de">Grof</placeName>
+            <placeName type="full" xml:lang="de">Grof / Buchs (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">grof</placeName>
+            <placeName type="alternative" xml:lang="de">Graff</placeName>
+            <location>
+              <geo>47.161882426055 9.472962007579</geo>
+              <settlement xml:lang="de">Buchs</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">771</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4054523"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="T" xml:id="lub-places-772">
             <placeName type="main" xml:lang="de">Stein, neben dem</placeName>
             <placeName type="full" xml:lang="de">Stein, neben dem / Triesenberg</placeName>
@@ -17093,6 +17279,73 @@
             <note type="description" xml:lang="de">
               <p>Grosser Waldhang, vom Weiler Wangerbärg bis zum Obera Guggerboda reichend.</p>
             </note>
+          </place>
+          <place type="S" xml:id="lub-places-781">
+            <placeName type="main" xml:lang="de">St. Gallus, Pfarrkirche (Sennwald)</placeName>
+            <placeName type="full" xml:lang="de">St. Gallus, Pfarrkirche (Sennwald) / Sennwald (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">st. gallus, pfarrkirche (sennwald)</placeName>
+            <placeName type="alternative" xml:lang="de">Rote Kirche</placeName>
+            <location>
+              <geo>47.265477 9.507922</geo>
+              <settlement xml:lang="de">Sennwald</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">781</idno>
+          </place>
+          <place type="V" xml:id="lub-places-782">
+            <placeName type="main" xml:lang="de">Gross Grof</placeName>
+            <placeName type="full" xml:lang="de">Gross Grof / Buchs (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">gross grof</placeName>
+            <location>
+              <settlement xml:lang="de">Buchs</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">782</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4054525"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Name abgegangen. Teil von <ref target="771">Grof</ref>.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-784">
+            <placeName type="main" xml:lang="de">Gams</placeName>
+            <placeName type="full" xml:lang="de">Gams (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">gams</placeName>
+            <location>
+              <geo>47.20429 9.44172</geo>
+              <settlement xml:lang="de">Gams</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">784</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285891"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q67315"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/fr/articles/001347"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4092638-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/246546055"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Gams_SG"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802003272"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="S" xml:id="lub-places-785">
             <placeName type="main" xml:lang="de">Linda</placeName>
@@ -17560,9 +17813,9 @@
             </listBibl>
           </place>
           <place type="P" xml:id="lub-places-821">
-            <placeName type="main" xml:lang="de">Weißenburg (Elsass)</placeName>
-            <placeName type="full" xml:lang="de">Weißenburg (Elsass) (Grand Est (Elsass))</placeName>
-            <placeName type="sort" xml:lang="de">weißenburg (elsass)</placeName>
+            <placeName type="main" xml:lang="de">Weissenburg (Elsass)</placeName>
+            <placeName type="full" xml:lang="de">Weissenburg (Elsass) (Grand Est (Elsass))</placeName>
+            <placeName type="sort" xml:lang="de">weissenburg (elsass)</placeName>
             <placeName type="alternative" xml:lang="de">Wissembourg</placeName>
             <placeName type="alternative" xml:lang="de">Weyßenburg</placeName>
             <location>
@@ -17576,6 +17829,243 @@
                 <ptr type="geonames" target="https://www.geonames.org/2967325"/>
               </bibl>
             </listBibl>
+          </place>
+          <place type="V" xml:id="lub-places-823">
+            <placeName type="main" xml:lang="de">Flat</placeName>
+            <placeName type="full" xml:lang="de">Flat / Buchs / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">flat</placeName>
+            <placeName type="alternative" xml:lang="de">Flath</placeName>
+            <location>
+              <geo>47.148819 9.466721</geo>
+              <settlement xml:lang="de">Buchs / Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">823</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://search.ortsnamen.ch/de/record/4054449">ortsnamen.ch</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Leicht ansteigende, breite Mulde über der Talebene bei Rietli und Feldrietli, am Fuss des hinteren Seveler Bergs, westlich von Räfis und Räfiser Holz, an der Grenze zwischen Buchs und Sevelen.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-824">
+            <placeName type="main" xml:lang="de">Alpila</placeName>
+            <placeName type="full" xml:lang="de">Alpila / Schaan</placeName>
+            <placeName type="sort" xml:lang="de">alpila</placeName>
+            <placeName type="alternative" xml:lang="de">Albilen</placeName>
+            <location>
+              <geo>47.165386 9.546587</geo>
+              <settlement xml:lang="de">Schaan</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">824</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Teil des Westabhanges der Drei Schwestern, östlich ob Dux.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-825">
+            <placeName type="main" xml:lang="de">Höwisen</placeName>
+            <placeName type="full" xml:lang="de">Höwisen / Wartau (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">hoewisen</placeName>
+            <placeName type="alternative" xml:lang="de">Höw Wißen</placeName>
+            <location>
+              <geo>47.09639 9.507264</geo>
+              <settlement xml:lang="de">Wartau</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">825</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4050744"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Wald-, Wies- und Ackerland in der Rheinebene nordöstlich der Weite zwischen Landstrasse und Rhein, früher in Besitz der Gemeinde Triesen.</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-826">
+            <placeName type="main" xml:lang="de">Schärgiessen</placeName>
+            <placeName type="full" xml:lang="de">Schärgiessen / Wartau (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">schaergiessen</placeName>
+            <location>
+              <geo>47.09349 9.49902</geo>
+              <settlement xml:lang="de">Wartau</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">826</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4051383"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Bach bei Weite.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-827">
+            <placeName type="main" xml:lang="de">Badiera</placeName>
+            <placeName type="full" xml:lang="de">Badiera / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">badiera</placeName>
+            <placeName type="alternative" xml:lang="de">Bedinen</placeName>
+            <location>
+              <geo>47.065422 9.484474</geo>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">827</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10348297"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803177349"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Strasse im Oberfeld, zwischen Äulesteg und Rheinstrasse.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-828">
+            <placeName type="main" xml:lang="de">St. Annabeld</placeName>
+            <placeName type="full" xml:lang="de">St. Annabeld / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">st. annabeld</placeName>
+            <placeName type="alternative" xml:lang="de">St. Annabildnuss</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">828</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+                <bibl>Hermann, Kunstdenkmäler, Bd. 2, S. 66</bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiese mit Obstbäumen im Underfeld, zwischen Kappeleweg und Husteilbach, benannt nach der abgebrochenen Kapelle St. Anna.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-829">
+            <placeName type="main" xml:lang="de">Bannau</placeName>
+            <placeName type="full" xml:lang="de">Bannau / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">bannau</placeName>
+            <placeName type="alternative" xml:lang="de">Bonow</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">829</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-830">
+            <placeName type="main" xml:lang="de">Underau</placeName>
+            <placeName type="full" xml:lang="de">Underau / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">underau</placeName>
+            <placeName type="alternative" xml:lang="de">Unteraw</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">830</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-831">
+            <placeName type="main" xml:lang="de">Möle</placeName>
+            <placeName type="full" xml:lang="de">Möle / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">moele</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">831</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Mühle am Nordrand des Dorfes, am Mölesträssle.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-832">
+            <placeName type="main" xml:lang="de">Runkeletsch</placeName>
+            <placeName type="full" xml:lang="de">Runkeletsch / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">runkeletsch</placeName>
+            <placeName type="alternative" xml:lang="de">Runkeletz</placeName>
+            <location>
+              <geo>47.075714 9.518482</geo>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">832</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10357058"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803177579"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiese östlich des Büntle und südöstlich der Hopmasbünt.</p>
+            </note>
           </place>
           <place type="S" xml:id="lub-places-838">
             <placeName type="main" xml:lang="de">St. Wolfgang, Kapelle</placeName>
@@ -17645,7 +18135,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-11-11T17:03:09+01:00">teiHeader was automatically produced from the database 2025-11-11T17:03:09+01:00</change>
+      <change when="2025-12-12T10:04:04+01:00">teiHeader was automatically produced from the database 2025-12-12T10:04:04+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-857">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wuhrvertrag zwischen Wartau und Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-857">CH-StASG, AA 4 A 2-3b</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Entstehungszeit: 17. Jahrhundert / Beschreibstoff: Papier</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: Graber, Wartau, S. 109-111, Nr. 22 (nach einer Abschrift aus dem 19. Jahrhundert)</bibl>
+          <bibl>Regest: <ref target="https://www.ssrq-sds-fds.ch/online/SG_III_2/index.html#p_627">SSRQ SG III/2, S. 627f., Nr. 173</ref></bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Füssli, Landvogt im Sarganserland, und Juvenalis Kreder, Landvogt von Vaduz, Schellenberg und Blumenegg, beurkunden, dass sich die Gemeinden Wartau einerseits und Balzers und Mäls andererseits verpflichtet haben, den Rhein in einem 118 Feldkircher Klafter breiten Bett zu halten und dazu nur Strich- und keine Schupfwuhre zu errichten. Alle älteren Verträge werden aufgehoben. Es werden auf jeder Rheinseite sieben Grenzzeichen hinter der Uferlinie gesetzt: auf der Wartauer Seite das erste am Schollberg unterhalb des krummen Wegs, die anderen sechs dann rheinabwärts; auf der Balzner und Mälsner Seite das oberste in der Balzner Au, das zweite bei Badiera, das dritte bei St. Annabeld, das vierte weiter rheinabwärts, das fünfte hinter dem Wuhr bei Bannau, das sechste bei der Mühle in der Unterau und das siebte bei Runkeletsch. Die Gesandten beider Gemeinden - von Wartau Ammann Jörg Müller, Jakob Ruesch, Matthias Steinheuel, Paul und Ulrich Sulser, Hans Jusch, Hans Alean und Jörg Biet, von Balzers und Mäls Ammann Valentin Gstöhl, Hans Gartnetscher, Hans Nutt und Hans Meier - versprechen, den Vertrag einzuhalten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-444">werklafter</term>
+          <term ref="lub-keywords-404">strich(wuer)</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-440">hintermarch</term>
+          <term ref="lub-keywords-442">möni</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-733">Füssli, Hans</persName>
+          <date when="1575-02-03">3. Feb 1575</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1575-02-03">3. Feb 1575</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0001.jpg" xml:id="lub-media-3001" source="stasg-aa-4-a-2-3b-1.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0004.jpg" xml:id="lub-media-3004" source="stasg-aa-4-a-2-3b-4.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0005.jpg" xml:id="lub-media-3005" source="stasg-aa-4-a-2-3b-5.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0006.jpg" xml:id="lub-media-3006" source="stasg-aa-4-a-2-3b-6.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0007.jpg" xml:id="lub-media-3007" source="stasg-aa-4-a-2-3b-7.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0008.jpg" xml:id="lub-media-3008" source="stasg-aa-4-a-2-3b-8.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0009.jpg" xml:id="lub-media-3009" source="stasg-aa-4-a-2-3b-2.jpg" corresp="B"/>
+    <graphic url="ch-stasg__aa_4_a_2-3b-0010.jpg" xml:id="lub-media-3010" source="stasg-aa-4-a-2-3b-3.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3001" n="1"/><lb n="1"/>Abschrift 
+<lb n="2"/>eines verglichbriefes der gemeinde <placeName ref="lub-places-71">Balzers</placeName> und <placeName ref="lub-places-166">Kleinmels</placeName>, 
+<lb n="3"/>dann der gemeinden <placeName ref="lub-places-140">Wartau</placeName> und <placeName ref="lub-places-278">Gretschins</placeName> vom jahr 
+<lb n="4"/><date when="1575">1575</date>. 
+<lb n="5"/>Wür, mit nammen <persName ref="lub-actors-733">Hanns Füsi</persName>, des raths 
+<lb n="6"/>der stadt <placeName ref="lub-places-20">Zürich</placeName>, der zit der edlen, ge
+<lb break="no" n="7"/>strenngen, frommen, vesten, fürsichti
+<lb break="no" n="8"/>gen, ehrsamen und wisen, miner gnä
+<lb break="no" n="9"/>digen herren der <orgName ref="lub-actors-845">Sieben Orten löbli
+<lb break="no" n="10"/>cher Aidgenossenschaft</orgName> landvogt im
+<lb n="11"/><placeName ref="lub-places-172">Sarganserlande</placeName>, und <persName ref="lub-actors-24">Juvenalis Kre
+<lb break="no" n="12"/>der</persName>, der zit landvogt der drey herr
+<lb break="no" n="13"/>schaften <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blu
+<lb break="no" n="14"/>menegg</placeName>, bekennen offenlich und thun
+<lb n="15"/>kundt allermänniglich mit dem brieff, 
+<lb n="16"/>demnach unser amtslüte, untertha
+<lb break="no" n="17"/>nen, erstlich ein ganze gemeind zu
+<lb n="18"/><placeName ref="lub-places-140">Wartaw</placeName> des kirchspihls <placeName ref="lub-places-278">Gritschins</placeName> an 
+<lb n="19"/>einem und die von <placeName ref="lub-places-71">Balzers</placeName> und <placeName ref="lub-places-166">Klein
+<lb break="no" n="20"/>mels</placeName> am anderen theils, lange jah
+<lb break="no" n="21"/>re har wuhrens halben am <placeName ref="lub-places-103">Rhin</placeName>
+<lb n="22"/>spen und irrung gehabt, auch grosse 
+<lb n="23"/>kosten und schaden erlitten, und da
+<lb break="no" n="24"/>mit sy derselben hinfüro soviel
+<lb n="25"/>müglich überhaben, ruhig bliben 
+<lb n="26"/>mögen, haben sich bemeldte beid 
+<lb n="27"/>gemeinden einer freündlichen 
+<lb n="28"/>und nachbürlichen vereinigung, 
+<lb n="29"/>wie es zu künftigen ziten gehal
+<lb break="no" n="30"/>ten werden solle, verglichen, uns
+<lb n="31"/>auch selbst uf hüt dato uf den au
+<lb break="no" n="32"/>genschein des spans aller nothdurft
+<lb n="33"/>nach angezeigt und fürgehalten, 
+<lb n="34"/>wie hernach geschriben stoht. Und nam
+<lb break="no" n="35"/>lich erstlich haben sich beid theil ent
+<pb facs="lub-media-3009" n="2"/>
+<lb break="no" n="36"/>schlossen, dem <placeName ref="lub-places-103">Rhin</placeName> ein hofstatt uszu
+<lb break="no" n="37"/>messen, darinnen sie denselben zu
+<lb n="38"/>haben und zu behalten vermein
+<lb break="no" n="39"/>ten. Daß sy auch beschehen, und ha
+<lb break="no" n="40"/>ben ihme zu hofstatt geben einhun
+<lb break="no" n="41"/>dert und achtzehen <term ref="lub-keywords-444">werklafter</term>
+<lb n="42"/><placeName ref="lub-places-10">Veldkircher</placeName> meß mit diesem anhang 
+<lb n="43"/>und luteren bescheidenheit, daß sy, 
+<lb n="44"/>beid theil, den <placeName ref="lub-places-103">Rhin</placeName> in solcher <placeName ref="lub-places-103">Rhins</placeName>
+<lb break="no" n="45"/>hofstatt hüblen, hinableiten und uf die
+<lb n="46"/>gredi vermög nachgemeldter <term ref="lub-keywords-440">hin
+<lb break="no" n="47"/>dermarken</term> richten sollen. Zum an
+<lb break="no" n="48"/>deren, ob der <placeName ref="lub-places-103">Rhin</placeName> by einem oder
+<lb n="49"/>dem anderen theil von oben herab, 
+<lb n="50"/>so wit sy an einander stossend oder 
+<lb n="51"/>hinzwüschen solchen <term ref="lub-keywords-440">hindermarken</term> 
+<lb n="52"/>inbrechen würde oder thete, solle 
+<lb n="53"/>doch derselbig theil allwegen von 
+<lb n="54"/>der hintergesetzten marken, so die
+<lb break="no" n="55"/>selben bies ans rhinshofstatt ge
+<lb break="no" n="56"/>messen, von einer in die ander
+<lb n="57"/>der gredi nach, so wit ihr beider
+<lb break="no" n="58"/>sits marken göndt, mit <term ref="lub-keywords-404">streichwuh
+<lb break="no" n="59"/>ren</term> und anders nit, on alles <term ref="lub-keywords-405">schu
+<lb break="no" n="60"/>pfen</term> zu verwuhren und zu ver
+<lb break="no" n="61"/>wehren macht und gewalt haben.
+<lb n="62"/>Zum dritten sollen auch die von 
+<lb n="63"/><placeName ref="lub-places-140">Wartaw</placeName> und <placeName ref="lub-places-278">Gritschins</placeName> oberhalb 
+<lb n="64"/>gegen <placeName ref="lub-places-240">Schollberg</placeName> sy, die von <placeName ref="lub-places-71">Bal
+<lb break="no" n="65"/>zers</placeName> und <placeName ref="lub-places-166">Kleinen Mels</placeName>, dieweil
+<lb n="66"/>es der <term ref="lub-keywords-442">miny</term> nach hinter oder 
+<lb n="67"/>unter deren von <placeName ref="lub-places-140">Wartaw</placeName> und 
+<pb facs="lub-media-3010" n="3"/>
+<lb n="68"/><placeName ref="lub-places-278">Gritschins</placeName> marken liegt, zu wuhren 
+<lb n="69"/>und den <placeName ref="lub-places-103">Rhin</placeName> an <placeName ref="lub-places-240">Schollberg</placeName>, welcher 
+<lb n="70"/>des <placeName ref="lub-places-103">Rhins</placeName> port seyn solle, zu wisen 
+<lb n="71"/>ungesümbt und ungeirt lassen. Zum 
+<lb n="72"/>vierten, ob der <placeName ref="lub-places-103">Rhin</placeName> bei einem oder 
+<lb n="73"/>dem anderen theil viel solche hof
+<lb break="no" n="74"/>statt nit gar an sich nehme oder ge
+<lb break="no" n="75"/>bruchte, sondern viel oder wenig
+<lb n="76"/>müssig liegen liesse, dieselbig müssig 
+<lb n="77"/>hofstatt solle demjenigen theil, da 
+<lb n="78"/>die gelegen, zu nutzen und zu gebrau
+<lb break="no" n="79"/>chen gebühren, zu stohn und bliben,
+<lb n="80"/>ohne alle widerred. Zum fünften 
+<lb n="81"/>und letzten sollen auch alle andere 
+<lb n="82"/>alte wuhrbrieff, wieviel sy deren 
+<lb n="83"/>gegen einander haben, die wuhre 
+<lb n="84"/>syen darinn geschrieben, abgemessen, 
+<lb n="85"/>aberkennt oder zugelassen, oder 
+<lb n="86"/>was dieselben mit ihrem inhalt 
+<lb n="87"/>wuhrens halber mit sich brachten, 
+<lb n="88"/>todt, ab und kraftlos syn und hei
+<lb break="no" n="89"/>sen. Daß auch die <term ref="lub-keywords-440">hindermarken</term>
+<lb n="90"/>benennt und hierumben das mess 
+<lb n="91"/>derselben, alles <placeName ref="lub-places-10">Veldkircher</placeName> <term ref="lub-keywords-444">wer
+<lb break="no" n="92"/>klafter</term>, verschrieben werden, so
+<lb n="93"/>sind uf jeder siten in beider theil 
+<lb n="94"/>mit und bi sin sieben <term ref="lub-keywords-440">hindermar
+<lb break="no" n="95"/>ken</term> gesetzt und ugfericht worden.
+<lb n="96"/>Die söllen auch ohngefehrlich inn gra
+<lb break="no" n="97"/>den hin und her gegen einander
+<lb n="98"/>zeigen. Und erstlich uf deren von 
+<lb n="99"/><placeName ref="lub-places-140">Wartaw</placeName> und <placeName ref="lub-places-278">Gritschins</placeName> siten am 
+<lb n="100"/><placeName ref="lub-places-240">Schollberg</placeName> unter dem krummen weg 
+<pb facs="lub-media-3004" n="4"/>
+<lb n="101"/>ein blatt oder stein, daran zu zei
+<lb break="no" n="102"/>chen ein <placeName ref="lub-places-109">Schwizer</placeName> und ein lands
+<lb break="no" n="103"/>knechten krüz gehawen, von dersel
+<lb break="no" n="104"/>ben blatten oder stein sy das meß
+<lb n="105"/>bies uf des <placeName ref="lub-places-103">Rhins</placeName> port drü <term ref="lub-keywords-444">werklaf
+<lb break="no" n="106"/>ter</term>. Dann bas darunter sy die an
+<lb break="no" n="107"/>der <term ref="lub-keywords-440">hintermark</term>, von deren mark
+<lb break="no" n="108"/>stein bies an des rhinshofstatt ufs
+<lb n="109"/>wuhr dryzehen <term ref="lub-keywords-444">werklafter</term>. Die 
+<lb n="110"/>dritt <term ref="lub-keywords-440">hintermark</term> aber bas hinab
+<lb break="no" n="111"/>werts sy bies an des rhinshofstatt
+<lb n="112"/>zuvorderest uf das wuhr zwanzig 
+<lb n="113"/><term ref="lub-keywords-444">werklafter</term>. Der vierte mark
+<lb break="no" n="114"/>stein aber bas hinabwert soll syn
+<lb n="115"/>bies an des rhinshofstatt dryzehen 
+<lb n="116"/><term ref="lub-keywords-444">werklafter</term> und dry werschuh. Die 
+<lb n="117"/>fünfte mark aber bas hinabwert 
+<lb n="118"/>syn bies an des rhinshofstatt vierzig 
+<lb n="119"/><term ref="lub-keywords-444">werklafter</term>. Die sechs mark bies 
+<lb n="120"/>an des rhinshofstatt syszehen <term ref="lub-keywords-444">wer
+<lb break="no" n="121"/>klafter</term>. Und die sibendt mark aber
+<lb n="122"/>bies an des rhinshofstatt achtzig <term ref="lub-keywords-444">wer
+<lb break="no" n="123"/>klafter</term>. Sodann uf deren von <placeName ref="lub-places-71">Bal
+<lb break="no" n="124"/>zers</placeName> und <placeName ref="lub-places-166">Kleinen Melsner</placeName> siten die
+<lb n="125"/>sieben hinder gesetzten marken 
+<lb n="126"/>alle nacheinander und die erst und 
+<lb n="127"/>obrist, so den graden gegen dem stein 
+<lb n="128"/>oder blatten mit den zwei kreüzen 
+<lb n="129"/>zeiget und in der <placeName ref="lub-places-236">Balzner Aw</placeName> ge
+<lb break="no" n="130"/>setzt, von derselben bies an des
+<lb n="131"/>rhinshofstatt einhundert fünf und 
+<lb n="132"/>zwanzig <term ref="lub-keywords-444">werklafter</term>. Die andere 
+<lb n="133"/><term ref="lub-keywords-440">hintermark</term>, so in <placeName ref="lub-places-827">Bedinenn</placeName> stoht, 
+<pb facs="lub-media-3005" n="5"/>
+<lb n="134"/>von derselben bies an des rhinshof
+          <lb break="no" n="135"/>statt einhundert dryzehen <term ref="lub-keywords-444">werklaf
+            <lb break="no" n="136"/>ter</term>. Von der dritten <term ref="lub-keywords-440">hintermark</term>
+<lb n="137"/>ungevehrlichen vor <placeName ref="lub-places-828">St. Annabildnus</placeName>
+<lb break="no" n="138"/>sen bies an des rhinshofstatt acht und vierzig <term ref="lub-keywords-444">werklafter</term>. Die viert <term ref="lub-keywords-440">hintermark</term> bies an des rhinshofstatt einhun
+<lb break="no" n="139"/>dert drü und zwanzig <term ref="lub-keywords-444">werklafter</term>.
+<lb n="140"/>Die fünft <term ref="lub-keywords-440">hindermark</term> hinter dem <placeName ref="lub-places-829">Bo
+<lb break="no" n="141"/>now</placeName> wuhr bies an des rhinshofstatt
+<lb n="142"/>einhundert sechs und vierzig <term ref="lub-keywords-444">wer
+<lb break="no" n="143"/>klafter</term>. Die sechste <term ref="lub-keywords-440">hindermark</term> von
+<lb n="144"/>der <placeName ref="lub-places-831">Mühle</placeName> hinus in der <placeName ref="lub-places-830">Unteraw</placeName> bies 
+<lb n="145"/>an des rhinshofstatt zweyhundert acht 
+<lb n="146"/>und dreissig und ein halbs <term ref="lub-keywords-444">werklaf
+<lb break="no" n="147"/>ter</term>. Und die siebendt <term ref="lub-keywords-440">hintermark</term> in
+<lb n="148"/><placeName ref="lub-places-832">Runkeletz</placeName>, stand bies an des rhinshof
+<lb break="no" n="149"/>statt drühundert acht und sechzig <term ref="lub-keywords-444">wer
+<lb break="no" n="150"/>klafter</term>. Deren sie einander gut kannt
+<lb break="no" n="151"/>lich und gichtig gewesen. Und nach dem
+<lb n="152"/>sy ihren zu beidersits vereinigung 
+<lb n="153"/>uns aller nothdurft, in massen vorstoht, 
+<lb n="154"/>mündtlich fürgetragen haben, sy doch 
+<lb n="155"/>darneben dienstlich angerufen und 
+<lb n="156"/>gebetten, wür wöllten ihnen als ih
+<lb break="no" n="157"/>ren zu beiden sits landtvögt diese ihr
+<lb n="158"/>freündtliche und nachbürliche ver
+<lb break="no" n="159"/>glichung bestettigen und bekreften,
+<lb n="160"/>desselben wür uns von ambts wegen, 
+<lb n="161"/>doch bedertheils herrschaften an der
+<lb break="no" n="162"/>selben ober- und herlich-, auch
+<lb n="163"/>recht- und gerechtigkeiten in allweg 
+<lb n="164"/>ohne schaden, zu thun gütlich bewilli
+<lb break="no" n="165"/>get haben und daruf solche ange
+<lb break="no" n="166"/>nommene verglichung in zwen glich
+<lb break="no" n="167"/>lutend brief verschreiben und ver
+<lb break="no" n="168"/>fassen lassen. Dieselben auch uf beider
+<pb facs="lub-media-3006" n="6"/>
+<lb break="no" n="169"/>theil bitt mit unseren eigenen an
+<lb break="no" n="170"/>hangenden insiglen, doch uns und
+<lb n="171"/>unseren erben ohne schaden, besig
+<lb break="no" n="172"/>let dergestalt, daß um fürhin die
+<lb break="no" n="173"/>ser brieff und vertrag in kreften
+<lb n="174"/>bliben und gelten, und sollen alle 
+<lb n="175"/>andere vorgendte wuhrbrieff us 
+<lb n="176"/>oberzehlten ursachen gegen beden 
+<lb n="177"/>partheyen hin todt und ab syn, über 
+<lb n="178"/>kurz oder lange zit jewederen 
+<lb n="179"/>theil weder nutz noch schaden brin
+<lb break="no" n="180"/>gen und geben. Daruf auch bede
+<lb n="181"/>theil durch ihre gesante, darzu 
+<lb n="182"/>verordnete, namlich uf des kirch
+<lb break="no" n="183"/>spihls <placeName ref="lub-places-278">Gritschins</placeName> siten die ehrsamen
+<lb n="184"/>und ehrbaren ammann <persName ref="lub-actors-2521">Jörg Müller</persName>, 
+<lb n="185"/><persName ref="lub-actors-2579">Jakob Rüsch</persName>, <persName ref="lub-actors-2522">This Steinhüwel</persName>, <persName ref="lub-actors-2516">Pauli 
+<lb n="186"/>Sulser</persName>, <persName ref="lub-actors-2523">Uli Sulser</persName>, <persName ref="lub-actors-2524">Hanns Jusch</persName>, <persName ref="lub-actors-2525">Hanns 
+<lb n="187"/>Allion</persName> und <persName ref="lub-actors-2517">Jörg Pieth</persName>, und uf deren 
+<lb n="188"/>von <placeName ref="lub-places-71">Balzers</placeName> und <placeName ref="lub-places-166">Kleinmels</placeName> siten 
+<lb n="189"/>ammann <persName ref="lub-actors-2526">Valentin Gstöhl</persName>, <persName ref="lub-actors-1808">Hanns Gart
+<lb break="no" n="190"/>netscher</persName>, <persName ref="lub-actors-281">Hanns Nutt</persName> und <persName ref="lub-actors-1817">Hanns Ma
+<lb break="no" n="191"/>yer</persName>, und beden landvögten für sich
+<lb n="192"/>selbst und verordnete ihr bedersits 
+<lb n="193"/>gemeinden zugesagt, auch mit 
+<lb n="194"/>mundt und handt angelobt und ver
+<lb break="no" n="195"/>sprochen, diese verglichung und was
+<lb n="196"/>hierinnen geschrieben stoht, wahr, 
+<lb n="197"/>fest, stet und unverbrüchlich zu 
+<lb n="198"/>halten, darwider nit zu handlen, 
+<lb n="199"/>zu thun noch schaffen gethan werden, 
+<pb facs="lub-media-3007" n="7"/>
+<lb n="200"/>in kein wis noch weg, alles by gu
+<lb break="no" n="201"/>ten thrüen, ohne alle arglist oder
+<lb n="202"/>geferde, haben auch jedem theil 
+<lb n="203"/>einen brieff zugestellt und geben 
+<lb n="204"/>den <date when="1575-02-03">dritten tag des monaths feb
+<lb break="no" n="205"/>ruary im fünfzehenhundert fünf
+<lb n="206"/>und sibendzigsten jahre</date>. 
+<lb n="207"/>Infidem copiae 
+<lb n="208"/><gap/> 
+<lb n="209"/>Gesehen vor <orgName ref="lub-actors-2580">Bezirksgericht 
+<lb n="210"/>Werdenberg</orgName>, <date when="1843-05-24">24. Mai 1843</date>. 
+<lb n="211"/><gap/> 
+</p>
+        <p><pb facs="lub-media-3007" n="8"/><lb n="212"/>Datum den <date when="1575-02-03">3. Febr. 1575</date>. 
+<lb n="213"/><placeName ref="lub-places-140">Wartauer</placeName> Wuhrbrief 
+<lb n="214"/>Abschrift vom <orgName ref="lub-actors-687">lichtensteinischen 
+<lb n="215"/>Oberamt</orgName> - <persName ref="lub-actors-2528">Schupeler</persName>. 
+<lb n="216"/>Lit. A. 
+<lb n="217"/>Vor <orgName ref="lub-actors-2581">Kantonsgericht</orgName> <date when="1843-12-05">5. Dec. 1843</date> 
+<lb n="218"/><persName ref="lub-actors-2527">C. Saylern</persName> <gap/></p>
+      </div>
+    </body>
+  </text>
+</TEI>

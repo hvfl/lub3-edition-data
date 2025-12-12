@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-675">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schiedsspruch zwischen den Gemeinden Vaduz und Schaan einerseits und Buchs andererseits um Rheinwuhre</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-675">CH-StASG, AA 3 U 19</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 22. April 1603 / Beschreibstoff: Pergament / Siegel: 4 Siegel, gut erhalten</witness>
+          <witness xml:id="B1">B1: Kopie, Signatur: CH-LAGL, AG III.2468:005, S. 73-78 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>) / Beschreibstoff: Papier</witness>
+          <witness xml:id="B2">B2: Kopie, Signatur: CH-LAGL, AG III.2401:044, S. 561-564 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>)</witness>
+          <witness xml:id="B3">B3: Kopie, Signatur: LI-LA, RA 41/03/09 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Beschreibstoff: Papier</witness>
+          <witness xml:id="B4">B4: Kopie, Signatur: CH-StASG, AA 3 B 2, S. 561-564 (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Entstehungszeit: 28. April 1754</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Wolfgang Jonas, Vogteiverwalter der Herrschaft Neuburg, und Paul Tschütscher, Gegenschreiber der Herrschaft Feldkirch, als Zusätze der Gemeinden Schaan und Vaduz einerseits und Johann Jakob Holzhalb, Landvogt von Sargans, und Johann Luzi Gugelberg von Moos, alt Stadtvogt von Maienfeld, als Zusätze der Gemeinde Buchs fällen in einem Streit wegen Rheinwuhren, nachdem sie am 21. April 1603 im Beisein von Sigmund Rainolt, Landvogt, und Johann Jakob Strauss, Landschreiber von Vaduz und Schellenberg, Melchior Hässi, Glarner Landammann, Niklaus Schuler, Glarner Landeshauptmann, Rudolf Zay, Landvogt, und Thomas Elmer, Landschreiber der Grafschaft Werdenberg, die strittigen Wuhre in Augenschein genommen haben, folgenden Schiedsspruch:&#13;
+1. Die Schaaner und Vaduzer dürfen ein Wuhr vom Schweizerzaun bis zum obersten Stall in der Buchserwies errichten. Für den Fall, dass der Stall vom Rhein weggeschwemmt wird, wird ein Markstein gesetzt.&#13;
+2. Die Buchser dürfen in der Burgerau ein Wuhr errichten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-457">gegenschriber</term>
+          <term ref="lub-keywords-439">buck(wuer)</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-443">schinung</term>
+          <term ref="lub-keywords-442">möni</term>
+          <term ref="lub-keywords-317">Hanf</term>
+          <term ref="lub-keywords-458">wuerkopf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-255">Jonas, Wolfgang</persName>
+          <date when="1603-04-22">22. Apr 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-582">Holzhalb, Hans Jakob</persName>
+          <date when="1603-04-22">22. Apr 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-257">Gugelberg von Moos, Johann Luzius</persName>
+          <date when="1603-04-22">22. Apr 1603</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-583">Tschütscher, Paul</persName>
+          <date when="1603-04-22">22. Apr 1603</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3_u_19-0001.jpg" xml:id="lub-media-2813" source="stasg-aa-3-u-19-v-klein.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3_u_19-0002.jpg" xml:id="lub-media-2887" source="stasg-aa-3-u-19-r-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2887" n="1"/><lb n="1"/>Wir, mit nammen <persName ref="lub-actors-255">Wolffgang Jonas</persName>, grafflicher <orgName ref="lub-actors-1073">Hohen Embsischer</orgName> rath und vogt
+<lb break="no" n="2"/>ey verwalter der herrschafft <placeName ref="lub-places-139">Newenburg</placeName>, und <persName ref="lub-actors-583">Paulus Tschitscher</persName>, römischer kayserlicher mayestät und furstlicher durchlaucht, ertzhertzogen <persName ref="lub-actors-184">Maximili
+<lb break="no" n="3"/>ani zu Osterreich</persName>, <term ref="lub-keywords-457">gegenschreiber</term> der herrschafft <placeName ref="lub-places-10">Veldtkurch</placeName>, beede als erkieste und gebettne zuesätz des hochwolgebornen herren, herren <persName ref="lub-actors-13">Carle Ludwigen graven zu Sultz</persName>, landtgraven im <placeName ref="lub-places-18">Ceggew</placeName>, des <orgName ref="lub-actors-516">Hailigen Romischen
+<lb n="4"/>Reichs</orgName> erbhoffrichter zue <placeName ref="lub-places-17">Rottweyl</placeName>, herren zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluomeneckh</placeName>, Romischer kayserlicher mayestät hoffkriegs rath, general uber die arttollerey wie auch obristen uber ein regiment teutsches kriegsvolckhs zu 
+<lb n="5"/>fuoß in <placeName ref="lub-places-146">Hungeren</placeName>, unnsers gnedigen herren, underthanen der gemeindten <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName>, an einem unndt dann <persName ref="lub-actors-582">Hannß Jacob Holtzhalb</persName>, des raths zue <placeName ref="lub-places-20">Zürich</placeName> und jetziger zeit landtvogt der graffschafft <placeName ref="lub-places-172">Sarganß</placeName>, unndt <persName ref="lub-actors-257">Johan Lutzi 
+<lb n="6"/>Gugelberger von Moß</persName>, alter stattvogt zue <placeName ref="lub-places-106">Maienfeldt</placeName>, alß fürgeschlagne, erbettne und gegebne sätz der edlen, gestrengen, ehrnvesten, fürsichtigen, hochgelerten und wysen herren <orgName ref="lub-actors-276">landt amman und raths des landts Glaris</orgName>, unseren günstigen lieben herren, 
+<lb n="7"/>wegen irer underthanen der gemeindt <placeName ref="lub-places-148">Buchs</placeName> in der graffschafft <placeName ref="lub-places-73">Werdenberg</placeName> andertheils in nachgeschribner güetlichen underhandlung, bekhenen hiemit disem brieff, alß dann endtzwischen jetzgedachten, beiderseits den gräfflichen <orgName ref="lub-actors-7">sultzischen</orgName> und <placeName ref="lub-places-72">glarnischen</placeName> 
+<lb n="8"/>unterthanen der gemeindten <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> und auch <placeName ref="lub-places-148">Buchs</placeName>, sich etlich zwainungen, nachbarliche spen und müßverstendt umb und von wegen wuohrens an <placeName ref="lub-places-103">Rhein</placeName> erregt und zugetragen, deren sie sich nach vilfältiger gepflogner underhandlung keines wegs mit ein
+<lb break="no" n="9"/>ander güetlichen vergleichen haben können noch auch darin gebrauchten wuohrmeister in iren sprüchen ubereingestümbt und darumben sich eines rechtlichen außtrags uff unnß verlasset, darüber wür als <date when="1603-04-21">montag den ein und zwantzigsten
+<lb n="10"/>monats tag aprilis newes calenders</date> beedentheilen zue underthenigen und freündt dienstlichen ehren, auch sonderem gefallen an die streitige örter des wuohrens halben verfüegt, sein vor unnß erschinen erstlich innammen hochermelts, 
+<lb n="11"/>unsers gnedigen herren graven <persName ref="lub-actors-13">zue Sultz</persName> die edlen, vesten, ehrnvesten und wolgelerten herren <persName ref="lub-actors-227">Sigmundt Reinoldt</persName>, landtvogt, und <persName ref="lub-actors-486">Johann Jacob Strauß</persName>, landtschreiber beeder herrschafften <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>, und von wegen gemelter herren 
+<lb n="12"/>von <placeName ref="lub-places-72">Glariß</placeName> die edlen und ehrnvesten herren <persName ref="lub-actors-262">Melchior Hessi</persName>, landtamman zue <placeName ref="lub-places-72">Glaris</placeName>, <persName ref="lub-actors-585">Nicolauß Schuoller</persName>, landthauptman, <persName ref="lub-actors-586">Rudolff Zay</persName>, landtvogt, und <persName ref="lub-actors-264">Thomas Ellner</persName>, landtschreiber der graffschafft <placeName ref="lub-places-73">Werdenberg</placeName>, und haben der noturfft 
+<lb n="13"/>nach denn augenschein unnß in beysein und gegenwürtigkheit baiderseits underthanen und abgeordneten von denn gemeindten <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> wie auch deren von <placeName ref="lub-places-148">Buchs</placeName> fürgewißen, auch alle clag, anttwort, redt und widerredt vor unnß fürgebracht. Sond
+<lb break="no" n="14"/>erlich die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> fürgewendt, ahn waß merckhlichen grossen schaden inen sey gelegen, wann die benachbarten zue <placeName ref="lub-places-148">Buchs</placeName> inen nit erlauben wolten, ein wuohrsatz an dem <placeName ref="lub-places-629">Schaner Auwlin</placeName> zuschlagen, welcher dann nit allein denen zue <placeName ref="lub-places-1">Vadutz</placeName>
+<lb n="15"/>und <placeName ref="lub-places-53">Schan</placeName> zue grossen gueten solte geraichen, sonder auch insonderheit deren von <placeName ref="lub-places-148">Buchs</placeName> wißen, hie dißhalb <placeName ref="lub-places-103">Rheinß</placeName> gelegen, vor abfrossung des <placeName ref="lub-places-103">Rheinß</placeName> zum besten beschützen und schürmen. Hingegen aber die von <placeName ref="lub-places-148">Buchs</placeName> vermeindt, es seye mit nichten, w<unclear>o</unclear>lle 
+<lb n="16"/>gezimen oder gebeüren, die underthanen der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> eintzigen wuohrsatz auff der herren von <placeName ref="lub-places-72">Glaris</placeName> grundt und boden solten schlagen, sondern wo der <placeName ref="lub-places-103">Rein</placeName> an der herrschafft grundt und boden kome, were noch zeit genuog, dessen ein
+<lb break="no" n="17"/>fressen fürkhomen, unnd bey neben noch weiter auch begert, die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> denen von <placeName ref="lub-places-148">Buchs</placeName> ein erlängerung des <placeName ref="lub-places-484">Burger Auw</placeName> wuohrens wolten erlauben, welches begeren wie auch denen von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> anttwort, ein- und
+<lb n="18"/>gegenredt, auch der beschluß allerseits angehördt. Undt alß wür auch darüber pittlich ersuocht, wür zuvergleichung und hinlegung diser habenden nachparlichen spenen und müßverstandt einen rechtlichen spruch gegen beedertheilen anspruchen 
+<lb n="19"/>wolten ertheilen, haben wür anfänckhlich dergleichen zertrenungen nit ohn sonderlich betrauwen angehördt und vil lieber gesehen, beede partheyen sich sonst güetlichen mit einanderen verglichen, dieweyl und aber solches für diß mahl je nit 
+<lb n="20"/>hat können sein, haben wür doch zu uberhebung eines ernstlichen spruchs des rechten auß freündtlicher, guthertziger mainung, mit welchen wür beedentheilen zum höchsten und sonders gewogen, in bedenckhen das recht wol recht, aber unfreündt
+<lb break="no" n="21"/>lich und unnachbarlich, beede partheyen ire furgetragen sachen undt müßverständt güetlich, doch offner handt wolten lassen vereinigen und vergleichen, sonderlich zugesprochen unndt hochlich gebeten. Aber welches, alß beede theil nach
+<lb n="22"/>gehabten bedenckhen und rathschlag unnß solches gutwilliglich nachgeben, haben wür unnß volgenden tag hernach, daß ist <date when="1603-04-22">dinstag denn zwey und zwantzigisten monats tag aprilis</date> widerumb uf den augenschein verfüegt und beedertheilen nutzen 
+<lb n="23"/>und fromen wuohrens halben behertziget, auch ire fürschlag und handlung in zeitige consideration undt betrachtungen genomen und nach allen bedenckhen unnß eines güetlichen spruchs zuverhüetung fernerer weitleüffigkheit, widerwillens, 
+<lb n="24"/>auch müehe und arbeit und costen, die khünfftig darauß erwachsen möchten, mit einander vergleichen in gestalt und massen, wie hernach volgt: Erstlich so haben wür gesprochen und güettlich gemüttlet, das die grafflichen 
+<lb n="25"/><orgName ref="lub-actors-7">sultzischen</orgName> underthanen der beeden gemeindt <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Vadutz</placeName> sollen und mögen oben von dem <placeName ref="lub-places-282">Schweitzer Zaun</placeName> undt alten <term ref="lub-keywords-458">wuohrkopff</term> ahn von und nach der schnuer <placeName ref="lub-places-629">Auwlin</placeName> hinab biß an den obristen eüssersten stadel oder stahl, 
+<lb n="26"/>gegen dem <placeName ref="lub-places-103">Rhein</placeName> an <placeName ref="lub-places-150">Buchßer Wißen</placeName> gelegen, wuohren. Im fahl aber der <placeName ref="lub-places-103">Rhein</placeName> gedachten stahl oder stadel solte hinweg schwemmen, so solle dann daß maß, so sich jetziger zeit vom gerüerten <placeName ref="lub-places-282">Schweützer Zaun</placeName> in dem ge
+<lb break="no" n="27"/>melten stahl befindt, so wol auch die lenge von gedachtem wuohr an denselben stahl hinab an sten, dieselbig maß von breite und lenge brieff und sigel zue inserieren und zuebeschreiben genommen werden, darnach sie
+<lb n="28"/>von anfang ires wuohrens jederzeit ir <term ref="lub-keywords-443">scheinung</term> u<unclear>nd</unclear> <term ref="lub-keywords-442">mönne</term> nemmen, und sollen also sie von dem alten <term ref="lub-keywords-458">wuohr kopff</term> dem landt und gerädte nach <term ref="lub-keywords-405">geschupff</term> und gefährliche <term ref="lub-keywords-439">buegg</term> fahren und wohren, auch solch wuohr jederzeit irer besten nott
+<lb break="no" n="29"/>turfft nach zuerhalten befüegt sein. Unndt daß dess eingenommnen vorgemelter maß gesetzte marckhstein: Erstlich so stehet die underst marckh zw<gap/> klaffter usserhalb deß <placeName ref="lub-places-282">Schweitzer Zaunß</placeName>, soll davon die <term ref="lub-keywords-443">scheinung</term> in <placeName ref="lub-places-148">Buchser</placeName> kürch
+<lb n="30"/>thurm genomen werden und erstreckht sich zum vorgemelten oberen stadel, so zue oberst in <placeName ref="lub-places-150">Buchser Wißen</placeName> ist, zwey und sibendtzig claffter innen a<unclear>m</unclear> stadel gegen <placeName ref="lub-places-53">Schan</placeName> wert, ist ein rechtgesetzter marckhstein. Zum 
+<lb n="31"/>anderen, so ist die ober marckh ob dem hannfflandt, zaiget kröde hinüber in die höchst stein wandt hinderem <placeName ref="lub-places-244">Alten Dorff</placeName> bey dem alten kalchoffen, erstreckht sich biß an <placeName ref="lub-places-282">Schweitzer Zaun</placeName> fünff zehen klaffter und vom <placeName ref="lub-places-282">Schweitzer 
+<lb n="32"/>Zaun</placeName> biß zum alten <term ref="lub-keywords-458">wuohrkopff</term> in die zwölff kloffter. Hingegen so haben wür gleichfahls güetlich erkhandt und gesprochen, daß die underthanen von <placeName ref="lub-places-148">Buchs</placeName> sollen und mögen zwey cloffter hinder dem <placeName ref="lub-places-484">Burger Auw</placeName> wuohr 
+<lb n="33"/>ahnsehen nach irer noturfft auch der gräde nach o<gap/> g<gap/>ferlicher <term ref="lub-keywords-405">schupff</term> undt <term ref="lub-keywords-439">buegg</term> hinab wuohren, alß weit die gräfflichen <orgName ref="lub-actors-7">sultzischen</orgName> underthanen vorgemelt neben gesagten stadel zu wuohren befüegt, und sollen ir <term ref="lub-keywords-442">möninen</term> und 
+<lb n="34"/><term ref="lub-keywords-443">scheinung</term> nemmen von gedachtem <placeName ref="lub-places-484">Burgerauw</placeName> <term ref="lub-keywords-458">wuohr <unclear>kop</unclear>ff</term> ahn biß in höchsten runden ledig frey oder alleinstehenden spitz im berg oben, so ungefahr ob dem hauß <placeName ref="lub-places-753">Sax</placeName> etwaß wenigs gegen <placeName ref="lub-places-784">Gambß</placeName> gelegen, nemmen. Damit 
+<lb n="35"/>aber deß meß halben eintziger zwitracht oder sp<gap/> in khünfftigem nit erwachsen, hat mann daselbig auch genommen, und erstreckht sich hinder<gap/> uff die marckh hinder dem <placeName ref="lub-places-484">Burger Auw</placeName> <term ref="lub-keywords-458">wuohr kopff</term> zue underst acht
+<lb break="no" n="36"/>zehen kloffter, und soll daß jetzige new erkhandte wuohr hinder dem gantzen alten <term ref="lub-keywords-458">wuohr kopff</term> zwey kloffter weit angefangen und gemacht werden, und zeiget die <term ref="lub-keywords-443">scheinig</term> von der marckh gräd<unclear>en</unclear> hinuber miten in <placeName ref="lub-places-824">Al<unclear>bilen</unclear></placeName>.
+<lb n="37"/>Und auff daß so sollen beide obgemelte partheyen diser hie<supplied>v</supplied>or geschribner wuohr span endtlich geaindt und vertragen sein und keintheil dem anderen derohalben mehr nicht beschweren, rechtfertigen noch belaidigen, alles ohn arglist und geferdt. 
+<lb n="38"/>Doch solle dises alles denn alten verträgen, briefff und siglen recht und gerechtigkheiten noch herrlichkheiten und aigenthumen in allweg ohn schadlich sein. Und nachdem auch in disen spenigen articuln von beeden theilen 
+<lb n="39"/>des uffgeloffnen uncosten meldung geschehen, haben wür gleichfals gemütlet, daß, waß uf diser commission auffgangen, jedertheil halb solle leiden und tragen. Dieweyl dann nuhn solcher güetlich spruch von beedentheilen oder 
+<lb n="40"/>partheyen guethertzig und nachbarlich uff und angenommen worden, auch dessen brieff und sigel begert, hierumb zue urkhundt und steür der wahrheit haben wür inen gegenwürtige brieffliche urkhundt mit unnserem ange
+<lb break="no" n="41"/>henckhten insigel (doch unnß und unnseren erben ohn schaden) offentlich mitgethailt. So geschehen <origDate when="1603-04-22">dinstag denn zwey und zwantzigisten monats tag aprilis nach unnsers herren geburt gezalt sechszehenhundert undt
+<lb n="42"/>drey jahr</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2813" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-11-11 17:03:10 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-12-12 10:04:06 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-11-11T17:03:10+01:00">teiHeader was automatically produced from the database 2025-11-11T17:03:10+01:00</change>
+      <change when="2025-12-12T10:04:06+01:00">teiHeader was automatically produced from the database 2025-12-12T10:04:06+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2478,6 +2478,41 @@
             <p>Bezeichnung für eine kleine oder leichte fahrbare Kanone.</p>
           </note>
           <objectType xml:lang="en">Quellenbegriff</objectType>
+        </item>
+        <item xml:id="lub-keywords-457">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">gegenschriber</label>
+          <label xml:lang="de" type="sort">gegenschriber</label>
+          <note type="description" xml:lang="de">
+            <p>FInanzbeamter, der ein der Kontrolle dienendes zusätzliches Rechnungsbuch (Gegenbuch) führt.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gegenschreiber">DRW</ref>
+              </bibl>
+              <bibl>
+                <ref target="https://fwb-online.de/lemma/gegenschreiber.s.0m">FWB</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-458">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">wuerkopf</label>
+          <label xml:lang="de" type="sort">wuerkopf</label>
+          <note type="description" xml:lang="de">
+            <p>Stark vorspringender Teil eines Wuhrs zur Unterstützung anderer Wuhrstrecken bzw. zur Ableitung der Strömung.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/30415/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
         </item>
       </list>
       <p/>

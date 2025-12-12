@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-862">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Wuhrstreit zwischen Schaan und Vaduz einerseits und Buchs andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-862">CH-StASG, AA 3a U 31</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16. Februar 1611 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. beschädigt, 2. fehlt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-497">LI-GAS, U 17</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 16. Februar 1611 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Edition: <ref target="http://www.e-archiv.li/D42830">e-archiv.li</ref> (irrigerweise zu 16. Januar 1611)</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Sigmund Rainolt, ehemaliger Stadtammann von Feldkirch, jetzt Landvogt von Graf Karl Ludwig von Sulz in Vaduz und Schellenberg, und Philibert Rignoldt von Prosswalden, ehemaliger sulzischer Landvogt in Vaduz und Schellenberg, sowie Thomas Elmer, Glarner Landvogt in Werdenberg und Wartau, legen im Konflikt zwischen den Gemeinden Schaan und Vaduz einerseits und Buchs andererseits auf der Vaduzer und Schaaner Rheinseite folgende Linie fest, an die man sich künftig beim Wuhrbau halten soll: vom langen Wuhr, dessen Bau von Landvogt Schmid gestattet wurde, über die Weide beim Wuhrkopf, der vor dreissig Jahren verboten wurde, bis hinab zur Landmarke in der Au. Zur Sicherung dieser Linie werden Hintermarken gesetzt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-443">schinung</term>
+          <term ref="lub-keywords-458">wuerkopf</term>
+          <term ref="lub-keywords-440">hintermarch</term>
+          <term ref="lub-keywords-405">schupf(wuer)</term>
+          <term ref="lub-keywords-439">buck(wuer)</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-227">Rainolt, Sigmund</persName>
+          <date when="1611-02-16">16. Feb 1611</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-191">Rignoldt von Prosswalden, Philibert</persName>
+          <date when="1611-02-16">16. Feb 1611</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-264">Elmer, Thomas</persName>
+          <date when="1611-02-16">16. Feb 1611</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3a_u_31-0001.jpg" xml:id="lub-media-2834" source="stasg-aa-3a-u-31-v-klein.jpg" corresp="A1"/>
+    <graphic url="ch-stasg__aa_3a_u_31-0002.jpg" xml:id="lub-media-2835" source="stasg-aa-3a-u-31-r-klein.jpg" corresp="A1"/>
+    <graphic url="li-gas__u_17-0002.jpg" xml:id="lub-media-2235" source="gas-u-17-klein.jpg" corresp="A2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2835" n="1"/><lb n="1"/>Wir, die nachbenembten <persName ref="lub-actors-227">Sigmunduss Reynoldt</persName>, alter unnd gewesner stathamman zu <placeName ref="lub-places-10">Feldkilch</placeName>, diser zyth dess hoch unnd wolgebornen herren, herrn <persName ref="lub-actors-13">Caroll Ludwigen graffe zu 
+<lb n="2"/>Sultz</persName>, landtgraff im <placeName ref="lub-places-18">Cleggöw</placeName>, dess <orgName ref="lub-actors-516">Heligen Römischen Rychs</orgName> erb hofrichter zu <placeName ref="lub-places-17">Rothwyl</placeName> etc., herr zu <placeName ref="lub-places-7">Fodutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName>, <placeName ref="lub-places-12">Blummeneckh</placeName>, <placeName ref="lub-places-66">Munckhlar</placeName> unnd <placeName ref="lub-places-67">Mentzburg</placeName>, römischer kayserlicher mayestaht raths, kammerer, kriegs rath president, ob
+<lb break="no" n="3"/>rister hof marckhschalckh und bestelter obrister etc., landtvogt zu <placeName ref="lub-places-7">Fadutz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>, <persName ref="lub-actors-191">Wiligertus Riginolt von Brosswald</persName>, altter landtvogt zu <placeName ref="lub-places-7">Fadutz</placeName> etc., <persName ref="lub-actors-264">Toman Elmmer</persName> von <placeName ref="lub-places-72">Glaruss</placeName>, der zyth landtvogt der graffschafft
+<lb n="4"/><placeName ref="lub-places-73">Wärdenbärg</placeName> und herschafft <placeName ref="lub-places-149">Wartow</placeName> etc., bekhennend und thund khundt mengckhlichem hiemit dißem brief, wie daß sich vil gspän und stöss lanngwirig erheptt und zugetragen hannd enttzwüschendt den gmeinden 
+<lb n="5"/><placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName>, deß wolgemelten hoch und wolgebornen <persName ref="lub-actors-13">grafen von Sultz</persName> etc. anhörige underthonen, eins theyls, so danne ein gmeind old gnossamme zu <placeName ref="lub-places-148">Buchs</placeName> in der grafschafft <placeName ref="lub-places-73">Wärden Bärg</placeName>, deren heren von 
+<lb n="6"/><placeName ref="lub-places-72">Glaruss</placeName> eygne anhörig underthonen anders theyls. Und liessend erstlich die gmeinden old gnossammenen <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> durch die iren reden und anzeigen, wie daß sich vor jaren begäben, daß eben ein gspan und 
+<lb n="7"/>handel zwüschen den beiden gmeinden gwäßen wägen dess <placeName ref="lub-places-103">Ryns</placeName> und <placeName ref="lub-places-103">Rynflusses</placeName>, imme synem fürgenomnen schaden vor zesyn, in welcher zyth die von <placeName ref="lub-places-148">Buchs</placeName> old gmeind daselbs, so wyth ir kilchspil sich erstreckt, einer <term ref="lub-keywords-443">scheyn
+<lb break="no" n="8"/>ig</term> begärt, welche inen domalen mit rächt erkhennt und zu gelassen worden. Und als nun ouch die zyth verhannden, dz der <placeName ref="lub-places-103">Ryn</placeName> old <placeName ref="lub-places-103">Rynfluss</placeName> sich der massen ansächen lasse und also threwen thutt, daß inen zu gross
+<lb break="no" n="9"/>em und nachteyl reychen möchte, derowägen sy uß tringender noth ouch ein <term ref="lub-keywords-443">schynung</term> zebegären ursach habend, uff daß sy dem selbigem in bester forem, ehe und zevor der schaden beschicht, für khomen khonnend.
+<lb n="10"/>Bittend also die von <placeName ref="lub-places-148">Buchs</placeName> ald gmeind daselbs, wellend inen daß güetigkhlichen nachgäben, daß begärend sy nachparlichen zeverdienen, mitt vermeldung, daß sy die <term ref="lub-keywords-443">schynung</term> und gredi begärend zu underst uß dem 
+<lb n="11"/>lanngen erkentten wuor, so under <placeName ref="lub-places-1">Fadutz</placeName> ligt, gredig hinab in daß erkhenndt wuor, so ob dem alten hanfland ligt, urbüttende sich ouch, wo immer müglich, vor allen schwüng und <term ref="lub-keywords-439">bücken</term> zesyn, best ir
+<lb break="no" n="12"/>es vermügens etc. Hingägen liess ein gmeind old gnossamme reden und andtwurten, sy habendt iren anzug wol anghört und verstannden, alleß ohne noth wi<unclear>t</unclear>er zuerholen. Was dann anträffe daß erst wägen
+<lb n="13"/>der <term ref="lub-keywords-443">schinung</term>, die inen mit urtel und rächt erkhennt sye, daß inen von grossen nötten gsyn, habend dz ouch uß grosser trungner noth thun müeßen, wärend dess lieber überhept gsyn, dann der <placeName ref="lub-places-103">Ryn</placeName> <unclear>syn</unclear> 
+<lb n="14"/>gantzen fluss und runß uff irem grund und boden daselbs habe. Wo sy nüt, wie man dann alle billigkheytt wol erdurett und ouch gesächen, domalen überkhomen und erkhennt worden, wär
+<lb break="no" n="15"/>end sye umb all ire wun und weyden, tradt und almeind khommen und verflötzt worden. Waß aber anträff die <term ref="lub-keywords-443">schynung</term>, die sy von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> begärend, die sye inen jetz mal ohn vonötten, zu
+<lb break="no" n="16"/>dem sye landt und lüth in der grafschafft <placeName ref="lub-places-73">Wärdenbärg</placeName> irer herren und oberen von <placeName ref="lub-places-72">Glaruß</placeName>, denen daß noch unbewüsst. Waß dann die iren heren und oberen zu lassend, syend sy zu friden, jedoch
+<lb n="17"/>wellend sy mitel und satzungen stellen uff beder sydt oberkheytten zu sagen hin, mögend sy dann daß annemen, sye es verricht, wo nüt, habe doch dann jedertheyl syne rächt. Jedoch söllend sy inge<unclear>denck</unclear> 
+<lb n="18"/>syn, daß zu nechst under dem genampten lanngen wur noch ein <term ref="lub-keywords-458">wuor kopf</term> sig und lig, der vor ettlich und dryssig jaren mit rächt aberkennt sye, und so die <term ref="lub-keywords-443">schynig</term> nach irem begären gesteltt und gericht wurd, 
+<lb n="19"/>könnte solche erganngne urttel wie ouch brief und sigel, so domalen ufgricht, geschwecht warden. So sy aber ein wursatz biß zu dem altten erkäntten wur begärtend, wellend sy inen daß zu lassen uff zusag irer herr
+          <lb break="no" n="20"/>en und oberen. Und so sach wurd, daß der <placeName ref="lub-places-103">Ryn</placeName> old <placeName ref="lub-places-103">Ryn</placeName> fluss under halb inbrächen weltt, wellend sy, die von <placeName ref="lub-places-148">Buchs</placeName>, jeder zyth gären erschynen und inen nach aller noturfft begägnen. Uff ein <gap/>
+<lb n="21"/>ern angesetzten tag liessend die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadutz</placeName> wytter anzeygen, wie daß in die vorgemelten und gesteltten mittel gar und gantz nüt annemlich, sonder zu wider, sy wellend ir gnädigen heren nun n<unclear>üt</unclear> 
+<lb n="22"/>an melden noch darumb an haltten und damit beschwären, sonders luther <unclear>ver</unclear>merckhen lassen, so man in die <term ref="lub-keywords-443">schynung</term> der gredi nach nüt güettlich zu lassen und gäben welli, wellend sy in daß rächt stan, guter 
+<lb n="23"/>hoffnung, wärd inen mitt rächt und urttel zu gäben und erkhennt wärden. Dargägen liessend domalen die von <placeName ref="lub-places-148">Buchs</placeName> ouch widerumb andtwurtten, die wyl die gestelte mitel und artickel, welche 
+<lb n="24"/>hierin ohne noth zemelden, nüt an nemlich und nüt gfellig, in welchen ire heren und oberen zufriden gsyn und sy nüt wytter geheyßen noch nach gelaßen, wytter zu strydten noch für die hand zu 
+<lb n="25"/>nemmen. Derowägen khonnend sy nüt für khommen, sonder dem rächten erwartten, doch uf dess unrächten costen. Unnd als sich nun dißer handel so wyttlöüffig gemacht und dermassen getrib
+<lb break="no" n="26"/>en worden und dem rächtlichen ußspruch, wie dann ufgerichte vertrags brief zugäbend, daß jedtwedere party ire zugesetzte und spruchs heren sammbt beider sydts gesannte uff dißem platz und
+<lb n="27"/>ougenschyn gehan, welche alda selbs ire clagen, andtwurtten, red und widered sammbt dem ougenschyn ingenommen, gesächen, verstannden und harüber iren rächtlichen spruch gegäben in well<unclear>ichem</unclear> 
+<lb n="28"/>gesetzte spruchs herren zerfallen und der urttel sich nüt verglychen mögen, welche beide urttlen ouch alhie nütt vonötten zeverzeichnen, jedoch zu der verglychung sich uff eines obmans gezogen 
+<lb n="29"/>h<unclear>etten</unclear>, uff was end sich dann die urttel khommen wäre, hette man der zyth erwartten müeßen. Unnd als nun wir, obgenammbte beide landtvogt, gesächen und verstannden, daß der handel zu 
+<lb n="30"/>beiden theylen nüt gar groß, sonder der costen, so daruff ganngen und noch gon wurde, wie auch die underthonen zu aller <unclear>sydts</unclear> nüt so gar starch an rychumb, nebendt dem ouch betracht ein gutte, fründt<gap/> 
+<lb n="31"/>nachparschafft zu behaltten, ufzerichten und zu erbesseren, wiewol rächt wol rächt, aber unfründtlich, habend wir unß nüt gespartt, sonder unß harin geüebtt und jeder syne anhorige dess alless wol 
+<lb n="32"/>ermandt und hiemit angreth, daß sy unß dißeren iren langwirigen handel und gspan uß zesprächen, zu zerlegen verthruwen und übergäben wellend, ob doch sollicher unnöttiger costen vermiten unnd 
+<lb n="33"/>abgewanndt wärde, welches unßer ernstlich vermanen, sy, zu beyder sydts underthonen, wol zu hertzen gnommen und verstanden, unnß daruff von allen gmeinden gantz underthenig angesucht 
+<lb n="34"/>und bätten, daß wir, obgemälte landtvögt, unß deß underfachend und uß sprächen wellend, und mit mund und hannd angelobt und versprochen, dem nach zekhommen und zehaltten, best ires 
+<lb n="35"/>vermügens, wellich ir pitt irer von beiden theylen verhörtt und verstanden und unß harin ergäben, ouch mitel, ornung, puncten und artickel gesteltt und uff beider sydt hochen oberkheytten 
+<lb n="36"/>gfallen, zusagen oder abschlachen hin erkhennt, wie hernach volgt, welche puncten, artickel und gstelte ornungen den hochen oberkheytten beidersydt fürgelegt und bricht, die dann inen wolgefall
+<lb break="no" n="37"/>en, ouch uf und angenommen und in allen sachen, puncten und articklen in crefften erkhent, wellend ouch, daß dem best vermügens gläbt und nachganngen wärde etc. Zum aller ersten so ist er
+<lb break="no" n="38"/>khennt, daß die von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-1">Fadütz</placeName> ein theyl wie ouch die von <placeName ref="lub-places-148">Buchs</placeName> old gnossamme daselbs sollend fürohin wie bishar in aller fründtlicher nachpurschafft verharen und verblyben, auch ein anderen in
+<lb n="39"/>lieb und leyd sollend verhulffen und bystendig syn, wie biß har beschächen. Zum anderen sollend die von <placeName ref="lub-places-148">Buchs</placeName> old gmeind daselbs denen von <placeName ref="lub-places-1">Fadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> ein <term ref="lub-keywords-443">schynig</term> lassen wie volgt, damit man 
+<lb n="40"/>sich darnach ze wuoren zeverhaltten wüsse, nammlich unden vom lanngen wuor, wie her landtvogt <persName ref="lub-actors-492">Schmid</persName> erkhent, vom pfal dem land nach gredig hinab in den ab erkhenten <term ref="lub-keywords-458">wuor khopf</term>, so vor drys
+<lb break="no" n="41"/>ig jaren aberkhennt worden, daselb ein wyden stath, dadannen alle gredi hinab in die lanndtmarch bim <placeName ref="lub-places-428">Öwli</placeName>. Und soll alwägen daß wur uff <placeName ref="lub-places-1">fadutzischen</placeName> und <placeName ref="lub-places-53">schanischem</placeName> boden und grund ston. Ittem unnd
+<lb n="42"/>wann der <placeName ref="lub-places-103">Ryn</placeName> daß wur hinuß ziechen wurt, soll man alwägen uff der <term ref="lub-keywords-443">schinig</term> blyben und nüt über die gemachte <term ref="lub-keywords-443">schynig</term> hinuß faren. Ittem es ist ouch abg<unclear>re</unclear>th und erkhentt, wellicher theyl beider sydts under
+<lb break="no" n="43"/>thonen gefärlicher und unnottwändiger wyß <term ref="lub-keywords-405">schüpf</term> und <term ref="lub-keywords-439">bückh</term> in ryßen liessend, die sollend in beider sydts straff gefallen syn, auch nach erkantnuss der oberkheytt zimlichen und billichen costen abtragen.
+<lb n="44"/>Costens halb ist erkhennt, daß jedtwederen theyl jennsydt und disendt dem <placeName ref="lub-places-103">Ryn</placeName> ufferloffen und ufganngen an imme haben und den abtragen, waß under syner oberkheitt ufgangen und sich erlofen 
+<lb n="45"/>hatt. Letstlichen ist ouch erkhennt, daß die altten brief und sigel, so vermögend, daß alle <term ref="lub-keywords-439">bückh</term> und schwüng sollend vermiten syn, by dem lasst ma<unclear>n</unclear>s verblyben, die sollend ußgfült wärden, sovil immer 
+          <lb n="46"/>müglich nach erkhantnusss beider sydt benachpartten. Haruf und zu dem, die wyl vonötten, daß man an ettlichen orthen der new erkendten <term ref="lub-keywords-443">schynig</term> setz und stelle <term ref="lub-keywords-440">hinder marchen</term>. So ist die erst gesetzt 
+<lb n="47"/>unden am lanngen wur und hatt man darvon gemessen biß zum pfal gägem <placeName ref="lub-places-103">Ryn</placeName> acht zächen claffter und die <term ref="lub-keywords-443">schynig</term> gnomen in ein steinwand ob <placeName ref="lub-places-823">Flath</placeName>, so ein klimßen inhatt. Die ander march by dem ab
+<lb break="no" n="48"/>erkhentten <term ref="lub-keywords-458">wuor khopff</term> ob dem <placeName ref="lub-places-428">Schaner Öwli</placeName> hatt man ein steyn gesetzt. Und ist daß mess biß zu der wyden, so uff dem <term ref="lub-keywords-458">khopf</term> stath, gägem <placeName ref="lub-places-103">Ryn</placeName> sächs zächen klaffter. Und ist die <term ref="lub-keywords-443">schynig</term> gnomen in angen zun
+<lb n="49"/>in grossen stein, der ouch ein klimßen inhatt. Ittem die dritt und letste march zwen stein by und an einanderen gesetzt ob den <placeName ref="lub-places-428">Schaner Öwli</placeName>, und ist dass mess biß uff daß wur gägen dem <placeName ref="lub-places-103">Ryn</placeName> 
+<lb n="50"/>dry zächen klaffter. Und ist die <term ref="lub-keywords-443">schinig</term> aber in den vorerzeltten steinwannd ob <placeName ref="lub-places-823">Flat</placeName> genomen worden. Dißer aller abhandlung, gestellte satzung unnd ornung, wie alhie vermelt, gestelt unnd 
+<lb n="51"/>verzeichnett, begärtend beide partyen brief und sigel, die inen von unß einhelig zu bekhennt, auch die von einer hannd gesteltt und geschriben und <placeName ref="lub-places-53">Schan</placeName> ouch <placeName ref="lub-places-1">Fadutz</placeName> einen, wie ouch denen vonn 
+<lb n="52"/><placeName ref="lub-places-148">Buchs</placeName> old gnoßamme daselbs einen zehanden gäben worden, die ouch mit unßeren eygnen anerbornen insigel verwartt, doch zu beider sydts hochen oberkheytten an iren fryheytten und 
+<lb n="53"/>grächtigkheytten, ouch unß und unßeren erben in alwäg on schaden, der gäben ist den <origDate when="1611-02-16">sächs zächenden tag februari im jar nach Christi, unßers heylands und erlößers geburth, gezeltt sächs
+<lb break="no" n="54"/>zächen hundertt unnd darnach im eyndlifften jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2834" n="1"/><lb n="1"/>Disser brief lutet enhalb <placeName ref="lub-places-103">Rins</placeName> under dem  
+          <lb n="2"/><placeName ref="lub-places-551">Pradlagrosch</placeName> <gap/>ß hinab vom langen <term ref="lub-keywords-458">wuor 
+            <lb n="3"/>kopf</term>, vom wyden kopf und noch ein <term ref="lub-keywords-440">hinder 
+            <lb n="4"/>march</term> meß bis an die landtmarch am 
+<lb n="5"/>hampf land, lut inhaltt, so uffgericht  
+          <lb n="6"/>worden deß <date>1611</date> jahr. 
+</p>
+        <p><lb n="7"/>Disser brieff luttett von dem 
+          <lb n="8"/>langen <placeName ref="lub-places-428"><unclear>O</unclear>üwly</placeName> wuor, auch der 
+          <lb n="9"/>selben <term ref="lub-keywords-440">hinder marchen</term> ehnhalb 
+          <lb n="10"/>dem <placeName ref="lub-places-103">Rinn</placeName>. 
+          <lb n="11"/>Erricht anno <date>1611</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

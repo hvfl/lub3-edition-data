@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1166">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anlassbrief in einem Wuhr- und Grenzkonflikt zwischen Schaan und Vaduz einerseits und Sevelen andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Insert), Signatur: CH-StASG, AA 3 U 8 (<orgName corresp="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 22. Februar 1535 / Beschreibstoff: Pergament / Siegel: 4 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schaan und Vaduz einerseits und Sevelen andererseits verpflichten sich, ihren Wuhr- und Grenzkonflikt einem Schiedsgericht vorzulegen, das aus Balthasar von Ramschwag, Vogt auf Gutenberg, und Paulus Schuler, Glarner Landvogt in Werdenberg, als Obmännern, Bartholomäus Rainolt, Stadtammann von Feldkirch, und Hans Schatzmann, Landammann von Rankweil, als Zugesetzten von Schaan und Vaduz, sowie Valentin Gregori, Ratsherr von Maienfeld, und Kaspar Mühlstein, Amtmann des Klosters St. Johann im Thurtal, als Zugesetzten von Sevelen besteht, und den Entscheid zu befolgen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-29">Pergant, Jörg</persName>
+          <date when="1533-11-11">11. Nov 1533</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-589">Pfiffner, Marx (1)</persName>
+          <date when="1533-11-11">11. Nov 1533</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2816" n="1"/><lb n="1"/>Wir nachbenempten, mitnamen ge
+<lb break="no" n="2"/>richts und dorffs geschwornen und gantze gemainden der dörffer und des kilspels <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> an ainem, und wir, die geschwornen und ganze gemainden des kilspels zu <placeName ref="lub-places-147">Sevelen</placeName> der grafschafft <placeName ref="lub-places-73">Werdenberg</placeName> anders tayls, bekhennen alle gemainklich und unverschidenlich offennlich mit dissem brieff und thun khundt allermenig
+<lb break="no" n="3"/>klich, demnach sich zwischen uns zu paider seit irrung, zwitracht, spenn und stös eins würs, so wir, die von <placeName ref="lub-places-147">Sevelen</placeName>, diss jars am <placeName ref="lub-places-103">Rhein</placeName> geschlagen und gemacht, dergleichen ainer durchgeenden lauter marckh, so wir, die von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, wun, waiden und awen der allmain halber gegen denen von <placeName ref="lub-places-147">Sevelen</placeName> vermaynen zu
+<lb break="no" n="4"/>haben, zugetragen und gehalten, deshalben wir etlich zeit, paiden taylen zu verderpklichen cossten und schaden, durch unsere gnedigen hern, paid landtvegt zu <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-73">Werdenberg</placeName>, sampt andern fromen piderbleuten zuspruchen und tagen angehangen und aber jetz zu letst zu entlichem austrag willigklich zu paidenn
+<lb n="5"/>taylen vertgädingt und khomen synd auff den wolgepornen hern, herrn <persName ref="lub-actors-8">Rudolff graven zu Sultz</persName>, römischer zu <placeName ref="lub-places-146">Hunger</placeName> und <placeName ref="lub-places-162">Behaim</placeName> kunigklicher mayestat etc. stathalter der <placeName ref="lub-places-160">Oberössterreichischen Landen</placeName>, unsern gnedigen herren, und in seiner gnaden abwesen auff den edlen und vessten <persName ref="lub-actors-156">Balthasarn von Ramschwag</persName>, hoch
+<lb break="no" n="6"/>gedachter römischer kunigklicher mayestat etc. vogt auff <placeName ref="lub-places-13">Gutenberg</placeName>, unsern geinstigen junckhern, sampt dem wolgeachten <persName ref="lub-actors-305">Pauli Schulern</persName> von <placeName ref="lub-places-72">Glaris</placeName>, der zeit landtvogt zu <placeName ref="lub-places-73">Werdenberg</placeName>, paid als fur ainen gemainen obman in disser hernachgemelten sach, und auff die fursichtigen, furnemen, ersamen und weisen <persName ref="lub-actors-2482">Barth
+<lb break="no" n="7"/>lome Raynoldt</persName>, stataman zu <placeName ref="lub-places-10">Veldkirch</placeName>, und <persName ref="lub-actors-908">Hansen Schatzman</persName>, landaman zu <placeName ref="lub-places-40">Rangkhweyl</placeName>, auff unser, deren von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, seite zugesezten und <persName ref="lub-actors-301">Valentin Gregori</persName>, burger und des radts zu <placeName ref="lub-places-106">Mayenfeld</placeName>, und <persName ref="lub-actors-2484">Caspar Mulstain</persName>, amptman des gotzhaus zu <orgName ref="lub-actors-195">Sandt Johann im Thaurtal</orgName>, auff unser, deren von <placeName ref="lub-places-147">Sevelen</placeName>, seite auch zugesezten, also
+<lb n="8"/>von uns paidentaylen darzu gegeben und verordnet. Darauff wir zu paiderseit mit unsern handtgegeben trewen in aydsweise gelopt, zugesagt und versprochen haben und auch jetz geloben und versprechen wissentlich mit urkhundt ditz brieffs, also was die obgedachten vier zugesezten nach unser paidertayl genugsam verhörung 
+<lb n="9"/>klag, andtwurt, red, widerred, nachreden, kundtschafft, leuten und brieven, auch allem anderm, so jetweder tayl getrewt zugeniesen (doch on schmach und letzung ainicher eeren), der sachen halb ainhelligklich oder mit dem merrerm zwischen uns in der guetigkait, darinn dann die vier zugesazten zum ersten iren höchsten und bessten 
+<lb n="10"/>fleis furwonden und gebrauchen, oder zu recht (sover die guetigkait nit verfang haben möcht) erkhennen und sprechen, das wir selichs zu gut auffnemen und darbey beleiben selicher gestalt, wie hernach volgt. Wo aber die vier zugesatzten nit ain mer machen, sonder gleich zerfallen wurden, so sellen und mögen alsdan 
+<lb n="11"/>obgenante gemain und obman dem ainen tayl der zugesatzten, welcher sy dann der gottlicher, pillicher und dem rechten gleichförmig zusein bedunckht, zufallen und volgen. Sover aber etweder tayl der zugesatzten den gemainen obman gevallen oder irs bedunkhen anzunemen noch volg zugeben wäre, alsdann mögen 
+<lb n="12"/>und sellen genante obman ainen rechtlichen spruch fur sich selbs erkhennen und geben. Demselben mertayl, volg, spruch und erkandtnus sellen und wellen wir abermals zu paidentaylen gestrackhs und getrewlich nachkomen und zu gut, wievorstat, auffnemen on alle widerred, geleben, vesst und stät halten und darbey 
+<lb n="13"/>beleiben, on alles weiter waigern und appellieren, und in sonderhait die obgenanten, gemain und obman, noch auch den vier zugesetzten von wegen irs guetlichen oder rechtlichen spruchs oder volg kainerlay lasster, laid, unwillen noch schaden zufuegen, verschaffen, bewilligen noch gestatten sellen noch wellen, in khain 
+<lb n="14"/>weiss noch weg, alles getrewlich und one geverde. Und des zu warem offem urkhundt, gueter, vesster und stäter sicherhait so haben wir, obgenante von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName>, alle gemainklich und sonderbar, mit fleis gebetten und erbeten den ersamen weisen <persName ref="lub-actors-29">Jerg Bargandten</persName> zu <placeName ref="lub-places-71">Balthers</placeName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, 
+<lb n="15"/>das er sein aigen ynnsigel zugezeucknus der sach fur uns und unser mitverwandten, desgleichen haben auch wir, vorgemelte von <placeName ref="lub-places-147">Sevelen</placeName>, mit sonderm ernst <unclear>g</unclear>epeten und erbeten den ersamen weisen <persName ref="lub-actors-589">Marxen Phiffiner</persName>, disser zeit aman zu <placeName ref="lub-places-73">Werdenperg</placeName>, das er auch sein aigen ynnsigel fur uns und gantz gemain 
+<lb n="16"/>kilspel hierzu in dissen brieff gedruckht, doch inen paiden, auch iren erben und zuvoran den obgenanten grafschafften und herschafften an andern iren freyhaiten, herlichkaiten und oberkaiten one schaden und gantz unvergriffen. Geben und beschechen an <origDate when="1533-11-11">sandt Martins, des hailigen bischoffs, tag nach der ge
+<lb break="no" n="17"/>purtt Cristi, unsers herrn, feinffzechenhundert und im dreyunddreissigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2815" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
