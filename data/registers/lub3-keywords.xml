@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-12-12 10:04:06 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-12-19 15:51:31 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-12-12T10:04:06+01:00">teiHeader was automatically produced from the database 2025-12-12T10:04:06+01:00</change>
+      <change when="2025-12-19T15:51:31+01:00">teiHeader was automatically produced from the database 2025-12-19T15:51:31+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1751,13 +1751,13 @@
           </note>
         </item>
         <item xml:id="lub-keywords-393">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Hirse</label>
-          <label xml:lang="de" type="sort">hirse</label>
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">hirsch</label>
+          <label xml:lang="de" type="sort">hirsch</label>
           <note type="description" xml:lang="de">
-            <p>Getreide</p>
+            <p>Hirse.</p>
           </note>
-          <objectType xml:lang="en">Sachschlagwort</objectType>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
         </item>
         <item xml:id="lub-keywords-394">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -2165,6 +2165,12 @@
             </listBibl>
           </note>
         </item>
+        <item xml:id="lub-keywords-431">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Mühle</label>
+          <label xml:lang="de" type="sort">muehle</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
         <item xml:id="lub-keywords-432">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">lett</label>
@@ -2510,6 +2516,43 @@
             <listBibl>
               <bibl>
                 <ref target="https://digital.idiotikon.ch/idtkn/id3.htm#!page/30415/mode/1up">Idiotikon</ref>
+              </bibl>
+            </listBibl>
+          </note>
+        </item>
+        <item xml:id="lub-keywords-469">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Bohnen</label>
+          <label xml:lang="de" type="sort">bohnen</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-474">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">hubsteuer</label>
+          <label xml:lang="de" type="sort">hubsteuer</label>
+          <note type="description" xml:lang="de">
+            <p>Grundzins.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+        </item>
+        <item xml:id="lub-keywords-475">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Hirse</label>
+          <label xml:lang="de" type="sort">hirse</label>
+          <objectType xml:lang="en">Sachschlagwort</objectType>
+        </item>
+        <item xml:id="lub-keywords-476">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">scheffhaber</label>
+          <label xml:lang="de" type="sort">scheffhaber</label>
+          <note type="description" xml:lang="de">
+            <p>Abgabe von einem halben Viertel Hafer, die wohl in Zusammenhang mit der Rheinfähre stand. Im frühen 16. Jahrhundert musste die Abgabe von allen Haushaltungen in Ruggell, Bendern und Gamprin, in den Eschner Dorfteilen Mösma und Schönabüel, in einem Teil von Salez sowie den Besitzern von 8 Grundstücken in der Herrschaft Schellenberg geleistet werden.</p>
+          </note>
+          <objectType xml:lang="en">Quellenbegriff</objectType>
+          <note type="sources">
+            <listBibl>
+              <bibl>
+                <ref target="https://historisches-lexikon.li/Scheffhaber_(Sch%C3%A4fhaber)">HLFL</ref>
               </bibl>
             </listBibl>
           </note>

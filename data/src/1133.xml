@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1133">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anlassbrief im Streit zwischen Schaan und Vaduz einerseits und Triesen andererseits um die Nutzung des Gebiets Wissfläcka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Kopie (Insert), Signatur: <ref type="identifier" target="lub-objects-624">LI-LA, U 46</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 10. Oktober 1514 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Kopie (Insert), Signatur: <ref type="identifier" target="lub-objects-479">LI-GAS, U 8</ref> (<orgName key="li-gas" ref="lub-objects-477">Gemeindearchiv Schaan</orgName>) / Originaldatierung: 10. Oktober 1514 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Gurt, Claudius: Edition auf <ref target="www.e-archiv.li/D42817">e-archiv.li</ref></bibl>
+          <bibl>Schädler, Regesten Gemeindearchive / Alpgenossenschaften, in: JBL 8 (1908) Nr. 33, S. 115.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schaan und Vaduz als klagende und Triesen als angeklagte Partei verpflichten sich, ihren Streit einem Schiedsgericht vorzulegen, das aus Obmann Hans Tschol, Ammann in der Herrschaft Blumenegg, Hans Langenauer, Untervogt zu Neuburg, und Matthias Wanger von Ruggell, den Beisitzern auf Seiten der Gemeinden Vaduz und Schaan, sowie Hans Gabathuler von Wartau und Hug Knabenknecht von Eschen, den Beisitzern auf Seiten der Gemeinde Triesen, besteht.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-238">Kräler, Georg</persName>
+          <date when="1514-10-10">10. Okt 1514</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la,_u_46-0001.jpg" xml:id="lub-media-538" source="u-046.jpg" corresp="B1"/>
+    <graphic url="li-la,_u_46-0002.jpg" xml:id="lub-media-1479" source="u-046-v.jpg" corresp="B1"/>
+    <graphic url="li-gas__u_8-0002.jpg" xml:id="lub-media-2210" source="gas-u-8-klein.jpg" corresp="B2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-538" n="1"/><lb n="1"/>Zu wissen sey allerrmengclichem mit disem anlass brief nach dem 
+<lb n="2"/>und sich etliche zyt här, irrungen und spenn zwüschen uns, namlich den gmainden der zwayen dörffere <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schan</placeName> als kleger an ainem, und der gmaind des dorfs <placeName ref="lub-places-79">Trisan</placeName> als antwurter am andern tailn, umm die stuck und artickel, die wir 
+<lb n="3"/>mit und gegen ainanderrn am <placeName ref="lub-places-41">Trisnerberrg</placeName> vorna hinuf bis uff den grat, und hinderm grat hinab etc. habend, der gemelten unser irrungen und spennen der wolgeborrn herr, herr <persName ref="lub-actors-8">Rudolff grave zu Sulz</persName> etc., unser gnädiger herr, besorgt, das wir dar
+<lb break="no" n="4"/>durch mitainandren in müy, cost und arbait kommen möchten. Dem vor zu sin, hat sin gnad sich der sach uss sundren gnaden angenommen und zwüschen uns so vil mittels gesucht und funden, also das wir sölich unser irrungen und spenn sinen gnaden,
+<lb n="5"/>als unserm gnädigen und natürlichen herren, und och als obmann mitsambt ainem von uns baiden tailen glychen zusatz gentzlich vertruwt habend. Dwyl aber der genannt unser gnädiger herr siner gnaden obligenden geschäfften halben selbs in aigner 
+<lb n="6"/>person die sach nit volstrecken kan noch mag, hat sin gnad an siner gnaden statt uns, den ersamen und wysen <persName ref="lub-actors-234">Hannsen Tscholen</persName>, siner gnaden amman in der herrschaft <placeName ref="lub-places-12">Blumnegg</placeName> zu ainem obman in der sach georndet und gesezt, den wir baid tail an siner 
+<lb n="7"/>gnaden statt zu obmann gutwillig angenommen. Und habend wir von <placeName ref="lub-places-1">Vaduz</placeName> und <placeName ref="lub-places-53">Schan</placeName> die ersamen, wysen <persName ref="lub-actors-235">Hannsen Langenower</persName>, underrvogt zu <placeName ref="lub-places-139">Nüburr</placeName>g, und <persName ref="lub-actors-221">Tyessen Wagner</persName> von <placeName ref="lub-places-2">Ruggäll</placeName>, und wir, die gmaind zu <placeName ref="lub-places-79">Trisan</placeName>, die erbren, wysen 
+<lb n="8"/><persName ref="lub-actors-237">Hannsen Gabertuler</persName> von <placeName ref="lub-places-140">Wartow</placeName> und <persName ref="lub-actors-222">Hugen Knabenknecht</persName> von <placeName ref="lub-places-35">Eschen</placeName> zu zusätzen zu im geordnet und gesetzt. Und söllen wir, baid tail, den genannten amman <persName ref="lub-actors-234">Hannsen Tscholen</persName> flyssig bitten, der sachen halb kurz tag zu setzen und uns den bi gut
+<lb break="no" n="9"/>en zyten verkünden, und so uns der tag also verkündt wirt, söllen wir, baid tail, mit genannten unsern zusätzen und allem, so uns der sach halben nodt ist, erschinen. Ob es aber uff den angesetzten tag nit gesin mag, sol sölichs uff den nächst
+<lb n="10"/>darnach angesetzten tag beschehen. Und sol der obmann und die zugesezten alsdenn unser clagen, antwurt, red und widerred, und och unser gestelten kundtschafften lüdt und brief nach unser notdurrft nach statten, bis an unser selbs ufhören 
+<lb n="11"/>gnugsamlich verhören und erlernen. Und denn uff unser baider tailen rechtsatz söllen und mügend si, fünf obmann und zugesezten, versuchen, uns mitainanderrn in der gütigkait zu verainen. Ob aber die gütigkait zwüschen uns nit ver
+<lb break="no" n="12"/>fangen werden möchte, so söllen die vier zugesetzten uff unser baider tailen fürbringen, ainen rechtlichen spruch zwüschen uns geben, und ob ain mers under inen wurd. Dabi sol es beliben. Ob sich aber die zugesetzten zwayetenn, und nit ain
+<lb n="13"/>mers under inen gesprochen wurde, so mag alsdann der obmann des ainen tails zugesezten spruch volgen. Ob im aber entweders tails zugesetzten spruch nach siner verstenntnuss und gewissne zu volgen gefiele, so sol er macht und 
+<lb n="14"/>gwalt haben, ainen spruch nach siner verstentnuss und gewissne, der dem rechten glich sach, zwüschen uns zu geben. Und was also zwüschen uns, es sey gütlich oder rechtlich, gesprochen wirt, darbi söllen wir es zu baider sydt laussen 
+<lb n="15"/>beliben und dem one alles wegern und appellieren gegen ainandern vest und stät, one alles mittel und on alle fürwort halten, dem geleben und nachkommen trülich und ungefarlich, als wir dann das zu baider sydt dem gena
+<lb break="no" n="16"/>nten obmann mit unsern handgegebnen trüwen zu halten gelobt habend, doch dem genannten, unserm gnädigen <persName ref="lub-actors-8">herren von Sulz</persName>, an siner gnaden herrligkait und obrigkait unvergriffen und unschädlich und dem gemainen und
+<lb n="17"/>zugesetzten unverwyslich, alles ungefarlich in kraft diss anlass briefs. Und des alles zu warem offem urkund so haben wir, baid tail, flyssig erbetten den fürsichtigen und wysen <persName ref="lub-actors-238">Jörgen Kräler</persName>, der zyt des genannten unsers gnä
+<lb break="no" n="18"/>digen herren landtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, das er sin insigel im und sinen erben one schaden für uns offenlich gedruckt hat in den brief, der geben ist an <origDate when="1514-10-10">zinstag vor sant Gallen tag nach Cristi geburt fünfzehenhundert und
+<lb n="19"/>vierzehen jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

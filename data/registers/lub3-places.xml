@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-12-12 10:04:03 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2025-12-19 15:51:29 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3063,7 +3063,13 @@
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">116</idno>
-            <note type="sources">[Liechtensteiner Namenbuch](https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden)</note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
             <note type="description" xml:lang="de">
               <p>Wiesen und Strasse nordöstlich bei Gamprin, östlich vom Boia, an der Gemeindegrenze zu Ruggell und Schellenberg.</p>
             </note>
@@ -11933,28 +11939,6 @@
               </bibl>
             </listBibl>
           </place>
-          <place type="S" xml:id="lub-places-517">
-            <placeName type="main" xml:lang="de">Saläus</placeName>
-            <placeName type="full" xml:lang="de">Saläus / Mauren</placeName>
-            <placeName type="sort" xml:lang="de">salaeus</placeName>
-            <placeName type="alternative" xml:lang="de">Saläz</placeName>
-            <location>
-              <settlement xml:lang="de">Mauren</settlement>
-              <country xml:lang="de">Liechtenstein</country>
-              <country xml:lang="en">Liechtenstein</country>
-            </location>
-            <idno type="lub-places-id">517</idno>
-            <note type="sources">
-              <listBibl>
-                <bibl>
-                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
-                </bibl>
-              </listBibl>
-            </note>
-            <note type="description" xml:lang="de">
-              <p>Unbekannt. Gut im Riet südlich des Dorfes, beim Undera Bretscha. Offenbar örtlich und sprachlich identisch mit †Leuis.</p>
-            </note>
-          </place>
           <place type="S" xml:id="lub-places-518">
             <placeName type="main" xml:lang="de">Leuis</placeName>
             <placeName type="full" xml:lang="de">Leuis / Mauren</placeName>
@@ -11991,11 +11975,11 @@
           </place>
           <place type="V" xml:id="lub-places-520">
             <placeName type="main" xml:lang="de">Schuttenacker</placeName>
-            <placeName type="full" xml:lang="de">Schuttenacker / Gamprin</placeName>
+            <placeName type="full" xml:lang="de">Schuttenacker / Gamprin / Mauren</placeName>
             <placeName type="sort" xml:lang="de">schuttenacker</placeName>
-            <placeName type="alternative" xml:lang="de">Schutten acker</placeName>
+            <placeName type="alternative" xml:lang="de">Schütten Acker</placeName>
             <location>
-              <settlement xml:lang="de">Gamprin</settlement>
+              <settlement xml:lang="de">Gamprin / Mauren</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
@@ -12008,7 +11992,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Unbekannt</p>
+              <p>Unbekannt, nicht lokalisierbar.</p>
             </note>
           </place>
           <place type="P" xml:id="lub-places-521">
@@ -12077,87 +12061,28 @@
             </note>
           </place>
           <place type="S" xml:id="lub-places-524">
-            <placeName type="main" xml:lang="de">Braita</placeName>
-            <placeName type="full" xml:lang="de">Braita / Bendern</placeName>
-            <placeName type="sort" xml:lang="de">braita</placeName>
-            <placeName type="alternative" xml:lang="de">Acker in der Praiten</placeName>
+            <placeName type="main" xml:lang="de">Breita</placeName>
+            <placeName type="full" xml:lang="de">Breita / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">breita</placeName>
+            <placeName type="alternative" xml:lang="de">in der Praiten</placeName>
             <location>
-              <settlement xml:lang="de">Bendern</settlement>
+              <settlement xml:lang="de">Gamprin</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">524</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10347570"/>
+              </bibl>
+            </listBibl>
             <note type="sources">
               <listBibl>
-                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref> ("Braita 2")</bibl>
+                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref> ("Breita 2")</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
               <p>Wieshang und Häuser in Bendern, östlich unter der Kirche, zwischen Kirchgass und Widagass.</p>
-            </note>
-          </place>
-          <place type="L" xml:id="lub-places-525">
-            <placeName type="main" xml:lang="de">Egg, uf der</placeName>
-            <placeName type="full" xml:lang="de">Egg, uf der / Eschen</placeName>
-            <placeName type="sort" xml:lang="de">egg, uf der</placeName>
-            <location>
-              <settlement xml:lang="de">Eschen</settlement>
-              <country xml:lang="de">Liechtenstein</country>
-              <country xml:lang="en">Liechtenstein</country>
-            </location>
-            <idno type="lub-places-id">525</idno>
-            <note type="sources">
-              <listBibl>
-                <bibl>
-                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
-                </bibl>
-              </listBibl>
-            </note>
-            <note type="description" xml:lang="de">
-              <p>Unbekannt. Örtlich identisch mit Frastner Egg.</p>
-            </note>
-          </place>
-          <place type="H" xml:id="lub-places-526">
-            <placeName type="main" xml:lang="de">Fahr</placeName>
-            <placeName type="full" xml:lang="de">Fahr / Gamprin</placeName>
-            <placeName type="sort" xml:lang="de">fahr</placeName>
-            <placeName type="alternative" xml:lang="de">Far</placeName>
-            <location>
-              <settlement xml:lang="de">Gamprin</settlement>
-              <country xml:lang="de">Liechtenstein</country>
-              <country xml:lang="en">Liechtenstein</country>
-            </location>
-            <idno type="lub-places-id">526</idno>
-            <note type="sources">
-              <listBibl>
-                <bibl>
-                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
-                </bibl>
-              </listBibl>
-            </note>
-            <note type="description" xml:lang="de">
-              <p>Unbekannt. Rheinfähre bei der Fallsau.</p>
-            </note>
-          </place>
-          <place type="S" xml:id="lub-places-527">
-            <placeName type="main" xml:lang="de">Mad</placeName>
-            <placeName type="full" xml:lang="de">Mad / Gamprin</placeName>
-            <placeName type="sort" xml:lang="de">mad</placeName>
-            <location>
-              <settlement xml:lang="de">Gamprin</settlement>
-              <country xml:lang="de">Liechtenstein</country>
-              <country xml:lang="en">Liechtenstein</country>
-            </location>
-            <idno type="lub-places-id">527</idno>
-            <note type="sources">
-              <listBibl>
-                <bibl>
-                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
-                </bibl>
-              </listBibl>
-            </note>
-            <note type="description" xml:lang="de">
-              <p>Unbekannt. Gut im Riet südlich von Bendern.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-528">
@@ -12179,34 +12104,6 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Unbekannt.</p>
-            </note>
-          </place>
-          <place type="V" xml:id="lub-places-529">
-            <placeName type="main" xml:lang="de">Büel (Eschen)</placeName>
-            <placeName type="full" xml:lang="de">Büel (Eschen) / Eschen</placeName>
-            <placeName type="sort" xml:lang="de">bueel (eschen)</placeName>
-            <placeName type="alternative" xml:lang="de">Bül</placeName>
-            <location>
-              <geo>47.22064 9.5327</geo>
-              <settlement xml:lang="de">Eschen</settlement>
-              <country xml:lang="de">Liechtenstein</country>
-              <country xml:lang="en">Liechtenstein</country>
-            </location>
-            <idno type="lub-places-id">529</idno>
-            <listBibl>
-              <bibl>
-                <ptr type="geonames" target="https://www.geonames.org/10357110"/>
-              </bibl>
-            </listBibl>
-            <note type="sources">
-              <listBibl>
-                <bibl>
-                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
-                </bibl>
-              </listBibl>
-            </note>
-            <note type="description" xml:lang="de">
-              <p>Wald- und Wieshang nordöstlich des Dorfes Eschen, auf dem Eschnerberg, zwischen Gampriner und Maurer Gemeindegrenze.</p>
             </note>
           </place>
           <place type="V" xml:id="lub-places-530">
@@ -15063,6 +14960,33 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Wiesen nördlich des Dorfes Ruggell, an der Landesgrenze zu Vorarlberg (Stadtgemeinde Feldkirch); teilweise feucht.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-651">
+            <placeName type="main" xml:lang="de">Büel (Gamprin)</placeName>
+            <placeName type="full" xml:lang="de">Büel (Gamprin) / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">bueel (gamprin)</placeName>
+            <location>
+              <geo>47.22102 9.51317</geo>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">651</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10347590"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen, Häuser und Strasse in Gamprin, nordöstlich der Hala und westlich des Bretscha.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-652">
@@ -18088,6 +18012,96 @@
               <p>Abgegangene Kapell in Triesen. Erstmals erwähnt 1520.</p>
             </note>
           </place>
+          <place type="A" xml:id="lub-places-862">
+            <placeName type="main" xml:lang="de">Frischenberg (Herrschaft)</placeName>
+            <placeName type="full" xml:lang="de">Frischenberg (Herrschaft) / Sennwald (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">frischenberg (herrschaft)</placeName>
+            <location>
+              <settlement xml:lang="de">Sennwald</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">862</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Burg_Frischenberg"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Herrschaft rund um die gleichnamige Burg, zeitweise in anderem Besitz als Burg und Herrschaft Hohensax. Die HErrschaft ging im 16. Jahrhundert in der Herrschaft Sax-Forstegg auf.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-863">
+            <placeName type="main" xml:lang="de">St. Ulrich, Kapelle</placeName>
+            <placeName type="full" xml:lang="de">St. Ulrich, Kapelle / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">st. ulrich, kapelle</placeName>
+            <location>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">863</idno>
+            <note type="description" xml:lang="de">
+              <p>Abgegangene Kapelle im gleichnamigen Weiler.</p>
+            </note>
+          </place>
+          <place type="T" xml:id="lub-places-864">
+            <placeName type="main" xml:lang="de">Munterdun</placeName>
+            <placeName type="full" xml:lang="de">Munterdun / Sevelen (St. Gallen)</placeName>
+            <placeName type="sort" xml:lang="de">munterdun</placeName>
+            <placeName type="alternative" xml:lang="de">Montterthon</placeName>
+            <location>
+              <geo>47.133007 9.467499</geo>
+              <settlement xml:lang="de">Sevelen</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">864</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4053244"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Breite, bewaldete Kuppe, quer über den unteren Seveler Berg verlaufend, nordwestlich des Weilers St. Ulrich.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-866">
+            <placeName type="main" xml:lang="de">Hanenau</placeName>
+            <placeName type="full" xml:lang="de">Hanenau / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">hanenau</placeName>
+            <placeName type="alternative" xml:lang="de">Hewen Öw</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">866</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Standort eine Rheinfähre.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-867">
+            <placeName type="main" xml:lang="de">Egg</placeName>
+            <placeName type="full" xml:lang="de">Egg / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">egg</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">867</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -18135,7 +18149,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-12-12T10:04:04+01:00">teiHeader was automatically produced from the database 2025-12-12T10:04:04+01:00</change>
+      <change when="2025-12-19T15:51:30+01:00">teiHeader was automatically produced from the database 2025-12-19T15:51:30+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

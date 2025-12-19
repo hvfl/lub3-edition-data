@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1145">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schiedsspruch zwischen Buchs und Schaan um Rheinwuhren</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1145">LI-LA, RA 41/03/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Juvenalis Kreder, Landvogt in Vaduz, Schellenberg und Blumenegg, und Wolfgang Blumer, Landvogt in Werdenberg und Wartau, des Rats von Glarus, setzen zur Bekräftigung des Entscheids vom 3. Mai 1578 (vgl. [CH-StASG, AA 3 U 16](/objects/655)) Hintermarken im Bartlegrosch in Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-169">Damm</term>
+          <term ref="lub-keywords-440">hintermarch</term>
+          <term ref="lub-keywords-404">strich(wuer)</term>
+          <term ref="lub-keywords-443">schinung</term>
+          <term ref="lub-keywords-444">werklafter</term>
+          <term ref="lub-keywords-442">möni</term>
+          <term ref="lub-keywords-400">alber</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1578-07-07">7. Jul 1578</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-561">Blumer, Wolfgang</persName>
+          <date when="1578-07-07">7. Jul 1578</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_41_03_04-0001.jpg" xml:id="lub-media-2859" source="li-la-ra-41-03-04-1-klein.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_03_04-0002.jpg" xml:id="lub-media-2860" source="li-la-ra-41-03-04-2-klein.jpg" corresp="B"/>
+    <graphic url="li-la__ra_41_03_04-0003.jpg" xml:id="lub-media-2861" source="li-la-ra-41-03-04-3-klein.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2859" n="1"/><lb n="1"/>Wur mitt namen <persName ref="lub-actors-24">Juvenalis Kreder</persName>, derzeitt landtvogt 
+<lb n="2"/>der herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> und <placeName ref="lub-places-12">Pluomeneckh</placeName>, 
+<lb n="3"/>und <persName ref="lub-actors-561">Wolffganng Pluomer</persName>, des rhats zu <placeName ref="lub-places-72">Glarüs</placeName>, der
+<lb break="no" n="4"/>weül landtvogt der grave- und herrschafften
+<lb n="5"/><placeName ref="lub-places-73">Werdenberg</placeName> und <placeName ref="lub-places-149">Wartauw</placeName>, bekhennen offentlich und 
+<lb n="6"/>thun khundt aller menigkhlichen mit dem brieve, 
+<lb n="7"/>demnach kurtzverscheiner zeitt und weülen sich zwischen 
+<lb n="8"/>unseren ampts underthonen baider kilchspeln <placeName ref="lub-places-53">Schane</placeName> 
+<lb n="9"/>und <placeName ref="lub-places-148">Baux</placeName> wuorens wegen am wasser dem <placeName ref="lub-places-103">Rhein</placeName> 
+<lb n="10"/>ettliche nachpeürliche spenn und irrungen zugetragen 
+<lb n="11"/>unnd begeben haben und so weitt komen, das sy 
+<lb n="12"/>sich zu baiderseitz uff den wolgebornen herrenn, 
+<lb n="13"/>hern <persName ref="lub-actors-164">Ulrich Philipsenn, freyherren von der Hohensax</persName>, 
+<lb n="14"/>hern zu <placeName ref="lub-places-164">Sax, Forsteckh</placeName> und <placeName ref="lub-places-862">Frischenberg</placeName> etc., auch die 
+<lb n="15"/>ernvesten, furnemen und weysen hern <persName ref="lub-actors-569">Paulus Furten
+<lb break="no" n="16"/>bach</persName> und <persName ref="lub-actors-570">Christoff Brockhen</persName>, baiden altten statt
+<lb break="no" n="17"/>aman zu <placeName ref="lub-places-10">Veldtkurch</placeName>, auch <persName ref="lub-actors-571">Jacob Graffen</persName>, hauptman,
+<lb n="18"/>banerher und landtschreibern der graveschafft 
+<lb n="19"/><placeName ref="lub-places-91">Doggenburg</placeName>, als in diser sachen erpettnen zusatzen, 
+<lb n="20"/>dieselb güettlich oder rechtlich usszesprechen und zuv<unclear>er</unclear>
+<lb break="no" n="21"/>ainigen veranlasst und verglichen, die auch under
+<lb n="22"/>anderm vermoge spruchs, auch uffgerichter brieven und 
+<lb n="23"/>siglen, innen, den underthonen des kilchspels 
+<lb n="24"/><placeName ref="lub-places-53">Schane</placeName>, ain neuw <term ref="lub-keywords-404">streichwuor</term> in <placeName ref="lub-places-718">Dornauw Giessen</placeName> 
+<lb n="25"/>von dem pfal ane, so im würbel steehett, durch 
+<lb n="26"/>nider richtigs der kredi und schnur nach in das wuor 
+<pb facs="lub-media-2860" n="2"/>
+<lb n="27"/>hinab, so ongevarlich vor ailff jaren erpauwen worden 
+<lb n="28"/>one verhinderung der underthonen des kilchspels <placeName ref="lub-places-148">Baux</placeName>, 
+<lb n="29"/>zefieren und uffzerichten erkhandt, innen auch durch sie, 
+<lb n="30"/>die wol- und erstgemelte herrn zusätze und spruch
+<lb break="no" n="31"/>leuth, die marckhenn selbigen neuw bewilligten unnd
+<lb n="32"/>erkhandten wuors angezaigt und gewisen und dar
+<lb break="no" n="33"/>neben baiden parthyen ufferlegt und bevolhenn
+<lb n="34"/>wordenn, zu besserer sicherhaitt und vergwissung 
+<lb n="35"/>derselben marckhen gleich oneverzug <term ref="lub-keywords-440">hindermarckhen</term> 
+<lb n="36"/>mitt ainandern uffzerichten und zesetzen, da sy 
+<lb n="37"/>sich auch als baldt als datho diss brieffs aines ge
+<lb break="no" n="38"/>raumpten tags verglichen und in unserer, auch baider
+<lb break="no" n="39"/>seitz dazuverordneten gegenwürtigkaitt anfenckhlichs
+<lb n="40"/>ainen stain zur <term ref="lub-keywords-440">hindermarckh</term> in <persName ref="lub-actors-543">Joachim Quaders</persName> 
+<lb n="41"/>guott (genandt <placeName ref="lub-places-551">Bradlagross</placeName>) gesetzt. Von demselben 
+<lb n="42"/>stain soll es hinüber in <placeName ref="lub-places-863">Sanct Ulrichs Kirchen</placeName> richtigs 
+<lb n="43"/>der kredi und <term ref="lub-keywords-443">schinung</term> nach biss zu erstgenandtem 
+<lb n="44"/>obristem pfal dises jetzigen bewilligten oder gesproch
+<lb break="no" n="45"/>nen wuors sein und gemessen werden ainhundert
+<lb n="46"/>zwentzig neün <term ref="lub-keywords-444">weerklaffter</term>. Zum andern 
+<lb n="47"/>haben sy ongever in mitten hinabwertz noch ainen 
+<lb n="48"/>stain under ainen grossen <term ref="lub-keywords-400">alber</term> zur <term ref="lub-keywords-440">hindermarckh</term> 
+<lb n="49"/>gesetzt, von welchem es hinuber in <placeName ref="lub-places-864">Montterthoner</placeName> 
+<lb n="50"/>rüfi in neuwenn stainbruch strackhs der <term ref="lub-keywords-442">münni</term>, 
+<lb n="51"/><term ref="lub-keywords-443">schinung</term> und kredi nach biss in mittlern pfal 
+<lb n="52"/>achtzig sechs <term ref="lub-keywords-444">weerklaffter</term> sein solle. Letzstlich sy denn 
+<lb n="53"/>underen und drittenn stain oberhalb ainer grossenn 
+<lb n="54"/><term ref="lub-keywords-400">albern</term> auff ain bückhlin oder höhin gesetzt, der 
+<lb n="55"/>von dannen hinuber mitten in die gassenn, 
+<lb n="56"/>so zwischen <persName ref="lub-actors-2578">Jergenn Mundtners</persName>  auch <persName ref="lub-actors-2074">Sigmundt</persName> und  
+<lb n="57"/><persName ref="lub-actors-2577">Hansen, geprüedern, der Schwennern</persName> güettere in 
+<lb n="58"/>das holtz hinauff gheett, der <term ref="lub-keywords-443">schinung</term> und kredi 
+<lb n="59"/>strackhs biss zum underisten pfal haben und gemessen 
+<lb n="60"/>werden solle ainhundertt vierdtzehen <term ref="lub-keywords-444">weerklaffter</term>, 
+<lb n="61"/>alles <placeName ref="lub-places-10">Veldtkurch</placeName> mess. Diser jetzgenandten uffge
+<lb break="no" n="62"/>richten <term ref="lub-keywords-440">hinder marckhen</term> seindt baide thail ainander gut
+<lb n="63"/>kandtlich und wol zefriden gewesst, unns auch daruff 
+<lb n="64"/>dienstliches vleisses angeruoffen und gepetten, wur 
+<lb n="65"/>woltten solche <term ref="lub-keywords-440">hindermarckhen</term> in schrifften verfassen und 
+<lb n="66"/>jedem thail under unseren anhangenden insigeln brieff
+<lb break="no" n="67"/>lichenn uhrkhundt mitthailen, sich deren in furfal<unclear>lender</unclear>
+<lb n="68"/>noth zugebruchen haben, des wur innen, wie billich, 
+<lb n="69"/>nicht abschlagen noch verwidern sollen oder wellen. 
+<lb n="70"/>Unnd hierumben des alles zu warem uhrkhundt 
+<lb n="71"/>und merer gezeügnus haben wur zwen gleichluttendt 
+<lb n="72"/>brieve mit unseren anhangenden insigeln (doch 
+<lb n="73"/>uns und unseren erben in allwege one schaden) 
+<lb n="74"/>verfertigen und jedem thail derselben ainen zu
+<lb break="no" n="75"/>stellen und uberanttwurten lassen. Geben unnd
+<lb n="76"/>geschehenn den <origDate when="1578-07-07">sybenden julii von Cristi, unsers lieben 
+<lb n="77"/>hern und seeligmachers, gepurtt gezaltt funffzehenhundert 
+<lb n="78"/>sybendtzig und acht jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2861" n="1"/><lb n="1"/>Bradlagroß. 
+</p>
+        <p><lb n="2"/>Copy 
+<lb n="3"/>der uffgerichten hindermackhen, 
+<lb n="4"/>so hinder dem 
+<lb n="5"/>wur bey unserem, dem 
+<lb n="6"/>Vadutzer, wur inn Auw 
+<lb n="7"/>auffgericht den <unclear>7.</unclear> july 
+<lb n="8"/>1578. 
+</p>
+        <p><lb n="9"/>Schan, Vaduz 
+<lb n="10"/><unclear>und</unclear><lb n="11"/>Buchs. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
