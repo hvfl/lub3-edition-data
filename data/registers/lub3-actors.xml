@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="de" data-app-theme="standard">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="">
+    <meta name="keywords" lang="de" content="Archiv Anton">
+    <meta name="keywords" lang="en" content="Archives Anton">
+    <meta name="author" content="k-r, Zürich">
+    <meta name="csrf-token" content="IsCQ8Ey95hz8m51yE9Gc6GYzxolfbhv7WZNzb2FQ">
+
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="https://lub.anton.ch">
+    <meta property="og:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200&refreshcache=699c429ceb5b9">
+
+    <link rel="icon" sizes="256x256" type="image/png" href="/favicons/android-icon-256x256.png"><link rel="icon" sizes="192x192" type="image/png" href="/favicons/android-icon-192x192.png"><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png"><link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png"><link rel="icon" sizes="96x96" type="image/png" href="/favicons/favicon-96x96.png"><link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicons/favicon-32x32.png"><link rel="icon" sizes="16x16" type="image/png" href="/favicons/favicon-16x16.png"><link rel="manifest" href="/favicons/manifest.json"><link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+    <meta name="theme-color" content="#ffffff">
+
+    <title></title>
+    <link rel="preload" as="style" href="https://lub.anton.ch/build/assets/main-XbB9iFdk.css" /><link rel="stylesheet" href="https://lub.anton.ch/build/assets/main-XbB9iFdk.css" data-navigate-track="reload" />    
+    <link rel="stylesheet" href="https://lub.anton.ch/build/assets/anton-standard-style-B5gqO7X5.css">
+
+    <link rel="stylesheet" href="/css/fontawesome-all.min.css">
+
+    
+            <style>
+            @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;1,300;1,400;1,600&display=swap');
+
+:root {
+    --navbar-bg-color: #fff;
+    --header-color: #6aa241;
+    --link-color: #6aa241;
+    --navbar-links-color: black;
+    --navbar-links-color-active: #424242;
+    --primary-bg-color: #6aa241;
+}
+body {
+    font-family: 'fira_sansregular', sans-serif;
+}
+
+.navbar-light { 
+background-color: var(--navbar-bg-color); }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 600; color: var(--header-color)} 
+a { color: var(--link-color) }
+
+.navbar-light .navbar-nav > li > a:link, .languageswitcher a.active_language:link, .navbar-light .navbar-nav > li > a:visited, .languageswitcher a.active_language:visited { color: var(--navbar-links-color); -webkit-filter: invert(0); filter: invert(0); }
+
+.navbar-light .navbar-nav > li > a:hover, .navbar-light .navbar-nav > li > a:focus, .languageswitcher a.active:link, .languageswitcher a.active:visited { color: var(--navbar-links-color-active);}
+
+.navbar-light .navbar-nav > .active > a, .navbar-light .navbar-nav > .active > a:hover, .navbar-light .navbar-nav > .active > a:focus { color: var(--navbar-links-color-active); background-color: #E7E7E7; }
+
+.pagination>li>a, .pagination>li>span {
+  color: var(--primary-bg-color) !important;
+}
+
+.pagination>.active>span {
+  color: white !important;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+  background-color: var(--primary-bg-color) !important;
+  border-color: var(--primary-bg-color) !important;
+}
+
+.btn-primary { color:#fff; background-color:var(--primary-bg-color); border-color: var(--primary-bg-color) }
+.btn-primary:hover { color:#424242; background-color:var(--primary-bg-color); border-color: var(--primary-bg-color)}
+
+#logo {
+  width: auto;
+  height: 50px;
+  margin-top: -3px;
+  margin-right: 20px;
+}
+        </style>
+    
+    <script>
+        window.Anton = {
+            locale: 'de',
+            theme: {
+                choicesBsClasses: {
+                    containerOuter: ['choices-container--bootstrap-5', 'position-relative'],
+                    containerInner: ['choices__inner', 'form-control'],
+                    listDropdown: ['choices__list--dropdown'],
+                    input: ['choices__input', 'form-control'],
+                    button: ['choices__button', 'btn-close', 'btn-sm']
+                }
+            }
+        };
+    </script>
+    <script>
+        let theme = localStorage.getItem('theme') ?? 'auto';
+        let fallback = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        
+        if (!['light', 'dark'].includes(theme)) {
+            theme = fallback;
+        }
+        document.documentElement.setAttribute("data-bs-theme", theme);
+    </script>
+
+    <link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/app-BncyH7gy.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-DXDSVNZv.js" /><script type="module" src="https://lub.anton.ch/build/assets/app-BncyH7gy.js" data-navigate-track="reload"></script>    
+    <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
+        
+    <!-- use a google font -->
+    
+</head>
+<body>
+
+<div class="navbar navbar-light navbar-expand-lg fixed-top " role="navigation">
+    <div class="container">
+        <div class="navbar-header flex-grow-1 flex-lg-grow-0">
+            <button class="navbar-toggler float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="icon-bar fas fa-bars" style="font-size: 1.375rem"></i>
+            </button>
+                            <a href="https://lub.anton.ch" class="navbar-brand"><img id="logo" alt="" src="/logo/show" height="60"></a>
+                    </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="navbar-nav">
+                <li  class="nav-item"><a class="nav-link px-3" href="/objects?parent=1">Katalog</a></li>
+<li class="nav-item dropdown">
+    <a href="#" class="nav-link py-2 px-3" data-bs-toggle="dropdown" aria-expanded="false">
+        Register
+        <i class="bi bi-chevron-down"></i>
+    </a>
+    <ul class="dropdown-menu p-3" style="width: max-content; !important;">
+        <li>
+            <a href="/actors"><i class="bi bi-link-45deg"></i> Actors</a>
+        </li>
+        <li>
+            <a href="/places"><i class="bi bi-link-45deg"></i> Places</a>
+        </li>
+        <li>
+            <a href="/keywords"><i class="bi bi-link-45deg"></i> Keywords</a>
+        </li>
+    </ul>
+</li>
+
+
+    <li class="nav-item">
+        <a class="nav-link" href="https://lub.anton.ch/admin">Admin</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="https://lub.anton.ch/help">Hilfe</a>
+    </li>
+   
+
+
+            </ul>
+
+            <ul class="navbar-nav d-flex ms-md-auto align-items-lg-center">
+                                    <li class="nav-item dropdown">
+    <a href="#" class="nav-link py-2 px-3" data-bs-toggle="dropdown" aria-expanded="false">
+        <i class="bi bi-search fs-5"></i>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end dropdown-search p-3">
+        <li>
+            <form method="GET" action="https://lub.anton.ch/objects/simplesearch" accept-charset="UTF-8" class="form">
+            <div class="input-group input-group-sm">
+                <input class="form-control" placeholder="Suche" name="fulltext" type="text" value="">
+                <button type="submit" class="btn btn-outline-secondary"><i class="bi bi-search fs-5"></i></button>
+            </div>
+            </form>
+        </li>
+                    <li>
+                <a href="https://lub.anton.ch/objects/search" class="py-2 px-3"><span
+                        class="bi bi-search fs-5"></span> Erweiterte Suche</a>
+            </li>
+            <li>
+                <a href="/actors"><i class="bi bi-link-45deg"></i> Akteurinnen/Akteure</a>
+            </li>
+            <li>
+                <a href="/places"><i class="bi bi-link-45deg"></i> Orte</a>
+            </li>
+            <li>
+                <a href="/keywords"><i class="bi-link-45deg"></i> Schlagwörter</a>
+            </li>
+            </ul>
+</li>
+                
+                <li class="nav-item dropdown">
+            <a href="#" class="nav-link py-2 px-3" data-bs-toggle="dropdown" aria-expanded="false">
+            anton
+            <i class="bi bi-chevron-down"></i>
+        </a>
+         <ul class="dropdown-menu dropdown-menu-end p-3">
+            <li><a href="https://lub.anton.ch/profile/1">Profil</a></li>
+                            <li><a href="https://lub.anton.ch/users/1/history">Editors History</a></li>
+                        <li><a href="https://lub.anton.ch/logout" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
+                <form id="logout-form"
+                  action="https://lub.anton.ch/logout"
+                  method="POST"
+                  style="display: none;">
+                  <input type="hidden" name="_token" value="IsCQ8Ey95hz8m51yE9Gc6GYzxolfbhv7WZNzb2FQ" autocomplete="off">
+                </form>
+            </li>
+        </ul>
+    </li>
+
+                <li class="nav-item languageswitcher navbar-text d-flex align-items-lg-center">
+                                    </li>
+                
+                <li class="nav-item py-2 py-lg-1 col-12 col-lg-auto">
+                    <div class="vr d-none d-lg-flex h-100 mx-lg-2 text-white"></div>
+                    <hr class="d-lg-none my-2 text-white-50">
+                </li>
+                
+                <li class="nav-item dropdown">
+    <button class="btn btn-link nav-link py-2 px-0 px-lg-2 d-flex align-items-center" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme (dark)">
+                        <span class="theme-icon">
+                            <i class="bi bi-circle-half invisible me-2"></i>
+                        </span>
+        <span class="d-lg-none me-1" id="bd-theme-text">Toggle theme</span>
+        <i class="bi bi-chevron-down"></i>
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end toggle-theme-mode" aria-labelledby="bd-theme-text">
+        <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                <i class="theme-icon bi bi-sun-fill me-2 "></i>
+                Light
+                <i class="bi bi-check2 ms-auto d-none"></i>
+            </button>
+        </li>
+        <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="true">
+                <i class="theme-icon bi bi-moon-stars-fill me-2 "></i>
+                Dark
+                <i class="bi bi-check2 ms-auto d-none"></i>
+            </button>
+        </li>
+        <li>
+            <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="false">
+                <i class="theme-icon bi bi-circle-half me-2 "></i>
+                Auto
+                <i class="bi bi-check2 ms-auto d-none"></i>
+            </button>
+        </li>
+    </ul>
+</li>            </ul>
+        </div><!--/.navbar-collapse -->
+    </div>
+</div>
+<div class="container">
+        <!-- check for flash notification message -->
+        <!-- check for warning notification message -->
+        <!-- check for error flash var -->
+        <!-- check for error flash var -->
+            <div id="flash_error" class="alert alert-danger alert-dismissible" role="alert">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    <ul><li>The ids parameter is too long.</li></ul>
+</div>
+    
+    
+<div class="row">
+    <div class="col-md-6">
+                <h3>Liechtensteinisches Urkundenbuch (LUB III)</h3>
+<p>Anton dient der Quellensammlung für das LUB III.</p>
+<h4>Kontakt</h4>
+<p><a href="mailto:katharina.arnegger@historischerverein.li">katharina.arnegger@historischerverein.li</a><br />
+<a href="mailto:stefan.frey@historischerverein.li">stefan.frey@historischerverein.li</a></p>
+<address>
+Liechtensteinisches Urkundenbuch <br>
+c/o Historischer Verein für das Fürstentum Liechtenstein  <br>
+Plankner Strasse 39  <br>
+9494 Schaan  <br>
+Liechtenstein   <br>
+</address>
+
+        <br>
+                    </div>
+
+    <div class="col-md-6">
+                                    <div class="row">
+    <div class="col-md-12">
+        <h4>Suche</h4>
+            
+            <form method="GET" action="https://lub.anton.ch/objects/simplesearch" accept-charset="UTF-8">
+        <div class="mb-3">
+            <input class="form-control" placeholder="Volltext" name="fulltext" type="text" value="">
+        </div>
+        <div class="mb-3">
+            <input class="form-control" placeholder="Signatur" name="identifier" type="text" value="">
+        </div>
+        <div class="form-row">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <input class="form-control" placeholder="Entstehungsdatum (Start)" name="creation_min" type="text" value="">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <input class="form-control" placeholder="Entstehungsdatum (Ende)" name="creation_max" type="text" value="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+           <button type="submit" class="btn btn-primary">Suche</button>
+        </div>
+        </form>
+    </div>
+</div>
+                <br>
+                <a href="https://lub.anton.ch/objects/search">Erweiterte Suche</a>
+                <br>
+                        
+                                <br>
+                        
+        
+        <div class="row">
+    <div class="col-12">
+        <img src="https://lub.anton.ch/admin/images/image.jpg" class="img-fluid attachment-post-thumbnail" alt="">
+        <figcaption class="figcaption"></figcaption>
+    </div>
+</div>
+        
+            </div>
+</div>
+
+
+    <hr class="footerline my-4">
+    <footer class="footer">
+        <div class="row">
+            <div class="col-md-9 col-12 col-sm-12">
+                <p><small>k &amp; r | Sihlfeldstrasse 89 | 8004 Zürich | +41 44 242 77 50 | <a href="mailto:anton@k-r.ch"><a href="mailto:anton@k-r.ch">anton@k-r.ch</a></a></small></p>
+
+            </div>
+                            <div class="col-md-3 hidden-xs col-sm-12 text-end">
+                    <small>Anton v0.44.0 lub</small>
+                </div>
+                    </div>
+    </footer>
+
+</div> <!-- /container -->
+
+<script src="/livewire/livewire.min.js?id=61e33937"   data-csrf="IsCQ8Ey95hz8m51yE9Gc6GYzxolfbhv7WZNzb2FQ" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+
+<!-- Scripts are placed here -->
+<link rel="preload" as="style" href="https://lub.anton.ch/build/assets/anton-edit-script-BuD46uBV.css" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/anton-edit-script-oPnDc9SQ.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-DXDSVNZv.js" /><link rel="stylesheet" href="https://lub.anton.ch/build/assets/anton-edit-script-BuD46uBV.css" data-navigate-track="reload" /><script type="module" src="https://lub.anton.ch/build/assets/anton-edit-script-oPnDc9SQ.js" data-navigate-track="reload"></script>
+</body>
