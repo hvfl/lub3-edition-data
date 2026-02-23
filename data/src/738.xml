@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Verzeichnis der Gerechtigkeiten der Pfarrpfründe Eschen</title>
+        <title>Entscheid im Zehntstreit zwischen dem Kloster Pfäfers und dem Pfarrer von Eschen</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
@@ -12,15 +12,20 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Das vorliegende Dokument dürfte auf einer Urkunde vom 19. September 1535 beruhen, mit der ein Gericht unter dem Vorsitz eines bischöflichen Vikars den Zehntstreit zwischen dem Kloster Pfäfers und dem Pfarrer von Eschen entschied. Die durch ein ausführliches Regest bei Büchel, Eschen, S. 23, bekannte Urkunde ist heute nicht mehr auffindbar.</p>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-738">LI-LA, PfäfA 22/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1513 – 1555 / Beschreibstoff: Papier, 3 Seiten</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-738">LI-LA, PfäfA 21/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 16./17. Jahrhundert / Beschreibstoff: Papier, 3 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Einigung über einen Zehntstreit zwischen dem Kloster Pfäfers und dem Pfarrer in Eschen.</p>
+        <p>Gütlicher Entscheid in einem Zehntstreit zwischen dem Kloster Pfäfers und dem Pfarrer in Eschen: Der Pfarrer darf weiterhin den ganzen Zehnten von vier Weingärten beziehen. Der Zehnt von den übrigen Weingärten gehört zu zwei Drittel dem Kloster und zu einem Drittel dem Pfarrer. Vom Neubruchzehnt sollen künftig ebenfalls zwei Drittel dem Kloster und ein Drittel dem Pfarrer zustehen. Der Zehnt von den Grundstücken der Pfarrpfründe soll ganz dem Pfarrer zukommen, sofern er nachweisen kann, dass dies immer schon der Fall war. Falls er dies nicht kann, sollen zwei Drittel des Zehnten dem Kloster und ein Drittel dem Pfarrer zustehen. Der Zehnt in Nendlen soll weiterhin dem Pfarrer zukommen. Der Pfarrer soll dem Kloster das halbe Fuder Wein, das man dem verstorbenen Lukas Konrad für seine Pension entrichten musste, für das letzte Jahr bezahlen.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -29,24 +34,26 @@
         <keywords>
           <term ref="lub-keywords-56">Zehnt</term>
           <term ref="lub-keywords-450">Neubruch (Noval)</term>
+          <term ref="lub-keywords-138">Wein</term>
+          <term ref="lub-keywords-466">widem</term>
         </keywords>
       </textClass>
       <correspDesc>
         <correspAction type="sent">
-          <date from="1513" to="1555">1513 – 1555</date>
+          <date when="1535-09-19">19. Sep 1535</date>
         </correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="li-la__pf-fa_22_01-0001.jpg" xml:id="lub-media-1542" source="pfafa-21-01-s01.jpg" corresp="B"/>
-    <graphic url="li-la__pf-fa_22_01-0002.jpg" xml:id="lub-media-1543" source="pfafa-21-01-s02.jpg" corresp="B"/>
-    <graphic url="li-la__pf-fa_22_01-0003.jpg" xml:id="lub-media-1544" source="pfafa-21-01-s03.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_01-0001.jpg" xml:id="lub-media-3223" source="pfafa-21-01-s03-klein.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_01-0002.jpg" xml:id="lub-media-3224" source="pfafa-21-01-s02-klein.jpg" corresp="B"/>
+    <graphic url="li-la__pf-fa_21_01-0003.jpg" xml:id="lub-media-3225" source="pfafa-21-01-s01-klein.jpg" corresp="B"/>
   </facsimile>
   <text>
     <body>
       <div type="main">
-        <p><pb facs="lub-media-1542" n="1"/><lb n="1"/>In den spennen, so sich zutragen zwuschen minem gnädigen herrn von  
+        <p><pb facs="lub-media-3225" n="1"/><lb n="1"/>In den spennen, so sich zutragen zwuschen minem gnädigen herrn von  
 <lb n="2"/><orgName ref="lub-actors-309">Pfafers</orgName> und dem pfarrherren in <placeName ref="lub-places-35">Eschen</placeName>, die sollen in der  
 <lb n="3"/>gütlichhait hinzelegen, sind diße nachvolgenden mittel gesucht  
 <lb n="4"/>und abgeredt, und jeder parthy geben sich daruff ze bedencken,  
@@ -64,17 +71,17 @@
 <lb n="14"/>dem gotzhuß <orgName ref="lub-actors-309">Pfäfers</orgName> zwen tail und dem pfarrherren der drittend  
 <lb n="15"/>des zehenden, wie von andren wingarten zugehören und volgen. 
 </p>
-        <p><lb n="16"/>Item der widemgütter halben, was widemgütter sind und nit zehenden  
+        <p><lb n="16"/>Item der <term ref="lub-keywords-466">widem</term>gütter halben, was widemgütter sind und nit zehenden  
 <lb n="17"/>geben, die sollen zehend fry beliben, welche aber derselben  
 <lb n="18"/>gütter zehenden geben, in denselben soll ain herr von <orgName ref="lub-actors-309">Pfäffers</orgName>  
 <lb n="19"/>och zwentail und der pfarrer den dritten tail zehenden haben. 
 <lb n="20"/>Doch vorbehalten, so der pfarrher gnugsamlich bybrächte,  
-<lb n="21"/>das er und sine vorfaren von demselben widemgütter, so zehenden  
+          <lb n="21"/>das er und sine vorfaren von demselben <term ref="lub-keywords-466">widem</term>gütter, so zehenden  
 <lb n="22"/>geben, lenger den menschlich gedechtnüß den zehenden gantz  
 <lb n="23"/>ingenomen und empffangen hetten, als dann sol es och, wie von  
 <lb n="24"/>alter här darby beliben. 
 </p>
-        <p><lb n="25"/>Item des zehenden halben züm endlen soll der pfarrherr den
+        <p><lb n="25"/>Item des zehenden halben zun <placeName ref="lub-places-118">Endlen</placeName> soll der pfarrherr den
 <lb break="no" n="26"/>selben hinfüro innemmen und empfahen, wie er desselben biß
 <lb break="no" n="27"/>här im bruch und besitzung geweßen ist, doch vorbehalten, 
 <lb n="28"/>das min gnädiger herr oder ain erster und convent zu <orgName ref="lub-actors-309">Pfäfers</orgName> sich  
@@ -82,7 +89,7 @@
 <lb break="no" n="30"/>kait sy darumb haben, und soll daruff aber beschehen, was 
 <lb n="31"/>billich und recht ist. 
 </p>
-        <p><pb facs="lub-media-1543" n="2"/><lb n="32"/>Item das ain herr von <orgName ref="lub-actors-309">Pfäfers</orgName> ain püttin mög verordnen,  
+        <p><pb facs="lub-media-3224" n="2"/><lb n="32"/>Item das ain herr von <orgName ref="lub-actors-309">Pfäfers</orgName> ain püttin mög verordnen,  
 <lb n="33"/>darin man den zehenden trage von den wingarten da  
 <lb n="34"/>zwen tail dem gotshuß <orgName ref="lub-actors-309">Pfäfers</orgName> und der drittail dem  
 <lb n="35"/>pfarrherren gehören und uß derselben puttin sol man  
@@ -91,8 +98,8 @@
 <lb n="38"/>parthien jedes jars uff ain andren wegn den zehenden ze  
 <lb n="39"/>tailen sich wirden verainigen. 
 </p>
-        <p><lb n="40"/>Item deshalben fuder wins halben, so der pfarrher uß  
-<lb n="41"/>mins gnädigen herrn von <orgName ref="lub-actors-309">Pfäfers</orgName> zwentail zehenden genomen,  
+        <p><lb n="40"/>Item des halben fuder wins halben, so der pfarrher uß  
+<lb n="41"/>mins gnädigen herrn von <orgName ref="lub-actors-309">Pfäfers</orgName> zwentail zehenden genomen  
 <lb n="42"/>hatt an die pension, die er doctor <persName ref="lub-actors-2358">Lucas Conratten</persName> seligen  
 <lb n="43"/>hatt müssen geben, sol der pfarrher umb die jar, in  
 <lb n="44"/>welchen er die pension bezalt hatt, unversuecht bliben.  
@@ -104,7 +111,7 @@
 </p>
       </div>
       <div type="back">
-        <p><pb facs="lub-media-1544" n="1"/><lb n="1"/>Ein Copy betrefned den  
+        <p><pb facs="lub-media-3223" n="1"/><lb n="1"/>Ein copy betrefend den  
 <lb n="2"/>span zwüschen einem  
 <lb n="3"/>herren von <orgName ref="lub-actors-309">Pfäffers</orgName>  
 <lb n="4"/>unnd einem pfarrer zu  

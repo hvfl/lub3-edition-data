@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Bestimmungen, wie man den Winzern zu Triesen und Vaduz die Reben verleiht</title>
+        <title>Fragmente zum Brandisischen Urbar</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
@@ -12,18 +12,27 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Zur Datierung und inhaltlichen Einordnung der Fragmente vgl. Klee, Urbare, S. 136-138, 145.</p>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="K">K: Konzept, Signatur: <ref type="identifier" target="lub-objects-626">LI-LA, U 43</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1509 / Beschreibstoff: Papier / Heft, 12 Seiten</witness>
+          <witness xml:id="K">K: Konzept, Signatur: <ref type="identifier" target="lub-objects-626">LI-LA, U 43</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: zwischen 1509 und 1517 / Beschreibstoff: Papier / Heft, 12 Seiten</witness>
         </listWit>
         <listBibl type="publications">
-          <bibl>Die entsprechende Passage im Brandisischen Urbar ediert in LUB I/4, S. 276-278.</bibl>
+          <bibl>Fragment 1: Die entsprechende Passage im Brandisischen Urbar ediert in LUB I/4, S. 276-278.</bibl>
+          <bibl>Fragmente 2 und 3: LUB I/4, S. 319-324.</bibl>
         </listBibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Bestimmungen, wie man den Winzern zu Triesen und Vaduz die Reben verleiht</p>
+        <p>Heft mit drei Fragmenten, die in Zusammenhang mit dem Brandisischen Urbar stehen:&#13;
+1. Bestimmungen, wie man den Winzern zu Triesen und Vaduz die Reben verleiht (Entwurf für die entsprechende Passage im Brandisischen Urbar).&#13;
+2. Frondienste, die in der Herrschaft Vaduz zu leisten sind.&#13;
+3. Frondienste, die in der Herrschaft Vaduz zu leisten sind, mit unvollständigen Einträgen zu Gütern in Triesenberg und Schaan.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -33,6 +42,7 @@
           <term ref="lub-keywords-269">Satzung</term>
           <term ref="lub-keywords-170">Weingarten</term>
           <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-376">marende</term>
         </keywords>
       </textClass>
       <correspDesc>
@@ -324,17 +334,17 @@
 <lb n="211"/>Und wenn die notdurft haischet, sind si min herren schuldig
 <lb n="212"/>helffen jagen.
 <pb facs="lub-media-1489" n="10"/>
-<lb n="213"/>Hinder <placeName ref="lub-places-138">Gulman</placeName> gelegen.
-<lb n="214"/>Ainer herrschaft kol holz stost ufwert an <placeName ref="lub-places-426">Milbuner weg</placeName>, abwert ann <placeName ref="lub-places-374">Bach</placeName>,
-<lb n="215"/>hindersichworz an stain.
-<lb n="216"/>Darinn hat ain herrschaft allain macht und gewalt zu besezen und <supplied>entsezen</supplied>.
+<lb n="213"/>Hinderm <placeName ref="lub-places-138">Gulman</placeName> glegen.
+<lb n="214"/>Ainr herrschaft kol holz stost ufwert an <placeName ref="lub-places-426">Milbuner weg</placeName>, abwert ann <placeName ref="lub-places-374">Bach</placeName>,
+<lb n="215"/>hinderhi<gap/> worz ann stain.
+<lb n="216"/>Darinn hat ain herrschaft allain macht und gewalt zu besezen und e<supplied>ntsezen</supplied>.
 </p>
-        <p><lb n="217"/>Item die güter bim <placeName ref="lub-places-33">Sloss</placeName>, bomgarrten, acker und wisen, wie von <supplied>allweg her</supplied>.
+        <p><lb n="217"/>Item die güter bim <placeName ref="lub-places-33">Sloss</placeName>, bomgarrten, acker und wisen, wie von <unclear>alter har</unclear>.
 </p>
         <p><lb n="218"/>Item ain wis uff <placeName ref="lub-places-427">Brabaton</placeName>.
 </p>
-        <p><lb n="219"/>Item zway man wisen uff <placeName ref="lub-places-373">Buxerow</placeName>, stost usfwerrt an amman <persName ref="lub-actors-296">Abrecht Wolfen</persName><lb n="220"/>gut, gen <placeName ref="lub-places-53">Schan</placeName> und abwert ans ammans und an der <orgName ref="lub-actors-1062">Grüschli</orgName> gut, abwert an daz
-<lb n="221"/><placeName ref="lub-places-428">Öwli</placeName>, und an <supplied><persName ref="lub-actors-1063">F. Bürklis</persName></supplied>erben, gem <placeName ref="lub-places-103">Ryn</placeName> wert an Jos <supplied>Rumpf</supplied> erben und an <persName ref="lub-actors-1061">Jacob Sennen</persName> erben güter.
+        <p><lb n="219"/>Item zway mann wisen uff <placeName ref="lub-places-373">Buxerow</placeName>, stost ufwerrt an amman <persName ref="lub-actors-296">Abrecht Wolfen</persName><lb n="220"/>gut, gen <placeName ref="lub-places-53">Schan</placeName> wert aber ans ammans und an der <orgName ref="lub-actors-1062">Grüschli</orgName> gut, abwert an daz
+                <lb n="221"/><placeName ref="lub-places-428">Öwli</placeName> und an <persName ref="lub-actors-1063"><unclear>F</unclear> Bürklis</persName>erben, gem <placeName ref="lub-places-103">Ryn</placeName> wert an <persName ref="lub-actors-2597">Jos Cunzis</persName> erben und an <persName ref="lub-actors-1061">Jacob Sennen</persName> erben güter.
 </p>
       </div>
       <div type="back">

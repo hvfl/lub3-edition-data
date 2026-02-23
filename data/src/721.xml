@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Einkünfte der Herrschaften Vaduz und Schellenberg</title>
+        <title>Verzeichnis der Einkünfte der Herrschaften Vaduz und Schellenberg</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
@@ -14,13 +14,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="A">A: Original,  Signatur: <ref type="identifier" target="lub-objects-721">LI-LA, U 51</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1538 / Beschreibstoff: Papier / Heft, 33 Seiten, gebunden</witness>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-721">LI-LA, U 51</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 1538 / Beschreibstoff: Papier / Heft, 33 Seiten, gebunden</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Verzeichnis der Einkünfte der Herrschaft in der Grafschaft Vaduz und der Herrschaft Schellenberg in der Mitte des 16. Jahrhunderts.</p>
+        <p>Verzeichnis der den Grafen von Sulz in der Grafschaft Vaduz und der Herrschaft Schellenberg zustehenden Steuern, Lehenzinsen und Zehnten.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -31,6 +31,11 @@
           <term ref="lub-keywords-419">tschuggeld</term>
           <term ref="lub-keywords-418">furleiti</term>
           <term ref="lub-keywords-410">werkäs</term>
+          <term ref="lub-keywords-431">Mühle</term>
+          <term ref="lub-keywords-127">Wirtshaus</term>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-174">Weizen</term>
         </keywords>
       </textClass>
       <correspDesc>
@@ -84,19 +89,19 @@
 </p>
         <p><pb facs="lub-media-1198" n="2"/><lb n="4"/>Herschafft <placeName ref="lub-places-7">Vaduz</placeName>. 
 </p>
-        <p><lb n="5"/>Item von der steur in der herschafft <placeName ref="lub-places-7">Vaduz</placeName><lb n="6"/>gevallen auf <date when="--11-11">Martini</date> lxxxxvii lb.d. 
-<lb n="7"/>Thut zu guldin	 i c. x. guldin. li kr. ii d. 
+        <p><lb n="5"/>Item von der steur in der herschafft <placeName ref="lub-places-7">Vaduz</placeName><lb n="6"/>gevallen auf <date when="--11-11">Martini</date> lxxxxvii lib. d. 
+                <lb n="7"/>Thut zu guldin i c x guldin li kr. iɨ d<note> 110 Gulden 51 Kreuzer 1,5 Pfennig.</note>. 
 <lb n="8"/>Darin hab ich von dem  
 <lb n="9"/>waibl den <date when="--12-15">xv thag 
 <lb n="10"/>decembris</date> empfanngen 
 <lb n="11"/>xxxx guldin. 
-<lb n="12"/>Me <persName ref="lub-actors-1559">Jerg Beringen</persName>  
+<lb n="12"/>Me <persName ref="lub-actors-1559">Jerg Beringern</persName>  
 <lb n="13"/>gebn x guldin. 
 </p>
         <p><lb n="14"/>Die bemelten steur soll ain jeder waybel  
 <lb n="15"/>benempter herschafft inziechen und die  
 <lb n="16"/>ainem vogt uberandtwurten, darvon ge
-<lb break="no" n="17"/>härt ime inziecherlon iiii lb.d.
+<lb break="no" n="17"/>härt ime inziecherlon iiii lib. d.
 <lb n="18"/>Me hatt er mir  
 <lb n="19"/>geben x guldin. 
 <lb n="20"/>Me hatt er den 
@@ -107,279 +112,278 @@
 <lb break="no" n="25"/>nomen viiii guldin.
 </p>
         <p><lb n="26"/>Und gehärt von disser steur dem aman  
-<lb n="27"/>gedachter herschafft zu lon auch iiii lb.d. 
+<lb n="27"/>gedachter herschafft zu lon auch iiii lib. d. 
 </p>
-        <p><lb n="28"/>Item auff der thyrollischen raitkhamer  
-<lb n="29"/>zu <placeName ref="lub-places-19">Ynnsprugg</placeName> gevallen järlich auff  
+        <p><lb n="28"/>Item auff der <orgName ref="lub-actors-2587">Thyrollischen Raitkhamer</orgName><lb n="29"/>zu <placeName ref="lub-places-19">Ynnsprugg</placeName> gevallen järlich auff  
 <lb n="30"/>die vier fronfassten jede l guldin  
-<lb n="31"/>summa ii c. guldin. 
+<lb n="31"/>summa ii c guldin. 
 </p>
         <p><pb facs="lub-media-1199" n="3"/><lb n="32"/>Item auff <date when="--09-29">sandt Michels tag</date> gevallen  
-<lb n="33"/>von dem huebampt zu <placeName ref="lub-places-10">Veldkirch</placeName> i c. guldin. 
+                <lb n="33"/>von dem <orgName ref="lub-actors-2588">Huebampt</orgName> zu <placeName ref="lub-places-10">Veldkirch</placeName> i c guldin. 
 </p>
         <p><lb n="34"/>Item zu <placeName ref="lub-places-61">Hall im Eintal</placeName> gevallen järlich  
 <lb n="35"/>ab der <placeName ref="lub-places-255">Salzpfannen</placeName> auff <date when="--11-30">sandt  
-<lb n="36"/>Andres tag</date> i c. xxv guldin. 
+        <lb n="36"/>Andras tag</date> i c xxv guldin. 
 </p>
-        <p><lb n="37"/>Darvan gehären meinem gnädigen herrn lxxx guldin. 
+        <p><lb n="37"/>Darvan gehören meinem gnädigen herrn lxxx guldin. 
 </p>
         <p><pb facs="lub-media-1200" n="4"/><lb n="38"/><placeName ref="lub-places-71">Balthers</placeName> dorff 
 </p>
-        <p><lb n="39"/>Item <persName ref="lub-actors-29">Göerg Pargendt</persName> zeinst von paiden  
+        <p><lb n="39"/>Item <persName ref="lub-actors-29">Göerg Pargandt</persName> zeinst von paiden  
 <lb n="40"/>taffern zu <placeName ref="lub-places-71">Balthers</placeName> und <placeName ref="lub-places-79">Trissen</placeName>  
-<lb n="41"/>ganzen scheffer iii lb. 
-<lb n="42"/>Der aman 
+<lb n="41"/>ganzen pheffer iii lib. 
+<lb n="42"/>Dett)<note> Abkürzung für "dedit= er gab". Vgl. Grun, S. 187.</note> aman 
 <lb n="43"/><persName ref="lub-actors-360">Kindlin</persName> dafür  
 <lb n="44"/>ii guldin. 
 </p>
         <p><lb n="45"/>Weiter zeinst<persName ref="lub-actors-29"> Jerg Pargandt</persName> die <term ref="lub-keywords-418">fur
-<lb break="no" n="46"/>laiti</term> von dem Kauffmans gut, so 
+<lb break="no" n="46"/>laiti</term> von dem kauffmans gut, so 
 <lb n="47"/>daselbst gevalt. 
 </p>
-        <p><lb n="48"/>Item die <term ref="lub-keywords-418">furlait</term> zu <placeName ref="lub-places-71">Balthers</placeName> ist nie  
+        <p><lb n="48"/>Item die <term ref="lub-keywords-418">furlaiti</term> zu <placeName ref="lub-places-71">Balthers</placeName> ist nie  
 <lb n="49"/>geben worden. 
 </p>
         <p><lb n="50"/>Mer zeinst<persName ref="lub-actors-29"> Jerg Pargandt</persName> laut ains  
-<lb n="51"/>zeinsbrieffs xi ß.d. 
+<lb n="51"/>zeinsbrieffs xi ß. d. 
 </p>
-        <p><lb n="52"/>Item <persName ref="lub-actors-765">Valentin Gesellen</persName> seliger erben  
-<lb n="53"/>zeinßend järlich x ß.d. 
-<lb n="54"/>Summa iii lb. pheffer 
-<lb n="55"/>und i lb. i ß.d. 
+        <p><lb n="52"/>Item <persName ref="lub-actors-2589">Valentin Gsellen</persName> seligen erben  
+<lb n="53"/>zeinsend järlich x ß. d. 
+<lb n="54"/>Summa iii lib. pheffer 
+<lb n="55"/>und i lib. i ß. d. 
 </p>
-        <p><pb facs="lub-media-1201" n="5"/><lb n="56"/>Item <persName ref="lub-actors-1560">Hans Erharts</persName> seligen erben  
-<lb n="57"/>zeinßen ab der wyß <placeName ref="lub-places-168">Selvaplon</placeName> x ß.d. 
+        <p><pb facs="lub-media-1201" n="5"/><lb n="56"/>Item <persName ref="lub-actors-1502">Hans Erharts</persName> seligen erben  
+<lb n="57"/>zeinsen ab der wyß <placeName ref="lub-places-168">Selvaplon</placeName> x ß. d. 
 </p>
-        <p><lb n="58"/>Item <persName ref="lub-actors-1561">Hans Ruesch genant Gsellen</persName><lb n="59"/>seligen erben zeinßen laut ains  
-<lb n="60"/>zeinsbrieffs i lb.d. 
-<lb n="61"/>Summa i lb. x ß.d. 
+        <p><lb n="58"/>Item <persName ref="lub-actors-1561">Hans Ruesch genant Gsellen</persName><lb n="59"/>seligen erben zeinsen laut ains  
+<lb n="60"/>zeinsbrieffs i lib. d. 
+<lb n="61"/>Summa i lib. x ß. d. 
 </p>
-        <p><pb facs="lub-media-1202" n="6"/><lb n="62"/><placeName ref="lub-places-79">Trissner</placeName> dorff 
+        <p><pb facs="lub-media-1202" n="6"/><lb n="62"/><placeName ref="lub-places-79">Trissen</placeName> dorff 
 </p>
-        <p><lb n="63"/>Item der miller zeinst von der muli  
-<lb n="64"/>daselbst iiii lb.d. 
+        <p><lb n="63"/>Dett) Item der miller zeinst von der muli  
+<lb n="64"/>daselbst iiii lib. d. 
 </p>
-        <p><lb n="65"/>Item <persName ref="lub-actors-1563">Hartman Pheiffer</persName> zeinst auff  
-<lb n="66"/><date when="--11-11">Martini</date> laut ains zeinsbrieffs viiii ß.d. 
+        <p><lb n="65"/>Dett) Item <persName ref="lub-actors-1563">Hartman Pheiffer</persName> zeinst auff  
+<lb n="66"/><date when="--11-11">Martini</date> laut ains zeinsbrieffs viiii ß. d. 
 </p>
-        <p><lb n="67"/>Gytt <persName ref="lub-actors-538">Liennhart Lyffer</persName> ii lib. xii ß.d. 
+        <p><lb n="67"/>Dett) Gytt <persName ref="lub-actors-538">Liennhart Lyffer</persName> ii lib. xii ß. d. 
 <lb n="68"/><del>Item <persName ref="lub-actors-420">Claus Liffers</persName> seligen erben und  
-<lb n="69"/>ire mithelffer zeinßen</del> 
+<lb n="69"/>ire mithelffer zeinsen</del> 
 </p>
-        <p><lb n="70"/>Mer zeinßen <persName ref="lub-actors-420">Claus Liffers</persName> seligen  
-<lb n="71"/>erben laut ains zeinsbrieffs xiiii ß.d.  
+        <p><lb n="70"/>Dett) Mer zeinsen <persName ref="lub-actors-420">Claus Liffers</persName> seligen  
+<lb n="71"/>erben laut ains zeinsbrieffs xiiii ß. d.  
 </p>
-        <p><lb n="72"/>Summa vii lib. xv ß.d.  
+        <p><lb n="72"/>Summa vii lib. xv ß. d.  
 </p>
         <p>
           <pb facs="lub-media-1203" n="7"/>
           <lb n="73"/>
           <placeName ref="lub-places-41">Trissnerberg</placeName>
         </p>
-        <p><lb n="74"/>Item <persName ref="lub-actors-1318">Peter</persName> und <persName ref="lub-actors-1564">Adam</persName> die Lamparten  
-<lb n="75"/>zeinßen iii ß.d. 
+        <p><lb n="74"/>Dett) Item <persName ref="lub-actors-1318">Peter</persName> und <persName ref="lub-actors-1564">Adam</persName> die Lamparten  
+<lb n="75"/>zeinsen iii ß. d. 
 </p>
-        <p><lb n="76"/>Item <persName ref="lub-actors-532">Stephan Schedler</persName> und seine mit
-<lb break="no" n="77"/>helffer zeinßen x. ß.d.
+        <p><lb n="76"/>Dett) Item <persName ref="lub-actors-532">Stephan Schedler</persName> und seine mit
+<lb break="no" n="77"/>helffer zeinsen x ß. d.
 </p>
-        <p><lb n="78"/>Item die <orgName ref="lub-actors-941">Walßer</orgName> zeinßen von der müli  
-<lb n="79"/>am <placeName ref="lub-places-41">Trissnerberg</placeName> gelegen ii lb. v ß.d. 
+        <p><lb n="78"/>Dett) Item die <orgName ref="lub-actors-941">Walser</orgName> zeinsen von der müli  
+<lb n="79"/>am <placeName ref="lub-places-41">Trissnerberg</placeName> gelegen ii lib. v ß. d. 
 </p>
-        <p><lb n="80"/>Item <persName ref="lub-actors-1565">Pauli Peckg</persName> zeinst laut ains zeins
-<lb break="no" n="81"/>brieffs i lb.d. 
+        <p><lb n="80"/>Dett) Item <persName ref="lub-actors-1565">Pauli Peckh</persName> zeinst laut ains zeins
+<lb break="no" n="81"/>brieffs i lib. d. 
 </p>
-        <p><lb n="82"/>Item <persName ref="lub-actors-1566">Claus Lampart</persName> zeinst nach  
-<lb n="83"/>vermög ains zeinsbrieffs x ß.d. 
+        <p><lb n="82"/>Dett) Item <persName ref="lub-actors-1566">Claus Lampart</persName> zeinst nach  
+<lb n="83"/>vermög ains zeinsbrieffs x ß. d. 
 </p>
-        <p><lb n="84"/>Item Cristan in der Reuti zeinst  
+        <p><lb n="84"/>Dett) Item Cristan in der Reuti zeinst  
 <lb n="85"/>laut ains zeinsbrieffs xiii ß. vi d. 
 </p>
-        <p><lb n="86"/>Summa v lb. i ß. vi d. 
+        <p><lb n="86"/>Summa v lib. i ß. vi d. 
 </p>
         <p><pb facs="lub-media-1204" n="8"/><lb n="87"/><placeName ref="lub-places-1">Vaduz</placeName> dorff  
 </p>
         <p><lb n="88"/>Item <persName ref="lub-actors-349">Hans Gantner</persName> zeinst von seiner  
-<lb n="89"/>taffern xv ß.d. 
+<lb n="89"/>taffern xv ß. d. 
 </p>
-        <p><lb n="90"/>Item <persName ref="lub-actors-53">Marx Lang</persName> zeinst iii ß.d. 
+        <p><lb n="90"/>Dett) Item <persName ref="lub-actors-53">Marx Lang</persName> zeinst iii ß. d. 
 </p>
-        <p><lb n="91"/>Mer zeinst <persName ref="lub-actors-53">Marx Lang </persName>viiii ß.d. 
+        <p><lb n="91"/>Dett) Mer zeinst <persName ref="lub-actors-53">Marx Lang </persName>viiii ß. d. 
 </p>
-        <p><lb n="92"/>Item <persName ref="lub-actors-347">Adam Frickh</persName> zeinst von seiner  
-<lb n="93"/>taffern xv ß.d. 
+        <p><lb n="92"/>Dett) Item <persName ref="lub-actors-347">Adam Frickh</persName> zeinst von seiner  
+<lb n="93"/>taffern xv ß. d. 
 </p>
-        <p><lb n="94"/>Mer zeinst <persName ref="lub-actors-347">Adam Frickh</persName> von ainem  
+        <p><lb n="94"/>Dett) Mer zeinst <persName ref="lub-actors-347">Adam Frickh</persName> von ainem  
 <lb n="95"/>guetli, ligt hinder meins gnädigen herrn  
-<lb n="96"/>torggel, ist erblechen i ß.d. 
+<lb n="96"/>torggel, ist erblechen i ß. d. 
 </p>
-        <p><lb n="97"/>Weiter zeinst <persName ref="lub-actors-347">Adam Frickh</persName> iii ß. viii d. 
+        <p><lb n="97"/>Dett) Weiter zeinst <persName ref="lub-actors-347">Adam Frickh</persName> iii ß. viii d. 
 </p>
-        <p><lb n="98"/>Item <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben zeinßend  
-<lb n="99"/>als lechentrager vii ß.d. 
+        <p><lb n="98"/>Item <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben zeinsend  
+<lb n="99"/>als lechentrager vii ß. d. 
 </p>
-        <p><lb n="100"/>Summa ii lb. xiii ß. viii d. 
+        <p><lb n="100"/>Summa ii lib. xiii ß. viii d. 
 </p>
-        <p><pb facs="lub-media-1205" n="9"/><lb n="101"/>Mer zeinßen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen  
-<lb n="102"/>erben v ß.d. 
+        <p><pb facs="lub-media-1205" n="9"/><lb n="101"/>Mer zeinsen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen  
+<lb n="102"/>erben v ß. d. 
 </p>
-        <p><lb n="103"/>Weiter zeinßen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen  
+        <p><lb n="103"/>Weiter zeinsen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen  
 <lb n="104"/>erben xi ß. vi d. 
 </p>
-        <p><lb n="105"/>Item <persName ref="lub-actors-851">Hainrich Jäger</persName> zeinst laut ains  
-<lb n="106"/>zeinsbrieffs i lb.d. 
+        <p><lb n="105"/>Dett) Item <persName ref="lub-actors-851">Hainrich Jäger</persName> zeinst laut ains  
+<lb n="106"/>zeinsbrieffs i lib. d. 
 </p>
-        <p><lb n="107"/>Mer zeinst <persName ref="lub-actors-851">Hainrich Jäger</persName> und <persName ref="lub-actors-1570">Joder</persName>,  
-<lb n="108"/>sein bruder, inhalt ains zeinsbrieffs i lib. v ß.d. 
+        <p><lb n="107"/>Dett) Mer zeinst <persName ref="lub-actors-851">Hainrich Jäger</persName> und <persName ref="lub-actors-1570">Joder</persName>,  
+<lb n="108"/>sein bruder, inhalt ains zeinsbrieffs i lib. v ß. d. 
 </p>
         <p><lb n="109"/>Item <persName ref="lub-actors-1568">Hans Mastralen</persName> seligen erben  
-<lb n="110"/>zeinßen vermög ains zeinsbrieffs x ß.d. 
+<lb n="110"/>zeinsen vermög ains zeinsbrieffs x ß. d. 
 </p>
-        <p><lb n="111"/>Item <persName ref="lub-actors-1569">Ulrich Aychlers</persName> seligen erben  
-<lb n="112"/>zeinßen als lechentragen xviii ß. iiii d. 
+        <p><lb n="111"/>Dett) Item <persName ref="lub-actors-1569">Ulrich Aychlers</persName> seligen erben  
+<lb n="112"/>zeinsen als lechentrager xviii ß. iiii d. 
 </p>
         <p><lb n="113"/>Summa iiii lib. viiii ß. x. d. 
 </p>
         <p><pb facs="lub-media-1206" n="10"/><lb n="114"/><placeName ref="lub-places-53">Schan</placeName> dorff 
 </p>
-        <p><lb n="115"/>Item her <persName ref="lub-actors-1572">Cristan Spiegel</persName> zeinst x ß.d. 
+        <p><lb n="115"/>Dett) Item her <persName ref="lub-actors-1572">Cristan Spiegel</persName> zeinst x ß. d. 
 </p>
-        <p><lb n="116"/>Item <persName ref="lub-actors-1571">Thoma Gsthach</persName>, genant Miller  
-<lb n="117"/>zeinst als lechentrager x ß.d. 
+        <p><lb n="116"/>Dett) Item <persName ref="lub-actors-1571">Thoma Gsthach</persName>, genant Miller, 
+<lb n="117"/>zeinst als lechentrager x ß. d. 
 </p>
-        <p><lb n="118"/>Item <persName ref="lub-actors-1574">Jerg Fritsch </persName>zeinst als lechen
+        <p><lb n="118"/>Dett) Item <persName ref="lub-actors-1574">Jerg Fritsch </persName>zeinst als lechen
 <lb break="no" n="119"/>trager iii ß. viii d.
 </p>
         <p><lb n="120"/>Item <persName ref="lub-actors-1573">Dorothe Spieglin</persName> zeinst vom gut,  
-<lb n="121"/><placeName ref="lub-places-371">Vingen</placeName> genant, iiii ß.d. 
+<lb n="121"/><placeName ref="lub-places-371">Vingen</placeName> genant, iiii ß. d. 
 </p>
-        <p><lb n="122"/>Gyt yez <persName ref="lub-actors-1576">Bartholome Mauter</persName> viiii ß.d. 
+        <p><lb n="122"/>Dett) Gyt yez <persName ref="lub-actors-435">Barthelome Maurer</persName> viiii ß. d. 
 <lb n="123"/><del>Item <persName ref="lub-actors-885">Hans Peters</persName> seligen erben  
-<lb n="124"/>zeinßen als lechentrager</del> 
+<lb n="124"/>zeinsen als lechentrager</del> 
 </p>
-        <p><lb n="125"/>Item <persName ref="lub-actors-1575">Hänsli Messmer</persName> zeinst iii ß. iiii d. 
+        <p><lb n="125"/>Dett) Item <persName ref="lub-actors-1575">Hänsli Messmer</persName> zeinst iii ß. iiii d. 
 </p>
-        <p><lb n="126"/>Item <persName ref="lub-actors-858">Stoffel Fritsche</persName> seligen erben  
-<lb n="127"/>zeinßen xiii ß.d. 
+        <p><lb n="126"/>Dett) Item <persName ref="lub-actors-858">Stoffel Fritschen</persName> seligen erben  
+<lb n="127"/>zeinsen xiii ß. d. 
 </p>
         <p><lb n="128"/>Summa ii lib. xiii ß. vi d. 
 </p>
-        <p><pb facs="lub-media-1207" n="11"/><lb n="129"/>Item <persName ref="lub-actors-1577">Hans Marxer</persName> zeinst x ß.d. 
+        <p><pb facs="lub-media-1207" n="11"/><lb n="129"/>Dett) Item <persName ref="lub-actors-1577">Hans Marxer</persName> zeinst x ß. d. 
 </p>
-        <p><lb n="130"/>Item <persName ref="lub-actors-1578">Hans Blaichinger</persName> zeinst ii ß.d. 
+        <p><lb n="130"/>Dett) Item <persName ref="lub-actors-1578">Hans Blaichinger</persName> zeinst ii ß. d. 
 </p>
-        <p><lb n="131"/>Item <persName ref="lub-actors-1579">Veit Laurenz</persName> zeinst von seiner  
-<lb n="132"/>taffern xv ß.d. 
+        <p><lb n="131"/>Dett) Item <persName ref="lub-actors-1579">Veit Laurenz</persName> zeinst von seiner  
+<lb n="132"/>taffern xv ß. d. 
 </p>
-        <p><lb n="133"/>Mer zeinst <persName ref="lub-actors-1579">Veit Laurenz</persName> von  
-<lb n="134"/>seiner hoffstatt i lib.d. 
+        <p><lb n="133"/>Dett) Mer zeinst <persName ref="lub-actors-1579">Veit Laurenz</persName> von  
+<lb n="134"/>seiner hoffstatt i lib. d. 
 </p>
-        <p><lb n="135"/>Item <persName ref="lub-actors-1580">Veiner Graß</persName> zeinst von seiner  
-<lb n="136"/>taffern xv ß.d. 
+        <p><lb n="135"/>Dett) Item <persName ref="lub-actors-1580">Veiner Graß</persName> zeinst von seiner  
+<lb n="136"/>taffern xv ß. d. 
 </p>
-        <p><lb n="137"/>Item <persName ref="lub-actors-876">Hans Pitschis</persName> seligen erben  
-<lb n="138"/>zeinßen laut ains zainsbrieffs viii ß.d. 
+        <p><lb n="137"/>Dett) Item <persName ref="lub-actors-876">Hans Pitschis</persName> seligen erben  
+<lb n="138"/>zeinsen laut ains zeinsbrieffs viii ß. d. 
 <lb n="139"/>Gipt der <persName ref="lub-actors-1580">Veiner Graß</persName>. 
 </p>
-        <p><lb n="140"/>Item <persName ref="lub-actors-161">Michel Schmids</persName> seligen erben  
-<lb n="141"/>zeinßen von irer taffern x ß.d. 
+        <p><lb n="140"/>Dett) Item <persName ref="lub-actors-161">Michel Schmids</persName> seligen erben  
+<lb n="141"/>zeinsen von irer taffern x ß. d. 
 </p>
-        <p><lb n="142"/>Summa iiii lib.d. 
+        <p><lb n="142"/>Summa iiii lib. d. 
 </p>
-        <p><pb facs="lub-media-1208" n="12"/><lb n="143"/>Mer zeinßen <persName ref="lub-actors-161">Michel Schmids</persName> seligen  
-<lb n="144"/>erben inhalt ains zeinsbrieffs ii lib.d. 
+        <p><pb facs="lub-media-1208" n="12"/><lb n="143"/>Dett) Mer zeinsen <persName ref="lub-actors-161">Michel Schmids</persName> seligen  
+<lb n="144"/>erben inhalt ains zeinsbrieffs ii lib. d. 
 </p>
         <p><lb n="145"/>Item <persName ref="lub-actors-1581">Bernhart Sennen</persName> seligen erben  
-<lb n="146"/>zeinßen laut ains zeinsbrieffs i lib.d. 
-<lb n="147"/>Detto <persName ref="lub-actors-429">Sigmund Thanner</persName> x ß.d. 
+<lb n="146"/>zeinsen laut ains zeinsbrieffs i lib. d. 
+<lb n="147"/>Dett) <persName ref="lub-actors-429">Sigmund Thanner</persName> x ß. d. 
 </p>
-        <p><lb n="148"/>Item <persName ref="lub-actors-1582">Roni Schmid</persName> zeinst iiii ß.d. 
+        <p><lb n="148"/>Dett) Item <persName ref="lub-actors-1582">Roni Schmid</persName> zeinst iiii ß. d. 
 </p>
-        <p><lb n="149"/>Gyt yez <persName ref="lub-actors-1586">Lucy Völcky</persName> viii ß.d. 
-<lb n="150"/><del>Item <persName ref="lub-actors-1583">Georg Dilger</persName> seligen erben zeinßen</del> 
+        <p><lb n="149"/>Dett) Gyt yez <persName ref="lub-actors-1586">Luzy Völcky</persName> viii ß. d. 
+<lb n="150"/><del>Item <persName ref="lub-actors-1583">Göerg Dilgens</persName> seligen erben zeinsen</del> 
 </p>
-        <p><lb n="151"/>Item <persName ref="lub-actors-1290">Hans Straub</persName> und <persName ref="lub-actors-1584">Wolff Wein
-<lb break="no" n="152"/>zürlins</persName> seligen erben zeinßen viiii ß d.
+        <p><lb n="151"/>Dett) Item <persName ref="lub-actors-1290">Hans Straub</persName> und <persName ref="lub-actors-1584">Wolff Wein
+<lb break="no" n="152"/>zürlins</persName> seligen erben zeinsen viiii ß. d.
 </p>
         <p><lb n="153"/>Item <persName ref="lub-actors-430">Stoffel Quader</persName> zeinst als lechen
-<lb break="no" n="154"/>trager v ß.d.
+<lb break="no" n="154"/>trager v ß. d.
 </p>
-        <p><lb n="155"/>Item <persName ref="lub-actors-893">Dicht Blenckhi</persName> zeinst als lechen
-<lb break="no" n="156"/>tragen iiii ß.d.
+        <p><lb n="155"/>Dett) Item <persName ref="lub-actors-893">Dicht Blenckhi</persName> zeinst als lechen
+<lb break="no" n="156"/>trager iiii ß. d.
 </p>
-        <p><lb n="157"/>Mer zeinst <persName ref="lub-actors-893">Dicht Plenckhin</persName> vermög  
-<lb n="158"/>ains zeinsbrieffs xii ß.d. 
+        <p><lb n="157"/>Dett) Mer zeinst <persName ref="lub-actors-893">Dicht Plenckhin</persName> vermög  
+<lb n="158"/>ains zeinsbrieffs xii ß. d. 
 </p>
-        <p><lb n="159"/>Summa v lib. ii ß.d. 
+        <p><lb n="159"/>Summa v lib. ii ß. d. 
 </p>
-        <p><pb facs="lub-media-1209" n="13"/><lb n="160"/>Item <persName ref="lub-actors-1587">Hainrich Balthasar </persName>zeinst  
-<lb n="161"/>laut ains zeinsbrieffs xi ß.d. 
+        <p><pb facs="lub-media-1209" n="13"/><lb n="160"/>Dett) Item <persName ref="lub-actors-1587">Hainrich Balthasar </persName>zeinst  
+<lb n="161"/>laut ains zeinsbrieffs xi ß. d. 
 </p>
-        <p><lb n="162"/>Item <persName ref="lub-actors-1578">Hans Blaichinger</persName> zeinst  
-<lb n="163"/>vermög ains zeinsbrieffs i lib.d. 
+        <p><lb n="162"/>Dett) Item <persName ref="lub-actors-1578">Hans Blaichinger</persName> zeinst  
+<lb n="163"/>vermög ains zeinsbrieffs i lib. d. 
 </p>
         <p><lb n="164"/>Item ain jeder waybel der herschafft  
 <lb n="165"/><placeName ref="lub-places-7">Vaduz</placeName> gipt und zeinst von der <term ref="lub-keywords-418">fur
 <lb break="no" n="166"/>laiti</term> und <term ref="lub-keywords-419">tschugkhgelt</term> zu <placeName ref="lub-places-53">Schan</placeName> nach 
 <lb n="167"/>dem und daselbst gevaldt. 
 </p>
-        <p><lb n="168"/>Summa i lib. xi ß.d. 
+        <p><lb n="168"/>Summa i lib. xi ß. d. 
 </p>
         <p>
           <pb facs="lub-media-1210" n="14"/>
           <lb n="169"/>
           <placeName ref="lub-places-124">Blanckhen</placeName>
         </p>
-        <p><lb n="170"/>Item <persName ref="lub-actors-1589">Stoffel Gantner</persName> zeinst i lib.d. 
+        <p><lb n="170"/>Item <persName ref="lub-actors-1589">Stoffel Gantner</persName> zeinst i lib. d. 
 </p>
         <p><lb n="171"/>Item <persName ref="lub-actors-1590">Hans Henni</persName> und <persName ref="lub-actors-1588">Peter Gantner</persName>  
-<lb n="172"/>zeinßen v ß.d. 
+<lb n="172"/>zeinsen v ß. d. 
 </p>
         <p><lb n="173"/>Item <persName ref="lub-actors-1590">Hans Hennis</persName> seligen erben  
-<lb n="174"/>zeinßen xiii ß.d. 
+<lb n="174"/>zeinsen xiii ß. d. 
 </p>
-        <p><lb n="175"/>Summa i lib. xviii ß.d. 
+        <p><lb n="175"/>Summa i lib. xviii ß. d. 
 </p>
         <p><pb facs="lub-media-1211" n="15"/><lb n="176"/>Schmalz und khäß zeins  
 <lb n="177"/>der herschafft <placeName ref="lub-places-7">Vaduz</placeName>  
 <lb n="178"/>gevallende. 
 </p>
-        <p><lb n="179"/>Item <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben zeinßen  
-<lb n="180"/>als lechentrager an <term ref="lub-keywords-410">werckhässen</term> xxxvi. 
-<lb n="181"/>Detto <persName ref="lub-actors-895">Barthlome Hilttin</persName>  
+        <p><lb n="179"/>Item <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben zeinsen  
+<lb n="180"/>als lechentrager an <term ref="lub-keywords-410">wertkhässen</term> xxxvi. 
+<lb n="181"/>Dett)  <persName ref="lub-actors-895">Barthlome Hilttin</persName>  
 <lb n="182"/>v <term ref="lub-keywords-410">wert käß</term>. 
 <lb n="183"/>Me <persName ref="lub-actors-1591">Jacob Heutt</persName>  
-<lb n="184"/>v kaß, me <persName ref="lub-actors-1592">Jacob Mar
-<lb break="no" n="185"/>sellen</persName> frow v käß, me 
+                <lb n="184"/>v kaß, me <persName ref="lub-actors-55">Jacob M<unclear>ayers</unclear></persName>
+        <lb break="no" n="185"/><unclear>sellgen</unclear> frow v käß, me 
 <lb n="186"/>aman <persName ref="lub-actors-52">Fryttschs</persName> x käß, rest xi käß. 
 </p>
         <p><lb n="187"/>Mer zeinßen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben  
-<lb n="188"/>als lechentragen an schmalz iii fuder  
-<lb n="189"/>Detto <persName ref="lub-actors-895">Barthlome Hilttin</persName>  
-<lb n="190"/>x fuder schmalz, me <persName ref="lub-actors-1591">Jacob  
-<lb n="191"/>Heut</persName> x fuder schmalz, me  
-<lb n="192"/>des waibels seligen wib  
-<lb n="193"/>x fuder schmalz, witter aman <persName ref="lub-actors-52">Frytsch</persName> i fuder schmalz, rest i fuder. 
+<lb n="188"/>als lechentragen an schmalz iii fiertel.  
+<lb n="189"/>Dett) <persName ref="lub-actors-895">Barthlome Hilttin</persName>  
+<lb n="190"/>ɨ<note>0,5</note> fiertel schmalz, me <persName ref="lub-actors-1591">Jacob  
+<lb n="191"/>Heut</persName> ɨ<note>0,5</note> fiertel schmalz, me  
+<lb n="192"/>des waibels selligen wib  
+<lb n="193"/>ɨ<note>0,5</note> fiertel schmalz, witter aman <persName ref="lub-actors-52">Frytschs</persName> i fiertel schmalz, rest ɨ<note>0,5</note> fiertel. 
 </p>
         <p><lb n="194"/>Item <persName ref="lub-actors-1566">Claus Lampart</persName> ab <placeName ref="lub-places-625">Broventschengkh</placeName>  
 <lb n="195"/>zeinst an <term ref="lub-keywords-410">werkhässen</term> ii. 
-<lb n="196"/>Detto <persName ref="lub-actors-1593">Caspar  
+<lb n="196"/>Dett <persName ref="lub-actors-1593">Caspar  
 <lb n="197"/>Lampart</persName>. 
 </p>
         <p><lb n="198"/>Item <persName ref="lub-actors-879">Thoma Jägers</persName> seligen erben  
-<lb n="199"/>zeinßen an schmalz i fuder. 
-<lb n="200"/>Detto <persName ref="lub-actors-1594">Barbara Jochimine</persName>  
-<lb n="201"/>i fuder schmalz. 
+<lb n="199"/>zeinsen an schmalz i fiertel. 
+<lb n="200"/>Dett <persName ref="lub-actors-1594">Barbara Jochiminr</persName>  
+<lb n="201"/>i fiertel schmalz. 
 </p>
-        <p><lb n="202"/>Item ain jeder miller zu <placeName ref="lub-places-71">Balthers</placeName><lb n="203"/>zeinst an schmalz ii fuder. 
-<lb n="204"/>Detto <persName ref="lub-actors-1595">Cristly</persName> von <placeName ref="lub-places-71">Baltterß</placeName>  
-<lb n="205"/>ii fuder schmalz. 
+        <p><lb n="202"/>Item ain jeder miller zu <placeName ref="lub-places-71">Balthers</placeName><lb n="203"/>zeinst an schmalz ii fiertel. 
+<lb n="204"/>Dett <persName ref="lub-actors-1595">Cristly</persName> von <placeName ref="lub-places-71">Baltterß</placeName>  
+<lb n="205"/>ii fiertel schmalz. 
 </p>
-        <p><lb n="206"/>Summa schmalz vi fuder 
+        <p><lb n="206"/>Summa schmalz vi fiertel 
 <lb n="207"/>khäs xxxviii. 
 </p>
         <p><pb facs="lub-media-1212" n="16"/><lb n="208"/>Mer zeinst der miller daselbst  
 <lb n="209"/>an <term ref="lub-keywords-410">werkhässen</term> ii 
-<lb n="210"/>Detto <persName ref="lub-actors-1595">Cristly</persName> von  
+<lb n="210"/>Dett) <persName ref="lub-actors-1595">Cristly</persName> von  
 <lb n="211"/><placeName ref="lub-places-71">Baltterß</placeName> iiii käß  
 <lb n="212"/>neuw und altt zinß. 
 </p>
@@ -393,204 +397,204 @@
 <lb n="218"/>der herschafft <placeName ref="lub-places-7">Vaduz</placeName>. 
 </p>
         <p><lb n="219"/>Item <persName ref="lub-actors-347">Adam Frickh</persName> zeinst von des  
-<lb n="220"/>Märlins gut wegen an waissen vii fuder. 
-<lb n="221"/>Detto iii fuder 
-<lb n="222"/>der <persName ref="lub-actors-884">Jerg Frumelt</persName>  
-<lb n="223"/>i fuder. 
+<lb n="220"/>Märlins gut wegen an waissen vii fiertel. 
+<lb n="221"/>Dett) iii fiertel. 
+<lb n="222"/>Det <persName ref="lub-actors-884">Jerg Frumelt</persName>  
+<lb n="223"/>i fiertel. 
 </p>
-        <p><lb n="224"/>Mer zeinst <persName ref="lub-actors-347">Adam Frickh</persName> an waissen iiii fuder. 
+        <p><lb n="224"/>Dett) Mer zeinst <persName ref="lub-actors-347">Adam Frickh</persName> an waissen iiii fiertel. 
 </p>
-        <p><lb n="225"/>Item <persName ref="lub-actors-53">Marx Lang</persName> zeinst an khorn iiii fuder. 
+        <p><lb n="225"/>Dett) Item <persName ref="lub-actors-53">Marx Lang</persName> zeinst an khorn iiii fiertel. 
 </p>
-        <p><lb n="226"/>Item <persName ref="lub-actors-1596">Hans Theni</persName> zeinst an waissen iii fuder. 
-<lb n="227"/>Detto <persName ref="lub-actors-1597">Ulrich Theny</persName>  
-<lb n="228"/>i fuder, me detto die Lampartin i fuder. 
+        <p><lb n="226"/>Item <persName ref="lub-actors-1596">Hans Theni</persName> zeinst an waissen iii fiertel. 
+<lb n="227"/>Dett) <persName ref="lub-actors-1597">Ulrich Theny</persName>  
+ <lb n="228"/>ɨ<note>0,5</note> fiertel, me dett die Lampartin ɨ<note>0,5</note> fiertel. 
 </p>
-        <p><lb n="229"/>Item <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben zeinßen  
-<lb n="230"/>als lechentrager an waissen v fuder. 
+        <p><lb n="229"/>Dett) Item <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben zeinsen  
+<lb n="230"/>als lechentrager an waissen v fiertel. 
 </p>
-        <p><lb n="231"/>Mer zeinßen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben  
+        <p><lb n="231"/>Dett) Mer zeinsen <persName ref="lub-actors-1567">Theis Hiltis</persName> seligen erben  
 <lb n="232"/>von <persName ref="lub-actors-1599">Lucj Braunharts</persName> seligen gueter  
-<lb n="233"/>an waissen iiii fuder. 
+<lb n="233"/>an waissen iiii fiertel. 
 </p>
-        <p><lb n="234"/>Summa waissen v scheffl iii fuder 
-<lb n="235"/>khorn i schäffl. 
+        <p><lb n="234"/>Summa waissen v scheffl iii fiertel 
+<lb n="235"/>khorn i schöffl. 
 </p>
-        <p><pb facs="lub-media-1214" n="18"/><lb n="236"/>Item <persName ref="lub-actors-1602">Jacob Hitt</persName> zeinst von weingart  
-<lb n="237"/>gueter an waissen ii fuder. 
+        <p><pb facs="lub-media-1214" n="18"/><lb n="236"/>Dett) ii fiertel. Item <persName ref="lub-actors-1602">Jacob Hitt</persName> zeinst von weingart  
+<lb n="237"/>gueter an waissen ii fiertel. 
 </p>
-        <p><lb n="238"/>Item jung <persName ref="lub-actors-1600">Florin Grüschlin</persName> zeinst als  
-<lb n="239"/>lechentrager an khorn ii schäffl. 
+        <p><lb n="238"/>Dett) Item jung <persName ref="lub-actors-1600">Florin Grüschlin</persName> zeinst als  
+<lb n="239"/>lechentrager an khorn ii schöffl. 
 </p>
         <p><lb n="240"/>Mer zeinst jung <persName ref="lub-actors-1600">Flori Grüschlin </persName>von  
-<lb n="241"/>weingart güeter an waissen ii fuder. 
+<lb n="241"/>weingart gueter an waissen ii fiertel. 
 </p>
-        <p><lb n="242"/>Item <persName ref="lub-actors-1601">Uli Wangners</persName> seligen erben  
-<lb n="243"/>zeinßen an khorn i fuder 
+        <p><lb n="242"/>Dett) Item <persName ref="lub-actors-1601">Uli Wangners</persName> seligen erben  
+<lb n="243"/>zeinsen an khorn i fiertel 
 <lb n="244"/>Gyt <persName ref="lub-actors-1605">Augustin Brendlin</persName>. 
 </p>
         <p><lb n="245"/>Item <persName ref="lub-actors-1603">Bernhart Graw</persName> zeinst von wein
-<lb break="no" n="246"/>gart gueter an waissen ii fuder.
+<lb break="no" n="246"/>gart gueter an waissen ii fiertel.
 </p>
         <p><lb n="247"/>Item <persName ref="lub-actors-895">Barthlome Hiltin</persName> zeinst von  
-<lb n="248"/>weingart gueter an waissen ii fuder. 
+<lb n="248"/>weingart gueter an waissen ii fiertel. 
 </p>
         <p><lb n="249"/>Item <persName ref="lub-actors-1604">Ulin Lang</persName> zeinst von wein
-<lb break="no" n="250"/>gart gueter an waissen ii fuder.
+<lb break="no" n="250"/>gart gueter an waissen ii fiertel.
 </p>
-        <p><lb n="251"/>Summa an waissen ii schäffl ii fuder 
-<lb n="252"/>an khorn ii schäffl i fuder. 
+        <p><lb n="251"/>Summa an waissen ii schöffl ii fiertel 
+<lb n="252"/>an khorn ii schöffl i fiertel. 
 </p>
         <p><pb facs="lub-media-1215" n="19"/><lb n="253"/>Item <persName ref="lub-actors-1606">Basthian Grüschlis</persName> seligen erben  
-<lb n="254"/>zeinßen als lehentrager an waissen vi fuder. 
-<lb n="255"/>Detto v fuder. 
-<lb n="256"/>Me detto <persName ref="lub-actors-1597">Ulrich  
-<lb n="257"/>Theny</persName> i fuder. 
+<lb n="254"/>zeinßen als lechentrager an waissen vi fiertel. 
+<lb n="255"/>Dett) v fiertel. 
+<lb n="256"/>Me dett <persName ref="lub-actors-1597">Ulrich  
+<lb n="257"/>Theny</persName> i fiertel. 
 </p>
-        <p><lb n="258"/>Summa waissen vi fuder. 
+        <p><lb n="258"/>Summa waissen vi fiertel. 
 </p>
-        <p><lb n="259"/>Item der schloß beume hatt dess  
-<lb n="260"/>38 ertragen wie hernachvolgt. 
-<lb n="261"/>Des ersten an korn xxxxiiii scheffl ii fuder. 
+        <p><lb n="259"/>Item der schloß bauw hatt dess  
+<lb n="260"/>38 ertragen wie harnachvolgt. 
+<lb n="261"/>Des ersten an korn xxxxiiii scheffl ii fiertel. 
 <lb n="262"/>An haber vi schöffl. 
 </p>
         <p><pb facs="lub-media-1216" n="20"/><lb n="263"/><placeName ref="lub-places-53">Schan</placeName> dorff 
 </p>
-        <p><lb n="264"/>Item <persName ref="lub-actors-1607">Hans Weinzürlin</persName> zynst als lechen
-<lb break="no" n="265"/>träger an waissen iiii fuder.
+        <p><lb n="264"/>Dett) Item <persName ref="lub-actors-1607">Hans Weinzürlin</persName> zynst als lechen
+<lb break="no" n="265"/>träger an waissen iiii fiertel.
 </p>
         <p><lb n="266"/>Item <persName ref="lub-actors-387">Hans Fritsch</persName> zeinst von wein
-<lb break="no" n="267"/>gart güeter an waissen ii fuder.
+<lb break="no" n="267"/>gart gueter an waissen ii fiertel.
 </p>
-        <p><lb n="268"/>Item <persName ref="lub-actors-1608">Thoma Frumolts</persName> seligen erben  
-<lb n="269"/>und <persName ref="lub-actors-207">Hans Wanger</persName> zeinßen an waissen x fuder. 
+        <p><lb n="268"/>Dett) Item <persName ref="lub-actors-1608">Thoma Frumolts</persName> seligen erben  
+<lb n="269"/>und <persName ref="lub-actors-207">Hans Wanger</persName> zeinsen an waissen x fiertel. 
 </p>
         <p><lb n="270"/>An dissem lechen hat mein gnädiger herr  
-<lb n="271"/>seinen gnaden die wyß zum kreuz  
+                <lb n="271"/>seinen gnaden die wyß <placeName ref="lub-places-869">zum Kreuz</placeName>
 <lb n="272"/>vorbehalten. 
 </p>
-        <p><lb n="273"/>Item <persName ref="lub-actors-1631">Jerg Jilgens</persName> seligen erben zeinßen  
-<lb n="274"/>als lechentrager an khorn iii fuder. 
-<lb n="275"/>Detto Rugy Velcky 
-<lb n="276"/>ii fuder. 
+        <p><lb n="273"/>Item <persName ref="lub-actors-1631">Jerg Tilgens</persName> seligen erben zeinsen  
+<lb n="274"/>als lechentrager an khorn iii fiertel. 
+<lb n="275"/>Dett <persName ref="lub-actors-1586"><unclear>L</unclear>uzy Velcky</persName>
+<lb n="276"/>ii fiertel. 
 </p>
         <p><lb n="277"/>Item <persName ref="lub-actors-1290">Hans Straub</persName> und <persName ref="lub-actors-1584">Wolff Wein
-<lb break="no" n="278"/>zürlins</persName> seligen erben zeinßen 
-<lb n="279"/>an khorn iiii fuder. 
-<lb n="280"/>Detto <persName ref="lub-actors-1607">Hanns Weinzür
-<lb break="no" n="281"/>lin</persName>, genant Dieg, 
-<lb n="282"/>ii fuder. 
+<lb break="no" n="278"/>zürlins</persName> seligen erben zeinsen 
+<lb n="279"/>an khorn iiii fiertel. 
+<lb n="280"/>Dett <persName ref="lub-actors-1607">Hanns Weinzür
+<lb break="no" n="281"/>lin</persName>, genant Diez, 
+<lb n="282"/>ii fiertel. 
 </p>
-        <p><lb n="283"/>Summa an waissen iiii schöffl 
-<lb n="284"/>an khorn i schöffl iii fuder. 
+        <p><lb n="283"/>Summa an waissen iiii schöffl,
+<lb n="284"/>an khorn i schöffl iii fiertel. 
 </p>
-        <p><pb facs="lub-media-1217" n="21"/><lb n="285"/>Mer zeinst <persName ref="lub-actors-1290">Hans Straub</persName> von <persName ref="lub-actors-1609">Hans  
-<lb n="286"/>Hiltis</persName> seligen lechen an waissen iiii fuder. 
+        <p><pb facs="lub-media-1217" n="21"/><lb n="285"/>Dett) Mer zeinst <persName ref="lub-actors-1290">Hans Straub</persName> von <persName ref="lub-actors-1609">Hans  
+                <lb n="286"/>Hiltis</persName> seligen lechen an waissen iiiɨ<note>3,5</note> fiertel. 
 </p>
         <p><lb n="287"/>Weiter zeinst <persName ref="lub-actors-1290">Hans Straub</persName> von  
-<lb n="288"/>weingart gueter an waissen ii fuder. 
+<lb n="288"/>weingart gueter an waissen ii fiertel. 
 </p>
-        <p><lb n="289"/>Item ain pharher zu <placeName ref="lub-places-53">Schan</placeName> zeinst  
+        <p><lb n="289"/>Dett) Item ain pharher zu <placeName ref="lub-places-53">Schan</placeName> zeinst  
 <lb n="290"/>an straw i fuder. 
 </p>
         <p><lb n="291"/>Item <persName ref="lub-actors-1610">Conradt Straus</persName> zeinst von  
-<lb n="292"/>weingart gueter an waissen ii fuder. 
+<lb n="292"/>weingart gueter an waissen ii fiertel. 
 </p>
         <p><lb n="293"/>Item <persName ref="lub-actors-1605">Augustin Brendlin</persName> zeinst  
-<lb n="294"/>von weingart güeter an waissen ii fuder. 
+<lb n="294"/>von weingart gueter an waissen ii fiertel. 
 </p>
         <p><lb n="295"/>Item <persName ref="lub-actors-1611">Thoma Knabenknecht</persName> zeinst  
 <lb n="296"/>als lechentrager an waissen ii scheffl. 
 </p>
-        <p><lb n="297"/>Summa an waissen iii scheffl ii fuder. 
+        <p><lb n="297"/>Summa an waissen iiii scheffl iɨ<note>1,5</note> fiertel. 
 <lb n="298"/>An straw i fuder. 
 </p>
-        <p><pb facs="lub-media-1218" n="22"/><lb n="299"/>Item <persName ref="lub-actors-1574">Jerg Fritsch</persName> zeinst als lechentrager  
-<lb n="300"/>an khorn ii fuder. 
+        <p><pb facs="lub-media-1218" n="22"/><lb n="299"/>Dett) Item <persName ref="lub-actors-1574">Jerg Fritsch</persName> zeinst als lechentrager  
+<lb n="300"/>an khorn ii fiertel. 
 </p>
-        <p><lb n="301"/>Item <persName ref="lub-actors-1577">Hans Marxer</persName> zeinst von ainem  
-<lb n="302"/>garten an waissen iii fuder. 
+        <p><lb n="301"/>Dett) Item <persName ref="lub-actors-1577">Hans Marxer</persName> zeinst von ainem  
+<lb n="302"/>garten an waissen iii fiertel. 
 </p>
         <p><lb n="303"/>Item <persName ref="lub-actors-1612">Cristan Barthlomeus</persName> wittib und  
-<lb n="304"/><persName ref="lub-actors-1613">Adam Maders</persName> seligen erben zeinßen iiiii fuder. 
+                <lb n="304"/><persName ref="lub-actors-1613">Adam Maders</persName> seligen erben zeinsen iiiiɨ<note>4,5</note> fiertel. 
 </p>
-        <p><lb n="305"/>Item <persName ref="lub-actors-55">Jacob Mayers</persName>, des waybels zu  
-<lb n="306"/><placeName ref="lub-places-53">Schan</placeName> seligen erben zeinßen in  
-<lb n="307"/><persName ref="lub-actors-1631">Jerg Jilgens</persName> lechen an khorn i fuder. 
+        <p><lb n="305"/>Dett) Item <persName ref="lub-actors-55">Jacob Mayers</persName>, des waybels zu  
+<lb n="306"/><placeName ref="lub-places-53">Schan</placeName>, seligen erben zeinsen in  
+<lb n="307"/><persName ref="lub-actors-1631">Jerg Tilgens</persName> lechen an khorn i fiertel. 
 </p>
-        <p><lb n="308"/>Item <persName ref="lub-actors-1582">Roni Schmid</persName> zeinst an waissen x fuder. 
+        <p><lb n="308"/>Item <persName ref="lub-actors-1582">Roni Schmid</persName> zeinst an waissen x fiertel. 
 </p>
-        <p><lb n="309"/>Gytt <persName ref="lub-actors-1614">Joss Abrecht</persName><lb n="310"/>Item <del>Thoma Miller</del> Gstach zeinst 
+        <p><lb n="309"/>Dett) Gytt <persName ref="lub-actors-1614">Joss Abrecht</persName><lb n="310"/>Item <del>Thoma Miller</del> Gschach zeinst 
 <lb n="311"/>vom ackher im klainen <placeName ref="lub-places-626">Räberlin</placeName>  
-<lb n="312"/>an khorn iiii fuder. 
+<lb n="312"/>an khorn iiii fiertel. 
 </p>
-        <p><lb n="313"/>Summa an waissen iii schäffl ii fuder. 
-<lb n="314"/>an khorn a schöffl iii fuder. 
+        <p><lb n="313"/>Summa an waissen iii schöffl iɨ<note>1,5</note> fiertel. 
+<lb n="314"/>an khorn i schöffl iii fiertel. 
 </p>
         <p><pb facs="lub-media-1219" n="23"/><lb n="315"/>Item <persName ref="lub-actors-936">Cristan Mareß</persName> zeinst als  
-<lb n="316"/>lechentrager an waissen x fuder. 
-<lb n="317"/>Detto vi fuder. 
-<lb n="318"/>Detto <persName ref="lub-actors-1604">Ulin Lang</persName>  
-<lb n="319"/>iii fuder. 
+<lb n="316"/>lechentrager an waissen x fiertel. 
+<lb n="317"/>Dett) vi fiertel. 
+<lb n="318"/>Dett <persName ref="lub-actors-1604">Ulin Lang</persName>  
+                <lb n="319"/>iiɨ<note>2,5</note> fiertel. 
 </p>
-        <p><lb n="320"/>Mer zeinst <persName ref="lub-actors-936">Cristan Mareß</persName> an  
-<lb n="321"/>khorn i fuder. 
+        <p><lb n="320"/>Dett) Mer zeinst <persName ref="lub-actors-936">Cristan Mareß</persName> an  
+<lb n="321"/>khorn i fiertel. 
 </p>
-        <p><lb n="322"/>Item <del><persName ref="lub-actors-885">Hans Peters</persName> seligen erben</del><lb n="323"/>Gyt yez <persName ref="lub-actors-435">Bartheleme Maurer</persName> wäbl  
+        <p><lb n="322"/>Item <del><persName ref="lub-actors-885">Hans Peters</persName> seligen erben</del><lb n="323"/>Dett) Gyt yez <persName ref="lub-actors-435">Bartheleme Maurer</persName>, w<unclear>ai</unclear>bl.
 <lb n="324"/>zeinßen als lechentragern an  
-<lb n="325"/>waissen iiii fuder. 
+<lb n="325"/>waissen iiii fiertel. 
 </p>
         <p><lb n="326"/>Item <persName ref="lub-actors-1575">Hänsli Mesmer</persName> zeinst als  
-<lb n="327"/>lechtentrager an waissen iii schäffl. 
-<lb n="328"/>Detto i schäffl. 
+<lb n="327"/>lechtentrager an waissen iii schöffl. 
+<lb n="328"/>Dett) i schöffl. 
 </p>
         <p><lb n="329"/>Mer zeinst <persName ref="lub-actors-1575">Hänsli Mesmer</persName> an  
-<lb n="330"/>khorn i fuder. 
+<lb n="330"/>khorn i fiertel. 
 </p>
         <p><lb n="331"/>Item <persName ref="lub-actors-858">Stoffel Fritschen</persName> seligen erben  
-<lb n="332"/>zeinßen an waissen ii schäffl. 
-<lb n="333"/>Detto ii schöffl durch  
+<lb n="332"/>zeinsen an waissen ii schöffl. 
+<lb n="333"/>Dett ii schöffl durch  
 <lb n="334"/><persName ref="lub-actors-1574">Jerg Fryttschen</persName>. 
 </p>
-        <p><lb n="335"/>Item <persName ref="lub-actors-293">Hans Stoffel Schierser</persName> zeinst als  
-<lb n="336"/>lechentrager an waissen iiii fuder. 
+        <p><lb n="335"/>Det) Item <persName ref="lub-actors-293">Hans Stoffel Schierser</persName> zeinst als  
+<lb n="336"/>lechentrager an waissen iiii fiertel. 
 </p>
-        <p><lb n="337"/>Summa an waissen vii schäffl i fuder. 
-<lb n="338"/>an khorn ii fuder. 
+        <p><lb n="337"/>Summa an waissen vii schöffl i fiertel. 
+<lb n="338"/>an khorn ii fiertel. 
 </p>
         <p><pb facs="lub-media-1220" n="24"/><lb n="339"/>Item <persName ref="lub-actors-1578">Hans Blaichinger</persName> zeinst als lechen
-<lb break="no" n="340"/>trager an waissen viiii fuder.
-<lb n="341"/>Detto vii fuder. 
-<lb n="342"/>Me detto <persName ref="lub-actors-1615">Caspar Bierz
-<lb break="no" n="343"/>lins</persName> erben ii fuder.
+<lb break="no" n="340"/>trager an waissen viiii fiertel.
+<lb n="341"/>Dett) vii fiertel. 
+<lb n="342"/>Me dett <persName ref="lub-actors-1615">Caspar Bierz
+<lb break="no" n="343"/>lins</persName> erben ii fiertel.
 </p>
-        <p><lb n="344"/>Item <persName ref="lub-actors-1063">Fridlin Bürklin</persName> zeinst an waissen i fuder. 
+        <p><lb n="344"/>Dett) Item <persName ref="lub-actors-2598">Fridlin Bürklin</persName> zeinst an waissen i fiertel. 
 </p>
-        <p><lb n="345"/>Item <persName ref="lub-actors-1579">Veit Laurenz</persName> zeinst an waissen iiii fuder. 
+        <p><lb n="345"/>Dett) Item <persName ref="lub-actors-1579">Veit Laurenz</persName> zeinst an waissen iiii fiertel. 
 </p>
         <p><lb n="346"/>Item <persName ref="lub-actors-430">Stoffl Quader</persName> zeinst als lechen
-<lb break="no" n="347"/>trager an waissen x fuder.
+<lb break="no" n="347"/>trager an waissen x fiertel.
 </p>
         <p><lb n="348"/>Mer zeinst <persName ref="lub-actors-430">Stoffel Quader</persName> an  
-<lb n="349"/>khorn i fuder. 
+<lb n="349"/>khorn i fiertel. 
 </p>
-        <p><lb n="350"/>Item <persName ref="lub-actors-893">Dicht Plenkhi</persName> zeinst als lechen
-<lb break="no" n="351"/>trager an khorn iii fuder.
+        <p><lb n="350"/>Dett) Item <persName ref="lub-actors-893">Dicht Plenckhi</persName> zeinst als lechen
+<lb break="no" n="351"/>trager an khorn iii fiertel.
 </p>
-        <p><lb n="352"/>Item <persName ref="lub-actors-884">Jörg Frumolt</persName> zeinst von  
-<lb n="353"/>weingart gueter ii fuder. 
+        <p><lb n="352"/>Item <persName ref="lub-actors-884">Jerg Frumolt</persName> zeinst von  
+<lb n="353"/>weingart gueter ii fiertel. 
 </p>
-        <p><lb n="354"/>Summa waissen vi schöffl ii fuder  
+        <p><lb n="354"/>Summa waissen vi schöffl ii fiertel  
 <lb n="355"/>khorn i schöffl. 
 </p>
-        <p><pb facs="lub-media-1221" n="25"/><lb n="356"/>Item <persName ref="lub-actors-1616">Cristan Tanner</persName> detto waissen ii fuder. 
-<lb n="357"/>Nota in wellichs  
+        <p><pb facs="lub-media-1221" n="25"/><lb n="356"/>Item <persName ref="lub-actors-1616">Cristan Tanner</persName> dett waissen iɨ<note>1,5</note> fiertel. 
+<lb n="357"/>Notta in wellichs  
 <lb n="358"/>gut. 
-<lb n="359"/>Item <persName ref="lub-actors-1617">Jacob Plenngcky</persName> detto waissen iii fuder i vierling. 
-<lb n="360"/>Me detto i vierling khern. 
+<lb n="359"/>Item <persName ref="lub-actors-1617">Jacob Plenngcky</persName> dett waissen iii fiertel i vierling. 
+<lb n="360"/>Me dett i vierling khern. 
 <lb n="361"/>Nota in wellichs  
 <lb n="362"/>gut. 
-<lb n="363"/>Me detto <persName ref="lub-actors-1579">Vitt Laurenz</persName> waissen ii fuder. 
+<lb n="363"/>Me dett <persName ref="lub-actors-1579">Vitt Laurenz</persName> waissen ii fiertel. 
 <lb n="364"/>Nota in wellichs 
 <lb n="365"/>lechen. 
 </p>
@@ -600,188 +604,194 @@
 </p>
         <p><lb n="369"/>Item von der steur jezgemelter her
 <lb break="no" n="370"/>schafft gevallen järlich auff 
-<lb n="371"/> <date when="--11-11">Martini</date> lxxvii lib.d. 
+<lb n="371"/> <date when="--11-11">Martini</date> lxxvii lib. d. 
 <lb n="372"/>Thut zu guldin lxxxviii guldin. 
 </p>
         <p><lb n="373"/>Daran hab ich durch  
-<lb n="374"/>handen des schreibers  
-<lb n="375"/>empfangen xx guldin. 
+<lb n="374"/>hannden des schreibers  
+<lb n="375"/>empfanngen xx guldin. 
 <lb n="376"/>Me <persName ref="lub-actors-1559">Jerg Beringern</persName><lb n="377"/>geben x guldin. 
 <lb n="378"/>Me maister <persName ref="lub-actors-1618">Hanns   
 <lb n="379"/>Hubn</persName> dem schlosser  
 <lb n="380"/>zu <placeName ref="lub-places-10">Veldkirch</placeName> x guldin. 
 <lb n="381"/>Witter mir geben  
 <lb n="382"/>viiii guldin xxi kreuzer. 
-<lb n="383"/>Verrer <persName ref="lub-actors-1559">Jerg Beringen</persName>  
+<lb n="383"/>Verrer <persName ref="lub-actors-1559">Jerg Beringern</persName>  
 <lb n="384"/>geben x guldin. 
 </p>
         <p><lb n="385"/>Von disser steur inzuziechen gehärt  
-<lb n="386"/>dem waybel daselbst zu lon v lib.d. 
+<lb n="386"/>dem waybel daselbst zu lon v lib. d. 
 </p>
         <p>
           <pb facs="lub-media-1223" n="27"/>
           <lb n="387"/>
           <placeName ref="lub-places-30">Mauren</placeName>
         </p>
-        <p><lb n="388"/>Item <persName ref="lub-actors-1233">Lucas Beder</persName> zeinst iiii ß.d. 
+        <p><lb n="388"/>Dett) Item <persName ref="lub-actors-1233">Lucas Beder</persName> zeinst iiii ß. d. 
 </p>
-        <p><lb n="389"/>Mer zeinst <persName ref="lub-actors-1233">Lucas Beder</persName> i lib.d. 
+        <p><lb n="389"/>Dett) Mer zeinst <persName ref="lub-actors-1233">Lucas Beder</persName> i lib. d. 
 </p>
         <p><lb n="390"/>Item <persName ref="lub-actors-14">Cristan Nollen</persName> seligen erben  
-<lb n="391"/>zeinßend als lehentrager viii ß. iiii d. 
+<lb n="391"/>zeinsend als lehentrager viii ß. iiii d. 
 </p>
-        <p><lb n="392"/>Item <persName ref="lub-actors-1619">Jacob Marhart genant Fürsst</persName>,   
-<lb n="393"/>zeinst viii ß.d. 
+        <p><lb n="392"/>Dett) Item <persName ref="lub-actors-1619">Jacob Marhart genant Fürsst</persName><lb n="393"/>zeinst viii ß. d. 
 </p>
-        <p><lb n="394"/>Item <persName ref="lub-actors-1241">Hans Fezer</persName> zeinst viii ß.d. 
-<lb n="395"/>Detto iiii ß d. 
+        <p><lb n="394"/>Item <persName ref="lub-actors-1241">Hans Fezer</persName> zeinst viii ß. d. 
+<lb n="395"/>Dett) iiii ß. d. 
 </p>
-        <p><lb n="396"/>Item <persName ref="lub-actors-436">Lenz Pauli</persName> zeinst i ß. ii d. 
+        <p><lb n="396"/>Dett) Item <persName ref="lub-actors-436">Lenz Pauli</persName> zeinst i ß. ii d. 
 </p>
         <p><lb n="397"/>Item <persName ref="lub-actors-205">Haug Kranzen</persName> seligen erben  
-<lb n="398"/>zeinßen erblechen zeins v ß.d. 
+<lb n="398"/>zeinsen erblechen zeins v ß. d. 
 </p>
         <p><lb n="399"/>Summa ii lib. xiiii ß. vi d. 
 </p>
-        <p><pb facs="lub-media-1224" n="28"/><lb n="400"/>Item <persName ref="lub-actors-1064">Jos Schächlin</persName> zeinst i ß. vi d. 
+        <p><pb facs="lub-media-1224" n="28"/><lb n="400"/>Dett) Item <persName ref="lub-actors-1064">Jos Schächlin</persName> zeinst i ß. vi d. 
 </p>
-        <p><lb n="401"/>Item <persName ref="lub-actors-1517">Basthian Fär</persName> zeinst mitsampt  
-<lb n="402"/><persName ref="lub-actors-1620">Ludwig Gasnern</persName> ii ß.d. 
+        <p><lb n="401"/>Dett) Item <persName ref="lub-actors-1517">Baschion Fär</persName> zeinst mitsampt  
+<lb n="402"/><persName ref="lub-actors-1620">Ludwig Gasnern</persName> ii ß. d. 
 </p>
-        <p><lb n="403"/>Item <persName ref="lub-actors-944">Ulrich Schechlin</persName> und <persName ref="lub-actors-826">Lienhart  
-<lb n="404"/>Marxer</persName> zeinßend viii ß.d. 
-<lb n="405"/>Detto <persName ref="lub-actors-826">Lienhartt  
-<lb n="406"/>Marxer</persName> iiii ß.d.  
+        <p><lb n="403"/>Item <persName ref="lub-actors-944">Ulrich Schechlin</persName> und <persName ref="lub-actors-2350">Lienhart  
+<lb n="404"/>Marxer</persName> zeinsend viii ß. d. 
+<lb n="405"/>Dett) <persName ref="lub-actors-826">Lienhartt  
+<lb n="406"/>Marxer</persName> iiii ß. d.  
 <lb n="407"/>Ist alles bezaltt. 
 </p>
-        <p><lb n="408"/>Mer zeinst <persName ref="lub-actors-944">Ulrich Schechin</persName> viiii ß.d. 
+        <p><lb n="408"/>Dett) Mer zeinst <persName ref="lub-actors-944">Ulrich Schechlin</persName> viiii ß. d. 
 </p>
-        <p><lb n="409"/>Weiter zeinst <persName ref="lub-actors-944">Ulrich Schechlin</persName><lb n="410"/>laut ains zeinsbrieffs i lib. iiii ß.d. 
+        <p><lb n="409"/>Dett) Weiter zeinst <persName ref="lub-actors-944">Ulrich Schechlin</persName><lb n="410"/>laut ains zeinsbrieffs i lib. iiii ß. d. 
 </p>
-        <p><lb n="411"/>Item <persName ref="lub-actors-1621">Caspar Bläßi</persName> zeinst hueb
-<lb break="no" n="412"/>steur v ß. viiii d.
+        <p><lb n="411"/>Item <persName ref="lub-actors-1621">Caspar Bläsi</persName> zeinst <term ref="lub-keywords-474">hueb
+                      <lb break="no" n="412"/>steur</term> v ß. viiii d.
 </p>
-        <p><lb n="413"/>Item Wolff Rylich zeinst vermäg  
-<lb n="414"/>ains zeinsbrieffs i lib.d. 
-<lb n="415"/>Detto <persName ref="lub-actors-1236">Ulrich Bernhart</persName>. 
+        <p><lb n="413"/>Item <persName ref="lub-actors-2599">Wolff Rylich</persName> zeinst vermäg  
+<lb n="414"/>ains zeinsbrieffs i lib. d. 
+<lb n="415"/>Dett) <persName ref="lub-actors-1236">Ulrich Bernhart</persName>. 
 </p>
         <p><lb n="416"/>Summa iii lib. x ß. iii d. 
 </p>
-        <p><pb facs="lub-media-1225" n="29"/><lb n="417"/>Item <persName ref="lub-actors-1247">Ulrich Graw</persName> zeinst huebsteur xviiii ß.d. 
+        <p><pb facs="lub-media-1225" n="29"/><lb n="417"/>Dett) Item <persName ref="lub-actors-1247">Ulrich Graw</persName> zeinst huebsteur xviiii ß.d. 
 </p>
         <p><lb n="418"/>Mer zeinst <persName ref="lub-actors-1247">Ulrich Graw</persName> ii ß. vi d. 
 </p>
         <p><lb n="419"/>Item <persName ref="lub-actors-1255">Jacob Keybers</persName> seligen erben  
-<lb n="420"/>zeinßen x ß.d. 
+<lb n="420"/>zeinsen x ß. d. 
 </p>
-        <p><lb n="421"/>Mer zeinßen <persName ref="lub-actors-1255">Jacob Keybers</persName> seligen  
-<lb n="422"/>erben ii ß.d. 
+        <p><lb n="421"/>Dett) Mer zeinsen <persName ref="lub-actors-1255">Jacob Keybers</persName> seligen  
+<lb n="422"/>erben ii ß. d. 
 </p>
-        <p><lb n="423"/>Item <persName ref="lub-actors-1235">Hans Bernharts</persName> seligen erben  
-<lb n="424"/>zeinßen i ß. viii d. 
+        <p><lb n="423"/>Dett) Item <persName ref="lub-actors-1235">Hans Bernharts</persName> seligen erben  
+<lb n="424"/>zeinsen i ß. viii d. 
 </p>
-        <p><lb n="425"/>Item <persName ref="lub-actors-979">Ulrich Kranzn</persName> seligen erben  
-<lb n="426"/>zeinßen iiii ß.d. 
-<lb n="427"/>Detto <persName ref="lub-actors-1622">Sigmund  
-<lb n="428"/>Kranz</persName> iii ß.d. 
+        <p><lb n="425"/>Item <persName ref="lub-actors-979">Ulrich Krannzn</persName> seligen erben  
+<lb n="426"/>zeinsen iiii ß. d. 
+<lb n="427"/>Dett) <persName ref="lub-actors-1622">Sigmund  
+<lb n="428"/>Krannz</persName> iiii ß. d. 
 </p>
         <p><lb n="429"/>Item <del><persName ref="lub-actors-1290">Hans Strauben</persName></del> seligen erben 
-<lb n="430"/>zeinßen v ß.d. 
+<lb n="430"/>zeinsen v ß. d. 
 <lb n="431"/><del>Gyt yez <persName ref="lub-actors-1059">Martin Mündlin</persName></del> 
-<lb n="432"/>Detto <persName ref="lub-actors-1059">Martin Mündly</persName>  
-<lb n="433"/>iii ß.d. 
+<lb n="432"/>Dett) <persName ref="lub-actors-1059">Martin Mündly</persName>  
+<lb n="433"/>iii ß. d. 
 </p>
         <p><lb n="434"/>Item <persName ref="lub-actors-205">Haug Kranzen</persName> seligen erben  
-<lb n="435"/>und <persName ref="lub-actors-1623">Hans Giffel</persName> zeinßen i lib. x ß.d. 
-<lb n="436"/>Ist alles bezaltt. 
-<lb n="437"/>Summa iii lib. xiiii ß. ii d. 
+<lb n="435"/>und <persName ref="lub-actors-1623">Hans Giffel</persName> zeinßen i lib. x ß. d.
+<lb n="436"/><del>Dett Hannß Gyffl
+<lb n="437"/>i ß viii d.
+<lb n="438"/> Dett Hannß Gyffl
+<lb n="439"/> xv ß. d.</del>                
+<lb n="440"/>Ist alles bezaltt. 
+<lb n="441"/>Summa iii lib. xiiii ß. ii d. 
 </p>
-        <p><pb facs="lub-media-1226" n="30"/><lb n="438"/>Item <persName ref="lub-actors-1244">Andras Glarner</persName> zeinst iiii ß.d. 
+        <p><pb facs="lub-media-1226" n="30"/><lb n="442"/>Dett) Item <persName ref="lub-actors-1244">Andras Glarner</persName> zeinst iiii ß. d. 
 </p>
-        <p><lb n="439"/>Item <persName ref="lub-actors-1517">Basthian Fär</persName> zeinst von  
-<lb n="440"/>seiner taffern x ß.d. 
+        <p><lb n="443"/>Dett Item <persName ref="lub-actors-1517">Baschiön Fär</persName> zeinst von  
+<lb n="444"/>seiner taffern x ß. d. 
 </p>
-        <p><lb n="441"/>Item maister Clausen seligen  
-<lb n="442"/>erben zu <placeName ref="lub-places-10">Veldkirch</placeName> zeinßen  
-<lb n="443"/>von <persName ref="lub-actors-1624">Jacob Brunners</persName> lechen iiii lib.d. 
+        <p><lb n="445"/>Dett Item maister Clausen seligen  
+<lb n="446"/>erben zu <placeName ref="lub-places-10">Veldkirch</placeName> zeinsen  
+<lb n="447"/>von <persName ref="lub-actors-1624">Jacob Brunners</persName> lechen iiii lib. d. 
 </p>
-        <p><lb n="444"/>Item <persName ref="lub-actors-1625">Simon Kranz</persName> zeinst xi ß. viii d. 
+        <p><lb n="448"/>Item <persName ref="lub-actors-1625">Simon Kranz</persName> zeinst xi ß. viii d. 
 </p>
-        <p><lb n="445"/>Item <persName ref="lub-actors-1626">Ulrich Hemerlin</persName> zeinst vii ß d. 
-<lb n="446"/>Item <persName ref="lub-actors-1627">Greg Schächly</persName> detto taffern zins x ß.d. 
+        <p><lb n="449"/>Dett) Item <persName ref="lub-actors-1626">Ulrich Hemerlin</persName> zeinst vii ß d. 
+<lb n="450"/>Dett Item <persName ref="lub-actors-1627">Gerg Schächly</persName> dett taffern zins x ß. d. 
 </p>
-        <p><lb n="447"/>Summa v lib. iiii ß. viii d. 
+        <p><lb n="451"/>Summa v lib. iiii ß. viii d. 
 </p>
         <p>
-          <lb n="448"/>
-          <del>Item <persName ref="lub-actors-1059">Martin Mündly</persName> detto v ß.d.</del>
+          <lb n="452"/>
+          <del>Item <persName ref="lub-actors-1059">Martin Mündly</persName> dett v ß. d.
+                  <lb n="453"/>Nota in wellichs
+                  <lb n="454"/>gut.</del>
         </p>
-        <p><lb n="449"/>Item <persName ref="lub-actors-215">Wolff Sennty</persName> detto von <persName ref="lub-actors-1628">Rudolff  
-<lb n="450"/>Bernhartts</persName> wegen i ß.d. 
-<lb n="451"/><del>Item der zechend zu <placeName ref="lub-places-30">Maurn</placeName> hatt ertragen vi scheffl 
-<lb n="452"/>ii fuder 
-<lb n="453"/>An waissen vi scheffl ii fuder</del> 
+        <p><lb n="455"/>Item <persName ref="lub-actors-215">Wolff Sennty</persName> dett von <persName ref="lub-actors-1628">Rudolff  
+<lb n="456"/>Bernnhartts</persName> wegen i ß. d. 
+                <lb n="457"/><del>Nota in wellichs
+                <lb n="458"/>lechen.</del>
+<lb n="459"/><del>Item der zechennd zu <placeName ref="lub-places-30">Maurn</placeName> hatt ertragen vi scheffl 
+<lb n="460"/>ii fiertel, 
+<lb n="461"/>an waissen vi scheffl ii fiertel.</del> 
 </p>
         <p>
           <pb facs="lub-media-1227" n="31"/>
-          <lb n="454"/>
+          <lb n="462"/>
           <placeName ref="lub-places-35">Eschen</placeName>
         </p>
-        <p><lb n="455"/>Item ain pharherr zu <placeName ref="lub-places-35">Eschen</placeName> zeinst  
-<lb n="456"/>vom kirchensaz daselbst i lib.d. 
+        <p><lb n="463"/>Dett) Item ain pharherr zu <placeName ref="lub-places-35">Eschen</placeName> zeinst  
+<lb n="464"/>vom kirchensaz daselbst i lib. d. 
 </p>
-        <p><lb n="457"/>Mer zeinst ain pharher daselbst an  
-<lb n="458"/>straw i fuder. 
+        <p><lb n="465"/>Dett Mer zeinst ain pharher daselbst an  
+<lb n="466"/>straw i fuder. 
 </p>
-        <p><lb n="459"/>Item ain apt zu <orgName ref="lub-actors-309">Phäphers</orgName> zeinst  
-<lb n="460"/>weinzechenden i lib.d. 
+        <p><lb n="467"/>Item ain apt zu <orgName ref="lub-actors-309">Phäffers</orgName> zeinst  
+<lb n="468"/>weinzechenden i lib. d. 
 </p>
-        <p><lb n="461"/>Item <persName ref="lub-actors-1626">Ulrich Hemerlin</persName> zeinst von  
-<lb n="462"/>der müli zu <placeName ref="lub-places-521">Marx</placeName> laut ains  
-<lb n="463"/>zeinsbrieffs vii lib d. 
+        <p><lb n="469"/>Dett Item <persName ref="lub-actors-1626">Ulrich Hemerlin</persName> zeinst von  
+<lb n="470"/>der müli zu <placeName ref="lub-places-521">Marx</placeName> laut ains  
+<lb n="471"/>zeinsbrieffs vii lib. d. 
 </p>
-        <p><lb n="464"/>Item <persName ref="lub-actors-923">Peter Wangner</persName>, wirtt auff  
-<lb n="465"/><placeName ref="lub-places-31">Rauffenberg</placeName>, zeinst von seiner  
-<lb n="466"/>taffern i lib.d. 
+        <p><lb n="472"/>Item <persName ref="lub-actors-923">Peter Wangner</persName>, wirtt auff  
+<lb n="473"/><placeName ref="lub-places-31">Rauffenberg</placeName>, zeinst von seiner  
+<lb n="474"/>taffern i lib. d. 
 </p>
-        <p><lb n="467"/>Summa an gelt x lib d. 
-<lb n="468"/>an straw i fuder. 
+        <p><lb n="475"/>Summa an gelt x lib. d. 
+<lb n="476"/>an straw i fuder. 
 </p>
-        <p><lb n="469"/>Item <persName ref="lub-actors-1619">Jacob Fürst</persName> der jung detto von <persName ref="lub-actors-1628">Rudolff  
-<lb n="470"/>Bernharts</persName> wegen i ß.d. 
+        <p><lb n="477"/>Item <persName ref="lub-actors-1619">Jacob Fürst</persName> der jung dett von <persName ref="lub-actors-1628">Rudolff  
+<lb n="478"/>Bernharts</persName> wegen i ß. d. 
 </p>
-        <p><pb facs="lub-media-1228" n="32"/><lb n="471"/>Item <persName ref="lub-actors-955">Andras Mündli</persName> zynst i ß. ii d. 
+        <p><pb facs="lub-media-1228" n="32"/><lb n="479"/>Dett) Item <persName ref="lub-actors-955">Andras Mündli</persName> zynst i ß. ii d. 
 </p>
-        <p><lb n="472"/>Item <persName ref="lub-actors-953">Ulrich Erins</persName> des waybels  
-<lb n="473"/>seligen erben zeinßen laut  
-<lb n="474"/>ains zeinsbrieffs ii lib. x ß.d. 
-<lb n="475"/>Detto durch handen  
-<lb n="476"/>des schribers. 
+        <p><lb n="480"/>Item <persName ref="lub-actors-953">Ulrich Erins</persName> des waybels  
+<lb n="481"/>seligen erben zeinsen laut  
+<lb n="482"/>ains zeinsbrieffs ii lib. x ß. d. 
+<lb n="483"/>Dett) durch handen  
+<lb n="484"/>des schribers. 
 </p>
-        <p><lb n="477"/>Item <persName ref="lub-actors-1629">Barthlome Maders</persName> seligen  
-<lb n="478"/>erben zeinßen als lehentrager i lib.d. 
+        <p><lb n="485"/>Dett Item <persName ref="lub-actors-2569">Barthlome Maders</persName> seligen  
+<lb n="486"/>erben zeinsen als lehentrager i lib. d. 
 </p>
-        <p><lb n="479"/>Item <persName ref="lub-actors-1630">Andras Schreiber</persName>, genant Prinz,  
-<lb n="480"/>zeinst auff <date when="--04-23">Geor[g]i</date> laut ains  
-<lb n="481"/>zeinsbrieffs i lib.d. 
+        <p><lb n="487"/>Dett) Item <persName ref="lub-actors-1630">Andras Schreiber</persName>, genant Prinz,  
+<lb n="489"/>zeinsbrieffs i lib. d. 
 </p>
-        <p><lb n="482"/>Item <persName ref="lub-actors-207">Hans Wangner</persName> zu <placeName ref="lub-places-37">Missnen</placeName>  
-<lb n="483"/>zeinst nach inhaltung ains zeins
-<lb break="no" n="484"/>brieffs x ß.d.
+        <p><lb n="490"/>Dett) Item <persName ref="lub-actors-1297">Hans Wangner</persName> zu <placeName ref="lub-places-37">Missnen</placeName>  
+<lb n="491"/>zeinst nach inhaltung ains zeins
+<lb break="no" n="492"/>brieffs x ß. d.
 </p>
-        <p><lb n="485"/>Item <persName ref="lub-actors-419">Hans Mayer</persName> aman zeinst  
-<lb n="486"/>vermög ains zeinsbrieffs i lib. vi ß.d. 
+        <p><lb n="493"/>Dett) Item <persName ref="lub-actors-419">Hans Mayer</persName>, aman, zeinst  
+<lb n="494"/>vermög ains zeinsbrieffs i lib. vi ß. d. 
 </p>
-        <p><lb n="487"/>Summa vi lib. vii ß. ii d. 
+        <p><lb n="495"/>Summa vi lib. vii ß. ii d. 
 </p>
-        <p><pb facs="lub-media-1229" n="33"/><lb n="488"/>Item <persName ref="lub-actors-889">Rudolff Mader</persName> zeinst laut  
-<lb n="489"/>ains zeinsbrieffs i lib. vi ß.d. 
+        <p><pb facs="lub-media-1229" n="33"/><lb n="496"/>Dett) Item <persName ref="lub-actors-889">Rudolff Mader</persName> zeinst laut  
+<lb n="497"/>ains zeinsbrieffs i lib. vi ß. d. 
 </p>
-        <p><lb n="490"/>Item <persName ref="lub-actors-401">Jerg Brendlis</persName> seligen erben  
-<lb n="491"/>zeinßend von dem mad, so die  
-<lb n="492"/>Pächler inegehapt habend iii ß.d. 
+        <p><lb n="498"/>Dett Item <persName ref="lub-actors-401">Jerg Brendlis</persName> seligen erben  
+<lb n="499"/>zeinsend von dem mad, so die  
+                <lb n="500"/><orgName ref="lub-actors-1231">Pächler</orgName> inegehapt habend, iii ß. d. 
 </p>
-        <p><lb n="493"/>Summa i lib. viiii ß.d. 
+        <p><lb n="501"/>Summa i lib. viiii ß.d. 
 </p>
       </div>
     </body>
