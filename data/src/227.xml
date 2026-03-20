@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-227">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt zwischen Vaduz und Werdenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-227">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 5 fol. 171v-172r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. August 1560 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Versprechen an die Grafen Wilhelm und Alwig IX. von Sulz, den Kaiser Ferdinand I. zu erinnern, nochmals in der Streittrage zwischen den Grafschaften Vaduz und Werdenberg Stellung zu beziehen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1560-08-28">28. Aug 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_5_fol__171v-172r-0001.jpg" xml:id="lub-media-605" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-171v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_5_fol__171v-172r-0002.jpg" xml:id="lub-media-606" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-172r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Graf zu <orgName ref="lub-actors-7">Sulz</orgName> contra <orgName ref="lub-actors-276">lannd
+<lb break="no" n="2"/>amman und rat zu Glaris</orgName>.
+<lb n="3"/>Euer schreiben des datum, den <date when="1560-08-21">xxi tag diß monats</date>  
+<lb n="4"/>uns bey disem eurm potten zuegesanndt, haben wir  
+<lb n="5"/>empfanngen. Und sovil erstlich den span, so sich  
+<lb n="6"/>zwischen euer von wegen der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="7"/>an ainem und <orgName ref="lub-actors-276">lanndtaman und rat zu Glaris</orgName>, als  
+<lb n="8"/>innhabern der herrschafft <placeName ref="lub-places-73">Werdenberg</placeName>, am anndern  
+<lb n="9"/>thail erhalt belanngt, ist uns von euch hievor, den  
+<lb n="10"/><date when="1560-04-22">22. verschines monats aprilis</date>, auch ain schreiben  
+<lb n="11"/>derwegen zuekhumen. Und dieweil wir daraus  
+<lb n="12"/>verstannden, daz ir auf jüngst gehaltnen reichstag  
+<lb n="13"/>zu <placeName ref="lub-places-32">Augspurg</placeName> dises spans halber an die römisch kayserliche  
+<lb n="14"/>mayestät etc., unnsern allergenedigisten herrn, suppliciert  
+<lb n="15"/>und ir kayserliche mayestät euch disen genedigen beschaid geben  
+<lb n="16"/>lassen, daz ir mayestät bemelte von <orgName ref="lub-actors-276">Glaris</orgName> innhalt ainer  
+<lb n="17"/>copey, so euch oder eurn gesanndten zuegestelt worden,  
+<lb n="18"/>ersuechen wolten, und aber gedachte von <orgName ref="lub-actors-276">Glaris</orgName>  
+<lb n="19"/>nit gestenndig sein wellen, das inen von irer kayserlichen  
+<lb n="20"/>mayestät derhalben ainich schreiben zuekhomen, sein wir  
+<lb n="21"/>enndtschlossen, bey irer kayserlichen mayestät unnderthenigist an
+<lb break="no" n="22"/>zuvermanen, das ir mayestät inen, den von <orgName ref="lub-actors-276">Glaris</orgName>,  
+<lb n="23"/>nochmals vorangeregter copi gemeß schreiben und  
+<lb n="24"/>sy darneben ersuechen lassen wolten, ainem unver
+<lb break="no" n="25"/>griffnen stillstannd zehalten, wie ir dann eurs thails 
+<lb n="26"/>auch halten sollen, so weren ir mayestät genedigist bedacht,  
+<lb n="27"/>die sachen an gemainer <orgName ref="lub-actors-515">Aidgnosschafft</orgName> ratspotten  
+<lb n="28"/>durch derselben comissarien gelanngen ze lassen  
+<lb n="29"/>und die sachen dahin zuvergleichen, damit sy, die  
+<lb n="30"/><orgName ref="lub-actors-515">Aydgnossen</orgName>, ain oder zwen, und dann ir auch sovil  
+<lb n="31"/>unnderhanndler oder thädingsleuth erkhiesten und  
+<lb n="32"/>furschliegen, die sollichen spann in der guete zwischen  
+
+<lb n="33"/>euer hinzulegen sich alles fleiß bemüeen, und wo die  
+<lb n="34"/>guete nit statt, alsdann sumaris erorttern und endt
+<lb break="no" n="35"/>schaiden solten etc. Und ist darauf in namen höchst 
+<lb n="36"/>gedachter kayserlicher mayestät unnser beger an euch, ir wellet  
+<lb n="37"/>in mittler zeit hierinnen auch ainen unvergriffnen  
+<lb n="38"/>stillstanndt halten, deß versehens ir kayserlicher mayestät werde  
+<lb n="39"/>solliches bey mergedachten von <orgName ref="lub-actors-276">Glaris</orgName> gleicher  
+<lb n="40"/>gestalt erlanngen. 
+<lb n="41"/>Was dann den anndern span, so sich zwischen euer ains, 
+<lb n="42"/>und der kayserlichen mayestät ambtleuten der herrshafft <placeName ref="lub-places-10">Veldt
+<lb break="no" n="43"/>khirch</placeName> annders thails von wegen hagens und jagens 
+<lb n="44"/>auf <placeName ref="lub-places-70">Damüls</placeName>, auch bezalung des werschillings unnd 
+<lb n="45"/>annderer articul halber erhaltet, betrifft, sezen 
+<lb n="46"/>und benennen wir euch hiemit gegen gedachten ambt
+<lb break="no" n="47"/>leuten ainen tag, als nemblichen auf den <date when="1561-03-05">fünfften tag 
+<lb n="48"/>martii schieristkhünfftigs lxi jars</date> durch euch selbs, 
+<lb n="49"/>oder eurn volmechtigen anwald alhie vor unnser zu          
+<lb break="no" n="50"/>erscheinen, alda dann berüerts ambtleut oder jemands  
+<lb n="51"/>von iretwegen auch sein, so wellen wir euch beder
+<lb break="no" n="52"/>seits notturfftigclichen gegenainnder verhören 
+<lb n="53"/>und fleiß fürwenden, euch minainannder in der 
+<lb n="54"/>guete zuvergleichen, wo aber guet nit verfenngkh
+<lb break="no" n="55"/>lichen, euch alsdann der gebür nach verabschiden.
+<lb n="56"/>Das alles welten wir auf obberüerte eure zway 
+<lb n="57"/>schreiben euch darnach zerichten wissen, nit ver
+<lb break="no" n="58"/>halten. Datum, den <origDate>28. augusti anno etc. 60</origDate>.
+<lb n="59"/>An herrn <persName ref="lub-actors-10">Wilhelmen</persName> und <persName ref="lub-actors-9">Alwigen</persName> 
+<lb n="60"/>gebrüedern grafen zu <orgName ref="lub-actors-7">Sulz</orgName>          
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

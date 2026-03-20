@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-796">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt zwischen Kaspar von Ramschwag und Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-796">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 35v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 6. Mai 1593 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Neuerliche Anweisung der Regierung in Innsbruck an den Rat in Feldkirch, sich über den Konflikt zwischen Karl Ludwig von Sulz und Kaspar von Ramschwag wegen Kaspar Wolfinger zu informieren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-238">Strafe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1593-05-06">6. Mai 1593</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__35v-0001.jpg" xml:id="lub-media-653" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-35v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem. 
+<lb n="2"/>Hiebey übersennden wir euch zway unnderschidliche  
+<lb n="3"/>schreiben von <persName ref="lub-actors-166">Casparn von Rambschwag</persName>, vogt zu  
+<lb n="4"/><placeName ref="lub-places-13">Guettenberg</placeName>, das ain am <date when="1593-04-07">7.</date> unnd das annder am  
+<lb n="5"/><date when="1593-04-27">27. erstverruekhten monats april</date> außgangen.  
+<lb n="6"/>Darinnen er umb beschaid auf sein, vor dißem  
+<lb n="7"/>fürgebrachte beschwerdten wider herrn <persName ref="lub-actors-13">Carl  
+<lb n="8"/>grafen zu Sulz</persName> vonwegen beschehnen eingriff  
+<lb n="9"/>unnd verbots mit jagen, hagen, vischenz unnd  
+<lb n="10"/>anndern deßgleichen zugefuegter verhinderung  
+<lb n="11"/>an außtreibung des viehs, unnd dann auch  
+<lb n="12"/><persName ref="lub-actors-167">Casparn Wolfingers</persName> sonnderbarn viehtribs ver
+<lb break="no" n="13"/>bot unnd aufferlegter 70 fl. straff etc. unnder
+<lb break="no" n="14"/>thenig anhaltet unnd bittet. Dieweil wir 
+<lb n="15"/>dann eben diser sachen halber, am <date when="1593-01-30">30. januarii</date>  
+<lb n="16"/>unnd <date when="1593-03-22">22. martii</date> negsthin nottwenndige bevelch  
+<lb n="17"/>an euch außgefertigt, so lassen wir es der zeit  
+<lb n="18"/>bey denselben verbleiben, innammen der fürstlichen durchlaucht etc.,  
+<lb n="19"/>unnsers gnedigisten herrn, euch hiemit auffer
+<lb break="no" n="20"/>legent, das ir sollichen bevelchen in ain oder 
+<lb n="21"/>annder weeg mit ehistem würckhliche volziech
+<lb break="no" n="22"/>ung laistet. Daran beschieht etc. Datum, den 
+<lb n="23"/><origDate>6. maii anno 93</origDate>. 
+<lb n="24"/>An <orgName ref="lub-actors-2588">vogt unnd ambtleuth zu  
+<lb n="25"/>Veldtkhürch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-214">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entrichtung der Alprechte in Frastanz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-214">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 138v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. April 1526 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt zu Bludenz und Sonnenberg betreffend die Beschwerde des Statthalters der Oberösterreichischen Lande, Rudolf Graf von Sulz, dass die Untertanen von Nenzing und Frastanz sich weigerten, die Alprechte nach alter Gewohnheit zu entrichten, wofür der Graf ihnen Tiere, die Schaden anrichten, durch seinen Jägermeister fern halten solle.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-156">Alprecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1526-04-10">10. Apr 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__138v-0001.jpg" xml:id="lub-media-583" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-138v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-583" n="1"/><lb n="1"/><persName ref="lub-actors-8">Sultz</persName> contra <placeName ref="lub-places-43">Nentzigen</placeName> und <placeName ref="lub-places-69">Frastentz</placeName>. 
+<lb n="2"/>Getreuer lieber. Unns bericht der edl unnser lieber getreuer  
+<lb n="3"/><persName ref="lub-actors-8">Ruedolff graf zu Sulz</persName>, unnser stathalter unnser <placeName ref="lub-places-160">Oberösterreichischen  
+<lb n="4"/>Lannd</placeName>, wie ime die unnderthanen von <placeName ref="lub-places-43">Nennzigen</placeName> und <placeName ref="lub-places-69">Frasthenz</placeName>   
+<lb n="5"/>aus aignem gewalt und wider alle pillikhait das albrecht über  
+<lb n="6"/>und wider, das er sich durch seinen vogt und jägermaister inen  
+<lb n="7"/>dagegen die schedliche thier aus denselben alben zu jagen erpoten hat,  
+<lb n="8"/>und des nach innhalt alter gewonhait zuthun erpeut vorhaltlich,    
+<lb n="9"/>und des noch pis auf disen tag von dem verganngen <date when="1525">xxv. jars</date>  
+<lb n="10"/>über vil sein guetlich ersuechen nit enntricht noch überanntwort  
+<lb n="11"/>haben, welches er sich und nit unpillich hoch beswert und  
+<lb n="12"/>unns darauf umb gnedige einsehung, damit er des seinen  
+<lb n="13"/>ausserhalb des rechtens nit entwert und derselben alben recht,  
+<lb n="14"/>wie von alterher erzelt werd, unndertheniklichen angerueffen  
+<lb n="15"/>und gebeten. Welches wir ime in ansehung der pillikhait  
+<lb n="16"/>und sonnderlich, dieweil er sich als obstet dagegen die schedlichen  
+<lb n="17"/>thier zu jagen erpeut, zuthun schuldig und genaigt sein. 
+<lb n="18"/>Und emphelchen die darauf mit sonnderem ernnst und  
+<lb n="19"/>wellen, das du pey gedachten unnderthanen von <placeName ref="lub-places-43">Nenzingen</placeName>  
+<lb n="20"/>und <placeName ref="lub-places-69">Frastenz</placeName> verfuegest und von unnseren wegen ernnst
+<lb break="no" n="21"/>lichen verschaffest, damit sy von verrer einred, auszug, oder 
+<lb n="22"/>verhinderung gedachtem unnserem stathalter die verfallen  
+<lb n="23"/>und hinfur die künfftigen albrecht, wie von alter her ennt
+<lb break="no" n="24"/>richten und bezalen. Dagegen ist er erpütig, inen alles das 
+<lb n="25"/>mit jagen und annderem, wie von alter her zuthun und  
+<lb n="26"/>hierinn khain lenngern verzug noch sich ainichs verrers  
+<lb n="27"/>gewalt gebrauchen. Daran thun sy unser ernstlich meinung. Datum, <origDate>10. aprilis 
+<lb n="28"/>anno 1526</origDate> 
+</p>
+        <p><lb n="29"/>An vogt zu <placeName ref="lub-places-205">Bludenz</placeName> und <placeName ref="lub-places-6">Sonnenberg</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

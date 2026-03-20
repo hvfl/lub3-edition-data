@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Verzeichnis der Gerechtigkeiten der Pfarrpfründe Eschen</title>
+        <title>Verzeichnis der Güter und Rechte der Pfarrpfründe Eschen</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
@@ -14,14 +14,15 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 3 Seiten (Editionsvorlage)</witness>
-          <witness xml:id="B2">B2: Abschrift, Signatur: <ref type="identifier" target="lub-objects-739">LI-LA, PfäA 22/02</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: ca. 1555 / Beschreibstoff: Papier, 2 Seiten</witness>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-735">LI-LA, PfäA 21/04</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 18. Jahrhundert / Beschreibstoff: Papier (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Abschrift, Signatur: <ref type="identifier" target="lub-objects-739">LI-LA, PfäA 22/02</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 18. Jahrhundert / Beschreibstoff: Papier</witness>
+          <witness xml:id="B3">B3: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1203">LI-LA, PfäA 22/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeitraum: 18. Jahrhundert / Beschreibstoff: Papier</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Feststellung der Rechte und Pflichten eines Inhabers der Pfarrpfründe von Eschen.</p>
+        <p>Verzeichnis der Güter und Rechte, die Martin Schroff, Pfarrer zu Eschen, von Rudolf Stucki, Abt des Klosters Pfäfers, empfangen hat.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -46,6 +47,11 @@
     <graphic url="li-la__pf-fa_21_04-0003.jpg" xml:id="lub-media-1537" source="pfafa-21-04-s03.jpg" corresp="B1"/>
     <graphic url="li-la__pf-fa_22_02-0001.jpg" xml:id="lub-media-1545" source="pfafa-22-02-s01.jpg" corresp="B2"/>
     <graphic url="li-la__pf-fa_22_02-0002.jpg" xml:id="lub-media-1546" source="pfafa-22-02-s02.jpg" corresp="B2"/>
+    <graphic url="li-la__pf-fa_22_01-0001.jpg" xml:id="lub-media-3260" source="pfafa-22-01-s01.jpg" corresp="B3"/>
+    <graphic url="li-la__pf-fa_22_01-0002.jpg" xml:id="lub-media-3261" source="pfafa-22-01-s02.jpg" corresp="B3"/>
+    <graphic url="li-la__pf-fa_22_01-0003.jpg" xml:id="lub-media-3262" source="pfafa-22-01-s03.jpg" corresp="B3"/>
+    <graphic url="li-la__pf-fa_22_01-0004.jpg" xml:id="lub-media-3263" source="pfafa-22-01-s04.jpg" corresp="B3"/>
+    <graphic url="li-la__pf-fa_22_01-0005.jpg" xml:id="lub-media-3264" source="pfafa-22-01-s05.jpg" corresp="B3"/>
   </facsimile>
   <text>
     <body>

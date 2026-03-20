@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-212">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Die Ammänner und Gerichtsleute sollen Rudolf V. Graf von Sulz Gehorsam leisten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-212">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 34r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 8. September 1525 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Ammann und Gerichtsleute der Herrschaften Vaduz und Schellenberg, unverzüglich von der Empörung gegen Graf Rudolf von Sulz Abstand zu nehmen und Gehorsam zu leisten. Desgleichen Anweisung an Hans Mammendorfer, Vogt zu Vaduz, und Balthasar von Ramschwag, Pfleger zu Gutenberg, ihr Schloss gut zu verwahren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-33">Aufruhr</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1525-09-08">8. Sep 1525</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__34r+v-0001.jpg" xml:id="lub-media-580" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-34r-1.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_1_fol__34r+v-0002.jpg" xml:id="lub-media-581" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-34v-1.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Sultz Vadutz 
+<lb n="2"/>Embieten unnsern lieben, besonndern, allen und yegklichen vogthen amman und gerichtsleuten   
+<lb n="3"/>der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, so mit disem unnserm offen brief ersucht und angelangt werden, unnser  
+<lb n="4"/>gnad und alles guet. Unns lanngt gleublichen an, wie ir euch in jüngster emporungen  
+<lb n="5"/>und aufruen gegen dem edln unnserm liebn getrewen <persName ref="lub-actors-8">Ruedolffen graven zu Sulz</persName>,  
+<lb n="6"/>des <orgName ref="lub-actors-516">Heiligen Reichs</orgName> hofrichter zu <placeName ref="lub-places-17">Rotweil</placeName>, unnserm statthalter unnser <placeName ref="lub-places-160">Oberosterreichischen  
+<lb n="7"/>Lannde</placeName>, nit allain etwas ungehorsam und widerwerttigkait beweißen, sunder auch under
+<lb break="no" n="8"/>einander pündtnüssen gemacht, zu einander gesworn und solh pündtnus nit abzuthun 
+<lb n="9"/>vermainet. Darzu auch an demselben nit gestettigt, sunder noch etwas weitters under euch  
+<lb n="10"/>selbst und mit etlichen ewrn anstössen der obgemelten ewr herrschafft und oberkait zu wider  
+<lb n="11"/>practicirtt. Und dieweil euch aber solhs, wo das dermassen gestallt nit zugetauret, unns auch  
+<lb n="12"/>solhes in krafft des schuz und schürmbs, darinn gemelter unnser statthalter sambt solher  
+<lb n="13"/>seiner herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, unns und unnserm <orgName ref="lub-actors-172">haws Österreich</orgName> underworffen und zugethan  
+<lb n="14"/>ist, von euch merckhlichen misfallen und zugestatten nit gemaind ist. Demnach  
+<lb n="15"/>legen wir an euch all und ewr yeden in sonnders, mit ernst bevelhend, das ir solh pündt
+<lb break="no" n="16"/>nussen, wo ir die dermassen under einander gemacht hetten, unverzogenlichen 
+
+<lb n="17"/>abthutt und abstellet, auch euch ainichen weitter practica unnder euch selbst und bey etlichen ewer  
+<lb n="18"/>anstössen wider solh euer herrschafft und obrigkeit genzlichen muessigt und entschlaget und  
+<lb n="19"/>ime hinfüro alle pilliche gehorsam laistet und beweiset, und hierinnen nit anderst haltet <supplied>noch</supplied>  
+<lb n="20"/>ungehorsam erscheinet, damit wie nit verursacht werden, gemelten unnsern statthalter  
+<lb n="21"/>graf Ruedolffen zu Sulz bey pillichait und recht zu hanndhaben und hiewider nit verge<supplied>wer</supplied>
+<lb break="no" n="22"/>tigen zu lassen, das maynen wir ernstlichen. Datum, am <origDate>viii tag septembris anno etc. 1525</origDate>. 
+</p>
+        <p><lb n="23"/>In simili an amman und gerichts  
+<lb n="24"/>leut der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>. 
+</p>
+        <p><lb n="25"/><persName ref="lub-actors-155">Hannsen Mannendorffer</persName>, vogt zu <placeName ref="lub-places-7">Vaduz</placeName>, ist darauf geschriben, daz 
+<lb n="26"/>weil er daz <placeName ref="lub-places-33">sloß Vadutz</placeName> von herrn graf <persName ref="lub-actors-8">Ruedolffen von Sultz</persName>  
+<lb n="27"/>in verwalttungsweis innhab und aber die fürstlich durchlaucht öffnung dari<supplied>nn</supplied>
+<lb n="28"/>hab, und die fürstlich notturfft erfordern, guet aufsehen und aufmercken  
+<lb n="29"/>zu haben mit befelh, daz er solh sloß mit allem vleiß innhat,  
+<lb n="30"/>verwar und niemannds frömbden, sonndern alain vertrawt per
+<lb break="no" n="31"/>sonen, sovil er mechtig sei, yezuzeiten auf kirchtägen oder 
+<lb n="32"/>sonnst darinn ein und auslasse. Datum, den <origDate>8. tag septembris  
+<lb n="33"/>anno 1525</origDate>. 
+<lb n="34"/>Mer ist es von <persName ref="lub-actors-156">Rambswag</persName>, phleger zu <placeName ref="lub-places-13">Gutenberg</placeName>, geschriben,  
+<lb n="35"/>als er daz sloß <placeName ref="lub-places-13">Guttenberg</placeName> von fürstlich durchlaucht phlegsweis innhat  
+<lb n="36"/>mit befelh, daz er dasselb sloß pey disen geferlichen leuffen  
+<lb n="37"/>in gueter huet und verwarung hat und niemands frömbden, sonnder  
+<lb n="38"/>vertraut personen, sovil er der mechtig sey, yezuzeiten auf künftig  
+<lb n="39"/>tägen oder sonnst darinnen ein und auslasse. Datum, den <origDate>8.  
+<lb n="40"/>tag septembris 1525</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

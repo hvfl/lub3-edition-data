@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-794">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beschlagnahme von Getreide des Grafen Karl Ludwig Graf von Sulz durch die Stadt Feldkirch</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-794">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 12r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 9. November 1591 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Es sollen Jakob Graf, Ammann der Herrschaft Schellenberg, und Jakob Frick von Schaan in der Grafschaft Vaduz verhaftet werden, oder die Feldfrüchte ihrer Güter beschlagnahmen, die in dem Verwaltungsbereich von Feldkirch gelegen sind.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-331">Getreide</term>
+          <term ref="lub-keywords-57">Beschlagnahme</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-11-09">9. Nov 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__12r+v-0001.jpg" xml:id="lub-media-642" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-12r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__12r+v-0002.jpg" xml:id="lub-media-643" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-12v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herrn graf <persName ref="lub-actors-13">Carl Ludwigen zu  
+<lb n="2"/>Sulz</persName><term ref="lub-keywords-57">verarrestiert</term> traidt, und  
+<lb n="3"/>zwen seine unnderthanen betreffend. 
+</p>
+        <p><lb n="4"/>Wir haben euer unns vom <date when="1591-10-17">17. jüngstver
+<lb break="no" n="5"/>schinen monats octobris</date> zuegesanndt schreiben 
+<lb n="6"/>empfanngen unnd sovil nun erstlichen  
+<lb n="7"/>des durch euch, herrn <persName ref="lub-actors-13">Carln Ludwigen  
+<lb n="8"/>grafen zu Sulz</persName>, <term ref="lub-keywords-57">verarrestiert</term> getraydt  
+<lb n="9"/>unnd euer ime zuegethan schreiben betrifft,  
+<lb n="10"/>wellen wir euers ferrern berichts er
+<lb break="no" n="11"/>warten.
+<lb n="12"/>Waß dann sein, herrn <persName ref="lub-actors-13">grafens</persName>, durch euch <term ref="lub-keywords-223">ge
+<lb break="no" n="13"/>fenngckhlich</term> enthaltne zwen unndter
+<lb break="no" n="14"/>thanen belanngent, derowegen ist in
+<lb break="no" n="15"/>namen der fürstlichen durchlaucht erzherzog <persName ref="lub-actors-11">Ferdinanden 
+<lb n="16"/>zu Österreich</persName> etc., unnsers gnedigisten herrn,  
+<lb n="17"/>hiemit unnser bevelch an euch, das ir  
+<lb n="18"/>dieselben umb ewrer fürgewendten ur
+<lb break="no" n="19"/>sachen willen mit vorbehalt der azungs 
+<lb n="20"/>bezalung gegen ainem glubd auf wider  
+<lb n="21"/>stellung der verhafftung erlaset. Da
+<lb break="no" n="22"/>neben aber bedacht seyet, das <persName ref="lub-actors-170">Jacob 
+<lb n="23"/>Graw</persName>, amman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>,  
+<lb n="24"/>und <persName ref="lub-actors-171">Jacob Frickh</persName> von <placeName ref="lub-places-53">Schan</placeName>, der herrschafft  
+<lb n="25"/><placeName ref="lub-places-7">Vaduz</placeName>, da sy in ewer verwaltung betreten  
+<lb n="26"/>zu verhafftung gebracht werden, da solches  
+<lb n="27"/>aber nit beschechen kündte, alsdann die von  
+<lb n="28"/>iren in euer verwaltung gelegnen güetern  
+<lb n="29"/>järlich ertragne nuzungen in <term ref="lub-keywords-57">arresst</term>  
+
+<lb n="30"/>und verbot leget und einziechet. Wolten  
+<lb n="31"/>wir euch zue widerantwurt nit verhalten  
+<lb n="32"/>und es beschicht etc. Datum, <origDate>9. november 91</origDate>. 
+<lb n="33"/>An <orgName ref="lub-actors-2588">vogt und ambtleut  
+<lb n="34"/>zu Veldtkirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-224">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konfliktvermittlung zwischen Landammann und Rat von Glarus und den Grafen von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-224">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 5 fol. 25v-26r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. September 1559 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an die Gräfin Elisabeth von Sulz, dass man auf ihr Ersuchen hin Balthasar von Ramschwag angewiesen habe, in besagtem Konflikt zwischen ihren Söhnen Wilhelm und Alwig IX. und dem Landammann und Rat von Glarus auf Vorladung durch einen Kommissar Auskunft einzuholen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1559-09-25">25. Sep 1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_5_fol__25v-26r-0001.jpg" xml:id="lub-media-600" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-25v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_5_fol__25v-26r-0002.jpg" xml:id="lub-media-601" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-26r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><orgName ref="lub-actors-7">Sulz</orgName> contra <orgName ref="lub-actors-276">lanndtaman  
+<lb n="2"/>unnd rhat zu Glaris</orgName> die herrschafft  
+<lb n="3"/><placeName ref="lub-places-73">Werdenberg</placeName> betreffend 
+<lb n="4"/>Wolgeborne etc. Ewr schreiben vom f<date when="1559-09-05">unfften tag diß mo
+<lb break="no" n="5"/>nats</date> an unns außganngen, haben wir empfanngen 
+
+<lb n="6"/>unnd vernomen. Unnd darauf der römisch kayserlichen mayestät etc.   
+<lb n="7"/>unnsers allergnedigisten herrn vogt zu <placeName ref="lub-places-13">Guetem
+<lb break="no" n="8"/>berg</placeName>, <persName ref="lub-actors-156">Balthasern von Rambschwag</persName>, bevelch gegeben, 
+<lb n="9"/>daz er in spennen zwischen ewren sunen, den  
+<lb n="10"/>jungen graven zu <orgName ref="lub-actors-7">Sulz</orgName>, unnd denen von <orgName ref="lub-actors-276">Glaris</orgName>  
+<lb n="11"/>auf des commissarien citation, so wir seinenthalben  
+<lb n="12"/>verordert, zu einziehung kundtschafften ad perpetuam rei  
+<lb n="13"/>memoriam zu furderung unnd behelff der warhait  
+<lb n="14"/>kundtschafft sagen und geben soll, sovil ime darumben  
+<lb n="15"/>wars kundt unnd wissen ist, dem er also unge
+<lb break="no" n="16"/>zweifelt also geleben und nachkhomen wirdet. 
+<lb n="17"/>Unnd ubersennden euch die commission auf den <orgName ref="lub-actors-2588">hueb
+<lb break="no" n="18"/>maister zu Veldkirch</orgName> unnd daz schreiben an ine, 
+<lb n="19"/>von <persName ref="lub-actors-156">Rambschwag</persName>, hiemit zue, das wist ir inen  
+<lb n="20"/>uberschickhen ze lassen, wolten wir euch auf euer  
+<lb n="21"/>schreiben zu anntwurt freundtlicher maynunng  
+<lb n="22"/>nit pergen. Datum, den <origDate>xxv septembris anno etc. 
+<lb n="23"/>im lviiii</origDate>. An frawen <persName ref="lub-actors-163">Elspeth gravin zu Sulz</persName>  
+<lb n="24"/>wittib. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

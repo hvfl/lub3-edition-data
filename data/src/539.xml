@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-539">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf des Guggerboda</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-539">LI-GATb, U 9</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Originaldatierung: 11. November 1558 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Schädler, Albert. Regesten zu den Urkunden der liechtensteinischen Gemeindearchive und Alpgenossenschaften. In: JBL 8 (1908), S. 117, Nr. 45</bibl>
+          <bibl>Büchel, Johann Baptist, Geschichte der Pfarrei Triesen. In: JBL 2 (1902), S. 201.</bibl>
+          <bibl>Gurt, Claudius: Ediert auf <ref target="https://www.e-archiv.li/D47610">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Brüder Wilhelm und Alwig Grafen von Sulz verkaufen auf Bitten an Stefan Schedler, Simon Nigg und Peter Thöni am Triesenberg den diesen und ihren Vorfahren bislang zu Erblehen ausgegebenen Guggerboda für 200 Gulden, wobei der bestehende Wald in Bann stehen soll und ohne obrigkeitliche Erlaubnis kein Holz darin geschlagen werden darf.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+          <term ref="lub-keywords-157">Wald</term>
+          <term ref="lub-keywords-375">Etschkreuzer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-10">Sulz, Wilhelm V. von</persName>
+          <date when="1558-11-11">11. Nov 1558</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-9">Sulz, Alwig IX. von</persName>
+          <date when="1558-11-11">11. Nov 1558</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gatb__u_9-0002.jpg" xml:id="lub-media-2267" source="gatb-u-009-r-klein.jpg" corresp="A"/>
+    <graphic url="li-gatb__u_9-0002.jpg" xml:id="lub-media-2812" source="gatb-u-009-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir <persName ref="lub-actors-10">Wilhelm</persName> unnd <persName ref="lub-actors-9">Alwig gebrüeder graven zu Sulz</persName>, lanndtgraven in <placeName ref="lub-places-18">Cleggew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hofrichtere zu  
+<lb n="2"/><placeName ref="lub-places-17">Rottweil</placeName>, herrn zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Bluomenegg</placeName> etc. bekhennen unnd thun khundt allermenigclichen mit disem brief. Nachdem  
+<lb n="3"/>unnsere unnderthanen unnd hindersessen am <placeName ref="lub-places-41">Trisnerberg</placeName>, lieben getrewen <persName ref="lub-actors-328">Steffan Schedler</persName>, <persName ref="lub-actors-350">Syman Nigg</persName> unnd <persName ref="lub-actors-351">Petter Thöni</persName>, sambt  
+<lb n="4"/>iren mitverwannten, auch derselben vordern, oder wie dz ain yeder an sich gepracht von unnsern vordern unnd unns das gut, genannt  
+<lb n="5"/><placeName ref="lub-places-176">Guggerboden</placeName> am <placeName ref="lub-places-41">Drisnerberg</placeName>, in seine zilen unnd marckhen gelegen, wie das weylenndt <persName ref="lub-actors-328">Steffan Schedler</persName> unnd seine mithafften selig ye  
+<lb n="6"/>ainer biß uff den anndern zu ainem rechten erblehen ingehapt unnd genossen, unnd aber dasselb nit wie ehrblehens recht gehalten, sonnder  
+<lb n="7"/>mit versezen, verkhauffen unnd in annder weeg damit gehanndelt worden, dermassen das wir wol fuog gehabt, solch gut und lehen nach lehens  
+<lb n="8"/>recht widerumben zuhanden zunemen. Aber in ansehung obgemelter der unnsern unndertheniger pithe, auch allerhannd gelegenhait, so  
+<lb n="9"/>haben wir fur unns, unnser erben unnd nachkhumen obangeregt unnser lehens gerechtigkhait unnd proprietet am gut <placeName ref="lub-places-176">Guggerboden</placeName> ermelten  
+<lb n="10"/>unnsern unnderthonen sambt iren mitkeuffern, auch allen derselben erben unnd nachkhumen samennt unnd sonnderlich, sovil inen nach  
+<lb n="11"/>irem thail geburt, aigenthumblichen verkhaufft unnd zukhauffen geben in crafft dits briefs, in den zilen unnd marckhen, wie diz inn  
+<lb n="12"/>unnserm urbar begriffen gewesen unnd noch beanntlichen den <placeName ref="lub-places-176">Guggerboden</placeName> ob <placeName ref="lub-places-872">Christhalden</placeName> zu <placeName ref="lub-places-737">Malers Brunen</placeName> am <placeName ref="lub-places-41">Trisnerp<supplied>erg</supplied></placeName> gelegen, stost  
+<lb n="13"/>ainhalb an <placeName ref="lub-places-738">Runggelin Riß</placeName>, dem <placeName ref="lub-places-738">Riß</placeName> nach hinauf fur <placeName ref="lub-places-739">Wurzenboden</placeName>, so yez genannt dz <placeName ref="lub-places-740">Mettelty</placeName> biß in den <placeName ref="lub-places-741">Grosen Stain</placeName> von dem <placeName ref="lub-places-741">Stain</placeName>  
+<lb n="14"/>oben anhin unnd in den <placeName ref="lub-places-742">Grosen Zug</placeName> in dz <placeName ref="lub-places-743">Brunelin</placeName>, zur anndern seyten von <placeName ref="lub-places-743">Brunelin</placeName> herab in das <placeName ref="lub-places-744">Khlain Töbelin</placeName>, unnd unnden anhin  
+<lb n="15"/>als drey marckhstain, das unnderschaiden, von ainem in den anndern widerumben in <placeName ref="lub-places-738">Rungelin Riß</placeName>. An welches <placeName ref="lub-places-738">Rißes</placeName> statt yezo ain  
+<lb n="16"/>marckhstain uff der <placeName ref="lub-places-780">Egg</placeName> bey dem brunen gesezt, darin es sich allermassen wie in <placeName ref="lub-places-738">Rungelin Riß</placeName> zeugen soll etc. Alles mit grundt,  
+<lb n="17"/>gradt, wun, waid, stockh, stain, gesteut, gereutt, genngen, stegen unnd wegen, unnd gemainlich mit allen anndern seinen zugehörden, benembten  
+<lb n="18"/>unnd unbenembten, auch fur ledig, loß unnd gegen allermenigclich unverezt unnd unverkhumbert, annderst usgenommen, das der waldt in erst genannten  
+<lb n="19"/>zilen unnd marckhen usserhalb der wisen (wie die yezo ist) in ban ligen. Darauß oder darin auch nyemanndts on unnser oder unnserer ambt
+<lb break="no" n="20"/>leute unnd bevelch haber erlaubtnus nichzit zu hauwen gewalt noch recht haben sollen, in dhainerlay weiß noch weeg. Unnd also ist der 
+<lb n="21"/>eewig redlich kauf beschehen unnd gethan worden beanntlich umb zwayhundert guldin rheinisch in munz, yeden guldin zu funffzehenn  
+<lb n="22"/><placeName ref="lub-places-101">Costennzer</placeName> pazen, oder sechzig <term ref="lub-keywords-375">Etschkreüzer</term> geraith, alles guter munz unnd werung, dero wir von inen, den keuffern, erberlich  
+<lb n="23"/>ußgericht unnd bezalt worden sein, nach unnserm guten willen unnd bemuegen. Unnd hierauf diß eewigen, redlichenn  
+<lb n="24"/>kaufs, wie vorsteet, sollen unnd wöllen wir, volgenannte verkheuffere, all unnser erben unnd nachkhumen gemainlich unnd  
+<lb n="25"/>unverschaidenlich der genannten keuffer, aller irer erben unnd nachkhumen sament unnd sonnders, recht, gut unnd getrew  
+<lb n="26"/>krefftig gewern, furstannd unnd versprechere gegen allermenigclich sein, vor dem richter und gericht, darunder gemelte güetter  
+<lb n="27"/>gelegen ein, wo, wie, wenn oder gegen wem, als offt unnd dickh sy des nach den rechten ymmer bedurffen, oder notturfftig werden  
+<lb n="28"/>alfort in unnsernn aigen costen unnd one irn schaden, bey guten trewen, on alle widerred, ufzug unnd geferde. Unnd des zu  
+<lb n="29"/>warem, stettem unnd vesstem urkhundt, so haben wir unnser aigen gemain secrett innsigl fur unns unnd unnser erbenn  
+<lb n="30"/>offennlich lassen hennckhen an disen brief, der geben ist <origDate>an sanndt Marttins des hailigen bischofs tag im funfft
+<lb break="no" n="31"/>zehenhundert achtunndfunffzigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Kaufbrief umb den <placeName ref="lub-places-176">Guggerbodenn</placeName>, gehordt  
+<lb n="2"/><persName ref="lub-actors-328">Steffan Schedlern</persName>, <persName ref="lub-actors-350">Symon Niggen</persName>, <persName ref="lub-actors-351">Petter  
+<lb n="3"/>Toni</persName> unnd iren mitverwanndtenn 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

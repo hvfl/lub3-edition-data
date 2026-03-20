@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-14">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beschwerde der Stadt Feldkirch über Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Ausfertigung, Signatur: <ref type="identifier" target="lub-objects-14">AT-ÖStA HHStA Länderabteilung Österreichische Akten Vorderösterreich 9 fol. 307r–310v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 29: April 1591 / Beschreibstoff: Papier, 6 Seiten / Siegel: 2 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Stadtammann und Rat von Feldkirch beschweren sich bei Erzherzog Ferdinand von Österreich, dass in der Angelegenheit der Feldkircher Ausbürger in Ruggell, die Graf Karl Ludwig zu Abgaben verpflichtet hat, nichts gegangen ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-262">Abgabe</term>
+          <term ref="lub-keywords-3">Ausbürger</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-04-29">29. Apr 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__307r–310v-0008.jpg" xml:id="lub-media-1017" source="1591-04-29-hhsta-la-oa-vo-9-fol-310v.jpg" corresp="A"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__307r–310v-0009.jpg" xml:id="lub-media-1019" source="1591-04-29-hhsta-la-oa-vo-9-fol-307r-sulz-1.jpg" corresp="A"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__307r–310v-0010.jpg" xml:id="lub-media-1020" source="1591-04-29-hhsta-la-oa-vo-9-fol-307v.jpg" corresp="A"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__307r–310v-0011.jpg" xml:id="lub-media-1021" source="1591-04-29-hhsta-la-oa-vo-9-fol-308r.jpg" corresp="A"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__307r–310v-0012.jpg" xml:id="lub-media-1022" source="1591-04-29-hhsta-la-oa-vo-9-fol-308v.jpg" corresp="A"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__307r–310v-0013.jpg" xml:id="lub-media-1023" source="1591-04-29-hhsta-la-oa-vo-9-fol-309r.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Durchleuchtigister ertzhertzog, gnedigister fürst  
+<lb n="2"/>unnd herr. Euwer fürstlich durchleuchtigkhait  
+<lb n="3"/>seyen unnser unnderthenigiste, gehorsammiste  
+<lb n="4"/>unnd guettwilligiste dienst beraiths vleiß zu
+<lb break="no" n="5"/>vor. Gnedigister herr, waß massen 
+<lb n="6"/>bey euer fürstlich durchlaucht wir unns den <date when="1591-03-28">achtundtzwainz
+<lb break="no" n="7"/>igisten tag nechstverschines monats martii</date> 
+<lb n="8"/>von unnd ab dem wolgebornen herrn, herrn  
+<lb n="9"/><persName ref="lub-actors-13">Carl Ludwigen graven zu Sulz</persName> etc., herrn zu  
+<lb n="10"/><placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenperg</placeName> unnd <placeName ref="lub-places-12">Pluemenegg</placeName>,  
+<lb n="11"/>wegen unnserer <term ref="lub-keywords-3">außburger</term>, so in seiner  
+<lb n="12"/>gnaden oberkhait erstberüerter herrschafft  
+<lb n="13"/><placeName ref="lub-places-11">Schellenperg</placeName> in ainem fleckhen, <placeName ref="lub-places-2">Raggel</placeName>  
+<lb n="14"/>genant, haußhablichen wohnen, durch  
+<lb n="15"/>schreiben gehorsammist beschwärdt, auch  
+<lb n="16"/>darueben umb nothwendige hilff, schuz,  
+<lb n="17"/>schirm, hanndthabung unnd die gebur   
+<lb n="18"/>unnderthenigists höchsts vleyß gepetten,  
+<lb n="19"/>das möchte euer fürstlich durchlaucht sich gnedigist zu er
+<lb break="no" n="20"/>innern haben. Wiewol wir 
+<lb n="21"/>nun der hoffnung geweßen, es solte  
+<lb n="22"/>unnd wurde wolgedachter herr graf  
+<lb n="23"/>uber damahln vermellte, hievor erzaigte  
+<lb n="24"/>newerungen unnd getattlichaiten, auch  
+<lb n="25"/>das wir unns deß ordenlichen rechtens  
+
+<lb n="26"/>anerpotten unnd insonders, weyl wir  
+<lb n="27"/>hernach verschiner tagen wider solliches gegen  
+<lb n="28"/>seinen gnaden durch ain geschwornen nota
+<lb break="no" n="29"/>rien ain protestation thun lassen, gegen be
+<lb break="no" n="30"/>ruerten unnsern <term ref="lub-keywords-3">außburgern</term>, seydhero 
+<lb n="31"/>weitter nichtzit gehanndlet noch fürgenommen,  
+<lb n="32"/>sonnder vyl mehr si, unnsere <term ref="lub-keywords-3">außburger</term>,  
+<lb n="33"/>unnd unns an unsern, irer unnserer <term ref="lub-keywords-3">auß
+<lb break="no" n="34"/>burger</term> halb habenden freyhaitten, exemption, 
+<lb n="35"/>recht unnd gerechtigkhaitten, auch derselben  
+<lb n="36"/>besiz, possession vel quasi, ruewig unnd un
+<lb break="no" n="37"/>angefochten verbleiben lassen. So mag 
+<lb n="38"/>unnd will aber selbiges bey ime, herrn  
+<lb n="39"/>graven, nit verfang haben. Darum
+<lb break="no" n="40"/>benn an euer fürstlich durchlaucht wir was seydhero 
+<lb n="41"/>weitter newerlichs unnd hochbeschwär
+<lb break="no" n="42"/>lichs fürgegangen hiemit abermahln 
+<lb n="43"/>gehorsamist gelangen ze lassen, nicht umb
+<lb break="no" n="44"/>gehen khönden, sollen noch mögen, und 
+<lb n="45"/>nemblichen hat wolbesagter herr graf  
+<lb n="46"/>den <date when="1591-04-25">fünffundzwaintzigisten tag diz ab
+<lb break="no" n="47"/>laufenden monats aprillis</date> allen 
+<lb n="48"/>unnsern <term ref="lub-keywords-3">außburgern</term>, die zu gedachtem  
+<lb n="49"/><placeName ref="lub-places-2">Raggel</placeName> wonhaft, deß nechst darnach  
+
+<lb n="50"/>volgenden tags in dem <placeName ref="lub-places-33">schloß Vaduz</placeName> vor  
+<lb n="51"/>seinen gnaden zu erscheinen pietten lassen,  
+<lb n="52"/>von unnd auß wellichen iren acht personen  
+<lb n="53"/>dahin khommen. Denen herr graf furge
+<lb break="no" n="54"/>halten, wann geruertte <term ref="lub-keywords-3">außburger</term> under 
+<lb n="55"/>seinen gnaden hausen unnd wohnen wellen   
+<lb n="56"/>oder begeren, sollen si alle tagwan, fron
+<lb break="no" n="57"/>diennst, faßnachthennen unnd annders 
+<lb n="58"/>laissten unnd geben, in maassen seiner gnaden  
+<lb n="59"/>leybaigne leuth daselbsten zu thuen schuldig.  
+<lb n="60"/>Gleichfals auch, was benannte <term ref="lub-keywords-3">außburger</term>  
+<lb n="61"/>innerhalb fünffzig oder viertzig jaren  
+<lb n="62"/>hero von seiner gnaden herrschaft oder  
+<lb n="63"/>leybaignen leutten guetter erkhauft,  
+<lb n="64"/>dieselbigen ime, herrn graven, zu schnizen.  
+<lb n="65"/>Unnd wover nun die gesagten <term ref="lub-keywords-3">außburger</term>  
+<lb n="66"/>ain solliches obsteet thun unnd laisten,  
+<lb n="67"/>welle er, herr graf, iro gnediger herr  
+<lb n="68"/>unnd vatter sein unnd bleiben. Im  
+<lb n="69"/>fahl aber si, <term ref="lub-keywords-3">außburger</term>, dasselbige  
+<lb n="70"/>nicht thun wellen, solle inen darmit  
+<lb n="71"/>aller geniess in holz unnd veldt, wun  
+<lb n="72"/>unnd waid, trib unnd tratt, feur und  
+<lb n="73"/>liecht unnd allem wasserfluß abge
+<lb break="no" n="74"/>khundt unnd verpotten sein. Darzue  
+
+<lb n="75"/>so sollen die gedachten außburgere mit  
+<lb n="76"/>allem irem haab unnd guet auß seinem,  
+<lb n="77"/>deß herrn graven, lanndt ziehen unnd  
+<lb n="78"/>selbiges rhaumen, dann si seiner gnaden  
+<lb n="79"/>von dannen lieber auf ainhunder meyl  
+<lb n="80"/>dan nur ain halbe stund seyen. Unnd  
+<lb n="81"/>wie nun die beruerten <term ref="lub-keywords-3">außburger</term>, alls  
+<lb n="82"/>arme leuth, nach anhörung dessen alles  
+<lb n="83"/>mehr wolermelten herrn graven ganz  
+<lb n="84"/>unnderthenig gepetten, si hinfurtter  
+<lb n="85"/>wie von alltem gnedigcliche verbleiben  
+<lb n="86"/>ze lassen unnd inen zuvergonen, das  
+<lb n="87"/>si dessen verner raths haben mögen,  
+<lb n="88"/>mit vermeldung sein genande sol
+<lb break="no" n="89"/>liche sachen mit unns außtragen welle, 
+<lb n="90"/>hat darüber herr graf inen zu be
+<lb break="no" n="91"/>schaidt gegeben, si, <term ref="lub-keywords-3">außbürgere</term>, mögen 
+<lb n="92"/>wo si wellen rath pflegen, aber er, herr  
+<lb n="93"/>graf, welle dise sach mit unns nicht,   
+<lb n="94"/>sonnder inen, <term ref="lub-keywords-3">außburgern</term>, außtragen  
+<lb n="95"/>unnd das dieselben sein genaden hier
+<lb break="no" n="96"/>über in kurtzem beanntwurtten wellen.
+<lb n="97"/>Gelangt unnd ist also hierauf an euer fürstlich  
+<lb n="98"/>durchlaucht nochmahln unnser ganz underthenigist  
+
+<lb n="99"/>unnd gehorsamists pitten, die wellen  
+<lb n="100"/>auß hievor unnd oberzelten ursachen mit  
+<lb n="101"/>offt wolgesagtem herrn graf <persName ref="lub-actors-13">Carln Lud
+<lb break="no" n="102"/>wigen zu Sulz</persName> etc. dasjhenige verfuegen, 
+<lb n="103"/>inmassen bey euer fürstlich durchlaucht hievor alls  
+<lb n="104"/>vornen angeregt gehorsamist gepetten  
+<lb n="105"/>worden, das sollen unnd wellen  
+<lb n="106"/>umb euer fürstlich durchlaucht wir gehorsammist zuver
+<lb break="no" n="107"/>dienen beraith unnd geflissen sein, thuen 
+<lb n="108"/>hieneben derselben zu gnedigister will
+<lb break="no" n="109"/>fahriger resolution unnd fürstlichen 
+<lb n="110"/>gnaden unns nochmals underthenigist  
+<lb n="111"/>bevelhen. Datum, <origDate>den 29. aprillis  
+<lb n="112"/>anno etc. 91</origDate>. 
+<lb n="113"/>Euer fürstlich durchlaucht  
+<lb n="114"/>Unnderthenigiste  
+<lb n="115"/>gehorsammiste 
+<lb n="116"/><orgName ref="lub-actors-980">Stattmman und  
+<lb n="117"/>rath zu Veldtkhirch</orgName> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1017" n="1"/><lb n="1"/>Praesentato, <date when="1593-05-03">3. maii anno 91</date>. 
+<lb n="2"/>Dem durchleuchtigisten fürsten und  
+<lb n="3"/>unnd herrn, herrn <persName ref="lub-actors-11">Ferdinanden ertz
+<lb break="no" n="4"/>hertzogen zu Össterreich</persName>, hertzogen zu 
+<lb n="5"/><placeName ref="lub-places-120">Burgundi</placeName> etc. unnd gefürsten graven  
+<lb n="6"/>zu <placeName ref="lub-places-303">Habspurg</placeName> unnd <placeName ref="lub-places-96">Tyrol</placeName> etc. unnserm  
+<lb n="7"/>gnedigisten fürsten unnd herrn.  
+<lb n="8"/><orgName ref="lub-actors-929">Oberösterreichische Regierung</orgName> 
+<lb n="9"/>S. <placeName ref="lub-places-10">Veldtkhirch</placeName> 
+<lb n="10"/><orgName ref="lub-actors-929">Oberösterreichische Regierung</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

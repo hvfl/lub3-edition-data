@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-251">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eingriffe des Grafen Karl Ludwig von Sulz in die Hoheitsrechte des Vogts Kaspar von Ramschwag</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-251">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 33v-34r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 30. Januar 1593 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Weitere Anweisungen an Vogt und Amtleute von Feldkirch und Bescheid darüber an Kaspar von Ramschwag betreffend die Beschwerden des Vogts gegen die Eingriffe Karl Ludwigs von Sulz in die Hoheitsrechte des Hauses Gutenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+          <term ref="lub-keywords-238">Strafe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1593-01-30">30. Jan 1593</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__33v-34r-0001.jpg" xml:id="lub-media-650" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-33v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__33v-34r-0002.jpg" xml:id="lub-media-651" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-34r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Caspar von Rambschwag</persName>, vogt zu 
+<lb n="2"/><placeName ref="lub-places-13">Guettenberg</placeName> contra <persName ref="lub-actors-13">Carl Ludwig 
+<lb n="3"/>grafen zu Sulz</persName>. 
+</p>
+        <p><lb n="4"/>Welchermassen sich vor der fürstlichen durchlaucht erzherzog <persName ref="lub-actors-11">Ferdi
+<lb n="5"/>nanden zu Österreich</persName> etc., unnserm gnedigisten herren,  
+<lb n="6"/><persName ref="lub-actors-166">Caspar von Rambschwag</persName>, vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>,  
+<lb n="7"/>wider herrn <persName ref="lub-actors-13">Carl Ludwigen grafen zu Sulz</persName>,  
+<lb n="8"/>das er irer durchlaucht an dero hauß <placeName ref="lub-places-13">Guettenberg</placeName> recht  
+<lb n="9"/>und gerechtigkhait mit jagen, hagen, vischenzen  
+<lb n="10"/>und annderm, also auch ime, vogt, an außtreib
+<lb n="11"/>ung seines viehs newerliche eingriff und ver
+<lb n="12"/>hinderung zuefüegen solle, abermals gehorsamist  
+<lb n="13"/>beclagt, er, von <persName ref="lub-actors-166">Rambschwag</persName>, auch gleichfals deß  
+<lb n="14"/>von ime, herrn grafen, irer fürstlichen durchlaucht lehenman  
+<lb n="15"/><persName ref="lub-actors-167">Caspar Wolfinger</persName> viehwaid gethanen verbots  
+<lb n="16"/>und 70 fl. abgeforderter straff halben zuegeschriben,  
+<lb n="17"/>das habt ir ab hiebeiverwarten, den <date when="1593-01-17">17. dits</date> dat
+<lb n="18"/>tierten zwaien originalschreiben zu vernemen. 
+<lb n="19"/>Wann wir euch dann hiervor zu mermalen, was  
+
+<lb n="20"/>ir gegen gedachtem herrn <persName ref="lub-actors-13">grafen</persName> seiner, der fürstlichen durchlaucht,   
+<lb n="21"/>an dero aigenthumb zuefüegenden eingriff unnd  
+<lb n="22"/>newerung wegen fürnemen und verrichten sollet,  
+<lb n="23"/>bevelch und beschaidt ubersenndt. So lassen wir es  
+<lb n="24"/>demnach bei denselben nochmals allerdings unver
+<lb n="25"/>endert verbleiben, denen ir auch, damit irer fürstlich durchlaucht  
+<lb n="26"/>an dero recht und gerechtigkhait nichts entzogen  
+<lb n="27"/>werde, nachzukhomen werden wissen. 
+</p>
+        <p><lb n="28"/>Was aber ernennts von <persName ref="lub-actors-166">Rambschwags</persName> verrers  
+<lb n="29"/>guetachten, das vorbemelts herrn grafen unnder
+<lb n="30"/>thanen, ire in den herrschafften <placeName ref="lub-places-205">Bludenz</placeName> und <placeName ref="lub-places-47">Sonnen
+<lb n="31"/>burg</placeName> gelegne alppen mit irem vieh so lanng auch  
+<lb n="32"/>nit zu besuechen, unzt das ime, von <persName ref="lub-actors-166">Rambschwag</persName>, sein  
+<lb n="33"/>vieh auf die ime zuegehörigen alppen und waiden  
+<lb n="34"/>aller notturfft nach durch ine, herrn <persName ref="lub-actors-13">grafen</persName>, wider  
+<lb n="35"/>zugebrauchen, zuegelassen gebotten werden solle. 
+<lb n="36"/>Also auch angeregten <persName ref="lub-actors-167">Wolfinger</persName> belanngent,  
+<lb n="37"/>derowegen ist in irer fürstlichen durchlaucht namen, hiemit unnser  
+<lb n="38"/>verrer bevelch an euch, das ir unns hierüber  
+<lb n="39"/>ewern lautern aigentlichen und gründtllichen auß
+<lb n="40"/>füerlichen bericht sambt angehenckhtem rätlichen  
+<lb n="41"/>guetachten und widersenndung der einschlüß, hie
+<lb n="42"/>heer zu unnsern, der <orgName ref="lub-actors-929">Regierung</orgName>, hannden ehendis  
+<lb n="43"/>zuekhomen lasset. An dem volziecht ir etc. Datum,  
+<lb n="44"/>den <origDate>30. januarii anno etc. 93</origDate>. 
+<lb n="45"/>An <orgName ref="lub-actors-2588">vogt und ambtleut 
+<lb n="46"/>zu Veldtkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

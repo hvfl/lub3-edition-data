@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1219">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Neuerungen am Schloss Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1219">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 106v-107r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 12. Dezember 1589 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Kaspar von Ramschwag, Vogt zu Gutenberg betreffend die Eingriffe und Neuerungen des Grafen Karl Ludwig zu Sulz an Schloss und Vogtei Gutenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1589-12-12">12. Dez 1589</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__106v-107r-0001.jpg" xml:id="lub-media-3695" source="1589-12-12-buch-walgau-7-03-106v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__106v-107r-0002.jpg" xml:id="lub-media-3696" source="1589-12-12-buch-walgau-7-03-107r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem  
+<lb n="2"/>Welchermassen ir euch wider herrn  
+<lb n="3"/><persName ref="lub-actors-13">Carln Ludwigen grafen zu Sulz</persName><lb n="4"/>von wegen der eingrif unnd newerung,   
+<lb n="5"/>so er in der vogtey <placeName ref="lub-places-13">Guettenberg</placeName><lb n="6"/>sich anzumassen unndersteen solle,  
+<lb n="7"/>abermalen beschwerdt, daz haben wir ob  
+<lb n="8"/>ewerm der fürstlichen durchlaucht etc., unnsers gnädigsten  
+<lb n="9"/>herrn tyrolischen camer rathen, den  
+<lb n="10"/><date when="1589-11-29">29. negst verschinen monats novembris</date> bei  
+<lb n="11"/>disem ewerm darumben aigens obgesandten  
+<lb n="12"/>boten zuegethanen schreiben, so sy, herrn der  
+<lb n="13"/><orgName ref="lub-actors-2587">Camer</orgName>, unns sambt der darauf referier
+<lb break="no" n="14"/>renden nebenlag zustellen lassen, nach 
+<lb n="15"/>lenngs verstannden. Was wir nun hier
+<lb break="no" n="16"/>auf dem vogt unnd amtbleuten der 
+<lb n="17"/>herrschafft <placeName ref="lub-places-10">Veldkhirch</placeName> widerumben auf
+<lb break="no" n="18"/>erlegen unnd bevelchen, daz habt ir ab hie
+<lb break="no" n="19"/>beiligennder abschrift zuvernemen unnd 
+<lb n="20"/>ir werdet inen daz original zuzusennden  
+<lb n="21"/>unnd vorigem unnserm derowegen an  
+<lb n="22"/>euch außganngnen bevelch nachzukhom
+<lb break="no" n="23"/>men wissen., wolten etc. Datum, den 
+<lb n="24"/><origDate>12. decembris anno etc. 89</origDate>. 
+<lb n="25"/>An <persName ref="lub-actors-166">Caspar von Ramb
+<lb break="no" n="26"/>schwag</persName> vogt zu <placeName ref="lub-places-13">Guottenberg</placeName>
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

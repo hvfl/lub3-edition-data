@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-249">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Karl Ludwig Graf von Sulz lässt die Frau von Kaspar Wolfinger mit Gefängnis bedrohen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-249">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 18r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 16. April 1592 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abermalige Anweisung an die Stadt Feldkirch, im Zehntstreit zwischen Karl Ludwig von Sulz und Kaspar von Ramschwag betreffend die Erblehen von Kaspar Wolfinger in Balzers zu vermitteln. Karl Ludwig von Sulz hat die Ehefrau Kaspar Wolfingers, die aus der Grafschaft Sargans stammt und sich dort aus der Leibeigenschaft freigekauft hatte, mit Gefängnis bedroht, falls sie sich dem Grafen nicht leibeigen ergeben, oder von ihrem Mann distanzieren würde. Hinzu kommen weitere Eingriffe gegen Kaspar von Ramschwag, bei denen der Graf dessen Vieh wegtreiben und zwei Bauern an der Burghalde abstrafen liess.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-58">Leibeigenschaft</term>
+          <term ref="lub-keywords-57">Beschlagnahme</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-234">Gewalt</term>
+          <term ref="lub-keywords-100">frevel</term>
+          <term ref="lub-keywords-238">Strafe</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1592-04-16">16. Apr 1592</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__18r+v-0001.jpg" xml:id="lub-media-646" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-18r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__18r+v-0002.jpg" xml:id="lub-media-647" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-18v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Caspar von Rambschwag</persName> contra 
+<lb n="2"/>herrn graf <persName ref="lub-actors-13">Carl Ludwigen zu 
+<lb n="3"/>Sulz</persName>. 
+</p>
+        <p><lb n="4"/>Zway unnderschidliche und am <date when="1592-04-07">7. diß<!--Balzers--></date> datierte  
+<lb n="5"/>schreiben, so <persName ref="lub-actors-166">Caspar von Rambschwag<!--Balzers--></persName>, vogt zu  
+<lb n="6"/><placeName ref="lub-places-13">Guettenberg<!--Balzers--></placeName>, den tyrolischen camerräten  
+<lb n="7"/>zuegethan, habt ir hiebey zu empfahen und  
+<lb n="8"/>daraus zu vernemen, als aus dem ersten,  
+<lb n="9"/>was massen er sich wider graf <persName ref="lub-actors-13">Carl Lud
+<lb n="10"/>wigen zu Sulz<!--Balzers--></persName>, das er welle <persName ref="lub-actors-167">Casparn Wolf
+<lb n="11"/>ingers<!--Balzers--></persName> eewiertin (so ennhalb <placeName ref="lub-places-103">Reins<!--Balzers--></placeName> aus  
+<lb n="12"/>der grafschafft <placeName ref="lub-places-172">Salganß<!--Balzers--></placeName> heer seye, und sich  
+<lb n="13"/>daselbs abgelöst habe), solle sich ime, herrn  
+<lb n="14"/><persName ref="lub-actors-13">grafen<!--Balzers--></persName> zu <term ref="lub-keywords-58">leibaigen<!--Balzers--></term> ergeben, oder aber von  
+<lb n="15"/>gedachtem irem mann abtretten mit troung  
+<lb n="16"/>der <term ref="lub-keywords-223">fennckhnus<!--Balzers--></term>, wo sy solhes nit thue. Und dar
+<lb n="17"/>neben auch des ime, <persName ref="lub-actors-167">Wolfingers<!--Balzers--></persName>, <term ref="lub-keywords-57">abgenom
+<lb n="18"/>nen<!--Balzers--></term> viehs halber und im anndern schreiber der  
+<lb n="19"/>spenn und eingriff von wegen jagen, hagens  
+<lb n="20"/>und vischenzen. Item das ime ferntigen sum
+<lb n="21"/>mer ab der alben (so er mit berüerts herrn  
+<lb n="22"/>grafen underthanen zu <placeName ref="lub-places-71">Walzers<!--Balzers--></placeName><!--Balzers--> in gemain  
+<lb n="23"/>hat) aus seinem bevelch zwelf küe getriben  
+<lb n="24"/>(welliches ime heur widerumben begegnen  
+<lb n="25"/>mechte). Dann auch sezung etlicher marckhen  
+
+<lb n="26"/>und letstlich das erstermelte<persName ref="lub-actors-13">r he</persName>rr graf zwen  
+<lb n="27"/>paurn (so an der Burgghalden gefreflt und ein
+<lb break="no" n="28"/>annder mit feüssten geschlagen) abgestrafft. Und 
+<lb n="29"/>darmit ime, vogt, ainen newen eingriff gethan  
+<lb n="30"/>habe, beschwern und umb hilff und beschaid, wessen  
+<lb n="31"/>er sich verhalten solle, unnderthenig anrüeffen  
+<lb n="32"/>und biten thuet etc. Dieweil wir euch dann  
+<lb n="33"/>hievor zu mermalen gegen offtbesagtem h<persName ref="lub-actors-13">errn  </persName>
+<lb n="34"/>grafen, was ir fürnemen und verrichten sollet,  
+<lb n="35"/>die notturfft auferlegt und bevolhen, so lassen  
+<lb n="36"/>wir es diser zeit dabei verbleiben. In namen  
+<lb n="37"/>hohermelter fürstlicher durchlaucht euch hiemit bevelhend,  
+<lb n="38"/>das ir demßelben angelegnes fleiß gehorsame  
+<lb n="39"/>und würckhliche volziehung laisstet. 
+</p>
+        <p><lb n="40"/>Sein, des von <persName ref="lub-actors-166">Rambschwags</persName>, gebetnen gelts ver
+<lb n="41"/>ordnung halben, solle etwo künfftigclich ge
+<lb n="42"/>bürender beschaid ervolgen. Wolten wir  
+<lb n="43"/>euch nit verhalten und beschieht an deme etc. 
+<lb n="44"/>Datum, den <origDate>16. aprilis anno etc. 92</origDate>. 
+<lb n="45"/>An <orgName ref="lub-actors-337">vogt und ambtleut  
+<lb n="46"/>zu Veldtkirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-250">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt des Grafen Karl Ludwig von Sulz mit dem Haus Österreich</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-250">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 18v-19r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Mai 1592 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute von Feldkirch, den neu aufgenommenen Landschreiber des Grafen Karl Ludwig von Sulz wegen ungebührlicher Reden gegen das Haus Österreich zu verhaften.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1592-05-01">1. Mai 1592</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__18v-19r-0001.jpg" xml:id="lub-media-648" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-18v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__18v-19r-0002.jpg" xml:id="lub-media-649" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-19r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Sulzischer lanndtschreiber  
+<lb n="2"/>wider die fürstliche durchlaucht und dero hoh
+<lb break="no" n="3"/>loblich <orgName ref="lub-actors-172">haus Österreich</orgName> außge
+<lb break="no" n="4"/>goßner ungebürlicher reden 
+<lb n="5"/>halben. 
+</p>
+        <p><lb n="6"/>Was ir, der vogt der fürstlichen durchlaucht, unnsers gnedigisten  
+<lb n="7"/>herrn gehaimen rat und hofcannzler doctor  
+<lb n="8"/><persName ref="lub-actors-2606">Justinian Moßer</persName> aines notari so jüngstlich durch  
+
+<lb n="9"/>den herrn grafen zu <persName ref="lub-actors-13">Sulz</persName> zu seinem lanndt
+<lb break="no" n="10"/>schreiber an- und aufgenomen worden, wider 
+<lb n="11"/>die fürstliche durchlaucht und dero hohloblich <orgName ref="lub-actors-172">haus Öster
+<lb break="no" n="12"/>reich</orgName> nit allain zu <placeName ref="lub-places-873">Mörsperg</placeName>, sonnder auch 
+<lb n="13"/>zu <placeName ref="lub-places-10">Veldtkirch</placeName> in ewrem beisein außgegoß
+<lb break="no" n="14"/>ner ungebürlicher reden halben, vom <date when="1592-04-25">25. 
+<lb n="15"/>negstverschinen monats aprilis</date>, zuegeschriben,  
+<lb n="16"/>das haben wir seines innhalts angehert.  
+<lb n="17"/>Und bevelhen euch darauf in erst höchstge
+<lb break="no" n="18"/>dachter fürstlicher durchlaucht namen hiemit, da gedachter 
+<lb n="19"/>new angenomner sulzischer lanndtschreiber  
+<lb n="20"/>auf österreichischem poden ewrer verwalt
+<lb break="no" n="21"/>ung zubetreten, ir ine in verhafft nemet, 
+<lb n="22"/>die fürstliche durchlaucht oder unns dessen alßbaldt berichtet,  
+<lb n="23"/>und biß auf weitern beschaid in verstrickhung  
+<lb n="24"/>enthalten lasset, euch auch entzwischen der  
+<lb n="25"/>zu <placeName ref="lub-places-873">Mörspurg</placeName> außgoßner reden halben bei  
+<lb n="26"/>dem lanndtschreiber zu <placeName ref="lub-places-45">Bregenz</placeName> etwas  
+<lb n="27"/>merers erkhundiget, an deme volziecht  
+<lb n="28"/>ir etc. Datum, den <origDate>ersten tag may anno etc.  
+<lb n="29"/>92</origDate>. 
+<lb n="30"/>An <orgName ref="lub-actors-2588">vogt und ambtleut  
+<lb n="31"/>zu Veldtkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

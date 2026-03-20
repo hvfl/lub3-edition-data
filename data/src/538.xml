@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-538">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Landammann Adam Frick siegelt einen vor einigen Jahren gefällten Entscheid zu Holzrisen am Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-538">LI-GATb, U 5</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Originaldatierung: 4. Februar 1538 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Gurt, Claudius: Edition auf <ref target="http://www.e-archiv.li/D47608">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Adam Frick, Landammann der Herrschaft Vaduz, siegelt die von Georg Lampert von Triesenberg auf dem im Namen des Grafen Johann Ludwig von Sulz in des Zollers Hans Gantners Haus in Vaduz abgehaltenen Herbstzeitgericht erbetene Ausfertigung eines von ihm und anderen Nachbarn auf Masescha vor 11 oder 12 Jahren hinsichtlich einiger Holzriesen (natürliche oder künstlich angelegte Rinnen zur Beförderung von Holz ins Tal) verlangten Gerichtsspruchs, der die genaue örtliche und zeitliche Benutzung der Holzriesen im Gebiet Remmiswang, Foppa, Färcha und Kulm festlegt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-253">Holz</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-347">Frick, Adam (1)</persName>
+          <date when="1538-02-04">4. Feb 1538</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gatb__u_5-0002.jpg" xml:id="lub-media-2266" source="gatb-u-005-r-klein.jpg" corresp="A"/>
+    <graphic url="li-gatb__u_5-0002.jpg" xml:id="lub-media-2811" source="gatb-u-005-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Ich <persName ref="lub-actors-347">Adam Frickh</persName>, der zeit aman der herschafft <placeName ref="lub-places-7">Vaduz</placeName>, bekhenn offennlich und thue khundt allermenigklich mit dissem brieve, das ich aus gwaldt auch von gnaden und empfelchnus, des wol
+<lb break="no" n="2"/>gebornen herrn, herrn <persName ref="lub-actors-35">Johanns Ludwigs graven zu Sulz</persName>, lanndtgraven im <placeName ref="lub-places-18">Cleckhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoffrichter zu <placeName ref="lub-places-17">Rotweyl</placeName>, herrn zu <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> etc. meins 
+<lb n="3"/>genedigen hern, herpstzeitgericht daselbst zu <placeName ref="lub-places-7">Vaduz</placeName>, in <persName ref="lub-actors-349">Hans Gantners</persName> des zollers haus, auff heut datho besessen hab, do kham fur mich und offenn verpannen gericht der erber <persName ref="lub-actors-348">Göerg Lampart</persName>  
+<lb n="4"/>ab dem <placeName ref="lub-places-41">Trissnerberg</placeName> und ließ durch seinen mit recht erlaupten fursprechen, von mir und dem gericht furbringen, wie ime und auch andern nachpauren auff <placeName ref="lub-places-190">Maseschen</placeName> gesessen, durch  
+<lb n="5"/>mich, als richtern, und <persName ref="lub-actors-55">Jacoben Mayern</persName>, geschwornen landt- und gerichtswaybeln, aus bevelch und verordnung hie ains landtvogts und ganzen gerichts, etlicher ryssen halben, vor eylff oder  
+<lb n="6"/>zwelff jaren ungevarlich, ain spruch ergangen, welcher ime noch bishar mit gefolgt hett mugen werden, und als er bericht, were derselb spruch dem schreiber <persName ref="lub-actors-290">Franzen Landtman</persName> zugestelt in  
+<lb n="7"/>gschrifft zuverfassen begert, also darauff von dem schreiber, sover derselb spruch in gschrifft coppiert hie vor dem bericht zuverharen, oder wo derselb nit vermerckht were, durch mich,   
+<lb n="8"/>richter, und den waybel nochmals zueroffnen, wann ime derselb spruch zu seinen obanligenden not were, sazt das also zu erkhandtnus des rechten, ob solichs nit pillich beschäche. Darauff  
+<lb n="9"/>ist nach mein, richters, umbfrag, auff seinen furtrag und begeren zu recht erkhendt und gesprochen, also, dieweyl ich, , und der waybel zu dem spruch von oberkhait und dem rechten ver
+<lb break="no" n="10"/>ordnet gewesst und demselben spruch dem schreiber in gschrifft zustellen angegeben haben, das dann dieselb coppey, solle vor gericht verhart werden, so dann jemandt darein zu reden hette, solte 
+<lb n="11"/>darauff furo weiter beschechen was recht ist, ob aber jemandt auff heut disser tag oder morgen zum nachgericht in recht nichzit darwider reden wurde, solte dann <persName ref="lub-actors-348">Georgen Lamparten</persName> unnd  
+<lb n="12"/>seinen mit begerenden, derselb spruch wie der coppiert und verlessen wurd, mit brieff und sygeln pillich auffgericht und wie sich gepirtt verfertigt werden. Und nach dem dieselb coppey  
+<lb n="13"/>von mir, richter, und ganzem gericht offennlich von wort zu wort verlessen ward, also lauttend, welcher an das ryß an <placeName ref="lub-places-191">Remmis wang</placeName>, mit brenn-, dach-, oder zimerholz khomen wurd,  
+<lb n="14"/>derselb soll demselben ryß nach biß in die <placeName ref="lub-places-193">Foppen</placeName> faren. Dergleichen welher in <placeName ref="lub-places-192">Verrichen</placeName> hawen wurd, soll auch biß in die <placeName ref="lub-places-193">Foppen</placeName> faren und dann von dannen aus der <placeName ref="lub-places-193">Foppen</placeName>, wie von  
+<lb n="15"/>alterher den alten ryssen nach, jeder den nechsten auff das sein, dem andern sovil muglich ist, unschedlich zufaren und nemlich auch zu khainen andern zeiten, dann zwischen <date when="--11-11">sandt Martis  
+<lb n="16"/>tag</date> und außgendem merzen, und besonder wann das ertrich gefroren ist. Dann des ryß halben am stain gegen dem <placeName ref="lub-places-138">Gullman</placeName>, so auch in die <placeName ref="lub-places-193">Foppen</placeName> reicht und kompt, soll gleicher gestalt  
+<lb n="17"/>wie mit dem ryssen <placeName ref="lub-places-191">Remmis wang</placeName> und <placeName ref="lub-places-192">Verrichen</placeName>, wie vorstat, gehalten worden. Und also niemandt im rechten ichzit darwider geredt, hat gemelter <persName ref="lub-actors-348">Göerg Lampart</persName> disser urthel und spruchs  
+<lb n="18"/>vom rechten ains brieffs begert, der im under mein, richters, innsigel mit urthel zugeben erkhendt ist. Hirumb zu urkhundt so hab ich mein aigen innsigel doch dem gericht auch  
+<lb n="19"/>mir und mein erben on allen schaden an dissen brieff offennlich gehenckht. Beschechen auff <origDate>montag sandt Agthen abendt nach Cristi unsers lieben herrn gepurtt feinffzehen
+<lb break="no" n="20"/>hundert und im achtunddreyssigisten jare</origDate>.
+</p>
+      </div>
+      <div type="back">
+        <p>
+          
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

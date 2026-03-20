@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-242">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt um Hoheitsrechte des Vogts von Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-242">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 294r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 11. Oktober 1589 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Kaspar von Ramschwag, Vogt zu Gutenberg,  sich in seinen auf Gutenberg habenden Hoheitsrechten durch Graf Karl Ludwig von Sulz nicht beeinträchtigen zu lassen, sondern sie zu schützen und zu wahren. Dieselbe Anweisung erging auch an Verwalter und Amtleute zu Bregenz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-55">Hoheitsrecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1589-10-11">11. Okt 1589</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__294r+v-0001.jpg" xml:id="lub-media-637" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-294r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName>. 
+<lb n="2"/>Aus eurn unns vom <date when="1589-07-08">8. julii</date> unnd <date when="1589-09-14">14. septembris</date> alles  
+<lb n="3"/>negsthin zuegesandten schreiben, haben wir was sich herr  
+<lb n="4"/><persName ref="lub-actors-13">Carln Ludwig graf zu Sulz</persName> in dem schloß unnd vogtey  
+<lb n="5"/><placeName ref="lub-places-13">Guettenberg</placeName> für eintrag unnd newerung anzumassen  
+<lb n="6"/>unndersteen solle, nach lenngs verstannden. Hierauf ist  
+<lb n="7"/>innamen der fürstlichen durchlaucht erzherzog <persName ref="lub-actors-11">Ferdinannden zu Österreich</persName> etc.,  
+<lb n="8"/>unnsers gnädigsten herrn, unnser bevelch an euch, das ir irer  
+<lb n="9"/>fürstlichen durchlaucht an dero diz orths habennden recht- und gerechtig
+<lb break="no" n="10"/>khaiten nichts enndtziechen lasset, sonnder dieselbig ge
+<lb break="no" n="11"/>bürennder massen hanndthabet, wie wir dann dem ver
+<lb break="no" n="12"/>walter unnd amptleuthen zu <placeName ref="lub-places-45">Bregennz</placeName> hieneben auf
+<lb break="no" n="13"/>erlegen unnd bevelchen, euch auf eur begern hilf unnd 
+<lb n="14"/>beystanndt zuerzaigen unnd irer durchlaucht recht- und gerecht
+<lb break="no" n="15"/>same hanndthaben zuverhelffen. Welliches schreiben ir inen, 
+<lb n="16"/>beampten, zuezusenden werdet wissen. Wolten wir euch etc.  
+<lb n="17"/>Datum, <origDate>11. octobris anno etc. 89</origDate>. 
+<lb n="18"/>An <persName ref="lub-actors-166">Casparn von Rambschwag</persName>,  
+<lb n="19"/>vogt zu <placeName ref="lub-places-13">Guettenberg</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

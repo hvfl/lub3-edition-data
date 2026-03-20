@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-545">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf des Maiensässes Silum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-545">LI-GATb, U 28</ref> (<orgName key="li-gatb" ref="lub-objects-526">Gemeindearchiv Triesenberg</orgName>) / Originaldatierung: 15. Februar 1611 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>Schädler, Albert. Regesten zu den Urkunden der liechtensteinischen Gemeindearchive und Alpgenossenschaften. In: JBL 8 (1908), S. 121, Nr. 71.</bibl>
+          <bibl>Gurt, Claudius: Ediert auf <ref target="http://www.e-archiv.li/D45150">e-archiv.li</ref>.</bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ammann, Geschworene und die ganze Gemeinde Triesen verkaufen den am Triesnerberg wohnhaften Georg und Crista Negeli, Bartli Schlegel, Martin Hilbi und Bastian Beck das Maiensäss Silum für 300 Gulden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+          <term ref="lub-keywords-257">Maiensäss</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-229">Walser, Thomas</persName>
+          <date when="1611-02-15">15. Feb 1611</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gatb__u_28-0002.jpg" xml:id="lub-media-2244" source="gatb-u-028-r-klein.jpg" corresp="A"/>
+    <graphic url="li-gatb__u_28-0002.jpg" xml:id="lub-media-2809" source="gatb-u-028-v.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir aman, geschworne und gantze gemaind zue <placeName ref="lub-places-79">Trisen</placeName> in der herrschafft <placeName ref="lub-places-7">Vadutz</placeName> gelegen,  
+<lb n="2"/>bekhennen offentlich samendt- und sonderlich mit disem brieff für unß, all unser erben und nac<unclear>kommen, das wir mit</unclear> zeitlicher  
+<lb n="3"/>vorbetrachtung und zuvor gehabtem rath, auch guttem wüssen und willen, ohne hindergangen zue <unclear>verhüedtung unßers</unclear> merckhlichen  
+<lb n="4"/>schadens, aines uffrechten, redlichen, stethen, vesten, ewigen, ymerwerendten und unwiderrüefflichen khauffs, wie der ihmer guet,   
+<lb n="5"/>crafft und macht hat, haben soll, kan und mag, uffrecht und redlich verkhaufft und zue khauffen geben haben, geben auch hiemit  
+<lb n="6"/>wüssendtlich und in krafft dis brieffs zuekhauffen den erbaren <persName ref="lub-actors-365">Georg Negelin</persName>, <persName ref="lub-actors-366">Partlin Schlegel</persName>, <persName ref="lub-actors-367">Martin Hilbin</persName>, <persName ref="lub-actors-368">Crista Negelin</persName>  
+<lb n="7"/>und <persName ref="lub-actors-369">Bastian Beckhen</persName>, allen wonhafft am <placeName ref="lub-places-41">Trißnerberg</placeName>, auch allen iren erben und nachkhomen benantlichen ain <term ref="lub-keywords-257">meyenseßlin</term>,  
+<lb n="8"/>genandt die <placeName ref="lub-places-197">Salums</placeName>, stost uffwerdts dem land nach an den <placeName ref="lub-places-134">Wyßfleckhen</placeName>, gegen dem <placeName ref="lub-places-103">Rein</placeName> an Trißnerberger aigne gütter, ab
+<lb break="no" n="9"/>werdts dem landnach an die <placeName ref="lub-places-192">Ferchen</placeName>, gegen dem berg an die alpp <placeName ref="lub-places-531">Bürgeyli</placeName>. Und dan auß dem <placeName ref="lub-places-192">Verchen</placeName> thürlin hinauff uff Kay
+<lb break="no" n="10"/>serß Boden, an den selben marchstain und auß dem marckhstain hinauff an den <placeName ref="lub-places-619">Weyßen stain</placeName> über die höchy hinab biß an 
+<lb n="11"/>den <placeName ref="lub-places-134">Wißfleckhen</placeName>. Darnach an allen güetteren himumb wider biß an das <placeName ref="lub-places-192">Ferchen</placeName> thürlin, daruff stath zuvor ain weg,  
+<lb n="12"/>so die <placeName ref="lub-places-531">Burgeyler</placeName> des jars ain mal zue und von der alpp, gestrackhs zuefaren haben, uber den weg weiter nit verkhömereten  
+<lb n="13"/>noch beschwerdt, sonder ledig und aigen. Es hat auch an disem jezt bemelten meyenßes <persName ref="lub-actors-365">Georg Negelin</persName> für sich selbst den driten  
+<lb n="14"/>thaill kaufft und dan die zwen thaill dise vier obgemelte mit ainanderen gemain. Hierauff ist diser uffrecht und redlich  
+<lb n="15"/>kauff zuegangen und beschechen, benantlichen umb drey hunderdt guldin guetter costanzer münz genemer veldkhircher wer
+<lb break="no" n="16"/>ung, die besagte köuffere unß, den verkhöufferen, nach unserem völigen benüegen außgericht und bezalth, derwegen denen koüfferen, 
+<lb n="17"/>auch allen iren erben und nachkhomen, und wer deßhalber verners quitierens bedarff, hiemit und in crafft diß brieffs bester  
+<lb n="18"/>form quitierente. Hierauff und dem allem nach mögen besagte köuffere, ire erben und nachkhomen, <supplied>obbemelt</supplied> meyenßes,  
+<lb n="19"/>wie söliches in bemelten seinen zeilen und marckhen begriffen, nun hinfüro ihmer und ewigklich <supplied>rüewiglich</supplied> inhaben, nuz
+<lb break="no" n="20"/>en, nießen, widerumb verkhauffen, verthauschen, versezen und uberal in all ander weg damit <supplied>handlen, schalten,</supplied> walthen, thuen 
+<lb n="21"/>und laßen, als mit anderen iren aigenthümlichen güetteren unverhinderet von unß, unseren erben und nachkhomen, auch  
+<lb n="22"/>sonst allermenigkliches, dan wir für unß, unser erben und nachkhomen, unß desselben genzlich und allerdings verzigen und  
+<lb n="23"/>begeben haben, verzichen und begeben unß auch hiemit wüssendtlich und in crafft diß brieffs, daran auch ainiche  
+<lb n="24"/>ansprach, vorderung, recht noch gerechtigkeit niemerm<unclear>eh</unclear> zu haben, zu suochen, noch zue <supplied>gewinnen</supplied> in kain weyß noch weg,  
+<lb n="25"/>sondern obb<unclear>erüerdten</unclear> khauffs halben erzelter maßen geg<supplied>en menigklich</supplied> wo, wan <supplied>und wie offt köu</supplied>ffere oder ire erben dessen  
+<lb n="26"/>bedürfftig und von <supplied>nöthen</supplied> sein werden für allen iren <supplied>anhang recht gewehren und tröstern zue sein ains jeden insonderlich</supplied>,  
+<lb n="27"/>ohne iren costen und schaden. Dar zue auch allen und jeden inhalt und mainung diß brieffs wahr, vest, steth und unver
+<lb break="no" n="28"/>brechlich zue halten, wellen wir hiemit, unßeren waren trewen und glauben an <supplied>recht</supplied> geschworner aidtstadt ge
+<lb break="no" n="29"/>lobt und versprochen haben, getreülich und ungefahrlich. Dessen zue wahre<supplied>m</supplied> urkhund halten wir mit vleiß 
+<lb n="30"/>und ernst gebethen und erbethen den ersamen und weyßen herren <persName ref="lub-actors-229">Thoman Walßer</persName>, derweillen landtaman der  
+<lb n="31"/>herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, wohnhafft zue <placeName ref="lub-places-53">Schan</placeName>, das er sein aigen insigell (doch <supplied>ime, unsern erben</supplied> und nachkhomen inn  
+<lb n="32"/>allweg ohne schaden) offendtlich hieran gehen<supplied>ckht hat</supplied>. Der geben ist den <origDate><supplied>fünffzehendten</supplied> monats tag februarii  
+<lb n="33"/>des eingehendten sechtzechen hundertisten und <supplied>ailfften jaren</supplied>.</origDate> 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <lb n="1"/>
+          <gap/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

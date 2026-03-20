@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-795">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt zwischen Kaspar von Ramschwag und Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-795">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 35r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 22. März 1593 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an den Vogt und die Amtsleute in Feldkirch, sich über den Konflikt zwischen Karl Ludwig von Sulz und Kaspar von Ramschwag zu erkundigen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1593-03-22">22. Mär 1593</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__35r-0001.jpg" xml:id="lub-media-652" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-35r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Caspar von Ramschwag</persName>, vogt zu <placeName ref="lub-places-13">Gue
+<lb break="no" n="2"/>tenberg</placeName>, contra <persName ref="lub-actors-13">Carl Ludwigen gra
+<lb break="no" n="3"/>fen zu Sulz</persName>.
+</p>
+        <p><lb n="4"/>Was unns der vogt zu <placeName ref="lub-places-205">Bludenz</placeName> auf <persName ref="lub-actors-166">Ca
+<lb break="no" n="5"/>sparn von Ramschwags</persName>, vogts zu <placeName ref="lub-places-13">Gueten
+<lb break="no" n="6"/>berg</placeName>, wider herrn <persName ref="lub-actors-13">Carl Ludwigen gra
+<lb break="no" n="7"/>fen zu Sulz</persName> vieh auftreibens halben für
+<lb break="no" n="8"/>gebrachte beschwerung für bericht zuekho
+<lb break="no" n="9"/>men lassen. Das habt ir hiebey in origi
+<lb break="no" n="10"/>nali zustehen, unnd ist darauf in namen 
+<lb n="11"/>fürstlicher durchlaucht erzherzog <persName ref="lub-actors-11">Ferdinanden zu Össter
+<lb break="no" n="12"/>reich</persName> etc., unnsers gnedigisten herrn, unnser 
+<lb n="13"/>bevelch, das ir euch der sachen gleichs
+<lb break="no" n="14"/>fals erkhundiget, unnd wann ir befinden 
+<lb n="15"/>werdet, das gedachter von <persName ref="lub-actors-166">Rambschwag</persName>  
+<lb n="16"/>befuegt, ine gebürender massen hanndt  
+<lb n="17"/>habet. Da es aber hierumben ain andere  
+<lb n="18"/>gestalt hete, unns alßdann desselben ver
+<lb break="no" n="19"/>nung unnsers, den <date when="1593-01-30">30. verschines monats janu
+<lb break="no" n="20"/>arii</date> an euch außgangnen bevelchs 
+<lb n="21"/>sambt widersendung des einschluß und an
+<lb break="no" n="22"/>gehenckhtem ewrm guetbedunckhen 
+<lb n="23"/>berichtet. Daran beschieht anstat hoher
+<lb break="no" n="24"/>melder fürstlicher durchlaucht unnser mainung. Datum, 
+<lb n="25"/>den <origDate>22. tag martii anno etc. 93</origDate>. 
+<lb n="26"/>An <orgName ref="lub-actors-2588">vogt und ambtleuth  
+<lb n="27"/>zu Veldkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-222">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schloss Gutenberg soll nicht von Johann Ludwig I. Grafen von Sulz besteuert werden</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-222">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 138r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 30. August 1549 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Balthasar von Ramschwag, den Grafen Johann Ludwig von Sulz zu ersuchen, von der Besteuerung der zum Schloss Gutenberg gehörigen Güter Abstand zu nehmen und den Untertanen zu verbieten, dem Grafen Steuern zu zahlen, oder jetzt und in Zukunft sich mit welchen belegen zu lassen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-7">Steuer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1549-08-30">30. Aug 1549</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_4_fol__161v-0001.jpg" xml:id="lub-media-597" source="tla-oo-regierung-kopialbucher-buch-walgau-band-4-1543-1555-fol-161v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-35">Sulz</persName>, <term ref="lub-keywords-7">steur</term>, <placeName ref="lub-places-13">Guetenberg</placeName>. 
+<lb n="2"/>Ewr schreiben, so ir vom datum den <date when="1549-06-25">xxv junii</date> negstver
+<lb break="no" n="3"/>schinen den herrn von der <orgName ref="lub-actors-2587">Camer</orgName> alhie gethan, haben sy 
+<lb n="4"/>unns yezt zuegeschickht unnd als lestlich darinn meldet,  
+<lb n="5"/>wie der herr graf zu <persName ref="lub-actors-35">Sulz</persName> sich unnd erster die gueter,  
+<lb n="6"/>so zu dem schloß <placeName ref="lub-places-13">Guetenberg</placeName> gehörig, mit der steur zu
+<lb break="no" n="7"/>belegen und dieselben von inen zuerfordern, der wir in
+<lb break="no" n="8"/>namen römisch kuniglicher mayestet etc., unnsers allergnedigisten herrn, nit 
+<lb n="9"/>leiden mügen, und bevelchen euch darauf, daz ir den  
+<lb n="10"/>herrn grafen derhalben ersuecht, sein vorhabens hier
+<lb break="no" n="11"/>inn abzusteen, das ir auch den unnderthanen verpietet, 
+<lb n="12"/>ime, herrn grafen, khain <term ref="lub-keywords-7">steur</term> zuraichen, noch sich yezt  
+<lb n="13"/>oder hinfüro belegen zulassen. Daran thuet ir unnser  
+<lb n="14"/>maynung. Datum, den <origDate>xxx augusti anno etc. im 1549</origDate>. 
+<lb n="15"/>An <persName ref="lub-actors-156">Balthaser von Rambschwag</persName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

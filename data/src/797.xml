@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-797">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaspar Wolfinger contra Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-797">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 37r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 31. Mai 1593 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar Wolfinger hat sich bei Erzherzog Ferdinand II. von Österreich beschwert, dass der Vogt und Rat von Feldkirch ihn im Konflikt mit Karl Ludwig von Sulz nicht unterstützt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-234">Gewalt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1593-05-31">31. Mai 1593</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__37r+v-0001.jpg" xml:id="lub-media-654" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-37r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__37r+v-0002.jpg" xml:id="lub-media-655" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-37v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-167">Caspar Wolfinger </persName>contra herrn <persName ref="lub-actors-13">Carlen  
+<lb n="2"/>Ludwigen grafen zu Sulz</persName>. 
+</p>
+        <p><lb n="3"/>Welchermassen an die fürstliche durchlaucht, erzherzog <persName ref="lub-actors-11">Fer
+<lb break="no" n="4"/>dinanden zu Österreich</persName> etc., unnsern gnedigisten 
+<lb n="5"/>herrn, <persName ref="lub-actors-167">Caspar Wolfinger</persName> wider herrn <persName ref="lub-actors-13">Carlen  
+<lb n="6"/>Ludwigen grafen zu Sulz</persName> abermals sup
+<lb break="no" n="7"/>pliciert unnd sich beclagt, daneben aber auch, 
+<lb n="8"/>daß ir unnsern hievor derowegen an euch  
+<lb n="9"/>vilfaltig außgangnen bevelchen bißher nit  
+<lb n="10"/>nachkhomen sein sollet, beschwerdt auch derohalben  
+
+<lb n="11"/>sein gehorsamist biten ist, daß habt ir ab hiebey
+<lb break="no" n="12"/>verwarter supplication zuvernemen. Wann wir 
+<lb n="13"/>euch dann hievor zuvormallen, sonnderlichen aber   
+<lb n="14"/>den <date when="1591-03-19">19. martii verschines 91 jarß</date> unnder anderm  
+<lb n="15"/>ausserlegt, da ermelter herr <persName ref="lub-actors-13">graf</persName> sich ain
+<lb break="no" n="16"/>icher ferrern thätlichaiten gegen berüerten 
+<lb n="17"/><persName ref="lub-actors-167">Wolfinger</persName> oder anndern irer fürstlichen durchlaucht underthanen  
+<lb n="18"/>gebrauchen wurde, daß ir alß dann die gegen  
+<lb n="19"/>hanndthabung fürnemen sollet, auch hernach den  
+<lb n="20"/><date when="1591-11-29">29. novembris</date> obsteenden, item den <date when="1592-04-16">16.  
+<lb n="21"/>aprilis 92</date>, deßgleichen den <date when="1593-01-30">30. januarii</date> und  
+<lb n="22"/><date when="1593-05-06">6. maii diß 93</date> jarß, solchen nachzukhomen wider
+<lb break="no" n="23"/>umben aufferlegt, tragen wir, daß ir demselben 
+<lb n="24"/>mit volziehung gelaistet, nit unbillichs mißfal
+<lb break="no" n="25"/>len, unnd ist demnch inn merhochsternannter 
+<lb n="26"/>fürstlicher durchlaucht namen hiemit unnser weiter ernstlicher  
+<lb n="27"/>bevelch, das ir denselben hievor offtermals anbe
+<lb break="no" n="28"/>volchner massen nochmals würckhlichen nach
+<lb break="no" n="29"/>khomet und ine, <persName ref="lub-actors-167">Wolfinger</persName>, gebürender mas
+<lb break="no" n="30"/>sen handthabet, schuzet unnd schirmet, an deme etc.
+<lb n="31"/>Datum, den <origDate>letsten tag maii anno 93</origDate>. 
+<lb n="32"/>An <orgName ref="lub-actors-2588">vogt und ambtleith  
+<lb n="33"/>zu Veldkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

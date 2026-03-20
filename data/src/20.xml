@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-20">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vergleich im Steuerstreit zwischen den Grafen von Sulz und der Stadt Feldkirch</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-785">LI-GAR, U 24</ref> (<orgName key="li-gar" ref="lub-objects-778">Gemeindearchiv Ruggell</orgName>) / Originaldatierung: 3. Juni 1558 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-20">AT-ÖStA HHStA Länderabteilung Österreichische Akten Vorderösterreich 9 fol. 316r-320v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 3. Juni 1558 / Beschreibstoff: Papier, 9 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Vogt von Gutenberg, Balthasar von Ramschwag, vermittelt in dem Gerichtsstreit zwischen den Grafen von Sulz und der Stadt Feldkirch betreffend die Steuerleistungen derjenigen Bürger von Feldkirch, die in der Herrschaft Schellenberg wohnen, dass diese ihre Weinsteuer weiterhin an Feldkirch entrichten. Die Gütersteuer für diejenigen Güter, die diese Bürger ursprünglich von der Stadt gekauft hatten, wird weiter an die Stadt Feldkirch entrichtet, während die Steuer für diejenigen Güter, die diese Bürger von Untertanen der Grafen von Sulz gekauft haben oder zukünftig kaufen werden, an die Grafen von Sulz zu entrichten ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-3">Ausbürger</term>
+          <term ref="lub-keywords-4">schnitz</term>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-461">extanz</term>
+          <term ref="lub-keywords-415">abzugsgeld</term>
+          <term ref="lub-keywords-416">anfall</term>
+          <term ref="lub-keywords-42">Türkensteuer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1558-06-03">3. Jun 1558</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-gar,_u_24-0001.jpg" xml:id="lub-media-574" source="gar-u-024-r-1558-06-03.jpg" corresp="A"/>
+    <graphic url="li-gar,_u_24-0002.jpg" xml:id="lub-media-1500" source="1558-06-03-gar-u-024-v.jpg" corresp="A"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0001.jpg" xml:id="lub-media-981" source="1558-06-03-hhsta-la-oa-vo-9-fol-316r.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0002.jpg" xml:id="lub-media-982" source="1558-06-03-hhsta-la-oa-vo-9-fol-316v-1.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0003.jpg" xml:id="lub-media-983" source="1558-06-03-hhsta-la-oa-vo-9-fol-317r.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0004.jpg" xml:id="lub-media-984" source="1558-06-03-hhsta-la-oa-vo-9-fol-317v.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0005.jpg" xml:id="lub-media-985" source="1558-06-03-hhsta-la-oa-vo-9-fol-318r.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0006.jpg" xml:id="lub-media-986" source="1558-06-03-hhsta-la-oa-vo-9-fol-318v.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0007.jpg" xml:id="lub-media-987" source="1558-06-03-hhsta-la-oa-vo-9-fol-319r.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0008.jpg" xml:id="lub-media-988" source="1558-06-03-hhsta-la-oa-vo-9-fol-319v.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0009.jpg" xml:id="lub-media-989" source="1558-06-03-hhsta-la-oa-vo-9-fol-320v.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-981" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-156">Balthasar von Rambschwag</persName>, römischer kayserlicher  
+<lb n="2"/>mayestatt, etc., vogt zue <placeName ref="lub-places-13">Guttenberg</placeName>, bekhenn  
+<lb n="3"/>offendtlich unnd thue khunndt meniglich mit dem  
+<lb n="4"/>brüeff. Alls sich vor verruckhter zeüth zwischen  
+<lb n="5"/>den wolgebornen herrn, herrn <persName ref="lub-actors-10">Wilhalmen</persName> unnd  
+<lb n="6"/><persName ref="lub-actors-9">Albigken</persName>, gebrüedern <orgName ref="lub-actors-7">graffen zue Sulz</orgName>, etc., meinen  
+<lb n="7"/>gnedigen herrn, an einem unnd den edlen ernuesten,  
+<lb n="8"/>auch fürsichtigen, ersamen unnd weisen N. <orgName ref="lub-actors-980">statt
+<lb break="no" n="9"/>aman, ratt unnd ganze gemaind zue Veldkirch</orgName> 
+<lb n="10"/>an andern theil, etlich nachpürlich spen umb unnd  
+<lb n="11"/>von wegen beeder partheyen unnderthanen erhebt,  
+<lb n="12"/>unnd damit dieselben spen in der güettigkhait  
+<lb n="13"/>widerumben hingelegt mügen werden, haben  
+<lb n="14"/>wolgedachte herrn <orgName ref="lub-actors-7">graffen zue Sulz</orgName>, auch <orgName ref="lub-actors-980">statt
+<lb break="no" n="15"/>aman unnd ratt zu Veldkirch</orgName>, auff gephlegne 
+<lb n="16"/>unnderhandlung bewilligt unnd zuegeben, doch  
+<lb n="17"/>iedes thail recht unnd gerechtigkhaiten in al
+<lb break="no" n="18"/>weg ohn schedlich, ain güettigkeit an die hand 
+<lb n="19"/>zue nemmen unnd zu solcher güettigen handlung 
+<lb n="20"/>mich, gedachten <persName ref="lub-actors-156">Balthasarn von Rambschwag</persName>, zue  
+<lb n="21"/>gemainem obman, unnd zu gleichen zusäzen  
+<lb n="22"/>auff der herrn <orgName ref="lub-actors-7">graffen zue Sulz</orgName> thail,  
+<lb n="23"/>die edlen, vesten <persName ref="lub-actors-90">Hansen von Embs</persName> zu der <placeName ref="lub-places-223">Hohen
+<lb break="no" n="24"/>embs</placeName> unnd <persName ref="lub-actors-1522">Wilhalmen von Villenpach</persName>, unnd 
+<lb n="25"/>auff deren von <placeName ref="lub-places-10">Veldkirch</placeName> thail die ernuesten,  
+<pb facs="lub-media-982" n="2"/>
+<lb n="26"/>fürnemen <persName ref="lub-actors-1523">Hansen Pensperg</persName>, burgermaister zue  
+<lb n="27"/><placeName ref="lub-places-50">Lindaw</placeName>, unnd <persName ref="lub-actors-1524">Hansen Premen</persName>, stattschreibern zue  
+<lb n="28"/><placeName ref="lub-places-398">Wangen</placeName>, erkiest, unnd fürgenommen derselbigen gie
+<lb break="no" n="29"/>tigen handlung ich, alls verwilkhurter obman, mich 
+<lb n="30"/>sambt yeztermelten von baiden thaillen erkiesten  
+<lb n="31"/>beysizern auff derselben partheyen gnedigs unnd  
+<lb n="32"/>pittlichs anlagen unnderfangen unnd demselben  
+<lb n="33"/>nach ainen güettigen tag, namblich <date when="1554-12-31">auff den newen  
+<lb n="34"/>jars abend des verschinen fierundfünffzigsten jars</date>  
+<lb n="35"/>geen <placeName ref="lub-places-10">Veldkirch</placeName> in die statt auff das ratthaus ange
+<lb break="no" n="36"/>sehen. Unnd alls baid partheyen durch ihre volmecht
+<lb break="no" n="37"/>ige gewalthaber unnd gesandten auff demselben 
+<lb n="38"/>tag vor mir unnd meinen beysizern erschinen, sind  
+<lb n="39"/>dieselben auff ir fürgebrachte clag unnd andtwurt  
+<lb n="40"/>durch mund unnd brieff güettlich unnd gnugsam
+<lb break="no" n="41"/>lich gegeneinandern verhördt, unnd auff verhör
+<lb break="no" n="42"/>ung desselben alles zu hinlegung aller spenn, 
+<lb n="43"/>auch damit zwischen beeden thaillen gutte, frid
+<lb break="no" n="44"/>liche, rüebige nachpaurschaft erhaltten, werde 
+<lb n="45"/>aller spenigen artickheln halben durch mich,  
+<lb n="46"/>obman, unnd meine beysizern güettlich mitel  
+<lb n="47"/>fürgehalten worden. Darauff gefolgt ist,  
+<lb n="48"/>das iede parthey sich darüber notturftiglich  
+<lb n="49"/>zu beratten haben, zill unnd tag begert,  
+
+<lb n="50"/>welches inen zugelassen worden mit dem an
+<lb break="no" n="51"/>hang, was iedem theil auff dieselben fürgeschlag
+<lb break="no" n="52"/>nen mitel annemblich oder nit sein wil, das 
+<lb n="53"/>ieder theil sein schließliche andtwurdt mir, ob
+<lb break="no" n="54"/>man, in kurz anzaigen solle. Auff solches 
+<lb n="55"/>alls nun dise sach zwischen beeden partheyen auff  
+<lb n="56"/>derselben gephlegnen bedachts ain zeitt lang an
+<lb break="no" n="57"/>gestanden, unnd ich umb verhörung irer schlies
+<lb break="no" n="58"/>lichen andtwurt angesucht worden bin, hab ich 
+<lb n="59"/>sy, beed partheyen, durch ihre volmechtige gesandt
+<lb break="no" n="60"/>en unnd gewalthaber auff heütt dato daselbst 
+<lb n="61"/>hin gen <placeName ref="lub-places-10">Veldkirch</placeName> uff das bemelt ratthaus für  
+<lb n="62"/>mich betagt, welche erschinen sind, nemblich  
+<lb n="63"/>auff wolermelter meiner gnedigen herrn  
+<lb n="64"/><orgName ref="lub-actors-7">graffen zue Sulz</orgName> thail derselben vogt zu <placeName ref="lub-places-7">Va
+<lb break="no" n="65"/>duz</placeName>, der ernuest <persName ref="lub-actors-24">Iuvennalis Creder</persName>, sambt 
+<lb n="66"/>den ambtleüten daselbst, unnd auff deren von  
+<lb n="67"/><placeName ref="lub-places-10">Veldkirch</placeName> thail die edlen, vesten unnd fürnem
+<lb break="no" n="68"/>en <persName ref="lub-actors-1525">Michel von Altmanshausen</persName>, derzeit statt
+<lb break="no" n="69"/>aman, <persName ref="lub-actors-1526">Ulrich Stainhauser</persName>, alter stattaman, 
+<lb n="70"/><persName ref="lub-actors-1527">Wolff von Altmanshausen</persName>, <persName ref="lub-actors-1528">Pongraz Zoller</persName>, paw
+<lb break="no" n="71"/>maister, unnd <persName ref="lub-actors-1529">Michel Mesmer</persName>, stattschreiber 
+<lb n="72"/>daselbst, unnd mir ieder theil sein schliesliche  
+<lb n="73"/>andtwurt munndtlich fürgebracht, unnd  
+<lb n="74"/>wiewol sy neben demselben irem fürbringen  
+<pb facs="lub-media-984" n="4"/>
+<lb n="75"/>ermelter fürgeschlagnen mittel halben etwas spenig  
+<lb n="76"/>sein wollen, so haben aber beeder thail gewalthaber  
+<lb n="77"/>unnd gesandten auff mein darneben gephlegne  
+<lb n="78"/>underhandlung die vorgedachten fürgeschlagnen  
+<lb n="79"/>mittel alle, anstatt unnd in namen irer herrn  
+<lb n="80"/>principalen angenumen unnd denselben in allen  
+<lb n="81"/>puncten unnd artickheln durch dieselben nun  
+<lb n="82"/>fürtterhin in ewig zeüth zu geleben unnd nach
+<lb break="no" n="83"/>zukhomen mir, obman, sy, die gesandten unnd ge
+<lb break="no" n="84"/>walthabern, mit mund unnd hand zugesagt und 
+<lb n="85"/>angelobt, unnd lautten dieselben hernach geschrib
+<lb break="no" n="86"/>nen mitel also. Nemblich erstlich, so
+<lb break="no" n="87"/>vil antrifft den puncten der <term ref="lub-keywords-7">weinsteir</term>, ist beed
+<lb break="no" n="88"/>en thaillen unnd derselben underthanen zu 
+<lb n="89"/>guttem güettlich angesprochen worden, das  
+<lb n="90"/>wolgemelte herrn <orgName ref="lub-actors-7">graffen zu Sulz</orgName> ir für
+<lb break="no" n="91"/>nemen unnd beschehen verpott gerüertter 
+<lb n="92"/><term ref="lub-keywords-7">weinsteir</term> halber, allain aus gnediger  
+<lb n="93"/>nachpurschaft unnd kainer gerechtigkaith gnediglich  
+<lb n="94"/>fallen lassen, unnd daentgegen <orgName ref="lub-actors-980">stattaman  
+<lb n="95"/>unnd rath zue Veldkirch</orgName> ires gethanen ge
+<lb break="no" n="96"/>potts auch absteen sollen. Zum and
+<lb break="no" n="97"/>ern, berüerend die <term ref="lub-keywords-7">stewr</term>, so der wolgedacht
+<lb break="no" n="98"/>en herrn <orgName ref="lub-actors-7">graffen zue Sulz</orgName>, etc., unnderthanen, in 
+
+<lb n="99"/>der herrschaft <placeName ref="lub-places-11">Schellenberg</placeName> gesessen, von denen  
+<lb n="100"/>güettern, die deren von <placeName ref="lub-places-10">Veldkirch</placeName> <term ref="lub-keywords-3">außburgern</term>,  
+<lb n="101"/>so in der herrschaft <placeName ref="lub-places-11">Schellenberg</placeName> sizen, an sich  
+<lb n="102"/>bringen, zu ersuechen und einzuziehen vermain
+<lb break="no" n="103"/>en. Ist für ein mitel bedacht, das alle die güett
+<lb break="no" n="104"/>er, so deren von <placeName ref="lub-places-10">Veldkirch</placeName> <term ref="lub-keywords-3">außburger</term> diser zeit 
+<lb n="105"/>besizen unnd inhaben unnd inen, den von <placeName ref="lub-places-10">Veld
+<lb break="no" n="106"/>kirch</placeName>, steirbar gewessen sind, fürterhin auch 
+<lb n="107"/>also in irer <term ref="lub-keywords-7">stewr</term> bleiben. Dergleichen unnd  
+<lb n="108"/>herwiderumb sollen auch alle die güetter, so  
+<lb n="109"/>der wolermelter, unserer gnediger herrn  
+<lb n="110"/><orgName ref="lub-actors-7">graffen zue Sulz</orgName> aigen leüth unnd unnderthan
+<lb break="no" n="111"/>en yezo in besizung inhaben, inen, unsern gne
+<lb break="no" n="112"/>digen herren, auch steürbar sein unnd bleiben 
+<lb n="113"/>mit dem anhang, was der statt <placeName ref="lub-places-10">Veldkirch</placeName>  
+<lb n="114"/><term ref="lub-keywords-3">außburger</term> in bemelter herrschaft <placeName ref="lub-places-11">Schellen
+<lb break="no" n="115"/>berg</placeName> gesessen, für gütter usser der herrn <orgName ref="lub-actors-7">gra
+<lb break="no" n="116"/>ven zu Sulz</orgName> <term ref="lub-keywords-7">stewr</term> an sich gebracht, es seye 
+<lb n="117"/>kauffs, erbs, oder anderer weise, oder hin
+<lb break="no" n="118"/>fürtter an sich bringen wurden, dieselben 
+<lb n="119"/>sollen sy den wolgerüertten herrn <orgName ref="lub-actors-7">gra
+<lb break="no" n="120"/>ven zu Sulz</orgName>, oder iren aignen leütten in ir 
+<lb n="121"/><term ref="lub-keywords-7">stewr</term> verstewren, doch das sy damit auch  
+<lb n="122"/>zimblich unnd leidenlich gehaltten werden,  
+<pb facs="lub-media-986" n="6"/>
+<lb n="123"/>unnd demnach in zeüth werenden spans merge
+<lb break="no" n="124"/>nandte <term ref="lub-keywords-3">außburger</term> etlich alt stewren schuldig 
+<lb n="125"/>worden. Ist deßhalben gemitelt, das die gnos der  
+<lb n="126"/>aigen leüt die extannzen bey den alten waib
+<lb break="no" n="127"/>eln aufferloffen, fallen lassen, aber die stewren 
+<lb n="128"/>bey dem jezigen waibel aufferwachsen, dieselben  
+<lb n="129"/>sollen durch diejehnigen <term ref="lub-keywords-3">außburger</term>, so die schuldig,  
+<lb n="130"/>bezalt werden. Zum dridten, dieweil  
+<lb n="131"/>der artickhel des abzugs der nachstewr halben  
+<lb n="132"/>vorgemelten zwayen artickheln auch anhangt,  
+<lb n="133"/>so soll yeder thail denselben <term ref="lub-keywords-415">abzug oder nachstewr</term>,  
+<lb n="134"/>es begebe sich in verkhauffen, erbfalen oder ander  
+<lb n="135"/>weg, von dem andern nemen unnd empfahen, oder  
+<lb n="136"/>aber sich desselben sonst güettlich mitainandern  
+<lb n="137"/>vergleichen, oder ye ein theil den andern der
+<lb break="no" n="138"/>halben unangezogen lassen. Zum vierdten, 
+<lb n="139"/>ist des anfahls der güetter halben auch für  
+<lb n="140"/>zimblich angesprochen, das yedes thails zuge
+<lb break="no" n="141"/>hörige unnderthanen zu dien güettern, die sy, 
+<lb n="142"/>wie hievor gemelt, derzeüth besizen, ainen  
+<lb n="143"/>anfal haben sollen unnd also darinnen ein  
+<lb n="144"/>gleichait gehalten werden. Zum fünfften  
+<lb n="145"/>unnd letsten, belangend der römischen kayser
+<lb break="no" n="146"/>lichen mayestatt, etc., unsers allergnedigisten 
+
+<lb n="147"/>herrn, auch churfürsten, unnd gemainer stende  
+<lb n="148"/>des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> gemainelich unnd  
+<lb n="149"/>samendthaffte bewilligung unnd fürgenommen  
+<lb n="150"/><term ref="lub-keywords-42">reichsanlag</term> wider den erbfind der Christenheit,  
+<lb n="151"/>wirdet auch weitter güettlich gesprochen, das es bey  
+<lb n="152"/>derselben <term ref="lub-keywords-42">anlag</term> vermig desselben reichsab
+<lb break="no" n="153"/>schid unnd darauff ausgangnen mandatenn 
+<lb n="154"/>bleiben unnd nachgangen werden solle, und  
+<lb n="155"/>nach dem in craft dises artickhels vilgerüerte  
+<lb n="156"/><term ref="lub-keywords-3">außburger</term> wolernenten herrn graffen die  
+<lb n="157"/>vorigen unnd alten <term ref="lub-keywords-4">schniz</term> darauß diser span  
+<lb n="158"/>entsprungen, zu erlegen schuldig weren. So  
+<lb n="159"/>haben ire gnaden doch selbigen ofternenter  
+<lb n="160"/>statt <placeName ref="lub-places-10">Veldkirch</placeName> zu nachparlicher wilfarung  
+<lb n="161"/>gnediglich fallen lassen. Daentgegen sol
+<lb break="no" n="162"/>len die <term ref="lub-keywords-3">ußburger</term> den jezigen <term ref="lub-keywords-4">schniz</term> oder an
+<lb break="no" n="163"/>lag, so ausser jungsten regenspurgischen reichs
+<lb break="no" n="164"/>abschid ervolgt, gleich den grävischen aigen 
+<lb n="165"/>leütten zu erlegen unnd zu bezahlen schuldig  
+<lb n="166"/>sein. Doch das sy hierinn auch zimblich  
+<lb n="167"/>gehaltten, auch weiter dann die aignen  
+<lb n="168"/>leuth nit getrengt werden sollen, unnd  
+<lb n="169"/>sollend dise fürgeschlagnen mittel woler
+<lb break="no" n="170"/>melten beeden thaillen sonst an ihren pri
+<lb break="no" n="171"/>vilegien, freyhaiten, herrlichaiten, briefflichen 
+
+<lb n="172"/>urkhunden, loblichen gebreüchen, recht und gerecht
+<lb break="no" n="173"/>igkhaiten, in albeg unvergriffen unnd unnachthailig 
+<lb n="174"/>sein. Demselben allem nach hab ich, vorgedachter  
+<lb n="175"/>obman, <persName ref="lub-actors-156">Balthassar von Rambschwag</persName>, dises vorer
+<lb break="no" n="176"/>zelten güettigen spruchs unnd vertrags auff viler
+<lb break="no" n="177"/>melter beeder partheyen volmechtig gesandten 
+<lb n="178"/>unnd gewalthaber pitt unnd begeren, jedem  
+<lb n="179"/>theil einen <term ref="lub-keywords-203">vertragsbrüeff</term> mit meinem ange
+<lb break="no" n="180"/>henckhten, aignen, angebornen insigel und aigner 
+<lb n="181"/>unnderschribner handschrift verfertigt zugestelt,  
+<lb n="182"/>doch mir unnd meinen erben, auch vorgedachten  
+<lb n="183"/>meinen beysizern in albeg ohn schedlich. Beschehen  
+<lb n="184"/><origDate>am freytag, den dritten tag des monats juni  
+<lb n="185"/>nach Christi unsers lieben herren geburde, gezelt  
+<lb n="186"/>im fünffzehenhundert achtunndfünffzigisten jare</origDate>. 
+<lb n="187"/><persName ref="lub-actors-156">Balthassar von Rambschwag</persName>,  
+<lb n="188"/>vogt zu <placeName ref="lub-places-13">Guttenberg</placeName> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-989" n="1"/><lb n="1"/>B 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

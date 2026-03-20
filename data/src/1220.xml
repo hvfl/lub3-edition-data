@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1220">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gefangennahme von Kaspar Wolfinger Bruder aus Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1220">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 115v-117v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 5. Mai 1590 / Beschreibstoff: Papier, 4 Seiten / Siegel: nicht vorhanden</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Graf Karl Ludwig von Sulz betreffend die Gefangennahme von Kaspar Wolfingers Knecht, der auch dessen Bruder ist, auf einem  Hofgut, das zum Schloss Gutenberg gehört, während er Frondienste für Kaspar von Ramschwag verrichtete. Dieser Knecht wurde danach in das Schloss Vaduz überführt als er sich weigerte, auch für den Grafen Frondienste zu leisten. Die Oberösterreichische Regierung interpretiert die Handlungen des Grafen jedoch nicht gegen die Frondienste, sondern gegen das Eigentum der Wolfingers und in der persönlichen Abneigung gegen Kaspar von Ramschwag gerichtet. Die Oberösterreichische Regierung ersucht den Grafen, den Verhafteten freizulassen und alle tätlichen Handlungen gegen die Wolfingers und Kaspar von Ramschwag einzustellen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-05-05">5. Mai 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__116r-117v-0001.jpg" xml:id="lub-media-3697" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-116r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__116r-117v-0002.jpg" xml:id="lub-media-3698" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-116v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__116r-117v-0003.jpg" xml:id="lub-media-3699" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-117r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__116r-117v-0004.jpg" xml:id="lub-media-3700" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-117v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Unns gelanngt an, wie ir der fürstlichen durchlaucht erzherzog <persName ref="lub-actors-11">Ferdi
+<lb break="no" n="3"/>nannden zu Österreich</persName>, unnsers gnedigisten herrn, hof
+<lb n="4"/>unnd lehensmans <persName ref="lub-actors-167">Caspar Wolfingers</persName> knecht, so sein,  
+<lb n="5"/><persName ref="lub-actors-167">Wolfingers</persName>, brueder sein solle, zu frondiennsten  
+
+<lb n="6"/>als zu ainen weg oder strassen bietten lassen unnd als  
+<lb n="7"/>der knecht zu solchen frondiennsten nit erschinen, sonndern  
+<lb n="8"/>den lehenguetern was denselben zu erpflanzung von
+<lb n="9"/>notten gewesen, abwarten wellen, durch die dorfs  
+<lb n="10"/>geschwornen in dem guettenbergischen hofguet feng
+<lb break="no" n="11"/>clichen angreiffen unnd in das schloß <placeName ref="lub-places-33">Vaduz</placeName> fueren lassen, 
+<lb n="12"/>das ir auch bedacht sein sollen, gegen irer fürstlichen durchlaucht vogt 
+<lb n="13"/>zu <placeName ref="lub-places-13">Guettenberg</placeName>, <persName ref="lub-actors-166">Casparn von Rambschwag</persName>, etlicher  
+<lb n="14"/>furgeloffnen reden halber was furzunemen etc. 
+<lb n="15"/>Unnd solches gleichwol mit dem bescheinen oder ver
+<lb n="16"/>tadigen wellen, das angeregte verstrickhung nit von
+<lb n="17"/>wegen der lehenschafft, sonnder umb deß <persName ref="lub-actors-167">Wolfingers</persName>  
+<lb n="18"/>aigenthumblicher gueter willen beschechen, wie dann auch  
+<lb n="19"/>eur vorhaben gegen dem von <persName ref="lub-actors-166">Rambschwag</persName> nit dahin  
+<lb n="20"/>zu versteen, das es gegen ime, als irer fürstlichen durchlaucht diener  
+<lb n="21"/>gemaindt, sonnder allain auf sein person gedeutet  
+<lb n="22"/>unnd verstannden werden solte. Weil aber durch dise  
+<lb n="23"/>deß <persName ref="lub-actors-167">Wolfingers</persName> brueders oder dieners verstrickhung  
+<lb n="24"/>nit allain den hofguettern deß schloß <placeName ref="lub-places-13">Guetten
+<lb break="no" n="25"/>bergs</placeName> an erpawung oder pflanzung derselben 
+<lb n="26"/>abganng, sonnder auch der hochgedachten fürstlichen durchlaucht  
+<lb n="27"/>an dero aigenthumb, recht unnd gerechtigkhait  
+<lb n="28"/>unnd deß <persName ref="lub-actors-167">Wolfingers</persName> lehenschafft verhinderung  
+
+<lb n="29"/>unnd eintrag beschechen, ir fürstlich durchlaucht auch nit wurden zue
+<lb n="30"/>sechen oder gestatten khünden, das durch euch gegen dem  
+<lb n="31"/>von <persName ref="lub-actors-166">Rambschwag</persName>, als irer fürstlich durchlaucht diener unnd vogt zu  
+<lb n="32"/><placeName ref="lub-places-13">Guettemberg</placeName>, was tättlichs fürgenomen, oder der  
+<lb n="33"/><persName ref="lub-actors-167">Wolfinger</persName> von seines innhabennden lehenshof wegen  
+<lb n="34"/>durch euch oder anndere mit frondiennsten beschwerdt  
+<lb n="35"/>werden solte, unnd da gleich das beschechen gebott zu 
+<lb n="36"/>den frondiennsten nit vonwegen der lehenschafft,  
+<lb n="37"/>sonnder umb willen der aigenthumblichen guetter  
+<lb n="38"/>beschechen, so hette euch dannocht nit gepürt, deß  
+<lb n="39"/><persName ref="lub-actors-167">Wolfingers</persName> diener oder brueder, in dem guettem
+<lb n="40"/>bergischen hof anzegreiffen unnd zu <term ref="lub-keywords-223">befengkhnussen</term>. 
+<lb n="41"/>Derwegen ist hiemit in irer fürstlich durchlaucht namen unnser  
+<lb n="42"/>ersuechen unnd beger an euch, ir wellet ine nit allain  
+<lb n="43"/>deß verhaffts alßbaldt unnd ohne enndtgelt widerumben  
+<lb n="44"/>bemuessigen unnd entledigen, sonnder euch auch gegen  
+<lb n="45"/>den von <persName ref="lub-actors-166">Rambschwag</persName>, als wie gemelt irer durchlaucht diener  
+<lb n="46"/>unnd vogt zu <placeName ref="lub-places-13">Guettemberg</placeName>, unnd dem <persName ref="lub-actors-167">Wolfinger</persName>,  
+<lb n="47"/>als irer durchlaucht lehenmann aller thätlichen handlung  
+<lb n="48"/>enthalten, sy beede frey sicher hanndlen, wanndlen  
+<lb n="49"/>unnd auch den <persName ref="lub-actors-167">Wolfinger</persName> an seinem waldtpaw und  
+<lb n="50"/>außtrib seines viehs unverhindert unnd ungeirrt  
+<lb n="51"/>lassen, unnd so lanng unnd vil unnzt dise strittig
+
+<lb break="no" n="52"/>khaiten zu rechtmessiger erörtterung gebracht 
+<lb n="53"/>unnd außgetragen werden, unnd irer durchlaucht zu  
+<lb n="54"/>anndern gepürenndem einsechen nit ursach geben. 
+<lb n="55"/>Wolten wir euch unverhalten lassen, datum,  
+<lb n="56"/>den <origDate>5. Mai anno etc. 90</origDate> 
+<lb n="57"/>An herrn graf <persName ref="lub-actors-13">Carl Lud
+<lb break="no" n="58"/>wigen zu Sulz</persName>
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

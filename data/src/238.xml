@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-238">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaspar Ramschwag contra Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>Eintrag, Signatur: <ref type="identifier" target="lub-objects-238">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 183v-184v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 8. August 1590 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Konflikt zwischen Kaspar von Ramschwag und Karl Ludwig von Sulz wegen dem Frondienst von Kaspar Wolfinger für Schloss Gutenberg und somit die Hoheitsrechte von Erzherzog Ferdinand II. von Österreich.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-55">Hoheitsrecht</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-08-08">8. Aug 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__183v-184v-0001.jpg" xml:id="lub-media-628" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-183v.jpg" corresp="xml:id not found"/>
+    <graphic url="at-tla_buch_walgau_7_fol__183v-184v-0002.jpg" xml:id="lub-media-629" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-184r.jpg" corresp="xml:id not found"/>
+    <graphic url="at-tla_buch_walgau_7_fol__183v-184v-0003.jpg" xml:id="lub-media-630" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-184v.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Rambschwag</persName> contra graff  
+<lb n="2"/>zu <persName ref="lub-actors-13">Sulz</persName>.  
+<lb n="3"/>Ewer schreiben unnd bericht, so ir unnß vom 10.  
+<lb n="4"/>negstverschinen monnats julii der zwischen dem  
+<lb n="5"/>vogt zu <placeName ref="lub-places-13">Guettemberg</placeName>, <persName ref="lub-actors-166">Casparn von Rambschwag</persName>,  
+<lb n="6"/>aines unnd dann herrn <persName ref="lub-actors-13">Carl Ludwigen grafen  
+<lb n="7"/>zu Sultz</persName> des <persName ref="lub-actors-167">Casparn Wolffingers</persName>, dann auch  
+
+<lb n="8"/>des schloß <placeName ref="lub-places-13">Guettembergs</placeName> gerechtsame halben  
+<lb n="9"/>annders thails überschickht, haben wir woll em
+<lb break="no" n="10"/>pfanngen, seines inhalts verstannden unnd 
+<lb n="11"/>darüber die verrer verordnung gethan, das  
+<lb n="12"/>nit allain bey diser irer durchlaucht regimennts,  
+<lb n="13"/>sonnder auch der <orgName ref="lub-actors-2587">Camer</orgName> canntzley, gleichfals  
+<lb n="14"/>der Schatzregistratur, des schloß <placeName ref="lub-places-13">Guettem
+<lb break="no" n="15"/>bergs</placeName> gerechtsame halben alles fleiß nachge
+<lb break="no" n="16"/>suecht unnd was befunden wirdet, euch alß
+<lb break="no" n="17"/>dann vidimierte copien fürderlichen überschickht 
+<lb n="18"/>werden sollen. Mittlerweiln aber lassen wir  
+<lb n="19"/>es bey vorigem unnserm an euch unnd den von  
+<lb n="20"/><persName ref="lub-actors-166">Rambschwag</persName> außganngnen bevelch unverendert  
+<lb n="21"/>bleiben. Darneben aber sollet ir erster
+<lb break="no" n="22"/>nennten von <persName ref="lub-actors-166">Rambschwag</persName> dahin weisen, das 
+<lb n="23"/>er sich dannocht aller gebürennden beschaidenhait  
+<lb n="24"/>gegen vorgedachtem herrn <persName ref="lub-actors-13">graffen</persName> erzaigen  
+<lb n="25"/>unnd verhalten solle, unnd wover erstermelter  
+<lb n="26"/>herr <persName ref="lub-actors-13">graff</persName> bey euch ansucheung thuen wurde,  
+<lb n="27"/>müget ir ine dahin weisen, das er auf  
+<lb n="28"/>mittel unnd weeg gedacht sein unnd euch die
+<lb break="no" n="29"/>selben ob die sach villeicht durch verordnung 
+
+<lb n="30"/>commissarien in der güette hingelegt werden  
+<lb n="31"/>möchte fürschlagen, deren ir unnß hernach neben  
+<lb n="32"/>eurem rathsamen guetachten schrifftlichen  
+<lb n="33"/>verstenndigen sollet. Hieran beschieht in irer  
+<lb n="34"/>fürstlich durchlaucht namen unnser mainung. Datum, den  
+<lb n="35"/><origDate>8. tag augusti anno neunzigisten</origDate>. 
+<lb n="36"/>An <orgName ref="lub-actors-2588">vogt unnd ambtleuth  
+<lb n="37"/>zu Veldtkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

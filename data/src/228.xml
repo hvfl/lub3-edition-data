@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-228">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rechtssicherheit von Hans Öhri vom Eschnerberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-228">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 6 fol. 30v-31v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. April 1571 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an den Hubmeister zu Feldkirch betreffend einen Streit zwischen der Herrschaft Feldkirch und dem Landvogt in Vaduz um eine Rechtssicherheit, die Hans Öhri ab dem Eschnerberg in einer Erbschaftsangelegenheit leisten musste.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-26">Erbschaft</term>
+          <term ref="lub-keywords-3">Ausbürger</term>
+          <term ref="lub-keywords-477">Trost (Tröstung)</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1571-04-25">25. Apr 1571</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_6_fol__30v-31v-0001.jpg" xml:id="lub-media-607" source="tla-oo-regierung-kopialbucher-buch-walgau-band-6-1568-1581-fol-30v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_6_fol__30v-31v-0002.jpg" xml:id="lub-media-608" source="tla-oo-regierung-kopialbucher-buch-walgau-band-6-1568-1581-fol-31r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herrschafft <placeName ref="lub-places-10">Veldkhirch</placeName> contra lanndt
+<lb break="no" n="2"/>vogt zu <placeName ref="lub-places-7">Vadutz</placeName>
+<lb n="3"/>Ewr schreiben unns, den <date when="1571-02-13">13. verschines monats februarii</date>  
+<lb n="4"/>gethan, haben wir sambt dem einschluß empfangen  
+<lb n="5"/>und daraus vernomen, was sich zwischen der   
+<lb n="6"/>obrigkait der herrschafft <placeName ref="lub-places-10">Veldtkirch</placeName> unnd dem  
+<lb n="7"/>lanndtvogt zu <placeName ref="lub-places-7">Vaduz</placeName> von wegen der <term ref="lub-keywords-477">trosstung</term>,  
+<lb n="8"/>so bemelts lanndvogts zu <placeName ref="lub-places-7">Vaduz</placeName> ambtsver
+<lb n="9"/>wanndten <persName ref="lub-actors-210">Hannsn Öri</persName> ab dem <placeName ref="lub-places-16">Eschnerberg</placeName>   
+<lb n="10"/>durch der herrschafft <placeName ref="lub-places-10">Veldkirch</placeName> unnderthanen <persName ref="lub-actors-685">Caspar  
+<lb n="11"/>Platnern</persName> <placeName ref="lub-places-144">Zum Heyligen Creuz</placeName> als vogt wey
+<lb break="no" n="12"/>lenndt <persName ref="lub-actors-684">Georgen Gappen</persName> kinder abgedrungen 
+<lb n="13"/>worden für irrungen zuegetragen unnd bemelten  
+<lb n="14"/>lanndtvogt zu <placeName ref="lub-places-7">Vaduz</placeName> unnd ir ime hinwieder der
+<lb n="15"/>wegen geschriben. 
+<lb n="16"/>Sovil nun belanngt, ob weylenndt <persName ref="lub-actors-686">Anna Eggerin</persName>  
+
+<lb n="17"/>beederseits hinderlassne kinder, iren, der  
+<lb n="18"/><persName ref="lub-actors-686">Eggerin</persName>, sun, so sy bey weylenndt <persName ref="lub-actors-684">Georgen  
+<lb n="19"/>Gappen</persName> eelichen erzeugt, miteinannder <term ref="lub-keywords-26">erben</term>  
+<lb n="20"/>sollen oder nit, dasselbig steet bey des richters  
+<lb n="21"/>erkanntnus. 
+<lb n="22"/>Was aber die angezogen <term ref="lub-keywords-477">trosstung</term> betrifft, 
+<lb n="23"/>halten wir darfür, das solche <term ref="lub-keywords-477">trostungen</term> durch  
+<lb n="24"/>beederseits herrschafften nit also gegen denen  
+<lb n="25"/>unnderthanen fürgenomen werden sollen. 
+<lb n="26"/>Ist auch darauf innamen der fürstlichen durchlaucht etc., unnsers 
+<lb n="27"/>gnädigsten herrn, unnser bevelch widerumben zue
+<lb n="28"/>schreibet, wie ir die sach an unns gelanngen  
+<lb n="29"/>lassen unnd darüber disen beschaid empfanngen,   
+<lb n="30"/>die <term ref="lub-keywords-477">trosstung</term> widerumben aufzeheben. Doch  
+<lb n="31"/>dergestalt, das dergleichen <term ref="lub-keywords-477">trosstungen</term>, als die  
+<lb n="32"/>im rechten verhafft, hinfüro beederseits 
+<lb n="33"/>gegeneinannder nit mer gebraucht werden,  
+<lb n="34"/>sonnder yedes thails unnderthanen vor derselben  
+<lb n="35"/>ordenlich gerichtszwanng gelassen, unnd  
+<lb n="36"/>das auch dise <term ref="lub-keywords-26">erbschaffts</term> hanndlung aintweder  
+<lb n="37"/>an denen orten unnd eennden, da der innhaber  
+<lb n="38"/>der guetter gesessen, oder aber da die guetter  
+<lb n="39"/>gelegen (im faal da principaliter auf die  
+<lb n="40"/>guetter geclagt werden wolle) erörtert unnd  
+<lb n="41"/>ausgetragen werden. Unnd welcher tayl als
+<lb n="42"/>dann durch solche erkanntnus beschwerdt zu
+<lb break="no" n="43"/>sein vermaint, demselben die gebürenndt 
+<lb n="44"/>appellation bevorsteen solte. Welches  
+<lb n="45"/>wir euch auf obangeregt eur schreiben nit wellen  
+<lb n="46"/>vergen. Unnd beschiht daran etc. Datum, <origDate>25. aprilis  
+<lb n="47"/>anno etc. 71</origDate>  
+<lb n="48"/>An <orgName ref="lub-actors-2588">huebmaister zu Veldkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-247">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionsstreit zwischen den Habsburgern und Karl Ludwig Graf von Sulz wegen der Ausbürger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-247">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 10v-11v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 5. Oktober 1591 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute von Feldkirch betreffend ihre Beschlagnahme von Getreide und Bier und ihre Gefangennahme zweier Untertanen des Grafen Karl Ludwig von Sulz als Antwort auf dessen Jurisdiktionsverletzungen in Vorderösterreich.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+          <term ref="lub-keywords-57">Beschlagnahme</term>
+          <term ref="lub-keywords-330">Bier</term>
+          <term ref="lub-keywords-331">Getreide</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-3">Ausbürger</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1591-10-05">5. Okt 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__10v-11v-0001.jpg" xml:id="lub-media-639" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-10v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__10v-11v-0002.jpg" xml:id="lub-media-640" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-11r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__10v-11v-0003.jpg" xml:id="lub-media-641" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-11v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-13">Carl Ludwig graf zu Sultz</persName><lb n="2"/>und der statt <placeName ref="lub-places-10">Veldtkhirch</placeName><term ref="lub-keywords-3">auß
+<lb break="no" n="3"/>burger</term> betreffend.
+</p>
+        <p><lb n="4"/>Wir haben eure unns vom <date when="1591-09-25">25.</date> und <date when="1591-09-27">27.</date> jüngst  
+<lb n="5"/>verschines monats sebtembris zuege
+<lb break="no" n="6"/>thane berichtschreiben betreffend herrn 
+<lb n="7"/><persName ref="lub-actors-13">Carln Ludwigen grafen zu Sulz</persName> durch  
+<lb n="8"/><persName ref="lub-actors-792">Ruedolffen Wirtenberger,</persName> notarium der  
+<lb n="9"/>statt <placeName ref="lub-places-10">Veldtkhirch</placeName> <term ref="lub-keywords-3">ausbürger</term> halben, so zu  
+<lb n="10"/><placeName ref="lub-places-2">Raggel</placeName> wonend, gethane protestation,  
+<lb n="11"/>auch deß gegen der fürstlich durchlaucht erzherzog <persName ref="lub-actors-11">Fer
+<lb break="no" n="12"/>dinanden zu Österreich</persName> etc., unnsers gnedig
+<lb break="no" n="13"/>isten herrn unndterthanen von <placeName ref="lub-places-267">Neffels</placeName> 
+<lb n="14"/>und pann mit schickhung sein, herrn <persName ref="lub-actors-13">graf
+<lb break="no" n="15"/>fenns</persName>, waibl und ainem geschwornen 
+<lb n="16"/>der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> zu haus und  
+<lb n="17"/>hof auf dem österreichischen grund und  
+<lb n="18"/>poden gethanen verbot und fürgenom
+<lb break="no" n="19"/>men neuerung. Also auch gedachts 
+<lb n="20"/>herrn <persName ref="lub-actors-13">grafen</persName> durch euch <term ref="lub-keywords-223">gefenckhlich</term>  
+<lb n="21"/>enthaltnen zwen undterthanen etc.  
+<lb n="22"/>empfanngen und vernommen. Und  
+<lb n="23"/>sovil nun erstlichen die dem herrn <persName ref="lub-actors-13">grafen</persName>  
+<lb n="24"/>von euch beschehen <term ref="lub-keywords-57">arresstierung</term> deß  
+<lb n="25"/><term ref="lub-keywords-331">traidts</term> und vaßl <term ref="lub-keywords-330">piers</term> betrifft. Dieweil  
+
+<lb n="26"/>wir aus sollichen euren schreiben befinden,  
+<lb n="27"/>das dasselbig alles sein herrn <persName ref="lub-actors-13">grafens</persName>  
+<lb n="28"/>khinder, sowol auch seiner armen undter
+<lb break="no" n="29"/>thonan zu irer unndterhaltung zuegeschickht 
+<lb n="30"/>worden sein solle. So ist hiemit in hochge
+<lb break="no" n="31"/>dachter fürstlicher durchlaucht namen unnser bevelch, das 
+<lb n="32"/>ermelter herr <persName ref="lub-actors-13">graf</persName> sein gethones verbot  
+<lb n="33"/>widerumben aufheben und abstellen  
+<lb n="34"/>wirdet, das ir alsdann solich traidt  
+<lb n="35"/>und bier relaxiert und ime ervolgen  
+<lb n="36"/>lasset, dabey auch, da es bißher durch euch  
+<lb n="37"/>nit beschehen, ime auf sein schreiben, so ir hie
+<lb break="no" n="38"/>neben wider zuempfachen beantwurtet, 
+<lb n="39"/>das sollich, euer gethon <term ref="lub-keywords-223">arrest</term> umb seiner,  
+<lb n="40"/>der fürstlichen durchlaucht, inn dero obrigkhait und gegen  
+<lb n="41"/>derselben undterthonen fürgenommen  
+<lb n="42"/>neuerung und gethanen verbots willen  
+<lb n="43"/>beschechen seye mit beger sich derselben hin
+<lb break="no" n="44"/>füro zuenthalten. Da er aber 
+<lb n="45"/>noch über diß demselben nit nachkhomen  
+<lb n="46"/>würde, alsdann nach glegenhait seiner  
+<lb n="47"/>unnachberlichen hanndlung die gebür  
+<lb n="48"/>dargegen fürnemet, sonnsten lassen  
+<lb n="49"/>wir es ime allem annderm bei unnserm,   
+<lb n="50"/>den <date when="1591-07-31">letsten juli</date> negsthin, an euch aus
+<lb break="no" n="51"/>ganngnen bevelch nochmals unver
+<lb break="no" n="52"/>enndert verbleiben.
+
+<lb n="53"/>Was dann die zwen verstriekhte sulzische  
+<lb n="54"/>unndterthonen betrifft, derohalben ist  
+<lb n="55"/>hiemit unnser bevelch, das ir dieselben  
+<lb n="56"/>gegen bezallung der über sy erganngnen  
+<lb n="57"/>azung und erstatung des glübs auf wider  
+<lb n="58"/>stellen der <term ref="lub-keywords-325">gefennckhnuns</term> widerumben be
+<lb break="no" n="59"/>bemuessiget. Wolten wir 
+<lb n="60"/>euch zur widerandtwurt und beschaid nit  
+<lb n="61"/>verhalten. Und es beschieht etc. Datum <placeName ref="lub-places-19">Inns
+<lb break="no" n="62"/>prugg</placeName>, den <origDate>5. octobris anno etc. im 91</origDate>.
+<lb n="63"/>An <orgName ref="lub-actors-337">vogt und ambtleut  
+<lb n="64"/>zu Veldtkhirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

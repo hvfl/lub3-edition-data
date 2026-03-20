@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-221">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beschwerde über die Reichstürkenhilfe für die Untertanen von Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-221">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 4 fol. 2r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 4. Oktober 1543 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Graf Johann Ludwig von Sulz betreffend die Beschwerde des Vogtes von Schloss Gutenberg, Balthasar von Ramschwag, dass der Graf die Untertanen von Balzers, die auf etlichen zum Schloss gehörigen Gütern und Höfen sassen, ebenfalls mit Steuern für den Krieg gegen die Osmanen beladen hätte, was zuvor nie geschehen und gegen altes Herkommen war. Deshalb erfolgte das Ersuchen an den Grafen, diese Untertanen von der Steuer zu befreien.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-42">Türkensteuer</term>
+          <term ref="lub-keywords-18">Türkenkrieg</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1543-10-04">4. Okt 1543</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_4_fol__2r+v-0001.jpg" xml:id="lub-media-595" source="tla-oo-regierung-kopialbucher-buch-walgau-band-4-1543-1555-fol-2r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_4_fol__2r+v-0002.jpg" xml:id="lub-media-596" source="tla-oo-regierung-kopialbucher-buch-walgau-band-4-1543-1555-fol-2v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-156">Rambschwag</persName> contra <persName ref="lub-actors-35">Sultz</persName>, <placeName ref="lub-places-13">Guetemberg</placeName>,  
+<lb n="2"/><term ref="lub-keywords-42">stewr</term> 
+<lb n="3"/>Wir werden durch der römischen küniglichen mayestät etc., unnsers  
+<lb n="4"/>allergenedigisten herrn vogt zu <placeName ref="lub-places-13">Guettem
+<lb break="no" n="5"/>berg</placeName>, <persName ref="lub-actors-156">Balthasar von Rambschwag</persName>, bericht, das ir 
+<lb n="6"/>auf des <orgName ref="lub-actors-516">Heilligen Römischen Reichs</orgName> jüngst bewil
+<lb break="no" n="7"/>ligten zuetzug wider den <orgName ref="lub-actors-267">Türckhen</orgName>, ewrn 
+<lb n="8"/>unnderthanen ain <term ref="lub-keywords-42">steuer</term>. Angelegt in solcher an
+<lb break="no" n="9"/>lag sollen die von <placeName ref="lub-places-71">Baltzers</placeName> auf die unnder zu dem 
+<lb n="10"/>sloß <placeName ref="lub-places-13">Guettemberg</placeName> gehörig und auf etliche, so  
+<lb n="11"/>auf den guettern und höfen bemelltem sloß  
+<lb n="12"/>zuestendig gesessen, mitt stewrn auch beladen  
+<lb n="13"/>haben, welches hievor nie geschehen, auch wider  
+<lb n="14"/>alltherkhomen seye. Unnd wiewoll ange
+<lb break="no" n="15"/>zaigte underthanen in ewrn hohen und nidern 
+<lb n="16"/>gerichten gesessen, so sein sy doch euch nitt  
+
+<lb n="17"/>zuegehörig. Derhalben ist an euch unnser er
+<lb break="no" n="18"/>suechen, ir wellet die underthanen zu gemellten 
+<lb n="19"/>sloß <placeName ref="lub-places-13">Guettemberg</placeName> gehörig ungestewrt lassen  
+<lb n="20"/>und den von <placeName ref="lub-places-71">Balzers</placeName> bevelchen, das sy die  
+<lb n="21"/>eingenommen <term ref="lub-keywords-42">stewr</term> den underthanen zu <placeName ref="lub-places-13">Guettem
+<lb break="no" n="22"/>berg</placeName> gehörig. Und denen so auf desselben guetern 
+<lb n="23"/>gesessen widererlegen und betzalen. Dann wir  
+<lb n="24"/>khonnden in namen küniglicher mayestät nitt gestatten, das  
+<lb n="25"/>ir noch die von <placeName ref="lub-places-71">Baltzers</placeName> antzaigte underthanen  
+<lb n="26"/>mit ainichen <term ref="lub-keywords-42">steurn</term> beladen und wider allt her
+<lb break="no" n="27"/>khomen beschweret. Daran thuet ir küniglicher mayestät main
+<lb break="no" n="28"/>ung. Datum Brauneggen, den <origDate>4. octobris anno 
+<lb n="29"/>etc. im 1543</origDate>. 
+<lb n="30"/>An graf <persName ref="lub-actors-35">Johann Ludwigen  
+<lb n="31"/>von Sulz</persName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

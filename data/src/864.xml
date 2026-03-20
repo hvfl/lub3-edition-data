@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-864">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schiedsspruch betreffend Grenzen zwischen Buchs einerseits und Vaduz und Schaan andererseits</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-864">CH-StASG, AA 3a U 25</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 16. April 1554 / Beschreibstoff: Pergament / Siegel: 4 Siegel, 1.-3. beschädigt, 4. fehlt</witness>
+          <witness xml:id="B">B: Kopie, Signatur: LI-LA, RA 30/01/50 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeit: 1791 / Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Juvenal Kreder, Landvogt von Vaduz, und Michael Störi von Glarus, Landvogt von Werdenberg, fällen einen gütlichen Entscheid im Konflikt zwischen dem Kirchspiel Buchs einerseits und dem Kirchspiel Vaduz und Schaan andererseits um die Nutzung der Rheinauen vom Schweizerzaun zur Vitlers Au. Vor Jahren wurden dort Grenzsteine gesetzt, die jedoch vom Rhein überspült wurden und nicht mehr erkennbar sind. Neu wird die Grenze wie folgt festgesetzt: von der Biegung im Schweizerzaun gerade über den Rheingiessen bis zur Pappel und hinab durch die Vitlers Au. Bei den Grundstücken von Fehr und Hans Fritsch unter dem Tentschagraba soll ein Nebengrenzstein gesetzt werden. Auf Bitte der Buchser und Schaaner siegeln nebst den Schiedsrichtern auch Hans Schwarz, Ammann von Werdenberg, und Hans Gantner, Ammann von Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-163">Holznutzung</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+          <term ref="lub-keywords-451">Auen</term>
+          <term ref="lub-keywords-400">alber</term>
+          <term ref="lub-keywords-443">schinung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-24">Kreder, Juvenal</persName>
+          <date when="1554-04-16">16. Apr 1554</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-702">Störi, Michael</persName>
+          <date when="1554-04-16">16. Apr 1554</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2432">Schwarz, Hans</persName>
+          <date when="1554-04-16">16. Apr 1554</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-349">Gantner, Hans (1)</persName>
+          <date when="1554-04-16">16. Apr 1554</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3a_u_25-0001.jpg" xml:id="lub-media-2830" source="stasg-aa-3a-u-25-v-klein.jpg" corresp="A1"/>
+    <graphic url="ch-stasg__aa_3a_u_25-0002.jpg" xml:id="lub-media-2831" source="stasg-aa-3a-u-25-r-klein.jpg" corresp="A1"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2831" n="1"/><lb n="1"/>Wir nachbennptenn <persName ref="lub-actors-24">Juvenalis Creder</persName>, lanndtvogtt zu <placeName ref="lub-places-7">Vanndutz</placeName> etc., <persName ref="lub-actors-702">Michell Störy</persName> von <placeName ref="lub-places-72">Glaris</placeName>, lanndt vogt zu <placeName ref="lub-places-73">Wardenberg</placeName> etc., bekennen offentlich und thund kund allermencklich mi<unclear>d</unclear>tt disem 
+<lb n="2"/>brieffe, dem nach und sych etwas irung, zwythrach, spänn unnd stös zwuschend den erberen grichts dorffs geschwornen und gantzer gemeind und kylspyll <placeName ref="lub-places-148">Buchs</placeName> ann einem und dan den erberen grichts 
+<lb n="3"/>dorffs geschworne und gantzer gemeinden und kylspyll zu <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schann</placeName> am anderen theyll gehalten habenn, belangende etlicher marckstheinen vom <placeName ref="lub-places-282">Schwytzer Zun</placeName> am buck hinab in des <placeName ref="lub-places-281">Vitlers 
+<lb n="4"/>Ow</placeName>, so vor etlichen jaren lutt zweyer värtragen, darumb wyssende, gesetzt worden, den weidgang und aw zwuschend inen scheidende, weliche gesetzte marchsteinen durch die grose des <placeName ref="lub-places-103">Rins</placeName> versenckt und mit 
+<lb n="5"/><unclear>so</unclear>nd verffurtt worden, der halben jetwäders theill kin grundtlichs wisen gehept, wi oder was gestalt sie mit irem vych den weidgang in des <placeName ref="lub-places-281">Vytlers Ow</placeName> und das holtz oder struwi zur zitt bruchen 
+<lb n="6"/>nutzen und niesen mochten. Und aber zu verhuten gros muig, cost und schaden, ouch unffruntschafft und wider willen zu verwachsen, habend wyr uff ir, beyder partyen, flisygs ansuchen, byten und 
+<lb n="7"/>begeren innen tag gesetzt, irer bemelten spannen guttlich hanndlung zu bewiligen, das si unnß obgemelten beyden bewylligott, zugelassen und die handlung verthruwtt, gutlich handlung unnd 
+<lb n="8"/>enschids vonn unnß zuerwarten mit wusenhaffter tadig, allso wye wir si enthscheiden mochtend, dar by onne verer wägen und appylieren zebliben. Daruff wyr bemelte partyen hutt dato gegenn 
+<lb n="9"/>ein ander genugsam, ouch lutt und brieff ver hortt mit allem vlis, den ougenschin besichtigott und uff nachfolgende meinung vertragen und entscheyden mit ir, beyder partyen wussen und bewyligen. 
+<lb n="10"/>Dem ist namlich also: Des ersten sölen sie vom alten marckstein am buck bim <placeName ref="lub-places-282">Schwytzer Zun</placeName> die grede hin ab uberen <placeName ref="lub-places-822">Rin Gyessen</placeName> bim <term ref="lub-keywords-400">a<unclear>lb</unclear>er</term> wyderumb ein marckstein uffrichten, vonn welchem alten mark
+<lb break="no" n="11"/>stein am <unclear>b</unclear>uck <unclear>g</unclear>en selbygen gesetztenn marckstein zweyhundert sieben claffter thrithalben schuch ist. Vollgends von disem jetz gesetzten marckstein schleins hinab durch des <placeName ref="lub-places-281">Vytlers Ow</placeName> ist ouch einn nuwen
+<lb n="12"/>marchstein gesetzt worden. Und dan von jetzigem marckstein uber zwarsch uberen <placeName ref="lub-places-822">Rin Giessen</placeName> <gap/> hin uß ist ouch ein neben marckstein gegen des <persName ref="lub-actors-2509">Veren</persName> büntt uff <persName ref="lub-actors-2510">Hanß Fritschen</persName> mad underem <placeName ref="lub-places-165"><unclear>D</unclear>entschen Graben</placeName> gesetzt 
+<lb n="13"/>worden, so nur gegen disem in <placeName ref="lub-places-281">Vitlers Ow</placeName> ain <term ref="lub-keywords-443">schinung</term> ist nuntzig zwey claffter und ein schu<unclear>ch</unclear> und von dannen die schinung in <placeName ref="lub-places-784">Gampser</placeName> kyrchen kyrchenthurnn hin uber alles und jedes <placeName ref="lub-places-10">Veldkircher</placeName> <term ref="lub-keywords-444">w<unclear>arch</unclear> 
+<lb n="14"/><gap/>ffter</term> und mes, doch hierinen den wollgebornen heren, heren <persName ref="lub-actors-10">Wilhelmen</persName> und <persName ref="lub-actors-9">Allwigen, gebruder, graffen zu Sultz</persName> etc., und den fursichtig, ersamen, wisen <orgName ref="lub-actors-276">lanndtamen und radte zu Glaris</orgName>, unseren 
+<lb n="15"/>gnedigen und gunstigen heren, an iren hochloblichen friheiten, herligkeiten, ob<gap/>, ho<unclear>ch</unclear> und nider gerichten, ouch in sunder heyt beiden partien ain anderen, iren brieffen, sigllen, <unclear>al</unclear>lten bruchen, rechten 
+<lb n="16"/>und harkomen aussertthalb diser sachen und guttlicher under handlung g<unclear>a</unclear>nntz in allwäg unffergriffen und oneschädlich. Wir, obgenante grichts und dorffs geschwornen und gantzer gemeinde des dor<unclear>ff</unclear>s 
+<lb n="17"/>und kilchspill <placeName ref="lub-places-148">Buchs</placeName>, ouch wir, geschworne und gantzer gemeinde des kilchspyll <placeName ref="lub-places-1">Vandutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> bekenen alle einhelligklich fur unnß, alle unnser erben und nach komen, ouch gem<gap/> u<unclear>n</unclear>ser landtlutt <gap/> 
+<lb n="18"/>wandten und gewanten das alleß, wie hie vor in disem brieff geschriben stadt, mit unserem gunst, wussen und guten wyllen gehandlet, geschehen und vollfurtt ist, gereden, gethruwen und versprechen 
+<lb n="19"/><gap/> bi unseren eren, waren und guten thruwen an eides stadt, wusenthlich hier mitt urkund und in crafft dis brieffs, dem a<unclear>ll</unclear>em ge<unclear>th</unclear>ruwlich, gestrackts, <gap/>recht <gap/> nach z<unclear>ekomen</unclear>, 
+<lb n="20"/>vest und städt zu halten, dar b<gap/> zu beliben und dar wider nit zu thun, gantz in kin wis <unclear>noch</unclear> wäg, alles <unclear>ge</unclear>thruwlich und ung<unclear>effar</unclear>lich. Und das zu warem und vestem urkund so habend wir, beide 
+<lb n="21"/>obgenantte landtvogtt, beiden parthien dises guttlichen spruch unnd vertrags brieff zwen gelich lutend uff ir flisig und ernstlich byten und begeren, doch unß, unseren erben und nachkomen, <unclear>ouch</unclear> 
+<lb n="22"/><unclear>woll</unclear> und vorgedachten, unseren gnädigen und gunstigen heren ann iren rechten und gerechtigkeiten, wye obstadt, in all wag und sunst onne schaden, mit unseren aignen angehenckten insyglen verfferttigott 
+<lb n="23"/>und jeder party ainer geben. Und des zu nach merer sicherheytt habend wyr, obgenantte von <placeName ref="lub-places-148">Buchs</placeName>, flisig gebetten und erbeten den ersamen, wisen <persName ref="lub-actors-2432">Hansen Schwartzen</persName>, der zitt amen der herschafft 
+<lb n="24"/><placeName ref="lub-places-73">Wardenberg</placeName>, des gelichen wir von <placeName ref="lub-places-1">Vadutz</placeName> und <placeName ref="lub-places-53">Schan</placeName> ouch den ersamen wisen <persName ref="lub-actors-349">Hannsen Ganttner</persName>, diser zit aman der herschafft <placeName ref="lub-places-7">Vadutz</placeName>, das sie beid ire eigen insygell, doch inen, iren erben 
+<lb n="25"/>und nach komen one schaden, zugetzucknus der sachen fur unnß, unser erben und nachkomen und aller hiermit gewandten und verwandten grichts und landtluten hier zu offentlich ouch gehenckt 
+          <lb n="26"/>haben an dise brieff, der geben ist <origDate when="1554-04-16">mentags den sechzehenden tags aberellein nach Cristi, unsers lieben heren und seligmachers, geburt getzelt tusent funffhunder funffzig und vier jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2830" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-213">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Auswirkungen des Bauernkriegs in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-213">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 138r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. April 1526 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Jos Witter (Willer), Amtmann von Bregenz, sich unverzüglich nach Vaduz zu begeben, um den von Hans Mammendorfer, Vogt auf Vaduz, gefangen genommenen Rädelsführer  zu verhören.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-66">Bauernkrieg 1525</term>
+          <term ref="lub-keywords-33">Aufruhr</term>
+          <term ref="lub-keywords-212">Folter</term>
+          <term ref="lub-keywords-327">Verhör</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1526-04-10">10. Apr 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__138r-0001.jpg" xml:id="lub-media-582" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-138r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Ain aufrueriger zu <placeName ref="lub-places-7">Vadutz</placeName>. 
+<lb n="2"/>Getreuer <persName ref="lub-actors-155">Hanns Mannendorfer</persName>, vogt auf <placeName ref="lub-places-7">Vaduz</placeName>, hat auf unnser  
+<lb n="3"/>ansinnen und bevelch ainen, so der verganngen aufrur und emporung  
+<lb n="4"/>nit klain ursach, sonnder in derselben der maisten principal unnd  
+<lb n="5"/>radlfurer ainer, wie er dann solchs ausserhalb ainicher <term ref="lub-keywords-212">peinlicher  
+<lb n="6"/>frag</term> aus ime selbst bekannt hat, gewesen ist, venncklichen ange
+<lb break="no" n="7"/>nomen, welchen er auch also vnzt auf verreren unnseren 
+<lb n="8"/>bevelch venngklich ennthelt. Und damit wir aber gestalt  
+<lb n="9"/>seiner practica und verhanndlung und wer mit ime in solchen  
+<lb n="10"/>in verstenndtnus und tat gebesen ist, wissen mügen, will die  
+<lb n="11"/>notturfft ervorderen, desshalben gegen ime mit <term ref="lub-keywords-327">strennger frage</term>  
+<lb n="12"/>und wie sich gepürt, zu hanndlen, daz wir auch gedachtem vogt  
+<lb n="13"/>zu thun bevolchen und daneben, daz wir dich ime zueordnen  
+<lb n="14"/>wöllen anzaigt haben. Und damit aber in solchem nicht  
+<lb n="15"/>versaumbt, sonnder gedachtem unnserem bevelch mit allem  
+<lb n="16"/>ernnst und vleis nachgeganngen werde, demnach so emphelchn  
+<lb n="17"/>wir dir mit sonnderem ernnst und wellen, das du dich, so
+<lb break="no" n="18"/>pald dich gedachter vogt wissen lassen wirdet, von stundan und 
+<lb n="19"/>unverzogenlich, unverhindert ainicher annder geschefft zu ime  
+<lb n="20"/>verfuegest, gedachten gefanngen innhalt unnsers bevelchs  
+<lb n="21"/>der notturfft nach und wie sich gepüert, befragen verhelffest  
+<lb n="22"/>und darinn khain vleis, wie wir unns dann des zu dir versehen  
+<lb n="23"/>unnderlassest, daran thuest du unser ernstlich meinung. Datum, <origDate>10. aprilis anno 152</origDate>6. 
+<lb n="24"/>An <persName ref="lub-actors-157">Josen Witter</persName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

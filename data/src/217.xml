@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-217">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jörg Hartmann soll an Marx Sittich von Ems nach Bregenz überstellt werden</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-217">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 143r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 14. September 1526 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bitte an Graf Rudolf von Sulz um Überantwortung von Jörg Hartmann an den Vogt von Bregenz, Marx Sittich von Ems, doch dass dies ohne Verminderung seiner Privilegien geschieht. Gleichzeitig verspricht Sulz, dass er solches in dergleichen Fällen im umgekehrten Fall ebenso erledigen werde.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-33">Aufruhr</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-66">Bauernkrieg 1525</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1526-09-14">14. Sep 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__143v-0001.jpg" xml:id="lub-media-588" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-143r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Edler lieber getrewer. Als dein unndervogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <persName ref="lub-actors-890">Jörgen Hart
+<lb break="no" n="3"/>man</persName>, umb sein pöse verhandlung, so er in jüngster <term ref="lub-keywords-33">empörung</term> als 
+<lb n="4"/>ain principal und rädlfuerer der ungehorsamen gebraucht, fenng
+<lb break="no" n="5"/>clichn angenomen. In auch umb solhe, sein verhandlung, bezichtigt 
+<lb n="6"/>hat, darinn wir, daz er wider unns und unnser gehorsam unnder
+<lb break="no" n="7"/>thanen zu handln unnderstanden hat, befinden. Deshalben wir 
+<lb n="8"/>umb solhe sein verhandlung, in denen unnsern vogt zu <placeName ref="lub-places-45">Bregenz</placeName>  
+<lb n="9"/>rechtferttigen zu lassen, sofern wir daz du unns denselben  
+<lb n="10"/>zu desselben unnsers vogts hannden, doch dir und deiner herschafft  
+<lb n="11"/><placeName ref="lub-places-7">Vaduz</placeName> an iren rechten, privilegien und oberkaiten on schaden, über
+<lb break="no" n="12"/>anntworten wilt, erlangen mügen, willens wern. Begern dar
+<lb break="no" n="13"/>auf an dich, den du unns zu sonndern gefallen gedachten <persName ref="lub-actors-890">Hart
+<lb break="no" n="14"/>man</persName> zu handen obgemelts unnsers vogts zu <placeName ref="lub-places-45">Bregenz</placeName>, <persName ref="lub-actors-158">Merckh
+<lb break="no" n="15"/>sittichn von Embs</persName>, doch dir an deiner oberkait, herlichait 
+<lb n="16"/>und privilegien, als obstuet on allen schaden überantwortten  
+<lb n="17"/>lassen. Sol wellen wir solhes in dergleichen fal, so solhes  
+<lb n="18"/>an unnser begern und sich dermassen begeben wirdet, gegen  
+<lb n="19"/>dir gleichermaß halten, beweist unns auch daran sonnders gefallen,   
+<lb n="20"/>solhes in gnaden gegen dir zuerkennen. Datum ut supra. 
+</p>
+        <p><lb n="21"/>An <persName ref="lub-actors-8">graven von Sulz</persName></p>
+      </div>
+    </body>
+  </text>
+</TEI>

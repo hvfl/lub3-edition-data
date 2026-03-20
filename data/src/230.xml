@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-230">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionsstreit zwischen dem Landgericht Rankweil und den Untertanen von Vaduz, Schellenberg und Blumenegg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-230">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 78v-79v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 6. März 1587 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Weitere Bescheide an Hubmeister und Hofschreiber zu Feldkirch im Jurisdiktionsstreit zwischen dem Landgericht Rankweil und den Untertanen von Vaduz, Schellenberg und Blumenegg. Die Untertanen der genannten drei Herrschaften wurden laut dem Grafen Karl Ludwig von Sulz gegen altes Herkommen vor das Landgericht Rankweil zitiert.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1587-03-06">6. Mär 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__78v-80r-0001.jpg" xml:id="lub-media-611" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-78v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__78v-80r-0002.jpg" xml:id="lub-media-612" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-79r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__78v-80r-0003.jpg" xml:id="lub-media-613" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-79v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Underthonen zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellen
+<lb break="no" n="2"/>berg</placeName> und <placeName ref="lub-places-12">Pluemenegg</placeName>.
+<lb n="3"/>Eur schreiben vom 1. diz haben wir empfangen  
+<lb n="4"/>und daraus vernomen, das ir die sachen betreff
+<lb break="no" n="5"/>endt des herrn grafen zu <persName ref="lub-actors-13">Sulz</persName> underthanen der 
+<lb n="6"/>dreyen herrschafften <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und  
+<lb n="7"/><placeName ref="lub-places-12">Pluemenegg</placeName> contra irer durchlaucht <orgName ref="lub-actors-518">Frey Landtgericht 
+<lb n="8"/>zu Rannckhweil</orgName> verwaigerte parition etc. irer durchlaucht  
+<lb n="9"/>rath doctor <persName ref="lub-actors-173">Gall Hager</persName> zuberatschlagen überchickht.  
+<lb n="10"/>Dabei wir es verbleiben lassen und so bald euch  
+<lb n="11"/>von ime, doctor <persName ref="lub-actors-173">Hager</persName>, derwegen sein guetbedunckhen  
+<lb n="12"/>ervolgt, werdet ir unns eurem erbieten nach  
+<lb n="13"/>euern furderlichen bericht zuekhomen zu lassen wissen. 
+<lb n="14"/>Das dann ir hofschreiber das durch bemelten herrn  
+<lb n="15"/>grafen obberurter sachen halben wider die fürstlich durchlaucht etc.  
+<lb n="16"/>und dero <orgName ref="lub-actors-518">Lanndgericht zu Ranckhweil</orgName> außgebracht  
+<lb n="17"/>mandat und citation von dem kayserlichen camerpoten,  
+<lb n="18"/>so euch dasselbig insinuirn wellen nit angenomen.  
+<lb n="19"/>Daran habt ir recht gethan. Ir sollet auch weder  
+<lb n="20"/>vorberurten noch andern des kayserlichen <orgName ref="lub-actors-521">Camergerichts</orgName>  
+<lb n="21"/>khonftig außgeende proceß und gebottsbrief nit  
+<lb n="22"/>annemen, noch denselben ainiche volg thuen  
+<lb n="23"/>oder laisten, sonder was euch in dergleichen  
+<lb n="24"/>fällen begegnet, jederzeit furderlich die ge
+<lb break="no" n="25"/>bür darüber zuverordnen unns hieher berichten. 
+<lb n="26"/>Daneben aber haben wir hochgedachter fürstlicher durchlaucht  
+<lb n="27"/>und advocaten doctor <persName ref="lub-actors-175">Christoffen Faber</persName>, auch irer durchlaucht  
+<lb n="28"/>procurator daselbst am kayserlichen <orgName ref="lub-actors-521">Camergericht</orgName>,  
+<lb n="29"/>doctor <persName ref="lub-actors-176">Lorenz Wilthelmen</persName>, per interesse irer durchlaucht  
+<lb n="30"/>über solch außgebracht mandat und nach glegen
+<lb break="no" n="31"/>hait desselben beschechner insinuation die notturfft 
+<lb n="32"/>zubedenckhen und zustellen. Und wo nit in termino  
+<lb n="33"/>zuerscheinen auferlegt, darauf werdet ir von  
+<lb n="34"/>eur und obgemelts <orgName ref="lub-actors-518">Landtgerichts Ranckhweil</orgName>  
+<lb n="35"/>wegen ermeltem doctor <persName ref="lub-actors-176">Wilthelmen</persName>, wovor er  
+
+<lb n="36"/>nit zuvor mit gnugsamen gwalt versehen, ge
+<lb break="no" n="37"/>bürenden gwalt mit ehistem uberschickhen 
+<lb n="38"/>und dessen onangesehen der fürstlichen durchlaucht recht und  
+<lb n="39"/>gerechtigkhait einen als den andern wegn handt
+<lb break="no" n="40"/>zehaben wissen, wolten wir euch nit verhalten 
+<lb n="41"/>und ir thuet etc. Datum, den <origDate>6. martii anno etc. 87</origDate>. 
+<lb n="42"/>An <orgName ref="lub-actors-337">huebmaister und hoff
+<lb break="no" n="43"/>schreiber zu Veldkirch</orgName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

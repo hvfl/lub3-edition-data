@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-220">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Belastung der Feldkircher  Ausburger am Eschnerberg mit der doppelten Reichstürkenhilfe</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-220">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 3 fol. 72v-73v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. Mai 1542 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ansuchen an Graf Hans Ludwig von Sulz und Bescheid darüber an Stadtammann und Rat von Feldkirch,  die Ausburger Feldkirchs in seinen Herrschaften Vaduz und Schellenberg nicht mit einer doppelten Reichstürkenhilfe zu belasten (von 100 Gulden wurde jeweils 1/2 Gulden eingezogen).</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-42">Türkensteuer</term>
+          <term ref="lub-keywords-3">Ausbürger</term>
+          <term ref="lub-keywords-18">Türkenkrieg</term>
+          <term ref="lub-keywords-420">Schneeschleife</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1542-05-25">25. Mai 1542</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_3_fol__72v-73r-0001.jpg" xml:id="lub-media-592" source="tla-oo-regierung-kopialbucher-buch-walgau-band-3-1537-1542-fol-72r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_3_fol__72v-73r-0002.jpg" xml:id="lub-media-593" source="tla-oo-regierung-kopialbucher-buch-walgau-band-3-1537-1542-fol-72v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_3_fol__72v-73r-0003.jpg" xml:id="lub-media-594" source="tla-oo-regierung-kopialbucher-buch-walgau-band-3-1537-1542-fol-73r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Veldkirchischer <term ref="lub-keywords-3">ausbürger</term><term ref="lub-keywords-42">reichstürggen annlag</term>. 
+<lb n="2"/>Unns haben <orgName ref="lub-actors-980">stattaman und rat zu Veldkirch</orgName> yezo geschriben unnd an
+<lb break="no" n="3"/>zaigt, nachdem sich etliche außbürger in ewrn herrschafften <placeName ref="lub-places-7">Vadnuz</placeName> 
+<lb n="4"/>und <placeName ref="lub-places-11">Schellennberg</placeName> sizent haben, denselben ir durch ewr ambtleut für
+<lb break="no" n="5"/>halten unnd an sy begern lassen, ir vermügen aller irer hab unnd 
+<lb n="6"/>guetter bey peen, guetten trewen unnd gewisne anzuzaigen, und von  
+<lb n="7"/>yedem hundert gulden ainhalben gulden <term ref="lub-keywords-42">annlag und hilffgelt</term> wider den  
+<lb n="8"/><orgName ref="lub-actors-267">Türckhen</orgName> ze geben, dann euch seye von den <orgName ref="lub-actors-746">Stenndten</orgName> des <orgName ref="lub-actors-516">Heiligen Rö
+<lb break="no" n="9"/>mischen Reichs</orgName> aufgelegt worden, dasselb einzubringen und vermug 
+
+<lb n="10"/>des reichsabschid in den kossten deß <orgName ref="lub-actors-2504">Swebischen Kraiß</orgName> zu uberannt
+<lb break="no" n="11"/>wurtten. Als aber bemelte <orgName ref="lub-actors-980">stattaman und rat zu Veldkirch</orgName> durch 
+<lb n="12"/>ire ratsfreundt die ursachen solher anlagen zu wissen begert, sey den
+<lb break="no" n="13"/>selben ain articul aus des reichsabschid furgelesen worden mit 
+<lb n="14"/>annzaigung, wo ire <term ref="lub-keywords-3">außbürger</term> ir vermugen nit eröffnen noch den  
+<lb n="15"/>annlag geben wolten, so würdet ir solhes dem reichsviscal anzaigen.  
+<lb n="16"/>Darauf haben unns bemelte von <orgName ref="lub-actors-980">Veldkirch</orgName> hierinnen einsehens zu
+<lb break="no" n="17"/>haben, damit sy unnd ire außbürger wider altherkommen nit be
+<lb break="no" n="18"/>schwärt würden, unnderthenigclichen angerueffen. Dieweil dan ir 
+<lb n="19"/>als ain <orgName ref="lub-actors-746">Stanndt</orgName> des <orgName ref="lub-actors-516">Reichs</orgName> guet wissen tragt, daz die königliche mayestät etc. unnser  
+<lb n="20"/>allergnedigister herr von wegen seiner mayestät khünigreichen, fürsten
+<lb break="no" n="21"/>thumb, erblannd und leut ain treffennliche, ansehenliche und gar noch 
+<lb n="22"/>unmuglich hilff wider den <orgName ref="lub-actors-337">Türggen</orgName> bewilligt, die sein mayestät zuerstatten  
+<lb n="23"/>zuegesagt unnd auf derselben lannd und leut geschlagen. Darumben  
+<lb n="24"/>sich ye nit gebürt seiner mayestät unnderthanen über solhs mit noch ain
+<lb break="no" n="25"/>ner merern und topelten hilff zu überladen und beschweren, solhes 
+<lb n="26"/>ist auch des <orgName ref="lub-actors-516">Reichs</orgName> maynung nit, zudem seyen die von <orgName ref="lub-actors-980">Veldkirch</orgName>  
+<lb n="27"/>sonnderlich befreit. Nemblichen was khain bürger und bürgerin  
+<lb n="28"/>zu <placeName ref="lub-places-10">Veldkirch</placeName> guetter hanndt zwischen dem <placeName ref="lub-places-266">Bodensee</placeName> und dem <placeName ref="lub-places-870">Set
+<lb break="no" n="29"/>mar</placeName> und zwischen dem <placeName ref="lub-places-264">Wallensee</placeName> und dem <placeName ref="lub-places-97">Arlenperg</placeName> als die 
+<lb n="30"/><term ref="lub-keywords-420">schneelaiphinen</term> gannd, wo die gesessen sein, da sollen sy doch dasselb  
+<lb n="31"/>stewrn und raisen unnd mit allen dingen als ain ungesessner  
+<lb n="32"/>bürger zu <placeName ref="lub-places-10">Veldkirch</placeName> sein guet verdient, so erlassen der <orgName ref="lub-actors-1189">graven zu  
+<lb n="33"/>Monntfort</orgName> ire unnderthanen von der herrschafft <placeName ref="lub-places-45">Bregennz</placeName> sol
+<lb break="no" n="34"/>hes ansuechens. Demnach und damit die von <placeName ref="lub-places-10">Veldkirch</placeName> 
+<lb n="35"/>wider altherkommen und ire freyhaiten nit beschwert noch mit  
+<lb n="36"/>merern und topelten pürdinen beladen werden, so ist an euch  
+<lb n="37"/>unnser freundtlich ansuechen und begern, daz ir bemelter von  
+<lb n="38"/><placeName ref="lub-places-10">Veldkirch</placeName> <term ref="lub-keywords-3">außbürger</term> ferer unbeschswert und unangesuecht lasset  
+<lb n="39"/>unnd den verordneten des <orgName ref="lub-actors-516">Reichs</orgName> solhes, wo es von nötten, zu ewr  
+<lb n="40"/>entschuldigung zueschreibet und verkhindet der zueversicht, die  
+<lb n="41"/><orgName ref="lub-actors-746">Reichsstendt</orgName> werden mit küniglicher mayestät hilff ersettigt seint und seiner  
+<lb n="42"/>mayestät unnderthonen weytter zubeschwren nit anmassen. Versechen  
+<lb n="43"/>uns demnach, ir werdet auf dises, unnser erbieten, und den ausge
+<lb break="no" n="44"/>füerten ursachen dero von <placeName ref="lub-places-10">Veldkirch</placeName> <term ref="lub-keywords-3">ausbürger</term>, dieweil sy ire 
+
+<lb n="45"/>guetter mit denen zu <placeName ref="lub-places-10">Veldkirch</placeName> verstewrn miessen unersuecht  
+<lb n="46"/>lassen, wolten wir euch freundtlicher maynung nit pergen. Datum,  
+<lb n="47"/><origDate>25. may anno etc. 42</origDate>. 
+<lb n="48"/>An herrn <persName ref="lub-actors-35">Hanns Ludwigen grafen zu Sulz</persName>. 
+</p>
+        <p><lb n="49"/>Idem 
+<lb n="50"/>Ewr schreiben des datum steet am <date when="1542-05-21">xxi. tag diß monats may</date> betreffennt  
+<lb n="51"/>die <term ref="lub-keywords-42">türggen anlag</term>, so graf <persName ref="lub-actors-35">Hannß Ludwig von Sulz</persName> etc. an ewre <term ref="lub-keywords-3">auß
+<lb break="no" n="52"/>bürger</term> ersuechen hat lassen, darynnen ir uns umb hilf und rat 
+<lb n="53"/>angelanngt, haben wir empfanngen. Darauf hat unns für rätlich  
+<lb n="54"/>und guet angesehen, dem graven von hie außzuschreiben, wie wir  
+<lb n="55"/>dann gethann, unnd schickhen euch demnach solh unnser schreiben an  
+<lb n="56"/>den grafen lauttennt, und davon ain copei hirint zue des versehens, der  
+<lb n="57"/>graf werde darauf ewre außbürger ferrer unersuecht lassen und  
+<lb n="58"/>ir wist ime solh unnser missif woll zu ubersennden, wir haben auch  
+<lb n="59"/>die sachen an die künigliche mayestät gelanngen lassen, bey dem kayserlichen fiscal hie
+<lb break="no" n="60"/>rynnen fürsehung wiss ze thun, wolten wir euch auf ewr schriben unver
+<lb break="no" n="61"/>halten lassen. Datum, <origDate>25. may anno 1542</origDate>.
+<lb n="62"/>An <orgName ref="lub-actors-980">stattamen und rat  
+<lb n="63"/>der statt Veldkirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

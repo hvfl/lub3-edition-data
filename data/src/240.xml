@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-240">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt zwischen Karl Ludwig Graf und Kaspar Wolfinger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>Eintrag, Signatur: <ref type="identifier" target="lub-objects-240">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 186v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 23. August 1590 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung und Bescheid an Vogt und Amtleute von Feldkirch und an den Vogt zu Gutenberg, Kaspar von Ramschwag, dessen Hofmann Kaspar Wolfinger gegen die Übergriffe des Grafen von Sulz zu schützen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-08-23">23. Aug 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__186v-0001.jpg" xml:id="lub-media-634" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-186v.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-167">Wolffinger</persName> contra <persName ref="lub-actors-13">Sulz</persName>. 
+<lb n="2"/>Hiebeyverwart habt ir zuvernemen, waß
+<lb break="no" n="3"/>massen sich vor unnser <persName ref="lub-actors-167">Caspar Wolfinger</persName> 
+<lb n="4"/>abermals wider herrn <persName ref="lub-actors-13">Carl Ludwigen  
+<lb n="5"/>grafen zu Sulz</persName> beschwert und daneben ime  
+<lb n="6"/>gegen erstgedachten herrn grafen schuz  
+<lb n="7"/>unnd schirm zuhalten unnd bei seinem inn
+<lb break="no" n="8"/>habenden <term ref="lub-keywords-27">lehengüetern</term> der gebür nach handt
+<lb break="no" n="9"/>zuhaben etc. verrer underthenigclich bittet,  
+<lb n="10"/>ist innamen der fürstlichen durchlaucht etc., unnsers gnedig
+<lb break="no" n="11"/>isten herrn, hiemit unnser bevelch an euch, 
+<lb n="12"/>das ir ine, <persName ref="lub-actors-167">Wolfinger</persName>, bei seinem lehen handt  
+<lb n="13"/>habet, deßgleichen widerumben zu seinem  
+<lb n="14"/>abgenomnen vieh und verkhauffung seiner  
+<lb n="15"/>aignen güeter (damit er durch den herrn  
+<lb n="16"/><persName ref="lub-actors-13">grafen</persName> daran nit verhindert werde) ver
+<lb break="no" n="17"/>holffen seyet, auch ine durch berierten herrn 
+<lb n="18"/>grafen in khainem weeg wider die gebür  
+<lb n="19"/>beschwern lasset, sonnder der billichait nach  
+<lb n="20"/>schüzet und schirmet. Daran volziecht ir an
+<lb break="no" n="21"/>stat hochermelter fürstlicher durchlaucht unnser mainung. 
+<lb n="22"/>Datum, den <origDate>23. augusti anno etc. 90</origDate>. 
+<lb n="23"/>An <orgName ref="lub-actors-2588">vogt und ambtleut  
+<lb n="24"/>zu Veldtkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Teilung des Zehnts in Eschen</title>
+        <title>Verzeichnis der Äcker zu Eschen, welche dem Kloster Pfäfers oder der Kirche Bendern zehntpflichtig sind</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
@@ -12,16 +12,20 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
         </availability>
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Weitere Abschriften dieses Verzeichnisses in [LI-LA, PfäfA 21/05](/objects/736) und LI-LA, PfäfA 22/04.</p>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-740">LI-LA, PfäfA 22/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 14. Dezember 1570 / Beschreibstoff: Papier, 4 Seiten</witness>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-740">LI-LA, PfäfA 22/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeit: 18. Jahrhundert / Beschreibstoff: Papier, 4 Seiten</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Verzeichnis der Äcker zu Eschen, welche dem Kloster Pfäfers oder der Kirche Bendern zehntpflichtig sind, basierend auf einer 1570 in Anwesenheit von Christian Ganzmann, Abt des Klosters St. Luzi in Chur, und Abgesandten des Klosters Pfäfers in Bendern geschlossenen Vereinbarung.&#13;
-Erneuerung des Urbars der Pfarrei Eschen durch Hans Kegler, Ammann zu Pfäfers, und Luzi Christa, Schreiber zu Ragaz, in Anwesenheit von Peter Brendle.</p>
+        <p>Verzeichnis der Äcker zu Eschen, welche dem Kloster Pfäfers oder der Kirche Bendern zehntpflichtig sind, basierend auf einer 1570 in Anwesenheit von Christian Ganzmann, Abt des Klosters St. Luzi in Chur, und Abgesandten des Klosters Pfäfers in Bendern geschlossenen Vereinbarung. Das Urbar der Pfarrei Eschen wurde 1555 durch Hans Kegler, Ammann zu Pfäfers, und Luzi Christa, Schreiber zu Ragaz, in Anwesenheit von Peter Brendle erneuert.</p>
       </abstract>
       <langUsage>
         <language ident="de">Deutsch</language>
@@ -34,7 +38,7 @@ Erneuerung des Urbars der Pfarrei Eschen durch Hans Kegler, Ammann zu Pfäfers, 
       <correspDesc>
         <correspAction type="sent">
           <persName ref="lub-actors-309">Pfäfers, Kloster</persName>
-          <date from="1555-12-14" to="1570">14. Dez 1555 – 1570</date>
+          <date when="1570">1570</date>
         </correspAction>
       </correspDesc>
     </profileDesc>

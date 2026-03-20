@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-229">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionsstreit zwischen dem Landgericht Rankweil und den Untertanen von Vaduz, Schellenberg und Blumenegg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-229">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 76r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 13. Januar 1587 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an die Amtleute von Feldkirch betreffend die Jurisdiktionsstreitigkeiten zwischen dem Landgericht Rankweil und den Untertanen des Grafen Karl Ludwig zu Sulz in den drei Herrschaften Vaduz, Schellenberg und Blumenegg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+          <term ref="lub-keywords-32">Untertanen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1587-01-13">13. Jan 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__76r+v-0001.jpg" xml:id="lub-media-609" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-76r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__76r+v-0002.jpg" xml:id="lub-media-610" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-76v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><orgName ref="lub-actors-518">Lanndtgericht zu Ranckhweil</orgName> contra  
+<lb n="2"/>grafen zu <persName ref="lub-actors-13">Sulz</persName> unnderthanen zu  
+<lb n="3"/><placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Blueme
+<lb break="no" n="4"/>negg</placeName>.
+<lb n="5"/>Was verwalter und urthlsprecher des <orgName ref="lub-actors-518">Freyen Lanndt
+<lb break="no" n="6"/>gerichts zu Ranckhweil</orgName> neben einschliessung aines 
+<lb n="7"/>von herrn <persName ref="lub-actors-13">Carl Ludwigen grafen zue Sulz</persName> vom  
+<lb n="8"/>lezten octobris an sy außganngnen schreibens, sein  
+<lb n="9"/>herrn graffens und desselben underthanen der treyer  
+<lb n="10"/>herrschafften <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName>,  
+
+<lb n="11"/>vorgemeltem <orgName ref="lub-actors-518">Lanndtgericht</orgName> gethanen fürtrags und  
+<lb n="12"/>widersezung desselben lauffender jurißdiction  
+<lb n="13"/>in ermelten dreyen herrschafften halben an der  
+<lb n="14"/>fürstlich durchlaucht, unnsers gnedigisten herrn, tyrolische  
+<lb n="15"/>camerrathe gehorsamblichen gelanngen lassen,  
+<lb n="16"/>das habt ir innligenndts mit merrerm zuver
+<lb break="no" n="17"/>nemen. Damit aber ersthöchstgedachter fürstlich durchlaucht 
+<lb n="18"/>noch yezt gemeltem <orgName ref="lub-actors-518">Lanndtgericht</orgName> ann derselben  
+<lb n="19"/>habende lanndtsfurstlichen hochenn oberkhaidt,  
+<lb n="20"/>jurißdiction und gerichtszwanng, nichts endt
+<lb break="no" n="21"/>zogen noch praeiudicirt werde, ist in höchst gedachter 
+<lb n="22"/>irer durchlaucht namen hiemit unnser bevelch an euch,   
+<lb n="23"/>das ir unns (mit hilf und zuethuen doctor <persName ref="lub-actors-173">Gall Hagers</persName>,  
+<lb n="24"/>deme ir ain solliches fürzuhalten werdet wissen)   
+<lb n="25"/>ewern ausfüerlichen bestendigen und unver
+<lb break="no" n="26"/>lengten bericht sambt widersenndung des 
+<lb n="27"/>einschluß und euerm guetbedunckhen hierüber  
+<lb n="28"/>zuekhumen lasset. An dem etc. Datum, den  
+<lb n="29"/><origDate>13. januarii anno etc. 87</origDate>. 
+<lb n="30"/>An die <orgName ref="lub-actors-337">ambtleut zu Veldkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

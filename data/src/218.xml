@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-218">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rudolf V. Graf von Sulz soll gegen die Protestanten in Feldkirch Massnahmen ergreifen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>Eintrag, Signatur: <ref type="identifier" target="lub-objects-218">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 2 fol. 12v-13r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Entstehungszeitraum: 13. August 1531 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Rudolf von Sulz betreffend die neuen Sekten in Feldkirch und einen Rädelsführer des Bauernkrieges, Hans Schmied, der in des Grafen Gebieten nicht geduldet worden und deshalb wieder nach Feldkirch zurückgekehrt war.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-35">Protestantismus</term>
+          <term ref="lub-keywords-37">Konfession</term>
+          <term ref="lub-keywords-238">Strafe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1531-08-12" to="1531-08-13">12. Aug 1531 – 13. Aug 1531</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_2_fol__12v-13v-0001.jpg" xml:id="lub-media-589" source="tla-oo-regierung-kopialbucher-buch-walgau-band-2-1531-1536-fol-12v.jpg" corresp="xml:id not found"/>
+    <graphic url="at-tla_buch_walgau_2_fol__12v-13v-0002.jpg" xml:id="lub-media-590" source="tla-oo-regierung-kopialbucher-buch-walgau-band-2-1531-1536-fol-13r.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><placeName ref="lub-places-10">Veldtkirch</placeName><term ref="lub-keywords-35">Lutterey</term><lb n="2"/>Wir haben eur schreiben bey disem potten seins innhalts vernomen  
+<lb n="3"/>unnd eurs anzaigens guet gefallen. Dieweil wir aber nit wissen,  
+<lb n="4"/>ob graf <persName ref="lub-actors-151">Haug von Monntfort</persName>, vogt zu <placeName ref="lub-places-10">Veldtkirch</placeName>, yezo zu <placeName ref="lub-places-10">Veldtkirch</placeName><lb n="5"/>sey, noch wann herr <persName ref="lub-actors-80">Ulrich von Schellenberg</persName> daselbs aufziehen werd,  
+<lb n="6"/>darumb haben wir herrn <persName ref="lub-actors-8">Ruodolffen graven zu Sulz</persName>, stathalter etc.  
+<lb n="7"/>die hanndlung zugeschriben, unnd so er yezo gen <placeName ref="lub-places-1">Vaduz</placeName> komen wir
+<lb break="no" n="8"/>det, so wellet im sollichs auch nach lenngs anzaigen, damit er further 
+<lb n="9"/>was not sey darinn zu hanndlen wisse. Daran etc., datum, <origDate>12. augusti 1531</origDate>. 
+<lb n="10"/>An <orgName ref="lub-actors-2588">huebmaister unnd hoffschrey
+<lb break="no" n="11"/>ber zu Veldtkirch</orgName>.
+</p>
+        <p><lb n="12"/>Idem  
+<lb n="13"/>Unnd gelanngt glaublichen an, wie sich die newen verfuerischen  
+<lb n="14"/>secten zu <placeName ref="lub-places-10">Veldtkirch</placeName> auch einreissen wellen, wo nit furderlichen  
+<lb n="15"/>wenndung beschehe. Unnd nemblichen so haben etlich  
+<lb n="16"/>burger daselbs zu der verganngen österlichen zeit uber treffenlich  
+
+<lb n="17"/>warnungen nit gepeicht noch das hochwirdig sacrament em
+<lb break="no" n="18"/>phanngen. Dieselben geen auch nit mer oder wenig geen kirchen, 
+<lb n="19"/>spotten dero die den gozdiennst suechen unnd steen in practigkhen,  
+<lb n="20"/>auf das kunfftig jar ainen lutterischen zu amman zu machen.  
+<lb n="21"/>Unnd damit ir sect unnd vorhaben zu aufung zubringen, unnd  
+<lb n="22"/>sonnderlich seye <persName ref="lub-actors-160">Hanns Schmid</persName> etwo ein spezkher sollichs muetwillens,  
+<lb n="23"/>ain sonnderer ursacher unnd rädlfuerer, der hievor in eurn gebieten  
+<lb n="24"/>nit gelitten unnd sich yezo wider geen <placeName ref="lub-places-10">Veldtkirch</placeName> gethan hab, des aber  
+<lb n="25"/>von wegen seiner frundtschafft, dz er nit gestrafft, bißheer verschont  
+<lb n="26"/>worden sey. Dieweil wir dann nit wissen, ob graf <persName ref="lub-actors-151">Haug  
+<lb n="27"/>von Monntfort</persName>, vogt zu <placeName ref="lub-places-10">Veldtkirch</placeName>, yezo daselbst zu <placeName ref="lub-places-10">Veldtkirch</placeName> wone,  
+<lb n="28"/>noch wann herr <persName ref="lub-actors-80">Ulrich von Schellenberg</persName> da aufziehen werde, unnd  
+<lb n="29"/>dann der unndervogt, wie ir wisst, in diser hanndlung etwas verdacht  
+<lb n="30"/>ist. Unnd wir unns eurer zuekunfft an dieselb lanndsart  
+<lb n="31"/>in kurz versehen, so haben wir euch sollichs hiemit anzaigen  
+<lb n="32"/>wellen, sunders fleiß begerend, so ir also daselbs hin kombt,  
+<lb n="33"/>ir wellet euch der sachen beim huebmaister unnd hoffschreiber daselbs  
+<lb n="34"/>unnd bey anndern aigenntlich erkundigen unnd mit rat des vogts daselbs,  
+<lb n="35"/>oder herrn <persName ref="lub-actors-158">Merckh Sittichen von Embs</persName> unnd annderer erbern lewt   
+<lb n="36"/>hierinn einsehung thun, damit den sachen bey zeit furkumen, ain  
+<lb n="37"/>erberer man des alten glaubens auf das kunfftig jar zu amman  
+<lb n="38"/>gesezt, der <persName ref="lub-actors-160">Schmid</persName> unnd annderer rädlfuerer gestrafft unnd  
+<lb n="39"/>solliche sect der ennd außgereut unnd nit gestattet werd. Unnd  
+<lb n="40"/>ob not wär, ichts deßhalben an unns gelanngen zulassen, das wisst  
+<lb n="41"/>ir auch wol zuthun, damit allzei etc., datum, 1<origDate>3. augusti 1531</origDate>. 
+<lb n="42"/>An herrn stathalter 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

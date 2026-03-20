@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-234">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Neuerungen am Schloss Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-234">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 105v-107r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 12. Dezember 1589 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute von Feldkirch und Bescheid darüber an Kaspar von Ramschwag, Vogt zu Gutenberg betreffend die Eingriffe und Neuerungen des Grafen Karl Ludwig zu Sulz an Schloss und Vogtei Gutenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1589-12-12">12. Dez 1589</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__105v-107r-0001.jpg" xml:id="lub-media-3066" source="1589-12-12-buch-walgau-7-02-105v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__105v-107r-0002.jpg" xml:id="lub-media-3067" source="1589-12-12-buch-walgau-7-02-106r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__105v-107r-0003.jpg" xml:id="lub-media-3068" source="1589-12-12-buch-walgau-7-03-106v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Rambschwag</persName> contra graf  
+<lb n="2"/><persName ref="lub-actors-13">Carl zu Sultz</persName> 
+<lb n="3"/>Wiewol wir euch noch hievor, den <date when="1589-11-10">10. negst
+<lb break="no" n="4"/>verschinen monats</date> geborsambst der fürstlichen durchlaucht etc., 
+<lb n="5"/>unnsers gnedigisten herrn vogts zu  
+<lb n="6"/><placeName ref="lub-places-13">Guettemberg</placeName>, <persName ref="lub-actors-166">Casparn von Ramb
+<lb break="no" n="7"/>schwag</persName>, unns wider herrn <persName ref="lub-actors-13">Carl Lud
+<lb break="no" n="8"/>wig grafen zu Sulz</persName>, seiner an dem 
+<lb n="9"/>schloß unnd vogtey <placeName ref="lub-places-13">Guettenberg</placeName>  
+<lb n="10"/>angemasten eingrif und newerung  
+<lb n="11"/>halben vom <date when="1589-07-08">achten julii</date> unnd <date when="1589-09-14">14. septembris</date>  
+<lb n="12"/>furgebrachte schriftliche beschwerunng  
+
+<lb n="13"/>mit dem bevelch überschickht, daß ir  
+<lb n="14"/>im faal ir dessen zuvor nit genueg
+<lb break="no" n="15"/>sambs wissen hetten, euch alles fleiß 
+<lb n="16"/>der vogtey unnd schloß <placeName ref="lub-places-13">Guettem
+<lb break="no" n="17"/>berg</placeName> altem heerkhommens, recht unnd 
+<lb n="18"/>gerechtigkhaiten, aigenndtlichen erkhun
+<lb break="no" n="19"/>digen unnd unns desselben volgenndts 
+<lb n="20"/>sambt ewerm rathsamen guetachten be
+<lb break="no" n="21"/>richten, auch hiezwischen beruertem vogt 
+<lb n="22"/>auf sein begern alle guete hilf unnd bei
+<lb break="no" n="23"/>stanndt erzaigen unnd hochgedachter 
+<lb n="24"/>fürstlichen durchlaucht an dero gerechtsame nicht enndt
+<lb break="no" n="25"/>ziehen lassen, sonnder ime, vogt, diesel
+<lb break="no" n="26"/>ben hanndthaben helfen sollet, so ist 
+<lb n="27"/>unns doch noch bißheer auf solches von  
+<lb n="28"/>euch nichts zuhommen. Dieweil sich dann  
+<lb n="29"/>er, vogt, mit hiebeyverwartem, den <date when="1589-11-19">19.  
+<lb n="30"/>vorsteennden monats novembris</date> unns zuege
+<lb break="no" n="31"/>thanen schreiben unnd darbeiverwarter 
+<lb n="32"/>nebenlag wider merberuerten herrn  
+<lb n="33"/>grafen zu <persName ref="lub-actors-13">Sulz</persName> abermalen beschwerdt,   
+
+<lb n="34"/>wie ir daraus mit mererem zuvernemmen. 
+<lb n="35"/>So ist in hochstgedachter fürstlicher durchlaucht namen  
+<lb n="36"/>hiemit unnser ferrer bevelch, daz ir an
+<lb break="no" n="37"/>geregten unnsern vorigen bevelch in 
+<lb n="38"/>ainen unnd den andern aufferlegter  
+<lb n="39"/>massen nochmals nachkhommet und  
+<lb n="40"/>unns auch den begerten bericht unnd  
+<lb n="41"/>außfuerlich guetbedunckhen mit wider
+<lb break="no" n="42"/>senndung des vorigen unnd jezigen 
+<lb n="43"/>einschluß hieheer zu unnsern, der <orgName ref="lub-actors-929">Regierung</orgName>  
+<lb n="44"/>hannden unverzogenlichen überschickh
+<lb break="no" n="45"/>et, wolten wir euch etc. Datum, den 
+<lb n="46"/><origDate>12. decembris anno erc. 89</origDate>. 
+<lb n="47"/>An vogt unnd <orgName ref="lub-actors-337">ambt
+<lb break="no" n="48"/>leut zu Veldkhirch</orgName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

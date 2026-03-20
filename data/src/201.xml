@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-201">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf von Blumenegg an die Abtei Weingarten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-201">CZ-SOAT Cizí statky 7 II 30 4</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 21. Oktober 1612 / Beschreibstoff: Papier, 8 Seiten / Siegel: 4 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/7/charter">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Rudolf VII. Graf von Sulz verkauft die Herrschaft Blumenegg an das Kloster Weingarten</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-843">Hofen, Kloster</placeName>
+          <date when="1612-08-21">21. Aug 1612</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0001.jpg" xml:id="lub-media-2938" source="1612-08-21-soat-cizistatkytrebon-7-02.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0002.jpg" xml:id="lub-media-2939" source="1612-08-21-soat-cizistatkytrebon-7-03.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0003.jpg" xml:id="lub-media-2940" source="1612-08-21-soat-cizistatkytrebon-7-04.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0004.jpg" xml:id="lub-media-2941" source="1612-08-21-soat-cizistatkytrebon-7-05.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0005.jpg" xml:id="lub-media-2942" source="1612-08-21-soat-cizistatkytrebon-7-06.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0006.jpg" xml:id="lub-media-2943" source="1612-08-21-soat-cizistatkytrebon-7-07.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0007.jpg" xml:id="lub-media-2944" source="1612-08-21-soat-cizistatkytrebon-7-08.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_7_ii_30_4-0008.jpg" xml:id="lub-media-2945" source="1612-08-21-soat-cizistatkytrebon-7-09-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2938" n="1"/><lb n="1"/>Zu wissen unnd khundt seye gethan menigclichen, alß dem  
+<lb n="2"/>hochwirdigen herrn, herrn <persName ref="lub-actors-193">Geörgen</persName> abbten deß loblichen  
+<lb n="3"/>gozhauß <orgName ref="lub-actors-198">Weingarten</orgName> durch den hoch- und wolgebornen  
+<lb n="4"/>herrn, herrn <persName ref="lub-actors-113">Rudolfen graven zu Sulz</persName>, landtgraven im  
+<lb n="5"/><placeName ref="lub-places-18">Kleckhew</placeName>, deß <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhofrichtern zuo  
+<lb n="6"/><placeName ref="lub-places-17">Rotweyl</placeName> etc., unlangst verschiner zeit die grafschafft  
+<lb n="7"/><placeName ref="lub-places-12">Bluemenegg</placeName> kheufflich angebotten unnd man darauf  
+<lb n="8"/>beederseits benantlich ir gnaden, der herr prelat in der  
+<lb n="9"/>person, unnd von deß herrn graven wegen die edle  
+<lb n="10"/>hochgelerdt, vest unnd ernuest herr <persName ref="lub-actors-2539">Michael Mayr</persName>,  
+<lb n="11"/>der rechten licentiat, hochfürstlicher durchleucht erzherzog <persName ref="lub-actors-184">Maximili
+<lb break="no" n="12"/>ans zu Österreich</persName> etc. rath <persName ref="lub-actors-2541">Johann Sebastian Schentlin</persName> 
+<lb n="13"/>unnd <persName ref="lub-actors-2540">Johann Rudolph von der Halden</persName>, solcher handlung  
+<lb n="14"/>halb an heüt dato in dem gozhaus haben, bey <placeName ref="lub-places-506">Buochorn</placeName>  
+<lb n="15"/>ligendt, mit gnugsamer volmacht unnd instruction,  
+<lb n="16"/>beyainandern erschinen. Das demnach berürter  
+<lb n="17"/>grafschafft halber (jedoch anderst nit, dann auf  
+<lb n="18"/>wolgedacht ir gnaden, deß herrn grafen, unnd aines ganzen  
+<lb n="19"/>loblichen convents deß gozhauß <orgName ref="lub-actors-198">Weingarten</orgName> ratifi
+<lb break="no" n="20"/>cation) ain khauff abgeredt worden, auf maß und
+<lb n="21"/>form, wie hernach volgt. 
+</p>
+        <p><lb n="22"/>Erstlich geben besagte herrn deputirte in namen ires  
+<lb n="23"/>gnedigen herrn principaln, dessen erben unnd erbens  
+<lb n="24"/>erben, eines ewigen unwiderruefflichen khaufs, unnd  
+<lb n="25"/>wie derselb vermög gaist- unnd weltlichen rechten zum  
+<lb n="26"/>crefftigsten geschehen solt, khündt, oder möchte zukhauffen, ob  
+<lb n="27"/>wolermeltem herrn prelaten zu <orgName ref="lub-actors-198">Weingarten</orgName>, dessen nach
+<lb break="no" n="28"/>khomen unnd gozhauß berürte grafschafft <placeName ref="lub-places-12">Bluemenegg</placeName>, 
+<lb n="29"/>mit allen deren pertinentiis, juribus, regalibus, rendt,  
+<lb n="30"/>zinß, gülten unnd einkhomen, nichts überahl davon  
+<lb n="31"/>außgenomen, für frey, ledig, aigen usserhalb das der  
+
+<lb n="32"/>bluetbann von dem <orgName ref="lub-actors-516">Hayligen Römischen Reich</orgName>, unnd dann die  
+<lb n="33"/>vogtey <placeName ref="lub-places-844">Früessen</placeName> von dem gozhauß unnser lieben  
+<lb n="34"/>frauen zue <orgName ref="lub-actors-2542">Ainsidln</orgName> zu lehen rürt. 
+<lb n="35"/>Fürs ander is beredt, das alle mobilia, so in dem  
+<lb n="36"/><placeName ref="lub-places-57">Schloß</placeName>, auch dem darzu gehörigen türggeln, mülinen  
+<lb n="37"/>unnd andern ehäfftinen, jeztmalen verhanden, in sonder
+<lb break="no" n="38"/>hait aber der legerfesstern unnd was nuth unnd 
+<lb n="39"/>nagel haltet, in khauff gehen unnd davon nichts  
+<lb n="40"/>veraberwandlet werden. Dagegen den herrn grafen  
+<lb n="41"/>die in dem <placeName ref="lub-places-57">Schloß</placeName> vyleicht noch habendte <unclear>früchten</unclear> unnd  
+<lb n="42"/>wein zustendig sein unnd verbleiben sollen. 
+</p>
+        <p><lb n="43"/>Sovil dann zum driten diejenige jarsnuzung und  
+<lb n="44"/>respective zu straichung von denjenigen capitaln be
+<lb break="no" n="45"/>trifft, welche ir gnaden, der herr kheuffer, mit solcher 
+<lb n="46"/>grafschafft übernemen soll, ist die sach dahin gestelt,  
+<lb n="47"/>das man bei der würckhlichen immission deßhalb ge
+<lb break="no" n="48"/>pürende abrechnung treffen unnd sich beede herrn 
+<lb n="49"/>alßdann pro rata temporis mit ain andern freundt
+<lb break="no" n="50"/>lich ve<unclear>rgleichen</unclear> sollen.
+</p>
+        <p><lb n="51"/>Zum vierten haben wolgedacht ir gnaden, der herr pre
+<lb break="no" n="52"/>lat zu <orgName ref="lub-actors-198">Weingarten</orgName>, verwilliget, das sy unnd ire 
+<lb n="53"/>nachkhomen, mehr angeregte grafschafft sowohl gegen  
+<lb n="54"/>dem <orgName ref="lub-actors-516">Hayligen Römischen Reich</orgName> unnd kheyserlichen <orgName ref="lub-actors-521">Chammergericht</orgName>  
+<lb n="55"/>zu <placeName ref="lub-places-75">Speyr</placeName>, alß respective dem loblichen <orgName ref="lub-actors-2504">Schwäbischen  
+<lb n="56"/>Chrayß</orgName> (dem halben denn innhabern der herrschafft  
+<lb n="57"/><orgName ref="lub-actors-744">Brandis</orgName> anno 1521 gemachten anschlag nach) hinfüro  
+<lb n="58"/>vertretten, ir gnaden der herr graf aber das gozhauß  
+<lb n="59"/>gegen dem <orgName ref="lub-actors-2543">Gräflichen Collegio</orgName> allerdings endtheben  
+<lb n="60"/>unnd daneben die sach bey dern vylgeliebten herrn  
+<lb n="61"/>bruedern, dem auch hoch- unnd wolgebornen herrn  
+
+<lb n="62"/>herrn <persName ref="lub-actors-13">Carln Ludwigen grafen zu Sulz</persName> etc., dahin zerichten  
+<lb n="63"/>schuldig sein sollen, das ir gnaden für sich, dern erben, nach
+<lb break="no" n="64"/>khomen unnd khünfftige innhabere ainen schein von handen 
+<lb n="65"/>geben, das sy denselbigen halben thail, es seye an reichs-,  
+<lb n="66"/>crayß-, oder andern contributionen, wie auch des <orgName ref="lub-actors-521">Chamer
+<lb break="no" n="67"/>gerichts</orgName> underhaltung, ordenlich entrichten wollen.
+</p>
+        <p><lb n="68"/>Unnd damit fürs fünft, das gozhauß dises <term ref="lub-keywords-30">khauffs</term> halb  
+<lb n="69"/>desto sicherer stehe ist beschlossen, das der herr verkheuffer  
+<lb n="70"/>demselben nit allain einen khauffbrief, darinn alle per
+<lb break="no" n="71"/>tinenzien, regalien, jura, herrligkhaiten, grenzen, 
+<lb n="72"/>rendt, zinß unnd einkhomen begriffen, zusampt allen  
+<lb n="73"/>unnd jeden dise grafschafft berürenden documenten,  
+<lb n="74"/>privilegien, urbarien, rödeln, verträgen und anderer  
+<lb n="75"/>gewarsame einzuhendigen, sonder auch ainen offnen,  
+<lb n="76"/>auf pergament beschribnen unnd respective von hoch
+<lb break="no" n="77"/>wolgedacht ir gnaden, herrn graf <persName ref="lub-actors-13">Carln Ludwigen</persName> etc., wie 
+<lb n="78"/>auch derselben baiden herrn sönen unnd herrn graf  
+<lb n="79"/><persName ref="lub-actors-144">Johannsen</persName> etc., alß der zeit lebenden herrn grafen zu Sulz etc.,  
+<lb n="80"/>besigeln unnd mit ir jeders handtzaichen becrefftigen, an  
+<lb n="81"/>unns einzuantwurtten verbunden sein sollen. Darinnen  
+<lb n="82"/>ir gnaden, gnaden, gnaden, gnaden sich sampt unnd sonders für sich, deren  
+<lb n="83"/>erben unnd erbens erben aller anspruch, zugrechts,  
+<lb n="84"/>widerlosung, recht unnd gerechtigkhaiten, die sy sowohl zu  
+<lb n="85"/>dem lehen, alß dem aigenthumb in crafft der gemainen  
+<lb n="86"/>geschribnen recht, irer erbainigung, privilegien, judicialien,  
+<lb n="87"/>concessionen, oder anders woher (wie dasselb immer  
+<lb n="88"/>genant) vergleicht, alberait gehabt haben, oder noch über
+<lb break="no" n="89"/>khomen hetten mögen, in der bessten bestendigsten formb 
+<lb n="90"/>rechtens verzeichen, also, das weder sy noch ire erben  
+<lb n="91"/>in ewigkhait sich derselben behelf wider das gozhaus  
+<lb n="92"/><orgName ref="lub-actors-198">Weingarten</orgName> zu gebrauchen fuog oder macht haben sollen. 
+
+<lb n="93"/>Zum sechsten ist insonderbar beredt, das dißer <term ref="lub-keywords-30">khauffschluß</term>  
+<lb n="94"/>der römisch khayserlichen mayestät, unnserm allergnedigsten herrn,  
+<lb n="95"/>neben übersendung erst angeregts original conßens  
+<lb n="96"/>der vier herrn graven <orgName ref="lub-actors-7">zu Sulz</orgName>, unnd dann deß  
+<lb n="97"/>concepts, dessen man sich über dißen <term ref="lub-keywords-30">khauff</term> mit  
+<lb n="98"/>ainandern zuvergleichen, vermittelst aines gesampten  
+<lb n="99"/>schreibens pro impetranda confirmatione ange
+<lb break="no" n="100"/>bracht werden, unnd ir gnaden, der herr graf, gleich 
+<lb n="101"/>damit den bißhero zu lehen getragnen bluetbann  
+<lb n="102"/>gewonlicher massen auf senden, an dem hierunder  
+<lb n="103"/>auflauffenden revers aber, das gozhauß <orgName ref="lub-actors-198">Weingarten</orgName>  
+<lb n="104"/>ein mehrers nit. Dann was das lehen unnd die re
+<lb break="no" n="105"/>galia in entpfahung derselben dem tax nach betrifft, 
+<lb n="106"/>zuerstatten schuldig sein sollen, welchen puncten zwar  
+<lb n="107"/>die herrn gräfliche sulzische (sovil das letste membrum  
+<lb n="108"/>anlangt) anderst nit, dann ad referendum  
+<lb n="109"/>angenomen. 
+</p>
+        <p><lb n="110"/>Zum sibenden verobligiren sich erst obgedachte herrn  
+<lb n="111"/>deputirte <gap/> sach uf sulzischer seiten dahin un
+<lb break="no" n="112"/>fehlbar <supplied><gap/></supplied> werden solle, das der herr prelat 
+<lb n="113"/>obgedachts gozhauß <orgName ref="lub-actors-2542">Ainsidln</orgName> ir gnaden dem herrn kheuffer  
+<lb n="114"/>mit der vogtey <placeName ref="lub-places-844">Früessen</placeName> more antiquo unnd nach  
+<lb n="115"/>vor erfolgender immission nit weniger würckhlich  
+<lb n="116"/>belehne. 
+</p>
+        <p><lb n="117"/>Unnd demnach man zum achten auf weingartischer  
+<lb n="118"/>seiten nit unbillich, grunndtliche nachrichtung zu  
+<lb n="119"/>haben begerdt, was es sowol der angegebnen, alß  
+<lb n="120"/>vyleicht anderer schulden, darunder mehrbesagte  
+<lb n="121"/>grafschafft in genere oder in specie verhafft, für  
+<lb n="122"/>ain beschaffenhait, unnd wie man derjenigen creditoren  
+
+<lb n="123"/>halb, davon man noch zur zeit khain wissens, dieselbige  
+<lb n="124"/>aber inskhünfftig sich wegen irer bezahlungen bey  
+<lb n="125"/>dem gozhauß anmelden möchten, assecurire unnd ver
+<lb break="no" n="126"/>sichert, alß hat man sich dahin verglichen, das ir 
+<lb n="127"/>gnaden der herr graf zum zinß diejenigen gleubigen,  
+<lb n="128"/>deren unvolkhomne designation alberait übergeben  
+<lb n="129"/>worden, etwo unverlengt an ain derselben gelegen  
+<lb n="130"/>orth zusamen beschreiben unnd auf fürlegung ir jedes  
+<lb n="131"/>habender obligation, oder dern vidimirter copey in  
+<lb n="132"/>gegenwarth der weingartischen deputirten mit demselben  
+<lb n="133"/>der aufgeschwollnen zinß, cost unnd anders halb, so da
+<lb break="no" n="134"/>mit underlauffen möchte, gepürende rechnung unnd 
+<lb n="135"/>abhandlung treffen lassen. Wegen der übrigen unange
+<lb break="no" n="136"/>gebnen creditorn aber, solche assecurationsmittel 
+<lb n="137"/>fürschlagen solle, daran das gozhauß häbig und verpüegt  
+<lb n="138"/>sein möge. 
+</p>
+        <p><lb n="139"/>Unnd ist sonsten dißer khauff neben taußent guldin verehrung  
+<lb n="140"/>oder leütkhauff, für ir gnaden deß herrn grafen geliebte  
+<lb n="141"/>fraw gemahlin etc. beschehen, für unnd umb ain
+<lb break="no" n="142"/>hundert unnd fünfzig taußendt güldin guter genemer 
+<lb n="143"/>unnd in der statt <placeName ref="lub-places-10">Veldtkhirch</placeName> gangparer reichswehrung,  
+<lb n="144"/>ir fünfzehen bazen, oder <supplied><gap/></supplied> für ainen gulden ge
+<lb break="no" n="145"/>raitet, mit dißer maß unnd beschaidenhait, das auf 
+<lb n="146"/>erlangende khayserliche confirmation, auch respective die  
+<lb n="147"/>belehnungen, alß gleich bei der immission, fünf unnd  
+<lb n="148"/>dreyßig taußent gulden pahr erlegt werden, sodann  
+<lb n="149"/>das gozhauß anstatt der gewehrschafft (zu welcher  
+<lb n="150"/>man sich uf sulzischer seiten dreyßig ja lanng verobligirt)  
+<lb n="151"/>vierzig taußent gulden (jedoch gegen raichung deß  
+<lb n="152"/>järlichen zinß, alß nemblich fünf per cento) innbehalten,  
+<lb n="153"/>unnd beeden herrschafften sich deß überrests, auch dern  
+
+<lb n="154"/>zeiler halb freundtlich mitainandern verainingen sollen, nach
+<lb break="no" n="155"/>deme man die liquidation der schulden befinden würdt.
+</p>
+        <p><lb n="156"/>Wurde sich dann wegen dißes <term ref="lub-keywords-30">khauffs</term> (welches man  
+<lb n="157"/>zwar nit verhoffen thut) über khurz oder lanng zwüschen  
+<lb n="158"/>beeden herrschafften, oder deren nachkhomen, etwas müß
+<lb break="no" n="159"/>verstandt zutragen, dessen sy sich nit selbsten mit ain
+<lb break="no" n="160"/>andern güetlich vergleichen khönden, soll zu solchem 
+<lb n="161"/>fahl der auch hochwürdig herr, herr <persName ref="lub-actors-2546">Urban</persName> abbte  
+<lb n="162"/>deß gozhauß <orgName ref="lub-actors-2545">Ochßenhausen</orgName>, sodann der wolgeborn  
+<lb n="163"/>herr, herr <persName ref="lub-actors-122">Caspar graf zu der Hohenembs</persName>, ersucht  
+<lb n="164"/>werden, das sy baide thail mit irer notturfft  
+<lb n="165"/>anhören, jedoch in sachen allain <supplied><gap/></supplied> precedirn,  
+<lb n="166"/>auch schließlich dieselbe alß arbitri entschaiden,  
+<lb n="167"/>bei welcher endtschaidung unnd urthel jeder thail  
+<lb n="168"/>ohne appelation revision, reduction, oder andere  
+<lb n="169"/>dergleichen einwanndt, ewigclich verbleiben solle.  
+<lb n="170"/>Dabei gleichwol auch diß angehenckht worden,  
+<lb n="171"/>das zum fahl erst ernente baide erkhieste herrn  
+<lb n="172"/>arbitri <gap/> ainhelligen mainung, nit sollen  
+<lb n="173"/>vergleichen mögen, das alßdann der hochwürdig  
+<lb n="174"/>f<gap/> herr <persName ref="lub-actors-2547">Jacob</persName> bischoffe zu <placeName ref="lub-places-834">Costanz</placeName>, herr  
+<lb n="175"/>der <supplied><gap/></supplied> unnd <orgName ref="lub-actors-2548">Öhningen</orgName>, durch baide streitende  
+<lb n="176"/>herrschafften zu ainem obman zu erpitten. 
+</p>
+        <p><lb n="177"/>Unnd dessen alles zu wahrem urkhundt syen über diß ab
+<lb break="no" n="178"/>redt zway gleichlautende exemplaria unnd der 
+<lb n="179"/>obwolgedacht ir gnaden deß herrn prelaten, wie  
+<lb n="180"/>auch der herrn gräflichen sulzischen deputirten aignen  
+<lb n="181"/>handt subscriptionen unndterm abbtey secret  
+
+<lb n="182"/>unnd respective pittschafften verfertiget worden,  
+<lb n="183"/>auch jeder thail ains davon zuhanden genomen.  
+<lb n="184"/>Beschehen in obgemelten gozhauß <placeName ref="lub-places-843">Hofen</placeName>, den <origDate>ain und  
+<lb n="185"/>zwainzigisten augusti im sechzehenhundert und  
+<lb n="186"/>zwölften jar</origDate>.
+</p>
+        <p><lb n="187"/>Hiebey zu merckhen, nachdem die gräfliche sulzische abge
+<lb break="no" n="188"/>ordnete ires gnädigen herrn halber bei irn gnaden dem herrn 
+<lb n="189"/>prelaten zu <gap/> <supplied><gap/></supplied>  
+<lb n="190"/>dißer abschid desto mehr effectiort werden möge,  
+<lb n="191"/>dan <supplied><gap/></supplied> <gap/> taußent gulden  
+<lb n="192"/>noch umb fünf <gap/> samptlich auf vierzig  
+<lb n="193"/>taußent pares <gap/> <supplied><gap/></supplied> zu  
+<lb n="194"/>erstreckhen, das hochermelter herr prelat dergestalten  
+<lb n="195"/>solches auch verwilligt, wo in übergebung der  
+<lb n="196"/>schulden ain sovil auf khündig capital als fünftaußent  
+<lb n="197"/>guldin, mag umb järliche verzinsung bei den creditorn stehen  
+<lb n="198"/>verbleiben. 
+<lb n="199"/>Welches erster nach ingrossirtem dißem abschid accordirt  
+<lb n="200"/>unnd verglichen. 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Abschidt. 
+<lb n="2"/>Getroffnen bluemeneggischen  
+<lb n="3"/><term ref="lub-keywords-30">kauffs</term></p>
+      </div>
+    </body>
+  </text>
+</TEI>

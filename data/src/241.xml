@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-241">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Frondienst der Ausburger in der Herrschaft Schellenberg betreffend</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-241">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 187r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 18. Dezember 1590 / Beschreibstoff: Papier, 2 Seiten /  Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anfrage der Oberösterreichischen Regierung bei Stadtammann und Rat von Feldkirch, wie es um den Frondienst der Augsburger, die in der Herrschaft Schellenberg wohnen, und um den Frondienst der Untertanen des Grafen Karl Ludwig von Sulz, die in Feldkirch leben, bestellt sei, und was jeder Teil für Rechte habe.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-3">Ausbürger</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-12-18">18. Dez 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__187r+v-0001.jpg" xml:id="lub-media-635" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-187r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__187r+v-0002.jpg" xml:id="lub-media-636" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-187v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Was an unns herr <persName ref="lub-actors-13">Carl Ludwig graf zu  
+<lb n="3"/>Sulz</persName> vonwegen der strittigkhaiten, so sich  
+<lb n="4"/>zwischen ime und der fürstlichen durchlaucht erzherzog  
+<lb n="5"/><persName ref="lub-actors-11">Ferdinannden zu Össterreich</persName> etc., unnsers gne
+<lb break="no" n="6"/>digisten herrn vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>, <persName ref="lub-actors-166">Casparn 
+<lb n="7"/>von Rambschwag</persName>, von wegen der <persName ref="lub-actors-167">Wölffinger</persName>  
+<lb n="8"/>erhaltendt noch hievor den anndern negst
+<lb n="9"/>verschines monats augusti gelanngen lassen,  
+<lb n="10"/>das habt ir ab hiebeyverwartem schreiben  
+<lb n="11"/>mit mererm zuvernemen. Hierauf ist inn  
+<lb n="12"/>hochgedachter fürstlicher durchlaucht namen unnser bevelch,  
+<lb n="13"/>das ir unns nit allain, wie es der <term ref="lub-keywords-34">frondienst</term>  
+<lb n="14"/>halben mit euren <term ref="lub-keywords-3">außburgern</term>, so inn der  
+<lb n="15"/>herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> haushäblichen wohnen,  
+<lb n="16"/>sonnder auch des herrn grafen zu <persName ref="lub-actors-13">Sulz</persName> under
+<lb break="no" n="17"/>thonen, so zu <placeName ref="lub-places-10">Veldtkhirch</placeName> hausen, gehalten, 
+<lb n="18"/>und was jedtweder thail für gerechtsame  
+<lb n="19"/>habe, eurn lautern unnd ausfüerlichen bericht  
+<lb n="20"/>hieherr zu unnsern, der <orgName ref="lub-actors-929">Regierung</orgName>, hannden  
+<lb n="21"/>zuekhomen lasset, unnd auch bei anndern  
+
+<lb n="22"/>euren negstbenachperten, wie es derowegen  
+<lb n="23"/>bey inen gehalten werde, erkhundigung  
+<lb n="24"/>einnemet unnd unns desselben ebenmessig  
+<lb n="25"/>verstenndigt. An deme beschicht etc. Datum,  
+<lb n="26"/>den <origDate>18. decembris anno etc. 90</origDate>. 
+<lb n="27"/>An <orgName ref="lub-actors-980">stattaman und rath  
+<lb n="28"/>zu Veldtkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-792">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt um den Frondienst von Kaspar Wolfinger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-792">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 113r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. April 1590 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Hubamt von Feldkirch soll sicherstellen, dass Kaspar Wolfinger in seinem Frondienst für die Habsburger bei Schloss Gutenberg nicht durch Karl Ludwig von Sulz gehindert wird.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-04-10">10. Apr 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__113r+v-0001.jpg" xml:id="lub-media-621" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-113r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__113r+v-0002.jpg" xml:id="lub-media-622" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-113v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Ewer schreiben, so ir unns herr <persName ref="lub-actors-13">Carl Ludwigen graf
+<lb break="no" n="3"/>en zu Sulz</persName>, euch an dem schloß unnd vogtey 
+<lb n="4"/><placeName ref="lub-places-13">Guettenberg</placeName> zuefuegenden eintrag und newe
+<lb break="no" n="5"/>rung halben gethan, haben wir empfanngen  
+<lb n="6"/>unnd geben euch darauf zuvernemen, das  
+<lb n="7"/>wir dem <orgName ref="lub-actors-2588">vogt unnd ambtleuten zu Veld
+<lb break="no" n="8"/>kirch</orgName> erst den anndern diß auferlegt unnd 
+<lb n="9"/>bevelchen, das sy euch bey demjhenigen, so  
+<lb n="10"/>ir diß orts anstat der fürstlichen durchlaucht erzherzog <persName ref="lub-actors-11">Ferdinand
+<lb break="no" n="11"/>en zu Österreich</persName> etc., unnsers gnedigisten herrn,  
+<lb n="12"/>befüegt, gebürennder massen hanndthaben  
+
+<lb n="13"/>unnd darwider nit beschweren lassen, auch dem <persName ref="lub-actors-167">Caspar  
+<lb n="14"/>Wolfinger</persName> gueten ruggen, schuz unnd schirm halten  
+<lb n="15"/>sollen, damit er an dem veldpaw seines hofs so
+<lb break="no" n="16"/>wol auch dem außgang seines viehs, sovil er 
+<lb n="17"/>dessen befüegt, nit verhindert werde. Dieweil  
+<lb n="18"/>dann dem pawen, dem herrn grafen die be
+<lb break="no" n="19"/>gerten frondiennst zelaisten mit nichten zue ge
+<lb break="no" n="20"/>statten, so ist in namen hochermelter fürstlicher durchlaucht 
+<lb n="21"/>unser bevelch an euch, das ir solliches bey  
+<lb n="22"/>ime ab unnd einstellet, ir auch bey seinem  
+<lb n="23"/>veldtpaw hanndthabet, unnd daran nit beschwern  
+<lb n="24"/>lasset, unnd damit er sein ime genomens  
+<lb n="25"/>vieh desto ennder wider bekhomen müge, nach  
+<lb n="26"/>den jhenigen, so ime dasselb genomen, wan  
+<lb n="27"/>sy fenckhlich einziehen unnd so lang verwart  
+<lb n="28"/>enthalten lasset, unzt dem paurn sein ge
+<lb break="no" n="29"/>nomens vieh wider restituiert unnd uber
+<lb break="no" n="30"/>anndtwuert würdet, wolten wir euch zu 
+<lb n="31"/>begerter anndtwurt nit verhalten, unnd ir  
+<lb n="32"/>thuet daran anstat merhochermelter fürstlicher  
+<lb n="33"/>durchlaucht unnser mainung. Darum, den <origDate>10.  
+<lb n="34"/>apprillis anno etc. 90</origDate> 
+<lb n="35"/>An <persName ref="lub-actors-166">Casparn von Ramb
+<lb break="no" n="36"/>schwag</persName>, vogt zu <placeName ref="lub-places-13">Guetenberg</placeName>
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

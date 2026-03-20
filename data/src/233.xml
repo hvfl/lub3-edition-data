@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-233">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionskonflikt mit dem Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-233">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 86r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 30. Oktober 1587 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Weitere Anweisungen an die Amtleute von Feldkirch im Jurisdiktionsstreit der Untertanen des Grafen Karl Ludwig von Sulz und dem Landgericht Rankweil.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1587-10-30">30. Okt 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__86r-0001.jpg" xml:id="lub-media-618" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-86r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Graf zu <persName ref="lub-actors-13">Sulz</persName> contra <orgName ref="lub-actors-518">Lanndt
+<lb break="no" n="2"/>gericht Rannckhweil</orgName>.
+<lb n="3"/>Fürstlich durchlaucht  
+<lb n="4"/>Nota  
+<lb n="5"/>Wegen der wegen  
+<lb n="6"/>dem <date when="1587-10-20">20. octobris  
+<lb n="7"/>anno 87</date> ausgangen  
+<lb n="8"/>such im <orgName ref="lub-actors-521">Camer
+<lb break="no" n="9"/>gericht</orgName>.
+<lb n="10"/>Was wir euch vom <date when="1587-04-04">4. aprilis negsthin</date>  
+<lb n="11"/>der zwischen herrn <persName ref="lub-actors-13">Carlen Ludwigen  
+<lb n="12"/>grafen zu Sulz</persName> an ainem und dem  
+<lb n="13"/><orgName ref="lub-actors-518">Lanndtgericht Rannckhweil</orgName> am anndern  
+<lb n="14"/>tail, seiner underthonen der drey herr
+<lb break="no" n="15"/>schafften <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Pluem
+<lb break="no" n="16"/>enegg</placeName> schwebenden spenn und stittig
+<lb break="no" n="17"/>khaiten, auch besagts herrn grafen der
+<lb break="no" n="18"/>wegen der fürstlichen durchlaucht etc. vom <date when="1587-02-18">18. februarii 
+<lb n="19"/>diß jars</date> zuegethanen schreibens haben.  
+<lb n="20"/>Darinnen er sich solche sachen in ain güet
+<lb break="no" n="21"/>ige comissions hanndlung khomen zlassen 
+<lb n="22"/>anerboten, welches schreiben aber alhie  
+<lb n="23"/>verlegt und verlorn worden etc. zuege
+<lb break="no" n="24"/>schriben. Das werdet ir noch guet 
+<lb n="25"/>in gedennckh sein, was dann ermelter  
+<lb n="26"/>herr graf jezt abermals an höchstge
+<lb break="no" n="27"/>dachte ir fürstlich durchlaucht gelanngen lassen und 
+<lb n="28"/>sein gehorsambs biten ist, das habt  
+<lb n="29"/>ir innligends auch zu sehen. Darüber  
+<lb n="30"/>werdet ir unns den zuvor begerten und  
+<lb n="31"/>auch über die eingeschlossne supplic an eurn  
+<lb n="32"/>fürderlichen bericht mit widersendung  
+<lb n="33"/>des ainschluß zuekhomen zlassen wissen. 
+<lb n="34"/>Daran beschicht etc. Datum, <origDate>30. octobris  
+<lb n="35"/>anno etc. 87</origDate>. 
+<lb n="36"/>Ahn die <orgName ref="lub-actors-337">ambtleut zu Veldtkhirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

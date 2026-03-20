@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-211">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Instruktion für Urban von Landegg wegen der aufrührerischen Untertanen in Vaduz, Schellenberg und Blumenegg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-211">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 28r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 12. Juni 1525 / Beschreibstoff: Papier, 2 Seiten / Siegel:  kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Instruktion  für Urban von Landegg, Hubmeister, und Jorg Stoss, Ammann von Feldkirch, um mit Ammann und Untertanen der drei Herrschaften Vaduz, Schellenberg und Blumenegg verhandeln zu können, die sich in empörtem Aufruhr gegen Rudolf V. Graf zu Sulz erhoben hatten. Da Graf Rudolf unter Schutz und Schirm des Hauses Österreich steht, sollten die Kommissare der Oberösterreichischen Regierung sie von dieser Empörung und von tätlichen Handlungen abhalten und etwaige Beschwerden entgegennehmen.&#13;
+Zum selben Datum erging eine Anweisung an Vogt und Hubmeister von Feldkirch, mit sechs bis acht treuen und redlichen Knechten nach Vaduz zu gehen, um eine gute Beziehung zur Bevölkerung zu unterhalten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-33">Aufruhr</term>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-66">Bauernkrieg 1525</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1525-06-12">12. Jun 1525</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__28r+v-0001.jpg" xml:id="lub-media-578" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-28r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_1_fol__28r+v-0002.jpg" xml:id="lub-media-579" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-28v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-8">Graf von Sulz</persName>, <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName>. 
+<lb n="2"/>Instruction, was unnser getrewen, lieben <persName ref="lub-actors-682">Urban von Lanndegg</persName>, unnser  
+<lb n="3"/>diener, und <persName ref="lub-actors-683">Jörg Stoß</persName>, amman zu <placeName ref="lub-places-10">Veldkirch</placeName>, samennt und sonnderlich  
+<lb n="4"/>mit unnsern besonnder lieben n. amman und den unnderthanen der dreyer  
+<lb n="5"/>herschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Pluemenegg</placeName> samennt und  
+<lb n="6"/>sonnderlich von unnsern wegen hanndlen sollen. 
+<lb n="7"/>Erstlich sollen ihr inen nach uberanntworttung unnsers credentz
+<lb break="no" n="8"/>briefs sagen unnser gnad und alles guet und darauf erzelen, wie 
+<lb n="9"/>wir glewblich bericht worden, daz ihr wider den edlen unnsern  
+<lb n="10"/>lieben getrewen <persName ref="lub-actors-8">Ruedolfen grafen zu Sulz</persName>, des <orgName ref="lub-actors-516">Reichs</orgName> hofrichter  
+<lb n="11"/>zu <placeName ref="lub-places-17">Rotweil</placeName>, unnsern statthalder unnser <placeName ref="lub-places-160">Oberösterreichischen Lannd</placeName>,  
+<lb n="12"/>in empörung, <term ref="lub-keywords-33">aufruer</term> und versamlung sein sollen. Und  
+<lb n="13"/>dieweil unns aber (in ansehung daz derselb graf <persName ref="lub-actors-8">Ruedolf von  
+<lb n="14"/>Sulz</persName> in unnser und unnsers <orgName ref="lub-actors-172">hawß Österreichs</orgName> schutz, schirm und ver
+<lb break="no" n="15"/>spruch und yezt als unnser statthalter berürter <placeName ref="lub-places-160">Oberösterreichischen 
+<lb n="16"/>Lannd</placeName> in unserm diennst ist) zu mißfallen raiche, so sollen  
+<lb n="17"/>demnach obgedachte unnser comissari den gemelten amman und unnder
+<lb break="no" n="18"/>tanen obgedachter dreyer herschafften von unsern wegen antzaigen, 
+<lb n="19"/>daz unnser gnediges begern an ihr seu, daz ihr von solhen irer empörung,  
+<lb n="20"/><term ref="lub-keywords-33">aufruen</term> und versamlungen, auch aller tättlichen hanndlungen  
+<lb n="21"/>gentzlichen absteen und zu rue und friden sein, als wir unns, dann  
+<lb n="22"/>des genzlichen zu inen versehen wellen. Wo ihr aber  
+<lb n="23"/>ainich beswerung hettn, dieselben unns durch die gemelten  
+<lb n="24"/>unnser comissari anzaigen und berichten, so wellen wir alsdann  
+<lb n="25"/>in denselben iren beswerungen leidenlich mitl und weg furnemen   
+<lb n="26"/>und einsehung thun, damit ihr wider die pillichait nit beswert  
+<lb n="27"/>werden. Und darinn sollen gemelt unnser gesanndten mit allem  
+<lb n="28"/>höchstem vleiß hanndlen, als ihr dann zu thun wol wissen, und  
+<lb n="29"/>was inen also darauf zu anntwurt begegent, unns des furder
+<lb break="no" n="30"/>lichen berichten. Daran tuen ihr unser ernstlich meinung. Datum, den <origDate>12. tag junii 1525</origDate>.
+</p>
+        <p><lb n="31"/>Darauf ist auch ain credentz in comuni forma geferttigt. 
+</p>
+        <p><pb facs="lub-media-579" n="2"/><lb n="32"/>Idem 
+<lb n="33"/>Edlen lieben getrewen. Nachdem die unndertanen zu <placeName ref="lub-places-7">Vadutz</placeName>, als wir be
+<lb break="no" n="34"/>richt worden, in empörung sein sollen, und wir aber umb besez
+<lb break="no" n="35"/>ung des sloß <placeName ref="lub-places-33">Vadutz</placeName> durch den edlen unnsern lieben getrewen <persName ref="lub-actors-8">Rue
+<lb break="no" n="36"/>dolfen grafen zu Sulz</persName>, des <orgName ref="lub-actors-516">Reichs</orgName> hofrichter, unnsern statthalter unnser <placeName ref="lub-places-160">Ober
+<lb break="no" n="37"/>österch Lannd</placeName>, der in unnserm und unnsers <orgName ref="lub-actors-172">hawß Österreichs</orgName> 
+<lb n="38"/>schutz und schirm ist, umb hilff zu berettung desselben slos zu  
+<lb n="39"/><placeName ref="lub-places-33">Vadutz</placeName> angeruefft und ersuecht worden sind. So emphelhen wir  
+<lb n="40"/>euch darauf mit ernnst, daz ir von stundan sechs oder acht  
+<lb n="41"/>vertrawt redlich tapher knecht, denen sonderlich ain solh guet haus  
+<lb n="42"/>wol zuvertrawen ist, gen <placeName ref="lub-places-1">Vadutz</placeName>, die mit dem stillisten und  
+<lb n="43"/>geschickhtisten hinein zutziehen verordnet, dasselbs mit besoldung  
+<lb n="44"/>und in anndern weg unnderhalten. Darab ihr ungezweiflt zufriden  
+<lb n="45"/>sein werden, daran tuet ir unser ernstlich meinung. Datum, den <origDate>12. tag junii anno 1525</origDate>. 
+<lb n="46"/>An <orgName ref="lub-actors-2588">vogt und huebmaister zu Veldkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

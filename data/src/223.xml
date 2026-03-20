@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-223">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt der Grafen von Sulz mit Glarus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-223">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 5 fol. 24v-25r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 18. August 1559 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Gräfin Elisabeth von Sulz, Witwe von Graf Johann Ludwig I. von Sulz, betreffend ihr Begehren, sich mit Balthasar von Ramschwag, Vogt von Schloss Gutenberg, wegen den Streitigkeiten zu besprechen, die zwischen ihren Söhnen Wilhelm und Alwig IX. und Landamtmann und Rat zu Glarus wegen der Grafschaften Vaduz und Werdenberg stattfinden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1559-08-18">18. Aug 1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_5_fol__24v-25r-0001.jpg" xml:id="lub-media-598" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-24v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_5_fol__24v-25r-0002.jpg" xml:id="lub-media-599" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-25r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><orgName ref="lub-actors-7">Sulz</orgName> contra <orgName ref="lub-actors-276">landtaman und  
+<lb n="2"/>rat zu Glariß</orgName> die herrschafft <placeName ref="lub-places-73">Werden
+<lb break="no" n="3"/>berg</placeName> betreffendt.
+</p>
+        <p><lb n="4"/>Ewr schreiben unns vom xiii dan´s diß monats gethan,  
+<lb n="5"/>darinnen ir begert mit dem edlen vesten <persName ref="lub-actors-156">Baltha
+<lb break="no" n="6"/>sar von Rambschwag</persName>, der römisch kayserlichen mayestät etc. vogt zu 
+<lb n="7"/><placeName ref="lub-places-13">Guetemberg</placeName>, zu verschaffen in den spännen, so sich  
+<lb n="8"/>zwischen ewren sönen, den herrn <orgName ref="lub-actors-7">graven zu Sulz</orgName>,   
+<lb n="9"/>von wegen der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> an einem unnd  
+
+<lb n="10"/><orgName ref="lub-actors-276">lanndtaman und rat zu Glariß</orgName> der herrschafft  
+<lb n="11"/><placeName ref="lub-places-73">Werdenberg</placeName> halber halten, kundtschafft ad perpetuam  
+<lb n="12"/>rei memoriam oder sonnst wie sich gebürt ze geben, das  
+<lb n="13"/>wir auch der hochstgedachten kayserlichen mayestät vogt oder  
+<lb n="14"/><orgName ref="lub-actors-2588">huebmaister zu Veldtkirch</orgName> zu aufnemung derselben  
+<lb n="15"/>khundtschafften zu comissari verordnen wolten,  
+<lb n="16"/>haben wir empfanngen und weren wir euch hier
+<lb break="no" n="17"/>innen die gebür erfolgen ze lassen genaigt. Dieweil 
+<lb n="18"/>wir aber von dem, so in der sachen richter sein soll,  
+<lb n="19"/>darumben durch compaßbrief oder wie sich dem  
+<lb n="20"/>rechten nach gepürt, nit ersuecht noch angelanngt  
+<lb n="21"/>worden, so khünden wir eurm begern nit statt thuen. 
+<lb n="22"/>Wann wir aber von dem ordenlichen richter darumben  
+<lb n="23"/>wie gemelt ersuecht werden, alßdann wellen  
+<lb n="24"/>wir euch auf ewer schreiben zu anndtwort nit pergen. 
+<lb n="25"/>Datum, <origDate>18. augusti anno etc. im 59</origDate>. 
+<lb n="26"/>An fraw <persName ref="lub-actors-163">Elspeten gravin  
+<lb n="27"/>zu Sulz wittib</persName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

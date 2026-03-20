@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-215">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Rädelsführer Michael Schmied soll verhört werden</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-215">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 139v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 13. Juli 1526 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an den Vogt zu Vaduz, Hans Kaspar Mammendorfer, den Gefangenen Michael Schmied zusammen mit dem Amtmann zu Bregenz, Jos Wittwer, nochmals peinlich zu befragen und anschliessend schriftlich zu berichten. Nachtrag, dass dem Vogt zu Vaduz verkündet worden war, dass Jos Wittwer verstorben und an seiner Stelle Hanns Rudolf zur peinlichen Befragung abgestellt worden war.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-66">Bauernkrieg 1525</term>
+          <term ref="lub-keywords-33">Aufruhr</term>
+          <term ref="lub-keywords-327">Verhör</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-212">Folter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1526-07-13">13. Jul 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__139v-0001.jpg" xml:id="lub-media-584" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-139v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-161">Michl Smid</persName><lb n="2"/>Getreuer. Nachdem wir dir hievor bevelchen haben, das du  
+<lb n="3"/>unnseren ambtman zu <placeName ref="lub-places-45">Bregenz</placeName>, <persName ref="lub-actors-157">Josen Witter</persName>, zu dir erforderen  
+<lb n="4"/>und sambt ime den gafanngen <persName ref="lub-actors-161">Michl Schmid</persName> seiner verhanndlung  
+<lb n="5"/>halben weitter <term ref="lub-keywords-212">peinlicher fragen</term> sollest, auf solchs soverr solch  
+<lb n="6"/>peinlich frag und erkundigung durch dich unnd denselben, unnse
+<lb break="no" n="7"/>ren ambtman, noch nit beschehen wer, so empfelchen wir dir mit 
+<lb n="8"/>ernnst, das du ine noch aufs fürderlichist erfordrst und sambt ime  
+<lb n="9"/>solch <term ref="lub-keywords-212">peinlich erkundigung</term> nochmals thuest, und unns derselben  
+<lb n="10"/>furderlichen in schrifft hieher berichtest, unnd nachmals unnseren  
+<lb n="11"/>verrern beschaid erwartest und ine mittler zeit wol verwaren  
+<lb n="12"/>lassest. Daran thuest du unser ernstlich meinung. Datum, <origDate>13. julii anno etc. 1526</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

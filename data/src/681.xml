@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-681">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Urteil im Streit zwischen den Pfarreien Schaan und Buchs über die Nutzung der Vitlers Au</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-681">CH-StASG, AA 3a U 23</ref> (<orgName key="ch-stasg" ref="lub-objects-651">Staatsarchiv St. Gallen</orgName>) / Originaldatierung: 27. Februar 1520 / Beschreibstoff: Pergament / Siegel: 4 Siegel, 1. und 3. fehlen, 2. gut erhalten, 4. nur noch Leinensäcklein</witness>
+          <witness xml:id="B1">B1: Kopie: Signatur: CH-LAGL, AG III.2419:003 (<orgName corresp="ch-lagl" ref="lub-objects-640">Landesarchiv Glarus</orgName>) / Entstehungszeit: 18. Jh. / Beschreibstoff: Papier</witness>
+          <witness xml:id="B2">B2: Kopie: Signatur: LI-LA, RA 30/01/51 (<orgName corresp="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Entstehungszeit: 1788 /  Beschreibstoff: Papier</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Stäger, Landvogt von Werdenberg, Hans von Pfin, Landvogt von Vaduz, Martin Steinhauser, alt Stadtammann von Feldkirch, und Fridolin Tolder aus Glarus fällen im Streit zwischen den Kirchspielen Schaan und Buchs um die Nutzung der Vitlers Au einen gütlichen Entscheid und legen den Grenzverlauf wie folgt fest: von einem Grenzstein am untersten Punkt des Zauns am Rhein über einen Grenzstein bei der Pappel in der Vitlers Au bis zum Grenzstein zwischen Schaan und dem Eschnerberg. Die Strecke zwischen dem neuen Markstein und dem alten Zaun soll von unparteiischen Leuten geteilt werden und jedes Kirchspiel soll auf seiner Hälfte einen Zaun errichten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-152">Nutzungsrecht</term>
+          <term ref="lub-keywords-159">Einzäunung</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-171">Grundstück</term>
+          <term ref="lub-keywords-400">alber</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-590">Stäger, Jakob</persName>
+          <date when="1520-02-27">27. Feb 1520</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-56">Pfin, Hans von</persName>
+          <date when="1520-02-27">27. Feb 1520</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-21">Steinhauser, Martin</persName>
+          <date when="1520-02-27">27. Feb 1520</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-591">Tolder, Fridolin</persName>
+          <date when="1520-02-27">27. Feb 1520</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-stasg__aa_3a_u_23-0001.jpg" xml:id="lub-media-2828" source="stasg-aa-3a-u-23-v-klein.jpg" corresp="A"/>
+    <graphic url="ch-stasg__aa_3a_u_23-0002.jpg" xml:id="lub-media-2829" source="stasg-aa-3a-u-23-r-klein.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-2829" n="1"/><lb n="1"/>Wir dis nachbenanten mit namen <persName ref="lub-actors-590">Jacob Steger</persName>, landtvogt zu <placeName ref="lub-places-73">Werdenberg</placeName>, <persName ref="lub-actors-56">Hanns von Pfin</persName>, landtvogt zu <placeName ref="lub-places-7">Vadutz</placeName>, <persName ref="lub-actors-21">Martin Steinhauser</persName>, alter statamman zu <placeName ref="lub-places-10">Veltkirch</placeName>, und <persName ref="lub-actors-591">Fridlin Tolder</persName> von 
+<lb n="2"/><placeName ref="lub-places-72">Glaris</placeName>, bekenen offenlich mit dem brief und thun khund allermenigklich, als irrung, spenn und stöss zwischen dem kirchspel <placeName ref="lub-places-53">Schan</placeName> an einem und dem kirchspel <placeName ref="lub-places-148">Bugs</placeName> am an
+<lb break="no" n="3"/>derntheil, so herrurend und erwachssen send von wun, waid, eigner güter, zynung, marcken, holtz und veld, namlich in des <placeName ref="lub-places-281">Fitlers Aw</placeName>, da dann jetweders kirchspel wider das
+<lb n="4"/>ander gewesen, der selben irer spenn und stoss bed erstgenante kirchspel mit irrer beder herschafft willen und gunst uff uns viermann komen ze gütlichait oder ze recht, in 
+<lb n="5"/>selicher mass mit dem geding und furworten, das wir sie, bed eegenant kirchspel, aller irrer stoss und zwayung eigentlich verhoren sollend. Sol und mag dan jetweders 
+<lb n="6"/>kirchspel fur uns, obgenant viermann, furtragen und bringen brief und urkhund, leut und wort und alles das, so sie zu beiden syten im rechten ald in der gutlichait vermeinen 
+<lb n="7"/>zegeniessen. Und wan wir sie also eigentlich zu beder syt verhört, so sollen wir darin in der gütlichait und rechts gewaltig sein. Uff das haben wir eegenante ire spenn und stoss 
+<lb n="8"/>von bedertheil ernstlich gebet wegen angenomen, beden parthyen tag darumb uf <date when="1520-02-25">sambstag vor dato dis briefs</date> gesetzt in <persName ref="lub-actors-2503">Ulrich Keslers</persName>, des wirtz, haus zu <placeName ref="lub-places-53">Schan</placeName>, und bede kirchspel <placeName ref="lub-places-53">Schann</placeName> 
+<lb n="9"/>und <placeName ref="lub-places-148">Bugs</placeName> all irrer stos und spen eigentlich verhort von stuck zu stuck nach aller irrer notturft, ouch beider sit kontschaft, khundtleut und brief, und inen ein andern tag uf den spann 
+<lb n="10"/>gesetzt, also sien wir viermann uf heut dato uf die stoss und spenn komen, haben die beriten und besichtiget von marken zu marcken, als uns die von beidentheiln geofnet wurden, 
+<lb n="11"/>und aller irrer obgenant stoss und zwayung eigentlich zu unsern handen genomen und gezogen, also das uns beidteil der selbigen gentzlich von handen ergeben und dero gantz 
+<lb n="12"/>getrawet hattend. Also was wir, vilgenant viermann, ald der merer theil under uns sie, bede kirchspel, umb ire obgenant spenn und stöss, es sye von wun, waid, eigner güter, trit, trat, 
+<lb n="13"/>tribs, zynung und pfendung wegen und anders, was dann die sach beriert, in der gütlichait ald mit recht ussprechend, uss marckend oder von ein ander entscheident, das dann 
+<lb n="14"/>bede vorgenante kirchspel und all ir nachkomen nun furohin ewigklich daby bliben und das halten sollend und wellend, dawider nymer gethan werden getrewlich und 
+<lb n="15"/>ungeverlich. Und also nach vil verlofnen sachen sien wir, obgenant viermann, zu samen gesessen in dem obgemelten wirtzhaus, haben die vilgenanten zwayung und stöss 
+<lb n="16"/>fur uns gelait, darein gesehen, die kontschaft und brief furbasser eigentlich verhört, als wir die in schriften heten, und daruf bedacht und betrachtet die anclag unnd 
+<lb n="17"/>widerred, also nach vil red und widerred und der kontschaft sage, ouch nach gelegenhait und erfindung des nidersten marcksteins, so wir im frieling im <date when="1517">sibentzehenden 
+<lb n="18"/>jar</date> ersucht und funden haben, der selb marckstein unden ouch ein zeugen gehebt, das er wyther hinab solle zaigen, und nach aller gestalt der sach besucht, w<gap/> <unclear>vier</unclear> 
+<lb n="19"/>mann die selbigen kirchspel irrer stöss und spenn in der gütlichait zu vereinbarn, des sie uns zu beidentheil als volmechtig gewalthaber irrer kirchspel verwilligt haben 
+<lb n="20"/>und versprochen, was wir da in der gütlichait sprechen und machen, es sie zynung, marcken, holtz, veld, wun, waid, trat, trib und tribs, ouch pfendung halber, darumb dann 
+<lb n="21"/>die stoss gewesen, darby sol es ungewegert bliben, davon nit appellieren, berufen noch dingen, sonder stracks in ewigkait halten, des sie uns zu beiden theiln mit hand 
+<lb n="22"/>gebenden trewen by den gelupten, so jetweders kirchspel seiner herschaft verwandt gelobt und versprochen habend. Uff das haben wir, die vilgemelten viermann, einhelligklich 
+<lb n="23"/>in der gutlichait erkent und gesprochen, das zu underst am zaun by dem <placeName ref="lub-places-103">Rhein</placeName> solle ein marckstein gesetzt werden. Derselbig stein solle schleins hinab uber eck in des 
+<lb n="24"/><placeName ref="lub-places-281">Fitlers Aw</placeName> enhalb des borts in den grienen <term ref="lub-keywords-400">albar</term> neben dem dirren zaigen. Daselbst solle aber ein marck stein gesetzt werden, der schnur gerecht hinab durch die aw gleich  
+<lb n="25"/>gegen dem marckstein, so da scheidet das kirchspel <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-16">Eschnerberg</placeName>. Daselbst sol aber ein mark gesetzt werden. Die selb solle nitzenwert nit wyther 
+<lb n="26"/>zaigen, aber nebentz sich durch die aw ushin gegen dem glend und marcksteinen zwischen den von <placeName ref="lub-places-53">Schan</placeName> und <placeName ref="lub-places-16">Eschinerberg</placeName>. Und sol die zeuung von dem jetzgesetzten marckstein 
+<lb n="27"/>uf dem bort des <placeName ref="lub-places-103">Rheins</placeName> bis an den alten zaun durch unpartheysch leut getheilt werden und dann jetweders kirchspel das halb, wie es durch die schidleut erkent wirt, zynnen. 
+<lb n="28"/>Unnd der alt zaun solle nit wyther gethailt werden, sonder by vorriger theylung bliben und jetweders kirchspel seinen theil, wie es biss uff heut dato dis brieffs zu zeynnen schuld
+<lb break="no" n="29"/>ig gewesen, further hin halten, ouch jedes kirchspel in seiner zeynung machen <gap/> nach noturft und gelegenhait der güter, damit sie dieselbigen mogen
+<lb n="30"/>brauchen und die zenung nit werde zerrissen noch zerprochen. Und ob ein kirchspel an der zeynung sewmig, die nit in gütem wesen und eren hielt, dadurch dem andern kirch
+<lb break="no" n="31"/>spel schad beschech oder beschehen möcht, welhes das wer, so sol dem kirchspel, das ander zeynung sewmig ist, durch sein oberhaid uff anrüffen des andern zu zeynen gebeten werden.
+<lb n="32"/>Und was alda deren von <placeName ref="lub-places-53">Schann</placeName> halb deshalb den marcken und zynung gelegen ist, solle deren von <placeName ref="lub-places-53">Schann</placeName> rechter trat, trib, wun, waid, holtz und veld sein, in ire kirchspel gehoren, 
+<lb n="33"/>desgleichen, was deren von <placeName ref="lub-places-148">Bügs</placeName> halb enhalb den marcken gelegen ist, solle deren <placeName ref="lub-places-148">Bügs</placeName> kirchspel zugehoren, die selbigen nutzen und brauchen nach irem gefallen, doch beiden 
+<lb n="34"/>herschaften <placeName ref="lub-places-7">Vadutz</placeName> und <placeName ref="lub-places-73">Werdenberg</placeName> an iren fryheiten, herlichaiten, vischitzen und gerechtigkaiten unvergriffenlich. Fugte sich aber, das do mangel wurde des <placeName ref="lub-places-103">Rheins</placeName> halber, also 
+<lb n="35"/>das, das ein kirchspel vor dem <placeName ref="lub-places-103">Rhein</placeName> nit mochte in sein awen komen in den zircken und marcken, so im zu gesprochen ist, welhes das wer, so sol im das ander kirchspel uff des selb
+<lb break="no" n="36"/>igen begern steg und weg zu seiner notturfft zu dem unschedlichsten zu geben schuldig sein. Begebe es sich aber, das ein kirchspel das ander in den awen schediget, es were mit
+<lb n="37"/>ubertriben, holtz hawen oder wie das geschech, so sol das kirchspel, dem schaden geschehen ist, in die herschaft gann, darin der sitzt, der den schaden thann, und der selbigen herschaft <unclear>urt</unclear>tel 
+<lb n="38"/>nemen und den schediger nach laut irrer eynung pfenden. Und sollend domit bede vilgenante kirchspel aller und jeder irrer spenn, stoss und zweyung, so sie bis uff heut dato dis 
+<lb n="39"/>briefs des <placeName ref="lub-places-281">Fitlers Awen</placeName> und anderer sachen halb gegen ein ander gehabt, wie und in was gestalt sich die begeben haben, gantz gericht und geschlicht, vertragen und vereint sein, 
+<lb n="40"/>ouch dhein theil den andern der sachen halber further hin in ewig zeit mer anfechten, ersuchen noch anlangen, in dhein weis noch weg, sonder frundtlich und nachpurlich, wie 
+<lb n="41"/>bis her, gegen ein ander halten. Und solle pede parthy iren costen, dis spans halber ufgangen, es sye durch kontschaft, brief und zerung, wie dann der uff geloffen ist, im selber tragen 
+<lb n="42"/>und haben, ouch jedes kirchspel seinen brief zu losen schuldig sein, geverd und arglist hierin gentzlich usgeschlossen. Und des zu warem und vestem urkhund, so haben wir, 
+<lb n="43"/>obbenanten tädings mann <persName ref="lub-actors-590">Jacob Steger</persName>, <persName ref="lub-actors-56">Hanns von Pfin</persName>, <persName ref="lub-actors-21">Martin Steinhauser</persName> und <persName ref="lub-actors-591">Fridlin Tolder</persName>, jeder sein eigel insigel, uns und allen unsern erben unschedlich, offenlich gehenckt 
+<lb n="44"/>an diser brief, zwen gleich lautend, die geben sind uff <origDate when="1520-02-27">montag nach dem sontag invocavit in der fasten nach Christi <supplied>g</supplied>eburt, unsers herren, gezalt funftzehenhundert und 
+  <lb n="45"/>im zweintzigisten jar</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p>
+          <pb facs="lub-media-2828" n="1"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

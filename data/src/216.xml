@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-216">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transport des Rädelsführers Jörg Hartmann aus Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-216">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 1 fol. 142r-143r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 14. September 1526 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Marx Sittich von Ems, Vogt von  Bregenz, den Rädelsführer des letzten Aufruhrs, Jörg Hartman, der vom Vogt von Vaduz gefangen gehalten wurde, mit tapferen Knechten zu übernehmen, nach Bregenz zu bringen und weiter zu befragen, wer sich in seiner Gesellschaft befunden hatte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-33">Aufruhr</term>
+          <term ref="lub-keywords-327">Verhör</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1526-09-14">14. Sep 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_1_fol__142r-143r-0001.jpg" xml:id="lub-media-585" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-142r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_1_fol__142r-143r-0002.jpg" xml:id="lub-media-586" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-142v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_1_fol__142r-143r-0003.jpg" xml:id="lub-media-587" source="tla-oo-regierung-kopialbucher-buch-walgau-band-1-1523-1530-fol-143r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-890">Hartman</persName>. 
+<lb n="2"/>Getrewer lieber. Nachdem <persName ref="lub-actors-890">Jörg Hartman</persName> sich in verganngner  
+<lb n="3"/><term ref="lub-keywords-33">empörung</term> als ain principal und rädlfuerer der abgetrettn und  
+<lb n="4"/>ungehorsamen für annder ungeschickt gehalten, unns und unnser  
+
+<lb n="5"/>gehorsam land und leut abzetilgen und niderzutrucken understanden.   
+<lb n="6"/>Deshalb im dann der edl, unnser lieber getrewer <persName ref="lub-actors-8">Ruedolf graf zu  
+<lb n="7"/>Sultz</persName>, unnser statthalter unnserer <placeName ref="lub-places-160">Oberösterreichisch Land</placeName>, durch sein vogt  
+<lb n="8"/>zu <placeName ref="lub-places-7">Vadutz</placeName> fenngclichen annemen und umb sölge sein pöß  
+<lb n="9"/>mutwillige handlung mit und on mauter, wie sich dann deß
+<lb break="no" n="10"/>halben gebürt, befragen lassen. Darauf er laut der urgicht, 
+<lb n="11"/>so wir dir hierinn verslossen zusennden, bekennt hat. Und  
+<lb n="12"/>dieweil er dann wider unns und unnser gehorsam land und leut  
+<lb n="13"/>über sein phlicht und aid so fräfennlich gehandlt und unns  
+<lb n="14"/>und dieselben zuvertilgen für sich gehebt. Auch sich unangesehen  
+<lb n="15"/>solhe sein pös handlung mit seinem leib und gut unnder unnser  
+<lb n="16"/>gebiet gezogen, habn wir gedachtem unnserm statthalter, doch im  
+<lb n="17"/>und seiner herschafft <placeName ref="lub-places-7">Vadutz</placeName> an irn rechten, privilegien und ober
+<lb break="no" n="18"/>kait on nachtail sovil gehandlt, daz er unns den gemelten <persName ref="lub-actors-890">Hart
+<lb break="no" n="19"/>man</persName> zu überantworttn bewilligt und seinem vogt zu <placeName ref="lub-places-7">Vadutz</placeName> 
+<lb n="20"/>solh überantworttung auf dein begern zuthun bevolhen hat.  
+<lb n="21"/>Und damit aber gedachter <persName ref="lub-actors-890">Hartman</persName> umb solh sein pöß verhandlung,  
+<lb n="22"/>dem recht nach, wie sich geburt, anndern zu exempl gestrafft  
+<lb n="23"/>werde, haben wir fur gut angesehn, daz die derselb uberant
+<lb break="no" n="24"/>wort und durch dich oder deinen unndervogt oder verweser für recht 
+<lb n="25"/>gestelt werden sol. Darauf emphelhen wir dir mit sonndern  
+<lb n="26"/>ernst und wellen, daz du nach demselben <persName ref="lub-actors-890">Hartman</persName> von stundan  
+<lb n="27"/>etlich tapher knecht schickest, denselben von dem vogt zu <placeName ref="lub-places-7">Vaduz</placeName>,  
+<lb n="28"/>welher dir in wolverwart überantworten wirdet, erforderst  
+<lb n="29"/>und alsdann demselben wolverwart gen <placeName ref="lub-places-45">Bregenz</placeName> fürest und  
+<lb n="30"/>von stundan mit oder on marter weiter, wer sein mithanndler,  
+<lb n="31"/>oder darinn verwannt und in seiner geselschafft gewesen sein,   
+<lb n="32"/>dieweil er nach nicht davon gesagt hat, befragest, und was  
+<lb n="33"/>du also an im verer befügest, dasselb unnser stathalter und hofrat  
+<lb n="34"/>schrifftlichen berichtest, und doch nicht dest minder für recht  
+<lb n="35"/>stellest von unnsern wegen, wie sich gebürt dem gebrauch nach  
+
+<lb n="36"/>vermug sonder verhandlung anclaget, dasselb mit unpartheyschen,   
+<lb n="37"/>erbern, verstenndigen mannen, die solhen poshafftigen <term ref="lub-keywords-33">aufruer</term> und  
+<lb n="38"/>handlung feint seyen, besezest und recht ergeen, und was dasselb  
+<lb n="39"/>recht und urtail gibt, volziehung thun lassest und hierinn allen  
+<lb n="40"/>vleiß und ernst, wie du dann zu thun wol waist, gebrauchest. 
+<lb n="41"/>Daran tuest du unser ernstlich meinung. Datum, <origDate>14. septembris anno 1526</origDate>. 
+<lb n="42"/>An vogt zu <placeName ref="lub-places-45">Bregenz</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

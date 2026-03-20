@@ -10,7 +10,7 @@
     <meta name="keywords" lang="de" content="Archiv Anton">
     <meta name="keywords" lang="en" content="Archives Anton">
     <meta name="author" content="k-r, Zürich">
-    <meta name="csrf-token" content="IsCQ8Ey95hz8m51yE9Gc6GYzxolfbhv7WZNzb2FQ">
+    <meta name="csrf-token" content="tu7vrkVmvggBzCt6zkx2boPX38NTq5abobte1WWe">
 
     <meta property="og:title" content="">
     <meta property="og:description" content="">
@@ -20,7 +20,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="">
     <meta name="twitter:description" content="">
-    <meta name="twitter:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200&refreshcache=699c429ceb5b9">
+    <meta name="twitter:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200&refreshcache=69bd0da3cb0f6">
 
     <link rel="icon" sizes="256x256" type="image/png" href="/favicons/android-icon-256x256.png"><link rel="icon" sizes="192x192" type="image/png" href="/favicons/android-icon-192x192.png"><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png"><link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png"><link rel="icon" sizes="96x96" type="image/png" href="/favicons/favicon-96x96.png"><link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicons/favicon-32x32.png"><link rel="icon" sizes="16x16" type="image/png" href="/favicons/favicon-16x16.png"><link rel="manifest" href="/favicons/manifest.json"><link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
 
@@ -109,7 +109,7 @@ a { color: var(--link-color) }
     </script>
 
     <link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/app-BncyH7gy.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-DXDSVNZv.js" /><script type="module" src="https://lub.anton.ch/build/assets/app-BncyH7gy.js" data-navigate-track="reload"></script>    
-    <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
+    <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.list-item][wire\:loading\.list-item], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
         
     <!-- use a google font -->
     
@@ -194,13 +194,13 @@ a { color: var(--link-color) }
         </a>
          <ul class="dropdown-menu dropdown-menu-end p-3">
             <li><a href="https://lub.anton.ch/profile/1">Profil</a></li>
-                            <li><a href="https://lub.anton.ch/users/1/history">Editors History</a></li>
+                            <li><a href="https://lub.anton.ch/profile/1/history">Editors History</a></li>
                         <li><a href="https://lub.anton.ch/logout" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
                 <form id="logout-form"
                   action="https://lub.anton.ch/logout"
                   method="POST"
                   style="display: none;">
-                  <input type="hidden" name="_token" value="IsCQ8Ey95hz8m51yE9Gc6GYzxolfbhv7WZNzb2FQ" autocomplete="off">
+                  <input type="hidden" name="_token" value="tu7vrkVmvggBzCt6zkx2boPX38NTq5abobte1WWe" autocomplete="off">
                 </form>
             </li>
         </ul>
@@ -336,14 +336,14 @@ Liechtenstein   <br>
 
             </div>
                             <div class="col-md-3 hidden-xs col-sm-12 text-end">
-                    <small>Anton v0.44.0 lub</small>
+                    <small>Anton v0.45.0 lub</small>
                 </div>
                     </div>
     </footer>
 
 </div> <!-- /container -->
 
-<script src="/livewire/livewire.min.js?id=61e33937"   data-csrf="IsCQ8Ey95hz8m51yE9Gc6GYzxolfbhv7WZNzb2FQ" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+<script src="https://lub.anton.ch/livewire-a04c4263/livewire.min.js?id=cfc5c1ae"   data-csrf="tu7vrkVmvggBzCt6zkx2boPX38NTq5abobte1WWe" data-module-url="https://lub.anton.ch/livewire-a04c4263" data-update-uri="https://lub.anton.ch/livewire/update" data-navigate-once="true"></script>
 
 <!-- Scripts are placed here -->
 <link rel="preload" as="style" href="https://lub.anton.ch/build/assets/anton-edit-script-BuD46uBV.css" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/anton-edit-script-oPnDc9SQ.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-DXDSVNZv.js" /><link rel="stylesheet" href="https://lub.anton.ch/build/assets/anton-edit-script-BuD46uBV.css" data-navigate-track="reload" /><script type="module" src="https://lub.anton.ch/build/assets/anton-edit-script-oPnDc9SQ.js" data-navigate-track="reload"></script>

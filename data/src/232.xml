@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-232">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionskonflikt mit dem Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-232">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 82r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. Mai 1587 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Empfangsbestätigung über den Bericht der Amtleute von Feldkirch vom 30. April und 4. Mai im Jurisdiktionskonflikt der Untertanen von Karl Ludwig von Sulz und dem Landgericht Rankweil und Weiterleitung an den Advokaten des kaiserlichen Reichskammergerichts in Speyer, Dr. Christoff Faber.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1587-05-29">29. Mai 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__82r-0001.jpg" xml:id="lub-media-617" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-82r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem <persName ref="lub-actors-13">Sulz</persName> contra <orgName ref="lub-actors-518">Landtgericht  
+<lb n="2"/>Ranckhweil</orgName>. 
+<lb n="3"/>Ewer schreyben unnd bericht vom letsten apprilis unnd vierten  
+<lb n="4"/>diß betreffend die durch herrn <persName ref="lub-actors-13">Carl Ludwigen graven zue  
+<lb n="5"/>Sulz</persName> von wegen seiner unnderthonen der dreyen herr
+<lb break="no" n="6"/>schafften <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Bluemenegg</placeName> wider die 
+<lb n="7"/>fürstliche durchlaucht, unnsern gnedigisten herren, unnd dero <orgName ref="lub-actors-518">Landtge
+<lb break="no" n="8"/>richt zue Ranckhweyl</orgName>, am keyserlichern <orgName ref="lub-actors-521">Kammergericht</orgName> zue 
+<lb n="9"/><placeName ref="lub-places-75">Speur</placeName> außgebrachte proces haben wür empfangen unnd  
+<lb n="10"/>dieselben sampt den darzue gehörigen beylagen unnd ewern  
+<lb n="11"/>anno etc. <date when="1586">86</date> derwegen einkhomnen schreyben unnd berichten  
+<lb n="12"/>hochgedachter fürstlicher durchlaucht rath unnd advocaten an bemeltem  
+<lb n="13"/>keyserlichen <orgName ref="lub-actors-521">Cammergericht</orgName>, doctor <persName ref="lub-actors-175">Christoffen Fabern</persName>,  
+<lb n="14"/>zuestellung unnd verfassung nottwendiger handlung  
+<lb n="15"/>überschickht. Damit aber nun berüertem <orgName ref="lub-actors-518">Landtgericht</orgName>  
+<lb n="16"/>durch bemelten herren graven oder die seinigen altem  
+<lb n="17"/>herkhommen unnd desselben wolhergebrachten freyheiten  
+<lb n="18"/>zuwider nicht fürgenommen unnd gehandlet, werdet  
+<lb n="19"/>ihr gebürende fürsehung unnd verordnunng anzustellen  
+<lb n="20"/>wissen, wolten wür euch nit verhalten unnd ihr voln
+<lb break="no" n="21"/>ziehen etc. Datum, den <origDate>29. maii anno etc. 87</origDate>.
+<lb n="22"/>An die <orgName ref="lub-actors-337">ambtleut zu Veldtkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
