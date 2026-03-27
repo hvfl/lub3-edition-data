@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-03-20 10:04:37 aus </p>
+        <p>Datenbankexport vom 2026-03-27 08:50:06 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-03-20T10:04:37+01:00">teiHeader was automatically produced from the database 2026-03-20T10:04:37+01:00</change>
+      <change when="2026-03-27T08:50:06+01:00">teiHeader was automatically produced from the database 2026-03-27T08:50:06+01:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -118,6 +118,15 @@
         <label xml:lang="de" type="main">Diebstahl</label>
         <label xml:lang="de" type="sort">diebstahl</label>
         <objectType xml:lang="en">Event</objectType>
+      </item>
+      <item xml:id="lub-keywords-15">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">blutbann</label>
+        <label xml:lang="de" type="sort">blutbann</label>
+        <note type="description" xml:lang="de">
+          <p>Hochgerichtsbarkeit</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
       </item>
       <item xml:id="lub-keywords-16">
         <objectType xml:lang="de">Ereignis</objectType>
@@ -285,6 +294,12 @@
         <objectType xml:lang="de">Ereignis</objectType>
         <label xml:lang="de" type="main">Schulden</label>
         <label xml:lang="de" type="sort">schulden</label>
+        <objectType xml:lang="en">Event</objectType>
+      </item>
+      <item xml:id="lub-keywords-63">
+        <objectType xml:lang="de">Ereignis</objectType>
+        <label xml:lang="de" type="main">Juden</label>
+        <label xml:lang="de" type="sort">juden</label>
         <objectType xml:lang="en">Event</objectType>
       </item>
       <item xml:id="lub-keywords-65">
@@ -2553,6 +2568,10 @@
         <label xml:lang="de" type="main">extanz</label>
         <label xml:lang="de" type="sort">extanz</label>
       </item>
+      <item xml:id="lub-keywords-465">
+        <label xml:lang="de" type="main">Verzeichnis</label>
+        <label xml:lang="de" type="sort">verzeichnis</label>
+      </item>
       <item xml:id="lub-keywords-466">
         <objectType xml:lang="de">Objekt</objectType>
         <label xml:lang="de" type="main">widem</label>
@@ -2574,6 +2593,22 @@
         <label xml:lang="de" type="main">Bohnen</label>
         <label xml:lang="de" type="sort">bohnen</label>
         <objectType xml:lang="en">Event</objectType>
+      </item>
+      <item xml:id="lub-keywords-470">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">trote</label>
+        <label xml:lang="de" type="sort">trote</label>
+        <note type="description" xml:lang="de">
+          <p>Kelter, Torkel und Trotte sind die Bezeichnungen für ein Press- oder Kelterhaus, den Raum oder das Gebäude, in dem die Presse steht.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://de.wikipedia.org/wiki/Kelter">Wiki</ref>
+            </bibl>
+          </listBibl>
+        </note>
       </item>
       <item xml:id="lub-keywords-474">
         <objectType xml:lang="de">Objekt</objectType>
@@ -2623,6 +2658,338 @@
             <bibl>Schweizer Idiotikon Bd. XIV, Sp. 1421/2.</bibl>
           </listBibl>
         </note>
+      </item>
+      <item xml:id="lub-keywords-479">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">Barchent</label>
+        <label xml:lang="de" type="sort">barchent</label>
+        <note type="description" xml:lang="de">
+          <p>Barchent, veraltend auch Parchend, ist ein Mischgewebe aus Baumwolle und Leinen. Oft wird die Stoffbahn auf einer oder auf beiden Seiten aufgeraut.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://de.wikipedia.org/wiki/Barchent">Wikipedia</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-480">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">Fardel</label>
+        <label xml:lang="de" type="sort">fardel</label>
+        <note type="description" xml:lang="de">
+          <p>Warenballen oder Bündel.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>[Idiotikon]<ref target="https://digital.idiotikon.ch/idtkn/id1.htm#!page/10995/mode/1up">https://digital.idiotikon.ch/idtkn/id1.htm#!page/10995/mode/1up</ref>]</bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-481">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">rheinisch</label>
+        <label xml:lang="de" type="sort">rheinisch</label>
+        <note type="description" xml:lang="de">
+          <p>aus dem Rheinland</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-482">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">Drillich</label>
+        <label xml:lang="de" type="sort">drillich</label>
+        <note type="description" xml:lang="de">
+          <p>Die Gewebeart ist nach den dreifachen Fäden benannt. Die Bezeichnung stammt aus dem Althochdeutschen und führt zurück zum lateinischen trilix ‚dreifädig‘ (lateinisch licium ‚Faden‘). Durch die in Köperbindung gefertigten Stoffe entsteht die hohe Reißfestigkeit. In dieser Art werden Möbelstoffe gewebt.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://de.wikipedia.org/wiki/Drillich">Wikipedia</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-483">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">leinwand</label>
+        <label xml:lang="de" type="sort">leinwand</label>
+        <note type="description" xml:lang="de">
+          <p>(schwarzer, grauer) baumwollener Futterstoff</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://digital.idiotikon.ch/idtkn/id16.htm#!page/162197/mode/1up">Idiotikon</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-484">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">loden</label>
+        <label xml:lang="de" type="sort">loden</label>
+        <note type="description" xml:lang="de">
+          <p>derber Wollstoff</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-485">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">Spezerei</label>
+        <label xml:lang="de" type="sort">spezerei</label>
+        <note type="description" xml:lang="de">
+          <p>Gewürze, Drogeriewaren, Kolonialwaren.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>Krünitz, Bd. 156, S. 680.</bibl>
+            <bibl>
+              <ref target="https://digital.idiotikon.ch/idtkn/id10.htm#!page/100667/mode/1up">Idiotikon</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-486">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">wätschger</label>
+        <label xml:lang="de" type="sort">waetschger</label>
+        <note type="description" xml:lang="de">
+          <p>Felleisen, Reisesack, Mantelsack, Anhängetasche, Geldtasche, Kleidertasche.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://www.dwds.de/wb/dwb/w%C3%A4tschger#GW09903">DWDS</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-487">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">welsch</label>
+        <label xml:lang="de" type="sort">welsch</label>
+        <note type="description" xml:lang="de">
+          <p>Bedeutung: französisch, italienisch, rätoromanisch, fremd-, andersprachig.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://digital.idiotikon.ch/idtkn/id15.htm#!page/151583/mode/1up">Idiotikon</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-488">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">unschlitt</label>
+        <label xml:lang="de" type="sort">unschlitt</label>
+        <note type="description" xml:lang="de">
+          <p>Talg, Eingeweidefett</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://de.wikipedia.org/wiki/Talg">Wikipedia</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-489">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">ziger</label>
+        <label xml:lang="de" type="sort">ziger</label>
+        <note type="description" xml:lang="de">
+          <p>Milchprodukt, Frischkäse.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://digital.idiotikon.ch/idtkn/id17.htm#!page/170405/mode/1up">Idiotikon</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-490">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">faselschwein</label>
+        <label xml:lang="de" type="sort">faselschwein</label>
+        <note type="description" xml:lang="de">
+          <p>Zur Aufzucht bestimmtes junges Schwein.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://digital.idiotikon.ch/idtkn/id9.htm#!page/91899/mode/1up">Idiotikon</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-491">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">seges</label>
+        <label xml:lang="de" type="sort">seges</label>
+        <note type="description" xml:lang="de">
+          <p>Sense</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>Grimm: Bd. 16, Sp. 604-610.</bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-492">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">häfen</label>
+        <label xml:lang="de" type="sort">haefen</label>
+        <note type="description" xml:lang="de">
+          <p>Geschirr</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-493">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">kessi</label>
+        <label xml:lang="de" type="sort">kessi</label>
+        <note type="description" xml:lang="de">
+          <p>Kessel</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-494">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">möss</label>
+        <label xml:lang="de" type="sort">moess</label>
+        <note type="description" xml:lang="de">
+          <p>Messing</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>Grimm: Bd. 12, Sp. 2597.</bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-495">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">fesslin</label>
+        <label xml:lang="de" type="sort">fesslin</label>
+        <note type="description" xml:lang="de">
+          <p>Fässlein</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-496">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">ledin</label>
+        <label xml:lang="de" type="sort">ledin</label>
+        <note type="description" xml:lang="de">
+          <p>Lade</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-497">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">rausch</label>
+        <label xml:lang="de" type="sort">rausch</label>
+        <note type="description" xml:lang="de">
+          <p>Geröll</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+      </item>
+      <item xml:id="lub-keywords-498">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">loröl</label>
+        <label xml:lang="de" type="sort">loroel</label>
+        <note type="description" xml:lang="de">
+          <p>Lorbeeröl</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>Grimm: Bd. 12, Sp. 1152.</bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-499">
+        <objectType xml:lang="de">Ereignis</objectType>
+        <label xml:lang="de" type="main">Würfelzoll</label>
+        <label xml:lang="de" type="sort">wuerfelzoll</label>
+        <note type="description" xml:lang="de">
+          <p>Über den Leibzoll hinaus leisteten die Juden ab dem 14. Jahrhundert an Rhein, Mosel und Main den Würfelzoll als Trinkgeld an die Zöllner. Er sollte sie an ihre angebliche Schuld am Tod Christi erinnern (Würfeln um die Kleider). Der Würfelzoll war laut der im Sulzisch-Hohenemsischen Urbar enthaltenen Zolltafel von 1552 auch in Vaduz üblich. Er betrug 30 Pfennig pro Person sowie – den antijudaistischen Hintergrund verdeutlichend – drei Würfel für einen «lebendigen» und 30 Würfel für einen «todten Jud». Im 18. Jahrhundert wurde der Würfelzoll vielerorts monetarisiert, in Liechtenstein hielten aber die Zollordnung von 1680 und die Zolltafeln von 1734 und 1762 am Würfelzoll fest.</p>
+        </note>
+        <objectType xml:lang="en">Event</objectType>
+        <note type="sources">Burmeister, Karl Heinz: Würfelzoll; in: [HLFL](https://historisches-lexikon.li/W%C3%BCrfelzoll)</note>
+      </item>
+      <item xml:id="lub-keywords-500">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">Pfefferzins</label>
+        <label xml:lang="de" type="sort">pfefferzins</label>
+        <note type="description" xml:lang="de">
+          <p>Abgabe, die in Pfeffer zu leisten ist.</p>
+        </note>
+        <objectType xml:lang="en">Object</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=pfefferzins">DRW</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-501">
+        <objectType xml:lang="de">Ereignis</objectType>
+        <label xml:lang="de" type="main">Vogelmolken</label>
+        <label xml:lang="de" type="sort">vogelmolken</label>
+        <note type="description" xml:lang="de">
+          <p>Das Vogelmolken (Vogelmahl, Vogelrecht, Alpmolken, Alprecht) bezeichnet das Recht der Landesherrschaft zum Bezug eines Tagesertrags an Butter und Käse aus den früher als Lehen ausgegebenen, im Spätmittelalter durch Kauf an die Gemeinden gelangten Alpen.</p>
+        </note>
+        <objectType xml:lang="en">Event</objectType>
+        <note type="sources">Gurt, Claudius: "Vogelmolken"; in: [HLFL](https://historisches-lexikon.li/Vogelmolken)</note>
+      </item>
+      <item xml:id="lub-keywords-502">
+        <objectType xml:lang="de">Ereignis</objectType>
+        <label xml:lang="de" type="main">Umgeld</label>
+        <label xml:lang="de" type="sort">umgeld</label>
+        <note type="description" xml:lang="de">
+          <p>Konsum- oder Umsatzsteuer auf Wein, Bier und geistige Getränke (Ausschanksteuer). Der Bezug des Umgelds war ein landesherrliches Hoheitsrecht, das im liechtensteinischen Gebiet spätestens im Sulzisch-Hohenemsischen Urbar (1617/19) erwähnt ist.</p>
+        </note>
+        <objectType xml:lang="en">Event</objectType>
+        <note type="sources">Frick, Julia: "Umgeld"; in: [HLFL](https://historisches-lexikon.li/Umgeld)</note>
+      </item>
+      <item xml:id="lub-keywords-507">
+        <objectType xml:lang="de">Masseinheit, Währung</objectType>
+        <label xml:lang="de" type="main">som</label>
+        <label xml:lang="de" type="sort">som</label>
+        <note type="description" xml:lang="de">
+          <p>Saum: Last eines Saumtieres.</p>
+        </note>
+        <objectType xml:lang="en">Unit of Measurement, Currency</objectType>
+        <note type="sources">
+          <listBibl>
+            <bibl>
+              <ref target="https://digital.idiotikon.ch/idtkn/id7.htm#!page/70943/mode/1up">Idiotikon</ref>
+            </bibl>
+          </listBibl>
+        </note>
+      </item>
+      <item xml:id="lub-keywords-508">
+        <objectType xml:lang="de">Objekt</objectType>
+        <label xml:lang="de" type="main">Käse</label>
+        <label xml:lang="de" type="sort">kaese</label>
+        <objectType xml:lang="en">Object</objectType>
       </item>
     </list>
   </standOff>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-188">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ehevertrag zwischen Wilhelm Heinrich von Friedberg-Scheer und Juliana Gräfin von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-188">CZ-SOAT Cizí rody 573 z Waldburgu 1</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 4. November 1612 / Beschreibstoff: Papier, 9 Seiten / Siegel: 3 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/573/charter?q=573">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Wilhelm Heinrich Erbtruchsess Freiherr zu Waldburg, Herr zur Scheer, und Karl Ludwig Graf von Sulz für seine Tochter Juliana schliessen einen Ehevertrag fest, in dem die Höhe der Mitgift und die Witwenrente der Braut festgelegt werden. Im Gegenzug verzichtet Juliana auf ihren Anspruch auf das Vermögen ihres Vaters.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-302">Heirat</term>
+          <term ref="lub-keywords-11">Ehevertrag</term>
+          <term ref="lub-keywords-12">Mitgift</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-56">Tiengen, Schloss</placeName>
+          <date when="1612-11-04">4. Nov 1612</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0001.jpg" xml:id="lub-media-2979" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-01-kopie.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0002.jpg" xml:id="lub-media-2980" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-02-kopie.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0003.jpg" xml:id="lub-media-2981" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-03.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0004.jpg" xml:id="lub-media-2982" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-04-kopie.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0005.jpg" xml:id="lub-media-2983" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-05.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0006.jpg" xml:id="lub-media-2984" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-06-kopie.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0007.jpg" xml:id="lub-media-2985" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-07.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0008.jpg" xml:id="lub-media-2986" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-08.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_rody_573_z_waldburgu_1-0009.jpg" xml:id="lub-media-2987" source="1612-11-04-soat-cizirodytrebon-573-waldburgu01-09-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Zuewissen und khund gethonn seye allermenig
+<lb break="no" n="2"/>clichen hiemit disem brieff, daß auff heutt 
+<lb n="3"/>dato, gott dem allmächtigen zu lob unnd ehre,  
+<lb n="4"/>zwischen dem hochwolgebornen herren, herren <persName ref="lub-actors-120">Wilhalm  
+<lb n="5"/>Heinrichen</persName> deß <orgName ref="lub-actors-516">Heylligen Römischen Reychs</orgName> erbtruchsessen,  
+<lb n="6"/>freyherren zue <orgName ref="lub-actors-2613">Walburg</orgName>, herren zuer <placeName ref="lub-places-923">Scher</placeName> unnd  
+<lb n="7"/><placeName ref="lub-places-922">Trauchburg</placeName> etc., römisch kayserlicher mayestät etc. rath unnd  
+<lb n="8"/>dero hochloblichen kayserlichen <orgName ref="lub-actors-521">Camergericht</orgName> zue <placeName ref="lub-places-75">Speyr</placeName>  
+<lb n="9"/>praesidenten an ainem, unnd deß auch hoch
+<lb break="no" n="10"/>wolgebornen herren, herren <persName ref="lub-actors-13">Carl Ludwigen 
+<lb n="11"/>graven zue Sulltz</persName>, lanndtgraven zu <placeName ref="lub-places-18">Klöggow</placeName>,  
+<lb n="12"/>deß <orgName ref="lub-actors-516">Heylligen Römischen Reychs</orgName> erbhoffrichters zue  
+<lb n="13"/><placeName ref="lub-places-17">Rottweil</placeName>, herrens zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-117">Schellenberg</placeName>,  
+<lb n="14"/><placeName ref="lub-places-12">Bluemenegg</placeName>, <placeName ref="lub-places-66">Monclar</placeName> unnd <placeName ref="lub-places-67">Mentzburg</placeName> etc.,  
+<lb n="15"/>frewlin <persName ref="lub-actors-119">Juliana grävin zue Sulz</persName>, lanndtgrä
+<lb break="no" n="16"/>vin in <placeName ref="lub-places-18">Klöggaw</placeName> etc. am annderntheill, ein ehelicher 
+<lb n="17"/>heurath unnd gemachelschafft abgeredt, unnd von  
+<lb n="18"/>beederseiths gräfflich unnd freyherlichen freundt
+<lb break="no" n="19"/>schafft in maß unnd gestallt, wie hernach volgt, 
+<lb n="20"/>verglichen worden ist.  
+</p>
+        <p><lb n="21"/>1. Erstlichs daß sy beede, wolermelter herr <persName ref="lub-actors-120">Wilhalm  
+<lb n="22"/>Heinrich</persName> deß <orgName ref="lub-actors-516">Heylligen Reychs</orgName> erbtruchsess etc. unnd  
+<lb n="23"/>frewlin <persName ref="lub-actors-119">Juliana grävin zue Sulz</persName>, ainanndern  
+<lb n="24"/>zuem sacrament der heylligen ehe nemmen  
+<lb n="25"/>haben mit kierchgang unnd ehelichem beischlaff  
+<lb n="26"/>volnziechen sollen, wie sich daß christlicher  
+
+<lb n="27"/>catholischer ordnung nach gezimpt. 
+</p>
+        <p><lb n="28"/>2. Fürß annder soll wolgenandter herr graff  
+<lb n="29"/><persName ref="lub-actors-13">Carl Ludwig zue Sulz</persName> etc., ermeltem herren <persName ref="lub-actors-120">Wil
+<lb break="no" n="30"/>halm Heinrich</persName> erbtruchsessen zue gedachtem frewlin 
+<lb n="31"/>zue rechtem hewratgueth unnd ehesteur für  
+<lb n="32"/>ganntze vätteliche außrichtung geben dreythaus
+<lb break="no" n="33"/>sent guldin, jhe fünfzechen batzen oder sechzig 
+<lb n="34"/>kreutzer für ein guldin gerechnet, unnd die  
+<lb n="35"/>erstatten, wann es ihrer gnaden gefellig, aber  
+<lb n="36"/>biß dahin järlichen mit gebürendem interesse  
+<lb n="37"/>verpensionieren. Unnd sonnsten mit ehelichen  
+<lb n="38"/>klaidern, klainotern, geschmuckh unnd gebannd,  
+<lb n="39"/>so vil ihren allß einer grävin gezimpt unnd  
+<lb n="40"/>sovil ihre gnaden nottwenndig sein erachten,  
+<lb n="41"/>abferttigen unnd darzue die hochzeyt allß   
+<lb n="42"/>versprechen, auff dero cossten haben unnd hallten. 
+</p>
+        <p><lb n="43"/>3. Hergegen soll herr <persName ref="lub-actors-120">Wilhalm Heinrich</persName> erbtruch
+<lb break="no" n="44"/>sess, frewlin <persName ref="lub-actors-119">Juliana grävin zue Sulz</persName>, rechter 
+<lb n="45"/>widerlegung auch dreythaussent guldin haupt
+<lb break="no" n="46"/>gueths, unnd uf sollchen fahl davon ainhund
+<lb break="no" n="47"/>ert unnd fünffzig guldin järlichen nutzung 
+<lb n="48"/>unnd einkhombens obgerüerter wehrung   
+<lb n="49"/>verweisung thun und verwidumben. 
+</p>
+        <p><lb n="50"/>4. Der obgemellt herr <persName ref="lub-actors-120">Wilhalm Heinrich</persName> erbtruchsess   
+<lb n="51"/>will auch frewlin <persName ref="lub-actors-119">Juliana grävin zue Sulltz</persName>,  
+<lb n="52"/>seinem ehelichen gemachel, nach volgzognem  
+<lb n="53"/>beyschlaff ainthaussent guldin, unnd darvon  
+<lb n="54"/>fünfzig guldin järlicher nutzung unnd gefell  
+<lb n="55"/>zue haben unnd zue geniessen, zue einer rechten  
+<lb n="56"/>freyen morgengab geben unnd bemorgen
+<lb break="no" n="57"/>gaaben. Dergestallten, daß heuratgueth, wider
+<lb break="no" n="58"/>legung unnd morgengaab in einer summa 
+<lb n="59"/>sibenthaussent guldin vorerzellter wehrung  
+<lb n="60"/>zuesamen bringen unnd belauffen mag. 
+</p>
+        <p><lb n="61"/>5. Darzue solle ime frewlin <persName ref="lub-actors-119">Juliana grävin  
+<lb n="62"/>zue Sulz</persName> etc. auf den fahl göttlicher fürsechung  
+<lb n="63"/>nach dessen gemachel vor mit todt abgienge,  
+<lb n="64"/>ain ehrlicher widumbsess, namblichen die  
+<lb n="65"/>truchsessische behaußung inn der statt <placeName ref="lub-places-924">Mengen</placeName>,  
+<lb n="66"/>sampt aller zuegehör, recht unnd gerechtigkheiten,  
+<lb n="67"/>allermassen dasselbe weylundt der hochwolge
+<lb break="no" n="68"/>bornen frawen <persName ref="lub-actors-2614">Johanna gräffin zue Fürstenberg</persName>, 
+<lb n="69"/>ehnwolbesagts herren hochzeyters großmuetter,  
+<lb n="70"/>seeligen gedächtnuß, verwidmet gewesen. Nichts  
+<lb n="71"/>davon außgenommen noch vorbehallten, wider
+<lb break="no" n="72"/>fahren unnd gegeben unnd sowol der widerleg
+<lb break="no" n="73"/>ung, morgengaab, allß dises widumbsitz 
+<lb n="74"/>gnuegsamb versichert werden. 
+</p>
+        <p><lb n="75"/>6. Darauff soll wolgemellt frewlin <persName ref="lub-actors-119">Juliana  
+<lb n="76"/>grävin zue Sulltz</persName> sich aller unnd jeder vätterlicher  
+<lb n="77"/>haab unnd güether, ligend unnd varender, wie,  
+<lb n="78"/>wa, oder wavon die gelegen seyen, völlig und  
+<lb n="79"/>bestenndig verzeichen. Wie solches nach außweisung  
+<lb n="80"/>der recht am cräfftig- unnd bestendigisten be
+<lb break="no" n="81"/>schehen khan oder mag, wie bißhero bei dem hauß 
+<lb n="82"/><orgName ref="lub-actors-7">Sultz</orgName> unnd dem loblichen <orgName ref="lub-actors-2504">Schwäbischen Craiß</orgName>  
+<lb n="83"/>yeblich unnd gebreuchig gewesen, allso daß  
+<lb n="84"/>sy unnd dero erben noch jhemandt annderer  
+<lb n="85"/>von ihretwegen khein vorderung oder anssprach   
+<lb n="86"/>zue ihres herren vatters und dessen erben, oder  
+<lb n="87"/>deren haab unnd guether von erbschafft wegen,  
+<lb n="88"/>so lanng deß namens unnd stamens der graven  
+<lb n="89"/><orgName ref="lub-actors-7">zue Sultz</orgName>, eheliche manßpersohnen in leben,  
+<lb n="90"/>haben noch gewynnen sollen, wie sölches immer  
+<lb n="91"/>erdacht oder fürgenommen worden, möchte in  
+<lb n="92"/>khein weiß. 
+</p>
+        <p><lb n="93"/>7. Anlangend die müetterliche erbgüetter,  
+<lb n="94"/>von weylund der hochwolgebornen frawen, frawen  
+<lb n="95"/><persName ref="lub-actors-58">Dorotheen Catharina grävin zue Sultz</persName>, geborner  
+<lb n="96"/>grävin zue <orgName ref="lub-actors-2633">Sayn</orgName>, christseeliger angedenckhens,  
+<lb n="97"/>herrüerend, wie auch die ledige anfähl soll  
+<lb n="98"/>frewlin <persName ref="lub-actors-119">Juliana</persName> ihr gebür deßwegen inn all
+<lb break="no" n="99"/>weg vorbehallten sein.
+</p>
+        <p><lb n="100"/>8. Weytter ist abgeredt, wa es gott über khurtz  
+
+<lb n="101"/>oder lanng zeytt allso schickhte, daß herr <persName ref="lub-actors-120">Wil
+<lb break="no" n="102"/>halm Heinrich</persName> erbtruchsess vor frewlin <persName ref="lub-actors-119">Juliana 
+<lb n="103"/>grävin zue Sulltz</persName>, seinem gemachel, mit todt  
+<lb n="104"/>abgehn wurde, unnd kheine eheliche leibserben  
+<lb n="105"/>von ihrer beeder leib erbohren, hinder ime   
+<lb n="106"/>verliesse, so sollen gemelltem frewlin <persName ref="lub-actors-119">Ju
+<lb break="no" n="107"/>liana gräfin zue Sultz</persName> ihre kleider, claino
+<lb break="no" n="108"/>ter unnd waß zue ihrem leib gehörig, unnd 
+<lb n="109"/>von ihro herkhomben, darzue ihr zuegebracht  
+<lb n="110"/>heurath unnd ererbt gueth sampt der morg
+<lb break="no" n="111"/>gaab, so dann von den widerlegten drey
+<lb break="no" n="112"/>thaussent guldin järlich ainhundert fünfzig 
+<lb n="113"/>guldin gevolgt unnd gereicht werden. Darzue  
+<lb n="114"/>soll frewlin <persName ref="lub-actors-119">Juliana</persName> obgemellten widumb
+<lb break="no" n="115"/>sitz, so lanng sie in wittwenstanndt bleibt, 
+<lb n="116"/>nutzen unnd gebrauchen, unnd wann sie nach  
+<lb n="117"/>gottes willen nit mehr in leben, soll daß  
+<lb n="118"/>widerlegte gueth, auch die obberüerte ain
+<lb break="no" n="119"/>thaussent guldin morgengaab, zum fahl sy 
+<lb n="120"/>unverschafft noch verhannden, widerumben zue
+<lb break="no" n="121"/>rugg fallen an die enndt, dahero sy khommen.
+</p>
+        <p><lb n="122"/>9. Im fahl aber, frewlin <persName ref="lub-actors-119">Juliana grävin zue  
+<lb n="123"/>Sultz</persName> vor mehbesagtem herren <persName ref="lub-actors-120">Wilhalm Heinrich</persName>  
+<lb n="124"/>erbtruchsessen (deß gott beederseiths lanng  
+<lb n="125"/>verhüetten wolle) ohne eheliche leibserben  
+
+<lb n="126"/>todts verfüere, mag er, herr erbtruchsess,  
+<lb n="127"/>daß alles, so sy ime zuegebracht, auch ererbt,  
+<lb n="128"/>davon nichts außgenommen, nutzen unnd  
+<lb n="129"/>niessen, unnd wann es auch nit mehr in  
+<lb n="130"/>leben, soll angeregt ihr zuegebracht heurat
+<lb break="no" n="131"/>gueth, wie auch waß sy ererben möchte, sampt 
+<lb n="132"/>ihren kleidern, clainotern unnd geschmuckh,  
+<lb n="133"/>zue ihrem leib gehörig und von ihro herkhomben  
+<lb n="134"/>(im fahl sy davon nichts disponierte) wider  
+<lb n="135"/>hindersich an ihre nechste erben, die morgen
+<lb break="no" n="136"/>gaab aber, da sy unverschafft blibe, alß vorsicht 
+<lb n="137"/>an seine nechste erben fallen.  
+</p>
+        <p><lb n="138"/>10. Erstlichen unnd insonnderheit ist bedingt, da  
+<lb n="139"/>sich inßkhunfftig diser eheberedung halber fähl  
+<lb n="140"/>zuethrüegen, deren puncten oder articul in  
+<lb n="141"/>diser heurathsbeschreibung nit geschriben oder  
+<lb n="142"/>begriffen, daß solche jederzeyt nach deß loblichen  
+<lb n="143"/><orgName ref="lub-actors-2504">Schwäbischen Kraiß</orgName> gebrauch, unnd wi bei disen  
+<lb n="144"/>gräfflich unnd freyherrlichen persohnen und dem  
+<lb n="145"/>hauß <orgName ref="lub-actors-7">Sultz</orgName> herkhomben, außzuefüeren unnd  
+<lb n="146"/>zuerörttern, alles gethrewlich und ungevarlich. 
+</p>
+        <p><lb n="147"/>Unnd dessen alles zue wahrem unnd vesstem  
+<lb n="148"/>urkhundt seyen diser heurathsnottel auff  
+<lb n="149"/>ratification unnd guethaissen obhochwolermeltß  
+
+<lb n="150"/>herren graff <persName ref="lub-actors-13">Carl Ludwigs zue Sultz</persName> etc., alß  
+<lb n="151"/>frewlin <persName ref="lub-actors-119">Juliana</persName> herren vattern, so derzeytt  
+<lb n="152"/>nit zue lanndt. Sodann herren hochzeytters  
+<lb n="153"/>befreunndten zwo gleiches innhalts mit meiner  
+<lb n="154"/>hanndt geschriben vergriffen, unnd mit wolberüerts  
+<lb n="155"/>herrn <persName ref="lub-actors-120">Wilhalm Heinrichen</persName> deß <orgName ref="lub-actors-516">Heyligen Reychs</orgName>  
+<lb n="156"/>erbtruchsessen, unnd auch seiner seitten deß  
+<lb n="157"/>hochwolgebornen herren, herren <persName ref="lub-actors-2615">Frobeni</persName> deß  
+<lb n="158"/><orgName ref="lub-actors-516">Heyligen Reychs</orgName> erbtruchsessen, freyherrn zue  
+<lb n="159"/><orgName ref="lub-actors-2634">Walburg, herren zue Zeil</orgName>, <placeName ref="lub-places-928">Marstetten</placeName>, <placeName ref="lub-places-925">Wurzach</placeName>,  
+<lb n="160"/><placeName ref="lub-places-926">Wolffegg</placeName> und <placeName ref="lub-places-927">Waldtsee</placeName>, höchstermelter römisch  
+<lb n="161"/>kayserlichen mayestät etc. unnd hochfürstlichen durchlaucht in <orgName ref="lub-actors-2635">Beyern</orgName> rath  
+<lb n="162"/>unnd respective camerern, dessen herren vettern.  
+<lb n="163"/>Sodann unnd von wegen frewlin <persName ref="lub-actors-119">Juliana  
+<lb n="164"/>grävin zue Sulz</persName>, herren vettern, deß auch  
+<lb n="165"/>hochwolgebornen herren, herren <persName ref="lub-actors-113">Rudolphen  
+<lb n="166"/>graven zue Sulz</persName>, lanndtgraven in <placeName ref="lub-places-18">Klöggew</placeName> etc., 
+<lb n="167"/>deß <orgName ref="lub-actors-516">Heyligen Römischen Reychs</orgName> erbhoffrichters zue  
+<lb n="168"/><placeName ref="lub-places-17">Rottweill</placeName>, herren zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und  
+<lb n="169"/><placeName ref="lub-places-12">Blumennegg</placeName> etc., römisch kayserlicher mayestät etc. unnd  
+<lb n="170"/>hochfürstlich durchlaucht zue <orgName ref="lub-actors-172">Österreych</orgName> etc. rath unnd lanndt
+<lb break="no" n="171"/>vogten im <placeName ref="lub-places-818">Unndern Ölsäss</placeName>, dero herren vettern 
+<lb n="172"/>aufgedruckhten pittschafften und aigner hanndt  
+<lb n="173"/>subscription muniert unnd becrefftiget   
+<lb n="174"/>unnd jedem theill einen zuegestellt worden. 
+</p>
+        <p><lb n="175"/>Zue <placeName ref="lub-places-56">Thüengen</placeName>, den <origDate>vierten monnatßtag  
+<lb n="176"/>november nach Christi Jesu unnsers  
+<lb n="177"/>ainigen erlösers unnd seeligmachers gnaden
+<lb break="no" n="178"/>reichen geburtt gezallt sechzechenhundert 
+<lb n="179"/>unnd zwölff jar</origDate>. 
+<lb n="180"/><persName ref="lub-actors-113">Rudolff grave 
+<lb n="181"/>zue Sulz</persName> manu propria 
+<lb n="182"/><persName ref="lub-actors-120">Wilhelm Hainrich  
+<lb n="183"/>erbtruchsess zue Waldburg</persName> manu propria 
+<lb n="184"/><persName ref="lub-actors-2615">Froben erbtruchseß  
+<lb n="185"/>zue Waldburg</persName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2987" n="1"/><lb n="1"/>Heuratsabredt. 
+<lb n="2"/>Endtzwischen dem hochwolgebornen herren herren  
+<lb n="3"/><persName ref="lub-actors-120">Wilhalm Heinrich erbtruchsessen freyherrn zue  
+<lb n="4"/>Waldburg</persName> und frewlin <persName ref="lub-actors-119">Juliana grävin zue  
+<lb n="5"/>Sultz</persName> etc. anno 1612. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

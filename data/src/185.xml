@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-185">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erbverzicht der Gräfin Barbara von Sulz geborene Freiin von Staufen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (vidimiert), Signatur: <ref type="identifier" target="lub-objects-185">CZ-SOAT Cizí rody 524 ze Stauffen</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 23. Mai 1587 / Beschreibstoff: Papier, 19 Seiten / Siegel: 1 Notariatssignet</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyRody/524/charter?q=524">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Rudolf VIII. Graf von Sulz-Vaduz und seine Frau Barbara, geborene Freiin von Staufen, erklären 2000 Gulden von ihrem Schwager und Bruder Georg von Staufen als Heiratsgut erhalten und angenommen zu haben und sie beide verzichten im Gegenzug auf jeden Erbanspruch an die Familien von Staufen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-23">Erbe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1587-05-13" to="1587-05-23">13. Mai 1587 – 23. Mai 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0001.jpg" xml:id="lub-media-2960" source="1587-05-23-soat-cizirodytrebon-524-stauffen-01-1-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0002.jpg" xml:id="lub-media-2961" source="1587-05-23-soat-cizirodytrebon-524-stauffen-02-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0003.jpg" xml:id="lub-media-2962" source="1587-05-23-soat-cizirodytrebon-524-stauffen-03.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0004.jpg" xml:id="lub-media-2963" source="1587-05-23-soat-cizirodytrebon-524-stauffen-04-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0005.jpg" xml:id="lub-media-2964" source="1587-05-23-soat-cizirodytrebon-524-stauffen-04a.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0006.jpg" xml:id="lub-media-2965" source="1587-05-23-soat-cizirodytrebon-524-stauffen-05-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0007.jpg" xml:id="lub-media-2966" source="1587-05-23-soat-cizirodytrebon-524-stauffen-05a.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0008.jpg" xml:id="lub-media-2967" source="1587-05-23-soat-cizirodytrebon-524-stauffen-06-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0009.jpg" xml:id="lub-media-2968" source="1587-05-23-soat-cizirodytrebon-524-stauffen-06a.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0010.jpg" xml:id="lub-media-2969" source="1587-05-23-soat-cizirodytrebon-524-stauffen-07-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0011.jpg" xml:id="lub-media-2970" source="1587-05-23-soat-cizirodytrebon-524-stauffen-07.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0012.jpg" xml:id="lub-media-2971" source="1587-05-23-soat-cizirodytrebon-524-stauffen-08-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0013.jpg" xml:id="lub-media-2972" source="1587-05-23-soat-cizirodytrebon-524-stauffen-08a.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0014.jpg" xml:id="lub-media-2973" source="1587-05-23-soat-cizirodytrebon-524-stauffen-09-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0015.jpg" xml:id="lub-media-2974" source="1587-05-23-soat-cizirodytrebon-524-stauffen-09a.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0016.jpg" xml:id="lub-media-2975" source="1587-05-23-soat-cizirodytrebon-524-stauffen-10-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0017.jpg" xml:id="lub-media-2976" source="1587-05-23-soat-cizirodytrebon-524-stauffen-10a.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0018.jpg" xml:id="lub-media-2977" source="1587-05-23-soat-cizirodytrebon-524-stauffen-11-kopie.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_rody_524_ze_stauffen-0019.jpg" xml:id="lub-media-2978" source="1587-05-23-soat-cizirodytrebon-524-stauffen-12.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>In dem namen der hailligen gött-
+<lb break="no" n="2"/>lichen unnd unthailbarn, drey ainigkaitt amen, allerme-
+                    <lb break="no" n="3"/>nigclich, so dises gegenwürttig offen instrument und uhr-
+                    <lb break="no" n="4"/>kund hören, sehen oder lesen werden, seye kundt gethan  
+                    <lb n="5"/>zuwissen unnd offenbar. Das ime dem jare, alls 
+                    <lb n="6"/>mann zalt nach Christi unnsers erlösers haylamedts, 
+                    <lb n="7"/>lieben herrn unnd seeligmachers allerhailligistern ge-
+                    <lb break="no" n="8"/>burtte <date when="1587">thausenndt fünffhundert achzig unnd siben</date>, 
+                    <lb n="9"/>inn der funffzehenden römerzinßzahl, zue latein in-
+                    <lb break="no" n="10"/>dictio genannt. Bey herrschung unnd regierung 
+                    <lb n="11"/>deß allerdurchleuchtigisten, großmechtigisten und 
+                    <lb n="12"/>unüberwundtlichisten fürsten unnd herrns, herrn <persName ref="lub-actors-27">Ruo-
+                    <lb break="no" n="13"/>dolphi deß annder</persName>n diß namens, vonn gottes gena-
+                    <lb n="14"/>den erwölten römischen kaysers, zue allen zeyttenn 
+                    <lb n="15"/>mehrers des <orgName ref="lub-actors-516">Reichs</orgName>, inn <placeName ref="lub-places-145">Germanien</placeName>, zue <placeName ref="lub-places-146">Hungern</placeName>, 
+                    <lb n="16"/><placeName ref="lub-places-162">Behaimb</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName> unnd <placeName ref="lub-places-294">Sclavonien</placeName> etc. 
+                    <lb n="17"/>königs, erzhörzogens zue <placeName ref="lub-places-295">Österreich</placeName>, hörzogens zue <placeName ref="lub-places-120">Bur-
+                    <lb break="no" n="18"/>gunde</placeName>, <placeName ref="lub-places-121">Brabant</placeName>, <placeName ref="lub-places-259">Steur</placeName>, <placeName ref="lub-places-260">Kärndten</placeName>, <placeName ref="lub-places-261">Crain</placeName>, <placeName ref="lub-places-296">Lützemburg</placeName>, 
+                    <lb n="19"/><placeName ref="lub-places-263">Württemberg</placeName>, <placeName ref="lub-places-297">Ober</placeName>- unnd <placeName ref="lub-places-298">Nider Schlesien</placeName>, fürstens zu 
+                    <lb n="20"/><placeName ref="lub-places-78">Schwaben</placeName>, marggravens des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> zue 
+                    <lb n="21"/><placeName ref="lub-places-299">Burgaw</placeName>, märherrn <placeName ref="lub-places-302">Ober</placeName>- unnd <placeName ref="lub-places-301">Nider Laußniz</placeName>, ge-
+                    <lb break="no" n="22"/>fürsten gravens zue <placeName ref="lub-places-303">Hapspurg</placeName>, <placeName ref="lub-places-96">Tyrol</placeName>, <placeName ref="lub-places-304">Pfierdt</placeName>, <placeName ref="lub-places-305">Ki-
+                    <lb break="no" n="23"/>burg</placeName> unnd <placeName ref="lub-places-306">Görz</placeName> etc., lanndtgravens inn <placeName ref="lub-places-307">Ellsäs</placeName>, herrns 
+                    <lb n="24"/>uff der <placeName ref="lub-places-308">Windischen Marckh</placeName>, zue <placeName ref="lub-places-309">Portenaw</placeName> unnd zue <placeName ref="lub-places-310">Sa-
+                    <lb break="no" n="25"/>lins</placeName> etc., unnsers allergnedigisten herrns, irer römisch kayserlichen 
+                    <lb n="26"/>mayestät Reiche regierung des <orgName ref="lub-actors-516">Römischen</orgName> im zwölfften, 
+                    <lb n="27"/>des <placeName ref="lub-places-146">Hungarischen</placeName> im funffzehenden unnd des <placeName ref="lub-places-71">Behaimischenn</placeName> 
+                    <lb n="28"/>im zwölfften jaren, uff sambstag, deme <date when="1587-05-23">dreyundzwain-
+                    <lb break="no" n="29"/>zigisten may, styli reformati</date>, zwischen drey unnd vier uhren 
+                    <lb n="30"/>nachmittag zue <placeName ref="lub-places-920">Wisenstaig</placeName>, inn dem gräflichen helffen-
+                    <lb break="no" n="31"/>stainischen schloß, auch im obern neuen baw unnd des-
+                    <lb break="no" n="32"/>selben vordern stuben, der wolgeborn herr, herr 
+                    <lb n="33"/><persName ref="lub-actors-113">Rudolph grave zue Sulz</persName>, lanndtgrave zue <placeName ref="lub-places-18">Cleggew</placeName>, 
+                    <lb n="34"/>des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhofrichter zue <placeName ref="lub-places-17">Rottweill</placeName>, herr 
+                    <lb n="35"/>zue <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Bluemeneckh</placeName> etc., sambt irer gnaden 
+                    <lb n="36"/>geliebten gemahelin, der wolgebornnen frawenn, 
+                    <lb n="37"/>frawen <persName ref="lub-actors-115">Barbara</persName>, gebornner freyin <orgName ref="lub-actors-2632">zue Stauffen</orgName>, deßgleich-
+                    <lb break="no" n="38"/>en der wolgeborn herr, herr <persName ref="lub-actors-2608">Ruodolph grave zue Helffen-
+                    <lb break="no" n="39"/>stain</persName>, freyherr zue <placeName ref="lub-places-344">Gundelfingen</placeName> etc., fürstlicher würzbur-
+                    <lb break="no" n="40"/>gischer rath, alles zue hernach volgender sachen, jezwolermel-
+                    <lb break="no" n="41"/>ter frawen <persName ref="lub-actors-115">grävin zue Sulz</persName> etc., erwölter, erkießter, erpett-
+                    <lb break="no" n="42"/>ner unnd verordneter anweyser, vogt unnd träger, renunci-
+                    <lb break="no" n="43"/>antes an ainem, so dann der auch wolgebornn herr, herr 
+                    <lb n="44"/><persName ref="lub-actors-2609">Georg Leo</persName>, freyherr <orgName ref="lub-actors-2632">zue Stauffen</orgName> (alle meine gnedige herrn 
+                    <lb n="45"/>unnd fraw) accipiens anndernthails, vor mir, unden benant-
+                    <lb break="no" n="46"/>ten notario unnd darvor specificierten, hierzue ervorder-
+                    <lb break="no" n="47"/>ten unnd erpettnen glaubwürdigen gezeugen, persohnlich 
+                    <lb n="48"/>erschinen sein, gnedig vermeldent, wie das wolermelte 
+                    <lb n="49"/>ire gnaden ein renunciation, transaction, begebung, verzicht 
+                    <lb n="50"/>unnd acceptation, respective etc., uffs papier begreiffen lassen  
+                    <lb n="51"/>unnd nunmehr enndtlich vorhabenns seyenn, uff das solches 
+                    <lb n="52"/>alles allennthalben vor allen leutten, richtern unnd ge-
+                    <lb break="no" n="53"/>richten, gaistlichen unnd welltlichen, allerbast unnd 
+                    <lb n="54"/>guet crafft, macht unnd bestannd habe, auch genzlich 
+                    <lb n="55"/>und inn allweg, unverbrochen gehallten werde, dasselb 
+                    <lb n="56"/>zue authentisieren, zubecröfftigen und zuebestettigenn  
+                    <lb n="57"/>haben derohalben mich, notarium, gnedig requiriert, 
+                    <lb n="58"/>ervordert unnd ersuecht, angerägte renunciation, tran-
+                    <lb break="no" n="59"/>saction unnd acceptation tragenden ampts halber anzue-
+                    <lb break="no" n="60"/>nemmen unnd vor deme gezeugene offenntlich zuverlesen, 
+                    <lb n="61"/>wölche vonn wortt zue wortt nachvolgendts innhallts ge-
+                    <lb break="no" n="62"/>wesen ist. Wir <persName ref="lub-actors-113">Ruodolphs grave zue Sulz</persName>, 
+                    <lb n="63"/>lanndtgrave inn <placeName ref="lub-places-18">Cleggew</placeName>, des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> erbhof-
+                    <lb break="no" n="64"/>richter zue <placeName ref="lub-places-17">Rothweil</placeName>, herr zue <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und 
+                    <lb n="65"/><placeName ref="lub-places-12">Bluemeneckh</placeName> etc. unnd <persName ref="lub-actors-115">Barbara</persName>, gebornne freyin <orgName ref="lub-actors-2632">zue 
+                    <lb n="66"/>Stauffen</orgName>, des wolgebornnen herrn <persName ref="lub-actors-2486">Anthonien</persName>, frey-
+                    <lb break="no" n="67"/>herrn <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc. christseeliger gedechtnus, eheleib-
+                    <lb break="no" n="68"/>liche dochter, an yezo erstwolermelts herrn graven 
+                    <lb n="69"/><persName ref="lub-actors-286">zue Sulz</persName> etc. eheliche gemahel. Bekhennen offent-
+                    <lb break="no" n="70"/>lich inn unnd mit disem brief für unns bayde, alle un-
+                    <lb n="71"/>sere erben unnd nachkommen, unnd thuen kundt aller-
+                    <lb break="no" n="72"/>menigclich. Nachdem wir unns inn dem namenn 
+                    <lb n="73"/>des allmechtigen gotts, mit rath unnd beysein des 
+                    <lb n="74"/>wolgebornnen, unnsers freundtlichen lieben bruoders, 
+                    <lb n="75"/>herrn <persName ref="lub-actors-2609">Georgen Leo</persName> freyherrn <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc. auch 
+                    <lb n="76"/>auß aigner unnd selbs freyer bewilligung, zue obge-
+                    <lb break="no" n="77"/>nantem unnserm freundtlichen lieben herrn unnd ge-
+                    <lb break="no" n="78"/>mahel, ehelich verpflicht, unnd versprechen, unns auch 
+                    <lb n="79"/>für unnser legitima vätterlichs unnd müetterlichs erbs und 
+                    <lb n="80"/>guets zwaythausenndt guldin reinisch inn münz sambt ai-
+                    <lb break="no" n="81"/>ner gebürendter frewlich förttigung, solchem heuratguett 
+                    <lb n="82"/>unnd frewlinstannd gemeß, bis auf unnser gannz völlig 
+                    <lb n="83"/>beniegen, in beraitter würckhlicher bezalung durch wol-
+                    <lb break="no" n="84"/>ernanten unnsern freundtlichen lieben bruodern, gegeben 
+                    <lb n="85"/>unnd uberantwurttet worden. Das demnach, wie obberur-
+                    <lb break="no" n="86"/>te baide ehegemächt die benante summa gellts der zway-
+                    <lb break="no" n="87"/>thausendt guldin reinisch inn münz für unnser <persName ref="lub-actors-115">Barbara 
+                    <lb n="88"/>grävin zue Sulz</persName> etc. heuratguet unnd haimbsteur, auch ge-
+                    <lb break="no" n="89"/>bürendt legitima vätterlichs, müetterlichs unnd brüeder-
+                    <lb break="no" n="90"/>lichs erbthails, zue dannckh unnd guetem beniegen, frey 
+                    <lb n="91"/>willigclich angenommen, unnd darauff für uns selbs, 
+                    <lb n="92"/>all unnsere erben unnd nachkhommen, unnsers geburendenn 
+                    <lb n="93"/>vätterlichen, müetterlichen unnd brüederlichen erbtails, 
+                    <lb n="94"/>anfall unnd anspruch der freyherrn <orgName ref="lub-actors-2632">zue Stauffenn</orgName> etc. 
+                    <lb n="95"/>manlichs stammens unnd namens, diser unnsers herrn vat-
+                    <lb break="no" n="96"/>ters unnd schwehers, wolseeligen, absteigender linien, 
+                    <lb n="97"/>mit freyem guettem willen, wolbedachten sinnen unnd 
+                    <lb n="98"/>muetten, vleyssiger guetter vorbetrachtung, one alle forcht, 
+                    <lb n="99"/>zwanng, bethroung oder ainichen anndern irrsal, auch 
+                    <lb n="100"/>mit kainen listen oder geverden hinderganngen, persua-
+                    <lb break="no" n="101"/>diert, beredt noch bethrogen, zue denn zeytten unnd tagen, 
+                    <lb n="102"/>da wir das allermenigclichs irrung, verhinderung, ein-
+                    <lb break="no" n="103"/>träg unnd widersprechen halben wohl thuen könnden unnd 
+                    <lb n="104"/>mögen, in der weys unnd form mit gepürenden worttenn, 
+                    <lb n="105"/>solemniteten unnd werckhen, auch an denn stötten unnd 
+                    <lb n="106"/>ortten, darzue vor denn leutten, richtern unnd gerich-
+                    <lb break="no" n="107"/>ten, gaistlichen unnd welltlichen, alls solches nach 
+                    <lb n="108"/>form, gewohnhait unnd ordnung der rechten, zum höch-
+                    <lb break="no" n="109"/>sten unnd bösten crafft unnd macht hat, haben soll, kan 
+                    <lb n="110"/>unnd mag, wider allermenigclichs widerthailen, calum-
+                    <lb break="no" n="111"/>nien, cavillation unnd absprechen, in allwegn unnd inson-
+                    <lb break="no" n="112"/>derhait auß schwösterlicher threw unnd liebe, damit 
+                    <lb n="113"/>wir, <persName ref="lub-actors-115">Barbara grävin zue Sulz</persName> etc., wolernantem unn-
+                    <lb break="no" n="114"/>serm freundtlichen lieben bruedern zuegewanndt unnd 
+                    <lb n="115"/>gewogen sein, fürnemblich auch mit wolernants, unn-
+                    <lb break="no" n="116"/>sers herrn unnd gemahels, herrn <persName ref="lub-actors-113">Ruodolphen gra-
+                    <lb break="no" n="117"/>vens zue Sulz</persName> etc. auch des wolgebornen herrn <persName ref="lub-actors-2608">Ruodol-
+                    <lb break="no" n="118"/>phen gravens zue Helffenstain</persName>, freyherrns zue <placeName ref="lub-places-344">Gun-
+                    <lb break="no" n="119"/>delfingen</placeName>, fürstlichen würzburgischen raths, unnsers 
+                    <lb n="120"/>freundtlichen lieben vätter, schwager unnd brueders,
+                    <lb n="121"/>alls in diser sachen unnsers erwöllten, erkießten, 
+                    <lb n="122"/>erpettnen unnd verordneten anweysers, vogt unnd 
+                    <lb n="123"/>trägers rath, gunst, wissen, willen, zuelassen unnd 
+                    <lb n="124"/>guetthaissen, renunciert, verzigen unnd begeben haissen, 
+                    <lb n="125"/>sein unnd pleiben wöllen, renuncieren, verzeyhen unnd 
+                    <lb n="126"/>begeben unns auch für unns baide ehegemächt, unnser 
+                    <lb n="127"/>bayder erben unnd nachkommen, alles unnd yeden obge-
+                    <lb break="no" n="128"/>schribnen vätterlichen, müetterlichen unnd brüeder-
+                    <lb break="no" n="129"/>lichen erbs, ligendts unnd vahrendts, besuechts unnd 
+                    <lb n="130"/>unbesuechts, es sey aigen oder lehen, gannz nichzit 
+                    <lb n="131"/>yberal darvon gesönndert, hinan gesezt noch außgenom-
+                    <lb break="no" n="132"/>men, gegen obgenantem unnserm lieben brueder unnd 
+                    <lb n="133"/>schwagern, herrn <persName ref="lub-actors-2609">Georg Leo</persName>, freyherrn <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., 
+                    <lb n="134"/>seiner liebt manliche ehelich erbornne leybserben, unnd 
+                    <lb n="135"/>derselben manlichen erbens erben absteigender linien dis 
+                    <lb n="136"/>stammens unnd geschlechts der herrn <orgName ref="lub-actors-2632">zue Stauffen</orgName>, für unnd 
+                    <lb n="137"/>für inn ewig zeit, dieweil derselben manlichen erben 
+                    <lb n="138"/>ainer berüerter absteigender linien in leben ist, dem-
+                    <lb break="no" n="139"/>selben namen unnd stammen zue guett, gar unnd gennzlich, 
+                    <lb n="140"/>wissentlich, wolbedächtlich unnd in crafft diß brieffs, wie 
+                    <lb n="141"/>das nach ordnung unnd vermög der rechten, vor allenn 
+                    <lb n="142"/>leutten, richtern unnd gerichten, wie hievor bemelt, 
+                    <lb n="143"/>zum cräfftigisten unnd sichersten beschehen soll, kan oder 
+                    <lb n="144"/>mag, bey unnsern ehren, waren wortten, guettenn 
+                    <lb n="145"/>thrawen unnd glauben, an geschwornen aydts statt, allso, 
+                    <lb n="146"/>das wäder wür baide, obgedachte ehegemächt, unnsere 
+                    <lb n="147"/>erben unnd nachkommen, noch sonnsten niemandts anderer, 
+                    <lb n="148"/>von unnser oder irentwegen, mit oder ohne volkommnen ge-
+                    <lb break="no" n="149"/>wallt, zu ermelter unnser <persName ref="lub-actors-115">Barbara grävin zue Sulz</persName> etc.
+                    <lb n="150"/>gebürenden vätterlichen, müetterlichen unnd brüeder-
+                    <lb break="no" n="151"/>lichen legitima, oder erbthail und verlassennschafft, 
+                    <lb n="152"/>unnd allso zu obvermelts unnsers lieben herrn vatters, 
+                    <lb n="153"/>schwehers, fraw muetter, schwiger, brueders unnd schwa-
+                    <lb break="no" n="154"/>gers, auch aller irer liebden, manlichen ehelichen er-
+                    <lb break="no" n="155"/>bornnenn leybserben berüerter absteigender linien, 
+                    <lb n="156"/>für unnd für in ewig zeit, wann unnd alß offt sich das-
+                    <lb break="no" n="157"/>selb, dieweyl ainer dises geschlechts unnd stammens  
+                    <lb n="158"/>der freyherrn <orgName ref="lub-actors-2632">zue Stauffen</orgName>, von unnserm freundtlichen 
+                    <lb n="159"/>lieben herrn vatter unnd schweher, herrn <persName ref="lub-actors-2486">Anthonio</persName>, 
+                    <lb n="160"/>freyherrn <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., wolseeligen, inn lebenn ist, 
+                    <lb n="161"/>begibt unnd zueträgt, unnd enndtlich zue vorgedachtem 
+                    <lb n="162"/>vätterlichem, muetterlichem unnd brüederlichem erb, 
+                    <lb n="163"/>sament noch sonnderlich, yetz noch in khünfftig zeit, we-
+                    <lb break="no" n="164"/>der mit noch one recht, gaistlichen noch wellttlichen, 
+                    <lb n="165"/>an kainen stätten noch sonnst gannz uberal, in kain 
+                    <lb n="166"/>weys noch weg, mit kainen gerichten noch sachen, durch 
+                    <lb n="167"/>unns selbs noch anndere anvordern, bekümbern, beschwe-
+                    <lb break="no" n="168"/>ren, belaidigen, beclagen, fürnemmen noch molestieren, 
+                    <lb n="169"/>auch solches zue thuen annder leutten nit gestatten sollen 
+                    <lb n="170"/>noch wöllen, in kain weys noch weg, wie die immer 
+                    <lb n="171"/>durch menntschen sein erdacht sein oder fürgenommenn 
+                    <lb n="172"/>unnd erdacht werden möchten, allermassen unnd gestallt, 
+                    <lb n="173"/>allß ob solche unnser transaction, verzicht, begebung unnd 
+                    <lb n="174"/>renunciation, vor des <orgName ref="lub-actors-516">Hayligen Römischen Reychs</orgName>, hochloblchenn 
+                    <lb n="175"/>kayserlichem <orgName ref="lub-actors-521">Cammer-</orgName>, hof-, lanndt-, oder annderm wolbe-
+                    <lb n="176"/>stölttem Gericht mit vorprachten threwen, ayden und 
+                    <lb n="177"/>solmniteten beschehen, volnzogen, auffgericht unnd mit 
+                    <lb n="178"/>rechtlicher angesuechter urthel erlanngt, erhallten und 
+                    <lb n="179"/>bestettigt, auch solemnisiert were, unnd im fall, solche 
+                    <lb n="180"/>summa gellts, alls heuratguet unnd haimbsteur nit 
+                    <lb n="181"/>sovihl groß noch gleich, allß unnser gebürendt vätter-
+                    <lb break="no" n="182"/>lich, müetterlich unnd brüederlich erbtail unnd anfall, oder 
+                    <lb n="183"/>legitima were oder sein, allso das wir von demselben ain 
+                    <lb n="184"/>mehrers oder weytters haben sollten, ob wir auch schon 
+                    <lb n="185"/>uber denn halben thail vernachtailt weren. Nichts desto-
+                    <lb break="no" n="186"/>weniger unnd unangesehen dessen wöllen wir bayde ehe-
+                    <lb break="no" n="187"/>gemächt für unnß, unnsere kinder, erben unnd für all an-
+                    <lb break="no" n="188"/>dere unnsere nachkommen in böster, bestenndigister, kröff-
+                    <lb break="no" n="189"/>tigister unnd unwiderrüefflicher weys unnd form, wie hie-
+                    <lb break="no" n="190"/>vor gemelt, renunciert, verzigen, innsonnderhait auch den 
+                    <lb n="191"/>abganng unnd manngel der gebür unnd gerechtigkait deß 
+                    <lb n="192"/>gebürenden vätterlichen, müetterlichen unnd brüederlichen 
+                    <lb n="193"/>erbthails, oder die anfallung unnd supplementum legitimae, 
+                    <lb n="194"/>unnd allso der rechten sagent, das sich niemandts eines künff-
+                    <lb break="no" n="195"/>tigen erbfalls verzeyhen möge, unns hiemit außthruckh-
+                    <lb break="no" n="196"/>enlich begeben haben. Darwider unnd vor dem allem, 
+                    <lb n="197"/>wie hievor in allen puncten unnd articuln aigentlich und 
+                    <lb n="198"/>clat geschrieben steet, soll unns, unnsere eheliche kinder, 
+                    <lb n="199"/>erben, nachkommen, noch sonnsten yemandts annderer ganz 
+                    <lb n="200"/>unnd gar, in kain weys noch weg, nicht helffen, freyen, 
+                    <lb n="201"/>friden, schuzen, schürmen noch fürstanndt thuen, kain 
+                    <lb n="202"/>bäpstlich kayserlich noch königliche freyhait, gnad, rescript, 
+                    <lb n="203"/>noch recht, gaistlich noch welltlich, geschribens noch un-
+                    <lb break="no" n="204"/>geschribens, kain <orgName ref="lub-actors-521">Cammer-</orgName>, hove-, stätt-, noch lanndtge-
+                    <lb break="no" n="205"/>richt, auch kain pündtnus, verainigung, fridt, thröstung, 
+                    <lb n="206"/>gelaitt, gewohnhait, altherkommen, gepreuch, aucht, 
+                    <lb n="207"/>uberaucht, gewallt, gepott, verpott, noch inhibition 
+                    <lb n="208"/>kain conservatorium, exception, privilegium, dispensation, 
+                    <lb n="209"/>absolution ad cautelam, noch relaxation, kain indult, sazung, 
+                    <lb n="210"/>constitution, edict, decret, kain pact, ordnung noch vergun-
+                    <lb n="211"/>stigung, so villeucht auff unnser anrögen, petition, suppli-
+                    <lb break="no" n="212"/>cation, auch aus aigner bewögnuß, willen oder gnaden, aus 
+                    <lb n="213"/>bäptstlicher oder kayserlicher hoher macht oder volkommen-
+                    <lb break="no" n="214"/>hait uns, unnsern erben oder nachkommen, yezo gegeben 
+                    <lb n="215"/>unnd gemacht, oder hinfüran gegeben, gemacht unnd ver-
+                    <lb break="no" n="216"/>gannth werden möchten. Unnd wover wir baide benan-
+                    <lb break="no" n="217"/>te ehegemecht, oder wir, <persName ref="lub-actors-115">Barbara grävin zue Sulz</persName> etc., ge-
+                    <lb break="no" n="218"/>bornne freyin <orgName ref="lub-actors-2632">zue Stauffen</orgName>, allain mit grosser oder ai-
+                    <lb break="no" n="219"/>nicherlay verlötzung, auch auß unfürsichtigkait unn-
+                    <lb break="no" n="220"/>serer jugent, unmündigen jharen, mindern alters, oder 
+                    <lb n="221"/>auß anndern uhrsachen, weys oder weg, wie das sein, 
+                    <lb n="222"/>unnd in gemainen geschribnen rechten nammen haben 
+                    <lb n="223"/>möcht, bevorthailt, vernachtailt oder verlözt wehren. 
+                    <lb n="224"/>So verzeyhen wir doch hiemith in crafft diß brieffs, frey-
+                    <lb break="no" n="225"/>willig, ungethrungen, ungezwungen, one betrug unnd 
+                    <lb n="226"/>hinderlist, für unns, unnsere erben, nachkommen unnd nech-
+                    <lb break="no" n="227"/>ste bluetsfreundt uns aller unnd jeder einred, außzüg, pri-
+                    <lb n="228"/>vilegien, vortheil, indult, behelff, frawen beneficien und 
+                    <lb n="229"/>gunst, so wir bayde oder ains innsonnderhait, seiner jugent, 
+                    <lb n="230"/>mindern alters, oder aller anndern uhrsachen halber 
+                    <lb n="231"/>von gemeinen beschribnen unnd unbeschribnen rechtlichen und 
+                    <lb n="232"/>gepreuchen haben möchten, privilegiert und begabt seyen.
+                </p>
+        <p><lb n="233"/>Darzu der restitution in integrum, ob auch verrer solche privi-
+                    <lb break="no" n="234"/>legia unnd freyhaiten weren, darvon hierinn disfalls son-
+                       <lb break="no" n="235"/>ders specificiert von wortt zue wortten, meldung besche-
+                       <lb break="no" n="236"/>en solte. Deme allen inngemain unnd sonnderhait wür uns 
+                       <lb n="237"/>für uns, unnsere erben unnd nachkommen sampt der exception, 
+                       <lb n="238"/>der nichtigkait, zwanngs, forcht oder bethrugs, auch aller und 
+                       <lb n="239"/>jeder behelff, fünden unnd lüsten, wie die namen haben und 
+                       <lb n="240"/>mentschen seine erdacht, oder hierwider fürziehen unnd er-
+                       <lb break="no" n="241"/>dennckhen khönnden, auch des nechtens sprechende, das ge-
+                       <lb break="no" n="242"/>meine verzeyhung nit binde noch verfahe, es sey dann, die 
+                       <lb n="243"/>sönnderung darauff gevolgt. Unnd innsonnderhait wir, <persName ref="lub-actors-115">Bar-
+                       <lb break="no" n="244"/>bara grävin zue Sulz</persName> etc., gebornne freyin <orgName ref="lub-actors-2632">zue Stauffen</orgName>, 
+                       <lb n="245"/>wöllen unns der freyhait, senatus consulti veleiani, so zu endt-
+                       <lb break="no" n="246"/>ledigung unnd wideraufhöbung, diser unnserer verzicht, 
+                       <lb n="247"/>immer erdacht oder fürgenommen, darzue alles unnd iedes der-
+                       <lb break="no" n="248"/>gleichen behelffs unnd rechtens die zue gunst unnd auffent-
+                       <lb break="no" n="249"/>hallt weyblichs geschlechts gegeben unnd verordnet sein, de-
+                       <lb n="250"/>ren aller unnd jeder in gemain, fürnemblich aber das 
+                       <lb n="251"/>wir disen verzicht von rechts wegen zue thuen nit schul-
+                       <lb break="no" n="252"/>dig gewesen weren, wir gnugsam unnd aygentlichen  
+                       <lb n="253"/>vor auffrichtung solcher verzicht bericht unnd verstenndigt 
+                       <lb n="254"/>worden seyen, so wir aigentlich unnd wohl vernommen haben, 
+                       <lb n="255"/>nichts außgenommen, gennzlich verzigen, begeben unnd re-
+                       <lb break="no" n="256"/>nunciert haben, unnd thuen das hiemith wissentlich unnd 
+                       <lb n="257"/>wolbedächtlich mit unnd inn crafft dis brieffs, inmassen 
+                       <lb n="258"/>dann unnser enndtlicher will unnd mainung ist, das dise 
+                       <lb n="259"/>unnsere frey willkhürliche verzicht, inn allen unnd ieden 
+                       <lb n="260"/>puncten unnd articuln, bey würden unnd cräfften beley-
+                       <lb break="no" n="261"/>ben unnd der enntgegen noch zuwider, weder durch uns, 
+                       <lb n="262"/>unnsern herrn unnd gemahel, noch unnser beeder 
+                       <lb n="263"/>erben unnd nachkommen noch jemandts von der-
+                       <lb break="no" n="264"/>selben wegen, nichts fürgenommen noch gehanndelt werden. 
+                       <lb n="265"/>Was auch wir, unnsere erben oder nachkommen dargegen 
+                       <lb n="266"/>anhieben, kriegten, rechteten oder tägten, dasselbig 
+                       <lb n="267"/>alles unnd jedes von unwürden nichtig, crafftloß unnd 
+                       <lb n="268"/>unbindig sein solle, allermassen alles ob berüerter ver-
+                       <lb break="no" n="269"/>zicht mit bäpstlicher, kayserlicher, königlicher oder fürst-
+                       <lb break="no" n="270"/>licher confirmation unnd decret, bestettiget unnd in un-
+                       <lb break="no" n="271"/>widersprechenlichem rechten, mit des rechtens urthel be-
+                       <lb break="no" n="272"/>gabt unnd dasselb urthel gewürdigt worden were. Jedoch 
+                       <lb n="273"/>lhaben wir, <persName ref="lub-actors-115">Barbara grävin zue Sulz</persName> etc., unns in diser ver-
+                       <lb break="no" n="274"/>zicht enndtlich außgetragen unnd vorbehalltten, ob sich 
+                       <lb n="275"/>nach dem willen gottes begebe unnd zuetryege, das vor-
+                       <lb break="no" n="276"/>lbemelter unnser freundtlicher lieber brueder, herr <persName ref="lub-actors-2609">Georg 
+                       <lb n="277"/>Leo</persName> freyherr <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., oder seine eheleybliche man-
+                       <lb break="no" n="278"/>liche erben absteigender linien der herrn <orgName ref="lub-actors-2632">zue Stauf-
+                       <lb break="no" n="279"/>fen</orgName> etc., all mit todt (welches der allmechtig ewig gott 
+                       <lb n="280"/>lanng verhüetten wölle) abganngen unnd kainer mehr 
+                       <lb n="281"/>in leben sein wurde, so soll allß dann diser unnser 
+                       <lb n="282"/>verzicht gennzlich unnd allerdings todt unnd ab sein, und 
+                       <lb n="283"/>unns, <persName ref="lub-actors-115">Barbara grävin zue Sulz</persName> etc., gebornne freyin 
+                       <lb n="284"/><orgName ref="lub-actors-2632">zue Stauffen</orgName>, auch unnsere kinder unnd erben dise renun- 
+                       <lb break="no" n="285"/>ciation unnd verzig, verrners unnd weytters nit binden, 
+                       <lb n="286"/>sonnder sollen zue allenn vätterlichen, müetterlichen, brüe-
+                       <lb break="no" n="287"/>derlichen unnd allen denen erbschafften, verlassenschafften, 
+                       <lb n="288"/>haab unnd güettern, lehens oder aigens, sovihl unns vor diser 
+                       <lb n="289"/>verzicht von rechts wegen gebürtt hette, nichts außgenom-
+                       <lb break="no" n="290"/>men (deren wir unns an yezo dem gemelten manlichen 
+                       <lb n="291"/>stammen allain zue guettem verzigen) allß dann wider, als 
+                       <lb n="292"/>ein freye unverzigne erbdochter, einen freyen zuetritt 
+                       <lb n="293"/>habenn, allermassen, allß ob dise unnser verzicht nie be-
+                       <lb break="no" n="294"/>schehen were, unverhündert aller annderer oder weybs 
+                       <lb n="295"/>erben, auch one allermenigclichs disponieren, fürziehliche  
+                       <lb n="296"/>begnadigung, einredt oder widersprechen, inn allweg 
+                       <lb n="297"/>unnd auff das, so haben wir auch zue enndtlicher vol-
+                       <lb break="no" n="298"/>kommner volnziehung diser verzicht, unnserer gerechtenn 
+                       <lb n="299"/>hannd finger auff unnsere linckhe prust gelegt, das alles 
+                       <lb n="300"/>unnd jedes, so obsteeth, threwlich, unwidersprechenlich 
+                       <lb n="301"/>war, väst unnd stett zuehaltten, ainen leyblichen gelärten 
+                       <lb n="302"/>aydt in dise verzicht mit rath, wolbemelts unnsers freint-
+                       <lb break="no" n="303"/>lichen lieben herrn unnd gemahels, wie auch ober-
+                       <lb break="no" n="304"/>nants unnsers hierzue erpettnen anweysers, vogts unnd 
+                       <lb n="305"/>tragers, frey willkürlich unnd one allen argenlist ge-
+                       <lb break="no" n="306"/>schworen. Unnd dessenn alles zue warenn unnd besten-
+                       <lb break="no" n="307"/>digenn uhrkundt, disen brieff mit aignen handen under-
+                       <lb n="308"/>schriben, auch mit sonderm vleyß gepetten unnd erpetten, 
+                       <lb n="309"/>denn wolgebornnen herrn <persName ref="lub-actors-2488">Conradten freyherrn zue Böm-
+                       <lb n="310"/>melberg</persName> unnd <placeName ref="lub-places-750">Hohenburg</placeName>, herrn zue <placeName ref="lub-places-751">Marckhbissingen</placeName> etc., den 
+                       <lb n="311"/>ölltern, unnsern freundtlichen lieben vöttern, schwager 
+                       <lb n="312"/>unnd herrn vattern, das sein liebt, derselben ange-
+                       <lb break="no" n="313"/>born innsigel (doch seiner liebten unnd derselben erben 
+                       <lb n="314"/>ohne schaden) hierunder gethruckt hat. Unnd des zue 
+                       <lb n="315"/>noch mehrer sicherhait bekennen auch wir, <persName ref="lub-actors-113">Ruodolph 
+                       <lb n="316"/>grave zue Sulz</persName> etc., allß wolgedachter unnser freundtlichen 
+                       <lb n="317"/>lieben gemahel, frawen <persName ref="lub-actors-115">Barbara</persName>, gebornner freyin 
+                       <lb n="318"/><orgName ref="lub-actors-2632">zue Stauffen</orgName>, ehelicher vogt, auch in disen brieff, das 
+                       <lb n="319"/>obgedachte verzicht mit unnserm guettenhaissen, rech-
+                       <lb break="no" n="320"/>tem unnd volkommnem willenn, geschworen unnd gege-
+                       <lb break="no" n="321"/>ben wordenn ist, darwider wir, all unnser erbenn 
+                       <lb n="322"/>unnd nachkommen in ewig zeit nichts hanndlen, sondern 
+                       <lb n="323"/>die in allen puncten unnd articuln gethrewlich, un-
+                       <lb break="no" n="324"/>zerprochen, steet unnd väst hallten unnd volziehen helf-
+                       <lb break="no" n="325"/>fen wöllenn. Unnd haben demnach zue steeter hallt-
+                       <lb break="no" n="326"/>tung unnd volnziehung derselben unnser aigen ange-
+                       <lb break="no" n="327"/>born innsigel, auch hirunden fürgethruckht. Deßgleich-
+                       <lb n="328"/>en haben wir, <persName ref="lub-actors-2609">Georg Leo</persName> freyherr <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., für 
+                       <lb n="329"/>unns, all unnsere erben unnd nachkommen disen verzig 
+                       <lb n="330"/>mit brüederlichem dannckh, zubeniegen bekanndtlich ac-
+                       <lb break="no" n="331"/>ceptiert unnd angenommen, unnd zue mehrer uhrkundt 
+                       <lb n="332"/>unnd gezeugknuß unns auch mit aigner hannden un-
+                       <lb break="no" n="333"/>derschrieben unnd mit unnserm angebornen innsigl 
+                       <lb n="334"/>disen verzicht verwarth, unnder welcher verfärttig-
+                       <lb break="no" n="335"/>ung wir unns ob- unnd yezbekennende allen innhallt dis 
+                       <lb n="336"/>brieffs für unns, all unnsere erben unnd nachkomen war, 
+                       <lb n="337"/>steet, vöst unnd unwiderrüefflich zue hallten cräfftigclich 
+                       <lb n="338"/>verbinden, alles auffrecht, redlich, gethrewlich unnd one 
+                       <lb n="339"/>geverdt. Gebenn unnd beschehenn zue <placeName ref="lub-places-920">Wisenstaig</placeName>, samb-
+                       <lb break="no" n="340"/>stags dem <origDate>dreyunndzwainzigisten monatstag may newen 
+                       <lb n="341"/>corrigierten calenders von Christi unnsers lieben herrn ge-
+                       <lb break="no" n="342"/>burth funffzehennhundert unnd im sibenndachzigistenn 
+                       <lb n="343"/>jare</origDate>.
+                   </p>
+        <p><lb n="344"/>Nach verlesung jez inverleybter renunciation, transaction unnd ac-
+                       <lb break="no" n="345"/>ceptation etc. habe ich, der notarius, obwolermelte frawenn 
+                       <lb n="346"/><persName ref="lub-actors-115">grävin zue Sulz</persName> etc. befragt, ob ire gnaden disen iren verzicht 
+                       <lb n="347"/>vätterlichen, müetterlichen unnd brüederlichen erbthails, 
+                       <lb n="348"/>oder was und wie vihl inen an demselben nach gemeinem be-
+                       <lb break="no" n="349"/>schribnen rechten oder dem lanndtsgeprauch etc. zu erben gebü-
+                       <lb break="no" n="350"/>ren mögen, zue lattein legitima genant, freywillig, unge-
+                       <lb break="no" n="351"/>nöttigt, ungezwungen unnd ungetrungen thuen, auch weder 
+                       <lb n="352"/>sy, ire erben noch jemandts von irentwegen, dieweil der herr 
+                       <lb n="353"/><orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., manlichen erben ainer absteigender linien inn  
+                       <lb n="354"/>leben ist, kain forderung, ansprach, recht noch gerechtigkait  
+                       <lb n="355"/>nymmer suechen, gewinnen noch furnemmen, sonder hiemit ver-
+                       <lb break="no" n="356"/>sprechen wöllen, dise verzeyhung wäder durch sich selbs noch 
+                       <lb n="357"/>kain andere sach, so im rechten gesezt weren oder wurdenn, 
+                       <lb n="358"/>nit zuwiderrüeffen noch abzuthuen, unnd allso auch sich allen 
+                       <lb n="359"/>und jeglicher freyhaitten, so weyblichem geschlecht ires heurat-
+                       <lb break="no" n="360"/>guetts und blödigkaitt wegen etc. inn recht gegeben, genzlich zu-
+                       <lb break="no" n="361"/>verzeyhen, alles mit der mas und nach außweysung jez ange-
+                       <lb break="no" n="362"/>rögten verlesnen verzichts. Darüber ire gnaden sambt 
+                       <lb n="363"/>derselben gemahel, anweyser, vögt unnd träger einen 
+                       <lb n="364"/>abtritt genommen. Und nach beschehner gnugsammer er-
+                       <lb break="no" n="365"/>innerung irer weyblichen freyhaiten, mir außthruck-
+                       <lb break="no" n="366"/>enlichen vermelden und anzaigen lassenn, das alles 
+                       <lb n="367"/>dasjenig, so inn inseriertem verzicht begriffen, iren gnaden 
+                       <lb n="368"/>endtlicher, ungenöttigter, ungezwungner, freyer, gueter 
+                       <lb n="369"/>und fürgesözter will und mainung seye, haben allso 
+                       <lb n="370"/>dennselben allem seinem innhallt nach repetiert unnd 
+                       <lb n="371"/>erholt, mit volgendem erpietten, das sy solch, ir ver-
+                       <lb break="no" n="372"/>zeyhung, vor keinem richter noch gericht inn- noch usser-
+                       <lb break="no" n="373"/>halb rechtens, nit revocieren oder widerrüeffen, noch sich 
+                       <lb n="374"/>der nullitet restitution in integrum, noch einicher anderer 
+                       <lb n="375"/>exception geprauchen, auch was darwider fürgenommen wer-
+                       <lb break="no" n="376"/>den möchte, nit annemmen noch bewilligen, sonder zue noch 
+                       <lb n="377"/>mehrer beröfftigung und bestettigung aller obgeschribner 
+                       <lb n="378"/>sachen vor mir, notario und gezeugen, einen gelertten aydt 
+                       <lb n="379"/>zue gott unnd den haylligen schwören wölle. Wann nun 
+                       <lb n="380"/>beedes wolermelte fraw <persName ref="lub-actors-115">grävin zue Sulz</persName> etc. sambt iren gnaden 
+                       <lb n="381"/>ehegemachel, deßgleichen auch derselben verordneten und 
+                       <lb n="382"/>erpettnen anweyser, vögt und träger, von mir begerth, den 
+                       <lb n="383"/>anerpottnen ayden von ir uff und anzunemmen. Allso habe ich 
+                       <lb n="384"/>iren gnaden denn ayden fürgehallten, welche denselben 
+                       <lb n="385"/>mit ufflegung irer rechten hanndt finger uff die linckenn 
+                       <lb n="386"/>brust, zue gott dem allmechtigen und allen hailligen, leib-
+                       <lb break="no" n="387"/>lich geschworen, wie sy die obgeschribne verzeyhung vät-
+                       <lb break="no" n="388"/>terlichs, müetterlichs unnd brüederlichs erbthails, anfalls 
+                       <lb n="389"/>oder legitimae, auch aller gnaden und freyhaitten fürtragen 
+                       <lb n="390"/>lassen, dieselben ablesen hören, bericht unnd erinnert 
+                       <lb n="391"/>worden, das solches alles ir will unnd mainung seye. Sy 
+                       <lb n="392"/>auch dasselb alles war, vöst, steet und unverbruchlich hal-
+                       <lb break="no" n="393"/>ten, volnziehen und darwider nimmer sein, handlen, noch son-
+                       <lb break="no" n="394"/>sten jemandts anderm zuethuen gestatten wölle, in kain weis 
+                       <lb n="395"/>noch weg, alles getrewlich one geverdt, wölches obwolgedachten 
+                       <lb n="396"/>freyherr <orgName ref="lub-actors-2632">zu Stauffen</orgName>, zue brüederlichem danckh angenommen, es 
+                       <lb n="397"/>haben auch nach verbrachtem ayden nit allain obwolermelte 
+                       <lb n="398"/>herrn und frawen zue weytterer bestendigkait diser ding aller 
+                       <lb n="399"/>sich nachvolgender massen mit aignen handen underschriben <persName ref="lub-actors-113">Ru-
+                       <lb break="no" n="400"/>dolff grave zu Sulz</persName> manu propria, <persName ref="lub-actors-115">Barbara gräffin zue Sulz</persName>, gebor-
+                       <lb break="no" n="401"/>ne frein <orgName ref="lub-actors-2632">zue Stauffen</orgName>, <persName ref="lub-actors-2608">Ruedolff grave zue Helffenstain</persName> etc. manu propria, 
+                       <lb n="402"/><persName ref="lub-actors-2609">Georg Leo</persName> freiherr <orgName ref="lub-actors-2632">zu Stauffen</orgName> manu propria. Sonnder auch ire aigne angebor-
+                       <lb break="no" n="403"/>ne innsigel fürgetruckt, unnd darzue mehrwolgedachte fraw 
+                       <lb n="404"/><persName ref="lub-actors-115">grevin zu Sulz</persName> etc., gebornne freyin <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., mit sondern 
+                       <lb n="405"/>vleyß gepetten und erpetten denn wolgebornen herrn, herrn 
+                       <lb n="406"/><persName ref="lub-actors-2488">Conradten den ölltern freyherrn zue Bömmelberg</persName> und <placeName ref="lub-places-750">Hohenburg</placeName>, 
+                       <lb n="407"/>herrn zu <placeName ref="lub-places-751">Marckhtbissnigen</placeName> etc., das ire gnaden sich auch mit aigen 
+                       <lb n="408"/>handen underschriben und dero angeborn innsigel (doch iren gnaden 
+                       <lb n="409"/>und derselben erben ime alleweg one schaden) auch darunder ge-
+                       <lb break="no" n="410"/>truckt haben. Unnd über das alles mich, notarium, ratione offi-
+                       <lb break="no" n="411"/>cii quo fungor publici, requiriert, ermant und ersuecht, iren gnaden 
+                       <lb n="412"/>hierüber ein oder mer offen instrumentum vel instrumenta, wie 
+                       <lb n="413"/>auch von dennselben glaubwürdige vidimus unnd transumpta  
+                       <lb n="414"/>zuverförttigen, zuemachen, ufzurichten, zuegeben unnd mittzu-
+                       <lb n="415"/>thailen, wälches ich mich zuethuen underthenig bewilligt. Ge-
+                       <lb break="no" n="416"/>schehen sein alle dise ding inn denn jharen indiction, kayserlicher 
+                       <lb n="417"/>regierung, monat, tag, stunnd, ennd und ortten hieoben specifi-
+                       <lb break="no" n="418"/>ce begriffen, inn personlicher gegennwurttigkait unnd beysein, 
+                       <lb n="419"/>der edlenn und vösten junckher <persName ref="lub-actors-2611">Hannsen Bellighovers</persName> zue <placeName ref="lub-places-13">Gut-
+                       <lb n="420"/>temberg</placeName>, grävenlichen helffenstainischen hofmaisters, unnd 
+                       <lb n="421"/><persName ref="lub-actors-2610">Nicolaus Scherzhamers</persName> vonn <placeName ref="lub-places-695">Straßburg</placeName>, gräfenlichen sulz-
+                       <lb break="no" n="422"/>ischen dieners, allß hierzu ervorderter unnd erpettner 
+                       <lb n="423"/>glaubwürdiger gezeugenn.
+                      </p>
+        <p><lb n="424"/>Unnd wann ich, Lambertus Bomgartter, von römischem kayser-
+                       <lb break="no" n="425"/>lichem gewallt unnd vollmacht ein offenbarer unnd an ir 
+                       <lb n="426"/>kayserlicher mayestät, auch des <orgName ref="lub-actors-516">Hayligen Römischen Reichs</orgName> hochloblichem kay-
+                       <lb break="no" n="427"/>serlichem <orgName ref="lub-actors-521">Cammergericht</orgName> zue <placeName ref="lub-places-75">Speyr</placeName> approbierter unnd 
+                       <lb n="428"/>immatriculierter notarius, der stattgerichte zue <placeName ref="lub-places-108">Ulm</placeName> 
+                       <lb n="429"/>bestöllter procurator unnd burger daselbsten bey ob-
+                       <lb n="430"/>inserierter apparition, confession, quietation, transaction, 
+                         <lb n="431"/>renunciation, consenss, reservation, juramenti oblati praesta-
+                         <lb break="no" n="432"/>tion, der sigillen appression, subscription unnd annderm,  
+                         <lb n="433"/>neben den wolgebornen herrn unnd frawen, wie auch 
+                         <lb n="434"/>denn hierzue ervorderten unnd erpettnen glaubwür-
+                         <lb break="no" n="435"/>digen gezeugen, obernant selbst personlich gegenwürt-
+                         <lb break="no" n="436"/>tig gewesen bin, das alles obgehörtermassen geschehen 
+                         <lb n="437"/>sein, gesehen, gehört unnd aigentlich vernommen, hie-
+                         <lb break="no" n="438"/>rumben, so habe ich uf iren gnaden, innsonderhait aber 
+                         <lb n="439"/>offtwolermelter frawen <persName ref="lub-actors-115">grävin zue Sulz</persName>, geborner 
+                         <lb n="440"/>freyin <orgName ref="lub-actors-2632">zue Stauffen</orgName> etc., gebürende requisition, dises instru-
+                         <lb break="no" n="441"/>ment libellsweyse darüber ufgericht und dasselb mei-
+                         <lb break="no" n="442"/>nen substituten fleissig ingrossieren lassen, aber mit 
+                         <lb n="443"/>diser meiner aignen hannd underschriben und aufgetruck-
+                         <lb break="no" n="444"/>tem meinem gewönlichen notariatsignet, tauf und zu-
+                         <lb break="no" n="445"/>namen, consigniert und bezaichnet, auch mit diser gel-
+                         <lb break="no" n="446"/>ben, roten, schwarzen unnd weyssen seidnien schnuer 
+                         <lb n="447"/>durchzogen, und an dieselb mein aigen angeborn innsigl 
+                         <lb n="448"/>(doch mir und meinen erben in allweg one schaden) offen-
+                         <lb break="no" n="449"/>lich gehangen, alles zue uhrkundt und gezeugknus aller 
+                         <lb n="450"/>und ieder obgeschribner sachen, darzu sonderlichen unnd 
+                         <lb n="451"/>wie sich gebürth, requiriert, ervordert und erpetten. 
+                     </p>
+        <p><lb n="452"/>Das diese gegenwürtige copia durch mich, erstbenanten 
+                         <lb n="453"/><persName ref="lub-actors-2612">Lambertum Bomgartern</persName>, notarium approbatum etc.,
+                         <lb n="454"/>gegen irem rechtenn wahrenn onverseerten original  
+                         <lb n="455"/>auscultando et collationando te verbo ad verbum gleich-
+                         <lb break="no" n="456"/>lauttenndt, auch aller sachenn gannz gerecht unnd one 
+                         <lb n="457"/>allenn argkwohn befunten wordenn, attestier unnd 
+                         <lb n="458"/>bezeuge ich mit dieser meiner aignen hanndtschrifft 
+                         <lb n="459"/>tauff unnd zunammen, auch ufgetrucktem notariat-
+                         <lb break="no" n="460"/>signet unnd innsigel. Actum ut supra.
+                </p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/><lb n="2"/>Vidimiertte copia renuntiationis 
+                    <lb n="3"/>frauen <persName ref="lub-actors-115">Barbara gräfin zue Sulz</persName> etc.,
+                    <lb n="4"/>geborner freyin <orgName ref="lub-actors-2632">zue Stauffen</orgName> 
+                    <lb n="5"/>anno 1587.
+                </p>
+        <p><lb n="6"/>Herrschaffts verglich 
+                    <lb n="7"/>auß 43 bischel.
+                </p>
+      </div>
+    </body>
+  </text>
+</TEI>

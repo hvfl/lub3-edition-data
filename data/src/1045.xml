@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1045">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung des Zehnten in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1045">CH-BAC, 015.2202</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 25. Mai 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Churer Bischof Paul Ziegler verleiht Wilhelm Rinck und seinem Bruder Kaspar Rinck zu Rietberg den Zehnten zu Triesen, von dem ein Viertel der dortigen Kirche gehört.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-813">Ziegler, Paul</persName>
+          <date when="1512-05-25">25. Mai 1512</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-1000">Rinck, Wilhelm</persName>
+          <date when="1512-05-25">25. Mai 1512</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-1001">Rinck, Kaspar</persName>
+          <date when="1512-05-25">25. Mai 1512</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2202-0001.jpg" xml:id="lub-media-3915" source="platzhalter.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3915" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-813">Paulus</persName>, von gottes genaden bischove zü <placeName ref="lub-places-175">Chür</placeName>, bekennen unnd thun kundt mengklichem mit disem 
+<lb n="2"/>brieffe, das wir unnsrn lieben unnd getrwn <persName ref="lub-actors-13">Wilhalmen</persName> unnd <persName ref="lub-actors-1001">Casper Ringken</persName>, gebrüdrn, zu <placeName ref="lub-places-842">Riet
+<lb break="no" n="3"/>perg</placeName>, zu ainem rechtten lehen verlihen haben unnd yetz lihennd wissenntlich in krafft diss
+<lb n="4"/>brieffs, was wir inen von rechts wegen dar an lihen sollen unnd mögen, doch unns, unnsrem 
+<lb n="5"/>stifft unnd nach komem unschädlich, nämlich den zehennden in <placeName ref="lub-places-79">Trisiner</placeName> kilchspel unnder 
+<lb n="6"/>dem walde, dar us der viertail des selben zehenndn der kirchen daselbs zu gehört, also, das 
+<lb n="7"/>sie den mogen innhaben, nützen unnd niessen nach solicher lehen recht. Hier umb habn unns 
+<lb n="8"/>die vorgemelten <persName ref="lub-actors-1000">Wilhem</persName> unnd <persName ref="lub-actors-1001">Casper Ringk</persName> geschworen ainen ayde zu gott unnd den hay
+<lb break="no" n="9"/>ligen unns, unnsrn nachkomen unnd dem benantn, unnsrm stifft <orgName ref="lub-actors-2466">Chür</orgName>, getrw, dienstlich,
+<lb n="10"/>gehorsam unnd gewärttig zu sinde unnd von des obgerürtn lehen wegen zethun alles 
+<lb n="11"/>das, so lehenn lutt irem lehenn herrn von billichait unnd rechts wegen pflichtig unnd 
+<lb n="12"/>schuldig seind unnd sonnderlich von des lehenns wegen an dhainen andrn enndn nicht rechtn 
+<lb n="13"/>sollen dann vor unns oder unnsrn mannen, zu gütn trwn ungefarlich. Des zu urkundt 
+<lb n="14"/>haben wir unnser secret insigel offennlich thun henckn an disen brieff, der gebn ist uff <origDate when="1512-05-25">sandt 
+<lb n="15"/>Urbans tag nach Cristus gepurt gezelt tausent fünffhündert unnd zwelff jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-03-20T10:04:38+01:00 aus https://lub.anton.ch</p>
+        <p>Datenbankexport vom 2026-03-27T08:50:08+01:00 aus https://lub.anton.ch</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -112,6 +112,10 @@
             <orgName xml:lang="de">Stiftsarchiv St. Gallen</orgName>
             <abbr>CH-StiASG</abbr>
           </org>
+                    <org xml:id="ch-bac">
+            <orgName xml:lang="de">Bischöfliches Archiv Chur</orgName>
+            <abbr>CH-BAC</abbr>
+          </org>
                     <org xml:id="li-pfae">
             <orgName xml:lang="de">Pfarrarchiv Eschen</orgName>
             <abbr>LI-PfAE</abbr>
@@ -128,7 +132,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2026-03-20T10:04:38+01:00">teiHeader was automatically produced by get-anton-data.sh 2026-03-20T10:04:38+01:00</change>
+      <change when="2026-03-27T08:50:08+01:00">teiHeader was automatically produced by get-anton-data.sh 2026-03-27T08:50:08+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
