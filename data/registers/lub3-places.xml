@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-03-27 08:50:03 aus </p>
+        <p>Datenbankexport vom 2026-04-07 15:36:37 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -247,6 +247,8 @@
             <placeName type="full" xml:lang="de">Feldkirch (Vorarlberg)</placeName>
             <placeName type="sort" xml:lang="de">feldkirch</placeName>
             <placeName type="alternative" xml:lang="de">Veldkhirch</placeName>
+            <placeName type="alternative" xml:lang="de">Veldtkirch</placeName>
+            <placeName type="alternative" xml:lang="de">Veldkirch</placeName>
             <location>
               <geo>47.23306 9.6</geo>
               <settlement xml:lang="de">Feldkirch</settlement>
@@ -1983,6 +1985,41 @@
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/11915574"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="lub-places-68">
+            <placeName type="main" xml:lang="de">Weingarten (Abtei)</placeName>
+            <placeName type="full" xml:lang="de">Weingarten (Abtei) / Weingarten (Baden-Württemberg)</placeName>
+            <placeName type="sort" xml:lang="de">weingarten (abtei)</placeName>
+            <location>
+              <geo>47.81009 9.63863</geo>
+              <settlement xml:lang="de">Weingarten</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">68</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2812204"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q334353"/>
+              </bibl>
+              <bibl>
+                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/15576b.htm"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85041254"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/156622198/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/2112767-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Abtei_Weingarten"/>
               </bibl>
             </listBibl>
           </place>
@@ -4259,6 +4296,7 @@
             <placeName type="full" xml:lang="de">Flerden (Graubünden)</placeName>
             <placeName type="sort" xml:lang="de">flerden</placeName>
             <placeName type="alternative" xml:lang="de">Flordenn</placeName>
+            <placeName type="alternative" xml:lang="de">Flerten</placeName>
             <location>
               <geo>46.70332 9.40825</geo>
               <settlement xml:lang="de">Flerden</settlement>
@@ -6491,6 +6529,24 @@
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Nofels"/>
               </bibl>
             </listBibl>
+          </place>
+          <place type="V" xml:id="lub-places-268">
+            <placeName type="main" xml:lang="de">Wesa</placeName>
+            <placeName type="full" xml:lang="de">Wesa / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">wesa</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">268</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
           </place>
           <place type="V" xml:id="lub-places-269">
             <placeName type="main" xml:lang="de">Sareis</placeName>
@@ -18018,6 +18074,23 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="P" xml:id="lub-places-817">
+            <placeName type="main" xml:lang="de">Apremont-la-Forêt</placeName>
+            <placeName type="full" xml:lang="de">Apremont-la-Forêt (Lothringen/ Meuse)</placeName>
+            <placeName type="sort" xml:lang="de">apremont-la-forêt</placeName>
+            <placeName type="alternative" xml:lang="de">Appermont</placeName>
+            <location>
+              <geo>48.82708 5.62927</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">817</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2998176"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="A" xml:id="lub-places-818">
             <placeName type="main" xml:lang="de">Unterelsass</placeName>
             <placeName type="full" xml:lang="de">Unterelsass</placeName>
@@ -19817,6 +19890,209 @@
             </location>
             <idno type="lub-places-id">928</idno>
           </place>
+          <place type="A" xml:id="lub-places-929">
+            <placeName type="main" xml:lang="de">Freusburg</placeName>
+            <placeName type="full" xml:lang="de">Freusburg (Rheinland-Pfalz)</placeName>
+            <placeName type="sort" xml:lang="de">freusburg</placeName>
+            <placeName type="alternative" xml:lang="de">Freyßberg</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">929</idno>
+          </place>
+          <place type="P" xml:id="lub-places-930">
+            <placeName type="main" xml:lang="de">Seelbach</placeName>
+            <placeName type="full" xml:lang="de">Seelbach (Rheinland-Pfalz)</placeName>
+            <placeName type="sort" xml:lang="de">seelbach</placeName>
+            <placeName type="alternative" xml:lang="de">Sehlbach</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">930</idno>
+          </place>
+          <place type="A" xml:id="lub-places-931">
+            <placeName type="main" xml:lang="de">Jülich</placeName>
+            <placeName type="full" xml:lang="de">Jülich (Nordrhein-Westfalen; Rheinland-Pfalz, Limburg (Niederlande))</placeName>
+            <placeName type="sort" xml:lang="de">juelich</placeName>
+            <placeName type="alternative" xml:lang="de">Gülch</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">931</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Herzogtum_Jülich">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Das Herzogtum Jülich war ein Territorium des Heiligen Römischen Reiches deutscher Nation im Niederrheinisch-Westfälischen Reichskreis, linksrheinisch zwischen dem Herzogtum Geldern, den Kurfürstentümern Köln und Trier sowie dem Hochstift Lüttich gelegen.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-932">
+            <placeName type="main" xml:lang="de">Homburg (Reichsherrschaft)</placeName>
+            <placeName type="full" xml:lang="de">Homburg (Reichsherrschaft) (Nordrhein-Westfalen)</placeName>
+            <placeName type="sort" xml:lang="de">homburg (reichsherrschaft)</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">932</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Reichsherrschaft_Homburg">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Herrschaft Homburg war ein historischer Kleinstaat, des Heiligen Römischen Reiches, der von 1276 bis 1806 im südöstlichen Teil des heutigen Bundeslandes Nordrhein-Westfalen existierte. Auch „Homburger Land“ oder „~ Ländchen“ genannt, umfasste sie ab 1604 im Wesentlichen das Gebiet der heutigen Gemeinde Nümbrecht und der Stadt Wiehl, sowie die nördlich angrenzenden Gebiete der Stadt Gummersbach und der Gemeinde Engelskirchen südlich der Agger im Oberbergischen Kreis.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-933">
+            <placeName type="main" xml:lang="de">Dietenhofen, Wasserburg</placeName>
+            <placeName type="full" xml:lang="de">Dietenhofen, Wasserburg / Dietenhofen (Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">dietenhofen, wasserburg</placeName>
+            <placeName type="alternative" xml:lang="de">Diettenhoven</placeName>
+            <placeName type="alternative" xml:lang="de">Diedenhofen</placeName>
+            <location>
+              <settlement xml:lang="de">Dietenhofen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">933</idno>
+          </place>
+          <place type="S" xml:id="lub-places-935">
+            <placeName type="main" xml:lang="de">Oberstein, Schloss</placeName>
+            <placeName type="full" xml:lang="de">Oberstein, Schloss (Rheinland-Pfalz)</placeName>
+            <placeName type="sort" xml:lang="de">oberstein, schloss</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">935</idno>
+          </place>
+          <place type="S" xml:id="lub-places-936">
+            <placeName type="main" xml:lang="de">Broich, Schloss</placeName>
+            <placeName type="full" xml:lang="de">Broich, Schloss (Nordrhein-Westfalen)</placeName>
+            <placeName type="sort" xml:lang="de">broich, schloss</placeName>
+            <placeName type="alternative" xml:lang="de">Brugk</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">936</idno>
+          </place>
+          <place type="S" xml:id="lub-places-937">
+            <placeName type="main" xml:lang="de">Septfontaine(s) (Simmer(n)), Schloss</placeName>
+            <placeName type="full" xml:lang="de">Septfontaine(s) (Simmer(n)), Schloss / Septfontänen</placeName>
+            <placeName type="sort" xml:lang="de">septfontaine(s) (simmer(n)), schloss</placeName>
+            <placeName type="alternative" xml:lang="de">Sybenborn</placeName>
+            <placeName type="alternative" xml:lang="de">Siebenborn</placeName>
+            <location>
+              <settlement xml:lang="de">Septfontänen</settlement>
+              <country xml:lang="de">Luxemburg</country>
+              <country xml:lang="en">Luxembourg</country>
+            </location>
+            <idno type="lub-places-id">937</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://en.wikipedia.org/wiki/Septfontaines_Castle">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Christoph von Criechingen liess um 1600 einen Renaissance-Turm errichten.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-938">
+            <placeName type="main" xml:lang="de">Heldrungen, Burg</placeName>
+            <placeName type="full" xml:lang="de">Heldrungen, Burg / Heldrungen (Thüringen)</placeName>
+            <placeName type="sort" xml:lang="de">heldrungen, burg</placeName>
+            <placeName type="alternative" xml:lang="de">Halderungen</placeName>
+            <location>
+              <settlement xml:lang="de">Heldrungen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">938</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Festung_Heldrungen">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-939">
+            <placeName type="main" xml:lang="de">Schraplau, Burg</placeName>
+            <placeName type="full" xml:lang="de">Schraplau, Burg (Sachsen-Anhalt)</placeName>
+            <placeName type="sort" xml:lang="de">schraplau, burg</placeName>
+            <placeName type="alternative" xml:lang="de">Schraplaw</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">939</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Burg_Schraplau">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-940">
+            <placeName type="main" xml:lang="de">Puttelange-aux-Lacs (Hesenpütlingen)</placeName>
+            <placeName type="full" xml:lang="de">Puttelange-aux-Lacs (Hesenpütlingen) (Grand Est)</placeName>
+            <placeName type="sort" xml:lang="de">puttelange-aux-lacs (hesenpuetlingen)</placeName>
+            <placeName type="alternative" xml:lang="de">Hesen Putlingen</placeName>
+            <placeName type="alternative" xml:lang="de">Puttlingen, Hessen-Puttelange</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">940</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Puttelange-aux-Lacs">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-941">
+            <placeName type="main" xml:lang="de">Trier (Bistum)</placeName>
+            <placeName type="full" xml:lang="de">Trier (Bistum) / Köln</placeName>
+            <placeName type="sort" xml:lang="de">trier (bistum)</placeName>
+            <location>
+              <settlement xml:lang="de">Köln</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">941</idno>
+          </place>
+          <place type="A" xml:id="lub-places-942">
+            <placeName type="main" xml:lang="de">Mont Saint-Jean, Burg</placeName>
+            <placeName type="full" xml:lang="de">Mont Saint-Jean, Burg / Dudelange (Düdelingen)</placeName>
+            <placeName type="sort" xml:lang="de">mont saint-jean, burg</placeName>
+            <placeName type="alternative" xml:lang="de">St. Johansberg</placeName>
+            <placeName type="alternative" xml:lang="de">St. Johanßberg</placeName>
+            <location>
+              <settlement xml:lang="de">Dudelange (Düdelingen)</settlement>
+              <country xml:lang="de">Luxemburg</country>
+              <country xml:lang="en">Luxembourg</country>
+            </location>
+            <idno type="lub-places-id">942</idno>
+            <note type="description" xml:lang="de">
+              <p>Ruine</p>
+            </note>
+          </place>
           <place type="S" xml:id="lub-places-944">
             <placeName type="main" xml:lang="de">Burg, under</placeName>
             <placeName type="full" xml:lang="de">Burg, under / Schellenberg</placeName>
@@ -19861,6 +20137,17 @@
             <note type="description" xml:lang="de">
               <p>Burgruine im Hinderschloss, östlich hinter dem Heraböchel. Nach archäologischen Erkenntnissen handelt es sich um die ältere der beiden Schellenberger Burgen.</p>
             </note>
+          </place>
+          <place type="P" xml:id="lub-places-947">
+            <placeName type="main" xml:lang="de">Koblenz</placeName>
+            <placeName type="full" xml:lang="de">Koblenz (Rheinland-Pfalz)</placeName>
+            <placeName type="sort" xml:lang="de">koblenz</placeName>
+            <placeName type="alternative" xml:lang="de">Cobolentz</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">947</idno>
           </place>
         </listPlace>
       </settingDesc>
@@ -19909,7 +20196,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-03-27T08:50:04+01:00">teiHeader was automatically produced from the database 2026-03-27T08:50:04+01:00</change>
+      <change when="2026-04-07T15:36:37+02:00">teiHeader was automatically produced from the database 2026-04-07T15:36:37+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

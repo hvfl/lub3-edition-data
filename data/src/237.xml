@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-237">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schloss Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-237">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 162v-163r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. November 1589 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute zu Feldkirch, sich über die alten Herkommen, Rechte und Gerechtigkeiten von Gutenberg zu erkundigen und darüber Bericht zu erstatten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-54">Recht</term>
+          <term ref="lub-keywords-21">Privileg</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1589-11-10">10. Nov 1589</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__162v-163r-0001.jpg" xml:id="lub-media-3064" source="1589-11-10-buch-walgau-7-162v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_7_fol__162v-163r-0002.jpg" xml:id="lub-media-3065" source="1589-11-10-buch-walgau-7-163r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName key="">Carl Ludwig graven zu  
+<lb n="2"/>Sulz</persName>. 
+<lb n="3"/>Was der fürstlichen durchlaucht erzherzog <persName key="">Ferdinand zu Össtereich</persName> etc., unnserm gnädigsten herrn,  
+<lb n="4"/>für eintrag unnd newerung an dem schloss unnd vogtey  
+<lb n="5"/><placeName key="">Guettenberg</placeName> durch herrn <persName key="">Carlen Ludwigen graven  
+<lb n="6"/>zu Sulz</persName> anzumassen unnderstannden würdet, das habt ir  
+<lb n="7"/>ab hiebeyverwarten, deß vogts alda, <persName key="">Casparn von Ramb
+
+<lb break="no" n="8"/>schwag</persName> unns derowegen vom achten julii und <date when="1589-09-14">14. septembris 
+<lb n="9"/>jungsthin</date> unns zuegethonen zwayen underschidlichen  
+<lb n="10"/>originalschreiben nach lenngs zuvernemen, innamen  
+<lb n="11"/>hochstgedachter fürstlicher durchlaucht euch darauf bevelchendt,  
+<lb n="12"/>das ir imfahl ir dessen zuvor nit gnuegsambs wissens  
+<lb n="13"/>hettet, euch alles fleiß vorernennter vogtey und schloss  
+<lb n="14"/><placeName key="">Guettenberg</placeName> alten herkhomens, recht und gerechtig
+<lb break="no" n="15"/>khaitten aigentlichen erkhundiget. Und uns desselben 
+<lb n="16"/>volgendts sambt eurm rathsamen guetachten unnd  
+<lb n="17"/>widersenndung deß einschluss unverzogenlichen be
+<lb break="no" n="18"/>richten, auch hierzwischen beruertem vogt auf sein 
+<lb n="19"/>begern beystandt erzaiget, unnd irer fürstlich durchlaucht an  
+<lb n="20"/>dero gerechtsame nichts enndtziechen lasset,  
+<lb n="21"/>sonnder ime, vogt, dieselben handthaben helffet,  
+<lb n="22"/>wolten wir euch etc., datum, den <origDate>10. novembris anno etc. 89</origDate>. 
+<lb n="23"/>An den <orgName key="">vogt und amptleuth  
+<lb n="24"/>zu Veldkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

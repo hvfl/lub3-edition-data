@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-255">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt zwischen den Beamten von Feldkirch und denen der Herrschaft Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-255">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 57r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 11. März 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an die Amtleute von Feldkirch betreffend die Streitigkeiten zwischen den Beamten der Herrschaft Feldkirch und den Oberbeamten der Herrschaft Schellenberg des Grafen Karl Ludwig von Sulz  wegen einem Weiderecht.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-03-11">11. Mär 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__57r-v-0001.jpg" xml:id="lub-media-3112" source="1595-03-11-buch-walgau-8-15-57r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__57r-v-0002.jpg" xml:id="lub-media-3113" source="1595-03-11-buch-walgau-8-16-57v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Spenn zwischen <persName key="">Sulz</persName> und den  
+<lb n="2"/><orgName key="">beambten</orgName> der herrschafft  
+<lb n="3"/><placeName key="">Veldtkirch</placeName>. 
+</p>
+        <p><lb n="4"/>Was ir an unns unnderm dato, den <date when="1595-03-04">4. huius</date> der  
+<lb n="5"/>strittigkhaiten halber sich zwischen euch den  
+<lb n="6"/>beambten der herrschafft <placeName key="">Veldtkirch</placeName>, unnd  
+<lb n="7"/>dann des herrn grafen von <persName key="">Sulz</persName> <orgName key="">Oberambt
+<lb break="no" n="8"/>leüten</orgName> der herrschafft <placeName key="">Schellenberg</placeName> des trib 
+<lb n="9"/>und trats, auch wun und waid willen er
+<lb break="no" n="10"/>haltendt, gelanngen lassen, das haben wir 
+<lb n="11"/>aus ewerm schreiben mit mererm vernomen. 
+</p>
+        <p><lb n="12"/>Dieweil wir dann aus demselben befinden, das  
+<lb n="13"/>sich gedachts herrn grafens von <persName key="">Sulz</persName><orgName key="">Ober
+<lb break="no" n="14"/>ambtleut</orgName> gegen euch in irem schreiben vernemen 
+<lb n="15"/>lassen, sich aigens gwalts in possessione zusezen,   
+<lb n="16"/>dannenhero zubesorgen, sy möchten irem be
+<lb break="no" n="17"/>troen nach sich aller tätlichait gebrauchen. 
+<lb n="18"/>Damit aber dem unrath umb sovil desto zeitlicher  
+
+<lb n="19"/>furkhumen und begegnet werde. So ist dem
+<lb break="no" n="20"/>nach hiemit unnser bevelch an euch, das ir 
+<lb n="21"/>die sachen alßbald und unverzogenlichen mit  
+<lb n="22"/>doctor <persName key="">Gallen Hager</persName>, so wol dem vogt und ambt
+<lb break="no" n="23"/>leuten zu <placeName key="">Bregenz</placeName>, was man diß orts aigen
+<lb break="no" n="24"/>lich befuegt sein möchte, alles fleiß erwegen 
+<lb n="25"/>und in notwenndige beratschlagung ziehet,w or
+<lb break="no" n="26"/>in ainem und dem anndern gegen ermelts grafen 
+<lb n="27"/><orgName key="">Oberambtleüten</orgName> fürzunemen sein möchte. Und  
+<lb n="28"/>unns alßdann desselben hieheer zu unnsern der  
+<lb n="29"/><orgName key="">Regierung</orgName> hannden berichtet, in mitlst aber  
+<lb n="30"/>sollet ir euch auf begebenden notfal, der handt
+<lb break="no" n="31"/>habung gegen dem herrn grafen oder den sein
+<lb break="no" n="32"/>igen mit hilff obgedachts vogts und der be
+<lb break="no" n="33"/>ambten zu <placeName key="">Bregenz</placeName> gebürendermassen ge
+<lb break="no" n="34"/>brauchen. Wolten wir euch nit verhalten 
+<lb n="35"/>und es beschicht etc. Datum, den <origDate>11 tag martii   
+<lb n="36"/>anno etc. 95</origDate>. 
+<lb n="37"/>An <orgName key="">vogt und ambtleut  
+<lb n="38"/>zu Veldtkirch.</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

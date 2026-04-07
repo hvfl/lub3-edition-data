@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-199">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dorothea Katharina Gräfin von Sulz verkauft ihre Güter an Wilhelm III. Grafen von Sayn-Wittgenstein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-199/">CZ-SOAT Cizí statky 632 II 356 4</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 4. Juni 1603 / Beschreibstoff: Papier, 11 Seiten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/632/charter">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Dorothea Katharina Gräfin von Sulz verkauft die Grafschaft Sayn, die Güter Montclair und Meinsberg an Wilhelm III. Grafen von Sayn-Wittgenstein.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+          <term ref="lub-keywords-413">Schenkung</term>
+          <term ref="lub-keywords-503">Velleianum</term>
+          <term ref="lub-keywords-504">Jülische Contract</term>
+          <term ref="lub-keywords-505">trierische kaufverschreibung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1603-06-04">4. Jun 1603</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0001.jpg" xml:id="lub-media-2919" source="1603-06-04-soat-cizistatkytrebon-632-01.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0002.jpg" xml:id="lub-media-2920" source="1603-06-04-soat-cizistatkytrebon-632-02.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0003.jpg" xml:id="lub-media-2921" source="1603-06-04-soat-cizistatkytrebon-632-03.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0004.jpg" xml:id="lub-media-2922" source="1603-06-04-soat-cizistatkytrebon-632-04.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0005.jpg" xml:id="lub-media-2923" source="1603-06-04-soat-cizistatkytrebon-632-05.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0006.jpg" xml:id="lub-media-2924" source="1603-06-04-soat-cizistatkytrebon-632-06.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0007.jpg" xml:id="lub-media-2925" source="1603-06-04-soat-cizistatkytrebon-632-07.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0008.jpg" xml:id="lub-media-2926" source="1603-06-04-soat-cizistatkytrebon-632-08.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0009.jpg" xml:id="lub-media-2927" source="1603-06-04-soat-cizistatkytrebon-632-09.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0010.jpg" xml:id="lub-media-2928" source="1603-06-04-soat-cizistatkytrebon-632-10.jpg" corresp="B"/>
+    <graphic url="cz-soat_ciz-_statky_632_ii_356_4-0011.jpg" xml:id="lub-media-2929" source="1603-06-04-soat-cizistatkytrebon-632-11.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir <persName ref="lub-actors-58">Dorothea Catharina</persName> geborne grävin zue <orgName ref="lub-actors-2633">Seyn</orgName> etc., grävine  
+<lb n="2"/>und fraw zue <orgName ref="lub-actors-7">Sultz</orgName>, landtgrävin in <placeName ref="lub-places-18">Cleggew</placeName>, fraw zue <placeName ref="lub-places-7">Vadutz</placeName>,  
+<lb n="3"/><placeName ref="lub-places-117">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegk</placeName>, thuen kundt und bekhennen hiemit  
+<lb n="4"/>für unß und alle unsere erben und nachkhomen offentlich, als  
+<lb n="5"/>der wollgeborn herr <persName ref="lub-actors-153">Heinrich grave zue Seyn</persName>, herr zue <placeName ref="lub-places-932">Homburg</placeName>,  
+<lb n="6"/><placeName ref="lub-places-66">Monckhlär</placeName> und <placeName ref="lub-places-67">Mentzburg</placeName> etc., unser fründtlicher lieber vetter und  
+<lb n="7"/>herr vatter, unß und unsern erben vermöge einer undterm dato  
+<lb n="8"/><placeName ref="lub-places-933">Diettenhoven</placeName>, den <date when="1602-06-27">syben und zweinzigsten junii des jungst ab
+<lb break="no" n="9"/>gelauffnen aintausent sechshundert und zweiten jars</date>, erstlich 
+<lb n="10"/>auffs papeir gebrachten und mit seiner liebdten handt und sigel be
+<lb break="no" n="11"/>crefftigten, folgendts aber durch zwey notarien verinstrumentir
+<lb break="no" n="12"/>ten donation under den lebendigen, zue latin inter vivos genandt, 
+<lb n="13"/>alle und jede seiner liebdten graf- und herrschafften, sowoll lehen als  
+<lb n="14"/>allodial erb und eygenthumb sampt allen und jeden derselben  
+<lb n="15"/>grossen und geringen zuegehörigen stuckhen und pertinentzien, wie  
+<lb n="16"/>die sein oder namen haben mögen, auch ohn was ohrt oder endt  
+<lb n="17"/>dieselbe gelegen und seiner liebdten von ihren und unsern in gott seelig
+<lb break="no" n="18"/>lich ruhenden geliebten voreltern ererbt, oder sonsten an sich ge
+<lb break="no" n="19"/>bracht haben, auß freyem willen und rechter wissenheit  
+<lb n="20"/>lautterlich und purlich, und also auß vätterlicher affection  
+<lb n="21"/>und zueneigung, jedoch mit allen und jeden darauff  
+<lb n="22"/>stehenden, verbriefften oder unverbriefften, rechtmessigen schulden  
+<lb n="23"/>und verhafften beschwerungen, eine freye und unwiderieffliche  
+<lb n="24"/>gifft, wie solches under den lebendigen in bester und bestendigster  
+<lb n="25"/>form rechtens und nach gebrauch eines jeden chur und fürsten
+<lb break="no" n="26"/>thumbs, darin dieselbigen gelegen, hergebrachter gewonheit 
+<lb n="27"/>geschehen soll, kan oder mag, alles nach inhalt darüber verfert
+<lb break="no" n="28"/>igten publici instrumenti, so sich anfengt: In gottes nahmen 
+<lb n="29"/>amen etc., und den datum steht, <placeName ref="lub-places-933">Diedenhofen</placeName>, den <date when="1602-06-27">syben und  
+<lb n="30"/>zweinzigsten junii anno tausent sechshundert und zwey</date>  
+
+<lb n="31"/>wie obgemelt, und so woll von zwen notarien mit derselben  
+<lb n="32"/>notariatzeichen, als auch und zueforderst von seiner liebdten abermahls  
+<lb n="33"/>und unß wie gleichfahls andern darzue reguirirten und erbetnen  
+<lb n="34"/>zeugen mit aignen handen underschriben ist und noch hieruber  
+<lb n="35"/>mitgetheilten anweisungsbrieffes, des anfang steht: Wir  
+<lb n="36"/><persName ref="lub-actors-153">Heinrich grave zue Seyn</persName>, herr zue <placeName ref="lub-places-932">Homburgk</placeName>, <placeName ref="lub-places-66">Moncklär</placeName> und  
+<lb n="37"/><placeName ref="lub-places-67">Mentzburgk</placeName> etc., und sich endt geschehen zue Diedenhofen, den syben  
+<lb n="38"/>und zweintzigsten junii im jar ainthausent sechshundert und  
+<lb n="39"/>zwey stylo novo, darin seine liebdten nicht allein obgedachte dero frey
+<lb break="no" n="40"/>willige donation repetirt und widerhollet, sonder auch die wollge
+<lb break="no" n="41"/>bornen graven und herren, herren <persName ref="lub-actors-2617">Emichen graven und herren 
+<lb n="42"/>zue Leinungen und Dachsburg</persName>, herrn zue <placeName ref="lub-places-817">Appermont</placeName> etc.,  
+<lb n="43"/>graven <persName ref="lub-actors-2618">Emichen von Daun, graven zue Falckhenstein</persName>, <placeName ref="lub-places-935">Oberstein</placeName>  
+<lb n="44"/>und <placeName ref="lub-places-936">Brugk</placeName>, und <persName ref="lub-actors-2619">Christoffen freyherrn zue Criechingen</persName> und zue  
+<lb n="45"/><placeName ref="lub-places-812">Pittingen</placeName> etc., herren zue <placeName ref="lub-places-937">Sybenborn</placeName>, unser fründtliche liebe  
+<lb n="46"/>vettern und respective schwäger constituirt und gefolmechtigt,  
+<lb n="47"/>uns seiner liebdten nahmen und von derselben wegen in obberuerter  
+<lb n="48"/>aller und jeder seiner liebdten graff- und herschafften frey eigen
+<lb break="no" n="49"/>thumb als ererbte lehen und acguirirter gueter, schlösser, 
+<lb n="50"/>heuser, fleckhen und dörffer, sampt allem anhang und zue
+<lb break="no" n="51"/>gehör, nichts außgescheiden noch vorbehalten, sie sein gelegen  
+<lb n="52"/>wo sie wöllen, in ewigen und wirckhlichen besitz und possession  
+<lb n="53"/>und niessung zue immitiren, zue grund und erb hatt geschänkht,  
+<lb n="54"/>übergeben und zuegestelt, wie auch dieselbige von seiner liebdten zue  
+<lb n="55"/>fründtlichem danckh haben angenomen. Und aber solche  
+<lb n="56"/>graff- und herschafften sampt derselben landt und leuthen,  
+<lb n="57"/>auch zuegehör, unß mit allem entlegen, sondern wir unß  
+<lb n="58"/>auch darbey erinnert, das gleichwoll die auch woll
+<lb break="no" n="59"/>geborne <persName ref="lub-actors-2620">Anna Elysabeth grävin und fraw zue Wittgensteyn</persName>, 
+<lb n="60"/>geborne grävin zue <orgName ref="lub-actors-2633">Seyn</orgName>, unser fründtliche liebe baß, zue  
+<lb n="61"/>solchen graff- und herrschafften und sonderlich derselben  
+
+<lb n="62"/>erblehen und allodial guettern mit berechtigt. Derhalben  
+<lb n="63"/>dan in ansehung der nahen verwandtnus und bluetfründtschafft,  
+<lb n="64"/>auch zue erhaltung gueter frundtschafft, ire liebdten und dero  
+<lb n="65"/>erben davon umb so vill daweninger haben begert zue  
+<lb n="66"/>excludieren oder außzueschliessen, das wir dennoch auff  
+<lb n="67"/>heutt dato zue endt benant durch frundtliche und guetliche  
+<lb n="68"/>underhandlung des auch wollgebornen herren <persName ref="lub-actors-2621">Ernsten  
+<lb n="69"/>grafen und herren zue Manßfeldt</persName>, edlen herren zue <placeName ref="lub-places-938">Haldrungen</placeName>  
+<lb n="70"/>und <placeName ref="lub-places-939">Schraplaw</placeName>, herren der grafschafft <placeName ref="lub-places-940">Hesen Putlingen</placeName>, unsers  
+<lb n="71"/>frundtlichen lieben vetters, wie auch des wollgebornen  
+<lb n="72"/>unsers frundtlichen lieben herren vettern <persName ref="lub-actors-2499">Petter Ernsten  
+<lb n="73"/>freyherren zue Criechingen</persName> und <placeName ref="lub-places-812">Pittingen</placeName> etc. abgeordnete  
+<lb n="74"/><persName ref="lub-actors-2626">Johann Heinrich Schwebels</persName>, der rechten doctorn und  
+<lb n="75"/>fürstlicher pfaltzgräffischer zweybrückischer raths, so dan  
+<lb n="76"/>unsers frundtlichen lieben vetters, graven <persName ref="lub-actors-2617">Emichen  
+<lb n="77"/>zue Leuningen</persName> etc. raths, und unß zue geordneten beystandts  
+<lb n="78"/><persName ref="lub-actors-2628">Johann Roden</persName>, dem auch wollgebornen <persName ref="lub-actors-154">Willhelmen von Seyn  
+<lb n="79"/>graven zue Wittgenstein</persName>, herren zue <placeName ref="lub-places-932">Homburg</placeName>  
+<lb n="80"/>etc., unserm frundlichen lieben vettern, in beysein und gegen
+<lb break="no" n="81"/>werth seiner liebdten brueders, des auch wollgebornen <persName ref="lub-actors-2627">Ludwigs 
+<lb n="82"/>von Seyn</persName>, des jungern graven zue Wittgenstein, herren  
+<lb n="83"/>zue <placeName ref="lub-places-932">Homburgkh</placeName> etc., unsers frundtlichen lieben vetters, nicht  
+<lb n="84"/>allein unsere jura und actiones, und in sunderheit unser  
+<lb n="85"/>vierzehen tausent gulden verschribnen heurathguets, so wir  
+<lb n="86"/>als eine geborne und grävin zue <orgName ref="lub-actors-2633">Seyn</orgName> etc., an derselben  
+<lb n="87"/>graffschafft nach zue suchen und zue fordern gehabt,  
+<lb n="88"/>sondern auch was wollgedachter unser herr vatter und vetter,  
+<lb n="89"/>graff <persName ref="lub-actors-153">Heinrich zue Seyn</persName> etc., unß nach hieruber an landt  
+<lb n="90"/>und leuthen, erblehen und allodial guetern, nichts auß
+<lb break="no" n="91"/>gescheiden, erblich geschenckht und zuegestelt frey williglich, 
+<lb n="92"/>und wie solches in der besten form rechtens, auch nach  
+
+<lb n="93"/>gewonheit am krefftigisten und bestendigisten sein, auch  
+<lb n="94"/>geschehen kan, soll oder mag (doch ausserhalb der beiden her
+<lb break="no" n="95"/>schafften <placeName ref="lub-places-66">Muncklär</placeName> und <placeName ref="lub-places-67">Mentzberg</placeName>, die wir unß außtrucklich 
+<lb n="96"/>hiemit außbehalten und in disem vertrag nit gezogen  
+<lb n="97"/>haben wellen, sondern unß und unsern erben erblich ver
+<lb break="no" n="98"/>bleiben sollen) cedirt, verkaufft, ubergeben und zuegestelt 
+<lb n="99"/>haben. Thuen auch daßelb hiemit und in krafft dises briefs  
+<lb n="100"/>wissentlich und offentlich, also auch und dergestalt, das wolbe
+<lb break="no" n="101"/>melter unser vetter graff <persName ref="lub-actors-154">Wilhelm zue Wittgenstein</persName> etc., 
+<lb n="102"/>obgedachte grafschafft <placeName ref="lub-places-65">Seyn</placeName> sampt allen darzue gehörigen  
+<lb n="103"/>landen und leuthen, man- und erblehen, auch allodial gueter  
+<lb n="104"/>(doch das sie dieselbigen, da sie wellen cum beneficio inven
+<lb break="no" n="105"/>tarii mögen annehmen) und hergegen aller und jeder 
+<lb n="106"/>creditorn darauff stehenden forderungen, schulden und andern  
+<lb n="107"/>beschwerungen den nehisten tag, auch mit unserm threulichen  
+<lb n="108"/>zuethuen, oder darzue von unß seiner liebdten zuegeordneten und  
+<lb n="109"/>constituirten anwelden und gewalthabern mag einnehmen,   
+<lb n="110"/>und sich von den underthonen derselben graff- und herschafften  
+<lb n="111"/>huldigen lassen, und dieselbigen hinfüro zue seinem nutz  
+<lb n="112"/>und gefallen gebrauchen und regieren, ohne allen unser  
+<lb n="113"/>und unserer erben und nachkhomen eintrag und ver
+<lb break="no" n="114"/>hinderungen. Inmassen wier unß auch derselben hiemit 
+<lb n="115"/>wöllen entsetzt und seiner liebdten und dero erben darin jure  
+<lb n="116"/>constituti immitirt und gesetzt, wie auch aller andern forderungen,  
+<lb n="117"/>so wir als eine unverzigne tochter zue der grafschafft <placeName ref="lub-places-65">Seyn</placeName>  
+<lb n="118"/>und sonsten biß daher gehabt, gentzlich begeben und auff  
+<lb n="119"/>dieselbigen in krafft dises briefs nach der aller besten und  
+<lb n="120"/>bestendigsten form, wie es in allen rechten, geistlichen und  
+<lb n="121"/>weltlichen, auch allen landtsitten, gewonheiten und übungen   
+<lb n="122"/>krafft und macht hatt, renuncirt und verzigen haben. 
+<lb n="123"/>Thuen auch solches, hiemit und also, das wir nun forthin  
+
+<lb n="124"/>zue ewigen tagen darzue kein fernern zuesprach oder  
+<lb n="125"/>forderung in einigerley weiße oder wege, weder selbsten  
+<lb n="126"/>noch durch jemandts anderst von unsertwegen wellen  
+<lb n="127"/>suechen oder thuen lassen, in massen wir unß auch hiemit  
+<lb n="128"/>aller einreden und sonderlichen des rechten <term ref="lub-keywords-503">Velleiani</term>  
+<lb n="129"/>oder restitution etiam ex quacunque causa suplicationem, auß  
+<lb n="130"/>zeugen, schein und behelff der gemeinen rechten, sonderlich aber  
+<lb n="131"/>des, das gemeiner verzig nicht binden soll, es gehen dan  
+<lb n="132"/>ein sonderbare zuvor, ittem der laesion ultra dimidum iusti  
+<lb n="133"/>pretii und in summa aller andern beneficien, freyheiten und  
+<lb n="134"/>gnaden, so dem weiblichen geschlecht zue gueten komen und  
+<lb n="135"/>verstanden, auch unser person und ander ursachen halben, auß  
+<lb n="136"/>gemeinen oder sonderbaren rechten oder gewonheiten hier
+<lb break="no" n="137"/>wider mochten firgewendet werden, deren allen wür von un
+<lb break="no" n="138"/>seren beistenden nach notturfft verrichtet unnd erindert 
+<lb n="139"/>worden, wissentlich unnd mit gegebener hanndttrewe an aydeß  
+<lb n="140"/>statt begeben haben. Neben dem, daß wür auch unsern  
+<lb n="141"/>vettern, graf <persName ref="lub-actors-154">Wilhelmen zue Witgenstain</persName>, jetz alßbaldt  
+<lb n="142"/>unnsers vetters unnd herren vatters, graf <persName ref="lub-actors-153">Hein
+<lb break="no" n="143"/>rich zue Sayn</persName> etc. donation brief, under seiner liebdten handt 
+<lb n="144"/>unnd insiegell in originali item vidimirte copias  
+<lb n="145"/>von dem <term ref="lub-keywords-504">Gülgischen Contract</term> von wegen der herrschafft  
+<lb n="146"/><placeName ref="lub-places-932">Homburg</placeName>, unnd den kaufbrieff uber den <placeName ref="lub-places-183">Bonischen</placeName> zehenden  
+<lb n="147"/>unnd güethern, hin unnd wider in der grafschafft <placeName ref="lub-places-65">Sayn</placeName>  
+<lb n="148"/>gelegen, wie auch in dem publico instrumento vorgedachter  
+<lb n="149"/>donation und obgedachts anweisungsbriefs, auch der trie
+<lb break="no" n="150"/>rischen kaufverschreibungen uber die herrschafft <placeName ref="lub-places-929">Freyß
+<lb break="no" n="151"/>berg</placeName> unnd den halben grundt <placeName ref="lub-places-930">Sehlbach</placeName> haben ubergeben 
+<lb n="152"/>und mitgetheilt, auch uhrbietig unnd willig sein, wann  
+<lb n="153"/>diser contract von seiner liebdten volnzogen, derselben volgendts  
+<lb n="154"/>jetzgemelte stukh sampt allen annderen documenten und brief
+<lb break="no" n="155"/>lichen uhrkhunden, so zue disem contract gehörig, wür hinder unß 
+
+<lb n="156"/>haben in originali et bona fide herauß zuegeben unnd zuezestellen,  
+<lb n="157"/>auch treulich unnd vleissig zue der restitution, der von graf  
+<lb n="158"/>Heinrichen unbefiegter weiß alienierten güethere, unnd sonder
+<lb break="no" n="159"/>lich bei dem herzogen zue <placeName ref="lub-places-931">Gülch</placeName> unnd churfürsten zue <placeName ref="lub-places-941">Trier</placeName> 
+<lb n="160"/>zuverhelffen, fir welche cession unnd ubergab, wolermelter  
+<lb n="161"/>unnser vetter graf <persName ref="lub-actors-154">Wilhelm zue Witgenstein</persName> etc. für sich unnd  
+<lb n="162"/>seiner liebdten erben, unnß hat versprochen unnd zuegesagt, erstlich seiner liebdten  
+<lb n="163"/>unnd derselben herren vetters, unser auch freundtlichen lieben  
+<lb n="164"/>vetters grafen <persName ref="lub-actors-2640">Ludwigs zue Witgenstein deß elteren</persName> antheil  
+<lb n="165"/>an der herrschafft <placeName ref="lub-places-942">St. Johansberg</placeName>, in dem lanndt zue <placeName ref="lub-places-296">Luzenburkg</placeName>  
+<lb n="166"/>gelegen, wie auch die nassauische unnd zollerische theil an derselben  
+<lb n="167"/>herrschafft sampt allen derselben zuegehör, hoch-, obrig- unnd  
+<lb n="168"/>anderen gerechtigkheiten, an sich zuebringen unnd unß sampt allen  
+<lb n="169"/>berierte herrschaft besagenden documenten, rechnungen, registern  
+<lb n="170"/>unnd anderen dergleichen darzue gehorigen schrifften, solutum  
+<lb n="171"/>oder an bezahlung zegeben unnd zueliferen, oder, so unnß die  
+<lb n="172"/>herrschafft nit ahnemblich, darfür finftzig taußendt guldin,  
+<lb n="173"/>jeden zue siben unnd zweinzig albos gerechnet, frankhforter weh
+<lb break="no" n="174"/>rung auf zeit unnd zeil, alß man sich dero auf solchen fahl ver
+<lb break="no" n="175"/>gleichen wüerdet, zegeben und zemachen unnd darnach auf die 
+<lb n="176"/>zweinzig taußendt floren, so unnsere vettern die grafen  
+<lb n="177"/>zue Witgenstein etc. bei einem erbaren rath zue <placeName ref="lub-places-695">Straßburg</placeName> stehn  
+<lb n="178"/>haben, zuverweißen, wie auch uns darüber gedachter statt  
+<lb n="179"/><placeName ref="lub-places-695">Straßbuerg</placeName> gegebner obligation unnd kaufverschreibung zue
+<lb break="no" n="180"/>zestellen unnd dann vors dritte, unß auf disen kauf unnd 
+<lb n="181"/>vertrag, bald bahr, zweitaußendt floren zuerlegen unnd ein
+<lb break="no" n="182"/>taußendt der gebür zu versicheren, tuet also die gantze 
+<lb n="183"/>kauffsumma drey unnd siebenzig taußenndt floren, oder die  
+<lb n="184"/>herrschafft <placeName ref="lub-places-942">St. Johanßberg</placeName> unnd drey unnd zweinzig taußendt  
+<lb n="185"/>floren, alleß vorgedachter wehrung, welche wenn sie unnß  
+<lb n="186"/>obgedachter maßen von unserem vettern graf <persName ref="lub-actors-154">Wilhelmen  
+<lb n="187"/>zue Witgenstein</persName> werden guet gemacht wür uhrbietig, wie auch  
+
+<lb n="188"/>ohne daß schuldig sein wellen, seiner liebdten darüber der gebür dariber  
+<lb n="189"/>inquitieren leedig unnd loß zezahlen, wie auch seiner liebdten darneben  
+<lb n="190"/><gap/>erlichs vetter unnd herren vatter, grafen <persName ref="lub-actors-153">Heinrichen zue  
+<lb n="191"/>Sayn</persName>, die acht tausendt guldin, so wür derselben zue deren  
+<lb n="192"/>notturftigen unnderhalt zuebezahlen verschriben unnd ver
+<lb break="no" n="193"/>sprochen haben sollen, erlegen unnd guet machen, unnd gleichfalß 
+<lb n="194"/>dero gemahlin gebürlich erhalten. Welchem allem dann wür,   
+<lb n="195"/><persName ref="lub-actors-154">Wilhelm</persName> unnd <persName ref="lub-actors-2627">Ludwig von Sayn</persName>, grafen zue <orgName ref="lub-actors-2633">Witgenstein</orgName>, herren  
+<lb n="196"/>zue <placeName ref="lub-places-932">Homburg</placeName> etc., gebrüedere, also getreulich nachzekhomben, unnß  
+<lb n="197"/>bei unnseren gräflichen treuen unnd eheren gegen wolgedachte  
+<lb n="198"/>unsere freundtliche liebe baße von <persName ref="lub-actors-58">Sulz</persName> hiemit ebenmeßiger gestalt  
+<lb n="199"/>verschriben unnd verpflichtet, sodann unnserstheils deßjenigen  
+<lb n="200"/>halben, waß wür unnser lieben baasen, der <persName ref="lub-actors-58">gravin zue Sultz</persName>,  
+<lb n="201"/>vermög diser vergleichung hingegen zuubergeben versprochen,   
+<lb n="202"/>erbare unnd rechtliche wehrschafft zuetragen unnd zue dem endt  
+<lb n="203"/>alleß daßjenig, waß wür voe jer liebdten crafft dises vertrags  
+<lb n="204"/>zuempfangen, zue einer special hypothec, unnd alle andere unsere  
+<lb n="205"/>haab unnd güether, so vil hierzue vonnethen, zue einem general  
+<lb n="206"/>unnderpfanndt pro evictione hiemit eingesetzt haben wellen. 
+<lb n="207"/>Damit aber jetzo wolgedachter unnser vetter zue Witgenstein  
+<lb n="208"/>unnd seiner liebdten erben bei sollichem verkauf unnd vergleichung  
+<lb n="209"/>desto bestenndiger bleiben, auch dessen umb so vil damehr versichert  
+<lb n="210"/>sein mögen, wellen wür frau <persName ref="lub-actors-58">Dorothea Catharina</persName> obgenandt  
+<lb n="211"/>unnß vernerß hiemit verpflichten unnd versprechen, seiner liebdten  
+<lb n="212"/>alß solcher cession unnd darin ubergebener unnd verkauffter  
+<lb n="213"/>lanndt unnd leuthen, auch güether unnd aller anderer forderung  
+<lb n="214"/>halben, gegen unnd wider wolgedachten unnsern vettern unnd  
+<lb n="215"/>herren vattern, grafen <persName ref="lub-actors-153">Heinrichen zue Sayn</persName>, auf den fahl  
+<lb n="216"/>seiner liebdten obgedachte dero unnß beschehene donation uber zuver
+<lb break="no" n="217"/>sicht hiernechst disputieren und zue recht evincirn wuerde, in 
+<lb n="218"/>unnd ausserhalb rechtens der gebür zuvertretten unnd sie  
+
+<lb n="219"/>also dises unnsers mit jeren liebdten getroffen contracts aller
+<lb break="no" n="220"/>dings gegen sein, grave <persName ref="lub-actors-153">Heinrichs</persName> liebdten oder auch andere, so seinet
+<lb break="no" n="221"/>wegen sich der sachen ahnnemben wüerden, zuegewehren unnd schad
+<lb break="no" n="222"/>loß zue halten, ja bei dem wolgebornen unserem freundtlichen 
+<lb n="223"/>lieben herren unnd ehegemahell, herren <persName ref="lub-actors-13">Carl Ludwigen grafen  
+<lb n="224"/>zue Sultz</persName>, lanndtgrafen im <placeName ref="lub-places-18">Cleggeu</placeName>, deß <orgName ref="lub-actors-516"><orgName ref="lub-actors-516">Heyligen Römischen Reychs</orgName></orgName>  
+<lb n="225"/>erbhofrichter zue <placeName ref="lub-places-17">Rothweil</placeName>, herren zue <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd  
+<lb n="226"/><placeName ref="lub-places-12">Pluemenekh</placeName>, der römisch keyserlichen mayestät reychshofrath unnd obri
+<lb break="no" n="227"/>stem feldtmarschalkhen unnd anderen unseren herren unnd 
+<lb n="228"/>freunden am kaiserlichen hof zue <placeName ref="lub-places-25">Praag</placeName>, die freundtliche  
+<lb n="229"/>verfüegung zethun, daß sich auch auf den nothfahl die römisch  
+<lb n="230"/>keyserliche mayestät unnser allergenedigister herr, diser sachen  
+<lb n="231"/>allergenedigist ahnnemben unnd unß unnd unsern vettern  
+<lb n="232"/>zue <orgName ref="lub-actors-2633">Witgenstein</orgName> dabei mögen schützen unnd hanndthaben, im  
+<lb n="233"/>fahl aber, solches alleß nicht helffen wierdet, kenndte oder  
+<lb n="234"/>möchte, sonder die donation, durch graf <persName ref="lub-actors-153">Heinrich</persName> oder  
+<lb n="235"/>jemandts anderen von seiner liebdten mit recht umbgestossen  
+<lb n="236"/>werden solte, soll diser contract unnd vergleichung von  
+<lb n="237"/>unwüerden unnd uncrefftig, ja todt unnd ab, unnd  
+<lb n="238"/>wür unnd unnsere erben, auf solchen gleichwol unverhofften  
+<lb n="239"/>fahl schuldig sein, wolgedachten unnsern vettern zue <orgName ref="lub-actors-2633">Witgenstein</orgName>   
+<lb n="240"/>die herrschafft <placeName ref="lub-places-942">St. Johanßberg</placeName>, sampt den drey unnd zweintzig  
+<lb n="241"/>taußendt guldin wider herauß zegeben, unnd darfür so lanng  
+<lb n="242"/>ihrer liebdten dieselbige herrschafft <placeName ref="lub-places-942">St. Johanßberg</placeName> sampt den drey  
+<lb n="243"/>unnd zweintzig taußendt guldin wider herauß zegeben  
+<lb n="244"/>unnd darfür so lanng ihrer liebdten dieselbige herrschafft, oder  
+<lb n="245"/>waß unnß darfir uf den fahl, sie unnß nit ahnemblich  
+<lb n="246"/>sein wurde (darauf wür unnß dann, nach eingenombener  
+<lb n="247"/>nottuerftigen bericht unnd ersehung derselben herrschafft  
+<lb n="248"/>registern in jarßfrüst zuerclähren, hiemit wellen verpflicht  
+
+<lb n="249"/>unnd verbunden haaben) hiernechst wüerdt verschrieben werden  
+<lb n="250"/>sampt der <placeName ref="lub-places-695">Straßburg</placeName> verschreibung uber obbemelt zweinzig  
+<lb n="251"/>taußendt guldin unnd allen unnd jeden unnsern beweglichen  
+<lb n="252"/>unnd unbeweglichen güethern, liegenden unnd fahrenden, nichtzit  
+<lb n="253"/>außgescheiden, zue einem gewissen unnderpfanndt, tam specialiter  
+<lb n="254"/>quam generaliter, in der bössten form rechtenss hiemit wellen  
+<lb n="255"/>verobligiert unnd verunderpfendet haben, auch so lang biß unser  
+<lb n="256"/>vetter unnd her vatter, graf <persName ref="lub-actors-153">Heinrich zue Sayn</persName>, mit  
+<lb n="257"/>todt abgehn, oder bei seinem leeben disen vertrag oder ver
+<lb break="no" n="258"/>gleichung nit ratificieren wüerdt, dieselbige nit vereußeren 
+<lb n="259"/>noch beschweren noch anderß wohin verschreiben oder ver
+<lb break="no" n="260"/>underpfenden, alleß getreulich unnd sonders geferde. 
+</p>
+        <p><lb n="261"/>Zue uhrkhundt haben wür, <persName ref="lub-actors-58">Dorothea Catharina gravin unnd  
+<lb n="262"/>frauen zue Sultz</persName>, geborne grävin zue <orgName ref="lub-actors-2633">Sein</orgName> etc., unnd wür,  
+<lb n="263"/><persName ref="lub-actors-154">Wilhelm von Sayn, grave zue Witgenstein</persName>, disen kaufbrief  
+<lb n="264"/>nit allein mit aügenen hannden unnd unsere hierunden an
+<lb break="no" n="265"/>hangende insiegell, unnd ring pitschafften becrefftigt, sondern 
+<lb n="266"/>auch obwol unnd erngedachte herren underhendler unnd  
+<lb n="267"/>wolermelter grave zue <persName ref="lub-actors-154">Witgenstein</persName> der jünger mit under
+<lb break="no" n="268"/>schriben unnd versieglen helffen. So geschehen zue <placeName ref="lub-places-947">Cobolentz</placeName>, 
+<lb n="269"/>den <date when="1603-07-04">vierten tag julii im jhar nach Christi unnserß einigen  
+<lb n="270"/>erleserß unnd seeligmacherß geburt eintaußendt sehshundert  
+<lb n="271"/>unnd drey</date>. 
+<lb n="272"/>Also underschriebne  
+<lb n="273"/>recto 
+
+<lb n="274"/><persName ref="lub-actors-58">Dorothea Catharina gravin zue Sulz  
+<lb n="275"/>geborne gravin zue Sayn</persName> 
+</p>
+        <p><lb n="276"/><persName ref="lub-actors-154">Wilhelm von Sayn, graf zue Wit
+<lb break="no" n="277"/>genstein</persName> manu propria
+</p>
+        <p><lb n="278"/><persName ref="lub-actors-2621">Ernst graf zue Manssfeldt</persName> manu propria 
+</p>
+        <p>
+          <lb n="279"/>
+          <persName ref="lub-actors-2627">Ludwig von Sayn graf zue Witgenstein  
+<lb n="280"/>der jünger</persName>
+        </p>
+        <p><lb n="281"/><persName ref="lub-actors-2626">Johann Heinrich Schwebell</persName> doctor,  
+<lb n="282"/>pfaltzgrafischer zweybrückischer  
+<lb n="283"/>rath unnd her <persName ref="lub-actors-2499">Peter Ernst  
+<lb n="284"/>von Criechingen</persName> wegen abgeordnet manu propria 
+</p>
+        <p><lb n="285"/><persName ref="lub-actors-2628">Johann Rodt</persName> gräflicher leinigischer  
+<lb n="286"/>rath unnd graf <persName ref="lub-actors-2617">Emichs  
+<lb n="287"/>von Leiningen</persName> abgeordneter manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-2929" n="1"/><lb n="1"/>Vertrag  
+<lb n="2"/>zwüschen meiner  
+<lb n="3"/>gnedigen frauwen 
+<lb n="4"/>seliger gedechtnus  
+<lb n="5"/>und  
+<lb n="6"/>herrn graven zue  
+<lb n="7"/>Wittgenstain 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-256">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Feldkirch entsendet im Konflikt mit den Grafen von Sulz Juristen auf den Reichstag in Regensburg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-256">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 44r-45r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 7. Mai 1594 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute von Feldkirch und Dr. Johann Hilleson, Verwalter der Landvogtei Schwaben, statt Dr. Gall Hagers, der zum Reichstag nach Regensburg beordert worden war, zu fungieren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-60">Reichstag</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1594-05-07">7. Mai 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__44r-45r-0001.jpg" xml:id="lub-media-3101" source="1594-05-07-buch-walgau-8-09-44r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__44r-45r-0002.jpg" xml:id="lub-media-3102" source="1594-05-07-buch-walgau-8-10-44v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+</p>
+        <p><lb n="2"/>Wir haben ewer schreiben vom <date when="1594-05-02">2. diß</date> sambt doctor 
+<lb n="3"/><persName key="">Gallen Hagers</persName> euch zuegethanem missif, die  
+<lb n="4"/>strittigen sachen wegen herrn <persName key="">Carlen Ludwigen  
+<lb n="5"/>grafen zu Sulz</persName> und beratschlagung derselben etc. 
+<lb n="6"/>antreffendt, empfanngen und vernomen. Die
+<lb break="no" n="7"/>weil dann solhe beratschlagung unztheer nit 
+<lb n="8"/>beschehen, und ermelter doctor <persName key="">Hager</persName> an yezt  
+<lb n="9"/>durch die fürstlich durchleucht etc., unnßern gnedigisten herrn,   
+
+<lb n="10"/>nach <placeName key="">Regenspurg</placeName> auf den <term key="">Reichstag</term> zuverraisen  
+<lb n="11"/>abgeordnet worden, will vonnötten sein, yem
+<lb break="no" n="12"/>and anndern an sein stat darzue zuziehen. Haben dar
+<lb break="no" n="13"/>umben auf irer fürstlich durchlaucht rat, doctor <persName key="">Johann Hille
+<lb break="no" n="14"/>son</persName>, verwalter der <placeName key="">Lanndtvogtey Schwaben</placeName>, ge
+<lb break="no" n="15"/>dacht und ime gleich hieneben auch durch be
+<lb break="no" n="16"/>velch auferlegt, sich zu beratschlagung ange
+<lb break="no" n="17"/>regter sachen aines tags ehist mit euch zuver
+<lb break="no" n="18"/>gleichen und geen <placeName key="">Veldkirch</placeName> zuerscheinen, in
+<lb break="no" n="19"/>massen ir aus eingeschloßner copi zusehen. Ist 
+<lb n="20"/>demnach in hochgedachter fürstlicher durchlaucht namen hie
+<lb break="no" n="21"/>mit unnßer bevelch, das ir die zusamenkompft, 
+<lb n="22"/>zu welcher ir dann (wie wir euch zuvor auf
+<lb break="no" n="23"/>erlegt haben) den vogt zu <placeName key="">Guettenberg</placeName>, auch 
+<lb n="24"/>vogt und ambtleut zu <placeName key="">Bregenz</placeName> beschreiben  
+<lb n="25"/>sollet, aufs ehist so nuzlich anstellet. Und alß
+<lb break="no" n="26"/>dann dasjhenig, wie und wasmassen es rätlich 
+<lb n="27"/>und thuenlich zesein befunden wirdet, dasselbig  
+<lb n="28"/>hinnach (innhalt unnßerer hievor vilmals  
+<lb n="29"/>an euch abganngner bevelchen) aufs beldist  
+<lb n="30"/>ins werckh richtet und volziehet, unnd unns  
+<lb n="31"/>alßdann aller sache fürderlich verstenndiget.  
+<lb n="32"/>Darzwischen aber euch der hanndthabung gegen  
+<lb n="33"/>obberüertem herrn grafen oder seinen unnder
+<lb break="no" n="34"/>thonen zugebrauchen wissen, wie wir euch 
+<lb n="35"/>jüngstlich, am ersten verschines monats april,   
+<lb n="36"/>auferlegt haben. Wolten wir euch mit wider
+<lb break="no" n="37"/>einschliessung vorbesagts doctor <persName key="">Hagers</persName> schreiben 
+<lb n="38"/>zu antwurdt nit verhalten. Und es beschicht  
+<lb n="39"/>an dem etc. Datum, den <origDate>7 tag may anno etc. 94</origDate>. 
+<lb n="40"/>An <orgName key="">vogt und ambteut  
+<lb n="41"/>zu Veldkirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-259">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bescheid an Kaspar von Ramschwag wegen dem Grafen Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-259">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 61v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 8. Juli 1595 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Kaspar von Ramschwag betreffend die Anweisungen, die man den Amtleuten gegeben hatte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-07-08">8. Jul 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__61v-0001.jpg" xml:id="lub-media-3120" source="1595-07-08-buch-walgau-8-19-61v-kopie.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName key="">Rambschwag</persName> contra <persName key="">Sulz</persName>. 
+<lb n="2"/>Wir haben unns vom <date when="1595-06-28">28. negstverschines monats  
+<lb n="3"/>junii</date> zuegethan schreiben betreffendt die strittig
+<lb break="no" n="4"/>khaiten, so sich zwischen euch und herrn <persName key="">Carln Ludwigen 
+<lb n="5"/>grafen zu Sulz</persName> erhaltendt etc. empfanngen, füegen  
+<lb n="6"/>euch hierauf zuvernemen, das wir auf ewer  
+<lb n="7"/>unns derowegen, auch vom <date when="1595-05-06">6. maii jüngsthin</date>,   
+<lb n="8"/>ubersenndtes schreiben dem <orgName key="">vogt und ambtleuten  
+<lb n="9"/>zu Veldtkhirch</orgName>, den <date when="1595-05-23">23. desselben</date>, auferlegt,  
+<lb n="10"/>da ermelter herr graf oder die seinigen sich  
+<lb n="11"/>ainicher weitern thätlichait gebrauchen wurden,  
+<lb n="12"/>das sy alßdann auf begebenden notfaal hievor  
+<lb n="13"/>anbevolhnermassen gegen ime oder seinen under
+<lb break="no" n="14"/>thonen die hanndthabung gebürendermassen ge
+<lb break="no" n="15"/>brauchen, und euch wider die gebür und billichait 
+<lb n="16"/>nit beschwern lassen sollen. Wolten wir euch auf  
+<lb n="17"/>obvermelt ewr schreiben zum wissen und nachrichtung   
+<lb n="18"/>nit verhalten. Datum, den <origDate>8. julii anno etc. 95</origDate>. 
+<lb n="19"/>An <persName key="">Caspern von Rambschwag</persName>  
+<lb n="20"/>vogt zu <placeName key="">Guetenberg</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-258">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaspar Wolfinger soll die Fasnachthennen in das Schloss Gutenberg liefern.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-258">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 60r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 23. Mai 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Weitere Anweisungen der Oberösterreichischen Regierung an Vogt und Amtleute zu Feldkirch betreffend die Eingriffe des Grafen Karl Ludwig von Sulz und seiner Beamten und Untertanen gegen Kaspar von Ramschwag, Vogt auf Schloss  Gutenberg, und seinen Hofmann Kaspar Wolfinger.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-161">fasnachtshenne</term>
+          <term ref="lub-keywords-7">Steuer</term>
+          <term ref="lub-keywords-108">Jagdrecht</term>
+          <term ref="lub-keywords-320">Fischereirecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-05-23">23. Mai 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__60r-v-0001.jpg" xml:id="lub-media-3708" source="1595-05-23-buch-walgau-8-17-60r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__60r-v-0002.jpg" xml:id="lub-media-3709" source="1595-05-23-buch-walgau-8-18-60v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Rambschwag contra Sulz. 
+</p>
+        <p><lb n="2"/>Was abermalen <persName key="">Casper von Rambschwag</persName>, vogt zu  
+<lb n="3"/><placeName key="">Guetemberg</placeName>, der unbefuegten eingriff und newer
+<lb break="no" n="4"/>ungen halben, so ime durch herrn graf <persName key="">Carln 
+<lb n="5"/>zu Sulz</persName> und desselben beambten und underthanen  
+<lb n="6"/>des jagens und vischens, auch bluemb besuech,  
+<lb n="7"/>whuerns und raichung des steurschillings, sowol  
+<lb n="8"/>auch <persName key="">Caspern Wolfingers</persName> halben, der seine schuldige  
+<lb n="9"/>und zu dem schloß <placeName key="">Guettemberg</placeName> gehörige <term key="">faß
+<lb break="no" n="10"/>nachthennen</term> und anndere rennt, zinnß und gült 
+<lb n="11"/>nit mer raichen welle, und was demem verrer an
+<lb break="no" n="12"/>henngig, zugegefüegt werden sollen, an unns schrifft
+<lb break="no" n="13"/>lich gelanngen lassen, das habt ir aus seinem, uns 
+<lb n="14"/>derowegen zuegethanem schreiben, mit mererm zu  
+<lb n="15"/>vernemen. Wann wir euch dann be
+<lb break="no" n="16"/>rüerter eingriff halber hievor zu mermalen allen 
+<lb n="17"/>ernsts auferlegt und bevolhen, da vorernenter  
+<lb n="18"/>herr graf oder die seinigen sich ainicher weitern  
+<lb n="19"/>tätlichait gebrauchen lassen wurde, das ir alß
+<lb break="no" n="20"/>dann die gebürend gegenhanndthabung fürnemen 
+<lb n="21"/>sollet. So ist demnach in namen der römisch khayserlichen  
+<lb n="22"/>mayestät etc., unnsers allergnedigisten herrn, hiemit  
+<lb n="23"/>unnser verrer bevelch an euch, das ir demselben  
+<lb n="24"/>nochmals unverlenngt nachkhumet und auf be
+<lb break="no" n="25"/>gebenden notfal der hanndthabung gegen dem 
+<lb n="26"/>herrn grafen oder seinen underthanen hievorigen  
+<lb n="27"/>bevelhen gemeß, gebürender massen gebrauchet  
+<lb n="28"/>und gemelten von <persName key="">Rambschwag</persName> wider dei gebür  
+<lb n="29"/>und billichait nit beschwern lasset. An deme be
+<lb break="no" n="30"/>schicht etc. Datum, den <origDate>23. maii anno etc. 95</origDate>.
+<lb n="31"/>An <orgName key="">vogt und ambtleut  
+<lb n="32"/>zu Veldtkhirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

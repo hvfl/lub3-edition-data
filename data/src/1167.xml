@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1167">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionsstreit zwischen dem Landgericht Rankweil und den Untertanen von Vaduz, Schellenberg und Blumenegg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1167">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 79v-80r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 6. März 1587 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Weitere Bescheide an Hubmeister und Hofschreiber zu Feldkirch im Jurisdiktionsstreit zwischen dem Landgericht Rankweil und den Untertanen von Vaduz, Schellenberg und Blumenegg. Die Untertanen der genannten drei Herrschaften wurden laut dem Grafen Karl Ludwig von Sulz gegen altes Herkommen vor das Landgericht Rankweil zitiert.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1587-03-16">16. Mär 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__79v-80r-0001.jpg" xml:id="lub-media-2992" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-79v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__79v-80r-0002.jpg" xml:id="lub-media-2993" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-80r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Was der fürstlich durchlaucht etc. unnserm gnädigsten herrn <persName ref="lub-actors-13">Carl Ludwig  
+<lb n="3"/>graf zu Sulz</persName> vom <date when="1587-02-18">18. negst verschinen monats fe
+<lb break="no" n="4"/>bruarii</date> von wegen seiner underthonen der dreyen 
+<lb n="5"/>herrschafften <placeName ref="lub-places-7">Vaduz</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemen
+<lb break="no" n="6"/>egg</placeName>, das dieselben altem herkhomen und gebrauch 
+<lb n="7"/>zuwider für das <orgName ref="lub-actors-518">Lanndtgericht zu Rannckhweil</orgName> ci
+<lb break="no" n="8"/>tiert und mit unzeitigen processen, acht und aberacht 
+<lb n="9"/>verfolgt werden sollen, so wol auch der durch ine,  
+<lb n="10"/><persName ref="lub-actors-13">grafen</persName>, deßwegen am kayserlichen <orgName ref="lub-actors-521">Camergericht</orgName> wider  
+<lb n="11"/>ir durchlaucht und berüert <orgName ref="lub-actors-518">Lanndtgericht</orgName> ausbrachten cita
+<lb break="no" n="12"/>tion halber zuegeschriben, und von wegen abstellung 
+<lb n="13"/>sollicher proceß sein gehorsam bitlich anlanngen und  
+<lb n="14"/>erbieten ist. Das habt ir aus eingeschlossnem be
+<lb break="no" n="15"/>melts herrn <persName ref="lub-actors-13">grafen</persName> original schreiben mit mererm 
+<lb n="16"/>zusehen, euch innamen hochgedachter fürstlich durchlaucht be
+<lb break="no" n="17"/>velhend, das ir sambt und neben irer durchlaucht rat, 
+<lb n="18"/>doctor <persName ref="lub-actors-173">Gall Hager</persName>, in fürderliche notwenndige berat
+
+<lb break="no" n="19"/>schlagung ziehet, ob nit dise sach zugleich auch da ainiche 
+<lb n="20"/>spenn von wegen <placeName ref="lub-places-13">Guetenberg</placeName>, oder sonnst andere mer  
+<lb n="21"/>verhannden, in ain güetige comission handlung gezogen,  
+<lb n="22"/>wer auch zu commissarien zu benemen, was massen  
+<lb n="23"/>auch ermelter herr graf in ainem oder anndern weg  
+<lb n="24"/>auf sollich sein schreiben widerumben zubeantwurten  
+<lb n="25"/>sein möchte, und uns desselben neben wider zuesenndung  
+<lb n="26"/>des einschluß unverzogenlich hieheer berichtet. Daran  
+<lb n="27"/>beschicht etc. Datum, den <origDate>16. martii anno etc. 1587</origDate>. 
+<lb n="28"/>An <orgName ref="lub-actors-2588">hubmaister und hoffschreiber zu Veldkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

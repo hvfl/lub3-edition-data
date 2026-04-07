@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-254">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anweisungen an den Vogt von Feldkirch betreffend den Konflikt mit Karl Ludwig Grafen von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-254">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 43v-44r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. April 1594 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute von Feldkirch und Bescheid darüber an Kaspar von Ramschwag vom 1. April, 24. und 31. Juli 1594, betreffend neuerliche Eingriffe der Untertanen des Grafen Karl Ludwig von Sulz in Balzers.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1594-04-01">1. Apr 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__43v-44r-0001.jpg" xml:id="lub-media-3202" source="1594-04-01-buch-walgau-8-09a-43v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__43v-44r-0002.jpg" xml:id="lub-media-3203" source="1594-04-01-buch-walgau-8-09a-44r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName key="">Rambschwag</persName> contra grafen  
+<lb n="2"/>zu <persName key="">Sulz</persName>. 
+</p>
+        <p><lb n="3"/>Unns ist eur schreiben, so den <date when="1594-02-08">8. februarii jüngsthin</date> da
+<lb break="no" n="4"/>tiert, darinnen ir euch abermalen wider herrn 
+<lb n="5"/><persName key="">Carlen Ludwigen grafen zu Sulz</persName> unnder
+<lb break="no" n="6"/>thanen zu <placeName key="">Balzers</placeName> etlicher puncten und eingriff 
+<lb n="7"/>wegen beclagen, wol zuekhomen und angehenden  
+<lb n="8"/>worden. 
+<lb n="9"/>Was wir nun darauf dem <orgName key="">vogt und ambtleüt zu  
+<lb n="10"/>Veldkirch</orgName> auferlegen und bevelhen, das werdet  
+<lb n="11"/>ir aus eingethaner copi mit mererm abzulesen  
+<lb n="12"/>haben. Welliches wir uech auf obbeüert  
+<lb n="13"/>eur schreiben zum wissen und nachrichtung un
+<lb break="no" n="14"/>verhalten lassen wellen. Datum, den <origDate>ersten 
+<lb n="15"/>tag aprilis anno etc. 94</origDate>. 
+<lb n="16"/>An <persName key="">Casparn von Rambschwag</persName>. 
+</p>
+        <p><lb n="17"/>Idem 
+<lb n="18"/>Was massen sich abermalen vor unnser, <persName key="">Caspar von  
+<lb n="19"/>Rambschwag</persName>, vogt zu <placeName key="">Guettemberg</placeName> gegen unnd  
+<lb n="20"/>wider herrn <persName key="">Carlen grafens zu Sulz</persName> unnderthanen  
+<lb n="21"/>zu <placeName key="">Balzers</placeName> etlicher unbefuegten eingriff halben,  
+<lb n="22"/>gehorsamblich beschweren thuet, das habt ir aus  
+<lb n="23"/>beiligendem seinem unns gethanem schreiben in  
+<lb n="24"/>originali merers innhalts abzuhören. Wann  
+<lb n="25"/>wir euch nun aber sowol auch doctor <persName key="">Gallen  
+<lb n="26"/>Hager</persName> jungstlichen, den <date when="1594-02-09">9.</date> und <date when="1594-02-10">10.</date> negstverfloßnen  
+<lb n="27"/>monats februarii diser strittigen sachen halben  
+<lb n="28"/>notwenndigen bevelch uberchickht, so lassen wir  
+<lb n="29"/>es demnach bey demselben nochmalen unver
+<lb break="no" n="30"/>endert verbleiben, und ir werden also solhen be
+<lb break="no" n="31"/>velhen, mit ehistem gehorsamb und würckhlichen 
+<lb n="32"/>nachzesezen, und unns alßdann aller sachen vor  
+<lb n="33"/>bevolchnermassen fürderlichen hieheer zuver
+<lb break="no" n="34"/>stenndigen, inmitlst aber euch auf begebenden 
+<lb n="35"/>notfal der hanndthabung gegen dem herrn grafen  
+<lb n="36"/>oder seinen underthanen gebürendermassen zuge
+<lb break="no" n="37"/>brauchen wissen. Wolten wir euch unver
+<lb break="no" n="38"/>halten lassen. Datum, den <origDate>ersten aprilis 
+<lb n="39"/>anno etc. 94</origDate>. 
+<lb n="40"/>An <orgName key="">vogt und ambtleut  
+<lb n="41"/>zu Veldkirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

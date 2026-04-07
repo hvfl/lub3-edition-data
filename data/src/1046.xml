@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1046">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bestätigung über den Empfang des Zehntlehens in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1046">CH-BAC, 015.2203</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 25. Mai 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Wilhelm Rinck und sein Bruder Kaspar Rinck zu Rietberg urkunden, dass ihnen der Churer Bischof Paul Ziegler den Zehnten in Triesen, von dem ein Viertel der dortigen Kirche gehört, verliehen hat.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1000">Rinck, Wilhelm</persName>
+          <date when="1512-05-25">25. Mai 1512</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1001">Rinck, Kaspar</persName>
+          <date when="1512-05-25">25. Mai 1512</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-813">Ziegler, Paul</persName>
+          <date when="1512-05-25">25. Mai 1512</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2203-0001.jpg" xml:id="lub-media-3916" source="platzhalter.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3916" n="1"/><lb n="1"/>Wir, nach benembten <persName ref="lub-actors-1000">Wilhalm</persName> unnd <persName ref="lub-actors-1001">Casper Ringk</persName>, geprüder, zu <placeName ref="lub-places-842">Rietperg</placeName>, bekennen 
+<lb n="2"/>mit disem brieff, das wir von dem hochwirdigen fursten unnd herrn, herrn 
+<lb n="3"/><persName ref="lub-actors-813">Paulsen</persName>, bischove zu <placeName ref="lub-places-175">Chür</placeName>, unnsrm gnedign herrn, zu ainem rechtn lehen 
+<lb n="4"/>uff genomen und empfangn habn unnd yetz empfahent in krafft dis brieffs, 
+<lb n="5"/>was wir von rechtz dar an empfahen solln und mogn, namlich den zehennden 
+<lb n="6"/>in <placeName ref="lub-places-79">Trisiner</placeName> kilspel under dem walde, dar us der viertail des selbn zehennden der 
+<lb n="7"/>kirchen da selbs zu gehort, also das wir den mogen innhabn, nutzn und niessn 
+<lb n="8"/>nach solicher lehen recht. Hier umb so habn wir geschworen ainen ayde zu 
+<lb n="9"/>gott unnd den hailign, dem obgerürtn, unnserm genedign herrn von <placeName ref="lub-places-175">Chur</placeName>, 
+<lb n="10"/>siner gnadn nach komen unnd dem benantn stifft <placeName ref="lub-places-175">Chür</placeName> getrw, dienstlich, 
+<lb n="11"/>gehorsam unnd gewarttig zu sinde unnd von des obgerurtn lehen wegen 
+<lb n="12"/>zu thun alles das, so lehen lutt irm lehenn herrn von billichait und rechts 
+<lb n="13"/>wegen pflichttig unnd schuldig seind, unnd sonnderlich von des lehens wegn 
+<lb n="14"/>an dhainen andrn endn nicht zu rechtn dann vor sinen gnadn oder irs 
+<lb n="15"/>gnadn lehens mannen, zu gütn trwn ungefarlich. Zu urkundt hab ich, 
+<lb n="16"/>obgemelter <persName ref="lub-actors-1000">Wilhalm Ringkh</persName>, fur mich unnd gedachtn, mein bruder 
+<lb n="17"/><persName ref="lub-actors-1001">Caspern</persName>, mein aign insigel offennlich gehenckt am disen brieff, der 
+<lb n="18"/>geben ist am <origDate when="1512-05-25">sandt Urbans tag nach Cristus gepurt gezalt tausent 
+<lb n="19"/>funffhundert unnd zwelf jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

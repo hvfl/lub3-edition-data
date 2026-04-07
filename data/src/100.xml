@@ -14,7 +14,9 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-100">AT-ÖStA HHStA Reichshofrat Judicialia Antiqua 228-5</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Entstehungszeitraum: 1584 / Beschreibstoff: Papier,  36 Seiten / Siegel: kein Siegel</witness>
+          <witness xml:id="B1">B1: Abschrift, Signatur: <ref type="identifier" target="lub-objects-100">AT-ÖStA HHStA Reichshofrat Judicialia Antiqua 228-5</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Entstehungszeitraum: 1584 / Beschreibstoff: Papier,  36 Seiten / Siegel: kein Siegel</witness>
+          <witness xml:id="B2">B2: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1127">AT-VLA, RH Blumenegg Schachtel 1-1-1-</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Entstehungszeitraum: 1584 / Beschreibstoff: Papier, 16 Seiten / Siegel: kein Siegel</witness>
+          <witness xml:id="B3">B3: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1128">AT-VLA, RH Blumenegg Schachtel 1-1-1-</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Entstehungszeitraum: 1584 / Beschreibstoff: Papier, 19 Seiten / Siegel: kein Siegel</witness>
         </listWit>
         <listBibl type="publications">
           <bibl>Ediert auf <ref target="https://www.e-archiv.li/editionSuche.aspx?eid=4">www.e-archiv.li</ref></bibl>
@@ -75,42 +77,77 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0001.jpg" xml:id="lub-media-2753" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-1r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0002.jpg" xml:id="lub-media-2754" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-2r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0003.jpg" xml:id="lub-media-2755" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-3r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0004.jpg" xml:id="lub-media-2756" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-3v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0005.jpg" xml:id="lub-media-2757" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-4r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0006.jpg" xml:id="lub-media-2758" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-4v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0007.jpg" xml:id="lub-media-2759" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-5r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0008.jpg" xml:id="lub-media-2760" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-5v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0009.jpg" xml:id="lub-media-2761" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-6r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0010.jpg" xml:id="lub-media-2762" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-6v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0011.jpg" xml:id="lub-media-2763" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-7r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0012.jpg" xml:id="lub-media-2764" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-7v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0013.jpg" xml:id="lub-media-2765" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-8r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0014.jpg" xml:id="lub-media-2766" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-8v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0015.jpg" xml:id="lub-media-2767" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-9r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0016.jpg" xml:id="lub-media-2768" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-9v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0017.jpg" xml:id="lub-media-2769" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-12r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0018.jpg" xml:id="lub-media-2770" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-13r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0019.jpg" xml:id="lub-media-2771" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-13v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0020.jpg" xml:id="lub-media-2772" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-14r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0021.jpg" xml:id="lub-media-2773" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-14v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0022.jpg" xml:id="lub-media-2774" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-15r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0023.jpg" xml:id="lub-media-2775" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-15v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0024.jpg" xml:id="lub-media-2776" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-16r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0025.jpg" xml:id="lub-media-2777" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-16v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0026.jpg" xml:id="lub-media-2778" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-17r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0027.jpg" xml:id="lub-media-2779" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-17v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0028.jpg" xml:id="lub-media-2780" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-18r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0029.jpg" xml:id="lub-media-2781" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-18v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0030.jpg" xml:id="lub-media-2782" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-19r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0031.jpg" xml:id="lub-media-2783" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-19v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0032.jpg" xml:id="lub-media-2784" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-20r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0033.jpg" xml:id="lub-media-2785" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-20v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0034.jpg" xml:id="lub-media-2786" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-21r.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0035.jpg" xml:id="lub-media-2787" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-21v.jpg" corresp="B"/>
-    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0036.jpg" xml:id="lub-media-2788" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-22r.jpg" corresp="B"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0001.jpg" xml:id="lub-media-2753" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-1r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0002.jpg" xml:id="lub-media-2754" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-2r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0003.jpg" xml:id="lub-media-2755" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-3r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0004.jpg" xml:id="lub-media-2756" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-3v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0005.jpg" xml:id="lub-media-2757" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-4r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0006.jpg" xml:id="lub-media-2758" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-4v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0007.jpg" xml:id="lub-media-2759" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-5r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0008.jpg" xml:id="lub-media-2760" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-5v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0009.jpg" xml:id="lub-media-2761" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-6r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0010.jpg" xml:id="lub-media-2762" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-6v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0011.jpg" xml:id="lub-media-2763" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-7r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0012.jpg" xml:id="lub-media-2764" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-7v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0013.jpg" xml:id="lub-media-2765" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-8r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0014.jpg" xml:id="lub-media-2766" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-8v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0015.jpg" xml:id="lub-media-2767" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-9r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0016.jpg" xml:id="lub-media-2768" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-9v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0017.jpg" xml:id="lub-media-2769" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-12r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0018.jpg" xml:id="lub-media-2770" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-13r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0019.jpg" xml:id="lub-media-2771" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-13v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0020.jpg" xml:id="lub-media-2772" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-14r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0021.jpg" xml:id="lub-media-2773" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-14v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0022.jpg" xml:id="lub-media-2774" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-15r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0023.jpg" xml:id="lub-media-2775" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-15v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0024.jpg" xml:id="lub-media-2776" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-16r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0025.jpg" xml:id="lub-media-2777" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-16v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0026.jpg" xml:id="lub-media-2778" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-17r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0027.jpg" xml:id="lub-media-2779" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-17v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0028.jpg" xml:id="lub-media-2780" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-18r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0029.jpg" xml:id="lub-media-2781" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-18v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0030.jpg" xml:id="lub-media-2782" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-19r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0031.jpg" xml:id="lub-media-2783" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-19v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0032.jpg" xml:id="lub-media-2784" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-20r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0033.jpg" xml:id="lub-media-2785" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-20v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0034.jpg" xml:id="lub-media-2786" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-21r.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0035.jpg" xml:id="lub-media-2787" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-21v.jpg" corresp="B1"/>
+    <graphic url="at--sta_hhsta_reichshofrat_judicialia_antiqua_228-5-0036.jpg" xml:id="lub-media-2788" source="at-oesta-hhsta-rhr-jud-ant-228-5-fol-22r.jpg" corresp="B1"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0001.jpg" xml:id="lub-media-2556" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-1-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0002.jpg" xml:id="lub-media-2557" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-2-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0003.jpg" xml:id="lub-media-2558" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-3-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0004.jpg" xml:id="lub-media-2559" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-4-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0005.jpg" xml:id="lub-media-2560" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-5-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0006.jpg" xml:id="lub-media-2561" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-6-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0007.jpg" xml:id="lub-media-2562" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-7-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0008.jpg" xml:id="lub-media-2563" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-8-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0009.jpg" xml:id="lub-media-2564" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-9-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0010.jpg" xml:id="lub-media-2565" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-10-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0011.jpg" xml:id="lub-media-2566" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-11-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0012.jpg" xml:id="lub-media-2567" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-12-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0013.jpg" xml:id="lub-media-2568" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-13-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0014.jpg" xml:id="lub-media-2569" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-14-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0015.jpg" xml:id="lub-media-2570" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-15-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0016.jpg" xml:id="lub-media-2571" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-16-anschlag-schellenberg.jpg" corresp="B2"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0001.jpg" xml:id="lub-media-2572" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-17-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0002.jpg" xml:id="lub-media-2573" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-18-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0003.jpg" xml:id="lub-media-2574" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-19-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0004.jpg" xml:id="lub-media-2575" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-20-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0005.jpg" xml:id="lub-media-2576" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-21-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0006.jpg" xml:id="lub-media-2577" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-22-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0007.jpg" xml:id="lub-media-2578" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-23-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0008.jpg" xml:id="lub-media-2579" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-24-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0009.jpg" xml:id="lub-media-2580" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-25-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0010.jpg" xml:id="lub-media-2581" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-26-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0011.jpg" xml:id="lub-media-2582" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-27-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0012.jpg" xml:id="lub-media-2583" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-28-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0013.jpg" xml:id="lub-media-2584" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-29-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0014.jpg" xml:id="lub-media-2585" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-30-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0015.jpg" xml:id="lub-media-2586" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-31-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0016.jpg" xml:id="lub-media-2587" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-32-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0017.jpg" xml:id="lub-media-2588" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-33-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0018.jpg" xml:id="lub-media-2589" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-34-anschlag-vaduz.jpg" corresp="B3"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0019.jpg" xml:id="lub-media-2590" source="1612-01-12-vla-reichsherrschaft-blumenegg-1-s-35-anschlag-vaduz.jpg" corresp="B3"/>
   </facsimile>
   <text>
     <body>

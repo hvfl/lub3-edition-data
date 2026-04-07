@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-236">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Übergriffe des Grafen Karl Ludwig von Sulz gegenüber Kaspar Wolfinger aus Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-236">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 115v-117v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 5. Mai 1590 / Beschreibstoff: Papier, 2 Seiten / Siegel: nicht vorhanden</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Die Oberösterreichische Regierung schickt dem Hubamt in Feldkirch zur Begutachtung ein Schreiben, dass die Regierung an den Grafen Karl Ludwig von Sulz wegen dessen Übergriffen auf Kaspar von Ramschwags Hofmann Kaspar Wolfinger verfasst hat. Sollte das Hubamt den Inhalt dieses Schreibens unterstützen, dann soll es dieses an den Grafen weiterleiten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-05-05">5. Mai 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__115v-117v-0001.jpg" xml:id="lub-media-623" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-115v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__115v-117v-0002.jpg" xml:id="lub-media-624" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-116r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herr graf <persName ref="lub-actors-13">Ludwig zu Sulz</persName>. 
+<lb n="2"/>Aus eurm schreiben vom <date when="1590-04-21">21. aprillis negsthin</date> unnd  
+<lb n="3"/>desselben beylagen haben wir angeherdt unnd ver
+<lb n="4"/>nomen, was sich seider unnsers jungsten, den anndern  
+<lb n="5"/>bemelts monats aprillis, an euch außganngnen be
+<lb n="6"/>velch zwischen herrn graf <persName ref="lub-actors-13">Ludwigen zu Sulz</persName>, auch  
+<lb n="7"/><persName ref="lub-actors-167">Caspar Wolfingers</persName> knecht, so sein, <persName ref="lub-actors-167">Wolfingers</persName>, bruder  
+<lb n="8"/>unnd <persName ref="lub-actors-166">Casparn von Rambschwag</persName>, der fürstlichen durchlaucht erzherzogen  
+<lb n="9"/><persName ref="lub-actors-11">Ferdinannden zu Österreich</persName> etc., unnsers gnedigisten  
+<lb n="10"/>herrn vogt zu <placeName ref="lub-places-13">Guettemberg</placeName> zuegetragen unnd ver
+<lb n="11"/>loffen etc. Weyl wir euch dann in obbemeltem unserem  
+<lb n="12"/>vorigen schreiben auferlegt, euch in den schrifften,  
+<lb n="13"/>so wir euch domaln wider zuegesandt, der notturfft  
+<lb n="14"/>nach zuerstehen, euch auch der sachen sonnsten zu  
+<lb n="15"/>erkhundigen unnd alßdann den von <persName ref="lub-actors-166">Rambschwag</persName>  
+<lb n="16"/>bey demjhenigen, so er diß orths anstatt der hoch
+<lb n="17"/>gedachten fürstlichen durchlaucht befuegt, gebürennder massen  
+<lb n="18"/>hanndtzuhaben unnd darwider nit beschweren zu lassen,  
+<lb n="19"/>auch dem hofman <persName ref="lub-actors-167">Wolfinger</persName> guetten ruggen, schuz  
+<lb n="20"/>unnd schirm zu halten, damit er an dem waldtpaw 
+<lb n="21"/>seines hofs unnd dem außtrib seines viehs, sovil  
+<lb n="22"/>er dessen befuegt, nit verhindert werde etc. So lassen  
+<lb n="23"/>wirs bey demselben nochmals allerdings beleiben  
+
+<lb n="24"/>dem ir auch also furderlichen unnd sonnderlichen auch  
+<lb n="25"/>sovil die ersechung der schrifften unnd erkhundigung  
+<lb n="26"/>der sachen betrifft nachkhomen sollen. 
+</p>
+        <p><lb n="27"/>Was wir dann obernenntem herrn grafen an yezo dero
+<lb break="no" n="28"/>wegen von hieauß zueschreiben, das habt ir auß inne
+<lb n="29"/>ligennder abschrifft zuvernemen, wellich schreiben ir  
+<lb n="30"/>ime, herrn grafen, wovern ir darinnen khain be
+<lb n="31"/>dennckhen, auch mit eheistem zu ubersenden und dem  
+<lb n="32"/>von <persName ref="lub-actors-166">Rambschwag</persName> unnd <persName ref="lub-actors-167">Wolfinger</persName>, wo was tättlichs 
+<lb n="33"/>gegen inen furgenomen werden wolte, gepurennder  
+<lb n="34"/>massen zu schüzen, zu schirmen unnd bey demjhenigen, so  
+<lb n="35"/>sy befuegt, hanndtzuhaben werden wissen, wolten  
+<lb n="36"/>wir euch auf obangeregt eur schreiben nit pergen,  
+<lb n="37"/>und es beschieht, datum, den <origDate>5. may anno etc. 90</origDate> 
+<lb n="38"/>An <orgName ref="lub-actors-2588">vogt unnd amtsleuth 
+<lb n="39"/>zu Veldtkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

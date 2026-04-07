@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-246">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionsstreit zwischen Karl Ludwig Graf von Sulz und dem Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-246">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 8r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 20. August 1591 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Hubmeister und Hofschreiber von Feldkirch betreffend die Streitigkeiten zwischen Graf Karl Ludwig von Sulz und dem Landgericht Rankweil.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-08-20">20. Aug 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__8r-v-0001.jpg" xml:id="lub-media-3087" source="1591-08-20-buch-walgau-8-07-8r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__8r-v-0002.jpg" xml:id="lub-media-3088" source="1591-08-20-buch-walgau-8-08-8v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herr <persName key="">Carl Ludwig graf zu Sulz</persName><lb n="2"/>contra das <orgName key="">Lanndtgericht zu Ranckh
+<lb break="no" n="3"/>weil</orgName>.
+</p>
+        <p><lb n="4"/>Euern bericht wegen der durch herrn <persName key="">Carl  
+<lb n="5"/>Ludwigen graven von Sulz</persName> auf die gegen  
+<lb n="6"/>seinen unndterthanen durch das <orgName key="">Freye Lanndt
+<lb break="no" n="7"/>gericht zu Ranckhweil</orgName> geübte aachts pro
+<lb break="no" n="8"/>cess beschechne schrifftliche protestation, haben 
+<lb n="9"/>wir ablesent verstanden und gern gehört,  
+<lb n="10"/>das ir zuerhaltung der fürstlichen durchlaucht etc. recht unnd  
+<lb n="11"/>gerechtigkhait ine, herrn grafen, mit ange
+<lb break="no" n="12"/>zogner protestation nit hören, noch dieselbige 
+<lb n="13"/>annemen wellen. Welchen ir forter also  
+<lb n="14"/>nachzesezen und höchstgedachter fürstlicher durchlaucht recht  
+<lb n="15"/>und gerechtigkait festigclich hanndzehaben  
+<lb n="16"/>und hierinn ainichen schedlich und preiudicierlichen  
+<lb n="17"/>eingriff, da sich ainicher  
+<lb n="18"/>begeben wurde, nit gestaten, sonnder auf zuetragende  
+
+<lb n="19"/>faal unns dessen furderlichen zuberichten  
+<lb n="20"/>werdet wissen, wolten wir euch nit bergen  
+<lb n="21"/>und ir volziecht etc. Datum, den <origDate>20. augusti anno etc. 91</origDate>. 
+<lb n="22"/>An <orgName key="">huebmaister unnd  
+<lb n="23"/>hofschreiber zu Veldt
+<lb break="no" n="24"/>khirch</orgName> samentlich.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-235">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt zwischen Balthasar von Ramschwag und Karl Ludwig von Sulz wegen Kaspar Wolfinger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-235">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 7 fol. 112v-113r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 2. April 1590 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt und Amtleute zu Feldkirch, dass sie Kaspar von Ramschwag unterstützen sollen, wenn dieser die Lehensrechte seines Hofmanns Kaspar Wolfinger gegenüber Karl Ludwig von Sulz zu schützen versucht.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-81">Dienst</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-04-02">2. Apr 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_7_fol__112v-113r-0001.jpg" xml:id="lub-media-619" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-112v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_7_fol__112v-113r-0002.jpg" xml:id="lub-media-620" source="tla-oo-regierung-kopialbucher-buch-walgau-band-7-1582-1590-fol-113r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Rambschwag</persName> contra graf  
+<lb n="2"/><persName ref="lub-actors-13">Carl Ludwig zu Sulz</persName>. 
+<lb n="3"/>Eur schreiben unns, den <date when="1590-02-19">19. februarii verschinen</date>  
+<lb n="4"/>gethon, betreffenndt den eintrag unnd newer
+<lb break="no" n="5"/>und, so herr <persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName> der fürstlichen 
+<lb n="6"/>durchlaucht erzherzog <persName ref="lub-actors-11">Ferdinand zu Österreich</persName> etc. unnsers gnädigsten herrn vogt  
+<lb n="7"/>an dem schloß unnd vogtey <placeName ref="lub-places-13">Guettemberg</placeName> zue
+<lb break="no" n="8"/>fuegen solle, haben wir sambt den darmit uber
+<lb break="no" n="9"/>senndten beylagen empfanngen und vernomen, welche 
+<lb n="10"/>schrifften wir euch hieneben wider zuesennden,   
+<lb n="11"/>innamen hochgedachter fürstlichen durchlaucht hiemit bevelchendt,  
+<lb n="12"/>das ir euch darinnen der notturfft nach ersechet,  
+<lb n="13"/>euch auch der sach sonnsten erkhundiget und alß
+
+<lb break="no" n="14"/>dann ine, von <persName ref="lub-actors-166">Rambschwag</persName>, bey demjhenigen, 
+<lb n="15"/>so er diß orths anstat irer fürstlich durchlaucht befuegt, ge
+<lb break="no" n="16"/>pürennder massen hanndthabet und darwider 
+<lb n="17"/>nit beschwern lasset, auch dem hofman <persName ref="lub-actors-167">Wolfinger</persName>  
+<lb n="18"/>gueten ruggen, schuz unnd schirm haltet, damit  
+<lb n="19"/>er an dem waldtpaw seines hofs, auch dem auß
+<lb break="no" n="20"/>trib seines viehs, so vil er dessen befuegt, nit ver
+<lb break="no" n="21"/>hindert werde. Daran etc. Datum, den <origDate>2. aprillis 
+<lb n="22"/>anno etc. lxxxx</origDate>. 
+<lb n="23"/>An <orgName ref="lub-actors-337">vogt und amptleuth  
+<lb n="24"/>zu Veldtkirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

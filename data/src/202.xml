@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-202">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vertragsbedingungen beim Verkauf von Blumenegg an Weingarten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-202">CZ-SOAT Cizí statky 8 II 30 5</ref> (<orgName key="cz-soat" ref="lub-objects-176">Státní oblastní archív Třeboň</orgName>) / Originaldatierung: 7. Februar 1613 / Beschreibstoff: Papier, 5 Seiten / Siegel: 2 Siegel, gut erhalten</witness>
+        </listWit>
+        <listBibl type="publications">
+          <bibl>
+            <ref target="https://www.monasterium.net/mom/CZ-SOAT/CizyStatky/7/charter">monasterium.net</ref>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Vertrag zwischen Rudolf VII. Graf von Sulz und dem Kloster Weingarten, in dem das Kloster bestimmte Schulden auf der Herrschaft Blumenegg übernimmt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-57">Altkirch</placeName>
+          <date when="1613-02-07">7. Feb 1613</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="cz-soat_ciz-_statky_8_ii_30_5-0001.jpg" xml:id="lub-media-2946" source="1613-02-07-soat-cizistatkytrebon-8-02.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_8_ii_30_5-0002.jpg" xml:id="lub-media-2947" source="1613-02-07-soat-cizistatkytrebon-8-04.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_8_ii_30_5-0003.jpg" xml:id="lub-media-2948" source="1613-02-07-soat-cizistatkytrebon-8-05.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_8_ii_30_5-0004.jpg" xml:id="lub-media-2949" source="1613-02-07-soat-cizistatkytrebon-8-06.jpg" corresp="A"/>
+    <graphic url="cz-soat_ciz-_statky_8_ii_30_5-0005.jpg" xml:id="lub-media-2950" source="1613-02-07-soat-cizistatkytrebon-8-08.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Zue wissen alls zwischen dem hoch
+<lb break="no" n="2"/>und wolgebornen herrn, herrn <persName key="">Ruedolphen 
+<lb n="3"/>graven zue Sulz</persName>, landtgraven im <placeName key="">Kleggew</placeName>,  
+<lb n="4"/>deß <orgName key="">Heiligen Römischen Reichs</orgName> erbhofrichtern  
+<lb n="5"/>zue <placeName key="">Rothweil</placeName>, herrn zue <placeName key="">Vaduz</placeName>, <placeName key="">Schellenberg</placeName>  
+<lb n="6"/>und <placeName key="">Bluemenegg</placeName>, hochfürstlicher durchlaucht erzhörzog  
+<lb n="7"/><persName key="">Maxümiliani zue Össterreich</persName> etc. rath und  
+<lb n="8"/>landtvogten im <placeName key="">Undern Ölsäß</placeName> etc. verkheuffern  
+<lb n="9"/>ahn ainem, sodann dem hochwürdigen herrn,  
+<lb n="10"/>herrn <persName key="">Geörgen</persName> abbten deß loblichen gottes
+<lb break="no" n="11"/>hauß <placeName ref="lub-places-68">Weingarten</placeName>, kheuffern, ahm andern 
+<lb n="12"/>theil, den <date when="1612-08-21">ainundzwainzigisten augusti  
+<lb n="13"/>deß negst abgeloffnen sechzehenhundert und  
+<lb n="14"/>zwölfften jahrs</date> in dem gotshauß <placeName key="">Hoven</placeName>  
+<lb n="15"/>bey <placeName key="">Buechorn</placeName> ligendt, wegen der graffschafft  
+<lb n="16"/><placeName key="">Bluemenegg</placeName>, ein ordenliche khauffs
+<lb break="no" n="17"/>handlung fürgangen, man sich aber darze
+<lb break="no" n="18"/>mahln wegen abwesenheit wolermelts 
+<lb n="19"/>herrn gravens etc. auch dahero, sowohl  
+<lb n="20"/>auff derselben, alß deß gemainen convents  
+<lb n="21"/>zue gedachtem <placeName ref="lub-places-68">Weingarten</placeName>, gestöllter und  
+<lb n="22"/>bald darauff erfolgter ratificationen  
+<lb n="23"/>der concepten, wöllche zue effectuier
+<lb n="24"/>und bestättigung sollcher tractation von
+<lb break="no" n="25"/>nöthen, nit vergleichen hat mögen. Nit 
+<lb n="26"/>weniger wegen der vor disem übergebnen  
+<lb n="27"/>verzaichnuß der bluemeneggischen creditorn   
+<lb n="28"/>etwas mißverstandt fürgefallen, daß  
+<lb n="29"/>demnach baide ihro gnaden sich ahn heut  
+<lb n="30"/>dato nit allein wegen angeregter concepten  
+
+<lb n="31"/>(davon uff jeder seiten gleichlauttende  
+<lb n="32"/>copien behalten worden) in aigner persohn,  
+<lb n="33"/>miteinander freundtlich verglichen, auch  
+<lb n="34"/>ihr gnaden, der herr grave, sich erpotten,  
+<lb n="35"/>die verfüegung zuethuen, daß dieselbe mit  
+<lb n="36"/>ehistem verförttigt, nacher <placeName ref="lub-places-68">Weingarten</placeName> zur  
+<lb n="37"/>fernern sollicitation überschickht werden,  
+<lb n="38"/>sonder es ist auch der principal punct wegen  
+<lb n="39"/>bezahlung der sechzig tausent gulden  
+<lb n="40"/>ubernhommner sulzischer schulden dahin verab
+<lb break="no" n="41"/>schidet, daß ihr gnaden, der herr verkheuffer, deren 
+<lb n="42"/>geliebten herrn bruedern, den auch hoch- und  
+<lb n="43"/>wolgebornen herrn, herrn <persName key="">Carl Ludwigen  
+<lb n="44"/>graven zue Sulz</persName> und landtgraven im <placeName key="">Kleggew</placeName> etc.,  
+<lb n="45"/>dahin vermögen sollen, daß dessen gnaden alle die  
+<lb n="46"/>creditores, wöllchen obberüerte graffschafft  
+<lb n="47"/><placeName key="">Bluemenegg</placeName> in specie verschriben, und sy dieselbe  
+<lb n="48"/>vor disem zuebefridigen übernhommen, von dem  
+<lb n="49"/>khauffschilling den sy wegen der graf- unnd  
+<lb n="50"/>herrschafften <placeName key="">Vaduz</placeName> und <placeName key="">Schellenberg</placeName> verhoff
+<lb break="no" n="51"/>entlich in khürze einzenehmmen, allßbalden 
+<lb n="52"/>würckhlich bezahlen und dardurch daß  
+<lb n="53"/>gotshauß <placeName key="">Weingarten</placeName> zuesampt der ver
+<lb break="no" n="54"/>pfendten graffschafft <placeName key="">Bluemenegg</placeName> ledig 
+<lb n="55"/>machen. Mit dem außgedruckhten ahn
+<lb break="no" n="56"/>hang, wofern ein sollches (es beschehe durch 
+<lb n="57"/>was verhinderung es wölle) biß zue  
+<lb n="58"/>immission obwolgedachts herrn praelatens  
+<lb n="59"/>zue <placeName key="">Weingarten</placeName>, sovil <placeName key="">Bluemenegg</placeName> betrifft,   
+<lb n="60"/>nit ervolgen wurde, daß allßdann er, der  
+<lb n="61"/>herr kheuffer, und sein convent guetten  
+
+<lb n="62"/>fueg macht und gewaldt haben solle,  
+<lb n="63"/>angedeute creditorn von den obbestimbten  
+<lb n="64"/>sechzig thausent gulden selbsten zuebezahlen,  
+<lb n="65"/>und dardurch die graffschafft <placeName key="">Bluemenegg</placeName>  
+<lb n="66"/>zue sein und seines gotshauß sicherhait  
+<lb n="67"/>ledig zue machen. Dabeneben  
+<lb n="68"/>aber ihr gnaden, der herr grave, alle seine  
+<lb n="69"/>gleubiger denen <placeName key="">Bluemenegg</placeName> in specie  
+<lb n="70"/>und ainzig oder neben andern sulzischen  
+<lb n="71"/>herrschafften verhafftet sein möchte, eint
+<lb break="no" n="72"/>weders mit ehistem zuesamen beschreiben 
+<lb n="73"/>und mit denselben in gegenwarth der  
+<lb n="74"/>weingartischen deputierten gebürende  
+<lb n="75"/>abrechnung tröffen lassen, oder doch  
+<lb n="76"/>glaubwürdig copien iren habenden ver
+<lb break="no" n="77"/>schreibungen neben ordenlichen verzaich
+<lb break="no" n="78"/>nußen, deren ausstehender interesse und 
+<lb n="79"/>ohnkhösten abfordern und sollche ihr gnaden,  
+<lb n="80"/>dem herrn kheuffer, communicieren.  
+<lb n="81"/>Deme auch erlaubt sein solle, die hinder
+<lb break="no" n="82"/>stöllige reichs- und crayß-contri
+<lb break="no" n="83"/>butionen der fünfthausent sechs gulden 
+<lb n="84"/>von den zehenthausent gulden, wöllche  
+<lb n="85"/>über daßjhenig, so der obberüerte  
+<lb n="86"/>hovische abschidt vermag, verbleibt zue
+<lb break="no" n="87"/>entrichten, es seye dann, daß ihr 
+<lb n="88"/>gnaden, der herr verkheuffer, die sach  
+<lb n="89"/>vor der immission, dahin richten  
+<lb n="90"/>würdt mögen, daß er und consequenter  
+<lb n="91"/>daß gotshauß sollcher restanten  
+
+<lb n="92"/>halber von gepürenden orthen quittiert  
+<lb n="93"/>werden. Gethrewlich sonder gefärde,  
+<lb n="94"/>und dessen zue wahrem urkhundt haben ob
+<lb break="no" n="95"/>wolgedachte bayde ihre gnaden gnaden disen 
+<lb n="96"/>abermähliger receß mit underziehung  
+<lb n="97"/>ihrer aigner handt subscriptionen und für
+<lb break="no" n="98"/>druckhung deren mindern secret innsiglen 
+<lb n="99"/>becröfftiget. So beschehen in dem  
+<lb n="100"/>gotohauß <placeName key="">Hoven</placeName>, den <origDate>sibendten februarii  
+<lb n="101"/>im sechzehenhundert und dreyzehendten  
+<lb n="102"/>jahre</origDate>. 
+<lb n="103"/><persName key="">Geörg</persName> abbt zu <placeName key="">Weingartten</placeName> manu propria 
+<lb n="104"/><persName key="">Rudolff grave zu Sulz</persName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Letster abschidt 
+<lb n="2"/>bluemeneggischer kauffshandlung  
+<lb n="3"/>zue <placeName key="">Hofen</placeName>, den <origDate>7. Februarii anno 13</origDate> ergangen. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

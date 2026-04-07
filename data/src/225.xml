@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-225">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt der Grafen von Sulz mit Glarus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-225">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 5 fol. 26r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. September 1559 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Befehl an Balthasar von Ramschwag, auf die Vorladung eines kaiserlichen Kommissars zu erscheinen und Kundschaft abzugeben, was er über den Konflkt zwischen dem Rat von Glarus und den Grafen von Sulz weiss, was er bis dahin verweigert hatte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1559-09-25">25. Sep 1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_5_fol__26r+v-0001.jpg" xml:id="lub-media-603" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-26r.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_5_fol__26r+v-0002.jpg" xml:id="lub-media-604" source="tla-oo-regierung-kopialbucher-buch-walgau-band-5-1556-1567-fol-26v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Unns hat die wolgeborn fraw <persName key="">Elspeth gravin  
+<lb n="3"/>zu Sulz</persName>, wittib, vom <date when="1559-09-05">funfften tag diß monats</date><lb n="4"/>geschriben unnd bericht, wie ir euch auf des no
+<lb break="no" n="5"/>tarien citation, so ihr sun, die graven <orgName key="">von Sulz</orgName>, 
+<lb n="6"/>in der irrungen unnd spennen, die sich zwischen  
+<lb n="7"/>inen der herrschafft <placeName key="">Vaduz</placeName> an einem und den  
+<lb n="8"/>l<orgName key="">anndtaman unnd rhat zu Glaris</orgName> der herrschafft  
+
+<lb n="9"/><placeName key="">Werdenberg</placeName> am anndern tail, halten zu ver
+<lb break="no" n="10"/>hörung der zeug ad perpetuam rei memoriam 
+<lb n="11"/>furgenomen, unnd verordnet zu erscheinen  
+<lb n="12"/>unnd kundtschafft zu geben verwidert unnd  
+<lb n="13"/>darauf gebeten, dieweil ermelten iren sunen  
+<lb n="14"/>an ewrer kundtschafft sag nit wenig, sonder  
+<lb n="15"/>vil gelegen were, daz wir euch durch bevelch  
+<lb n="16"/>auflegen wolten, vorernennten iren sunen zu  
+<lb n="17"/>furderung unnd behelff der warhaidt kundt
+<lb break="no" n="18"/>schafft zu geben. Dieweil dann, wie vermeldt,  
+<lb n="19"/>furderung und behelff der warhaidt niemant  
+<lb n="20"/>kundtschafft zugeben verzigen werden soll, so ist  
+<lb n="21"/>demnach unnser anstat der römisch kayserlichen mayestät etc.,  
+<lb n="22"/>unnsers allergnedigisten herrn, unnser bevelch,  
+<lb n="23"/>wann ir also durch ainen comissari derhalben  
+<lb n="24"/>kundtschafft zugeben citiert werdet, daz ir  
+<lb n="25"/>zu steur der warhaidt, wie sich geburt, deßhalben  
+<lb n="26"/>kundtschafft saget und gebet, sovil euch darumben  
+<lb n="27"/>warskundt unnd wissen ist unnd daz nit lasset. 
+<lb n="28"/>Daran thuet ir anstat kayserlicher mayestät unnser maynung.  
+<lb n="29"/>Datum, den <origDate>xxv septembris anno etc. im lviiii</origDate>.  
+<lb n="30"/>An <persName key="">Balthaser von Ramb
+<lb break="no" n="31"/>schwag</persName> von zu <placeName key="">Guettemberg</placeName>
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

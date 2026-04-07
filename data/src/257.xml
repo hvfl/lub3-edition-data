@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-257">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eingriffe des Karl Ludwig Grafen von Sulz in Gutenberg betreffend</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-257">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 60v-61r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 9. Juni 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisungen an Vogt und Amtleute von Feldkirch betreffend den alten Konflikt zwischen dem Oberamt des Grafen Karl Ludwig von Sulz und Kaspar Ramschwag, Vogt von Gutenberg, und dessen Dienstmann Kaspar Wolfinger und den neu angefangenen Konflikt des Oberamts und Bangs wegen Weiderecht und Herrschaftsgrenzen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-06-09">9. Jun 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__60v-61r-0001.jpg" xml:id="lub-media-3706" source="1595-05-23-buch-walgau-8-18-60v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__60v-61r-0002.jpg" xml:id="lub-media-3707" source="1595-06-09-buch-walgau-8-18-61r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Vogt und ambtleut zu Veldtkhirch  
+<lb n="3"/>contra sulzische Oberambtleüt. 
+</p>
+        <p><lb n="4"/>Was unns vom <date when="1595-05-24">24. jüngstverschinen monats maii</date><lb n="5"/>durch <orgName key="">vogt und ambtleut zu Veldtkhirch</orgName> von wegen  
+
+<lb n="6"/>der new angefenngten strittigkhaiten zwischen  
+<lb n="7"/>inen und herrn graf <persName key="">Carl Ludwigs zu Sulz</persName>  
+<lb n="8"/><orgName key="">Oberambtleüt</orgName> die lanndtmarchen, auch wunn,  
+<lb n="9"/>waid, trib und trat, die von <placeName key="">Banx</placeName> und andere  
+<lb n="10"/>derselben ennde antreffendt, zugeschriben unnd  
+<lb n="11"/>daneben für anzaig gethan worden, was hier
+<lb break="no" n="12"/>inen eur guetachten und bedennckhen ist, das 
+<lb n="13"/>habt ir hiebey zusehen. Unnd lassen unns nti zu
+<lb break="no" n="14"/>wider sein, das dise sachen auf ain güetige 
+<lb n="15"/>commission gericht und veranlasst werde.  
+<lb n="16"/>Darzue wir dann den herrn lanndtcomen
+<lb break="no" n="17"/>thur zu <placeName key="">Alschhaußen</placeName> und doctor <persName key="">Johann Hilleson</persName>, 
+<lb n="18"/>verwalter der <placeName key="">Lanndtvogtey Schwaben</placeName>, zu com
+<lb break="no" n="19"/>missari unnd underhanndlern fürzenemen und zu
+<lb break="no" n="20"/>ersuechen vorhabens, wir heten aber auch vor 
+<lb n="21"/>unnser, neben angeregten newen, auch die alten  
+<lb n="22"/>spenn, die man mit berüertem herrn grafen  
+<lb n="23"/>hat, als nemblich <persName key="">Caspern von Rambschwag</persName> vogts  
+<lb n="24"/>zu <placeName key="">Guetemberg</placeName>, wegen <persName key="">Caspern Wolfingers</persName>  
+<lb n="25"/>und was der alten stritt mer sein mechten etc.,  
+<lb n="26"/>in die unnderhanndlung khomen zelassen, da
+<lb break="no" n="27"/>mit (wie wir verhoffen) ains mit dem andern 
+<lb n="28"/>und also alles miteinannder an ain ort gebracht  
+<lb n="29"/>und verglichen werden mechte, haben der <persName key="">Gall</persName> nit  
+<lb n="30"/>umbgeen wellen, euch, ob ier hierwider khain be
+<lb break="no" n="31"/>dennckhen, sonnder es auch für thuenlich hieltet 
+<lb n="32"/>oder nit, zuvor zuvernemen, dessen ir unns  
+<lb n="33"/>sambt widersenndung des ganzen einschluß aufs  
+<lb n="34"/>fürderlichist berichten sollet. Daran etc. 
+<lb n="35"/>Datum, den <origDate>9. Junii anno etc. 95</origDate>. 
+<lb n="36"/>An doctor <persName key="">Gallen Hager</persName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

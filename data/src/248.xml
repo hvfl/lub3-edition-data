@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-248">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jurisdiktionsstreit zwischen Karl Ludwig von Sulz und Kaspar von Ramschwag</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-248">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 12v-13r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. November 1591 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben der Regierung in Innsbruck an den Stadtrat von Feldkirch, dass Erzherzog Ferdinand von Österreich über verschiedene Konflikte zwischen dem Grafen Karl Ludwig von Sulz und Kaspar von Ramschwag berichtet worden ist. Kaspar von Ramschwag hat einen Hirsch, den er in der Herrschaft Maienfeld geschossen hatte, durch die Herrschaft von Karl Ludwig von Sulz nach Gutenberg führen lassen. Bisher konnten sich die beiden nicht über den Beitrag Ramschwags hinsichtlicher der Türkensteuer einigen und der Graf von Sulz hat Wein von Ramschwag beschlagnahmen lassen, um dessen Hofmann Kaspar Wolfinger zu zwingen, beim Grafen um Gnade zu bitten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-57">Beschlagnahme</term>
+          <term ref="lub-keywords-41">Jagd</term>
+          <term ref="lub-keywords-110">Wild</term>
+          <term ref="lub-keywords-138">Wein</term>
+          <term ref="lub-keywords-42">Türkensteuer</term>
+          <term ref="lub-keywords-362">blume</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-11-29">29. Nov 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_buch_walgau_8_fol__12v-13r-0001.jpg" xml:id="lub-media-644" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-12v.jpg" corresp="E"/>
+    <graphic url="at-tla_buch_walgau_8_fol__12v-13r-0002.jpg" xml:id="lub-media-645" source="tla-oo-regierung-kopialbucher-buch-walgau-band-8-1591-1598-fol-13r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName><lb n="2"/>contra vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>,  
+<lb n="3"/><persName ref="lub-actors-166">Casparn von Rambschwag</persName>. 
+</p>
+        <p><lb n="4"/>Aus ewerm unns vom <date from="1591-11-14">14.<!--Trisen--></date> diß zuegesanndten be
+<lb n="5"/>richtschreiben unnd der nebenlag haben wir  
+<lb n="6"/>verstannden, welchermassen herr <persName ref="lub-actors-13">Carl Lud
+<lb break="no" n="7"/>wig graf zu Sulz<!--Trisen--></persName>, der fürstlichen durchlaucht erzherzog <persName ref="lub-actors-11">Fer
+<lb n="8"/>dinannden zu Österreich<!--Trisen--></persName> etc. unnsers gnedigisten hern  
+<lb n="9"/>vogt zu <placeName ref="lub-places-13">Guettenberg<!--Trisen--></placeName>, <persName ref="lub-actors-166">Casparn von Rambschwag<!--Trisen--></persName>,  
+<lb n="10"/>von wegen aines <term ref="lub-keywords-110">hirschen<!--Trisen--></term>, den er mit bewil
+<lb n="11"/>ligung deren von <placeName ref="lub-places-106">Mayenfeldt<!--Trisen--></placeName> auf irem poden  
+<lb n="12"/>schiessen und über sein, herrn <persName ref="lub-actors-13">grafens<!--Trisen--></persName>, grundt,  
+
+<lb n="13"/>und poden füeren lassen. Das er, von <persName ref="lub-actors-166">Rambschwag<!--Trisen--></persName>,  
+<lb n="14"/>sich auch mit ime, herrn <persName ref="lub-actors-13">grafen<!--Trisen--></persName>, umb die <term ref="lub-keywords-42">türggen  
+<lb n="15"/>steur<!--Trisen--></term> und anlag von seinen zu <placeName ref="lub-places-268">Wisen<!--Trisen--></placeName><!--Trisen--> gelegenen  
+<lb n="16"/>güetern nit vergleichen wellen, etc., ime seinen 
+<lb n="17"/>heurigs ja<placeName ref="lub-places-268">rs zu</placeName> Wisen gewachßnen wein<term ref="lub-keywords-57"> in  
+<lb n="18"/>a</term>rresst gelegt. Item das er, herr graf,  
+<lb n="19"/>auc<persName ref="lub-actors-167">h dem Wolf</persName>finger, als des schloß Gueten
+<lb n="20"/>berg lehenman, den waibel zuegeschickht und  
+<lb n="21"/>anzaigen lassen haben, wofeer er nit bey  
+<lb n="22"/>ime umb gnad bitte, das man ime die al
+<lb n="23"/>mainden wun und waid, wasser und holz  
+<lb n="24"/>verbieten werde etc. Dieweil wir  
+<lb n="25"/>euch dann hievor zu mehrmallen auferlegt,  
+<lb n="26"/>das ir auf zuetragende fääl die gebürennde  
+<lb n="27"/>hanndthabung fürnemen sollet, so lassen  
+<lb n="28"/>wir es demnach bey demselben nochmals  
+<lb n="29"/>allerdings verbleiben. Unnd so ir dann  
+<lb n="30"/>auch in angeregten eurem schreiben vermeld
+<lb n="31"/>et, das de<persName ref="lub-actors-166">m von Ramb</persName>schwag sein pluemen  
+<lb n="32"/>aufrecht, dessen er starckh begert, nit hab  
+<lb n="33"/>mügen erfolgen, sonnder mit gewaldt  
+<lb n="34"/>aufgehalten worden, werde man zu re
+<lb n="35"/>laxierung anger<term ref="lub-keywords-57">egten ar</term>ressts fasst  
+<lb n="36"/>dergleichen mittl an die hanndt nemen müssen. 
+<lb n="37"/>So werden ir demnach dasselbig also, oder  
+<lb n="38"/>aber die sachen auf anndere fürträgliche  
+<lb n="39"/>weg inns werckh zu richten wissen, da
+<lb n="40"/>mit dem von <persName ref="lub-actors-166">Rambschwag</persName> sein <term ref="lub-keywords-57">arrestierter</term> <term ref="lub-keywords-138">wein</term> 
+<lb n="41"/>wider ervolgen müge, wolten wir  
+<lb n="42"/>euch zur wider anntwurt nit pergen und  
+<lb n="43"/>es beschicht hieran anstat irer fürstlichen durchlaucht unnser  
+<lb n="44"/>maynung. Datum, den <origDate>29. Novembris anno etc. 
+<lb n="45"/>ainundneunzig</origDate> 
+<lb n="46"/>An <orgName ref="lub-actors-337">vogt und ambtleut 
+<lb n="47"/>zu Veldtkirch</orgName>
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
