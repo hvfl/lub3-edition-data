@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-267">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Konflikt zwischen dem Landgericht Rankweil und dem Grafen Karl Ludwig von Sulz soll beendet werden</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-267">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 80r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 19. Oktober 1596 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung an Vogt und Amtleute von Feldkirch, ehestens den Streit zwischen Rankweil und Sulz zu beenden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1596-10-19">19. Okt 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__80r-v-0001.jpg" xml:id="lub-media-3173" source="1596-10-19-buch-walgau-8-31-80r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName key="">Carl Ludwig graf zu Sulz</persName>. 
+</p>
+        <p><lb n="2"/>Was wir euch auf eueren, unnß vom <date when="1596-04-23">23. 
+<lb n="3"/>verschines monats aprilis</date>, der durch herrn  
+<lb n="4"/><persName ref="lub-actors-13">Carlen Ludwigen grafen zu Sulz</persName> dem hochlöb
+<lb break="no" n="5"/>lichen hauß <orgName ref="lub-actors-172">Österreich</orgName> zuefüegenden eingriff 
+<lb n="6"/>halben übersenndten bericht, vom <date when="1596-04-29">29. bemelts  
+<lb n="7"/>monats</date>, ferrer zuegeschriben und in namen  
+<lb n="8"/>der römisch kayserlichen mayestät etc., unnsers allergnedigisten  
+<lb n="9"/>herrens, aufferlegt und anbevolchen, das  
+<lb n="10"/>werdet ir zweiffelsohen in frischem angedenckhen  
+<lb n="11"/>sein, wann dann durch den vogt zu <placeName ref="lub-places-13">Guetten
+<lb break="no" n="12"/>berg</placeName>, <persName ref="lub-actors-166">Casparn von Rambschwag</persName>, bey unnß 
+<lb n="13"/>umb erledigung der sachen starckh und tring
+<lb break="no" n="14"/>enlich angehalten wirdet, so werdet ir dem
+<lb break="no" n="15"/>nach soliche auf eheist fürhanndt zenemen und 
+<lb n="16"/>den hievor erforderten bericht unnd  
+<lb n="17"/>guetachten unns mit fürderlichistem zuüber
+<lb break="no" n="18"/>schickhen wissen, daran beschieht etc. Datum, 
+<lb n="19"/>den 19. octobris anno etc. 96. 
+<lb n="20"/>An <orgName ref="lub-actors-2588">vogt und ambtleuth
+<lb n="21"/>zu Veldtkhürch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

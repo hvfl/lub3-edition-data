@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-271">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verwicklung der Untertanen von Vaduz und Schellenberg in den Jurisdiktionskonflikt mit dem Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-271">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 9 fol. 17r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 18. Mai 1599 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt und Amtleute von Feldkirch betreffend die Beschwerde des Grafen Karl Ludwig von Sulz, dass sie seine Untertanen zu Vaduz, Schellenberg und Blumenegg widerrechtlich vor das Landgericht Rankweil zitieren, und betreffend seine Bitte um eine gütliche Kommission.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1599-05-18">18. Mai 1599</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_9_fol__17r-v-0001.jpg" xml:id="lub-media-3189" source="1599-05-18-buch-walgau-9-02-17r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_9_fol__17r-v-0002.jpg" xml:id="lub-media-3190" source="1599-05-18-buch-walgau-9-03-17v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herrn <persName ref="lub-actors-13">Carl grafen zu Sulz</persName><lb n="2"/>betreffend. 
+</p>
+        <p><lb n="3"/>Sollichermassen sich bey der römisch kayserlichen mayestät etc.,  
+<lb n="4"/>unserm allergenedigisten herrn, herrn <persName ref="lub-actors-13">Carl  
+
+<lb n="5"/>graf zu Sulz</persName> wider euch, das ir euch understeen  
+<lb n="6"/>sollet, seine unnderthanen der herrschaffte <placeName ref="lub-places-7">Vaduz</placeName>,  
+<lb n="7"/><placeName ref="lub-places-11">Schellenberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName> ungebürlicher  
+<lb n="8"/>weise an das <orgName ref="lub-actors-518">Lanndtgericht Rannckhweil</orgName> zu  
+<lb n="9"/>citiern beschwerdt, und dabey, damit sollicher  
+<lb n="10"/>proceß besorglich erwachsender unnachperschafft  
+<lb n="11"/>halber güetlich hin und beygelegt wurde, umb  
+<lb n="12"/>verordnung commissarien bittet, und ir kayserliche  
+<lb n="13"/>mayestät von uns darauf underm dato, den <date when="1599-04-19">19. negst
+<lb break="no" n="14"/>verschines monats aprilis</date>, bericht und guetachten 
+<lb n="15"/>ob sollichen begern stattzugeben, und wer auch da
+<lb break="no" n="16"/>zue zu gebrauchen oder wie sonnsten sein, des herrn 
+<lb n="17"/>grafen, clag und beschwerungen abzuhelffen sein  
+<lb n="18"/>möge, erfordert, das habt ir ab hiebeyligennden  
+<lb n="19"/>abschrifften mit mererm innhalt zuvernemmen.  
+<lb n="20"/>Darauf haben wir vorderist euch mit eurem bericht  
+<lb n="21"/>und bedennckhen anhören wellen, in höchster
+<lb break="no" n="22"/>melter kayserlicher mayestät etc. namen bevelchende, das 
+<lb n="23"/>ir uns dasselbige sambt widersendung des ein
+<lb break="no" n="24"/>schluß ehist hieheer zuefürderet. Daran 
+<lb n="25"/>beschieht etc. Datum, den <origDate>18. maii anno etc. 9<supplied>9</supplied></origDate>. 
+<lb n="26"/>An <orgName ref="lub-actors-2588">vogt und ambtleut  
+<lb n="27"/>zu Veldtkhirch</orgName>. 
+</p>
+        <p><lb n="28"/>Den <date when="1600-11-08">8. novembris anno etc. 1600</date><lb n="29"/>ist deßwegen annermant  
+<lb n="30"/>worden. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

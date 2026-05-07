@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-273">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf von Vaduz und Schellenberg betreffend</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-273">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 11 fol. 35v-36v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 9. Dezember 1609 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Karl Kurz, Vogt von Feldkirch betreffend den Verkauf der Herrschaften Vaduz und Schellenberg durch Karl Ludwigs von Sulz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1609-12-09">9. Dez 1609</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__35v-36v-0001.jpg" xml:id="lub-media-3193" source="1609-12-09-buch-walgau-11-03-35v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__35v-36v-0002.jpg" xml:id="lub-media-3194" source="1609-12-09-buch-walgau-11-03-36r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__35v-36v-0003.jpg" xml:id="lub-media-3195" source="1609-12-09-buch-walgau-11-04-36v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herrn graven zu <persName ref="lub-actors-13">Sulz</persName> wegen  
+<lb n="2"/>verkhauff der herrschafften <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="3"/>und <placeName ref="lub-places-11">Schellenberg</placeName>. 
+</p>
+        <p><lb n="4"/>Wir haben euer schreiben vom ersten diß  
+<lb n="5"/>sambt eingeschlossnen von dem sulzisch  
+
+<lb n="6"/>landtvogt in <placeName ref="lub-places-18">Kleggew</placeName>, so den <date when="1609-11-27">27. novembris</date>  
+<lb n="7"/>negsthin datiert, wol empfangen und  
+<lb n="8"/>was wegen verkhauffs der herrschafften  
+<lb n="9"/><placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> des herrn grafen  
+<lb n="10"/>zu <persName ref="lub-actors-13">Sulz</persName> verrere erclerung sein solle, dar
+<lb break="no" n="11"/>aus angehördt und verstanden.
+</p>
+        <p><lb n="12"/>Wann aber aus herrn <persName ref="lub-actors-13">Carl Ludwigen  
+<lb n="13"/>grafen zu Sulz</persName>, vom <date when="1609-06-18">18. juni</date> negsthin  
+<lb n="14"/>unnß zuegethanem schreiben, davon  
+<lb n="15"/>ir ain abschrifft hiebey zuempfahen,  
+<lb n="16"/>gnuegsam abzunemen, das ime sol
+<lb break="no" n="17"/>liche baide herrschafften nit fail, wie 
+<lb n="18"/>dann er, herr graf, selbs, das bis dahin  
+<lb n="19"/>fürgangne für khain anbot gehalten,  
+<lb n="20"/>als khombt unnß umb sovil verwunder
+<lb break="no" n="21"/>licher für, das sich berüerter kleggewischer 
+<lb n="22"/>landtvogt, so weit wann man diser  
+<lb n="23"/>seits mit dem kauff lenger innhalten  
+<lb n="24"/>wurde, gleichsamb andere alberait  
+<lb n="25"/>im werckh sein und darmit fürgangen  
+<lb n="26"/>werden mechte, vernemen lassen, da  
+<lb n="27"/>doch dem herrn grafen zu <persName ref="lub-actors-13">Sulz</persName> vermüg  
+<lb n="28"/>vertreg, und sonderlich von graf <persName ref="lub-actors-8">Rue
+<lb break="no" n="29"/>dolffen zu Sulz</persName> anno 1517 von sich gegeb
+<lb break="no" n="30"/>nen revers, dise herrschafften yemandt 
+<lb n="31"/>andern ehe nit zuverkhauffen gebürt,  
+<lb n="32"/>sy haben dann dem hochloblichisten  
+<lb n="33"/>hauß <orgName ref="lub-actors-172">Össterreich</orgName> solche zuvor ange
+<lb break="no" n="34"/>tragen. Derohalben bevelchen 
+<lb n="35"/>wir euch hiemit innamen der römisch  
+<lb n="36"/>kayserlichen mayestät und fürstlichen durchlaucht etc., das ir mehr
+<lb break="no" n="37"/>besagtem landtvogt in <placeName ref="lub-places-18">Kleggew</placeName>, 
+<lb n="38"/>abgehörten von herrn grafen <persName ref="lub-actors-13">Carl  
+
+<lb n="39"/>Ludwigen</persName> iunstlicher gethanen schreibens  
+<lb n="40"/>und das es alhie bißhero darbey verbliben,  
+<lb n="41"/>auch sollich, sein landtvogts schreiben,   
+<lb n="42"/>für khain anbot gehalten werden khinden,  
+<lb n="43"/>hinwiderumben verstendiget, beyneben fleissig  
+<lb n="44"/>aufmerckhen habet und bestellet, damit,  
+<lb n="45"/>wo ichtes anderwerts in sollicher kauf
+<lb break="no" n="46"/>handlung fürgienge, wir dessen alß
+<lb break="no" n="47"/>baldt avisiert und verstendiget werden 
+<lb n="48"/>mügen, daran etc. Datum, den <origDate>9.  
+<lb n="49"/>decembris anno etc. 1609</origDate>. 
+<lb n="50"/>An <persName ref="lub-actors-179">Carl Kurzen</persName> vogt  
+<lb n="51"/>zu <placeName ref="lub-places-10">Veldtkhirch</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

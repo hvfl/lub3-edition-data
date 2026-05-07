@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-276">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkaufsverhandlungen über Vaduz und Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-276">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 11 fol. 40r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. März 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheide an Karl Ludwig von Sulz, Karl Kurz und Dr. Diethelm Ülin vom 1., 3., 15. und 22. März 1610 betreffend den Verkauf von Vaduz und Schellenberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1610-03-01">1. Mär 1610</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol_40r-v-0001.jpg" xml:id="lub-media-3200" source="1610-03-01-buch-walgau-11-07-40r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol_40r-v-0002.jpg" xml:id="lub-media-3201" source="1610-03-01-buch-walgau-11-08-40v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herrschafften <placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>. 
+</p>
+        <p><lb n="2"/>Wir haben euer schreiben vom <date when="1610-02-20">20. februari  
+<lb n="3"/>negsthin</date> wol empfangen und das ir unnß  
+
+<lb n="4"/>wegen beeder herrschafften <placeName ref="lub-places-7">Vaduz</placeName> und  
+<lb n="5"/><placeName ref="lub-places-11">Schellenberg</placeName> die begerte designation zu  
+<lb n="6"/>überschickhen erbietig, gern verstanden,   
+<lb n="7"/>wöllen auch derselben also erwarten,   
+<lb n="8"/>und sobald unnß solche zuerkhombt, die  
+<lb n="9"/>verrer notturfft an die fürstlich durchlaucht erzher
+<lb break="no" n="10"/>zog <persName ref="lub-actors-184">Maximilian zu Össterreich</persName> etc., unnsern  
+<lb n="11"/>gnädigsten herrn, gelangen auch deren  
+<lb n="12"/>volgende erclerung, euch hinnach gleich
+<lb break="no" n="13"/>falß fürderlichist zuekhommen lassen, 
+<lb n="14"/>loco recepisse euch solches hiemit anfüegend.  
+<lb n="15"/>Datum, den <origDate>ersten marti anno etc. 1610</origDate>. 
+<lb n="16"/>An herrn <persName ref="lub-actors-13">Carl Ludwigen  
+<lb n="17"/>grafen zu Sulz</persName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

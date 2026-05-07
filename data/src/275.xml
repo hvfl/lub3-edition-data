@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-275">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkaufsverhandlungen für Vaduz und Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-275">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 11 fol. 37v-38r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 8. Februar 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Karl Ludwig von Sulz,  Abschriften über die Höhe seiner Schulden und Verschreibungen sowie von den Urbarien seiner Herrschaften zur Einsicht zu übersenden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-61">Schulden</term>
+          <term ref="lub-keywords-62">Urbar</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1610-02-08">8. Feb 1610</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__37v-38v-0001.jpg" xml:id="lub-media-3198" source="1610-02-08-buch-walgau-11-05-37v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__37v-38v-0002.jpg" xml:id="lub-media-3199" source="1610-02-08-buch-walgau-11-05-38r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Wir haben euer schreiben vom<date when="1609-09-21"> 21. septembris  
+<lb n="3"/>negsthin</date> wol empfangen und den an
+<lb break="no" n="4"/>gebotnen kauff baider herrschafften 
+<lb n="5"/><placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> daraus ange
+<lb break="no" n="6"/>hört, wissen unnß auch der vorigen 
+<lb n="7"/>wexlschreiben zuerinnern, das ir euch  
+<lb n="8"/>aber aniezt des langen aufhalts be
+<lb break="no" n="9"/>schwerdt, würdet euch ohne zweifl un
+<lb break="no" n="10"/>entfallen sein. Welchergestalt ir 
+<lb n="11"/>euch erst, den <date when="1609-06-18">18. juni negstverschines  
+<lb n="12"/>jars</date>, durch schreiben vernemmen lassen,  
+<lb n="13"/>das ir euch noch dazumahl solliches  
+<lb n="14"/>verkhauffs entlichen nit resolviern  
+<lb n="15"/>khünden. Dahero das vorige für khain  
+<lb n="16"/>anbot gehalten, noch unnß der ver
+<lb break="no" n="17"/>zug khan zuegemessen werden. Und 
+<lb n="18"/>nachdem wir nit undterlassen, auf  
+<lb n="19"/>das iezige schreiben die notturfft  
+<lb n="20"/>alßbaldt an die fürstliche durchlaucht, erzherzog  
+<lb n="21"/><persName ref="lub-actors-184">Maximilian zu Össterreich</persName> etc., unnsern  
+<lb n="22"/>gnädigsten herrn, zugelangen, haben die
+<lb break="no" n="23"/>selbige ain designation und abschrifften 
+<lb n="24"/>der verschreibungen umb die zuübergeben  
+<lb n="25"/>vorhabende 200.000 fl. schulden, wie auch  
+<lb n="26"/>die urbarien zu solchen herrschafften  
+<lb n="27"/>gehörig, sich darinnen notwendiger  
+<lb n="28"/>weiß zuersehen, auch ob sy sich in solchen  
+<lb n="29"/>kauff einlassen wollen oder nit  
+<lb n="30"/>zuentschliessen, von euch zubegern  
+
+<lb n="31"/>und einzubringen gnedigist anbevolchen.  
+<lb n="32"/>Wann wir dann nit zweiflen, ain sol
+<lb break="no" n="33"/>liches euch gar nit zuwider sein werde, 
+<lb n="34"/>so ersuechen wir euch hierauf, ir wellet  
+<lb n="35"/>unnß angeregte designation abschrifften  
+<lb n="36"/>und urbarien mit negstem zuekhomen  
+<lb n="37"/>lassen, solle euch alßdann auf ange
+<lb break="no" n="38"/>regt iezt beschehen anbot, gebür und 
+<lb n="39"/>unverzügliche antwort erfolgen.  
+<lb n="40"/>Datum, den <origDate>8. februari anno etc. 1610</origDate>. 
+<lb n="41"/>An herrn graf <persName ref="lub-actors-13">Carl Lud
+<lb break="no" n="42"/>wigen zu Sulz</persName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

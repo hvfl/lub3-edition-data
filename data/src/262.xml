@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-262">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bescheid an Kaspar von Ramschwag wegen des Konflikts mit dem Grafen von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-262">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 66r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 24. November 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Kaspar von Ramschwag, dass er dem Grafen Karl Ludwig von Sulz weder zu gehorchen brauche noch solle, nachdem ihm dieser befohlen hat, seine Hunde innerhalb von 14 Tagen wegzugeben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-234">Gewalt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-11-24">24. Nov 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__66r-v-0001.jpg" xml:id="lub-media-3157" source="1595-11-24a-buch-walgau-8-23-66r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__66r-v-0002.jpg" xml:id="lub-media-3158" source="1595-11-24a-buch-walgau-8-24-66v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem. 
+</p>
+        <p><lb n="2"/>Wir haben euer schreiben, den 10. diß  
+<lb n="3"/>datiert, emfpanngen und darauß des euch  
+<lb n="4"/>abermalen durch herrn <persName ref="lub-actors-13">Carl Ludwigen  
+<lb n="5"/>grafen zu Sulz</persName> begegneten gwaltthatt  
+<lb n="6"/>unnd unbefuegten gebotts, das ir  
+<lb n="7"/>euere hundt auf lenngst innerhalb 14  
+<lb n="8"/>tagen hinweg thuen sollet, nit gerne  
+<lb n="9"/>vernomen. 
+</p>
+        <p><lb n="10"/>Nun habt ir an deme, das ir euerm  
+<lb n="11"/>vermelden nach solich gebott zu handt
+<lb break="no" n="12"/>habung des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> ge
+<lb break="no" n="13"/>rechtigkhait von bemelts grafen zu 
+<lb n="14"/><persName key="">Sulz</persName> abgesanndten dienern nit angenomen,  
+
+<lb n="15"/>sonnder alspald darwider protestiert gar <gap/> 
+<lb n="16"/>gethan, wie ir dann auch fürterhin egedachtem  
+<lb n="17"/>herrn grafen in dergleichen unbefuegten ge
+<lb break="no" n="18"/>botten im wenigisten nit gehorsamen, sonder 
+<lb n="19"/>euch yederzeit darwider sezet, unnd do euch  
+<lb n="20"/>noch über das weitter durch ine, herrn grafen,  
+<lb n="21"/>was beschwerlichs zuegefüegt werden solte,  
+<lb n="22"/>unnß dessen alspald und unverzogenlichen  
+<lb n="23"/>berichtet, wolten wir euch auf obberüert  
+<lb n="24"/>euer schreiben zu ainem recepisse nit ver
+<lb break="no" n="25"/>halten. Datum, den <origDate>24. novembris anno etc. 95</origDate>.
+<lb n="26"/>An <persName ref="lub-actors-166">Casparn von  
+<lb n="27"/>Rambschwag</persName>, vogt  
+<lb n="28"/>zu <placeName ref="lub-actors-13">Guettenberg</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

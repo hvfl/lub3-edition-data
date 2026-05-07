@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-264">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Graf Karl Ludwig von Sulz versucht Kaspar von Ramschwag einzuschüchtern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-264">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 68r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 20. Dezember 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheide an Vogt und Amtleute von Feldkirch, dass sie sich wegen des Konflikts zwischen Kaspar von Ramschwag und Grafen Karl Ludwig von Sulz dringen an Dr. Gallus Hager wenden sollen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-12-20">20. Dez 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__68r-v-0001.jpg" xml:id="lub-media-3163" source="1595-12-20-buch-walgau-8-25-kopie-68r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__68r-v-0002.jpg" xml:id="lub-media-3164" source="1595-12-20-buch-walgau-8-26-kopie-68v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Caspar von Rambschwag</persName><lb n="2"/>contra herrn <persName ref="ub-actors-13">Carlen Lud
+<lb break="no" n="3"/>wigen grafen zu Sulz</persName>.
+</p>
+        <p><lb n="4"/>Wir haben euer unns, vom <date when="1595-12-13">13. dits</date>, zue
+<lb break="no" n="5"/>gethan schreiben betreffendt <persName ref="lub-actors-166">Casparn 
+<lb n="6"/>von Rambschwag</persName>, vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>,  
+<lb n="7"/>unnd herrn <persName ref="lub-actors-13">Carlen Ludwigen, grafen  
+<lb n="8"/>zu Sulz</persName>, sambt den beylagen, was  
+<lb n="9"/>euch doctor <persName ref="lub-actors-173">Gall Hager</persName> derowegen zue
+<lb break="no" n="10"/>geschriben empfanngen und vernomen 
+<lb n="11"/>inn namen der römisch kayserlichen mayestät etc., unsers  
+
+<lb n="12"/>allergnedigisten herrn, euch hiemit ferrer  
+<lb n="13"/>bevelchend, das ir alßbald es mit ehister  
+<lb n="14"/>gelegenheit ermelts doctor <persName ref="lub-actprs-173">Hagers</persName> halben  
+<lb n="15"/>beschehen khann und gesein mag, inn <gap/>  
+<lb n="16"/>geet, wolten wir euch bey disen ewern  
+<lb n="17"/>aigens abgesanndten botten zu wider  
+<lb n="18"/>anndtwurt nit verhalten, unnd ir vol
+<lb break="no" n="19"/>ziecht etc. Datum, den <origDate>20. tag decembris anno etc. 95</origDate>.
+<lb n="20"/>An <orgName ref="lub-actors-687">vogt unnd ambt
+<lb break="no" n="21"/>leuth zu Veldtkhürch</orgName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

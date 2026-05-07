@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-272">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Übergriffe auf Untertanen aus Vaduz und Schellenberg durch das Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-272">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 9 fol. 108r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. September 1601 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt und Amtleute von Feldkirch, auch Landgerichtsverwalter zu Rankweil, Hans Frick betreffend die Anmassungen Karl Ludwigs von Sulz gegen die Jurisdiktion des Landgerichtes Rankweil, und zwar durch den sulzlschen Landschreiber zu Vaduz, Hans Jakob Beck, und des sulzischen Ammannes zu Schaan, Hans Zoller. Auch wurden die Landgerichtsboten an ihrer Verrichtung gehindert.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1601-09-01">1. Sep 1601</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_9_fol__108r-v-0001.jpg" xml:id="lub-media-3191" source="1601-09-01-buch-walgau-9-04-108r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_9_fol__108r-v-0002.jpg" xml:id="lub-media-3192" source="1601-09-01-buch-walgau-9-05-108v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herr <persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName><lb n="2"/>wider das <orgName ref="lub-actors-518">Landtgericht Ranckhweil</orgName>. 
+</p>
+        <p><lb n="3"/>Was wir euch sub dato, <date when="1597-01-10">10. januarii des 97.</date> jars,  
+<lb n="4"/>der eintrag und verhinderung halben, so sich do
+<lb break="no" n="5"/>malen herr <persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName> und 
+<lb n="6"/>seine ambtleüt dem <orgName ref="lub-actors-518">Freyen Lanndtgericht  
+<lb n="7"/>zu Rannckhweil</orgName> an desselben jurißdiction und  
+<lb n="8"/>gerichtszwang ine zuezufüegen angemast und  
+<lb n="9"/>unnderstanden, und wellichermassen ir euch  
+<lb n="10"/>der gebürenden hanndthabung gebrauchen sollet,  
+<lb n="11"/>innamen der römisch kayserlichen mayestät etc., unsers allerge
+<lb break="no" n="12"/>nedigisten herrns, auferlegt und anbevolchen, 
+<lb n="13"/>das werdet ir noch guet ingedenckh sein. Wann  
+<lb n="14"/>dann ir, <persName ref="lub-actors-174">Frickh</persName>, als lanndtgerichts verwalter  
+<lb n="15"/>uns vom <date when="1601-08-02">2. deß erst abgeloffnen monats augusti</date>  
+<lb n="16"/>schrifftlichen verstendigt, das sich der sulzisch  
+<lb n="17"/>lanndtschreiber zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-177">Hannß Jacob Beckh</persName>,  
+<lb n="18"/>unnd dann der sulzisch amman zu <placeName ref="lub-places-53">Schann</placeName>, <persName ref="lub-actors-178">Hannß  
+<lb n="19"/>Zoller</persName>, jezt abermalen dergleichen thatlichaiten  
+<lb n="20"/>obberüertem <orgName ref="lub-actors-518">Lanndtgericht</orgName> zuezefüegen an
+<lb break="no" n="21"/>massen, auch die landtgerichtspotten gefer
+<lb break="no" n="22"/>licher weiß aufhalten, in irer verrichtung ver
+<lb break="no" n="23"/>hindern, und sy zubefennckhnussen angetroet 
+
+<lb n="24"/>haben sollen, so werdet ir demnach in crafft ob
+<lb break="no" n="25"/>berüerts, auch diß unnsers bevelchs, euch der 
+<lb n="26"/>gebürennden hanndhabung zugebrauchen und  
+<lb n="27"/>gegen denjhenigen sulzischen ambtleüten,  
+<lb n="28"/>diennern und underthanen, welche sich dem  
+<lb n="29"/>Lanndtgericht verhinderung zethuen, mit be
+<lb break="no" n="30"/>fennckhnußung der potten oder in annder weeg 
+<lb n="31"/>anmassen werden und fürnemblichen denen,  
+<lb n="32"/>so sich darzue gebrauchen lassen, mit fiscalischen  
+<lb n="33"/>processen zuverfaren, oder auch deren ainen,  
+<lb n="34"/>zween oder drey beyzufachen. Und do sy die  
+<lb n="35"/>azung nit selbst zu bezalen hetten, sy wie andere  
+<lb n="36"/>gefangen zu halten und uns dessen jederzeit  
+<lb n="37"/>ausfierlichen, sambt euren angehenckhten be
+<lb break="no" n="38"/>denckhen und guetachten zuverstendigen wissen, 
+<lb n="39"/>hieran beschieht etc. Datum, den <origDate>ersten tag  
+<lb n="40"/>septembris anno etc. 1601</origDate>. 
+<lb n="41"/>An <orgName ref="lub-actors-2588">vogt und ambtleüt zu Veldt
+<lb break="no" n="42"/>khirch</orgName>, auch lanndtgerichtsver
+<lb break="no" n="43"/>walter zu <placeName ref="lub-places-40">Ranckhweil</placeName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

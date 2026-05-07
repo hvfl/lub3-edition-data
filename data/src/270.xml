@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-270">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beratschlagung über Konflikt mit Vogt von Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-270">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 144v-145r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 2. Mai 1592 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt zu Bregenz vom 2. und 16. Mai 1592, mit den Amtleuten der Herrschaften Bregenz und Feldkirch über die Streitigkeiten zwischen Karl Ludwig von Sulz und dem Vogt zu Gutenberg zu beratschlagen</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1592-05-02">2. Mai 1592</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__144v-145r-0001.jpg" xml:id="lub-media-3180" source="1592-05-02-buch-walgau-8-40-144v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__144v-145r-0002.jpg" xml:id="lub-media-3181" source="1592-05-02-buch-walgau-8-40-145r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Herr <persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName><lb n="2"/>contra den vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>. 
+</p>
+        <p><lb n="3"/>Was die fürstlich durchlaucht etc., unnßer gnedigister herr, herrn  
+<lb n="4"/><persName ref="lub-actors-13">Carl Ludwigen grafen zu Sulz</persName> wider irer  
+<lb n="5"/>durchlaucht vogt zu <placeName ref="lub-places-13">Guttenberg</placeName>, und in annder weeg  
+<lb n="6"/>yebenden truz und übermuets halben, euch vom  
+<lb n="7"/>10. negstabgeloffnen monats aprilis zuege
+<lb break="no" n="8"/>schriben und bevolhen, das werdet ir nun mer 
+<lb n="9"/>zweifelsohne empfanngen und vernomen haben. 
+<lb n="10"/>Was nun erst höchstgedachter fürstlich durchlaucht <orgName ref="lub-actors-2588">ambtleüt  
+<lb n="11"/>zu Veldtkirch</orgName>, dero ernents grafen halben,  
+<lb n="12"/>vom 2<date when="1592-04-24">4. ermelts monats aprilis</date>, abermalen  
+<lb n="13"/>zuegeschriben, habt ir innligendts zuvernemen. 
+<lb n="14"/>Wann dann an befürderung euch anbevolchner  
+<lb n="15"/>beratschlagung nit wenig gelegen, sowol auch  
+<lb n="16"/>die unvermeidenliche notturfft erfordern will,  
+<lb n="17"/>damit ime, grafen, mit ehistem der gebür nach  
+<lb n="18"/>begegnet werde, haben wir euch neben er
+<lb break="no" n="19"/>innerung vorigen irer durchlaucht bevelchs, sollich 
+<lb n="20"/>einkomens schreiben auch zuezuschickhen nit umb
+<lb break="no" n="21"/>geen sollen, in irer durchlaucht namen hiemit bevelhent, 
+<lb n="22"/>das ir mit irer durchlaucht ambtleuten beeder herr
+<lb break="no" n="23"/>schafften <placeName ref="lub-places-45">Bregenz</placeName> und <placeName ref="lub-places-10">Veldtkirch</placeName> darinn ange
+<lb break="no" n="24"/>zogne sachen gleichergestalt beratschlaget, was 
+<lb n="25"/>auf ainen und den anndern des grafen unbefüegten  
+<lb n="26"/>eintrag für und an die hanndt zunemen sein möchten.  
+<lb n="27"/>Und wessen ir euch vergleichen werdet, dasselbe  
+
+<lb n="28"/>den negsten und alßbaldt alhieheer gelanngen  
+<lb n="29"/>lasset, an demem beschieht etc. Datum, den <origDate>2.  
+<lb n="30"/>maii anno etc. 92</origDate>. 
+<lb n="31"/>An vogt zu Bregenz. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

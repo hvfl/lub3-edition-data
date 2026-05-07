@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-274">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaufverhandlungen von Vaduz und Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-274">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 11 fol. 36v-37r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 16. Januar 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Karl Kurz und Dr. Diethelm Ülin, Verwalter zu Bregenz, und Karl Ludwig von Sulz betreffend die Kaufverhandlungen um Vaduz und Schellenberg. Kurz und Velin sollten sich ehestens nach St. Gallen begeben und sich über die angeblichen Kaufverhandlungen des Grafen mit dem Prälaten erkundigen. Sie sollten auch den Prälaten darüber informieren, daß das Haus Österreich das Vorkaufsrecht und ein Jahr Bedenkzeit habe.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1610-01-16">16. Jan 1610</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__36v-37r-0001.jpg" xml:id="lub-media-3196" source="1610-01-16-buch-walgau-11-04-36v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_11_fol__36v-37r-0002.jpg" xml:id="lub-media-3197" source="1610-01-16-buch-walgau-11-04-37r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Kauffstractation wegen  
+<lb n="2"/>baider herrschafften <placeName ref="lub-places-7">Vaduz</placeName><lb n="3"/>und <placeName ref="lub-places-11">Schellenberg</placeName>. 
+</p>
+        <p><lb n="4"/>Demnach unnß glaublichen anlangt,  
+<lb n="5"/>das der herr graf prelat zu <placeName ref="lub-places-80">St. Gallen</placeName>  
+
+<lb n="6"/>sich mit herrn graf <persName ref="lub-actors-13">Carl Ludwigen von  
+<lb n="7"/>Sulz</persName> umb baide herrschafften <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="8"/>und <placeName ref="lub-places-11">Schellenberg</placeName> in kauffstracta
+<lb break="no" n="9"/>tion eingelassen, auch solcher kauff 
+<lb n="10"/>ime, herrn grafen, zur ratification  
+<lb n="11"/>per <placeName ref="lub-places-25">Prag</placeName> alberait ubersandt sein solle,  
+<lb n="12"/>bevelchen euch hierauf innamen  
+<lb n="13"/>der römisch kayserlichen mayestät und fürstlichen durchlaucht etc.,  
+<lb n="14"/>nach <placeName ref="lub-places-80">St. Gallen</placeName> verfüeget, diser  
+<lb n="15"/>kauffshandlung im fahl sy euch nit  
+<lb n="16"/>anvor bewisst, fleissig und grundt
+<lb break="no" n="17"/>lich erkhundiget, und da ir solche also 
+<lb n="18"/>befinden, alßdann ernenten herrn  
+<lb n="19"/>prelaten, welchergestalt er, herr graf  
+<lb n="20"/>zu <persName ref="lub-actors-13">Sulz</persName>, und seine erben und nachkhommen,  
+<lb n="21"/>wann sy solche baide herrschafften zuver
+<lb break="no" n="22"/>khauffen vorhabens, dem hochloblichen 
+<lb n="23"/>hauß <orgName ref="lub-actors-172">Össterreich</orgName> das anbot vor aller
+<lb break="no" n="24"/>menigclich zuthuen, auch ain ganzes 
+<lb n="25"/>jar lang den bedacht zulassen und der  
+<lb n="26"/>deliberation zuezuwarten schuldig,  
+<lb n="27"/>neben deme die öffnung solcher baider  
+<lb n="28"/>heüser, ohne das hochernentem hauß  
+<lb n="29"/><orgName ref="lub-actors-172">Össterreich</orgName> zuegehörig und man sich  
+<lb n="30"/>deren, wann solch herrschafften gleich  
+<lb n="31"/>in andere handt khomen, nit begeben  
+<lb n="32"/>wurde, verstendiget, und was ir hier
+<lb break="no" n="33"/>undter befinden und verrichten, auch 
+<lb n="34"/>von ime, herrn prelaten in antwort  
+<lb n="35"/>erlangen werdet, unnß fürderlichen und  
+<lb n="36"/>alßbaldt berichtet, daran etc. Datum,  
+<lb n="37"/>den <origDate>16. jenner anno etc. 1610</origDate>. 
+<lb n="38"/>An <persName ref="lub-actors-179">Carl Kurzen</persName>, vogt zu  
+<lb n="39"/><placeName ref="lub-places-10">Veldkhirch</placeName> und doctor <persName ref="lub-actors-1177">Diethelm  
+<lb n="40"/>Velin</persName>, verwalter zu <placeName ref="lub-places-45">Bregenz</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

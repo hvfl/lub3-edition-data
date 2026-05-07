@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-04-07 15:36:37 aus </p>
+        <p>Datenbankexport vom 2026-05-07 12:39:41 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3058,6 +3058,7 @@
             <placeName type="sort" xml:lang="de">salums</placeName>
             <placeName type="alternative" xml:lang="de">Solums</placeName>
             <location>
+              <geo>47.225838 9.528044</geo>
               <settlement xml:lang="de">Gamprin</settlement>
               <country xml:lang="de">Liechtenstein</country>
               <country xml:lang="en">Liechtenstein</country>
@@ -7819,6 +7820,8 @@
             <placeName type="main" xml:lang="de">Underfeld</placeName>
             <placeName type="full" xml:lang="de">Underfeld / Balzers</placeName>
             <placeName type="sort" xml:lang="de">underfeld</placeName>
+            <placeName type="alternative" xml:lang="de">Undern Feldt</placeName>
+            <placeName type="alternative" xml:lang="de">Undern Veld</placeName>
             <location>
               <geo>47.07501 9.50364</geo>
               <settlement xml:lang="de">Balzers</settlement>
@@ -9039,6 +9042,7 @@
             <placeName type="full" xml:lang="de">Gantenstein / Schellenberg</placeName>
             <placeName type="sort" xml:lang="de">gantenstein</placeName>
             <placeName type="alternative" xml:lang="de">Ganndenstain</placeName>
+            <placeName type="alternative" xml:lang="de">Gandenstain</placeName>
             <location>
               <settlement xml:lang="de">Schellenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -9055,6 +9059,7 @@
             <placeName type="full" xml:lang="de">Gampösch / Schellenberg</placeName>
             <placeName type="sort" xml:lang="de">gampoesch</placeName>
             <placeName type="alternative" xml:lang="de">Gaempösch</placeName>
+            <placeName type="alternative" xml:lang="de">Gaemposch</placeName>
             <location>
               <settlement xml:lang="de">Schellenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -12223,6 +12228,7 @@
             <placeName type="sort" xml:lang="de">falgedin</placeName>
             <placeName type="alternative" xml:lang="de">Falgedyn</placeName>
             <placeName type="alternative" xml:lang="de">Valgadin</placeName>
+            <placeName type="alternative" xml:lang="de">Vallgenndin</placeName>
             <location>
               <settlement xml:lang="de">Ruggell</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -12237,7 +12243,7 @@
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>unbekannt</p>
+              <p>Unbekannt.</p>
             </note>
           </place>
           <place type="T" xml:id="lub-places-531">
@@ -12475,6 +12481,7 @@
             <placeName type="full" xml:lang="de">Schädlersboden / Triesenberg</placeName>
             <placeName type="sort" xml:lang="de">schaedlersboden</placeName>
             <placeName type="alternative" xml:lang="de">Schedlers Bodenn</placeName>
+            <placeName type="alternative" xml:lang="de">Schedler Poden</placeName>
             <location>
               <settlement xml:lang="de">Triesenberg</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -17977,6 +17984,7 @@
             <placeName type="alternative" xml:lang="de">Pittingen</placeName>
             <placeName type="alternative" xml:lang="de">Püttingen</placeName>
             <location>
+              <geo>49.48513 6.26457</geo>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -18601,7 +18609,7 @@
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Schloss_Rietberg"/>
               </bibl>
               <bibl>
-                <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Rietberg Castle"/>
+                <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Rietberg%20Castle"/>
               </bibl>
               <bibl>
                 <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/3010914"/>
@@ -19193,10 +19201,10 @@
             </note>
           </place>
           <place type="V" xml:id="lub-places-893">
-            <placeName type="main" xml:lang="de">Au(2)</placeName>
-            <placeName type="full" xml:lang="de">Au(2) / Gamprin</placeName>
-            <placeName type="sort" xml:lang="de">au(2)</placeName>
-            <placeName type="alternative" xml:lang="de">Gamrpiner Auw</placeName>
+            <placeName type="main" xml:lang="de">Au (2)</placeName>
+            <placeName type="full" xml:lang="de">Au (2) / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">au (2)</placeName>
+            <placeName type="alternative" xml:lang="de">Gampriner Auw</placeName>
             <location>
               <settlement xml:lang="de">Gamprin</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -20149,6 +20157,39 @@
             </location>
             <idno type="lub-places-id">947</idno>
           </place>
+          <place type="A" xml:id="lub-places-954">
+            <placeName type="main" xml:lang="de">Schwaben (Landvogtei)</placeName>
+            <placeName type="full" xml:lang="de">Schwaben (Landvogtei)</placeName>
+            <placeName type="sort" xml:lang="de">schwaben (landvogtei)</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">954</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Landvogtei_Schwaben">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Landvogtei Schwaben, ab 1750 Oberamt Altdorf, gehörte zu Vorderösterreich und war somit ein Teil des Habsburgerreiches. Sie entstand nach dem Untergang des Herzogtums Schwaben am Ende des 13. Jahrhunderts als Reichslandvogtei in Ober- und Niederschwaben, kam als Reichspfandschaft 1541 endgültig an das Haus Habsburg und verblieb dort als Teil von Vorderösterreich bis 1805.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-955">
+            <placeName type="main" xml:lang="de">Altshausen, Schloss</placeName>
+            <placeName type="full" xml:lang="de">Altshausen, Schloss / Altshausen (Baden-Württemberg und Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">altshausen, schloss</placeName>
+            <placeName type="alternative" xml:lang="de">Alschhaußen</placeName>
+            <location>
+              <settlement xml:lang="de">Altshausen</settlement>
+            </location>
+            <idno type="lub-places-id">955</idno>
+            <note type="description" xml:lang="de">
+              <p>Schloss Altshausen in Altshausen (Landkreis Ravensburg, Oberschwaben) war die Residenz des Landkomturs der Deutschordensballei Schwaben-Elsass-Burgund.</p>
+            </note>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -20196,7 +20237,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-04-07T15:36:37+02:00">teiHeader was automatically produced from the database 2026-04-07T15:36:37+02:00</change>
+      <change when="2026-05-07T12:39:43+02:00">teiHeader was automatically produced from the database 2026-05-07T12:39:43+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

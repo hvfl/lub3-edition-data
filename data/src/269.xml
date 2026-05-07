@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-269">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Die Amtleute von Feldkirch sollen die Anweisungen gegen die Übergriffe des Grafen Karl Ludwig von Sulz befolgen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-269">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 92v-93r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 23. August 1597 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt und Amtleute von Feldkirch, endlich den Befehlen gegen die Eingriffe des Grafen Karl Ludwig von Sulz gegen das Haus Österreich nachzukommen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1597-08-23">23. Aug 1597</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__92v-93r-0001.jpg" xml:id="lub-media-3184" source="1597-08-23-buch-walgau-8-38-92v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__92v-93r-0002.jpg" xml:id="lub-media-3185" source="1597-08-23-buch-walgau-8-38-93r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Caspar von Ramschwag</persName><lb n="2"/>contra herrn <persName ref="lub-actors-13">Carlen Lud
+<lb break="no" n="3"/>wigen grafen zu Sulz</persName>.
+</p>
+        <p><lb n="4"/>Was wir euch noch hievor, den <date when="1596-04-29">29. aprilis</date><lb n="5"/>unnd <date when="1596-10-19">19. octobris verschines 96</date>. jars, vonn  
+<lb n="6"/>wegen deren durch herrn <persName ref="lub-actors-13">Carlen Lud
+<lb break="no" n="7"/>wigen grafen zu Sulz</persName> dem hochlöblichen 
+<lb n="8"/>hauß <orgName ref="lub-actors-172">Österreich</orgName> zuefüegender eingriff etc. auf
+<lb break="no" n="9"/>erlegt, daß werdet ir euch ohne zweifel 
+<lb n="10"/>nach wol zuerinnern haben. Dieweil  
+<lb n="11"/>unns aber darauf nach bishero von euch  
+<lb n="12"/>nichts ervolgt, unnd dann <persName ref="lub-actors-166">Caspar von  
+<lb n="13"/>Rambschwag</persName>, vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>, inhalt  
+<lb n="14"/>hiebeiverter abschrifft deshalben bey  
+
+<lb n="15"/>den herrn tyrolischen camerräthen wider
+<lb break="no" n="16"/>umben anvermandt, daneben deß <persName ref="lub-actors-167">Casparn 
+<lb n="17"/>Wolffingers </persName>und verkhauffung seines inn
+<lb break="no" n="18"/>habenden hof und guets wegen, so zu dem 
+<lb n="19"/>schloss <placeName ref="lub-places-13">Guettemberg</placeName> gehörig, anregung thuet,  
+<lb n="20"/>so ist demnach in namen der römisch kayserlichen  
+<lb n="21"/>mayestät etc., unnsers allergnedigisten herrn,   
+<lb n="22"/>hiemit unnser ferrer bevelch an euch, das  
+<lb n="23"/>ir demjhenigen, was euch hievor durch  
+<lb n="24"/>unns wie obgemelt aufferlegt worden,  
+<lb n="25"/>nochmals unverlenngt nachkhommet  
+<lb n="26"/>unnd unns darauf sowol auch über dis,  
+<lb n="27"/>des von <persName ref="lub-actors-166">Rambschwags</persName> jezig begern,  
+<lb n="28"/>euern unverlenngten bericht unnd rath
+<lb break="no" n="29"/>samben guetachten mit widersenndung 
+<lb n="30"/>alles einschluß hieheer zu unnsern, der  
+<lb n="31"/>Regierung, hannden ehendist zuekhomen  
+<lb n="32"/>lasset, an dem beschieht etc. Datum,  
+<lb n="33"/>den <origDate>23. augusti anno etc. 97</origDate>. 
+<lb n="34"/>An <orgName ref="lub-actors-2588">vogt und ambtleuth  
+<lb n="35"/>zu Veldtkhürch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-265">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bescheid an Kaspar von Ramschwag im Konflikt mit Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-265">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 74r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. April 1596 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Weiterer Bescheid an Kaspar von Ramschwag und Vogt und Amtleute von Feldkirch im Konflikt mit Karl Ludwig von Sulz. Es wird überlegt, wie man den Konflikt beilegen könnte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-57">Beschlagnahme</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1596-04-29">29. Apr 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__74r-v-0001.jpg" xml:id="lub-media-3166" source="1596-04-29a-buch-walgau-8-28-74r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__74r-v-0002.jpg" xml:id="lub-media-3167" source="1596-04-29a-buch-walgau-8-29-74v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem. 
+</p>
+        <p><lb n="2"/>Wir haben euer unns, vom <date when="1596-04-23">23. dits</date>, zue
+<lb break="no" n="3"/>gethan scheiben sambt denen darauf 
+<lb n="4"/>referierennden beylagen betreffendt  
+<lb n="5"/>herrn <persName ref="lub-actors-13">Carlen Ludwigen grafen zu Sulz</persName><lb n="6"/>dem hochlöblichen hauß <orgName ref="lub-actors-172">Österreich</orgName> zue
+<lb break="no" n="7"/>füegende eingriff etc. empfanngen und ver
+<lb break="no" n="8"/>nomen. Dieweil aber euer und doctor 
+<lb n="9"/><persName ref="lub-actors-173">Gall Hagers</persName> angedeut mittel, nämb
+<lb break="no" n="10"/>lichen das die sulzische <orgName ref="lub-actors-687">Ambtleuth</orgName> und 
+<lb n="11"/>underthanen in den österreichischen herr
+<lb break="no" n="12"/>schafften, alß <placeName ref="lub-places-10">Veldtkhürch</placeName>, <placeName ref="lub-places-205">Bludenz</placeName> und 
+<lb n="13"/><placeName ref="lub-places-6">Sonnenberg</placeName> nit solten behaust und be
+<lb break="no" n="14"/>hörbergt werden etc., etwas zu starckh und 
+<lb n="15"/>scharff. So ist demnach innamen der  
+<lb n="16"/>römisch kayserlichen mayestät etc., unnsers allergnedigisten  
+<lb n="17"/>herrn, hiemit unnser bevelch an euch,  
+<lb n="18"/>das ir sambt obernanntem doctor  
+<lb n="19"/><persName ref="lub-actors-173">Gallen Hagern</persName> sowol den <orgName ref="lub-actors-687">Ambtleuthen</orgName>  
+<lb n="20"/>zu <placeName ref="lub-places-45">Bregenz</placeName>, auch <persName ref="lub-actors-166">Casparn von Ramb
+<lb break="no" n="21"/>schwag</persName>, vogt zu <placeName ref="lub-places-13">Guettenberg</placeName> und anndern 
+<lb n="22"/>die sachen unverlenngt nottürfftig
+<lb break="no" n="23"/>clichen beratschlaget, was ausserhalb 
+
+<lb n="24"/>hievor fürgeschlagner, sonnst für anndere  
+<lb n="25"/>mittel unnd weg zu abstellung ernents  
+<lb n="26"/>herrn grafen unfüeg fürgenomen unnd  
+<lb n="27"/>ob nit, inmassen wir euch, den <date when="1595-11-24">24. novem
+<lb break="no" n="28"/>bris jüngstverschines 95.</date> jars, andeuttung 
+<lb n="29"/>gethan, ime, herrn grafen, <placeName ref="lub-places-12">Pluemenegg</placeName> und  
+<lb n="30"/>alles annders, so er inn der herrschafft  
+<lb n="31"/><placeName ref="lub-places-10">Veldtkhürch</placeName> ligend hat, so lanng und sovil  
+<lb n="32"/>vnzt, das er sich der gebür und billichait  
+<lb n="33"/>nach erzaiget, inn arresst genomen werden  
+<lb n="34"/>möchte, unnd unns alßdann desselben  
+<lb n="35"/>nottürfftiger ausfüerung fürderlich  
+<lb n="36"/>hieheer berichtet, unnd dann auch obermelter  
+<lb n="37"/>von <persName ref="lub-actors-166">Rambschwag</persName> wegen der waidung seines  
+<lb n="38"/>viehs wider die unnderthanen zu <placeName ref="lub-places-71">Balzers</placeName>  
+<lb n="39"/>und den lanndtvogt zu <placeName ref="lub-places-7">Vaduz</placeName> inhalt bey
+<lb break="no" n="40"/>verwarts seines unns, den <date when="1596-04-19">19. dits</date>, zue
+<lb break="no" n="41"/>gethanes schreibens fürgebrachte beschwer
+<lb break="no" n="42"/>ung gebürennder massen hanndthaben 
+<lb n="43"/>helffet, wolten wir euch zur widerannt
+<lb break="no" n="44"/>wurt nit verhalten und ir volziecht etc.
+<lb n="45"/>Datum, den <origDate>29. aprilis anno etc. 96</origDate>. 
+<lb n="46"/>An <orgName ref="lub-actors-2588">vogt und ambt
+<lb break="no" n="47"/>leut zu Veldtkhürch</orgName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
