@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1155">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Weinberg in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1155">CH-BAC, 015.2556</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 24. Juni 1532 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Rudolf Mader von Eschen und seine Frau Ursula Richter verkaufen einen Zins von 10 Schilling ab ihrem Weingarten im Tal in Eschen an Florin Janut, Pfarrer in Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-889">Mader, Rudolf (1)</persName>
+          <date when="1532-06-24">24. Jun 1532</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2447">Richter, Ursula</persName>
+          <date when="1532-06-24">24. Jun 1532</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-209">Öhri, Hans (1)</persName>
+          <date when="1532-06-24">24. Jun 1532</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-2448">Janut, Florin</persName>
+          <date when="1532-06-24">24. Jun 1532</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2556-0001.jpg" xml:id="lub-media-3936" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3936" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-889">Rudolff Mader</persName> von <placeName ref="lub-places-35">Eschen</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, und ich, <persName ref="lub-actors-2447">Ursla Richterin</persName>, sein eeliche hausfraw, bekhennen offennlich fur uns, all unser 
+<lb n="2"/>erben und nachkomen und thun khundt allermenigklich mit dissem brieff, das wir mit veraintem guten willen, wolbedacht, sonder mit 
+<lb n="3"/>hand des ersamen, weisen <persName ref="lub-actors-209">Hansen Erins</persName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellenperg</placeName>, recht und redlih verkaufft und zukauffen geben 
+<lb n="4"/>haben und geben auch jetzo wissentlich inkrafft ditz brieffs dem ersamen, wirdigen herrn <persName ref="lub-actors-2448">Florin Jöhannoten</persName>, pfarrern zu <placeName ref="lub-places-36">Bendern</placeName>, 
+<lb n="5"/>und allen seinen nahkomenden pharren daselbst ains stäten, vessten, eewigen kauffs nämlich zechen schilling pfening guter und ge
+<lb break="no" n="6"/>nemer <placeName ref="lub-places-101">Cosstentzer</placeName> mintz <placeName ref="lub-places-10">Veldkirher</placeName> werung rechts, eewigs und järlihs zeins und jarzeit gelts von, usser und ab unserm aigen
+<lb n="7"/>weingarthen, in <placeName ref="lub-places-442">Eschner Tal</placeName> gelegen, stosst zur ainen seiten an <persName ref="lub-actors-2754">Haug Gsthölen</persName>, zur ander an <persName ref="lub-actors-2450">Wolff Schmid</persName>, zur dritten an <persName ref="lub-actors-2451">Jerg 
+  <lb n="8"/>Hemerlin</persName> und zur vierten seiten an <persName ref="lub-actors-2582">Jerg Hemerlins</persName> erben, unnd alles ab grundt, gradt, wun, waid, stikeln, reben, rebstal, drie<gap/>er, 
+<lb n="9"/>pomen, zweig, stockh, stain, gestudt, gerudt, gengen, stegen und wegen und gemainklich ab allen andern seinen rehten und zugehörden, 
+<lb n="10"/>benempten und unbenempten, und auh fur ledig und los und gegen menigklich vormals unversetzt und unverkimbert. Und ist 
+<lb n="11"/>der eewig redlih kauff also beschechen und gethon worden umb zehen phund phening guter obgenanter mintz und werung, dero 
+<lb n="12"/>wir von ime also par erberlih ausgeriht und bezalt worden synd nach unserm guten willen und beniegen. Und darumb so 
+<lb n="13"/>sellen und wellen wir, all unser erben und nahkomen inhaber und besitzer des jetzgemelten underpfands den gemelten zeins, 
+<lb n="14"/>die zechen schilling phening, dem genanten köffer und allen seinen nahkomenden pharrern nw furohin eewigklih und järlih 
+<lb n="15"/>alle jar auff <date when="--11-11">sandt Martins tag</date>, acht tag vor oder nach ungevarlich tugentlich richten, zeinsen und gen <placeName ref="lub-places-36">Bendern</placeName> in den 
+<lb n="16"/>pfarhoff zu iren sichern handen und gewalte andtwurten und geben, fur allermenigklichs hefften, verbieten und entweren 
+<lb n="17"/>und gäntzlich one iren cossten und schaden. Wann, wie oder welichs jars das aber also nit bescheche, uber kurtz oder 
+<lb n="18"/>lang zeit, so ist inen ir obgemelt underphand, in seinen bestimpten marckhen begriffen, gantz zeinsfellig worden und dann 
+<lb n="19"/>danethin mit grundt, grat und mit allen andern seinen und zugehörungen zu rechtem, eewigem aigen immermer 
+<lb n="20"/>gevallen und verfallen, one uns, aller unser erben und nachkomen und allermenigklichs von unsern wegen irrung und wider
+<lb break="no" n="21"/>sprechen. Und hirauf ditz eewigen redlichen kauffs umb zeinsfelligin und fur all abgeng des obgemelten underpfands,
+<lb n="22"/>auch zeins, hoptgut, schadens und aller obgemelten ding sellen und wellen wir, all unser erben und nahkomen des genanten 
+<lb n="23"/>köffers und aller seinen nachkomenden pharrern recht, gut und getrew, krefftig weren, furstand und versprecher sein vor 
+<lb n="24"/>dem richter und gericht, darunder bemelt underphand gelegen ist, wie, wenn und gegen wem als offt und dickh sy des 
+<lb n="25"/>nach dem rechten immer bedurffen und noturfftig werden, alweg in unserm aigen cossten, on iren schaden, bey guten 
+<lb n="26"/>trewen, on alle widerred, ausszug und geverde. Und des alles zu warem offem urkhund so haben wir, obgenante ver
+<lb break="no" n="27"/>köffer, paide mit sonderm fleis und ernst gebeten und erbeten den vorgenanten aman <persName ref="lub-actors-209">Hansen Erin</persName>, das er sein aigen
+<lb n="28"/>ynsigel, im und sein erben onschaden, fur uns, all unser erben und nachkomen offennlich gehenckht hat an dissen brieff, 
+          <lb n="29"/>der geben ist <origDate when="1532-06-24">an sandt Johanns tag gotz teuffers nach der gepurtt Cristi, unsers herrn, feinffzechenhundert 
+<lb n="30"/>und im zwayunddreissigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

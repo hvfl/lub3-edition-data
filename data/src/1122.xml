@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1122">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hektor von Ramschwag beschwert sich über ausstehenden Zehnt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1122">AT-VLA, Stadtarchiv Bludenz 98/11</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Entstehungszeitraum: 8. Dezember 1598 / Beschreibstoff: Papier, 4 Seiten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hektor von Ramschwag beschwert sich bei päpstlichen Nuntius Giovanni della Torre, von einem halben Kornzehnt in Schaan, den sein Vater Balthasar von Ramschwag 1532 gekauft und später in einen Weingarten umwandeln liess, keinen Zehnt mehr zu erhalten, weil die Pfarrer von Schaan diesen eingezogen hatten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-614">Ramschwag, Hector von</persName>
+          <placeName ref="lub-places-17">Rottweil</placeName>
+          <date when="1598-12-08">8. Dez 1598</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-vla__stadtarchiv_bludenz_98_11-0001.jpg" xml:id="lub-media-2436" source="vla-stadtarchiv-bl-98-11-arnegger002.jpg" corresp="B"/>
+    <graphic url="at-vla__stadtarchiv_bludenz_98_11-0002.jpg" xml:id="lub-media-2437" source="vla-stadtarchiv-bl-98-11-arnegger003.jpg" corresp="B"/>
+    <graphic url="at-vla__stadtarchiv_bludenz_98_11-0003.jpg" xml:id="lub-media-2438" source="vla-stadtarchiv-bl-98-11-arnegger004.jpg" corresp="B"/>
+    <graphic url="at-vla__stadtarchiv_bludenz_98_11-0004.jpg" xml:id="lub-media-2439" source="vla-stadtarchiv-bl-98-11-arnegger005.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Hochwurdigister fursst. 
+<lb n="2"/>Gnedigister herr. 
+</p>
+        <p><lb n="3"/>Eur hochfürstlich gnaden khann ich in underthenig
+<lb break="no" n="4"/>ister gehorsambe beschwerrungs weyß unn
+<lb break="no" n="5"/>angefuegt nit lassen, nachdeme mein gelieb
+<lb break="no" n="6"/>tister junckher vatter, junckher <persName ref="lub-actors-156">Ballthasser 
+<lb n="7"/>von Rambschwag</persName>, gewester irer römisch kuniglichen  
+<lb n="8"/>mayestät etc. seeligister gedechtnus, voggt auf  
+<lb n="9"/><placeName ref="lub-places-13">Guetenberg</placeName>, selliger, ain halben khornzeh
+<lb break="no" n="10"/>ennden zue <placeName ref="lub-places-53">Schan</placeName>, als mann nach Christi 
+<lb n="11"/>Jesu geburt <date when="1532">funffzechen hundert zwayund
+<lb break="no" n="12"/>dreissig</date> gezellt, erkhaufft unnd bezalt hat. 
+<lb n="13"/>Wellicher zechennden gedachtem meinem junckh
+<lb break="no" n="14"/>er vatter seelliger nach sollichem bis in die 
+<lb n="15"/>zechen jar völlig und unverwagierlichen ge
+<lb break="no" n="16"/>raicht worden. Alß man aber anno etc.
+<lb n="17"/>zwayundvierzige ungevarlich gezallt, da  
+<lb n="18"/>sein von sollichem khornzehennden ainund  
+<lb n="19"/>dreisig mahl veld ackhers, wie dan soll
+<lb break="no" n="20"/>iche ainunddreisig mahl ackhers mein junckh
+<lb break="no" n="21"/>er vatter seeliger mit aigner hand, wo 
+<lb n="22"/>die gelegen, litteriert, biß anno etc. <date when="1558">acht und  
+<lb n="23"/>funffzig</date> unnd <date when="1559">neun unnd funffzige</date>, zuen  
+<lb n="24"/>weinreben erpawt unnd verenndert, wie  
+<lb n="25"/>auch von anno etc. zwayundvyerzige khain  
+<lb n="26"/>khornzechenden mehr geraicht worden, sond
+<lb break="no" n="27"/>er haben denselbigen die gaisstlichen selb
+<lb break="no" n="28"/>iger orthen pfarrhern angefallen unnd ein
+<lb break="no" n="29"/>gezogen. Welliches dann (weyl angedeute 
+<lb n="30"/>ainunddreisige mahl veld ackhers dem khorn
+
+<lb break="no" n="31"/>zechennden unnderworffen unnd zueghörig 
+<lb n="32"/>gewest, und der byllichait gemeß noch darzue  
+<lb n="33"/>gehörig sein sollte) gedachtem meinem junckh
+<lb break="no" n="34"/>er vatter seligen, wie auch mir noch heutigs 
+<lb n="35"/>tags beschwerrlichen fahln thuet unnd meines  
+<lb n="36"/>verhoffens wider die byllichait aufgehallten  
+<lb n="37"/>worden seyen. Dieweyl unnd dann nur  
+<lb n="38"/>solliche angedeute ainunddreisig mahl veld
+<lb break="no" n="39"/>ackhers von khorn baw zue weyn waxs 
+<lb n="40"/>gemacht, unnd der khornzehenden halben mein  
+<lb n="41"/>aigennthumb, aufzue<gap/>  
+<lb n="42"/>ist, dz ain jeder pf
+<lb break="no" n="43"/>arheer in allem veld 
+<lb n="44"/>paw den halben  
+<lb n="45"/>tail des zehenden  
+<lb n="46"/>einibt, so wol auch  
+<lb n="47"/>wann alle wein
+<lb break="no" n="48"/>gerten widerumben 
+<lb n="49"/>zu kornveld gemacht  
+<lb n="50"/>wurden, er gleich so  
+<lb n="51"/>wol den halb zehend  
+<lb n="52"/><gap/>lich zu em
+<lb break="no" n="53"/>pfachen haben wurde. So wurt ja auch allem 
+<lb n="54"/>rechten gmeß byllichen sein, das mier sollich
+<lb break="no" n="55"/>er weinzehenden von sollichen ainunddreisig 
+<lb n="56"/>mahl veldpaws, so zue weingarten gemacht,  
+<lb n="57"/>weil do zumallen sonnsten gar wenig wein  
+<lb n="58"/>gewest, nicht allain zue erkhennt, sonnder auch  
+<lb n="59"/>von anno etc. zwayundvierzig biß auf datto  
+<lb n="60"/>die mir wider billichait abgenombne jar
+<lb break="no" n="61"/>liche gefallne zechennden weins resstitu
+<lb break="no" n="62"/>iert unnd zue gehenndiget werden. Dem 
+<lb n="63"/>allem nach, so gelangt unnd ist an eur hoch  
+<lb n="64"/>fürstlich gnaden, alß beschuzer und hannthabere  
+<lb n="65"/>der göttlichen gerechtigkhait, mein unnd
+<lb break="no" n="66"/>erthenigist pithen, die wollen mir in dißem 
+<lb n="67"/>meinem billichen begern genedigist behilff
+<lb break="no" n="68"/>lichen sein, damit ich bei meiner byllichen 
+<lb n="69"/>anforderung gehannthabt werden möge,  
+<lb n="70"/>unnd mir sollicher zehennden von vylgemelt
+<lb break="no" n="71"/>en ainunddreisig mahl ackhers, so zu wein
+<lb break="no" n="72"/>reben gemacht, inmassen wie der vorr
+<lb break="no" n="73"/>mahln, weyl es khornpaw gewest, meinem 
+
+<lb n="74"/>junckher vatter seeligen geraicht worden, an  
+<lb n="75"/>jezt vorgehorrtermassen auch geraicht unnd  
+<lb n="76"/>die resstannzen von angedeuten jahrn re
+<lb break="no" n="77"/>stituiert werden. Hieran erweißen eure 
+<lb n="78"/>hochfürstlich gnaden (zuesampt deme es byllichen)  
+<lb n="79"/>mir ain genedigists gefallen und ain sonnd
+<lb break="no" n="80"/>ere grosse gnad, denen ich mich zu under
+<lb break="no" n="81"/>thenigisten und angenemen diennsten erbietten, 
+<lb n="82"/>wie auch zue ymerwerenden und unauß
+<lb break="no" n="83"/>loschlichen gnaden gehorsamist comendieren thue. 
+<lb n="84"/>Euer hochfürstlich gnaden  
+</p>
+        <p><lb n="85"/>Underthenig und  
+<lb n="86"/>gehorsambister 
+</p>
+        <p><lb n="87"/><persName ref="lub-actors-614">Hector von Rambschwag</persName><lb n="88"/>zue Sygberg 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>An ihr hochfürstlich gnaden unsers  
+<lb n="2"/>allerhaillig- und genedigisten  
+<lb n="3"/>vatters des bapts und  
+<lb n="4"/>desselbigen Römischen Stuels  
+<lb n="5"/>appostollischen nuntio und  
+<lb n="6"/>mit vollmechtigem gewalt  
+<lb n="7"/>abgeferttigten romischen  
+<lb n="8"/>legaten, meinem genedigsten  
+<lb n="9"/>fursten und herrn underthenigste  
+<lb n="10"/>suplication etc. 
+</p>
+        <p><lb n="11"/><persName ref="lub-actors-614">Hectorn von Rambschwags</persName><lb n="12"/>zue Sygberg, voggts zue  
+<lb n="13"/><placeName ref="lub-places-205">Bludenz</placeName> und <placeName ref="lub-places-6">Sonenberg</placeName>. 
+<lb n="14"/>Praesentiert, den <origDate>8. decembris  
+<lb n="15"/>anno 98</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

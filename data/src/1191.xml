@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1191">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaspar von Ramschwag contra Karl Ludwig von Sulz’ Untertanen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1191">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 73v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. April 1596 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar von Ramschwag beschwert sich über die Untertanen von  Karl Ludwig von Sulz in Balzers und den Landvogt aus Vaduz, Peter Christoph Schlabatius, der ihm durch den Viehaustrieb Schaden verursacht hat.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1596-04-29">29. Apr 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__73v-0001.jpg" xml:id="lub-media-3165" source="1596-04-29-buch-walgau-8-28-73v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-166">Caspar von Rambschwag</persName><lb n="2"/>contra herrn <persName ref="lub-actors-13">Carlen gra
+<lb break="no" n="3"/>fen zu Sulz</persName> underthonen.
+</p>
+        <p><lb n="4"/>Auf euer, unns vom <date when="1596-04-19">19. dits zu enndt lauffen
+<lb break="no" n="5"/>den monats aprilis</date> zuegethan schreiben, 
+<lb n="6"/>darinnen ir euch unnder annderm wider  
+<lb n="7"/>herrn <persName ref="lub-actors-13">Carlen Ludwigen grafens zu Sulz</persName>  
+<lb n="8"/>underthanen zu <placeName ref="lub-places-71">Balzers</placeName>, so wol dem  
+<lb n="9"/>lanndtvogt zu <placeName ref="lub-places-7">Vaduz</placeName>, <persName ref="lub-actors-253">Petern Christoffen  
+<lb n="10"/>Schlawatien</persName>, das sy euch mit außtreibung  
+<lb n="11"/>euers viehs auf die weid verhinderung zue
+<lb break="no" n="12"/>füegen etc. beschwerdt. Bevelchen wir euch 
+<lb n="13"/>hiemit innamen der römisch kayserlichen mayestät etc.,  
+<lb n="14"/>unnsers allergnedigisten herrn, wann  
+<lb n="15"/>ermelte unnderthanen oder lanndtvogt  
+<lb n="16"/>euch euer vieh ob den weiden treiben, das  
+<lb n="17"/>ir dasselb widerumben mit gewaldt aus
+<lb break="no" n="18"/>treiben lasset unnd euch also selbst das 
+<lb n="19"/>mit hilff und rath der veldtkhürchischen  
+<lb n="20"/>beambten, denen wir soliches auch zue
+<lb break="no" n="21"/>geschriben gebürennder massen hanndt
+<lb break="no" n="22"/>habet, wolten wir euch zur widerantwurt 
+<lb n="23"/>nit verhalten, und es beschieht etc. Datum,  
+<lb n="24"/>den <origDate>29. aprilis anno etc. 96</origDate>. 
+</p>
+        <p><lb n="25"/>An <persName ref="lub-actors-166">Casparn von Ramb
+<lb break="no" n="26"/>schwag</persName>, vogt zu <placeName ref="lub-places-13">Guetten
+<lb break="no" n="27"/>berg</placeName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

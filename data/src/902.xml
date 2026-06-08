@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-902">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Präsentation von Jörg Gassner als Kaplan am St. Konrad- und am St. Katharinenaltar in der Kathedrale Chur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-902">CH-BAC, 032.03 C</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 9. Juni 1590 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten / Unterschrift von Graf Karl Ludwig von Sulz</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Karl Ludwig von Sulz teilt dem Churer Bischof Peter de Raschèr mit, dass er die Kaplaneipfründen am St. Konrad- und am St. Katharinenaltar in der Kathedrale Chur, die durch den Tod von Hans Düntel, Pfarrer in Göfis, freigeworden sind, auf Bitte von Josef Gassner dessen Sohn Jörg  Gassner, der seit einigen Jahren studiert und die Priesterwürde erwerben will, verliehen hat, und bittet den Bischof, Jörg Gassner als Kaplan einzusetzen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-297">Kaplan</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1590-06-09">9. Jun 1590</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-316">Raschèr, Peter de</persName>
+          <date when="1590-06-10">ca. 10. Jun 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__032_03_-c--0001.jpg" xml:id="lub-media-3941" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3941" n="1"/><lb n="1"/>Dem hochwürdigen fürsten unnd herrn <persName ref="lub-actors-316">Petro</persName>, deß hochloblichen stiffts zu <placeName ref="lub-places-102">Chur</placeName> erwelten bischoffen etc., 
+<lb n="2"/>meinem gnädigen herrn, oder in nachgeschribner sachen anwesennden thumprobst, dechant unnd cappittl daselbst, 
+<lb n="3"/>embiete ich, <persName ref="lub-actors-13">Carl Ludwig grave zu Sultz</persName>, lanndtgraven in <placeName ref="lub-places-18">Kleggew</placeName>, deß <orgName ref="lub-actors-516">Heyligen Römischen Reichs</orgName> erbhofrichter zu 
+<lb n="4"/><placeName ref="lub-places-17">Rotweyl</placeName>, herr zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennberg</placeName> unnd <placeName ref="lub-places-12">Blumenegg</placeName> etc., mein freundtlich, guetwillig, nachpurliche diennst 
+<lb n="5"/>zuvor unnd füege eur gna<gap/> unnd euch zuvernemen, nachdeme die zwo capploneyen der zwayen altaren sannt 
+<lb n="6"/><persName ref="lub-actors-2574">Conradt</persName> unnd <persName ref="lub-actors-862">Catharina</persName> in dem stifft zu <placeName ref="lub-places-102">Chur</placeName> durch jüngst absterben weylundt deß würdigen <persName ref="lub-actors-719">Johann Thündtels</persName>, 
+<lb n="7"/>vicarien unnd pharrers zu <placeName ref="lub-places-287">Gefis</placeName>, ires letsten inhabers, vaciert unnd ledig worden, dern juss patronatus unns 
+<lb n="8"/>alls rechtmessigen collatorn zuestenndig, das ich demnach auf meines getrewen unnderthonen <persName ref="lub-actors-483">Joseph Gas
+<lb break="no" n="9"/>ners</persName> underthenig, gehorsamblich unnd diemüetigs pitten und anhalten seinem ehlichen son <persName ref="lub-actors-727">Jeörg Gasnern</persName>, so jetzo
+<lb n="10"/>numer ettliche jar her dem studio nach zeucht unnd, als ich berichtet, dero mit pesstem vleis obligt unnd nach setzt, 
+<lb n="11"/>die briesterliche würde auch mitler zeyt anzunemen vermittlst deß allmechtigen bedacht etc., umb gottes unnd seines 
+<lb n="12"/>wolhaltenns willen gnedigclich verlihen habe, praesenntiere hierauf eur gnaden unnd euch den gemelten <persName ref="lub-actors-727">Jeörgen Gasner</persName> 
+<lb n="13"/>mit vleißigem begern, <gap/> wellen im auff angezaigte capploney beeder alt<supplied>ar</supplied>en mit gewönlichen solleniteten in
+<lb break="no" n="14"/>vestiern unnd besteetigen, wie dz eur gnaden unnd euch zuesteet unnd mein unzweifenlich vertrawen ist. Das
+<lb n="15"/>erkhenne ich neben der billigkhait umb eur gnaden unnd euch der gebier nach freundt-nachpurlich unnd mit geneigtem 
+          <lb n="16"/>gutem willen ganntz freundtlich zuverdienen unnd gnedigclich zu beschulden. Zu urkhundt mit disem meinem 
+<lb n="17"/>hiefürgetruckhten gräflich secret innsigl verferttigen lassen unnd aignen hannden underschriben zu 
+          <lb n="18"/><placeName ref="lub-places-1">Vadutz</placeName> den <origDate when="1590-06-09">neunten tag <gap/>onats junii anno neunzige</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

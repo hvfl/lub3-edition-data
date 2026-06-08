@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1047">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Übergabe von Gütern an den Priesterkandidaten Werner Kindle aus Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1047">CH-BAC, 015.2304</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 13. September 1512 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Lienhart Kindli aus Triesen sowie die Vettern Gabriel und Adam Frick aus Vaduz übergeben ihrem Verwandten Werner Kindli, der Priester werden will, eine Reihe von Gütern, damit er zusammen mit seinem mütterlichen Erbe von 70 Pfund Pfennig über ein Vermögen von 400 Pfund verfügt und den vor der Priesterweihe geforderten Nachweis erbringen kann, dass sein Lebensunterhalt gesichert ist. Lienhart Kindli übergibt seinem Sohn 150 Pfund Pfennig ab seinem Weinberg, Obstgarten und Einfang in Triesen. Gabriel Frick übergibt seinem Schwestersohn seinen Weinberg und Obstgarten in Vaduz, der 120 Pfund wert ist. Adam Frick übergibt seinem Vetter seine Hälfte eines Hauses in Vaduz, die 60 Pfund wert ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-358">Kleriker</term>
+          <term ref="lub-keywords-463">patrimonium</term>
+          <term ref="lub-keywords-339">heimgasse</term>
+          <term ref="lub-keywords-357">Wachs</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-284">Obstgarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1002">Kindle, Lienhart (1)</persName>
+          <date when="1517-09-13">13. Sep 1517</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-212">Frick, Gabriel</persName>
+          <date when="1517-09-13">13. Sep 1517</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-347">Frick, Adam (1)</persName>
+          <date when="1517-09-13">13. Sep 1517</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-29">Pergant, Jörg</persName>
+          <date when="1517-09-13">13. Sep 1517</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-525">Kindle, Werner</persName>
+          <date when="1517-09-13">13. Sep 1517</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2304-0002.jpg" xml:id="lub-media-3929" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3929" n="1"/><lb n="1"/>Wir hienach genannten, mitnammen <persName ref="lub-actors-1002">Lienhart Kindli</persName> von <placeName ref="lub-places-79">Trisan</placeName>, <persName ref="lub-actors-212">Gabriel Frick</persName> und <persName ref="lub-actors-347">Ad<supplied>a</supplied>m Frick</persName>, vettern, bed von <placeName ref="lub-places-1">Vad
+<lb break="no" n="2"/>utz</placeName>, bekennen offennlich für uns, unsre erben und nachkomen und thund kundt menngclich mit dem brief, als dann
+<lb n="3"/>min lieber elicher sun <persName ref="lub-actors-525">Wernher Kindli</persName>, der min, <persName ref="lub-actors-212">Gabriel Fricken</persName>, swöster sun, und min, <persName ref="lub-actors-347">Adam Fricken</persName>, vetter ist, in den 
+<lb n="4"/>willen und fursatz komen ist, priesterliche wirdigkait an sich zu nämen und aber sich priesterlicher wird nach 
+<lb n="5"/>geburt, das er so vil zytlich gut, das er dar von sin lybs narung und uskomen hab, darumm mit gutem willen, 
+<lb n="6"/>wolbedachtem sinn und mut und zytiger vorbetrachtung, zu hilff und furdrung sines loblichen furnämens, so 
+<lb n="7"/>han ich, obgenannter <persName ref="lub-actors-1002">Lienhart Kindli</persName>, dem egenannten, minem lieben elichen sun <persName ref="lub-actors-525">Wernher Kindli</persName> zu den siben
+<lb break="no" n="8"/>tzig pfund pfening, so er von siner muter, miner lieben elichen husfrowen selgen, an gutem gelegnen gut er
+<lb break="no" n="9"/>erbt hat, zu <term ref="lub-keywords-463">patermoni</term> wissentlich mit kraft diss briefs geben und zu gesagt namlich anderhalb hundert pfund pfeni
+<lb break="no" n="10"/>ng, die er haben und bekomen sol uff und ab minem aignen wingarten und bomgarten zu <placeName ref="lub-places-79">Trisan</placeName> ob <placeName ref="lub-places-837">Sant Mamerten Ca
+<lb break="no" n="11"/>ppel</placeName> in aim infang gelegen, stost ufwert and almain, abwert an die <term ref="lub-keywords-339">hain gassen</term>, gegen dem dorff <placeName ref="lub-places-79">Trisan</placeName> wert an her <persName ref="lub-actors-2549">Han
+<lb break="no" n="12"/>sen Kindlis</persName> wingarten, und fur ledig und los usgnon, das zehen schilling pfening järlichs zins darab gond, und der
+<lb n="13"/>egemelt wingart, bomgart und infang in den gemelten marcken der egemelten anderthalb hundert pfund uber der ge
+<lb break="no" n="14"/>melten zehen schilling pfening zins hoptgut zu failem koff wol wert ist. Darzu so setzen und versetzen ich, egenannt
+<lb break="no" n="15"/>er <persName ref="lub-actors-212">Gabriel Frick</persName>, minem genanten lieben vettern <persName ref="lub-actors-525">Wernher Kindli</persName> egemelter massen zu <term ref="lub-keywords-463">patermoni</term> min aigen wingar
+<lb break="no" n="16"/>ten und bomgarten zu <placeName ref="lub-places-1">Vad</placeName><gap/> im dorff in aim infang gelegen, stost abwert an der herschaft wingarten, ufwert and
+<lb n="17"/><term ref="lub-keywords-339">haingass</term>, gegem dem dor<gap/> wert an <persName ref="lub-actors-874">Jocham von Quaders</persName> und an des genannten, <gap/>ns vettern <persName ref="lub-actors-347">Adam Fricken</persName>, güter, 
+<lb n="18"/>für ledig und los, da de<gap/> infang in den eberürten marcken hundert und <gap/>ig pfund pfening zu failem 
+<lb n="19"/>koff wol wert ist. Zu de<gap/> <gap/>em, so setzen und versetzen ich, egenannter <persName ref="lub-actors-347">Adam Fri</persName><gap/>, lieben vetter <persName ref="lub-actors-525">Wernher Kind
+<lb break="no" n="20"/>li</persName> zu <term ref="lub-keywords-463">patermoni</term> och egemelter massen minn aigen halben tail in hus und halben <gap/>n, och zu <placeName ref="lub-places-1">Vadutz</placeName> im dorff ge
+<lb break="no" n="21"/>legen, da das ander halb tail bomgart miner geswustrigit ist, und stost vorna <gap/>assen, unna an miner gesch
+<lb break="no" n="22"/>wustrigit halbtail, ufwert an <persName ref="lub-actors-2550">Jos Tanners</persName> hofraiti und an <persName ref="lub-actors-874">Jocham von Quader</persName><gap/>, ufwert an mins vettern
+<lb n="23"/><persName ref="lub-actors-212">Gabriel Fricken</persName> egemelt gut, fur ledig und los, denn das ab allen tailen järlich <gap/>er fierding wachs und dry 
+<lb n="24"/>pfeninng den kilchen darab gat, da mine halben tail in den berürten marcken sech<gap/>g pfund pfening zu failem koff 
+<lb n="25"/>wol wert sind. Das alles sich mit siner aigen obgemelten summ namlich vier hundert pfund pfening <placeName ref="lub-places-10">Veltkircher</placeName> we
+<lb break="no" n="26"/>rung <term ref="lub-keywords-463">patermoni</term> trift und unser jelicher sin underpfand, wie vor stat, fur sich und sine erben dem selben, unserm
+<lb n="27"/>lieben elichen sun und fruntlichen lieben vettern, darumm ingesetzt und geben habend mit grund, grat, wunn, waid, 
+<lb n="28"/>stickeln, räben, räbstal, gebomen, zwyen, zimmer, gemur, tach, gemach und mit allen irn rechten und zugehörnden, 
+<lb n="29"/>gar nutz darvon usgenommen noch hindan gesetzt, dann die zinß als vor stat, also das der vorgenannt, unser sun und 
+<lb n="30"/>vetter <persName ref="lub-actors-525">Wernher Kindli</persName> die obgemelten unsre stuck und guter umb und fur die egemelten summa <term ref="lub-keywords-463">patermoni</term> 
+<lb n="31"/>furohin inhaben, nutzen, niessen, verlyhen, versetzen, verkoffen, darus und darvon sin lybsnarung haben und gewi
+<lb break="no" n="32"/>nnen und gewaltigclich damit handlen und thun sol und mag, als mit sinem aignen gut, one unser, unser erben
+<lb n="33"/>und allermengclichs irung und inred, des och wir obgenannten dry mann jelicher uff sin underpfand, wie dann ob
+<lb break="no" n="34"/>stat, fur uns und unsre erben fur allen iren abgang, irrung und ansprach desselben unsers sunns und vettern
+<lb n="35"/>recht, gut geweren sin söllen und wöllend, one allen verlurst, schaden und abgang, trulich und one alle gefärd. 
+<lb n="36"/>Und des alles zu warem offnem und vestem urkund hond wir, obgenannten <persName ref="lub-actors-1002">Lienhart Kindli</persName>, <persName ref="lub-actors-212">Gabriel Frick</persName> und <persName ref="lub-actors-347">Adam 
+<lb n="37"/>Frick</persName>, all dry flyssig erbetten den ersamen und wysen <persName ref="lub-actors-29">Jörg Pargannten</persName> von <placeName ref="lub-places-71">Baltzers</placeName>, der zyt amman in der herschaft, 
+<lb n="38"/>das er sin insigel, im und sinen erben one schaden, fur uns und unsre erben offenlich gehengkt hat an den brief, 
+<lb n="39"/>der geben ist an <origDate when="1517-09-17">des hailgen crutz abend zeherbst, nach Cristi geburt funfzehenhundert und sibentzehen jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

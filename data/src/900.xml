@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-900">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Visitation im Dekanat Walgau</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>1595 führten Beauftragte des Churer Bischofs Peter de Raschèr Visitationen im Walgau und im Vinschgau durch. Nach einer Prüfung des Walgauer Klerus, die am 13. Februar in Feldkirch stattfand, inspizierten sie im Frühling und im Herbst 1595 den Grossteil der Pfarreien im Walgau. In diesem Rahmen wurden am 16. und 17. Oktober auch die Pfarreien Triesen und Balzers inspiziert. Im Folgenden werden diejenigen Stellen aus dem Visitationsprotokoll wiedergegeben, die die Herrschaften Vaduz und Schellenberg bzw. die dort tätigen Kleriker betreffen.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-900">CH-BAC, 787.01</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 13. Februar - 17. Oktober 1595 / 1 Bd.</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Beauftragte des Churer Bischofs Peter de Raschèr prüfen im Rahmen einer Visititation im Walgau einige der in den Herrschaften Vaduz und Schellenberg tätigen Kleriker und inspizieren die Pfarreien Triesen und Balzers.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-247">Pfarrer</term>
+          <term ref="lub-keywords-395">Kirchenbau</term>
+          <term ref="lub-keywords-139">Einnahme</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+          <term ref="lub-keywords-462">Bildung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1595-02-13" to="1595-10-17">13. Feb 1595 – 17. Okt 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__787_01-0002.jpg" xml:id="lub-media-3924" source="platzhalter.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3924" n="1"/><lb n="1"/><supplied>S. 3</supplied><lb n="2"/>Examen quorundam sacerdotum decanatus 
+<lb n="3"/><placeName ref="lub-places-250">Vallis Drusianae</placeName> factum <date when="1505-02-13">anno incarna
+<lb break="no" n="4"/>tionis dominicae millesimo quingentesimo nonagesimo
+<lb n="5"/>quinto, die decima tertia february</date>. 
+<lb n="6"/><gap/>
+<lb n="7"/>3. Dominus <persName ref="lub-actors-2529">Michael Artolphus</persName>, <placeName ref="lub-places-175">Curiensis</placeName> diocaesis, a commendatore 
+<lb n="8"/><placeName ref="lub-places-163">Veldkirchiensi</placeName> non est praesentatus nec a reverendissimo <placeName ref="lub-places-175">Curiensi</placeName><note>D. h. dem Bischif von Chur.</note> investitus, 
+<lb n="9"/>per modum provisionis praeest in <placeName ref="lub-places-30">Mauren</placeName>. Alioquin in doctrina 
+<lb n="10"/>christiana et sacramentis utcumque instructus. 
+<lb n="11"/><gap/>
+<lb n="12"/><supplied>S. 4</supplied>
+<lb n="13"/><gap/>
+<lb n="14"/>7. Dominus <persName ref="lub-actors-2530">Joannes Strasser</persName>, <placeName ref="lub-places-175">Curiensis</placeName> diocaesis, ab genoroso 
+<lb n="15"/><orgName ref="lub-actors-7">comite de Sulz</orgName> et non praesentatus nec a reverendissimo <placeName ref="lub-places-175">Curiensi</placeName> investi
+<lb break="no" n="16"/>tus est ad capellaniam <placeName ref="lub-places-1">Valduziensem</placeName>. In materia sacramentali totus
+<lb n="17"/>ignorans nec batismi nec absolutionis formam tenuit ac ideo 
+<lb n="18"/>a dictorum sacramentorum administratione a nobis suspensus. 
+<lb n="19"/><gap/>
+<lb n="20"/><supplied>S. 5</supplied>
+<lb n="21"/><gap/>
+<lb n="22"/>16. Dominus frater <persName ref="lub-actors-2532">Michael Strasser</persName>, ordinis <orgName ref="lub-actors-2531">Cistertiensis</orgName>, ab abbate in 
+<lb n="23"/><placeName ref="lub-places-833">Stamps</placeName> dimissorias habuit. Repertus est sine tonsura et habitu 
+<lb n="24"/>monachali. Ideo nil ultra cum ipso peregimus. 
+<lb n="25"/>17. <persName ref="lub-actors-722">Joannes Held</persName>, <placeName ref="lub-places-834">Constantientis</placeName> diocaesis, non dimissus, a nobili <persName ref="lub-actors-166">Cas
+<lb break="no" n="26"/>paro de Ramschwag</persName> praesentatus et a reverendissimo <placeName ref="lub-places-175">Curiensi</placeName> investitus est
+<lb n="27"/>ad parochiam <placeName ref="lub-places-71">Balzers</placeName>. In re sacramentaria parum versatus, for
+<lb break="no" n="28"/>mam absolutionis ingnorans. Concubinam magistratus secularis
+<lb n="29"/>secundo ablegavit, iamque ab ea est separatus. 
+<lb n="30"/>18. Dominus <persName ref="lub-actors-2533">Blasius Weis</persName>, <placeName ref="lub-places-175">Curiensis</placeName> diocaesis, a <orgName ref="lub-actors-7">comite generoso 
+<lb n="31"/>de Sulz</orgName> ad capplaniam in <placeName ref="lub-places-53">Schan</placeName> non est praesentatus nec a <placeName ref="lub-places-175">Curiensi</placeName> 
+<lb n="32"/>reverendissimo investitus. Satis in re sacramentaria instructus est. 
+<lb n="33"/><gap/>
+<lb n="34"/><supplied>S. 253</supplied>
+<lb n="35"/>Ditio <placeName ref="lub-places-7">Vaduziensis</placeName>. 
+<lb n="36"/><date when="1595-10-16">16 octobris</date> visitavimus ecclesiam parochialem in <placeName ref="lub-places-79">Triesen</placeName>. 
+<lb n="37"/>Templum est non inhonestum, divo <persName ref="lub-actors-2535">Gallo</persName> sacrum. 
+<lb n="38"/>Sacrarium eucharistiae decorum sine velo. 
+<lb n="39"/>Vasculum pro eucharistia unicum. Mandavimus adhuc unum fieri. 
+<lb n="40"/>Vasa oleorum et crismalis cuprea et coniuncta. Mandatum <unclear>haec</unclear> fieri stannea 
+<lb n="41"/>et eadem separari. 
+<lb n="42"/>Altaria sunt quator minus decenter ornata cum antipendys. 
+<lb n="43"/>Calices tres argentei vel cuppis argenteis, unus fractus, quem reparari 
+<lb n="44"/>mandavimus. 
+<lb n="45"/>Corporalia et purgatoria munda. 
+<lb n="46"/>Vexillum unum perelegans novum. 
+<lb n="47"/>Pro circumferentia eucharistiae monstrantia. 
+<lb n="48"/>Casulae pervetustae 7 vel 8 satis tutae. 
+<lb n="49"/>Campanae 3. Communicantes 350. 
+</p>
+        <p><lb n="50"/>In eadem parochia est capella in monte, divo <persName ref="lub-actors-2534">Theodoro</persName> sacra, 
+<lb n="51"/>in qua singulis septimanis parochus tenetur celebrare, cui ineundis loco 
+<lb n="52"/>dantur 2 baziones et ientaculum. Campanae 2. 
+<lb n="53"/>Habet tria altaria, mappis negligenter ornata. 
+<lb n="54"/>Calices 3, ex quibus unus fractus est, quem refici curant rustici. 
+<lb n="55"/>Corporalia et purgatoria munda. Alias ecclesia est sarta et tecta. 
+<lb n="56"/>Capella est inibi, divo <persName ref="lub-actors-2536">Mamerto</persName> sacra, quae tecto est non satis 
+<lb n="57"/>munita, sed reficietur. Calix ibi nullus est, sed ex parochiali ecclesia petitur. 
+<lb n="58"/>Capella est item, diva virgini sacra, cuius curam agit <orgName ref="lub-actors-22">nobilis 
+<lb n="59"/>de Ramschwag</orgName>. Habet duos calices argenteos, corporalia et 
+<lb n="60"/>purgatoria satis munda, altaria duo, mappis et antipendys 
+<lb n="61"/>ornata, campanulas duas. 
+<lb n="62"/>Item in eadem parochia est capella divi <persName ref="lub-actors-2537">Wolfgangi</persName>. 
+<lb n="63"/><supplied>S. 254</supplied>
+<lb n="64"/>Redditus ecclesiae parochialis 28 lib. plus minusve. 
+<lb n="65"/>Ex quibus habentur quatuor anniv<unclear>er</unclear>saria quatuor ann<unclear>um</unclear> temporis. 
+<lb n="66"/>Item pro 13 florenis emitur cera. 
+<lb n="67"/>Habet vineam quandam, quae fert forsan 40 <unclear>viertel</unclear> vini. 
+<lb n="68"/>Habetur eleomosina, quae forsan 8 vel 9 libras pecuniae, 
+<lb n="69"/>quae pauperibus erogatur. 
+<lb n="70"/>Redditus <placeName ref="lub-places-837">capellae sancti Mamerti</placeName>: Non habet alios redditus, quam circa 
+<lb n="71"/>illam aediculam vineolam et pomarium, quo parochus utitur. 
+<lb n="72"/>Semper necessaria petuntur a parochiali ecclesia. 
+<lb n="73"/>Redditus <placeName ref="lub-places-836">capellae sancti Theodori</placeName> in monte: Habet redditus 23 lib. 
+<lb n="74"/><unclear>numi</unclear> plus minusve. 
+<lb n="75"/>Ex his reddunt domino parocho 12 lib., 2 lib. aedituo. Serta  
+<lb n="76"/>tecta conservantur. Dedicationes habentur. Ce<unclear>ra</unclear> emitur. 
+<lb n="77"/>Redditus ecclesiae in bonis immobilibus: Quatuor vel quinque vaccas. 
+<lb n="78"/>Agri tantum, ut proferant 4 plus minusve modios. 
+<lb n="79"/>In decimis habet in frumento 4am partem, quae faciunt 9 
+<lb n="80"/>modios, et minores decimas. 
+<lb n="81"/>In vino habet 3am partem, quae ad summum facit 3 plaustra. 
+<lb n="82"/>Habet vineam propriam, quae ad summum 2 plaustra cum dimidio. 
+<lb n="83"/>In numerata pecunia 20 lib. 
+  <lb n="84"/>Funerale pro adulto 7 solidi 4 <gap/><note>Nicht sicher lesbare Abkürzung für eine Geldeinheit, wohl für "denarii".</note>, pro infanto 12 <unclear>numi</unclear>.
+<lb n="85"/>Accidentaria incerta sunt. 
+<lb n="86"/>Redditus <placeName ref="lub-places-838">capellae sancti Wolfgangi</placeName> sunt librae ii, quae 
+<lb n="87"/>in sartis tectis conservantur, et domino parocho 12 solidi et celebrantur 
+<lb n="88"/>dedicationes ex eiusdem redditibus. 
+<lb n="89"/>Parochum inibi agit dominus <persName ref="lub-actors-2532">Michael Strasser</persName>, religiosus ordinis 
+<lb n="90"/><orgName ref="lub-actors-2531">Cisterziensis</orgName> monasterii in <placeName ref="lub-places-833">Stamps</placeName>, quem iuxta mandatum traditum 
+<lb n="91"/>reverendo domino vicario generali a parochia amovimus et ad monesterium 
+<lb n="92"/>suum reverti mandavimus et official<gap/> domini <orgName ref="lub-actors-7">comitis de Sulz</orgName>, ut 
+<lb n="93"/>pro parocho rusticis provideat, monuimus.  
+<lb n="94"/>Redditus <placeName ref="lub-places-183">capellae divae virginis</placeName> 5 lib. 
+<lb n="95"/><supplied>S. 255</supplied> 
+<lb n="96"/><date when="1595-10-17">17 octobris</date> visitavimus ecclesiam parochialem in <placeName ref="lub-places-71">Baltsers</placeName> ho<unclear>ra</unclear> <gap/>
+<lb break="no" n="97"/>ana.
+<lb n="98"/>Templum est ratione habita incolarum non inhonestum. 
+<lb n="99"/>Sacrarium est debitum sine velo. 
+<lb n="100"/>Vasculum pro eucharistia argenteum, sed non nisi unum. 
+<lb n="101"/>Vascula oleorum et crismalis cuprea, sed stannea fieri iussimus. 
+<lb n="102"/>Crux non inelegans. 
+<lb n="103"/>Altaria quatuor indecentius ornata mappis et antipendys. 
+<lb n="104"/>Calices quatuor vel toti argentei vel cuppis argenteis. 
+<lb n="105"/>Corporalia et purgatoria utcumque munda. 
+<lb n="106"/>Baptisterium fractum, quod reparandum mandavimus. 
+<lb n="107"/>Casulae 10 vel plures non inelegantes cum caeteris sacerdotum vestibus, 
+<lb n="108"/>sed non bene custoditae. 
+<lb n="109"/>Campanae tres. 
+<lb n="110"/>Communicantes 170 forsitan. 
+<lb n="111"/>In eadem parochia est capella divo <persName ref="lub-actors-2348">Petro</persName> sacra, non inelegantis structurae, 
+<lb n="112"/>sed pavimentum omnino quasi destructum. Calix unus argenteus. Casulae 
+<lb n="113"/>4, sed omniae valde indisposita. Tectum perfractum et muri non 
+<lb n="114"/>integri. 
+<lb n="115"/>Capella arcis <placeName ref="lub-places-13">Guttenberg</placeName> elegantissima cum tribus altaribus bene dispositis. 
+<lb n="116"/>Calices 3. Corporalia satis munda. Casulae et vestes sacerdotales 
+<lb n="117"/>elegantissimae. 
+<lb n="118"/>Redditus ecclesiae parochialis: In numerata pecunia 19 lib. 4 ß 9 d. 
+<lb n="119"/>In butiro 2 <unclear>viertel</unclear> 5 maß. 
+<lb n="120"/>In vino 4 mensuras. 
+<lb n="121"/>In cera unam libram cum dimidia. 
+<lb n="122"/>Item accidentaria quondam ratione decimarum vitelorum et pullorum equorum 
+<lb n="123"/><gap/> i lib. 
+<lb n="124"/><gap/> moritur, dantur ecclesiae 18 nummi, quando puer obit 9 nummi. 
+<lb n="125"/><gap/> et puerpera in egressu fert fila quondam. 
+<lb n="126"/><gap/>hi in bonis immobilibus: Agris quatuor mittmall, qui referunt 
+<lb n="127"/><gap/>x dierum laboris prata. 
+<lb n="128"/><gap/> frumento 12 modios plusve minusve. Invino habet 
+<lb n="129"/><gap/>ates, decima<gap/> vini 100 <unclear>viertel</unclear>. 
+<lb n="130"/><gap/> <supplied>p</supplied>ecunia 30 florenos. Funerale pro adulto 7 ß. 
+<lb n="131"/><gap/> C<unclear>ae</unclear>tera accidentaria 5 floreni. In butiro 3 <unclear>viertel</unclear>. 
+<lb n="132"/><gap/> i q<gap/>, in hordeo 3 ß iɨ<note>1.5</note> vierdling. 
+<lb n="133"/><gap/>cimis 3 modios plusve minus. In minoribus decimis 4 
+<lb n="134"/><gap/> 
+<lb n="135"/><supplied>S. 256</supplied> 
+<lb n="136"/><gap/><persName ref="lub-actors-722">annes Held</persName> pa<unclear>roch</unclear>us inibi est, ex <placeName ref="lub-places-285">Uberlinga</placeName> oriundus legitimus, 
+<lb n="137"/><gap/> 40, annis <unclear>d</unclear>uod<unclear>e</unclear>cim prespiter <placeName ref="lub-places-834">Constantiensis</placeName> diocesis, ex dimissorio a Bas<gap/> 
+<lb n="138"/><gap/>nsi ordinatus, ad parochias a <orgName ref="lub-actors-22">nobili de Ramschwag</orgName> presentatus et a reverendissimo 
+<lb n="139"/><placeName ref="lub-places-175"><supplied>Cu</supplied>riensi</placeName> investitus. Praeest quarto anno. 
+  <lb n="140"/><unclear>D</unclear>ominicis et festivis diebus vespea<gap/><note>Wohl verschrieben für "vesperam" oder "vesperas".</note> non dicit. 
+<lb n="141"/>Cathechismum non docet. 
+<lb n="142"/>Credo integre non cantatur. 
+<lb n="143"/>Sal et aqua a pascate usque pentecostem non benedicitur. 
+<lb n="144"/>Habuit concubinam, quam licet dimiserit, tamen sese mutuo invisunt, 
+<lb n="145"/>quam<gap/> magistratus saecularis extra ditionem expulit. 
+<lb n="146"/>Est insuper in materia sacramentali et morali infans. 
+<lb n="147"/>Licet legere sciat, vix quod legit explicare potest. 
+<lb n="148"/>Hunc ob ignorantiam et quia concubinam saepius contra mandata reverendissimi 
+<lb n="149"/>invisit, ex episcopatu ablegavimus. 
+<lb n="150"/>Elemosina constituta habet. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

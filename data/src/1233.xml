@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1233">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut beim Hinderschloss in Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1233">CH-BAC, 015.2778</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1553 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich, Hans, Stefan, Jakob, Anna, Eva, Katharina und Barbara, die Kinder des verstorbenen Jakob Bläsi von Bendern, verkaufen mit Ulrich Hop als Vogt einen Zins von 10 Schilling ab ihrem Gut im Ronafeld beim Hinderschloss (Schellenberg) an Abt Georg und den Konvent des Klosters St. Luzi in Chur.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2731">Bläsi, Ulrich</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2072">Bläsi, Hans (4)</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2733">Bläsi, Stefan</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2734">Bläsi, Jakob (2)</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2735">Bläsi, Anna (1)</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2736">Bläsi, Eva</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2737">Bläsi, Katharina</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2738">Bläsi, Barbara</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2730">Hoop, Ulrich (2)</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-65">Brendle, Peter</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1553-11-11">11. Nov 1553</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2778-0001.jpg" xml:id="lub-media-3949" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3949" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-2731">Ulrich</persName>, <persName ref="lub-actors-2072">Hans</persName>, <persName ref="lub-actors-2733">Staffa</persName>, <persName ref="lub-actors-2734">Jacob</persName>, <persName ref="lub-actors-2735">Anna</persName>, <persName ref="lub-actors-2736">Eva</persName>, <persName ref="lub-actors-2737">Trina</persName> und <persName ref="lub-actors-2738">Barbla</persName>, alle geschwüstergit, weilund <persName ref="lub-actors-2732">Jacob Bläsis</persName> seligen eeliche verlassne kinder 
+<lb n="2"/>zu <placeName ref="lub-places-36">Bendern</placeName>, sampt unserm rechtgesetzten vogt <persName ref="lub-actors-2730">Ulrich Hopen</persName>, bekennen offentlich für uns, all unser erben und nachkomen und thundt kundt 
+<lb n="3"/>allermengclich mit disem prieff, das wir mit veraintem gutem willen, wolbedacht und insonderhait mit hand des ersamen und weysen 
+<lb n="4"/><persName ref="lub-actors-65">Petter Brendlins</persName>, dertzeit aman der herschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, auffrecht und redlich verkoufft und zu kouffen geben habenn 
+<lb n="5"/>und geben hiemit wüssentlich inncrafft dis brieffs dem erwürdigen und gaistlichn herren <persName ref="lub-actors-450">Geörgen</persName>, abte des gotzhauss <orgName ref="lub-actors-337">Sannt Lucii</orgName>, ob der 
+<lb n="6"/>statt <placeName ref="lub-places-102">Chur</placeName> gelegen, und gemainem convent und allen iren nachkomen ains stätten, vessten, ewigen kouffs namlichen zehen schilling 
+<lb n="7"/>pfening guter genemer <placeName ref="lub-places-101">Cosstantzer</placeName> müntz und <placeName ref="lub-places-10">Veldtkircher</placeName> werung rechts, ewigs, järlichs zynnss und pfening gelts uff, usser, von und 
+<lb n="8"/>ab unserm aignen gut, <placeName ref="lub-places-971">Ronerfeldt</placeName> genant, <placeName ref="lub-places-36">Bender</placeName> kilchspel gelegen, stosst ainsidt an der herschafft gut, genant der <placeName ref="lub-places-972">Zweyer</placeName>, zur andern 
+<lb n="9"/>seidten an unser aigen gut, zur dritten an <persName ref="lub-actors-2739">Cunrat Hasslachs</persName> gut, genant <placeName ref="lub-places-971">Ronenfeldt</placeName>, und zur vierdten seidten aber an der herschafft gut, ge
+<lb break="no" n="10"/>nant <placeName ref="lub-places-973">Buntzehalen</placeName>, abgrund, gradt, wun, waidt, pömen, zweigstöcken, stain, gesteüdt, gereüdt, gengen, stegen und wegen und gemain
+<lb break="no" n="11"/>clichen mit allen andern seinen rechten und zugehörden, benempten und unbenempten, für frey, ledig, aigen und loss und gegen mengclichen
+<lb n="12"/>unversetzt und unverkümbert. Und ist der ewig, redlich kouff also beschehen und gethan worden umb zehen pfundt pfening obgenanter 
+<lb n="13"/>müntz und werung, deren wir von gedachten herrn kouffern aussgericht und betzalt worden sindt. Darumben so söllen und wollen 
+<lb n="14"/>wir, all unser erben und nachkomen inhaber und besitzer obgemelts underpfanndts den bestimpten zinss ermelten herren keüffern, 
+<lb n="15"/>allen iren nachkomen und inhabern ditz prieffs nun, fürohin, ewigclich und jarlichen alle jar, namlichn <date when="--11-11">uff sant Martins, des 
+<lb n="16"/>hailligen bischoffs, tag</date>, achtag vor oder nach ungevarlich, richten, zynnsen und zu iren unnd iren nachkomen sichern habenden handen 
+<lb n="17"/>und gwalt antwurten und geben, für allermengclichs hefften, verpietten und entweren, und gentzlichen one allen iren costen und 
+<lb n="18"/>schaden. Wie oder welches jars das aber also nit beschehe uber kurtz oder langetzeit, so ist innen dann ir obgemelt underpfanndt, 
+<lb n="19"/>in seinen bestimpten marcken begriffen, gantz zinsfellig worden und darnach mit grundt, gradt, auch mit allen seinen rechtn 
+<lb n="20"/>und zugehörden haimgefalln unnd gefallen, one uns, all unser erben und nachkomen und allermengclichs von unsert wegen 
+<lb n="21"/>saumen, iren und widersprechn. Und hieruff ditz ewigen, redlichen kouffs umb zynsfellige und für allen abgang obgenants under
+<lb break="no" n="22"/>pfands, auch zynss, hoptguts, schadens und aller obgeschribner ding söllen und wöllen wir, obgenante verkeuffere, all unser erben
+<lb n="23"/>und nachkomen gemainlich und unverschaidenlich den obgenanten herrn kouffern, allen iren nachkomen recht, gut, getrüw, 
+<lb n="24"/>crefftig weren, fürsstandt und versprecher sein vor dem richter und gericht, darunder obgemelt underpfanndt gelegen und der 
+<lb n="25"/>kouff beschehen ist, wie, wa, wann und gegen wem, als offt und dick sy des nach dem rechten yemer bedürffen und notturfftig 
+<lb n="26"/>sein werden, alweg in unserm aignen costen und one iren schaden, bei guten trüwen, on alle widerredt, ausstzug und geverde. 
+<lb n="27"/>Unnd wiewol diser prieff ain ewigen kouff usswysst, nichtdesterweniger so megen wir, all unser erben und nachkomen 
+<lb n="28"/>den bemelten zynss von obgedachtem hern apt und gemainem convent, auch iren nachkomen, wol widerkouffen und 
+<lb n="29"/>ablössen, nun, fürterhin, ewigclich, wann und welches jars wir wellen, uber kurtz oder langetzeit, doch vor zynnsfal und 
+<lb n="30"/>alwegen uff <date when="--11-11">sant Martins tag</date>, achtag vor oder nach ungevarlich, samenthafft mit obgemeltem houptgut, sampt allen ver
+<lb break="no" n="31"/>fallenen, ussteenden zynnsen, auch mit sölicher müntz unnd werschafft, daran sy kainen verlurst noch abgang haben, ob sich
+<lb n="32"/>die müntz in dertzeit verenderen wurde, alles ungevarlich. Unnd des zu warem urkundt so haben wir, obgenante verkeuffere, 
+<lb n="33"/>gemainclich und unverschaidenlich sampt unserm vogt <persName ref="lub-actors-2730">Ulrich Hopen</persName> mit fleiss und ernst gepätten und erpätten den ob
+<lb break="no" n="34"/>gemelten aman <persName ref="lub-actors-65">Petter Brendlin</persName>, das er sein aigen insigel für uns, all unser erben und nachkomen, doch im und sein erben
+          <lb n="35"/>in alweg one schaden, zugetzeügknus der sach offentlich an disen prieff gehenckt hat, der geben ist <origDate when="1553-11-11">uff sannt Martins, des 
+<lb n="36"/>hailigen bischoffs, tag nach Cristi, unsers lieben herren, gepurt getzelt thaussendt fünffhundert fünfftzig unnd drii jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

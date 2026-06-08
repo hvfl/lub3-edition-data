@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1226">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Haus in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1226">CH-BAC, 015.2720</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 26. November 1546 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Büchel von Ruggell verkauft als Vogt von Magdalena Schuhmacher, der Witwe von Ulrich Kopf, und ihrer acht Kinder Margreth, Michael, Anna, Kaspar, Georg, Hans, Agatha und Katharina Kopf einen Zins von 1 Pfund ab dem Haus der Kopf in Ruggell an Jörg Feuerstein, Pfarrer in Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-613">Büchel, Jakob</persName>
+          <date when="1546-11-26">26. Nov 1546</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1546-11-26">26. Nov 1546</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1546-11-26">26. Nov 1546</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2720-0002.jpg" xml:id="lub-media-3945" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3945" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-613">Jacob Büchell</persName> von <placeName ref="lub-places-2">Ragell</placeName>, der zeit verordneter unnd recht gesätzer vogthe <persName ref="lub-actors-2655">Magdalena Schüchmacher</persName>, weeylundt <persName ref="lub-actors-2461">Ulrich 
+<lb n="2"/>Kopffen</persName> seligen verlaßne witwe, und irer acht kündere, mit namen <persName ref="lub-actors-2658">Gretha</persName>, <persName ref="lub-actors-2659">Michell</persName>, <persName ref="lub-actors-2660">Annelin</persName>, <persName ref="lub-actors-2661">Caspar</persName>, <persName ref="lub-actors-2662">Jerg</persName>, <persName ref="lub-actors-2663">Hanns</persName>, 
+<lb n="3"/><persName ref="lub-actors-2664">Agatha</persName> unnd <persName ref="lub-actors-2665">Katherina</persName>, all rechte geschwüsterigten, die Kopffen, bekhenn hier inn offennlich anstatt unnd innamen 
+<lb n="4"/>meiner vogtverwalttigunng für sie, ire erben unnd nachkhumen und thun kunth allermennglich mit dißem 
+<lb n="5"/>brieffe, dz ich umb vermelter meiner vogtkündere beßern nutz unnd frumen willen gantz wolbedacht, sonder 
+<lb n="6"/>mit hanndt des ersamen weyßen <persName ref="lub-actors-817">Michaell Grawen</persName>, der zeit der herschafft <placeName ref="lub-places-11">Schellenberg</placeName> aman, recht unnd redlich ver
+<lb break="no" n="7"/>koufft unnd zü kouffen geben hab unnd gib auch jetzo anstatt unnd innamen meiner vogtverwaltigung, als obsteth,
+<lb n="8"/>mit krafft diß brieffs dem wirdigen, gaistlichen herren <persName ref="lub-actors-450">Jorgen Fürstein</persName>, der zeit pfarherren zü <placeName ref="lub-places-36">Benndern</placeName>, unnd allen 
+<lb n="9"/>der selbigen nachkumen vermelter pfarr namlich ain pfundt pfening güter unnd genemer <placeName ref="lub-places-101">Costenntzer</placeName> mintz <placeName ref="lub-places-10">Veldt
+<lb break="no" n="10"/>kircher</placeName> werunge rechts järlichs ewigs zeins unnd pfening geltzs von, usser unnd abe vorbemelter, meiner vogtkündr,
+<lb n="11"/>aigen haus unnd hofstatt zü <placeName ref="lub-places-2">Raggell</placeName>, <placeName ref="lub-places-36">Bendern</placeName> kilspell, gelegen, stoßt zü der ersten seyten an <persName ref="lub-actors-2666">Jergen Mayers</persName> güth, ander
+<lb break="no" n="12"/>seit an die landtstras, zür dritten an <persName ref="lub-actors-2667">Valentein Spalts</persName> güth, zür vierten an <persName ref="lub-actors-957">Hanns Eglins</persName> güth unnd zür fünfften
+<lb n="13"/>seiten an <persName ref="lub-actors-2668">Lutz Spalts</persName> acker, unnd gat vorhin außer vermelten haus unnd hoff jerlichs obgedachter pfar zü <placeName ref="lub-places-36">Beenndern</placeName> 
+<lb n="14"/>zween schilling pfening jar zeit geltt, weytters nit, alles ab grunndt, gradt, stock, stein, zimer, gemeür, dach, gemach, 
+<lb n="15"/>pawmen, zweyg, gengen, stegen, wegen und gemainlich ab allen andern der selben rechten unnd zügehörden, benennten 
+<lb n="16"/>und unbenenten, und ouch für ledig und lous und vormals gegen mennglichen unversetzt unnd unverkümbert, auß
+<lb break="no" n="17"/>genumen obbemelte zwen schilling. Unnd ist der ewig, redlich kouff also bescheen und gethon worden umb zwaintzig pfundt
+<lb n="18"/>pfening gütter und genemer <placeName ref="lub-places-101">Costenntzer</placeName> mintz <placeName ref="lub-places-10">Veldtkircher</placeName> werunge, deren ich innamen meiner vogtverwalttig
+<lb break="no" n="19"/>ung woll züfriden erbarglich außgericht und betzaltt worden bin, nach völligem benüegen. Unnd darumb so sollenn
+<lb n="20"/>und wöllen obgedachte, meine vogtkündere, der selbigen erben und nachkumen innhaber und besitzer obbemelts underpfanndts 
+<lb n="21"/>den gemelten pfening zeins obgenantem pfarheren zü <placeName ref="lub-places-36">Benndern</placeName> unnd allen der selben nachkhumen vermelter pfarr, inn
+<lb break="no" n="22"/>habern diß brieffs, nün fürohin ewiglich und järlich alle jar uff <date when="--11-11">sant Martins tag</date>, acht tag vor oder nach ungevarlich,
+<lb n="23"/>tugentlich richten, zeinßen und zu vermelter pfar sichern handen und gewaltt antwurten und geben für allermennglichs 
+<lb n="24"/>hoffen, verbieten und entweren und genntzlich one allen der pfar costen und schaden. Wann, wie oder welches jars das aber 
+<lb n="25"/>also nit beschäche, über kurtz oder lang zeit, so ist vilernenter pfar ir obbemelt underpfanndt, in seinen bestimpten 
+<lb n="26"/>marcken begriffen, gantz zeins völlig worden und dann dannethin mit grundt, gradt und mit allen des selben rechtn 
+<lb n="27"/>und zügehörden zü rechtem ewigen aigen imer haimgefallen und verfallen, one vermelter meiner vogtkündere, der 
+<lb n="28"/>selbigen erben und nachkumen und allermennglichs von irent wegen irrung unnd widersprechen. Unnd hieruff diß 
+<lb n="29"/>redlichen, ewigen kouffs umb zeins fölligin und für all abgeng obbemelts underpfandts, auch zeins, houptguth, 
+<lb n="30"/>schadens unnd aller obgemelten ding soll unnd will ich innamen und anstatt meiner vogtkündere, der selbigen 
+<lb n="31"/>erben und nachkumen der genanten pfar und allen der selbigen nachkhummen pfarherren recht güth und getrui, krefftig 
+<lb n="32"/>wern, fürstandt und versprecher sein vor dem richter unnd gericht, darunder obbemelt underpfanndt und zeins ge
+<lb break="no" n="33"/>legen ist, wie, ween und gegen weem als offt und dick sie das nach dem rechten imer betürffen unnd nottürfftig werden,
+<lb n="34"/>allwegen in obbemelter, meiner vogtkünderen aignen costen, one der pfar schaden, bey gütten getruien, one alle wider
+<lb break="no" n="35"/>redt, außzug unnd geverdt. Unnd wie woll dißer brieff ainen ewigen kouff außweyßt, so mügen doch obvermelte,
+<lb n="36"/>meine vogtkündere, der selbigen erben und nachkhumen den obgemelten zeins von dem genanten köuffer und allen der 
+<lb n="37"/>selbigen nachkhumen vermelter pfar woll widerkouffen und ablößen, nün fürohin ewiglich, wenn und welches jars 
+<lb n="38"/>sie über kurtz oder lang zeit wöllen, doch vor zeins fall und allwegen uff <date when="--11-11">sant Martinstag</date>, achttag vor oder nach 
+<lb n="39"/>ungevarlich, samenthafft mit dem obgemelten houptgüth sampt allen verfallen ausstennden zeinsen und ouch mit sel
+<lb break="no" n="40"/>licher mintz und werschafft, daran sie nit verlust noch abganng haben, ob sie die mintz in der zeit verendern wurde, alles
+<lb n="41"/>ungevarlich. Unnd des zü warem und offem urkundt so hab ich, obgenanter verköuffer, innamen und anstatt meiner 
+<lb n="42"/>vogtkündere mit vleys erpetten den vorgedachten aman, das er sein aigen innsigell, doch ime und seinen erben 
+          <lb n="43"/>in allweg one schaden, herunden offennlich an diszen brieff gehennkt hat, der geben ist <origDate when="1546-11-26">uff freytag nach sant Katherina, 
+<lb n="44"/>der hailligen junckfrow, tag, als man von Christi gepurt zaltt funfftzechenhundert viertzig unnd sechs jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

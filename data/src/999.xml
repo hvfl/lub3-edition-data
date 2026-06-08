@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-999">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Berichte des Landvogts zu Vaduz, Franz Landtmann, über die Kriegsvorbereitungen der Eidgenossen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-999">AT-ÖStA HHStA LA VÖ 3 fol. 224r-225v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 15. August 1548 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Vogt zu Vaduz, Franz Landtmann, berichtet Ulrich von Schellenberg, Vogt zu Feldkirch, was ihm über die Kriegsvorbereitungen der Eidgenossen berichtet worden ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-328">Kriegsvorbereitung</term>
+          <term ref="lub-keywords-95">Waffe</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-290">Landtmann, Franz</persName>
+          <date when="1548-08-15">15. Aug 1548</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-80">Schellenberg, Ulrich von</persName>
+          <date when="1548-08-15">15. Aug 1548</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-_Östa_hhsta_la_vÖ_3_fol__224r-225v-0001.jpg" xml:id="lub-media-702" source="img-3260-at-hhsta-la-vo-3-224r.jpg" corresp="B"/>
+    <graphic url="at-_Östa_hhsta_la_vÖ_3_fol__224r-225v-0002.jpg" xml:id="lub-media-703" source="img-3261-at-hhsta-la-vo-3-224v.jpg" corresp="B"/>
+    <graphic url="at-_Östa_hhsta_la_vÖ_3_fol__224r-225v-0003.jpg" xml:id="lub-media-704" source="img-3262-at-hhsta-la-vo-3-225r.jpg" corresp="B"/>
+    <graphic url="at-_Östa_hhsta_la_vÖ_3_fol__224r-225v-0004.jpg" xml:id="lub-media-705" source="img-3263-at-hhsta-la-vo-3-225v.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Edler gestrennger gunstiger herr. Euer strengheit sein mein gut  
+<lb n="2"/>willig diennst jederzeit bevor. Euer strengheit schreiben  
+<lb n="3"/>sambt inngelegtter khundtschafft mir bei zayger diß  
+<lb n="4"/>zuegeschikh, hab ich empfanngen, dasselbig auch  
+<lb n="5"/>dem wolgebornen meinem gnädigen herren grave  
+<lb n="6"/><persName ref="lub-actors-10">Wilhalben</persName> etc. anngezaigt, solches und sonderlich euer strengheit  
+<lb n="7"/>guetlich nachpurlichen willens bedankh sich sein gnaden  
+<lb n="8"/>gegen euer strengheit ganz freundtlich mit erbiettung, euer strengheit  
+<lb n="9"/>auch guette freundtliche nachpurschafft, leybs und  
+<lb n="10"/>guets zubeweysen, dann als euer strengheit begert, wo  
+<lb n="11"/>ich was der <orgName ref="lub-actors-2542">Apfenzeller</orgName> gmaynd halb, oder  
+<lb n="12"/>annder khundtschafft hette desselbigen euer strengheit zuberichtten,  
+<lb n="13"/>fueg ich derselben zuvernemen, das ich diser gemaind  
+<lb n="14"/>khain wissen noch nyemandt alda gehabt. Mir  
+<lb n="15"/>ist aber nechttlich spat glaubhafftig geschrifftlich  
+<lb n="16"/>und mundlich durch wolgedacht meins gnädigen herrn  
+<lb n="17"/>ambtleut und dienner, die ich zuerfarung khundt
+<lb break="no" n="18"/>schafft hunwekh geschikht und zugeschriben hab zu
+<lb break="no" n="19"/>khomen und anngezaigt, wie die <orgName ref="lub-actors-515">Aydgnossen</orgName> 
+<lb n="20"/>schier zum thaill allenthalben gannz aufruerisch  
+<lb n="21"/>seynd, sonnderlich die von <placeName ref="lub-places-20">Zurich</placeName> und ir anhanng , 
+
+<lb n="22"/>dann als inen zuekhomen wie es zu <placeName ref="lub-places-101">Costenz</placeName> ergan
+<lb break="no" n="23"/>gen, haben sich die zu <placeName ref="lub-places-21">Schafhausen</placeName> von stundan mit 
+<lb n="24"/>wer und harnasch gerisst, und wellend auf sein den  
+<lb n="25"/>nachsten <placeName ref="lub-places-101">Costenz</placeName> zuezeziechen, dergleichen die von <placeName ref="lub-places-20">Zurich</placeName>  
+<lb n="26"/>auch, aber die versambtten zu <placeName ref="lub-places-94">Baden</placeName> auf dem  
+<lb n="27"/>weg haben, solches aynmall abgestellt, nicht dest
+<lb break="no" n="28"/>weniger syend sy in grosser ristung und haben 
+<lb n="29"/>schon ain auszug gemacht, als mein khundtschaffter  
+<lb n="30"/>anzaigt. Gibt der abt von <orgName ref="lub-actors-708">Sanndt Gallen</orgName> den  
+<lb n="31"/>haubtman, weil venderich und hundert man dar
+<lb break="no" n="32"/>nach ain flekh nach dem anndern, so gemellttem 
+<lb n="33"/>apt zuegehorig, sein anzall, dergleichen <placeName ref="lub-places-979">Olgew</placeName> hundert  
+<lb n="34"/>und zwainzig, <placeName ref="lub-places-980">Wintertheur</placeName> hundert und achzig, <placeName ref="lub-places-20">Zurich</placeName>  
+<lb n="35"/>taussendt man, darzue geschuz und monicion etc.,  
+<lb n="36"/>alles auf <placeName ref="lub-places-101">Costenz</placeName> was daraus werden wirt, die  
+<lb n="37"/>zeyt mit bringen mueß man got bevelchen. Ich hoff  
+<lb n="38"/>aber, ob got will, nicht dann guets, dann die khayserliche  
+<lb n="39"/>mayestät etc. hat ir potschafft jezt auf jungsten tag zu  
+<lb n="40"/><placeName ref="lub-places-94">Baden</placeName> gehabt, an gmain <orgName ref="lub-actors-515">Aydgnossen</orgName> langen lassen,  
+<lb n="41"/>sy wellen still sizen und sich dero von <placeName ref="lub-places-101">Costenz</placeName> nicht  
+<lb n="42"/>annemen noch beladen. Beschech das, well ir mayestät  
+
+<lb n="43"/>inen nicht anders, dann alle gnad beweisen, wo nit,  
+<lb n="44"/>werd ir mayestät verursacht gegen inen als deren von  
+<lb n="45"/><placeName ref="lub-places-101">Costenz</placeName> annhenngen furzunemen wie anderm im  
+<lb n="46"/><orgName ref="lub-actors-516">Reich</orgName> beschechen. Darauf sich die <orgName ref="lub-actors-515">Aydgnossen</orgName> endtschlossen,  
+<lb n="47"/>deren von <placeName ref="lub-places-101">Costenz</placeName> gannz und gar nit zubeladen  
+<lb n="48"/>noch anzunemen, die khayserliche mayestät greiffe dann sy, die  
+<lb n="49"/><orgName ref="lub-actors-515">Aydgnossen</orgName>, zuvor an, oder zieche auf irn grund  
+<lb n="50"/>und boden. Also lassen pot und verpot ausgan  
+<lb n="51"/>zum hochsten, das khayner aus inen, denen von  
+<lb n="52"/><placeName ref="lub-places-101">Costenz</placeName> zuzieche, die auch so inen zuegezogen wider
+<lb break="no" n="53"/>rumb angevordert. Mir zaygt aber mein 
+<lb n="54"/>khundtschaffter an, wie hoch es verpotten, so hab er  
+<lb n="55"/>doch etlich selbs gesechen, mit wer und harnasch  
+<lb n="56"/><placeName ref="lub-places-101">Costenz</placeName> zu lauffen, treiben vill stolz und hochmuet,  
+<lb n="57"/>sonnderlich die so denen von <placeName ref="lub-places-20">Zurich</placeName> zuegehoren  
+<lb n="58"/>trewen, und lassen sich vernemen alßpald, was  
+<lb n="59"/>annganng wellen sy heruber wellen, wollge
+<lb break="no" n="60"/>dachtten meine gnädigen herren zum ersten schedigen unnd 
+<lb n="61"/>verbrennen, das wolt euer strengheit ich hiemit nit pergen,  
+<lb n="62"/>soverr mir was weytter zuekhombt, euer strengheit dessel
+<lb break="no" n="63"/>bigen auch berichtten. Euer strengheit als mein gunstigen herrn 
+<pb facs="lub-media-705" n="4"/>
+<lb n="64"/>mich bevelchende. Datum <placeName ref="lub-places-12">Bluemeneckh</placeName> in ayl, <origDate>an unnser 
+<lb n="65"/>frawen Himlfart tag anno etc. clviii</origDate> 
+<lb n="66"/>Euer strengheit 
+<lb n="67"/>dienstwilliger 
+<lb n="68"/><persName ref="lub-actors-290">Franz Landtman</persName> vogt  
+<lb n="69"/>zu <placeName ref="lub-places-7">Vaduz</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

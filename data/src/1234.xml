@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1234">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1234">CH-BAC, 015.2848</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1563 / Beschreibstoff: Pergament / Siegel: 1 Siegel, in Stoffsäcklein</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich Biederman aus Falgedin im Kirchspiel Bendern und seine Frau Anna Welti verkaufen einen Zins von 10 Schilling ab ihrem Gut Negelesplätzle unterhalb von Salums an Martin Mündle ab dem Eschnerberg und dessen Frau Ursula Strub.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2740">Biedermann, Ulrich</persName>
+          <date when="1563-11-11">11. Nov 1563</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2741">Welti, Anna</persName>
+          <date when="1563-11-11">11. Nov 1563</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1563-11-11">11. Nov 1563</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-1059">Mündle, Martin</persName>
+          <date when="1563-11-11">11. Nov 1563</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2742">Strub, Ursula</persName>
+          <date when="1563-11-11">11. Nov 1563</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2848-0001.jpg" xml:id="lub-media-3950" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3950" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2740">Ulrich Biderman</persName> aus <placeName ref="lub-places-530">Vallgenndin</placeName> in <placeName ref="lub-places-36">Bennderer</placeName> kirchspel, unnd ich, <persName ref="lub-actors-2741">Anna Weltin</persName>, sein eeliche hausfrow, bekhennen offennlich fur unns, all 
+<lb n="2"/>unnser erben unnd nachkhomen unnd thuen kundt allermenigclich mit dem brief, das wir mit veraindtem, guetten willen, wolbedachtem synn 
+<lb n="3"/>unnd mueth zu furderung unnsers nutz besonnder mit hannd des ersamen, weisen <persName ref="lub-actors-817">Michel Grawen</persName>, der zeit aman der herrschafft <placeName ref="lub-places-11">Schellenperg</placeName> 
+<lb n="4"/>am <placeName ref="lub-places-16">Eschnerberg</placeName>, aufrecht unnd redlich verkhaufft unnd zue khauffen gegeben haben ains stetten, vessten, eewigen unnd ymmer werennden kaufs und 
+<lb n="5"/>geben auch also hiemit wissenndtlich in crafft dis briefs dem erbern <persName ref="lub-actors-1059">Marttin Mundlin</persName> ab dem <placeName ref="lub-places-16">Eschnerberg</placeName> unnd <persName ref="lub-actors-2742">Ursula Strubin</persName>, sein
+<lb break="no" n="6"/>em eelichen weib, allen iren erben unnd nachkhomen nemlich zechen schilling pfening guetter <placeName ref="lub-places-101">Costenntzer</placeName> muntz <placeName ref="lub-places-10">Veldkhircher</placeName> werung rechts,
+<lb n="7"/>eewigs jerlichs zins unnd pfening geltz von, ausser unnd ab unnserm aignen stuckhe guet in <placeName ref="lub-places-36">Bennderer</placeName> kirchspel unnder <placeName ref="lub-places-116">Salums</placeName> gelegen, 
+<lb n="8"/>genannt <placeName ref="lub-places-974">Negelis Pletz</placeName>, stost zu dreyen ordten an die allmain unnd zum vierdten ordt an die stras, so auf <placeName ref="lub-places-767">Raggeler Riedt</placeName> gatt, alles ab 
+<lb n="9"/>grundt, grat, veld, wasen, wun, waid, stockh, stain, gesteudt, gereut, genngen, stegen unnd wegen unnd gemainlich mit allen anndern seinen rechten 
+<lb n="10"/>unnd zuegehörden, benembten unnd unbenembten, auch für ledig unnd gegen allermenigclich unverkhumbert. Unnd also ist der eewig, 
+<lb n="11"/>redlich kauf erganngen unnd beschechen benenntlichen umb zechen pfundt pfening guetter vorgeschribner muntz unnd werung, dero wir aller gar 
+<lb n="12"/>von inen, den keuffern, erberlich ausgericht unnd betzalt worden sind nach unnserm guetten willen unnd benuegen. Darumben sollen 
+<lb n="13"/>unnd wöllen wir, auch alle unnser erben unnd nachkhomen oder wer das obgemelt unnderpfanndt nach unns ymmer innhat, nutzet unnd prauchet, 
+<lb n="14"/>gemelten zins, die zechen schilling pfening geltz, inen, den keuffern, auch allen iren erben unnd nachkhomennden innhabern diss briefs nunhin
+<lb break="no" n="15"/>enndthin ymer, eewigclich unnd ye jerlich alle jar auf <date when="--11-11">sanndt Marthins tag</date>, achttag vor oder nach ungevarlich, guetlich ausrichten, zinsen unnd zu
+<lb n="16"/>iren sichern hannden unnd gewalt, füer alles verhefften, verpietten unnd enndtweren, genntzlichen one allen iren costen unnd schaden, geben 
+<lb n="17"/>unnd anndtwurten. Wann, wie oder weliches jars das aber also nit bescheche über kurtz oder lanng zeit, so ist inen das obgemelt unnder
+<lb break="no" n="18"/>pfanndt, in seinen bestimbten marckhen begriffen, ganntz zinsfellig worden unnd dannennthin mit grund, grat unnd mit allen andern
+<lb n="19"/>seinen obgenannten rechten, pesserungen unnd zuegehörden zu rechtem eewigen aigen ymmer mer haimb gevallen unnd verfallen on unnser, 
+<lb n="20"/>aller unnser erben unnd nachkhomen unnd allermenigclichs von unnsernt wegen irrung unnd widersprechen. Unnd hierauf diss ee
+<lb break="no" n="21"/>wigen, redlichen kaufs umb zinsfelligi, auch fuer all abgenng unnd minderung des obgenannten unnderpfanndts, auch hauptguetz, zinss und
+<lb n="22"/>schadenns unnd aller obgenannter ding söllen unnd wöllen wir, auch all unnser erben unnd nachkhomen der genannten keuffer, aller ire<unclear>r e</unclear>rben, 
+<lb n="23"/>nachkhomen recht, guet unnd getrew, krefftig geweren, furstanndt unnd versprecher gegen aller menigclich sein vor dem richter unnd gericht, 
+<lb n="24"/>darunnder obgemeltes unnderpfanndt gelegen unnd der kauf beschechen ist, nach recht, wa, wie, wenn oder gegen wem, als offt unnd dickh sy des 
+<lb n="25"/>nach dem rechten ymmer bedurffen oder notturfftig wurden, alfort in unnserm aignen costen, one iren schaden, bei guetten trewen, on 
+<lb n="26"/>alle widerred, auftzug unnd geverde. Unnd wiewoll der brief ainen eewigen kauf ausweist, nichtdesterweniger mugen wir, 
+<lb n="27"/>auch all unnser erben unnd nachkhomen den gemelten zins, die zechen schilling pfening geltz, von inen, den keuffern, auch allen iren erben unnd 
+<lb n="28"/>nachkhomen woll widerumben kauffen unnd ablösen nunfurtherhin, wann unnd weliches jars wir wellen, uber kurtz oder lanng zeit, 
+<lb n="29"/>doch vor zinsfall unnd auf <date when="--11-11">sanndt Marthins tag</date>, achttag vor oder nach ungevarlich, samenndthafft mit dem obgeschribnen hauptguet, den zechenn 
+<lb n="30"/>pfundt pfeningen, unnd albegen mit gevallnen, ausstenndigen zinsen, auch mit guetter muntz unnd weerschafft, daran sy khainen verlurst noch 
+<lb n="31"/>abganng haben, ob sich die yetzig muntz in der zeit verenndern wurde, alles ungevarlich. Unnd des zu warem urkhundt haben wir, 
+<lb n="32"/>obgemelte verkheuffere, mit vleys unnd ernnst erpetten den obgedachten aman <persName ref="lub-actors-817">Michel Grawen</persName>, das der sein innsigel fur unns unnd 
+          <lb n="33"/>unnser erben (doch ime unnd seinen erben oneschaden) offennlich an disen brieff gehennckht hat, der geben ist <origDate when="1563-11-11">an sanndt Marthins tag 
+<lb n="34"/>im funfftzechennhundert drewundsechtzigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

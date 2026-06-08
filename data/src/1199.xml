@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1199">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt Hektor von Ramschwag mit dem Domkapitel von Chur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1199">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 64v-65r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 30. Oktober 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Konflikt Hektor von Ramschwag mit dem Domkapitel von Chur wegen eines Zehnts in Schaan.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-10-30">30. Okt 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__64v-65r-0001.jpg" xml:id="lub-media-3210" source="1595-10-30-buch-walgau-8-22-64v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__64v-65r-0002.jpg" xml:id="lub-media-3211" source="1595-10-30-buch-walgau-8-22-65r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-614">Rambschwag</persName> contra  
+<lb n="2"/><orgName ref="lub-actors-2538">thumbhern zu Chur</orgName>. 
+</p>
+        <p><lb n="3"/>Euer schreiben und bericht vom <date when="1595-09-22">22. negst
+<lb break="no" n="4"/>verflossnen monats sebtembris</date> haben 
+<lb n="5"/>wir empfanngen und auß dennselben was  
+<lb n="6"/>auf <persName ref="lub-actors-614">Hectorn von Rambschwags</persName>, vogts zu  
+<lb n="7"/><placeName ref="lub-places-205">Bludenz</placeName> unnd <placeName ref="lub-places-6">Sonnenburg</placeName>, begerten ar
+<lb break="no" n="8"/>rests wider die <orgName ref="lub-actors-2538">thumbherrn zu Chur</orgName> auf 
+<lb n="9"/>iren daselbs umb <placeName ref="lub-places-10">Veldtkhürch</placeName> habenden  
+<lb n="10"/>zehennden etc. euer bedennckhen ist, gleichwol  
+<lb n="11"/>vernomen. Wir halten aber von merers  
+<lb n="12"/>glimpfens wegen darfür, ist auch in der römisch  
+<lb n="13"/>kayserlichen mayestät etc., unnsers allergnedigisten herrn  
+<lb n="14"/>namen, hiemit unnser bevelch an euch,  
+<lb n="15"/>das ir gedachts von <persName ref="lub-actors-614">Rambschwags</persName> beschwerdt  
+<lb n="16"/>(darumben wir euch dann zu besserer  
+<lb n="17"/>erinnerung derselben, sein supplication  
+<lb n="18"/>nebenligends widerumb eingeschlossen) an  
+<lb n="19"/>den herrn <persName ref="lub-actors-316">bischoffen zu Chur</persName> mit dem  
+<lb n="20"/>ersuechen gelanngen lassen sollet, das er  
+<lb n="21"/>bey den <orgName ref="lub-actors-2538">thumbherrn oder Cappitl</orgName>, die ge
+
+<lb break="no" n="22"/>wisse verfüegung thuen, auch darob sein, 
+<lb n="23"/>damit sy den spann und strit, der zwischen  
+<lb n="24"/>inen und merermelten von <persName ref="lub-actors-614">Rambschwag</persName>  
+<lb n="25"/>wegen des zehennden zu <placeName ref="lub-places-53">Schan</placeName> lannge zeit  
+<lb n="26"/>heer schwebte, zu gebürendem austrag  
+<lb n="27"/>unnd erörtterung khomen lassen, denselben  
+<lb n="28"/>statt geben und die sachen ime, von <persName ref="lub-actors-614">Ramb
+<lb break="no" n="29"/>schwag</persName>, zu merckhlichen nachteil nit in noch mer
+<lb break="no" n="30"/>ere verlenngerung ziehen oder aufhalten 
+<lb n="31"/>wolten, das wolten wir euch auf obbe
+<lb break="no" n="32"/>rüert euer schreiben nit verhalten und 
+<lb n="33"/>ir volziecht etc. Datum, den <origDate>30. octobris anno etc. 95</origDate>. 
+</p>
+        <p><lb n="34"/>An <orgName ref="lub-actors-2588">vogt unnd ambt
+<lb break="no" n="35"/>leuth zu Veldtkhürch</orgName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

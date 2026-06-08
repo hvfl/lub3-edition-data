@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1229">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Weiterverkauf von fünf Zinsen, die auf Gütern in Balzers lasten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Die Urkunde weist mehrere Löcher auf.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1229">CH-BAC, 015.2726</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 8. Dezember 1547 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>David von Watt, derzeit sesshaft in Chur, und seine Frau Eufrosina Karli verkaufen folgende fünf Zinsen ab Gütern in Balzers, Mäls und Prad (heute Fläsch) an Jörg Feuerstein, Pfarrer zu Bendern und Bevollmächtigten des Abts von Roggenburg:&#13;
+1. einen Zins von 2 Pfund Pfennig, dokumentiert in einer Urkunde aus der Zeit 1513-1519 (das genaue Datum ist nicht mehr lesbar);&#13;
+2. einen Zins von 1 Pfund Pfennig, dokumentiert in einer Urkunde vom 22. Januar 1485;&#13;
+3. einen Zins von 1 Pfund Pfennig, dokumentiert in einer Urkunde vom 26. September 1474;&#13;
+4. einen Zins von 1 Gulden, dokumentiert in einer Urkunde vom 5. Februar 1533;&#13;
+5. einen Zins von 1 Gulden, dokumentiert in einer Urkunde vom 5. Februar 1533.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-466">widem</term>
+          <term ref="lub-keywords-339">heimgasse</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-513">hofgut</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2680">Watt, David von</persName>
+          <date when="1547-12-08">8. Dez 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2688">Karli, Euphrosina</persName>
+          <date when="1547-12-08">8. Dez 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-292">Frommelt, Stefan (1)</persName>
+          <date when="1547-12-08">8. Dez 1547</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1547-12-08">8. Dez 1547</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2726-0001.jpg" xml:id="lub-media-3927" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3927" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2680">David von Wath</persName>, dißer zeit seßhafft zü <placeName ref="lub-places-102">Chur</placeName>, unnd ich, <persName ref="lub-actors-2688">Eufrosina Karlin</persName>, sein eeliche haussfrowe, bekhennen hierinn offennlich für uns, all unnser erben unnd nachkhummen 
+<lb n="2"/>unnd thuenth khunt allermennglich mit dißem brive, dz wir mit veraintem gütem, umb unnsers beßern nutzs und frumen willen, wolbedacht, sonder mit hanndt des ersamen 
+<lb n="3"/>weyssen <persName ref="lub-actors-292">Steffan Frumolts</persName> von <placeName ref="lub-places-53">Schan</placeName>, der zeit der herschafft <placeName ref="lub-places-7">Vadutzs</placeName> aman, recht und redlich verkoufft und zü kouffen geben haben und geben ouch jetzo wissenntlich mit dem brive 
+<lb n="4"/>dem wirdigen gaistlichen hern <persName ref="lub-actors-450">Jergen Fuirstain</persName>, der zeit <supplied>p</supplied>farrer zü <placeName ref="lub-places-36">Beenndern</placeName>, innamen und von wegen als verordneter und voln mechtiger gwaltthaber des erwirdigen herrn 
+<lb n="5"/>apte zü <orgName ref="lub-actors-451">Rockenburg</orgName> als pater domus <gap/>rdigen g<gap/> zü <orgName ref="lub-actors-337">Sanct Lucin</orgName> ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <orgName ref="lub-actors-1191">Praemonstrator</orgName> ordens, und allen der selbigen nachkhummen vermelts gotzhaus 
+<lb n="6"/>ains stäten, vesten, ewigen kouffs n<gap/> nachb<gap/> <supplied>f</supplied>ünff unverserte besigelte zeinsbrieff. Der erst besagenndt zway pfundt pfening <placeName ref="lub-places-101">Costenntzer</placeName> mintzs unnd 
+<lb n="7"/><placeName ref="lub-places-10">Veldtkircher</placeName> wergunng rechts järlichs <gap/> zerich<gap/> geben, von, usser und abe <persName ref="lub-actors-2689">Hanns Rüdi</persName> zü <placeName ref="lub-places-166">Klainen Mayls</placeName> und <persName ref="lub-actors-2690">Urßla Bennerin</persName>, seiner eelichen haussfroen, aigen zway
+<lb break="no" n="8"/>en mamath wisen zu <placeName ref="lub-places-317">Brad</placeName> uf der rüfi, stoßt gegen der landtstrass ans <term ref="lub-keywords-466">widem</term> güth, aufwerth an <persName ref="lub-actors-156">Hanns Negelis</persName> von <placeName ref="lub-places-106">Mayenfeldt</placeName> und <persName ref="lub-actors-156">Crista Weinzurlins</persName> güetter, zür dritten an <placeName ref="lub-places-199">Sant Peters</placeName>
+<lb n="9"/>güeter, abwerth an <persName ref="lub-actors-2692">Burckhart Rüschis</persName> güth, mer ab irer aignen halben juchart ackhers im <placeName ref="lub-places-322">Undern Feldt</placeName>, stoßt ainhalb ann prunnen, ufwerth an <persName ref="lub-actors-750">Alexander Fricken</persName> und an <persName ref="lub-actors-2693">Hanns Nutten</persName> gütr, 
+<lb n="10"/>außwerth gem <placeName ref="lub-places-103">Rein</placeName> an <term ref="lub-keywords-339">hainweg</term>, abwerth an das <term ref="lub-keywords-513">hofgüth</term>, me ain halb juchart ackers im <placeName ref="lub-places-322">Undern Feld</placeName>, stoßt ainhalb ans <term ref="lub-keywords-466">widem</term> güth, zür andern seiten an das <term ref="lub-keywords-513">hofgüth</term>, außwerth an <term ref="lub-keywords-339">hainweg</term>, 
+<lb n="11"/>abwerth an <persName ref="lub-actors-856">Crista Weinzürlins</persName> güth, mer ain halb juchart ackers in der <placeName ref="lub-places-962">Oberow</placeName>, stoßt ainhalb an <persName ref="lub-actors-750">Alexander Fricken</persName> güth und an die <placeName ref="lub-places-353">Fürhöpter</placeName>, zür andern seiten an <persName ref="lub-actors-2694">Burckhart Hippers</persName> erbn 
+<lb n="12"/>güth, zür dritten an <persName ref="lub-actors-2695">Claus Kouffmans</persName> erben güth, zür vierten seiten an des <persName ref="lub-actors-2696">Kusters</persName> lehen güth, mer ab irer aignen pündt zü <placeName ref="lub-places-166">Mayls</placeName> im dorff, stoßt unna und obna an <persName ref="lub-actors-2697">Michel Zoggen</persName> guetr, 
+<lb n="13"/>gem <placeName ref="lub-places-103">Rein</placeName> werth an <term ref="lub-keywords-339">hainweg</term>, außwerth an das <term ref="lub-keywords-513">hoffgüth</term>, darab gat sechs pfening jarzeit geltt, mer ab irer aignen halben juchart ackers in der <placeName ref="lub-places-963">Praiten Pündt</placeName>, stoßt zü zwayen seytenn 
+<lb n="14"/>an almain, obna an <persName ref="lub-actors-2698">Jos Rigen</persName> erben güth, una an <persName ref="lub-actors-2697">Michel Zoggen</persName> güth, mer ab irem aignen mitmal acker im <placeName ref="lub-places-322">Underfeldt</placeName>, stoßt ainhalb <persName ref="lub-actors-854">Marx Gürtnätschers</persName> güth, zür andrn seyten ann 
+<lb n="15"/><persName ref="lub-actors-2699">Lienhart Nutten</persName> güth, zür dritten an <persName ref="lub-actors-770">Crista Thomans</persName> güth, zür vierten seiten an <persName ref="lub-actors-2700">Michel Kündlis</persName> güth unnd darzü ußer und ab irem aignen mamadt wisen an <placeName ref="lub-places-964">Arasch</placeName> gelegen, das mit <persName ref="lub-actors-2701">Donath 
+<lb n="16"/>Buners</persName> mamath in wechssell gath, stossenndt baide mamath ainhalb an berg und almain, zür andern seiten an <persName ref="lub-actors-856">Crista Weinzürlins</persName> güth, zür dritten an das <term ref="lub-keywords-513">hoffgüth</term> unnd zü der viertenn 
+<lb n="17"/>seiten an <gap/>tnätschers güth, wie dan solchs alles der besigelt zeins brieff daru<gap/>, des datum der geben ist <date>an sanct Florins tag nach Christ<supplied>i</supplied> <gap/>rth funfftzechen
+<lb break="no" n="18"/>hund<gap/>zehen jare</date>, clarlich innhelt. Der ander zeinsbrieff besagendt <gap/>g, ouch güter <placeName ref="lub-places-101">Costenntzer</placeName> mintzs und <placeName ref="lub-places-10">Veltkircher</placeName> werunnge, re<gap/> <supplied>u</supplied>nd ewigs zeinß
+<lb break="no" n="19"/>es u<gap/>, von, uß und ab <persName ref="lub-actors-2702">Bartholome Gappar</persName> der jung und <persName ref="lub-actors-2703">Anna</persName>, seiner ee<gap/>, derzeit seßhafft zü dem <placeName ref="lub-places-166">Klainen Mayls</placeName>, hienach benente <gap/> und güeter
+<lb n="20"/>ze <placeName ref="lub-places-71">Bal</placeName><gap/>, <gap/>s ersten ab ainem stuck uf <placeName ref="lub-places-317">Pradt</placeName> bey dem berg, stoßt aufwerth an Go<gap/>, <gap/>th an <persName ref="lub-actors-2704">Ülrich Feüraubent</persName>, ainhalb an die allmendt, anderhalb a<supplied>n</supplied> <gap/>schers erbenn, 
+<lb n="21"/>item ab ainer wißen, aber uff <placeName ref="lub-places-317">Prädt</placeName>, stoßt ufwerth an die landtstrass, abwerth an <persName ref="lub-actors-2705">Claus Rüschen</persName>, ainhalb an <persName ref="lub-actors-2706">Hennßlin Fischers</persName> erben, anderhalb ann der bürg güth<note>Gut, das zur Burg Gutenberg gehört.</note>, item ab ainem stuckh 
+<lb n="22"/>wisen, ouch uf <placeName ref="lub-places-317">Prät</placeName>, stoßt aufwerth an <persName ref="lub-actors-2689">Hanns Rüdi</persName>, abwerth an <persName ref="lub-actors-2707">Hanns Wolffen</persName> von <placeName ref="lub-places-1">Vadutz</placeName>, ainhalb an iren vetter <persName ref="lub-actors-2708">Bartlime Gappar</persName>, anderhalb an <placeName ref="lub-places-210">Sanct Florins</placeName> güth, item ab ainem mit
+<lb break="no" n="23"/>mal acker im <placeName ref="lub-places-322">Undern Veldt</placeName>, stoßt ufwerth an <persName ref="lub-actors-2709">Ulrich Fischers</persName> erben, inwerth an die <term ref="lub-keywords-339">haingaß</term>, uffwerth an <term ref="lub-keywords-466">widem</term>, abwerth ann <persName ref="lub-actors-2700">Michel Kündlin</persName>, item auß und ab ainem mal acker uf
+<lb n="24"/><placeName ref="lub-places-965">Drey Angel Grabn</placeName>, stoßt ausswerth an von <orgName ref="lub-actors-2710">Filln</orgName>, inwerth an die landtstrass, auffwerth ann <persName ref="lub-actors-2711">Hanns Thoman</persName>, abwerth an <persName ref="lub-actors-2712">Ülrich Vogt</persName>, des datum der geben ist im <date when="1485-01-22">jar, do man zalt nach der 
+<lb n="25"/>gepurth Christi taussent vierhundert achtzig und fünff jare, an sanct Vincentius tag des hailligen marterers</date>. Der drit zeins brieff besagenndt ouch ain pfundt pfening ewigs 
+<lb n="26"/>zeins und pfening geltzs güter <placeName ref="lub-places-101">Costenntzer</placeName> mintzs <placeName ref="lub-places-10">Veldtkircher</placeName> werunnge von, ußer und abe <persName ref="lub-actors-2713">Hanns Lyppuner</persName> von <placeName ref="lub-places-71">Balthers</placeName> und <persName ref="lub-actors-2714">Anna</persName>, seinem eelichen weyb, aigen hienach geschribenen 
+<lb n="27"/>stucken und güettern, in <placeName ref="lub-places-71">Baltzer</placeName> kilspel <gap/>legen, item des ersten <gap/>rhalb juchart ackers im <placeName ref="lub-places-313">Obern Veld</placeName> züm <placeName ref="lub-places-166">Klainen Mayls</placeName> gelegen, stoßt zür ainen seiten an der bürg güth, unna an des 
+<lb n="28"/><persName ref="lub-actors-2716">Pimmers</persName> güth, ainhalb ann Hannsen Nu<gap/>, zür <gap/> an <persName ref="lub-actors-2715">Hainrich Vischers</persName> erben güth, item ain stuckh <gap/>, stoßt zür ainer seiten ann der <orgName ref="lub-actors-2710">von Vill</orgName> güth, ainhalb an 
+<lb n="29"/>denn <term ref="lub-keywords-339">hain weg</term>, unna an die landtstraß, <gap/> an <gap/> Kündt güth, item und zway mamath uff <placeName ref="lub-places-317">Brad</placeName>, stossendt unna an den <term ref="lub-keywords-339">hainweg</term>, nebentzü an <persName ref="lub-actors-2717">Oßwaldt Martins</persName> güth, 
+<lb n="30"/>zü ainer seiten an <persName ref="lub-actors-2689">Hannsen Rüdis</persName> güth, <gap/> wid<gap/>, <gap/> <supplied>da</supplied>tum der geben ist <date when="1474-09-26">uff mentag vor sanct Michels des hailligen ertz engels tage nach Christi gepurth viertzechenn
+<lb break="no" n="31"/>hundert unnd im vier und sübentzigi<gap/> jare</date>, clarl<gap/> <supplied>u</supplied>ßweyßt. Der viert zeins brieff weyßenndt ainen guldin reinischin mintzs, sechtzig kreytzer darfür zeraitenn,
+<lb n="32"/><placeName ref="lub-places-10">Veldtkircher</placeName> werunng rechtzs, järlichs und ewigs zeins und pfening geltzs von, ußer unnd abe <persName ref="lub-actors-774">Steffan Nutten</persName> von <placeName ref="lub-places-166">Klainen Mayls</placeName> und <persName ref="lub-actors-2718">Sibilla Ruppin</persName>, seiner eelichen haussfroen, 
+<lb n="33"/>aignen pündt, genanth <placeName ref="lub-places-963">Praiten Pündt</placeName>, daselbst gelegen, stoßt zü drey seiten an die almain und zür vierten an <persName ref="lub-actors-2719">Margretha Friessen</persName>, item und darzü ab irem aignen halben juchart 
+<lb n="34"/>ackers im <placeName ref="lub-places-322">Undern Veld</placeName>, ouch daselbs gelegen, stoßt abwe<supplied>r</supplied>th an <persName ref="lub-actors-1643">Jerg Reiggen</persName>, zür andn and <term ref="lub-keywords-339">haingaß</term>, zür dritten an <persName ref="lub-actors-2720">Ülrich Marxen</persName> und zür vierten seyten ann <persName ref="lub-actors-453">Ülrich Negelin</persName>, 
+<lb n="35"/>des datum dran der geben ist <date when="1533-02-05">an sanct Agthen, der <gap/>lligen junckfrowen, tag nach Christi, unnsers herren, gepurth funfftzechennhundert und im drey unnd dreyßigisten jar</date>. 
+<lb n="36"/>Der fünfft unnd letst zeins brieff innhaltendt <gap/>in guldin reinischin mintzs, sechtzig kreytzer darfar zerayten, <placeName ref="lub-places-10">Veldtkircher</placeName> werunnge rechts, ewigs und järlichs zeins 
+<lb n="37"/>unnd pfening geltzs vonn, ußer unnd ab <persName ref="lub-actors-2723">Cri<gap/> <gap/>gebers</persName> von <placeName ref="lub-places-71">Balthers</placeName> als rechtgesatzter vogte <persName ref="lub-actors-2722">Gretha Weinzürlin</persName>, weylundt des jungen <persName ref="lub-actors-2721">Hanns Schollen</persName> zu <placeName ref="lub-places-71">Balthers</placeName> seligen verlaßne eeliche wit
+<lb break="no" n="38"/>tib, aigen drey mamath wissen auff <placeName ref="lub-places-317">Pradt</placeName> zü Bal<gap/>, stossenndt aufwerth an die landtstrass, zür anderen seyten an die <placeName ref="lub-places-968">Zw<unclear>e</unclear>iffache Maden</placeName>, und zür andern zway seyten an <persName ref="lub-actors-156">Claus Rüschen</persName>
+<lb n="39"/>güth, item und darzü ab irem aignen mal acker im <gap/>ls, daselbs gelegen, stoßt zür ainen seiten and allmain, zür andern an <persName ref="lub-actors-621">Hainrich Güttenberger</persName>, zür dritten ann <persName ref="lub-actors-2724">Luci Mayers</persName> erbenn 
+<lb n="40"/>unnd zür vierten an <persName ref="lub-actors-754">Üli Friessen</persName>, des datum der <gap/> ist <date when="1533-02-05">ann sanct Agthen, der hailligen junckfroen, tag nach Christi, unnsers heren, gepurth funftzehenn hundert unnd im drey 
+<lb n="41"/>unnd dreyßigestenn jare</date>, ouch clarlich innhelt. Welche zeinsbrieff wier ime, pfarheren, innamen und anstat vermeltzs gotzhauss <orgName ref="lub-actors-337">Sanct Luci</orgName>, als obsteth, all fünff hiemit 
+<lb n="42"/>dißem brive frey uff und übergeben unnd in ir, irer erben unnd nachkhummen vilernennter pfarr zü <placeName ref="lub-places-36">Beenndn</placeName> gwallt, nutz unnd gewer inngeanntwurth haben. Unnd ist der 
+<lb n="43"/>ewig redlich kouff umb obernennth all fünff zeins brieff also bescheen unnd gethon worden umb hundert unnd funfftzechenn pfundt pfening, alles güter, obgemelter 
+<lb n="44"/>mintzs unnd werunnge, deren wir von ime, pfarhern, also par außgericht unnd bezaltt wordenn seyent nach unnserm gütten unnd völligen benüegen. Unnd darumb so sollen unnd 
+<lb n="45"/>mügen ain jeder innhaber vermelter pfa<gap/> <placeName ref="lub-places-36">Benndn</placeName> und <gap/> der selbigen nachkhumen die obgeschribnen järlichen zeins nun hin unnd hin imer, ewiglich und alle jar jerlich 
+<lb n="46"/>nach ir, jedes vorgemeltzs zeins brief<gap/> <gap/>nemmen <gap/>achen unnd sich über all aller recht unnd gerechtigkait damit gebrauchen und genießen allergstaltt unnd maßen, 
+<lb n="47"/>wie wir vor dißer übergab gehept und <gap/> haben <gap/> wir uns hiemit für uns, all unnser erben unnd nachkhumen der gemelten zeins und ouch der houptbrüeffenn, 
+<lb n="48"/>darumb besagenndt, mit aller irer innhaltt und begreiffunng verzigen und begeben habenn unnd ouch jetzo verzeyhenn wissenntlich mit dem brive. Unnd des alles zü 
+<lb n="49"/>warem unnd offem urkhundt, so haben wir, obgenannthe verköuffere, baide mit sonndm vleys und ernst gebetten unnd erbetten denn vorgenannten aman <persName ref="lub-actors-292">Steffan Frumolt</persName>, 
+<lb n="50"/>das er sein aigen innsigell, doch ime und seinen erben in allweg oneschaden, fur uns, all unnser erben und nachkhumen offennlich gehennckt hat ann dißenn brieff, der geben 
+<lb n="51"/>ist <origDate when="1547-12-08">uff dornstag nach sanct Nicolaus, des hailligen bischoffs, tag, als man von Christi gepurth zaltt funfftzechennhundert viertzig unnd sübenn jar</origDate>. 
+</p>
+        <p><lb n="52"/><supplied>Rückseite</supplied><lb n="53"/>Summarischer zünsbrüeff, 
+<lb n="54"/>enthaltendt 5 zünsbrüeff, deren ersten zünset <persName ref="lub-actors-2689">Johannes 
+<lb n="55"/>Rüdi</persName> per 2 lb. dt., dehn anderen <persName ref="lub-actors-2702">Bartholome Gappar</persName> per 
+<lb n="56"/>1 lb. dt., den vierten <persName ref="lub-actors-774">Stephan Nutten</persName> per 1 fl., alle trey von 
+<lb n="57"/><placeName ref="lub-places-166">Kleinen Mailß</placeName>. Den 3ten zünset Joannes Hypp<gap/> 
+<lb n="58"/>per 1 lb. dt., den 5ten <persName ref="lub-actors-2723">Christian Salzgeber</persName> per 1 <gap/> 
+<lb n="59"/>von <placeName ref="lub-places-71">Balzers</placeName>. Seindt auch die underpfandt <gap/>. 
+<lb n="60"/>Sub <persName ref="lub-actors-450">Georgio Feuerstein</persName>, administratore <placeName ref="lub-places-36">Benedurensi</placeName>, 
+<lb n="61"/>postea abbate <orgName ref="lub-actors-337">S. Lucii</orgName>. Geschehen anno <origDate when="1547">1547</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

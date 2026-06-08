@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1190">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt um die Feldkircher Ausburger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1190">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 5r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 19. Juni 1591 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt und Amtleute von Feldkirch vom 6. Mai, 12. und 19. Juni 1591 betreffend den Bericht und die Beschwerde von Stadtammann und Rat der Stadt vom 28. März und 29. April über die Eingriffe und Neuerungen des Grafen Karl Ludwig von Sulz betreffend Ausburger.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-3">Ausbürger</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-06-19">19. Jun 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__5r-v-0001.jpg" xml:id="lub-media-3082" source="1591-06-19-buch-walgau-8-05-5r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__5r-v-0002.jpg" xml:id="lub-media-3083" source="1591-06-19-buch-walgau-8-06-5v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Ob wir euch gleichwol underm dato, den 12. diß  
+<lb n="3"/>lauffenden monats juni herrn <persName ref="lub-actors-13">Carl Lud
+<lb break="no" n="4"/>wigen grafen zu Sulz</persName> wider <orgName ref="lub-actors-1012">stattamman 
+<lb n="5"/>und rath zu Veldkhirch</orgName> irer ausburger halben  
+<lb n="6"/>fürgebrachts enntschuldigungsschreiben umb  
+
+<lb n="7"/>eurem bericht und guetachten zuegesanndt.  
+<lb n="8"/>Wann unns nun aber underdessen eur ausfüer
+<lb break="no" n="9"/>licher bericht, so ir diser sachen wegen der fürstlich durchlaucht 
+<lb n="10"/>erzherzog <persName ref="lub-actors-11">Ferdinand zu Osterreich</persName> etc.,  unnserm  
+<lb n="11"/>gnedigisten herrn, den <date when="1591-06-06">6. obbemelts monat</date>  
+<lb n="12"/>gethan, zuegestelt worden, welchen wir  
+<lb n="13"/>auch ersehen. Also das wir verners berichts  
+<lb n="14"/>unvonnoten achten. So bevelchen wir euch  
+<lb n="15"/>in irer fürstlich durchlaucht namen, das ir unns vorbemelt  
+<lb n="16"/>herrn grafen missif mit aller förderlichist  
+<lb n="17"/>widerumb überschickhet, damit wir die  
+<lb n="18"/>sachen weiter an ir fürstlich durchlaucht gehorsamist  
+<lb n="19"/>gelangen lassen mugen, wolten wir euch  
+<lb n="20"/>nit pergen. Und ir volziecht hieran etc. Datum  
+<lb n="21"/><placeName ref="lub-places-19">Innsprugg</placeName>, den <origDate>19. tag juni anno etc. 91</origDate>. 
+<lb n="22"/>An die <orgName ref="lub-actors-2588">ambtleut  
+<lb n="23"/>zu Veldkhirch</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

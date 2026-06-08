@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1157">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Stück Ried in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1157">CH-BAC, 015.2581</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 30. November 1535 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich Kopf von Ruggell und seine Frau Lena Wanger verkaufen einen Zins von einem Viertel Weizen ab einem Stück Ried im Ruggeller Riet an Florin Janut, Pfarrer zu Bendern. Das Grundstück wird abwechselnd von den Verkäufern, Hans Wangers Erben und von Andreas Egli genutzt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-408">bretscha</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2461">Kopf, Ulrich</persName>
+          <date when="1535-11-30">30. Nov 1535</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2462">Wanger, Lena</persName>
+          <date when="1535-11-30">30. Nov 1535</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1535-11-30">30. Nov 1535</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-2448">Janut, Florin</persName>
+          <date when="1535-11-30">30. Nov 1535</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2581-0001.jpg" xml:id="lub-media-3938" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3938" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2461">Ulrich Kopf</persName> von <placeName ref="lub-places-2">Raggel</placeName>, und ich, <persName ref="lub-actors-2462">Lena Wangnerin</persName>, sein eeliche hausfraw, bekhennen offennlich fur uns, all unser erben und 
+<lb n="2"/>nachkomen und thun khundt allermenigklich mit dissem brieff, das wir mit veraintem guten willen wolbedacht, sonder mit hand 
+<lb n="3"/>des ersamen, weisen <persName ref="lub-actors-817">Michel Grawen</persName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellenperg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, recht und redlich verkaufft und zu
+<lb break="no" n="4"/>kauffen geben haben und geben auch jetzo hiemit in krafft ditz brieffs dem ersamen, wirdigen herrn <persName ref="lub-actors-2448">Florin Johannotten</persName>,
+<lb n="5"/>disser zeit pharrer zu <placeName ref="lub-places-36">Bendern</placeName>, und allen seinen nachkomenden pharrern daselbst ains stäten, vessten, eewigen kauffs, nämlich 
+<lb n="6"/>ain viertel guts erbern waissen, so zu geben und nemen ist, <placeName ref="lub-places-10">Veldkircher</placeName> mess rechts eewigs und järlichs zeins und jarzeit gelts 
+<lb n="7"/>von, ausser und ab unserm aigen mannmad riedt, auff <placeName ref="lub-places-767">Raggeller Riedt</placeName> gelegen, so mit <persName ref="lub-actors-2464">Hans Wangners</persName> erben und <persName ref="lub-actors-2059">Andras Eglin</persName> 
+<lb n="8"/>in wechsel gat, stosst niderwert an der herschafft, inwert and landtstras, auffwert and <term ref="lub-keywords-408">britschen</term> und zur vierten seiten 
+<lb n="9"/>an <persName ref="lub-actors-2463">Ulrich Strauben</persName> gut, und alles ab grundt, grat, wun, waid, stockh, stain, gestudt, gerudt, gengen, stegen und wegen und gemain
+<lb break="no" n="10"/>klich ab allen andern seinen rechten und zugehörden, benempten und unbenempten, und auch fur ledig und los und vormals
+<lb n="11"/>von allermenigklihen unversetzt und unverkimbert. Und ist der eewig, redlich kauff also beschechen und gethon worden 
+<lb n="12"/>umb vier phund phening guter obgenanter mintz und werung, dero wir von ime also par ausgericht und bezalt worden synd 
+<lb n="13"/>nach unserm guten willen und volligen beniegen. Und darumb so sellen und wellen wir, all unser erben und nachkomen 
+<lb n="14"/>inhaber und besitzer des jetzgemelten underphand den gemelten zeins, das ain viertel waissen, dem genanten köffer und allen 
+<lb n="15"/>seinen nachkomenden pharrern nw furohynn eewigklich und järlich alle jar auff <date when="--11-11">sandt Martins tag</date>, acht tag vor oder 
+<lb n="16"/>nach ungevarlich, tugentlich richten, zeinsen und zu iren sichern handen und gewalte andtwurten und geben fur allermenigklichs 
+<lb n="17"/>hefften, verbieten und entweren und gäntzlich on allen iren cossten und schaden. Wann, wie oder welichs jars das aber 
+<lb n="18"/>also nit bescheche uber kurtz oder lang zeit, so ist inen die obgemelt underpfand, in seinen bestimpten marckhen begriffen, gantz 
+<lb n="19"/>zeinsfellig worden und dannethin mit grundt, grat und mit allen andern seinen rechten und zugehörungen zu rechtem, eewigem 
+<lb n="20"/>aigen imermer gevallen und verfallen, ane uns, aller unser erben und nachkomen und allermenigklichs von unsern wegen ir
+<lb break="no" n="21"/>rung und widersprechen. Und hirauff ditz eewigen, redlichen kauffs umb zeinsfelligin und fur all abgeng des obgemelten
+<lb n="22"/>underpfands, auch zeins, hoptguts, schadens und aller obgemelten ding sellen und wellen wir, all unser erben und nachkomen des 
+<lb n="23"/>obgenanten köffers und aller seinen nachkomenden pharrern recht, gut und getrew krefftig weren, furstand und versprecher 
+<lb n="24"/>sein vor dem richter und gericht, darunder bemelt underphand gelegen ist, wie, wenn und gegen wem, als offt und dickh sy 
+<lb n="25"/>des nach dem rechten immer bedurffen und noturfftig werden, alweg in unserm aigen cossten, on iren schaden, bey guten 
+<lb n="26"/>trewen, on alle widerred, ausszug und geverde. Und des alles zu warem, offem urkhundt, so haben wir, obgenante ver
+<lb break="no" n="27"/>köffer, paide mit fleis und ernst gepeten und erbeten den vorgenanten aman <persName ref="lub-actors-817">Mihel Grawen</persName>, das er sein aigen ynsigel,
+<lb n="28"/>im und sein erben onschaden, fur uns, all unser erben und nachkomen offennlich gehenckht hat an dissen brieff, der geben 
+<lb n="29"/>ist <origDate when="1535-11-30">an sandt Andres tag nach Cristi, unsers lieben herrn, gepurtt feinffzechenhundert und im veinffunddreys
+<lb break="no" n="30"/>sigisten jare</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

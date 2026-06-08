@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1192">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bescheid an Kaspar von Ramschwag im Konflikt mit Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1192">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 68v-69v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 5. März 1596 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Beschwerde von Kaspar von Ramschwag über Karl Ludwig von Sulz, weil dieser 9 Saum Wein aus Triesen eingezogen hat und die Geschworenen in Balzers in mit Gewalt gezwungen haben, den Rhein einzudämmen. Zusätzlich haben sich die Balzner geweigert, die Schlosskapelle St. Donatus mit Wachskerzen zu versehen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-138">Wein</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1596-03-05">5. Mär 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__68v-69v-0001.jpg" xml:id="lub-media-3170" source="1596-03-05-buch-walgau-8-26-68v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__68v-69v-0002.jpg" xml:id="lub-media-3171" source="1596-03-05-buch-walgau-8-26-69r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__68v-69v-0003.jpg" xml:id="lub-media-3172" source="1596-03-05-buch-walgau-8-27-69v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+<lb n="2"/>Welichermassen isch vor unns <persName ref="lub-actors-166">Caspar von  
+<lb n="3"/>Rambschwag</persName>, vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>, aber
+<lb break="no" n="4"/>malen wider herrn <persName ref="lub-actors-13">Carlen Ludwigen 
+<lb n="5"/>grafen zu Sulz</persName>, vogt zu <placeName ref="lub-places-7">Vaduz</placeName>, das derselb  
+<lb n="6"/>ime einen gerichtsgeschwornen inn das  
+<lb n="7"/>schloß <placeName ref="lub-places-13">Guettenberg</placeName> geschickht und ime  
+<lb n="8"/>neun säm seiner wein zu <placeName ref="lub-places-79">Trisen</placeName> inn  
+<lb n="9"/>seiner aignen behausung inn arresst und  
+<lb n="10"/>verbott legen lassen, also auch das die  
+<lb n="11"/>geschwornen zu <placeName ref="lub-places-71">Balzers</placeName> sambt dem  
+
+<lb n="12"/>wuehrmaister ime wie anndere zu  
+<lb n="13"/>wuehrn mit gewaldt auferlegen, unnd  
+<lb n="14"/>da er soliches widersprochen und gegen  
+<lb n="15"/>inen protestiert, sy ine gleich mit khurzen  
+<lb n="16"/>worten beantwurt, weil er ye soliche  
+<lb n="17"/>frondienst mit unnd neben inen nit  
+<lb n="18"/>verrichten, so solle er wissen, das sy  
+<lb n="19"/>ime sein vieh auf khünfftigen früeling  
+<lb n="20"/>weder auf die arppen noch anndere waiden  
+<lb n="21"/>nit treiben lassen wellen. Desgleichen  
+<lb n="22"/>das auch durch gemelten herrn grafen  
+<lb n="23"/>abgestelt werden, die cappel inn dem  
+<lb n="24"/>schloss <placeName ref="lub-places-13">Guettenberg</placeName> zu <placeName ref="lub-places-841">Sanct Donat</placeName>  
+<lb n="25"/>ferrer mit waxkherzen nit zuver
+<lb break="no" n="26"/>sehen etc. Unnd derohalben sien biten ist, 
+<lb n="27"/>das habt ir ab hiebey verwarten, den  
+<lb n="28"/><date when="1596-01-29">29. januarii jüngsthin</date> datierten origi
+<lb break="no" n="29"/>nalschreiben zuvernemen, inn namen 
+<lb n="30"/>der römisch kayserlichen mayestät etc., unnsers allergne
+<lb break="no" n="31"/>digisten herrn, euch hiemit bevelchend, 
+<lb n="32"/>das ir gedachten von <persName ref="lub-actors-166">Rambschwag</persName> gegen  
+<lb n="33"/>obernenntem herrn grafen hievor  
+<lb n="34"/>auferlegter gestalt sovil müglichen  
+<lb n="35"/>gebürennder massen hanndthabet,  
+
+<lb n="36"/>unns auch was ir sambt und neben herrn  
+<lb n="37"/>doctor <persName ref="lub-actors-173">Gallen Hager</persName> unnd ime, von <persName ref="lub-actors-166">Ram
+<lb break="no" n="38"/>schwag</persName>, inn sachen verrichter zuvor anbe
+<lb break="no" n="39"/>volchner massen euern unverlenngten 
+<lb n="40"/>bericht und rathsam guethachten hieheer in  
+<lb n="41"/>unnsern, der <orgName ref="lub-actors-929">Regierung</orgName>, hannden zue
+<lb break="no" n="42"/>khomen lasset, an dem beschieht etc. Datum, 
+<lb n="43"/>den <origDate>5. tag martii anno etc. 96</origDate>. 
+</p>
+        <p><lb n="44"/>An <orgName ref="lub-actors-2588">vogt und ambt
+<lb break="no" n="45"/>leuth zu Veldtkhürch</orgName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

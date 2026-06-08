@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1232">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Hauses in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1232">CH-BAC, 015.2766</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 14. November 1552 / Beschreibstoff: Pergament / Siegel: 1 Siegel, fehlt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Lienhart Lifer und seine Frau Margaretha Gantenbein, wohnhaft in Triesen, verkaufen ihr Haus mit Torkel in Triesen an Balthasar von Ramschwag, Vogt zu Gutenberg, und dessen Frau Ursula von Schlandersberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+          <term ref="lub-keywords-138">Wein</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-538">Lifer, Lienhart</persName>
+          <date when="1552-11-14">14. Nov 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-539">Gantner/Gantenbein, Margaretha</persName>
+          <date when="1552-11-14">14. Nov 1552</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-292">Frommelt, Stefan (1)</persName>
+          <date when="1552-11-14">14. Nov 1552</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1552-11-14">14. Nov 1552</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-607">Schlandersberg, Ursula von</persName>
+          <date when="1552-11-14">14. Nov 1552</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2766-0001.jpg" xml:id="lub-media-3948" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3948" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-538">Lienhardt Lüffer</persName>, unnd ich, <persName ref="lub-actors-539">Gretta Ganntenbaini</persName>, sein eeliche hausfrow, zu <placeName ref="lub-places-79">Thrüssenn</placeName><lb n="2"/>bekennen offenntlich für unns, all unnser erben unnd nachkomen unnd thundt kundt allermenngclich 
+<lb n="3"/>mit dem prieffe, das wir mit veraintem guten willen, wolbedacht unnd innsonnderhait mit hanndt 
+<lb n="4"/>des ersamen unnd weisen <persName ref="lub-actors-292">Stäffan Frumolts</persName>, dertzeit unnser gnedigen herschafft <placeName ref="lub-places-7">Vadutz</placeName> aman, auff
+<lb break="no" n="5"/>redlich verkoufft unnd zukouffen geben haben unnd geben auch yetzo wüssenntlich inncrafft ditz prieffs
+<lb n="6"/>dem edlen und vessten junckher <persName ref="lub-actors-156">Balthassern von Ramschwag</persName>, römischer königclich mayestatt etc. vogt 
+<lb n="7"/>zu <placeName ref="lub-places-13">Gutenberg</placeName>, auch der edlen unnd thugentreichen frow <persName ref="lub-actors-607">Ursslen von Ramschwag, ain gepornne vonn Schland
+<lb break="no" n="8"/>ersperg</persName>, gedachts junckher <persName ref="lub-actors-156">Balthassers</persName> eelicher gemahel, auch allen iren erben unnd nachkomen ainns
+<lb n="9"/>stätten, vessten, ewigen kouffs namlichen unnser hauss, hoff, hoffstatt und dorckel sampt dem stadel 
+<lb n="10"/>darhinder, alles inn ainem einfang <placeName ref="lub-places-79">Drüssner</placeName> kilchspel gelegen, stosst dem lanndtnach an <placeName ref="lub-places-410">Dorff 
+<lb n="11"/>Bach</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName>werts an gemelte keuffere unnd <persName ref="lub-actors-279">Liennhart Verlingen</persName> weibs gutere, uffwert dem landt
+<lb break="no" n="12"/>nach an <persName ref="lub-actors-2727">Marien Nigkhin</persName> gut, gegem perg ann <persName ref="lub-actors-1912">Hanns Panntzers</persName>, <persName ref="lub-actors-2728">Elsen Rigin</persName> unnd <persName ref="lub-actors-2729">Marien Frumolten</persName>
+<lb n="13"/>guter, unnd alles mit grundt, gradt, wun, waid, stöck, gestain, gereüdt, gemeür, genngen, stegen unnd wegen 
+<lb n="14"/>unnd gemainclich mit allen anndern iren rechten unnd zugehördenn, benempten unnd unbenemptenn, 
+<lb n="15"/>auch für frey, ledigen aigen und loss biss an fünff schilling unnd zehen pfening inn <placeName ref="lub-places-183">Unnser Liebenn 
+<lb n="16"/>Frowen Cappel</placeName> zu <placeName ref="lub-places-79">Thrüssen</placeName>, aber sonnsten gegen menngclichem weiter nit dan wievermelt versetzt und 
+<lb n="17"/>verschriben. Unnd ist der ewig, redlich kouff also beschehen unnd gethan wordenn umb zwaii hundert gulden 
+<lb n="18"/>guter genemer <placeName ref="lub-places-101">Cosstanntzer</placeName> müntz unnd <placeName ref="lub-places-10">Veldtkircher</placeName> werung, dero wir von gedachtenn keuffern also par 
+<lb n="19"/>betzalt worden sindt nach unserm voligen benugen. Unnd hieruff ditz ewigen, redlichen kouffs wievorstat 
+<lb n="20"/>söllen und wellen wir, all unser erben und nachkomen gemainclich und unverschaidenlich der obgenanten 
+<lb n="21"/>keuffer, aller irer erben und nachkomen recht, gut, getrüw, crefftig weren, fürstanndt und versprecher 
+<lb n="22"/>sein vor dem richter unnd gericht, darunder bemelter kouff beschehen und gelegen ist, wie, wa, wann und 
+<lb n="23"/>gegen wem, als offt und dickt si des nach dem rechten yemer bedürffen ald notturfftig sein werden, 
+<lb n="24"/>alweg inn unserm aignen costen und one iren schadenn, pei guten trüwen, on alle widerred, ausstzug 
+<lb n="25"/>und geverde. Unnd des zu warem, offnem und vesstem urkundt so haben wir, obgenante verkouffere, 
+<lb n="26"/>paide mit fleis und ernnst gepätten und erpätten den vorgenannten aman <persName ref="lub-actors-292">Stäffan Frumoltenn</persName>, 
+<lb n="27"/>das er sein aigen insigel, ime unnd seinen erben onne schaden, zugetzeügknus der sach für unns, all 
+          <lb n="28"/>unser erben unnd nachkomen offenntlich gehennckt hatt an disen prieff, der gebenn ist <origDate when="1552-11-14">uff monntag 
+<lb n="29"/>nach sant Martins, des hailig bischoffs, tag vonn Cristi gepurt getzelt thaussenndt fünffhunndert fünff
+<lb break="no" n="30"/>zig unnd zwai jare</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

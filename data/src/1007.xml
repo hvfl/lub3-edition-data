@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schreiben von Rudolf V. von Sulz über eine "Handlung" in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Ausfertigung), Signatur: <ref type="identifier" target="lub-objects-1007">AT ÖStA HHStA Staatenabteilung Außerdeutsche Staaten Schweiz Helvetica 6 fol. 39r+v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 9. August 1521 / Beschreibstoff: Papier, 2 Seiten / Siegel: Siegelrest auf der Rückseite aufgedrückt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben Rudolf V. von Sulz an Jakob Stürzel, dass der Vogt in Vaduz ihm eine Handlung angezeigt hat, die für ihn einen grossen Schaden  bedeuten würde. Nun bittet der Graf Jakob Stürzel, ihn in Zürich bei den Verhandlungen mit den Eidgenossen und dem Kardinal Matthäus Schiner zu entschuldigen, weil er dringen nach Vaduz reisen muss.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
+          <placeName ref="lub-places-86">Küssaberg</placeName>
+          <date when="1521-08-09">9. Aug 1521</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-926">Stürtzel, Jacob</persName>
+          <date>ohne Datum</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_6_fol__39r+v-0001.jpg" xml:id="lub-media-973" source="1521-08-09-at-hhsta-stabt-schweiz-6-39r.jpg" corresp="A"/>
+    <graphic url="at_hhsta_staatenabteilung_außerdeutsche_staaten_schweiz_helvetica_6_fol__39r+v-0002.jpg" xml:id="lub-media-974" source="1521-08-09-at-hhsta-stabt-schweiz-6-39v-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Mein fruntlich diennst hivor. Erber her, als ich nechst  
+<lb n="2"/>zu <placeName ref="lub-places-20">Zurich</placeName> von eich abgeschaiden und anhaimsch komben,  
+<lb n="3"/>hab ich ain geschrifft von meinem vogtt zu <placeName ref="lub-places-7">Vadutz</placeName>  
+<lb n="4"/>enphanngen, der mir under anderm ainhandlung  
+<lb n="5"/>anzaigtt und begertt, mich uff das furderlichest  
+<lb n="6"/>hinuff zuefiegen, darmit ich dieselbig handlung  
+<lb n="7"/>verneur und mein mercklichen schaden furkomen  
+<lb n="8"/>meg. Diwill aber myn gnedigister her, der cardinal, nechst
+<lb break="no" n="9"/>mals mit mir abgeschaiden, das ich uff nechst ge
+<lb break="no" n="10"/>halttnen tag, der dann uff jezt <date when="1521-08-15">unser frowen tag 
+<lb n="11"/>Assumptionis</date> nechst vermeindt zu <placeName ref="lub-places-20">Zurich</placeName> gehalttenen  
+<lb n="12"/>komensöl, ist an euch mein fruntlich bitt, meinen  
+<lb n="13"/>gnedigsten herrn, den cardinal, von mynet wegen  
+<lb n="14"/>underthänigclichen zubitten, das ir gnad mir gnädigklichen  
+<lb n="15"/>erlobe, darmit ich mich uff das furderlichest gen <placeName ref="lub-places-7">Vadutz</placeName>  
+<lb n="16"/>mein mercklichen schaden zufurkomen verfügen  
+<lb n="17"/>meg, woltte ich in ander weg allwegen dester williger  
+<lb n="18"/>sein und umb ir gnad mit underthänigkait verdienen,  
+<lb n="19"/>da wellend meinem vertruwen nach meinem  
+<lb n="20"/>gnedigsten herrn solhs anzaigen, und ob ir etwas nuws  
+<lb n="21"/>hetten, als unnd was uch muglich, mir anzaigen will,  
+<lb n="22"/>ich fruntlich umb euch haben ze verdienen, denn wa
+<lb break="no" n="23"/>mit ich euch dienen khund, wo ich willig. Datum 
+<lb n="24"/><placeName ref="lub-places-86">Kussennperg</placeName>, <origDate>auff Sant Laurentzen abent anno etc. xxi</origDate>. 
+<lb n="25"/><persName ref="lub-actors-8">Rudolff graff zu Sulz </persName>manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Meinem lieben herrn und gutten  
+<lb n="2"/>frundt, hern <persName ref="lub-actors-926">Jacoben Sturtzel  
+<lb n="3"/>von Buchen</persName>, doctor, kayserlicher mayestät  
+<lb n="4"/>raut etc. zu hannden. 
+<lb n="5"/>Praesentata, den <date when="1521-08-17">x 7. augusti</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

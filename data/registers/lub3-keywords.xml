@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-05-07 12:39:43 aus </p>
+        <p>Datenbankexport vom 2026-06-08 11:23:52 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-05-07T12:39:43+02:00">teiHeader was automatically produced from the database 2026-05-07T12:39:43+02:00</change>
+      <change when="2026-06-08T11:23:52+02:00">teiHeader was automatically produced from the database 2026-06-08T11:23:52+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -629,6 +629,14 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Korn</label>
           <label xml:lang="en" type="sort">korn</label>
+        </item>
+        <item xml:id="lub-keywords-149">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Kloster</label>
+          <label xml:lang="de" type="sort">kloster</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Kloster</label>
+          <label xml:lang="en" type="sort">kloster</label>
         </item>
         <item xml:id="lub-keywords-150">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -1663,6 +1671,14 @@
           <label xml:lang="en" type="main">Wachs</label>
           <label xml:lang="en" type="sort">wachs</label>
         </item>
+        <item xml:id="lub-keywords-358">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Kleriker</label>
+          <label xml:lang="de" type="sort">kleriker</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Kleriker</label>
+          <label xml:lang="en" type="sort">kleriker</label>
+        </item>
         <item xml:id="lub-keywords-359">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">landsgewere</label>
@@ -2593,6 +2609,23 @@
           <label xml:lang="en" type="main">extanz</label>
           <label xml:lang="en" type="sort">extanz</label>
         </item>
+        <item xml:id="lub-keywords-462">
+          <label xml:lang="de" type="main">Bildung</label>
+          <label xml:lang="de" type="sort">bildung</label>
+          <label xml:lang="en" type="main">Bildung</label>
+          <label xml:lang="en" type="sort">bildung</label>
+        </item>
+        <item xml:id="lub-keywords-463">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">patrimonium</label>
+          <label xml:lang="de" type="sort">patrimonium</label>
+          <note type="description" xml:lang="de">
+            <p>Vermögen, das ein angehender Kleriker vor der ersten höheren Weihe nachweisen musste. Mit diesem Nachweis sollte sichergestellt werden, dass alle Kleriker ihren Lebensunterhalt ohne Tätigkeiten, die dem geistlichen Stand nicht geziemen, bestreiten konnten.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">patrimonium</label>
+          <label xml:lang="en" type="sort">patrimonium</label>
+        </item>
         <item xml:id="lub-keywords-465">
           <label xml:lang="de" type="main">Verzeichnis</label>
           <label xml:lang="de" type="sort">verzeichnis</label>
@@ -2609,6 +2642,12 @@
           <objectType xml:lang="en">Object</objectType>
           <label xml:lang="en" type="main">widem</label>
           <label xml:lang="en" type="sort">widem</label>
+        </item>
+        <item xml:id="lub-keywords-468">
+          <label xml:lang="de" type="main">Eier</label>
+          <label xml:lang="de" type="sort">eier</label>
+          <label xml:lang="en" type="main">Eier</label>
+          <label xml:lang="en" type="sort">eier</label>
         </item>
         <item xml:id="lub-keywords-469">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -2628,6 +2667,17 @@
           <objectType xml:lang="en">Object</objectType>
           <label xml:lang="en" type="main">trote</label>
           <label xml:lang="en" type="sort">trote</label>
+        </item>
+        <item xml:id="lub-keywords-472">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">liblehen</label>
+          <label xml:lang="de" type="sort">liblehen</label>
+          <note type="description" xml:lang="de">
+            <p>Lehen auf Lebenszeit.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">liblehen</label>
+          <label xml:lang="en" type="sort">liblehen</label>
         </item>
         <item xml:id="lub-keywords-474">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -2981,6 +3031,33 @@
           <objectType xml:lang="en">Object</objectType>
           <label xml:lang="en" type="main">Käse</label>
           <label xml:lang="en" type="sort">kaese</label>
+        </item>
+        <item xml:id="lub-keywords-509">
+          <label xml:lang="de" type="main">Assisen</label>
+          <label xml:lang="de" type="sort">assisen</label>
+          <note type="description" xml:lang="de">
+            <p>Assisen (von altfranzösisch assise, Partizip zu asseoir „setzen“, von lateinisch assidere „beisitzen“) ist ein verfassungsrechtlicher Begriff des Mittelalters ursprünglich für feierliche Versammlungen und Zusammenkünfte, auf denen rechtliche Angelegenheiten geregelt wurden, aber auch für die Ergebnisse solcher Sitzungen (Gesetze, Regelungen und auch die Strafen). Später wurden damit im englischen und dann wieder im französischen Recht bis ins 19. Jahrhundert Geschworenengerichte bezeichnet.</p>
+          </note>
+          <label xml:lang="en" type="main">Assisen</label>
+          <label xml:lang="en" type="sort">assisen</label>
+        </item>
+        <item xml:id="lub-keywords-510">
+          <label xml:lang="de" type="main">schöffe</label>
+          <label xml:lang="de" type="sort">schoeffe</label>
+          <note type="description" xml:lang="de">
+            <p>Ein Schöffe (von althochdeutsch sceffino oder scaffin, der Anordnende; mittelhochdeutsch scheffe(ne) oder schepfe(ne)), auch Schöppe (niederdeutsch) und Schöpfe (oberdeutsch),war im hohen und späten Mittelalter und in der Frühen Neuzeit eine Person, die mit Aufgaben in der Rechtsprechung, aber auch – da damals judikative und exekutive Gewalt nicht getrennt waren – mit Verwaltungsaufgaben betraut war.</p>
+          </note>
+          <label xml:lang="en" type="main">schöffe</label>
+          <label xml:lang="en" type="sort">schoeffe</label>
+        </item>
+        <item xml:id="lub-keywords-511">
+          <label xml:lang="de" type="main">tabellion</label>
+          <label xml:lang="de" type="sort">tabellion</label>
+          <note type="description" xml:lang="de">
+            <p>Ein Tabellion (französisch tabellion, von lateinisch tabellio) ist eine historische Berufsbezeichnung für einen Schreiber oder Notar, insbesondere im römischen Recht und im französischen Rechtssystem bis ins 18. Jahrhundert.</p>
+          </note>
+          <label xml:lang="en" type="main">tabellion</label>
+          <label xml:lang="en" type="sort">tabellion</label>
         </item>
         <item xml:id="lub-keywords-513">
           <objectType xml:lang="de">Quellenbegriff</objectType>

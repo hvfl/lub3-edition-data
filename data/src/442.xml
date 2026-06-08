@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-442">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lehen in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-442">AT-VLA, RH Blumenegg Schachtel 1-1-1-</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 12. September 1608 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kopie eines bewilligten Konsensverkaufs des Lehens in Triesen, in dem Johann, Bischof zu Chur, bekennt, dass Kaspar von Ramschwag, Vogt zu Gutenberg dem Churer Domkapitel die Lehen zu Triesen und Triesenberg, die er vom Bischof empfangen hat, rechtmässig feil und zum Kauf nach Lehensrecht angeboten hatte. Da das Kapitel das Angebot nicht annahm, begehrt Ramschwag, die Lehen mit Wissen des Stiftes anderswo verkaufen zu dürfen. Daraufhin gesteht der Bischof Ramschwag zu, einen Käufer und künftigen Lehensmann ausfindig zu machen. Ramschwag muss aber zuvor die Schuld gegenüber Johann von Gugelberg von Moos in Maienfeld begleichen und die Triesner Lehen pfandfrei stellen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1608-09-12">12. Sep 1608</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0001.jpg" xml:id="lub-media-2506" source="1608-09-12-vla-rh-blumenegg-lehen-triesen-1.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0002.jpg" xml:id="lub-media-2507" source="1608-09-12-vla-rh-blumenegg-lehen-triesen-2.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0003.jpg" xml:id="lub-media-2508" source="1608-09-12-vla-rh-blumenegg-lehen-triesen-3.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0004.jpg" xml:id="lub-media-2509" source="1608-09-12-vla-rh-blumenegg-lehen-triesen-4.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir <persName ref="lub-actors-192">Johannes</persName> von gottes genaden bischoff  
+<lb n="2"/>zue <orgName ref="lub-actors-2466">Chuer</orgName>, bekhennen das der edel vest <persName ref="lub-actors-166">Caspar  
+<lb n="3"/>von Rambschwag</persName>, römisch kayserlicher mayestät und fürstlicher durchlaucht  
+<lb n="4"/>zue <persName ref="lub-actors-184">Össterreich</persName> etc. vogt zue <placeName ref="lub-places-13">Guetemberg</placeName>, unßer lieber  
+<lb n="5"/>und getrewer lechemann, unnß und ainem ehrwürdigen  
+<lb n="6"/><orgName ref="lub-actors-2538">Thumbcappitel</orgName> daßelbsten zue erstermeltem <orgName ref="lub-actors-2466">Chuer</orgName>  
+<lb n="7"/>die lechen, so er von unnß und unnserm stifft zue <placeName ref="lub-places-79">Trissen</placeName>  
+<lb n="8"/>und <placeName ref="lub-places-41">Drißnerberg</placeName> vermög lechenbriefs zue lechen tragt,  
+<lb n="9"/>fail und khäufig nach lechens recht anerbotten, auß  
+<lb n="10"/>ursachen, wie er, von <persName ref="lub-actors-166">Rambschwag</persName>, supplicanndo  
+<lb n="11"/>der lennge nach erzelt. Und wo wir alß rechter grundt
+<lb break="no" n="12"/>lechentherr, oder ain erwürdig <orgName ref="lub-actors-2538">Thumcappitl</orgName> die 
+<lb n="13"/>zue kauffen nit gesinnt, so begere er gesagte lechen  
+<lb n="14"/>zue seinem nuzen mit unnserm wissen, willen  
+<lb n="15"/>und gnedigem zuegeben annderstwo zuverkauffen. 
+<lb n="16"/>Weill wir aber sowol ain ehrwürdig <orgName ref="lub-actors-2538">Thumbcappitl</orgName>  
+<lb n="17"/>gesagte lechen auß vilerlaj ungelegenhaiten zue  
+<lb n="18"/>kauffen nit gesinnet, so haben wir imme, <persName ref="lub-actors-166">Casparen  
+<lb n="19"/>von Rambschwag</persName>, gemelte lechen zuverkauffen  
+<lb n="20"/>concediert und zuegeben mit pacten und con
+<lb break="no" n="21"/>ditionen wie volgt. Erstlichen, das er 
+<lb n="22"/>unnß ain kheüfer und künfftigen lechenmann  
+<lb n="23"/>der unnß gefellig zaigen und nammsen solle, der  
+<lb n="24"/>sich auch gegen unns, als rechten grundtlechensherren  
+
+<lb n="25"/>erzaige unnd einlasse, alß ainem lechenmann gebürt. 
+<lb n="26"/>Zum anderen, weil er, von <persName ref="lub-actors-166">Rambschwag</persName>, ain summa  
+<lb n="27"/>gelt auf gesagte lechen von dem edlen vesten <persName ref="lub-actors-257">Hannßen  
+<lb n="28"/>Luce Gugelberg von Moß</persName> zue <placeName ref="lub-places-106">Mayenfeldt</placeName>, mit unßerm  
+<lb n="29"/>und ainem ehrwürdigen <orgName ref="lub-actors-2538">Thumbcappitels</orgName> wissen  
+<lb n="30"/>und willen und geschrifftlichen besigleten scheins  
+<lb n="31"/>und consenns aufgenohmmen. So wellen wir, daß  
+<lb n="32"/>besagter <persName ref="lub-actors-257">Hannß Luze Gugelberg von Moß</persName> erstlich  
+<lb n="33"/>befridiget und unnß unnßer consens zuegestelt  
+<lb n="34"/>werde. 
+</p>
+        <p><lb n="35"/>Zum dritten, daß all anndere consensus, so  
+<lb n="36"/>er, <persName ref="lub-actors-166">Caspar von Rambschwag</persName>, von unß und unßern  
+<lb n="37"/>antecessoren bekhommen und außgebracht, sollen  
+<lb n="38"/>forshin tod ab cassiert und craffloß sein, 
+<lb n="39"/>damit ain künfftiger lechenmann die lechen nach  
+<lb n="40"/>lechens gebraüch unnd recht rüebig innen haben möge. 
+</p>
+        <p><lb n="41"/>Zue urkhundt haben wir so wol auch ain erwürdig  
+<lb n="42"/><orgName ref="lub-actors-2538">Thumbcappitl</orgName> zue offtgerüertem <orgName ref="lub-actors-2466">Chuer</orgName> unnßer  
+<lb n="43"/>secret innsigel an dißen brief (doch unß, unßerm  
+<lb n="44"/><orgName ref="lub-actors-2466">Bistumb</orgName> und ainem erwürdigen <orgName ref="lub-actors-2538">Thumbcappitel</orgName>   
+<lb n="45"/>in alweg onne schaden) thun henncken. Der  
+
+<lb n="46"/>geben ist, den <origDate>zwelfften monnats tag sept
+<lb break="no" n="47"/>tembriß, alß man nach Cristi unnsers 
+<lb n="48"/>lieben herrn und seligmachers geburth gezelt  
+<lb n="49"/>hat aintaussent sechs hundert unnd  
+<lb n="50"/>acht jahr</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Copia  
+<lb n="2"/>aines bewilligten consens  
+<lb n="3"/>verkaufs diess lechens  
+<lb n="4"/>zu <placeName ref="lub-places-79">Drissen</placeName> im dorf auch  
+<lb n="5"/><placeName ref="lub-places-41">berg</placeName> und thall betrefendt. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

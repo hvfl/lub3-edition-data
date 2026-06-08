@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1189">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt um die Feldkircher Ausburger in Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1189">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 4v-5r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 12. Juni 1591 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt und Amtleute von Feldkirch betreffend den Bericht und die Beschwerde von Stadtammann und Rat der Stadt über die Eingriffe  des Grafen Karl Ludwig von Sulz betreffend die Ausburger in Schellenberg und eines Einfalls des Grafen in Schnifis.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-3">Ausbürger</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-06-12">12. Jun 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__4v-5r-0001.jpg" xml:id="lub-media-3080" source="1591-06-12-buch-walgau-8-05-4v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__4v-5r-0002.jpg" xml:id="lub-media-3081" source="1591-06-12-buch-walgau-8-05-5r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-13">Carl Ludwig graf zu Sulz</persName><lb n="2"/>contra <orgName ref="lub-actors-980">stattamman und rat  
+<lb n="3"/>zu Veldkirch.</orgName></p>
+        <p><lb n="4"/>Was an die fürstlich durchlaucht etc., unnßern gnedigisten  
+<lb n="5"/>herrn, herr <persName ref="lub-actors-13">Carl Ludwig graff zu Sulz</persName>  
+
+<lb n="6"/>wider <orgName ref="lub-actors-980">stattamman und rath zu Veldtkirch</orgName>  
+<lb n="7"/>irer ausburger, so in sein, des herrn grafen,  
+<lb n="8"/>herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> heuslichen wonen,  
+<lb n="9"/>am <date when="1591-05-31">letsten jungstverschinen monats may</date>  
+<lb n="10"/>uns dann in ainem sonnderbaren schreiben  
+<lb n="11"/>am ersten diß datiert, von wegen angezog
+<lb break="no" n="12"/>nen einfals, sonnderlichen in dem dorff 
+<lb n="13"/><placeName ref="lub-places-982">Schnüfis</placeName> und gegen den unndterthonen daselbs etc. 
+<lb n="14"/>für enndtschuldigung gelangen lassen. Unnd  
+<lb n="15"/>darneben sein fürbringen und biten ist, das  
+<lb n="16"/>habt ir aus hiebeyligenden zwayen origi
+<lb break="no" n="17"/>nalien sambt den beylagen nach lenngs 
+<lb n="18"/>zuvernemen, innamen hochermelter fürstlicher durchlaucht  
+<lb n="19"/>euch darauf bevelchend, das ir unns hieruber  
+<lb n="20"/>eurn bericht und guetachten sambt dem ein
+<lb break="no" n="21"/>schluß unverzogenlich hieher zuesendet.
+<lb n="22"/>Daran beschieht etc. Datum, den <origDate>12. juni anno etc. 91</origDate>. 
+<lb n="23"/>An die <orgName ref="lub-actors-2588">ambtleut  
+<lb n="24"/>zu Veldtkhirch.</orgName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

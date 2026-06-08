@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1235">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut in Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1235">CH-BAC, 015.2875</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1567 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Martin Gassner von Triesenberg und seine Frau Ursula Nägeli verkaufen einen Zins von 15 Schilling ab ihrem Gut im Steg im Schädlersboden an Heinrich Quaderer, Ammann der Herrschaft Vaduz, und dessen Frau Katharina Fritschi.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2744">Gassner, Martin (1)</persName>
+          <date when="1567-11-11">11. Nov 1567</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2745">Nägele, Ursula</persName>
+          <date when="1567-11-11">11. Nov 1567</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-214">Plenki, Jakob (2)</persName>
+          <date when="1567-11-11">11. Nov 1567</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-246">Quaderer, Heinrich</persName>
+          <date when="1567-11-11">11. Nov 1567</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2746">Fritschi, Katharina</persName>
+          <date when="1567-11-11">11. Nov 1567</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2875-0001.jpg" xml:id="lub-media-3951" source="platzhalter-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3951" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2744">Martte Gasner</persName> ab dem <placeName ref="lub-places-41">Drisnerperg</placeName>, unnd ich, <persName ref="lub-actors-2745">Ursula Negelin</persName>, sein eeliche hausfrow, bekhennen offennlich fuer unns, all unnser erben unnd nachkhomen 
+<lb n="2"/>unnd thuen kundt allermenigclich mit dem brief, das wir mit veraintem guettem willen, wolbedachtem synn unnd mueth zufurderung unnsers nutz 
+<lb n="3"/>besonnder mit hannd des ersamen, weysen <persName ref="lub-actors-214">Jacob Plennckhis</persName>, alter aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, aufrecht unnd redlich verkhaufft unnd zuekhauffen gegebenn 
+<lb n="4"/>haben unnd geben auch also hiemit wissenndtlich in crafft dis briefs dem ersamen, weysen <persName ref="lub-actors-246">Hainrich Quaderer</persName>, aman der herrschafft <placeName ref="lub-places-7">Vadutz</placeName>, unnd <persName ref="lub-actors-2746">Trina 
+<lb n="5"/>Fritschi</persName>, seinem eelichen weib, allen iren erben unnd nachkhomen nemlich funfftzechen schilling pfening guetter <placeName ref="lub-places-101">Costenntzer</placeName> muntz <placeName ref="lub-places-10">Veldkhircher</placeName> werung rechts, 
+<lb n="6"/>eewigs, jerlichs zins unnd phening geltz von, ausser unnd ab unnserm aignen guet zum <placeName ref="lub-places-535">Steeg</placeName> in <placeName ref="lub-places-540">Schedlers Poden</placeName> gelegen, stost gegem perg an <persName ref="lub-actors-2747">Crista Neg
+<lb break="no" n="7"/>elis</persName> seligen erben guet, aufwert dem lannd nach an <persName ref="lub-actors-2748">Hanns Michels</persName> seligen erben guet, gegem <placeName ref="lub-places-103">Rein</placeName> an die allmain unnd abwert dem lannd nach an <persName ref="lub-actors-2749">Liennhart
+<lb n="8"/>Oschwaldts</persName> erben guet, alles ab grund, grat, veld, wasen, wun, waid, stockh, stain, gesteudt, gereut, genngen, stegen unnd wegen unnd gemainlich mit allen and
+<lb break="no" n="9"/>ern seinen rechten unnd zuegehörden, benembten unnd unbenembten, auch fuer ledig unnd gegen allermenigclich unverkhumbert. Unnd also
+<lb n="10"/>ist der eewig, redlich kauf erganngen unnd beschechen benenntlichen umb funfftzechen phundt phening guetter vorgeschribner muntz unnd werung, 
+<lb n="11"/>dero wir aller gar von inen, den keuffern, erberlich ausgericht unnd betzalt worden sind nach unnserm guetten benuegen. Darumb sollen unnd wöllen 
+<lb n="12"/>wir, auch all unnser erben unnd nachkhomen oder wer das obgemelt unnderpfanndt nach unns ymer innenhat, nutzet unnd prauchet, gedachten zins, die funf
+<lb break="no" n="13"/>zechen schilling pfening geltz, vorernennten keuffern, allen iren erben unnd nachkhomen nunhinenndthin ymer eewigclich unnd ye jerlich alle jar auf
+<lb n="14"/>s<date when="--11-11">anndt Marthins tag</date>, achttag vor oder nach ungevarlich, guetlich ausrichten, zinsen unnd zu iren sichern hannden unnd gewalt, fuer alles verhefften, ver
+<lb break="no" n="15"/>pietten unnd enndtweren, genntzlichen one allen iren costen unnd schaden geben unnd anndtwurtten. Wann, wie oder weliches jars das aber also
+<lb n="16"/>nit bescheche uber kurtz oder lanng zeit, so ist inen das obgemelt unnderpfanndt, in seinen bestimbten marckhen begriffen, ganntz zinsfellig wordenn 
+<lb n="17"/>unnd dannennthin mit grund, grat unnd mit allen anndern seinen obgenannten rechten, pesserungen unnd zuegehörden zu rechtem eewigem aigen 
+<lb n="18"/>ymermer haimbgevallen unnd vervallen, on unnser, aller unnser erben unnd nachkhomen unnd allermenigclichs von unnsernt wegen irrung 
+<lb n="19"/>unnd widersprechen. Unnd hierauf dis eewigen, redlichen kaufs umb zinsfelligi, auch fuer all abgenng unnd minderung des obgenanntenn 
+<lb n="20"/>unnderpfanndts, auch hauptguetz, zins unnd schadenns unnd aller obgenannter ding söllen unnd wöllen wir, auch all unnser erben und nachkhomen 
+<lb n="21"/>der genannten keuffer, aller irer erben unnd nachkhomen recht, guet unnd getrew krefftig geweren, fuerstanndt unnd versprecher gegen aller
+<lb break="no" n="22"/>menigclich sein, vor dem richter unnd gericht, darunnder obgemelt unnderpfanndt gelegen ist, nach recht, wa, wie, wenn oder gegen wem, als offt
+<lb n="23"/>unnd dickh sy des nach dem rechten ymer bedurffen oder notturfftig werden, alfart in unnserm aignen costen, on iren schaden, bei unnsern war
+<lb break="no" n="24"/>en unnd guetten trewen, on alle widerred, auftzug unnd geverde. Unnd wiewoll der brief ainen eewigen kauf ausweyst, nichtdester
+<lb break="no" n="25"/>weniger mögen wir, auch all unnser erben unnd nachkhomen den gemelten zins, die funftzechen schilling phening geltz, von inen, den keuffern,
+<lb n="26"/>allen iren erben unnd nachkhomen woll widerumben kauffen unnd ablösen nunhinenndthin ymer, wann unnd weliches jars wir wel
+<lb break="no" n="27"/>lennd, uber kurtz oder lanng zeit, doch vor zinsfall unnd auf <date when="--11-11">sanndt Marthins tag</date>, achttag vor oder nach ungevarlich, samenndthafft mit dem
+<lb n="28"/>obgeschribnen hauptguet, den funftzechen phundt pheningen unnd alwegen mit gevallnen, ausstenndigen zinsen, auch mit guetter muntz 
+<lb n="29"/>unnd weerschafft, daran sy kainen verlurst noch abganng haben, ob sich die yetzig muntz in der zeit verenndern wurde, alles ungevarlich. 
+<lb n="30"/>Unnd des zu warem urkhundt haben wir mit vleys unnd ernnst erpetten den obgedachten alten aman <persName ref="lub-actors-214">Jacob Plennckhi</persName>, das der sein 
+<lb n="31"/>innsigel fuer unns unnd unnser erben (doch ime unnd seinen erben onschaden) offennlich an disen brief gehennckht hat, der geben ist 
+          <lb n="32"/><origDate when="1567-11-11">an sanndt Marthins tag im funfftzechennhundert sibenunndsechtzigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1224">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Acker in Gamprin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1224">CH-BAC, 015.2684</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 29. November 1543 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Luzius Signer von Bendern verkauft dem Kloster St. Luzi in Chur einen Zins von einem Gulden bzw. 60 Etschkreuzern ab seinem Acker im Gampriner Feld.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-342">Kauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-375">Etschkreuzer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1686">Singer, Luzius</persName>
+          <date when="1543-11-29">29. Nov 1543</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1543-11-29">29. Nov 1543</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1543-11-29">29. Nov 1543</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2684-0002.jpg" xml:id="lub-media-3943" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3943" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-1686">Lutz Signer</persName> von <placeName ref="lub-places-36">Benndern</placeName>, bekhenn offennlich und thue khundt allermenigklich mit dissem brieve, das ich mit guter zeitlicher 
+<lb n="2"/>vorbetrachtung, sonnder mit hand des ersamen, weisen <persName ref="lub-actors-817">Mihael Grawen</persName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellennberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, recht 
+<lb n="3"/>und redlich verkhaufft und zu khauffen geben hab und gib auch jetzo hiemit in krafft ditz brieffs krefftig fur mich, all mein erben und 
+<lb n="4"/>nachkomen dem hochwirdigen gotzhaus zu <orgName ref="lub-actors-337">Sandt Luci</orgName>, neben der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <orgName ref="lub-actors-1191">Praemonstratar</orgName> ordens, allen seinen erben und nach
+<lb break="no" n="5"/>khomen ains stäten, vesten, ewigen khauffs nemlich ain guldin reinisch, fur sechtzig <term ref="lub-keywords-375">etschkreutzer</term> gerait, guter, genemer <placeName ref="lub-places-101">Cosstentzer</placeName> mintz
+<lb n="6"/><placeName ref="lub-places-10">Veldkirher</placeName> werung recht, ewigs, järlichs zeins und pfening gelts von, ausser und ab meinem aigen ackher in <placeName ref="lub-places-946">Gampriner Veld</placeName>, <placeName ref="lub-places-36">Bender</placeName> kilspel 
+<lb n="7"/>gelegen, stosst zur ainen seiten an <persName ref="lub-actors-2636">Barthlome</persName> und <persName ref="lub-actors-1691">Dietrich Walchen</persName>, zur ander an <persName ref="lub-actors-2637">Ulrich Schechlin</persName> zu <placeName ref="lub-places-328">Gamprein</placeName>, zur dritten an mein lieben 
+<lb n="8"/>bruder <persName ref="lub-actors-2638">Josen Signer</persName> und zur vierten seiten an <persName ref="lub-actors-2639">Peter Signer</persName>, mein vetter, und alles ab grundt, gradt, wun, waid, pomen, zweig, stockh, stain, 
+<lb n="9"/>gesteudt, gereudt, gengen, stegen und wegen und gemainklich ab allen andren seinen rechten und zugehörden, benempten und unbenempten, 
+<lb n="10"/>und auch fur ledig und los und gegen menigklich unversetzt und unverkimbert. Und ist der ewig, redlich khauff also beschechen und gethon 
+<lb n="11"/>worden umb zwaintzig guldin reinischer guter, obgenanter mintz und werung, dero ich von herrn <persName ref="lub-actors-450">Georgen Furstain</persName>, pfarherrn zu <placeName ref="lub-places-36">Bendern</placeName>, 
+<lb n="12"/>innamen und von wegen des genanten gotzhaus also par erberlich ausgericht und bezalt worden bin nach meinem guten beniegen. Und 
+<lb n="13"/>darumb so sellen und wellen ich, all mein erben und nachkomen inhaber obgemelt underpfands den gemelten zeins dem genanten gotzhaus, 
+<lb n="14"/>allen seinen erben und nachkomen inhaber ditz brieffs nw furohin ewigklich und järlich alle jar auff <date when="--11-11">sandt Martins tag</date>, acht tag vor oder 
+<lb n="15"/>nach ungevarlich, tugentlich richten, zeinsen und gen <placeName ref="lub-places-36">Bendern</placeName> in pfarhoff zu iren sichern handen und gewalte andtwurten und geben, fur 
+<lb n="16"/>allermenigklichs hefften, verbieten und entweren und gentzlich on allen iren cossten und schaden. Wann, wie oder welichs jars das aber 
+<lb n="17"/>also nit bescheche uber kurtz oder lang zeit, so ist in ir obgemelt underpfand, in seinen bestimpten marckhen begriffen, gantz zeinsfellig worden 
+<lb n="18"/>und dann danethin mit grundt, gradt und mit allen seinen rechten und zugehörungen zu rechtem, ewigem aigen ymermer haim gevallen 
+<lb n="19"/>und verfallen, one mein, aller meiner erben und nachkomen und allermenigklihs von unnsern wegen irrung und widersprechen. Und  
+<lb n="20"/>hierauff ditz ewigen, redlichen kauffs umb zeinsfelligin und fur all abgeng obgemelt underpfands, auch zeins, hauptgut, schadens und aller 
+<lb n="21"/>obgemelten ding sellen und wellen ich, all mein erben und nachkomen des obgenanten gotzhaus, allen seinen erben und nachkomen recht, 
+<lb n="22"/>gut und getrew, krefftig weren, furstand und versprecher sein vor dem richter und gericht, darunder obgemelt underpfand und zeins 
+<lb n="23"/>gelegen ist, wie wenn und gegen wem als offt und dickh sy des nach dem rechten ymmer bedurffen und notturfftig werden, alweg in 
+<lb n="24"/>unnserm aigen cossten, on iren schaden, bey guten trewen, on alle widerred, ausszug und geverde. Und wiewol disser brieff ainen 
+<lb n="25"/>ewigen kauff ausweist, so mögen doch ich, all mein erben und nachkomen den obgemelten zeins von dem genanten gotzhaus, allen 
+<lb n="26"/>seinen erben und nachkomen wol widerkhauffen und ablösen nw furohin ewigklich, wenn und welihs jars wir wellen uber kurtz oder 
+<lb n="27"/>lang zeit, doch vor zeinsfal und alweg auff <date when="--11-11">sandt Martins tag</date>, acht tag vor oder nach ungevarlich, samethafft mit dem obgemelten 
+<lb n="28"/>hauptgut sampt allen verfallen, aussteenden zeinsen und auch mit selicher mintz und werschafft, daran sy nit verlursst noch ab
+<lb break="no" n="29"/>gang haben, ob sich die mintz in der zeit verendern wurde, alles ungevarlich. Und des zu warem und offem urkhundt so hab ich,
+<lb n="30"/>obgenanter verkhaffer, mit sonderm fleis und ernst gepeten und erbeten den vorgenanten aman <persName ref="lub-actors-286">Mihel Grawen</persName>, das er sein aigen 
+<lb n="31"/>ynnsigel, im und sein erben onschaden, fur mich, all mein erben und nachkomen offenlich gehenckht hat an dissen brieff, der 
+ <lb n="32"/>geben ist <origDate when="1543-11-29">an sandt Andras abent nach Cristi, unnsers herrn, gepurtt feunffzechenhundert und im drewundviertzigisten 
+<lb n="33"/>jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

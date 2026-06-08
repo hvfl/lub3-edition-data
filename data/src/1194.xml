@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1194">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beratschlagung über Konflikt mit Vogt von Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1194">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 145r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 16. Mai 1592 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid an Vogt zu Bregenz mit den Amtleuten der Herrschaften Bregenz und Feldkirch über die Streitigkeiten zwischen Karl Ludwig von Sulz und dem Vogt zu Gutenberg zu beratschlagen</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1592-05-16">16. Mai 1592</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__145r-v-0001.jpg" xml:id="lub-media-3182" source="1592-05-16-buch-walgau-8-40-145r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__145r-v-0002.jpg" xml:id="lub-media-3183" source="1592-05-16-buch-walgau-8-41-145v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem 
+</p>
+        <p><lb n="2"/>Ir werdet one zweifl, was wir euch erst am 2.  
+<lb n="3"/>gegenwürtigs monats maii inn sachen herrn  
+<lb n="4"/><persName ref="lub-actors-13">Carl Ludwigen grafens zu Sulz</persName> wider <persName ref="lub-actors-166">Casparn  
+<lb n="5"/>von Rambschwag</persName>, vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>, und in  
+<lb n="6"/>annder weg yebenden truz und ubermuets etc. neben  
+<lb n="7"/>einschliessung der beambten zu <placeName ref="lub-places-10">Veldkirch</placeName> schreiben  
+<lb n="8"/>schrifftlichen auferlegt. Nemblich mit inen, veld
+<lb break="no" n="9"/>kirchischen, und auch den bregennzischen ambtleuten 
+<lb n="10"/>die sachen in beratschlagung zuziehen und an unns hin
+<lb break="no" n="11"/>nach, was auf ainen und den anndern ermelts herrn 
+<lb n="12"/>grafen unbefuegten eintrag fur und an die hanndt  
+<lb n="13"/>zenemen sein mechte, gelanngen zelassen etc. nu
+<lb break="no" n="14"/>mer auch empfanngen haben. Was dann jezt 
+<lb n="15"/>abermalen der fürstlich durchlaucht, unnserm gnedigisten herrn,  
+<lb n="16"/>von berüertem vogt zu <placeName ref="lub-places-13">Guettenberg</placeName> für ain  
+<lb n="17"/>beschwerdschrifft wider erstgemelten herrn grafen  
+<lb n="18"/>und seine unnderthanen zu <placeName ref="lub-places-71">Balzers</placeName> und <placeName ref="lub-places-166">Mails</placeName>  
+<lb n="19"/>unnderthenigist überraicht worden, das über
+<lb break="no" n="20"/>sennden wir euch hiemit, auch in namen höchst
+<lb break="no" n="21"/>ernannter fürstlicher durchlaucht euch dabei bevelhend, das ir 
+<lb n="22"/>mit besagten baider herrschafften ambtleut, wie  
+<lb n="23"/>und durch was mitl und weg sein, herrn grafens,  
+<lb n="24"/>angelegts arrest und thetlichait begegnet,   
+<lb n="25"/>und auch noch weiterer eingriff und thetlichait  
+<lb n="26"/>(deren er sich etwo verrner unndersteen) verhüet  
+<lb n="27"/>und unndterkomen werden mechte, gleichermassen  
+
+<lb n="28"/>in notwenndige beratschlagung ziehet und unns  
+<lb n="29"/>alßdann desselben ewers ratschlags und main
+<lb break="no" n="30"/>ung, sambt allen einschlüssen unverlengt hieher
+<lb n="31"/>verstenndiget, das ist anstat etc. Datum,  
+<lb n="32"/>den <origDate>16. maii anno etc. 92</origDate>. 
+</p>
+        <p><lb n="33"/>An vogt zu <placeName ref="lub-places-45">Bregenz</placeName></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-05-07 12:39:41 aus </p>
+        <p>Datenbankexport vom 2026-06-08 11:23:48 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -194,10 +194,13 @@
                 <bibl>
                   <ref target="https://historisches-lexikon.li/Schaanwald">HLFL</ref>
                 </bibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
-              <p>Zur Gemeinde Mauren gehörender Weiler im liechtensteinischen Unterland.</p>
+              <p>Zur Gemeinde Mauren gehörender Weiler im liechtensteinischen Unterland. Der Name dürfte sich ursprünglich auf den gesamten Waldkomplex zwischen Schaan und Schaanwald bezogen haben.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-9">
@@ -1680,7 +1683,7 @@
             <placeName type="main" xml:lang="de">Altkirch</placeName>
             <placeName type="full" xml:lang="de">Altkirch (Elsass)</placeName>
             <placeName type="sort" xml:lang="de">altkirch</placeName>
-            <placeName type="alternative" xml:lang="de">Altkirech</placeName>
+            <placeName type="alternative" xml:lang="de">Altkirech; Aldtkirch</placeName>
             <location>
               <geo>47.62417 7.23954</geo>
               <settlement xml:lang="de">Altkirch</settlement>
@@ -1828,6 +1831,34 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Hall_in_Tirol"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="lub-places-62">
+            <placeName type="main" xml:lang="de">Inntal</placeName>
+            <placeName type="full" xml:lang="de">Inntal (Tirol, Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">inntal</placeName>
+            <location>
+              <geo>47.28109 10.98633</geo>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">62</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2775214"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1664249"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/247661560/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4096297-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Inntal"/>
               </bibl>
             </listBibl>
           </place>
@@ -2428,6 +2459,7 @@
             <placeName type="main" xml:lang="de">Drei Bünde</placeName>
             <placeName type="full" xml:lang="de">Drei Bünde (Graubünden)</placeName>
             <placeName type="sort" xml:lang="de">drei buende</placeName>
+            <placeName type="alternative" xml:lang="de">Binden; Pünd; Pynd</placeName>
             <location>
               <geo>46.6587 9.62296</geo>
               <country xml:lang="de">Schweiz</country>
@@ -3715,7 +3747,7 @@
             <placeName type="main" xml:lang="de">Ungarn</placeName>
             <placeName type="full" xml:lang="de">Ungarn</placeName>
             <placeName type="sort" xml:lang="de">ungarn</placeName>
-            <placeName type="alternative" xml:lang="de">Hungern</placeName>
+            <placeName type="alternative" xml:lang="de">Hungern; Hungarn</placeName>
             <placeName type="alternative" xml:lang="de">Ungern</placeName>
             <location>
               <country xml:lang="de">Ungarn</country>
@@ -6470,7 +6502,7 @@
             <placeName type="main" xml:lang="de">Bodensee</placeName>
             <placeName type="full" xml:lang="de">Bodensee</placeName>
             <placeName type="sort" xml:lang="de">bodensee</placeName>
-            <placeName type="alternative" xml:lang="de">Bodennsee</placeName>
+            <placeName type="alternative" xml:lang="de">Bodennsee; Podennsee</placeName>
             <location>
               <geo>47.58333 9.46667</geo>
             </location>
@@ -7358,7 +7390,7 @@
             <placeName type="main" xml:lang="de">Pfirt (Grafschaft)</placeName>
             <placeName type="full" xml:lang="de">Pfirt (Grafschaft)</placeName>
             <placeName type="sort" xml:lang="de">pfirt (grafschaft)</placeName>
-            <placeName type="alternative" xml:lang="de">Ferrette</placeName>
+            <placeName type="alternative" xml:lang="de">Phierdt</placeName>
             <location>
               <geo>47.49436 7.31372</geo>
               <country xml:lang="de">Frankreich</country>
@@ -7388,8 +7420,15 @@
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Grafschaft_Pfirt"/>
               </bibl>
             </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Ferrette">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
             <note type="description" xml:lang="de">
-              <p>Grafschaft mit der Stadt Pfirt (heute Ferrette) als Zentrum.</p>
+              <p>Grafschaft mit der Stadt Pfirt (heute Ferrette) als Zentrum. Von 1510 bis 1564 war die das Städtchen dominierende Burg an die Augsburger Fugger verpfändet.</p>
             </note>
           </place>
           <place type="A" xml:id="lub-places-305">
@@ -8492,9 +8531,9 @@
             </note>
           </place>
           <place type="S" xml:id="lub-places-352">
-            <placeName type="main" xml:lang="de">Brüel</placeName>
-            <placeName type="full" xml:lang="de">Brüel / Balzers</placeName>
-            <placeName type="sort" xml:lang="de">brueel</placeName>
+            <placeName type="main" xml:lang="de">Brüel (Balzers)</placeName>
+            <placeName type="full" xml:lang="de">Brüel (Balzers) / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">brueel (balzers)</placeName>
             <placeName type="alternative" xml:lang="de">Briel</placeName>
             <location>
               <geo>47.06067 9.48689</geo>
@@ -8671,6 +8710,43 @@
             <note type="description" xml:lang="de">
               <p>Ebenes Kulturland südwestlich des Dorfes, zwischen Wesa und Gapetsch. Vgl. auch †Obera Bofel.</p>
             </note>
+          </place>
+          <place type="P" xml:id="lub-places-364">
+            <placeName type="main" xml:lang="de">Wien</placeName>
+            <placeName type="full" xml:lang="de">Wien</placeName>
+            <placeName type="sort" xml:lang="de">wien</placeName>
+            <location>
+              <geo>48.20849 16.37208</geo>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">364</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2761369"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1741"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Vienna"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79018895"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/006609"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/155870729/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4066009-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Wien"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="L" xml:id="lub-places-365">
             <placeName type="main" xml:lang="de">Witsand</placeName>
@@ -9427,6 +9503,48 @@
               <p>Unbekannt.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-402">
+            <placeName type="main" xml:lang="de">Wellenberg</placeName>
+            <placeName type="full" xml:lang="de">Wellenberg / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">wellenberg</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">402</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Gebiet im Eschner Hinderdorf, um Fronabünt und Renkwiler.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-403">
+            <placeName type="main" xml:lang="de">Platz, auf</placeName>
+            <placeName type="full" xml:lang="de">Platz, auf / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">platz, auf</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">403</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Ackerland und Weinberg, an der Fahrgasse und unterhalb der Allmend gelegen; wohl örtlich identisch mit Platzer, also auf der Terrasse nordwestlich über Eschen, beim Schönabüel.</p>
+            </note>
+          </place>
           <place type="V" xml:id="lub-places-404">
             <placeName type="main" xml:lang="de">Benderer Feld</placeName>
             <placeName type="full" xml:lang="de">Benderer Feld / Eschen</placeName>
@@ -10041,6 +10159,7 @@
             <placeName type="sort" xml:lang="de">boelsfeld</placeName>
             <placeName type="alternative" xml:lang="de">Bülß Veldlin</placeName>
             <placeName type="alternative" xml:lang="de">Bülß Fäldlein</placeName>
+            <placeName type="alternative" xml:lang="de">Buls Veld</placeName>
             <location>
               <geo>47.21719 9.52029</geo>
               <settlement xml:lang="de">Eschen</settlement>
@@ -10263,7 +10382,9 @@
             <idno type="lub-places-id">441</idno>
             <note type="sources">
               <listBibl>
-                <bibl>[LNB](<ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden</ref></bibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -10271,9 +10392,9 @@
             </note>
           </place>
           <place type="V" xml:id="lub-places-442">
-            <placeName type="main" xml:lang="de">Tal</placeName>
-            <placeName type="full" xml:lang="de">Tal / Eschen</placeName>
-            <placeName type="sort" xml:lang="de">tal</placeName>
+            <placeName type="main" xml:lang="de">Tal (Eschen)</placeName>
+            <placeName type="full" xml:lang="de">Tal (Eschen) / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">tal (eschen)</placeName>
             <placeName type="alternative" xml:lang="de">Thal</placeName>
             <placeName type="alternative" xml:lang="de">Thall</placeName>
             <placeName type="alternative" xml:lang="de">Eschner tal</placeName>
@@ -14743,7 +14864,7 @@
             <idno type="lub-places-id">634</idno>
             <note type="sources">
               <listBibl>
-                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>("Tobel 2")</bibl>
+                <bibl><ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref> ("Tobel 2")</bibl>
               </listBibl>
             </note>
             <note type="description" xml:lang="de">
@@ -17220,6 +17341,28 @@
               <p>Name abgegangen, genaue Lage unbekannt.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-767">
+            <placeName type="main" xml:lang="de">Ruggeller Riet</placeName>
+            <placeName type="full" xml:lang="de">Ruggeller Riet / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">ruggeller riet</placeName>
+            <placeName type="alternative" xml:lang="de">Ruggeller Riedt</placeName>
+            <location>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">767</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen, Äcker und Moorböden nordöstlich des Dorfes.</p>
+            </note>
+          </place>
           <place type="A" xml:id="lub-places-768">
             <placeName type="main" xml:lang="de">Oettingen (Grafschaft)</placeName>
             <placeName type="full" xml:lang="de">Oettingen (Grafschaft) (Baden-Württemberg und Bayern)</placeName>
@@ -18443,6 +18586,45 @@
               <p>Wiese östlich des Büntle und südöstlich der Hopmasbünt.</p>
             </note>
           </place>
+          <place type="P" xml:id="lub-places-833">
+            <placeName type="main" xml:lang="de">Stams</placeName>
+            <placeName type="full" xml:lang="de">Stams (Tirol)</placeName>
+            <placeName type="sort" xml:lang="de">stams</placeName>
+            <placeName type="alternative" xml:lang="de">Stamps</placeName>
+            <location>
+              <geo>47.27603 10.98315</geo>
+              <settlement xml:lang="de">Stams</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">833</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7873596"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q687219"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4056905-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb16057451q"/>
+              </bibl>
+              <bibl>
+                <ptr type="idref" target="https://www.idref.fr/16891932X"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84189293"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/129478281"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Stams"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="A" xml:id="lub-places-834">
             <placeName type="main" xml:lang="de">Konstanz (Bistum)</placeName>
             <placeName type="full" xml:lang="de">Konstanz (Bistum)</placeName>
@@ -18489,6 +18671,28 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Pfarrkirche von Triesen. Erstmals erwähnt um 1455. Der mittelalterliche/frühneuzeitliche Bau befand sich auf dem Lehaböchel, 120 Meter nordöstlich der heutigen Kirche. 1834 Exsekration, in der Folge Abbruch.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-836">
+            <placeName type="main" xml:lang="de">St. Theodul, Kapelle</placeName>
+            <placeName type="full" xml:lang="de">St. Theodul, Kapelle / Triesenberg</placeName>
+            <placeName type="sort" xml:lang="de">st. theodul, kapelle</placeName>
+            <location>
+              <geo>47.132177 9.543821</geo>
+              <settlement xml:lang="de">Triesenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">836</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Kapelle_St._Theodul">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Kapelle in Masescha (Triesenberg). Erste Kirche der um 1300 nach Triesenberg eingewanderten Walser. 1465 erstmals urkundlich als Marienkapelle belegt. In der Folge wechselndes Patrozinium. 2005 Patroziniumswechsel zum heiligen Theodul.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-837">
@@ -18575,6 +18779,27 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Kapelle in Mäls, erbaut nicht vor 1300.</p>
+            </note>
+          </place>
+          <place type="S" xml:id="lub-places-841">
+            <placeName type="main" xml:lang="de">St. Donatus, Kapelle</placeName>
+            <placeName type="full" xml:lang="de">St. Donatus, Kapelle / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">st. donatus, kapelle</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">841</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Kapelle_St._Donatus">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Abgegangene Kapelle, die im Hof der Burg Gutenberg lag.</p>
             </note>
           </place>
           <place type="S" xml:id="lub-places-842">
@@ -18667,6 +18892,257 @@
             <note type="description" xml:lang="de">
               <p>Friesen ist eine französische Gemeinde mit 667 Einwohnern (Stand 1. Januar 2022) im Département Haut-Rhin in der Region Grand Est (bis 2015 Elsass). Sie gehört zum Arrondissement Altkirch und zum Kanton Masevaux-Niederbruck.</p>
             </note>
+          </place>
+          <place type="V" xml:id="lub-places-847">
+            <placeName type="main" xml:lang="de">Brendlesbünt</placeName>
+            <placeName type="full" xml:lang="de">Brendlesbünt / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">brendlesbuent</placeName>
+            <placeName type="alternative" xml:lang="de">Brendlis Pündt</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">847</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-848">
+            <placeName type="main" xml:lang="de">Boga</placeName>
+            <placeName type="full" xml:lang="de">Boga / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">boga</placeName>
+            <placeName type="alternative" xml:lang="de">Bogen</placeName>
+            <location>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">848</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt, wohl in Ruggell.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-849">
+            <placeName type="main" xml:lang="de">Schettli</placeName>
+            <placeName type="full" xml:lang="de">Schettli</placeName>
+            <placeName type="sort" xml:lang="de">schettli</placeName>
+            <placeName type="alternative" xml:lang="de">Eschettlina</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">849</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Am Eschnerberg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-850">
+            <placeName type="main" xml:lang="de">Alür</placeName>
+            <placeName type="full" xml:lang="de">Alür</placeName>
+            <placeName type="sort" xml:lang="de">aluer</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">850</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Am Eschnerberg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-851">
+            <placeName type="main" xml:lang="de">Wis, mittlere</placeName>
+            <placeName type="full" xml:lang="de">Wis, mittlere / Mauren</placeName>
+            <placeName type="sort" xml:lang="de">wis, mittlere</placeName>
+            <placeName type="alternative" xml:lang="de">Mitlen Wis</placeName>
+            <location>
+              <settlement xml:lang="de">Mauren</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">851</idno>
+            <note type="sources">Nicht im Namenbuch.</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. In Nendeln (Eschen).</p>
+            </note>
+          </place>
+          <place type="R" xml:id="lub-places-852">
+            <placeName type="main" xml:lang="de">Brugg, mittlere</placeName>
+            <placeName type="full" xml:lang="de">Brugg, mittlere / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">brugg, mittlere</placeName>
+            <placeName type="alternative" xml:lang="de">Mitlen Brugg</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">852</idno>
+            <note type="sources">Nicht im Namenbuch.</note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. In Bendern (Gamprin).</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-853">
+            <placeName type="main" xml:lang="de">Seele</placeName>
+            <placeName type="full" xml:lang="de">Seele / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">seele</placeName>
+            <placeName type="alternative" xml:lang="de">Seli</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">853</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt, vermutlich im Riet.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-854">
+            <placeName type="main" xml:lang="de">Büel, underer</placeName>
+            <placeName type="full" xml:lang="de">Büel, underer</placeName>
+            <placeName type="sort" xml:lang="de">bueel, underer</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">854</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Am Eschnerberg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-855">
+            <placeName type="main" xml:lang="de">Hebenau</placeName>
+            <placeName type="full" xml:lang="de">Hebenau / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">hebenau</placeName>
+            <placeName type="alternative" xml:lang="de">Hewen Öw</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+            </location>
+            <idno type="lub-places-id">855</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-856">
+            <placeName type="main" xml:lang="de">Haidenrain</placeName>
+            <placeName type="full" xml:lang="de">Haidenrain / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">haidenrain</placeName>
+            <placeName type="alternative" xml:lang="de">Haiden Rain</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">856</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Nicht lokalisierbar.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-857">
+            <placeName type="main" xml:lang="de">Rietlisbünt</placeName>
+            <placeName type="full" xml:lang="de">Rietlisbünt</placeName>
+            <placeName type="sort" xml:lang="de">rietlisbuent</placeName>
+            <placeName type="alternative" xml:lang="de">Rietlis Pünt</placeName>
+            <location>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">857</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Am Eschnerberg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-858">
+            <placeName type="main" xml:lang="de">Krest</placeName>
+            <placeName type="full" xml:lang="de">Krest / Eschen/Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">krest</placeName>
+            <placeName type="alternative" xml:lang="de">Crist</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen/Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">858</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wieshang an der Grenze zwischen Eschen und Gamprin.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-859">
+            <placeName type="main" xml:lang="de">Weissenhorn</placeName>
+            <placeName type="full" xml:lang="de">Weissenhorn (Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">weissenhorn</placeName>
+            <location>
+              <geo>48.30501 10.16047</geo>
+              <settlement xml:lang="de">Weissenhorn</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">859</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558418"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q519677"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Weißenhorn"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4107923-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82129192"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/141920049"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Weißenhorn"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="A" xml:id="lub-places-862">
             <placeName type="main" xml:lang="de">Frischenberg (Herrschaft)</placeName>
@@ -19059,6 +19535,7 @@
             <placeName type="full" xml:lang="de">Kratzera / Gamprin</placeName>
             <placeName type="sort" xml:lang="de">kratzera</placeName>
             <placeName type="alternative" xml:lang="de">Kratzen</placeName>
+            <placeName type="alternative" xml:lang="de">Kratzern</placeName>
             <location>
               <settlement xml:lang="de">Gamprin</settlement>
               <country xml:lang="de">Liechtenstein</country>
@@ -20146,6 +20623,27 @@
               <p>Burgruine im Hinderschloss, östlich hinter dem Heraböchel. Nach archäologischen Erkenntnissen handelt es sich um die ältere der beiden Schellenberger Burgen.</p>
             </note>
           </place>
+          <place type="V" xml:id="lub-places-946">
+            <placeName type="main" xml:lang="de">Feld (Gamprin)</placeName>
+            <placeName type="full" xml:lang="de">Feld (Gamprin) / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">feld (gamprin)</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">946</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Äcker zwischen Gamprin und Ruggell.</p>
+            </note>
+          </place>
           <place type="P" xml:id="lub-places-947">
             <placeName type="main" xml:lang="de">Koblenz</placeName>
             <placeName type="full" xml:lang="de">Koblenz (Rheinland-Pfalz)</placeName>
@@ -20156,6 +20654,86 @@
               <country xml:lang="en">Germany</country>
             </location>
             <idno type="lub-places-id">947</idno>
+          </place>
+          <place type="A" xml:id="lub-places-948">
+            <placeName type="main" xml:lang="de">Chiny</placeName>
+            <placeName type="full" xml:lang="de">Chiny (Provinz Luxemburg und Département Meuse (F).)</placeName>
+            <placeName type="sort" xml:lang="de">chiny</placeName>
+            <placeName type="alternative" xml:lang="de">Chini</placeName>
+            <location>
+              <country xml:lang="de">Belgien</country>
+              <country xml:lang="en">Belgium</country>
+            </location>
+            <idno type="lub-places-id">948</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Grafschaft_Chiny">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Grafschaft Chiny, deren Vorläufer wohl die Grafschaft Yvois war, befand sich im äußersten Südwesten der belgischen Provinz Luxemburg und im Nordwesten des französischen Département Meuse. Es umfasste am Ende den größten Teil von Virton, Étalle, Florenville, Neufchâteau, Montmédy, Carignan sowie Warcq und Givet an der Maas.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-949">
+            <placeName type="main" xml:lang="de">Metz</placeName>
+            <placeName type="full" xml:lang="de">Metz (Lothringen (Grand Est))</placeName>
+            <placeName type="sort" xml:lang="de">metz</placeName>
+            <location>
+              <geo>50.17806 4.6618</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">949</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2783747"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="lub-places-951">
+            <placeName type="main" xml:lang="de">Wallerfangen (Grafschaft)</placeName>
+            <placeName type="full" xml:lang="de">Wallerfangen (Grafschaft) (Saarland/ Saarlouis)</placeName>
+            <placeName type="sort" xml:lang="de">wallerfangen (grafschaft)</placeName>
+            <placeName type="alternative" xml:lang="de">Walderfingen</placeName>
+            <placeName type="alternative" xml:lang="de">Walderfiengen</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">951</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Grafschaft_Wallerfangen">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Grafschaft Wallerfangen (lat. Comitatus Walderfinga) erstreckte sich im 10. Jahrhundert über heute deutsche, französische und luxemburgische Gebiete. Die Grafschaft ist nach dem Zentralort Wallerfangen (Vaudrevange) an der mittleren Saar benannt. Als ehemalige befestigte lothringische Provinzhauptstadt und "Hauptstadt" der Ballei Lothringen (bis 1680) blickt sie auf eine bedeutende Geschichte als Verwaltungs- und Handelsplatz zurück, bevor sie im späten 17. Jahrhundert zerstört wurde.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-952">
+            <placeName type="main" xml:lang="de">Nancy</placeName>
+            <placeName type="full" xml:lang="de">Nancy (Lothringen (Grand Est))</placeName>
+            <placeName type="sort" xml:lang="de">nancy</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">952</idno>
+          </place>
+          <place type="P" xml:id="lub-places-953">
+            <placeName type="main" xml:lang="de">Sierck-les-Bains (Sierck)</placeName>
+            <placeName type="full" xml:lang="de">Sierck-les-Bains (Sierck) (Grand Est)</placeName>
+            <placeName type="sort" xml:lang="de">sierck-les-bains (sierck)</placeName>
+            <placeName type="alternative" xml:lang="de">Syrck</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">953</idno>
           </place>
           <place type="A" xml:id="lub-places-954">
             <placeName type="main" xml:lang="de">Schwaben (Landvogtei)</placeName>
@@ -20189,6 +20767,388 @@
             <note type="description" xml:lang="de">
               <p>Schloss Altshausen in Altshausen (Landkreis Ravensburg, Oberschwaben) war die Residenz des Landkomturs der Deutschordensballei Schwaben-Elsass-Burgund.</p>
             </note>
+          </place>
+          <place type="V" xml:id="lub-places-956">
+            <placeName type="main" xml:lang="de">Wes</placeName>
+            <placeName type="full" xml:lang="de">Wes / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">wes</placeName>
+            <placeName type="alternative" xml:lang="de">Wiß</placeName>
+            <location>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">956</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wies- und Ackerland nordöstlich des Dorfes, südlich der Trenkiwesa. Örtlich identisch mit Herrawes.</p>
+            </note>
+          </place>
+          <place type="R" xml:id="lub-places-957">
+            <placeName type="main" xml:lang="de">Fallagass</placeName>
+            <placeName type="full" xml:lang="de">Fallagass / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">fallagass</placeName>
+            <placeName type="alternative" xml:lang="de">Vallen Gass</placeName>
+            <location>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">957</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Strasse nördlich des Dorfes, zwischen Fallagasswesa und Dieplatza, gegen die Landesgrenze zu Vorarlberg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-958">
+            <placeName type="main" xml:lang="de">Bäderlings Au</placeName>
+            <placeName type="full" xml:lang="de">Bäderlings Au / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">baederlings au</placeName>
+            <placeName type="alternative" xml:lang="de">Bederlix Aw</placeName>
+            <location>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">958</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-962">
+            <placeName type="main" xml:lang="de">Oberau</placeName>
+            <placeName type="full" xml:lang="de">Oberau / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">oberau</placeName>
+            <placeName type="alternative" xml:lang="de">Oberow</placeName>
+            <location>
+              <geo>47.06215 9.48342</geo>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">962</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10348296"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Felder im Oberfeld, nördlich vom Brüel, zwischen Neugüeter und Rheinstrasse.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-963">
+            <placeName type="main" xml:lang="de">Breit Bünt</placeName>
+            <placeName type="full" xml:lang="de">Breit Bünt / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">breit buent</placeName>
+            <placeName type="alternative" xml:lang="de">Praite Pündt</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">963</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Gut bei den Hampfländer.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-964">
+            <placeName type="main" xml:lang="de">Anaresch</placeName>
+            <placeName type="full" xml:lang="de">Anaresch / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">anaresch</placeName>
+            <placeName type="alternative" xml:lang="de">Arasch</placeName>
+            <location>
+              <geo>47.057 9.4895</geo>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">964</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10348302"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Gebiet im Oberfeld.</p>
+            </note>
+          </place>
+          <place type="H" xml:id="lub-places-965">
+            <placeName type="main" xml:lang="de">Dreiangelbach</placeName>
+            <placeName type="full" xml:lang="de">Dreiangelbach / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">dreiangelbach</placeName>
+            <placeName type="alternative" xml:lang="de">Drey Angel Grabn</placeName>
+            <location>
+              <geo>47.06816 9.49617</geo>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">965</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10348280"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Bachlauf am Südrand des Kappele; Fortsetzung des Oberaubachs. Örtlich identisch mit Kappelebach.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-968">
+            <placeName type="main" xml:lang="de">Zweifach Maden</placeName>
+            <placeName type="full" xml:lang="de">Zweifach Maden / Balzers</placeName>
+            <placeName type="sort" xml:lang="de">zweifach maden</placeName>
+            <placeName type="alternative" xml:lang="de">Zweiffache Maden</placeName>
+            <location>
+              <settlement xml:lang="de">Balzers</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">968</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Gut auf Prad.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-969">
+            <placeName type="main" xml:lang="de">Hampferen</placeName>
+            <placeName type="full" xml:lang="de">Hampferen / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">hampferen</placeName>
+            <placeName type="alternative" xml:lang="de">Hannferin</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">969</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Auf Mösma über Eschen gelegen.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-971">
+            <placeName type="main" xml:lang="de">Ronafeld</placeName>
+            <placeName type="full" xml:lang="de">Ronafeld / Schellenberg/Mauren</placeName>
+            <placeName type="sort" xml:lang="de">ronafeld</placeName>
+            <placeName type="alternative" xml:lang="de">Ronderfeldt</placeName>
+            <location>
+              <settlement xml:lang="de">Schellenberg/Mauren</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">971</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Kleiner, steiler Wieshang im Hinderschloss, südlich unter dem Zweier, grösstenteils auf Maurer Gemeindegebiet.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-972">
+            <placeName type="main" xml:lang="de">Zweier</placeName>
+            <placeName type="full" xml:lang="de">Zweier / Schellenberg</placeName>
+            <placeName type="sort" xml:lang="de">zweier</placeName>
+            <placeName type="alternative" xml:lang="de">Zweyer</placeName>
+            <location>
+              <geo>47.23132 9.55382</geo>
+              <settlement xml:lang="de">Schellenberg</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">972</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/10347633"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wieshang im Hinderschloss.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-973">
+            <placeName type="main" xml:lang="de">Bonzenhalden</placeName>
+            <placeName type="full" xml:lang="de">Bonzenhalden / Schellenberg</placeName>
+            <placeName type="sort" xml:lang="de">bonzenhalden</placeName>
+            <placeName type="alternative" xml:lang="de">Buntzehalen</placeName>
+            <location>
+              <settlement xml:lang="de">Schellenberg</settlement>
+            </location>
+            <idno type="lub-places-id">973</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. In der Nähe der Oberen Burg.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-974">
+            <placeName type="main" xml:lang="de">Negelesplätzle</placeName>
+            <placeName type="full" xml:lang="de">Negelesplätzle / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">negelesplaetzle</placeName>
+            <placeName type="alternative" xml:lang="de">Negelis Pletz</placeName>
+            <location>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">974</idno>
+          </place>
+          <place type="V" xml:id="lub-places-977">
+            <placeName type="main" xml:lang="de">Rain</placeName>
+            <placeName type="full" xml:lang="de">Rain / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">rain</placeName>
+            <placeName type="alternative" xml:lang="de">Rein</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">977</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiesen und Häuser im Dorf Eschen, im Hinderdorf am westlichen Hang des Gebiets Renkwiler.</p>
+            </note>
+          </place>
+          <place type="V" xml:id="lub-places-978">
+            <placeName type="main" xml:lang="de">Kappiliwingert</placeName>
+            <placeName type="full" xml:lang="de">Kappiliwingert / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">kappiliwingert</placeName>
+            <placeName type="alternative" xml:lang="de">Cappilen Wingarten</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">978</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wohngebiet im Dorf Eschen, auf dem Rofaberg, östlich ob der Rofabergstrasse.</p>
+            </note>
+          </place>
+          <place type="A" xml:id="lub-places-979">
+            <placeName type="main" xml:lang="de">Allgäu</placeName>
+            <placeName type="full" xml:lang="de">Allgäu</placeName>
+            <placeName type="sort" xml:lang="de">allgaeu</placeName>
+            <placeName type="alternative" xml:lang="de">Olgew</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">979</idno>
+            <note type="description" xml:lang="de">
+              <p>alpine Landschaft in Bayern und Baden-Württemberg</p>
+            </note>
+          </place>
+          <place type="P" xml:id="lub-places-980">
+            <placeName type="main" xml:lang="de">Winterthur</placeName>
+            <placeName type="full" xml:lang="de">Winterthur</placeName>
+            <placeName type="sort" xml:lang="de">winterthur</placeName>
+            <placeName type="alternative" xml:lang="de">Wintertheur</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">980</idno>
+          </place>
+          <place type="P" xml:id="lub-places-981">
+            <placeName type="main" xml:lang="de">Trient</placeName>
+            <placeName type="full" xml:lang="de">Trient</placeName>
+            <placeName type="sort" xml:lang="de">trient</placeName>
+            <placeName type="alternative" xml:lang="de">Trienndt</placeName>
+            <location>
+              <country xml:lang="de">Italien</country>
+              <country xml:lang="en">Italy</country>
+            </location>
+            <idno type="lub-places-id">981</idno>
+          </place>
+          <place type="P" xml:id="lub-places-982">
+            <placeName type="main" xml:lang="de">Schnifis</placeName>
+            <placeName type="full" xml:lang="de">Schnifis (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">schnifis</placeName>
+            <placeName type="alternative" xml:lang="de">Schnüfis</placeName>
+            <location>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">982</idno>
           </place>
         </listPlace>
       </settingDesc>
@@ -20237,7 +21197,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-05-07T12:39:43+02:00">teiHeader was automatically produced from the database 2026-05-07T12:39:43+02:00</change>
+      <change when="2026-06-08T11:23:49+02:00">teiHeader was automatically produced from the database 2026-06-08T11:23:49+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

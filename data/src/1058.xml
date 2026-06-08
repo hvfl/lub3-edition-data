@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1058">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bestätigung über den Empfang von Lehengütern in Mösma</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Vgl. den Lehenbrief in &lt;ref type="identifier" target="lub-objects-486"&gt;AT-TLA, U I 4576&lt;/ref&gt;.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1058">CH-BAC, 015.2473</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 1. Juli 1525 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ambrosi Herbert und seine Frau Ursula Abrecht, wohnhaft in Mösma am Eschnerberg, bekennen, dass Abt Theodul Schlegel und der ganze Konvent des Klosters St. Luzi in Chur ihnen den Hof zu Mösma am Kapf, den vorher Lienhart am Kapf innehatte, sowie den dortigen Weingarten gegen einen jährlichen Zins von 7 Scheffel Weizen, 5 Scheffel Gerste und den halben Weinertrag auf Lebzeit als Lehen verliehen haben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-172">Gerste</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-472">liblehen</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-658">Herbert, Ambrosius</persName>
+          <date when="1525-07-01">1. Jul 1525</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-659">Abrecht, Ursula</persName>
+          <date when="1525-07-01">1. Jul 1525</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-419">Meier, Hans (1)</persName>
+          <date when="1525-07-01">1. Jul 1525</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1525-07-01">1. Jul 1525</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2473-0001.jpg" xml:id="lub-media-3933" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3933" n="1"/><lb n="1"/>Wir nachbenempten <persName ref="lub-actors-658">Ambrosi Herwert</persName> unnd <persName ref="lub-actors-659">Ursula Abrechtin</persName>, sin efrow, seßhafft zü <placeName ref="lub-places-37">Mußna</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, bekennen unnd thünd kund aller 
+<lb n="2"/>mengklich mit dem brieff, das wir mit gütter zyttiger vorbetrachtung unns und unnsern elichen kinden, so wir yetzund by ain andern habend oder 
+<lb n="3"/>der uns gott furohin noch by ain andern berirtt, und unnsern kinds kinden zü ainem rechten liblechen und nach liblechens recht, sitt und gewonhait 
+<lb n="4"/>von dem erwurdigen herren <persName ref="lub-actors-657">Theodolo</persName>, appt, und gantzen convent gemainklich des <orgName ref="lub-actors-337">gotzhus zü Sant Lutzin</orgName>, <orgName ref="lub-actors-1191">Premonstrater</orgName> ordens, ob der statt <placeName ref="lub-places-102">Chur</placeName> 
+<lb n="5"/>glegen, unnsern gnedigen und günstigen lieben herren, recht und redlich bestanden und entpfangen habend nach unsers inhabenden und besigolten 
+<lb n="6"/>liblechen brieffs, des darumb mit dato diß brieffs mit glicher maynung wyset, lutt und sag, diß nachgeschriben ir und irs gotzhus aignen 
+<lb n="7"/>gütter, namlich den hoff ze <placeName ref="lub-places-37">Mußna</placeName> am <placeName ref="lub-places-257">Kapff</placeName>, zü dem ersten hus, hoff, stadel und hoffraittin, acker, wisen und die punthen umb das hus mit 
+<lb n="8"/>sampt den riettmädern, alles als zyl und marckstain ußwysent, an allen ortten, mit grund, mit gratt, mit steg, mit weg, mit holtz, mit feld etc., 
+<lb n="9"/>als dann der liblechen brieff clarlich innhalt und ußwyßt, und schlechtenklich mit aller zü gehörd, so darzü gehören sol und mag, und <persName ref="lub-actors-1157">Lienhart</persName> 
+<lb n="10"/>am <placeName ref="lub-places-257">Kapff</placeName> vor uns ingehept hatt, nichtzig ußgenomen noch hindan gesetzt, alles mit allen fruchten und nutzen, begriffungen und gütten 
+<lb n="11"/>gewonhaitten, also und mit söllichem rechten geding, das wir, unnsere kind und kinds kind die obgeschribnen stucke gütter mit allen rechten und 
+<lb n="12"/>zügehörungen, als obstat, zü ainem liblechen und nit furo söllend und mögend innhaben, nützen, niessen, bruchen, buwen, besetzen und ent
+<lb break="no" n="13"/>setzen, wie uns fügt und eben ist, unnd aber ouch die gemelten gütter in eren und rechten nützlichen buwen uffhallten und haben, alles nach
+<lb n="14"/>liblechens recht, sitt und gewonhaitt, unnd mit namen den vorgenantten appt und convent und allen iren nachkomen nun hinenthin jerlichs 
+<lb n="15"/>und ains jeden järs allweg besonnders uff <date when="--02-02">unnser lieben frowen tag ze der liechtmeß</date> ald in den nechsten achttagen darnach ze ainem 
+<lb n="16"/>rechten liblechen zins richten, geben und bezalen siben schöffel waitzen und funff schöffel gersten korn, gutz, sabers, wolgewannets kaüff
+<lb break="no" n="17"/>mans gütt <placeName ref="lub-places-10">Veldkircher</placeName> meß und das zü irs gotzhus amptman oder aman, wer je der ist, hannden gen <placeName ref="lub-places-36">Bendren</placeName> antwurtten, on allen
+<lb n="18"/>abgang, verlurst, costen und schaden, und gantz on all irrung, intrag und widerred. Item wytter und mer so habend wir von inen ouch 
+<lb n="19"/>bestanden und entpfangen in söllicher form und mainung, als obbegriffen ist, ain wingartten, ouch in obbestimptem hoff ze <placeName ref="lub-places-37">Mußna</placeName> glegen 
+<lb n="20"/>und vergriffen, mit aller siner zügehörd und mit den rechten, als die andern obgemelten gütter habend unnd mit sampt dem bw, so dann 
+<lb n="21"/>ettlich mayer dar inn zegeben schuldig sind. Unnd darvon söllend wir inen und iren nachkomen alle jar jerlichs ye zu herpst under 
+<lb n="22"/>der runnen richten und geben den halbentail alles des wins, so jerlichs in obgerürtem wingartten gewachsen ist. Den selben söllent 
+<lb n="23"/>sy oder irs gotzhus amptlüt da selbs entpfachen und nemen unnd söllent aber den gerürten wingartten och in gütten eren und 
+<lb n="24"/>rechten zimlichen buwen hallten und haben, wie die andern gütter, als obbegriffen ist. Welches jars aber wir, unser kind und kinds 
+<lb n="25"/>kinder inen und iren nachkomen den obgestimpten liblechen zinß oder den halbtail win nit richtind, zinsettind, antwurttend und gebind 
+<lb n="26"/>uff zyl und tag und in mainung, wie obstat, oder iren gütten willen darumb hetten oder ouch die obgeschribnen gütter alle nit in 
+<lb n="27"/>gütten eren und buwen hieltind, als oblut, so sind und söllen sin die obgeschribnen gütter alle mit sampt hus, hoff, stadel und hoffraitte, 
+<lb n="28"/>mit allen rechten und zügehörungen und allem dem, daruff und daran gebuwen und erbessert, inen und iren nachkomen widerumb zu 
+<lb n="29"/>hannden und gwaltsammi gantz lodigklich gefallen und zinß fellig worden, die inzu haben, zenutzen und zü niessen, ze besetzen und 
+<lb n="30"/>entsetzen, wie inen fügklich ist, nach irem nutz und gefallen, one mengklichs intrag und widerrred. Hieruff so söllent sy und ir 
+<lb n="31"/>nachkomen unns emenschen, unsern kinden und kinds kinden söllicher liblechenschafft und der gütter obgemelt güt, getrw weren 
+<lb n="32"/>und versprecher sin gegen mengklichem, an gaistlichen und weltlichen gerichten, wo, wie, wen oder gegen wem wir des nottufftig 
+<lb n="33"/>sind ald wurdint, allweg in irem oder irer nachkomen aigen costung und gantz on unsern schaden, zü gütten truwen, one ge<unclear>ver</unclear>d. 
+<lb n="34"/>Welthind aber wir, genantten emenschen, oder unnsere kind und kinds kind die obgeschribnen stuck gütter, unser liblechen, ains oder 
+<lb n="35"/>mer uber kurtz oder lang zytt yemant versetzen ald zü koffen geben, das söllent wir inen oder iren nachkomen ain monat vor
+<lb break="no" n="36"/>hin zu wussen und kund thun und vor mengklichem anbietten und, ob sy darzu stand und thün wellend, ain pfund pfennig
+<lb n="37"/>necher dann yemandts sunst geben und gunnen. Welthen aber sy in monats frist nach unserm anbietten unsere recht nit koffen 
+<lb n="38"/>noch verpfenden, so mögent wir dannen hin unsere recht verkoffen oder versetzen, wem oder wohin wir wellen, doch inen und iren 
+<lb n="39"/>nachkomen an iren gerechtigkaitten, zinsen und liblechen in all weg unschedlich und unvergriffenlich. Unnd des zu warer urkhund 
+<lb n="40"/>so haben wir, obgenantten <persName ref="lub-actors-658">Ambrosi Herwert</persName> und <persName ref="lub-actors-659">Ursula Abrechtin</persName>, sin efrow, mit flys erpetten den ersamen und wysen 
+<lb n="41"/><persName ref="lub-actors-419">Hanns Mayer</persName>, der zytt aman am <placeName ref="lub-places-16">Eschnerberg</placeName>, das er sin aigen insigel fur uns, unnsere kind und kinds kind, doch im und sinen 
+          <lb n="42"/>erben on schaden, offenlich gehengkt hat an disen brieff, der geben ist <origDate when="1525-07-01">sampstags nechst nach Petri und Pauli apostoli als 
+<lb n="43"/>man zalt nach gepurt Cristi funffzechen hundert zwaintzig und funff jär</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

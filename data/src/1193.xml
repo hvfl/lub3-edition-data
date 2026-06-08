@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1193">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Das Landgericht von Rankweil contra die Oberamtsleute von Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1193">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 80v-81r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 12. Oktober 1596 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Landrichteramtsverwalter zu Rankweil, Hans Frick schreibt an Dr. Christoph Faber, österr. Advokat und Prokurator am kaiserlichen Reichskammergericht zu Speyer, wegen eines kaiserlichen Poenalmandats gegen die Oberamtsleute von Vaduz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1596-10-12">12. Okt 1596</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__80v-81r-0001.jpg" xml:id="lub-media-3175" source="1596-10-12-buch-walgau-8-32-kopie-80v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__80v-81r-0002.jpg" xml:id="lub-media-3176" source="1596-10-12-buch-walgau-8-32-kopie-81r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Landrichterambtsverwalter zu  
+<lb n="2"/><orgName ref="lub-actors-518">Ranckhweil</orgName> wegen der sulzischen  
+<lb n="3"/><orgName ref="lub-actors-687">Oberambtleuth</orgName> zu <placeName ref="lub-places-7">Vaduz</placeName>. 
+</p>
+        <p><lb n="4"/>Was an unns, <persName ref="lub-actors-174">Hanns Frickh</persName>, verwalter des  
+<lb n="5"/>lanndtrichterambts zu <orgName ref="lub-actors-518">Ranckhweil</orgName> wegen  
+<lb n="6"/>der gräfischen schulzischen <orgName ref="lub-actors-687">Oberambtleuth</orgName>  
+
+<lb n="7"/>zu <placeName ref="lub-places-7">Vaduz</placeName> unnd deren wider <orgName ref="lub-actors-172">Österreich</orgName> und be
+<lb break="no" n="8"/>melts <orgName ref="lub-actors-518">Lanndtgericht</orgName> vor disem außgezognen 
+<lb n="9"/>poenal mandats gelanngen lassen, das habt  
+<lb n="10"/>ir aus den einschlüssen merers zuvernemen.  
+<lb n="11"/>Wann wir dann nit wissen mögen, ob solliches  
+<lb n="12"/>poenalmandats und angehenngter citation  
+<lb n="13"/>halber vor disem (weil es so vor lannger  
+<lb n="14"/>zeit außgeferttigt) bey dem kaiserlichen <orgName ref="lub-actors-521">Camer
+<lb break="no" n="15"/>gericht</orgName> von gegenthail ichtes fürkhomen, 
+<lb n="16"/>alß haben wir euch hierüber hierüber ver
+<lb break="no" n="17"/>nemen wellen, unnd bevelchen euch hier
+<lb break="no" n="18"/>auf inn der römisch kayserlichen mayestät etc., unnsers aller
+<lb break="no" n="19"/>gnedigisten herrn, namen, das ir unns diser 
+<lb n="20"/>sachen halber eueren fürderlichen bericht und guetachten  
+<lb n="21"/>zuekhomen lasset, ir sollet auch doctor <persName ref="lub-actors-176">Lorenz  
+<lb n="22"/>Wildthalm</persName> neben übersenndung der bey
+<lb break="no" n="23"/>lagen darüber hören, unnd unns alßdann
+<lb n="24"/>desselben bericht neben dem eurigen  
+<lb n="25"/>mitsambt den beischlüssen wider fürder
+<lb break="no" n="26"/>lichen zuekhomen lassen, daran beschieht etc.
+<lb n="27"/>Datum, den <origDate>12. octobris anno etc. 96</origDate>. 
+</p>
+        <p><lb n="28"/>An doctor <persName ref="lub-actors-175">Christoffen Faber</persName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-445">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lehen in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-445">AT-VLA, Blumenegg Rh, Schachtel 1-1-1</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 21. September 1609 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, Reste aufgedrückt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar von Ramschwag schreibt an Georg Abt des Klosters Weingarten, dass er von den Verhandlungen des Abtes mit dem Johanniterorden in Feldkirch erfahren habe. Ramschwag bittet den Abt, wegen seiner eigenen Lehen in der Grafschaft Vaduz ebenfalls zu verhandeln und übersendet deshalb seine Spezifikation und Güterschätzung. Die übersandte Schätzung könne der Abt bei dem Ammann zu Triesen überprüfen. Wegen der Lehen zu Bendern, derentwegen es im vergangenen Jahr Streit mit dem Prälat zu Toggenburg gegeben hat, bietet Ramschwag seine Verkaufsvermittlung an.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1609-09-21">21. Sep 1609</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_schachtel_1_1-1-0001.jpg" xml:id="lub-media-2612" source="1609-09-21-vla-reichsherrschaft-blumenegg-1-44.jpg" corresp="A"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_schachtel_1_1-1-0002.jpg" xml:id="lub-media-2613" source="1609-09-21-vla-reichsherrschaft-blumenegg-1-45-kopie.jpg" corresp="A"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_schachtel_1_1-1-0003.jpg" xml:id="lub-media-2614" source="1609-09-21-vla-reichsherrschaft-blumenegg-1-45.jpg" corresp="A"/>
+    <graphic url="at-vla_blumenegg_reichsherrschaft_schachtel_1_1-1-0004.jpg" xml:id="lub-media-2615" source="1609-09-21-vla-reichsherrschaft-blumenegg-1-46-kopie-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Hochehrwüwdiger, in gott vatter gnediger  
+<lb n="2"/>herr. Eur gnaden sein mein freindtwillige dienst  
+<lb n="3"/>nach bestem vermögen zuvor beraith. Gnediger  
+<lb n="4"/>herr. 
+<lb n="5"/>Auf euer gnaden vom <date when="1609-09-04">4. septembriß negsthin</date> zuegethan  
+<lb n="6"/>schreiben hab ich den 10. dito mit aller reverentz wol  
+<lb n="7"/>empfangen. Darinnen euer gnaden willen und mainung  
+<lb n="8"/>auf mein zuvor gethonnes schreiben, namlichen daß  
+<lb n="9"/>euer gnaden mit dem loblichen <orgName ref="lub-actors-2671">Johanniterorden</orgName> wegen dessen  
+<lb n="10"/>zue <placeName ref="lub-places-10">Veldkirch</placeName> haben der behaußung und der darzue  
+<lb n="11"/>gehörigen pertinentien in etwaß handlung stehen. 
+<lb n="12"/>Dasselbig verhoffentlich fruchtbarlich abzugehen  
+<lb n="13"/>zuverhoffen seye, zue verkauffen. Wie dann dießelbig  
+<lb n="14"/>zusamenkunfft durch die darzue deputierten heren  
+<lb n="15"/>mit eheisten für hand soll genummen werden ab
+<lb break="no" n="16"/>leßlich vernohmmen. Darzue euer gnaden ich vil glückh 
+<lb n="17"/>und hail winßchen thuer. 
+<lb n="18"/>Entgegen es euer gnaden nit zuegegen sein, mit mir wegen  
+<lb n="19"/>meiner in der herrßchafft <placeName ref="lub-places-7">Vaduz</placeName> habenden lechen
+<lb break="no" n="20"/>gueter ebenmäsige handlung zue pflegen, und 
+<lb n="21"/>damit der augenßchein baider handlungen halb  
+<lb n="22"/>gleich zuemahl eingenohmen werden möge. Hier
+<lb break="no" n="23"/>über euer gnaden ain specification und anschlags 
+<lb n="24"/>meiner güeter unverlengt gewartig ßein wellen. 
+<lb n="25"/>Hierüber soll euer gnaden ich nit verhalten, das mein  
+<lb n="26"/>mainung und willen noch ist, wie zuvor mit euer gnaden  
+<lb n="27"/>zuehandlen, wie dann ich meiner anglegnen notturfft  
+<lb n="28"/>nach gelts höchlichen notwenndig bin. 
+</p>
+        <p><lb n="29"/>Derowegem schickh euer gnaden ich nach begertem bericht  
+<lb n="30"/>hiemit ain ordentlich specificierten an- und überschlag  
+<lb n="31"/>alles desjennigen, so mir lechensweiß zu <placeName ref="lub-places-79">Drissen</placeName>  
+<lb n="32"/>und am <placeName ref="lub-places-41">Berg</placeName> von iro hochfürstlich gnaden bischof zu <placeName ref="lub-places-175">Chuer</placeName>  
+<lb n="33"/>verlichen, verschriben und aigenthumblich einverleibt,  
+<lb n="34"/>auch zuegehörig sambt glaubwürdigen beilagen  
+<lb n="35"/>copeien aller besigleten lechen und consenzbriefen. 
+<lb n="36"/>Darinnen sich euer gnaden allerdings gnedig zuversehen  
+<lb n="37"/>haben, wie dann euer gnaden auf gnedige verordnung  
+<lb n="38"/>bei dem amman zue <placeName ref="lub-places-79">Drissen</placeName>, oder bei denjennigen,  
+<lb n="39"/>so in deme erfahren und mit umbgangen, solliches in  
+<lb n="40"/>gruntlichen bericht beibringen können. Im fahl  
+<lb n="41"/>der an- oder überschlag iren gnaden zu hoch fallen  
+<lb n="42"/>wurde, will ich mich gebürender massen (damit  
+<lb n="43"/>euer gnaden das ierig und ich daß meinig haben) schleissig  
+<lb n="44"/>durch verstendige persohnen, die umb solches guets  
+<lb n="45"/>wissens haben und tragen, weißen lassen, wie dann  
+<lb n="46"/>auch euer gnaden noch in gnedigem wissen werden haben,  
+<lb n="47"/>daß dieselbigen ain gueter kauf an meiner behaußung  
+<lb n="48"/>gegen mir ertroffen. Verhofentlichen jetzo umb etwas  
+<lb n="49"/>hierinnen mich widerumb geniessen zu lassen. 
+</p>
+        <p><lb n="50"/>Zue deme gnediger herr, so ist der andern lechen  
+<lb n="51"/>halben es noch in anhang zue erleuterung der sachen,  
+<lb n="52"/>welches iren gnaden noch in frißcher gedechtnuß haben werden  
+<lb n="53"/>betreffende die, so iren gnaden mir ain fürßchrifft  
+<lb n="54"/>an herrn prelaten zue <orgName ref="lub-actors-451">Roggenburg</orgName> vergangner  
+<lb n="55"/>jahren mittailt, wie merß dan der herr zu <placeName ref="lub-places-36">Benderen</placeName>  
+
+<lb n="56"/>noch auß der hanndt zue nehmen begerth, verhofent
+<lb break="no" n="57"/>lich dasselbige zue gueter entschafft gebracht 
+<lb n="58"/>werde, könt euer gnaden ebenfals ich auch keuflichen  
+<lb n="59"/>innhenndig machen. Wie dann von solchem künfftig  
+<lb n="60"/>mit euer gnaden selbst personlich zue reden ist und sein  
+<lb n="61"/>wirdt, und mit schreiben dißmal nit außfüerlich sein kan. 
+<lb n="62"/>Darzue euer gnaden gnedige hilf thun könnten. 
+<lb n="63"/>Waß dann hierüber euer gnaden auf dises, mein über
+<lb break="no" n="64"/>schickhten an- und überschlag sambt den beilagen 
+<lb n="65"/>weiters in gnedigem vorhaben sein und bedenckhen  
+<lb n="66"/>haben wurden, oder wie die sachen vernner dar
+<lb break="no" n="67"/>innen zue handlen fürzuenehmen sein möchten. Mag 
+<lb n="68"/>mich euer gnaden im selbigen zue vernnerer nach
+<lb break="no" n="69"/>richtung gnedig und fürderlich wissen lassen. 
+<lb n="70"/>Der zuversicht, euer gnaden und ich werden zue ainem  
+<lb n="71"/>gueten mitel sowol auch zue ainem enndt hier
+<lb break="no" n="72"/>inern gerathen. Solches alles hab ich auf iren 
+<lb n="73"/>gnaden begehren zue berichten nit underlassen sollen,  
+<lb n="74"/>damit solches werckh bald (auß bewegenden ursachen)  
+<lb n="75"/>für die hand genomen weden möchte. Hiemit euer gnaden  
+<lb n="76"/>und unß alle in die allmacht gottes und Maria  
+<lb n="77"/>treülich bevelchende. Actum, im schloß <placeName ref="lub-places-13">Gueten
+<lb break="no" n="78"/>berg</placeName>, den <origDate>21. tag septembris anno etc. 1609</origDate>.
+<lb n="79"/><persName ref="lub-actors-166">Caspar von Ramschwag</persName> 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Dem hochwürdigenn in gott vattern  
+<lb n="2"/>unnd herren, herren <persName ref="lub-actors-193">Georgen</persName> erwelten  
+<lb n="3"/>und bestethen abbte des würdigen gots
+<lb break="no" n="4"/>hauß <placeName ref="lub-places-68">Weingarten</placeName>, meinem gnedigen herrn.
+<lb n="5"/><placeName ref="lub-places-68">Weingarten</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

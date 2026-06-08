@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1051">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Präsentation von Aristoteles Düntel als Pfarrer von Schaan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1051">CH-BAC, 015.2475</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 3. Juli 1525 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten.</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Domdekan Donat Iter und das ganze Domkapitel Chur präsentieren dem Churer Bischof Paul Ziegler den Priester Aristoteles Düntel aus Nenzing als neuen Inhaber der Pfarrpfründe Schaan, die durch den Tod von Jakob Frey freigeworden ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-728">Iter, Donat</persName>
+          <date when="1525-07-03">3. Jul 1525</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-813">Ziegler, Paul</persName>
+          <placeName ref="lub-places-102">Chur</placeName>
+          <date when="1525-07-03">3. Jul 1525</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2475-0001.jpg" xml:id="lub-media-3934" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3934" n="1"/><lb n="1"/>Reverendissimo in Christo patri et domino, domino <persName ref="lub-actors-813">Paulo</persName>, dei et apostolice sedis gracia episcopo <placeName ref="lub-places-175">Curiensi</placeName>, vel eius in spiritualibus vicario generali <persName ref="lub-actors-728">Donatus Iter</persName>, decanus, 
+<lb n="2"/>totumque capitulum ecclesie maioris <placeName ref="lub-places-102">Curiensis</placeName> reverencie et obediencie debitam exhibicionem. Ad <placeName ref="lub-places-212">ecclesiam parrochialem Sancti Laurency</placeName> in <placeName ref="lub-places-53">Schan</placeName> seu eius perpetuam 
+<lb n="3"/>vicariam, vestre <placeName ref="lub-places-175">Curiensis</placeName> diocesis, nostro capitulo incorporatam et unitam et cuius collacio, presentacio seu quevis alia disposicio ac provisio ad nos nostrumque capitulum 
+<lb n="4"/>prefatum pluro jure pertinere dinoscitur, per obitum quondam domini <persName ref="lub-actors-398">Jacobi Fry</persName>, immediati eiusdem possessoris, vacantem, honorabilem virum, dominum 
+<lb n="5"/><persName ref="lub-actors-680">Aristotelem Thüntel</persName> de <placeName ref="lub-places-43">Nenntzigen</placeName>, presbyterum vestre prefate diocesis, nobis benemeritum, vestre reverendissimae paternitati pro plebano seu perpetuo vicario jamfate ecclesie in <placeName ref="lub-places-53">Schan</placeName> presentandum duximus 
+<lb n="6"/>et presencium tenore presentamus, cum et pro eodem supplicantes, ut eundem ad dictam ecclesiam seu perpetuam vicariam in <placeName ref="lub-places-53">Schan</placeName> auctoritate vestra ordinaria investire 
+<lb n="7"/>dignemini ac instituere, facientes sibi de omnibus et singulis fructibus, redditibus, proventibus, juribus et obvencionibus plenarie ac integre responderi, 
+<lb n="8"/>adhibitis in his omnibus et singulis debitis, solitis et consuetis sollennitatibus. In quorum omnium et singulorum fidem et testimonium premissorum presentes 
+          <lb n="9"/>litteras inde fieri nostrique capituli sigilli jussimus et fecimus appensione communiri. Datum et actum <placeName ref="lub-places-102">Curie</placeName> in nostro capitulo <origDate when="1525-07-03">anno domini millesimo quingentesimo 
+<lb n="10"/>vigesimo qu<unclear>in</unclear>to die tercia mensis julii indictione tredecima</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

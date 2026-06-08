@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1227">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab Gütern in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1227">CH-BAC, 015.2721</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 23. Mai 1547 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Simon Wohlwend von Ruggell, seine Frau Katharina Frey, sein Bruder Bernhard, ebenfalls wohnhaft in Ruggell, und dessen Frau Katharina Schuhmacher verkaufen einen Zins von 4 Gulden ab einem Gut und einem Acker in der Wes sowie einem Acker in Bäderlings Au in Ruggell an Jörg Feuerstein, Pfarrer zu Bendern, den Bevollmächtigten des Klosters St. Luzi in Chur.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-342">Kauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1666">Wohlwend, Simon</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2669">Frey, Katharina</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1664">Wohlwend, Bernhard</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2670">Schuhmacher, Katharina</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1547-05-23">23. Mai 1547</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2721-0001.jpg" xml:id="lub-media-3925" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3925" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-1666">Simon Wollwen</persName> von <placeName ref="lub-places-2">Ragell</placeName>, und ich, <persName ref="lub-actors-2669">Katherina Freyin</persName>, sein eeliche haußfrowe, unnd mit uns baiden in gleychem fal ich, <persName ref="lub-actors-1664">Bernhart 
+<lb n="2"/>Wolwen</persName>, auch daselbs zü <placeName ref="lub-places-2">Ragell</placeName>, vorgemelts <persName ref="lub-actors-1666">Simon Wolwens</persName> brüder, unnd ich, <persName ref="lub-actors-2670">Katherina Schüchmacherin</persName>, sein eeliche haußfrowe, bekenn
+<lb break="no" n="3"/>en hier inn ainhelliglichen ganntz offennlich für uns, all unnser erben und nachkumen unnd thüent khunt allermennglich mit dißem brieff,
+<lb n="4"/>dz wir mit veraintem güttem willen wolbedacht, sonder mit hanndt des ersamen weyßen <persName ref="lub-actors-817">Michaell Graen</persName>, der zeit unnserer gnedigen 
+<lb n="5"/>herschafft <placeName ref="lub-places-11">Schellenberg</placeName> aman, recht unnd redlich verkoufft unnd zu khoffen geben haben unnd geben ouch jetzo mitkrafft diß brieffs 
+<lb n="6"/>dem würdigen unnd gaistlichen herrn <persName ref="lub-actors-450">Jergen Föuirstein</persName>, der zeit pfarher zü <placeName ref="lub-places-36">Benndern</placeName>, innamen unnd von wegen als verordneter unnd volmnecht
+<lb break="no" n="7"/>iger gwalthaber des wirdigen gotzhauß <orgName ref="lub-actors-337">Sanct Luci</orgName> ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <orgName ref="lub-actors-1191">Praemonstrater</orgName> ordens, unnd allen der selbigen nachkhummen vermelts
+<lb n="8"/>gotzhauß namlich vier guldin in mintz, jeden zü sechtzig kreytzer gerechnet, alles gütter unnd genemer <placeName ref="lub-places-101">Costenntzer</placeName> mintz <placeName ref="lub-places-10">Veldtkircher</placeName> 
+<lb n="9"/>werunnge, rechts järlichs ewigs zeins unnd pfening geltzs von, ußer unnd abe unnseren aignen stuck unnd güettern, des ersten ain stuck 
+<lb n="10"/>güt, genannt die <placeName ref="lub-places-956">Wiß</placeName>, ain seit an die <placeName ref="lub-places-957">Vallen Gaß</placeName>, zür anderen an <persName ref="lub-actors-2672">Jos Grawen</persName> wiß, so genanter köffer innhat, zür dritten an <persName ref="lub-actors-286">Gretha Hö
+<lb break="no" n="11"/>wina</persName> wiß und zür vierten seiten an <persName ref="lub-actors-2674">Haug Wolwend</persName> hofstatt, idem mer ab ainem acker in der obgenanten <placeName ref="lub-places-956">Wiß</placeName> gelegen, ain seit ann
+<lb n="12"/><persName ref="lub-actors-2673">Gretha Höwina</persName> wiß, zür anderen an <persName ref="lub-actors-2675">Otmar Wolwen</persName>, zür dritten an <persName ref="lub-actors-2674">Haug Wolwen</persName> hofstatt, zür vierten an <persName ref="lub-actors-2677">Jerg Künden</persName> güth unnd 
+<lb n="13"/>an das <orgName ref="lub-actors-2671">Sant Johannßer Hauß zü Veltkirch</orgName> güth, item mer ain acker in <placeName ref="lub-places-958">Bederlix Aw</placeName> gelegen, zü zwayen seyten an <persName ref="lub-actors-2179">Hainrich Erins</persName> güth, 
+<lb n="14"/>zür dritten an <persName ref="lub-actors-932">Hanns</persName> unnd <persName ref="lub-actors-613">Jacob Büchels</persName> acker unnd zür vierten seyten an <persName ref="lub-actors-1271">Hanns Erins genanth Ülmans</persName> acker, unnd alles ab grundt, 
+<lb n="15"/>gradt, wunn, wayd, pomen, zweyg, stock, stein, gesteüdt, gereudt, gengen, stegen und wegen unnd gemainlich ab allen andern irenn 
+<lb n="16"/>rechten unnd zügehörden, benenten unnd unbenenten, unnd ouch alle stuckh für ledig unnd lous unnd vormals gegen mennglichem unver
+<lb break="no" n="17"/>setzt unnd unverkhümbert. Unnd ist der ewig kouff redlichermassen also bescheen und gethon worden um achtzig guldin gütter obbe
+<lb break="no" n="18"/>melter genemer <placeName ref="lub-places-101">Costenntzer</placeName> mintz <placeName ref="lub-places-10">Veldtkircher</placeName> werunnge, deren wir von ime erbarglich außgericht und bezalt worden seyent nach
+<lb n="19"/>unserm völligen benüegen. Unnd darumb so sollen und wöllen wir, all unser erben und nachkhummen innhaber und besitzer obbemelter 
+<lb n="20"/>underpfanndt denn gemelten pfening zeins dem genanten her keüffern und allen der selbigen nachkhummen vermeltzs gotzhaus <orgName ref="lub-actors-337">Sant Luci</orgName>, 
+<lb n="21"/>innhabern diß brieffs, nun fürohin ewiglich und järlich alle jar uff <date when="--11-11">sant Martins tag</date>, achttag vor oder nach ungevarlich, tugentlich 
+<lb n="22"/>richten, zeinßen und zü irn sichern hannden unnd gwaltt antwurten und geben, für allermennglichs hefften, verbieten und entweren unnd 
+<lb n="23"/>genntzlich one allen iren costen und schaden. Wan, wie oder welches jars das aber also nit beschäche über kurtz oder lang zeit, so seyent 
+<lb n="24"/>inen ir obbemelte underpfanndt, inn iren bestimpten marcken begriffen, gantz zeins föllig worden und dan dannethin mit grundt, 
+<lb n="25"/>gradt und mit allen iren rechten unnd zügehörden zü rechtem ewigen aigen imer haimgefallen und verfallen, one uns, aller unser erben 
+<lb n="26"/>unnd nachkhummen unnd allermennglichs von unnsert wegen irrunng unnd widersprechen. Unnd hieruff diß redlichen, ewigen kouffs 
+<lb n="27"/>um zeinsfölligin unnd <gap/> all abgenng obbemelter underpfanndt, auch zeins, houptgüth, schadens unnd aller obgemelter ding sollenn 
+<lb n="28"/>unnd wöllen wir, all <gap/> erben und nachkhummen dem obgenanten her keüffern unnd allen seinen nachkhummen vermelts gotzhauß 
+<lb n="29"/>recht, güth unnd getrui<gap/> <gap/>refftig weren, fürstandt und versprecher sein vor dem richter unnd gericht, darunder obbemelte underpfanndt 
+<lb n="30"/>unnd zeins gelegen seyent, wie, wenn unnd gegen wem als offt unnd dick sie das nach dem rechten ymer betürffen unnd notturfftig werden, 
+<lb n="31"/>allwegen in unnserm aignen costen, one iren schaden, bey gütten getruien, one alle widerredt, außzüg unnd geverdt. Unnd wie woll dißer 
+<lb n="32"/>brieff ainen ewigen kouff außweyßt, so mügen doch wir, all unnser erben unnd nachkhummen den obgemelten zeins über kurtz oder 
+<lb n="33"/>lanng zeit samenthafft oder zü zwayen malen, allwegen den halbtheill, zü unnserer gelegenhait mit obgemelter mintz unnd werschafft 
+<lb n="34"/>woll widerkouffen unnd ablößen, züglaßen unnd vergünt worden ist, doch vor zeinsfall unnd allwegen uff <date when="--11-11">sanct Martins tag</date>, 
+<lb n="35"/>achttag vor oder nach ungevarlich, sampt denn verfallen ausstennden zeinßen unnd ouch mit sellicher mintz unnd werschafft, daran 
+<lb n="36"/>sie nit verlust noch abganng haben, ob sie die minntz in der zeit verendern wurde, alles ungevarlich. Unnd des zü warem unnd 
+<lb n="37"/>offem urkundt so haben wir all viere, obgenannthe verkeüffere, ainhelliglichen mit fleys unnd ernst gebetten unnd erbettenn 
+<lb n="38"/>denn vorgenannthen aman <persName ref="lub-actors-817">Michaell Graen</persName>, das er sein aigen innsigell, doch ime unnd seinen erben in allweg oneschadenn, 
+          <lb n="39"/>für uns, all unnser erben unnd nachkhummen offennlich gehennckt hat ann dißen brieff, der geben ist <origDate when="1547-05-23">uff möntag nach dem son
+<lb break="no" n="40"/>tag exaudi, als man von Christi, unnsers lieben herrn, gepurt zaltt funfftzechenhundert viertzig unnd süben jar</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

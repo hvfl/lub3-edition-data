@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1049">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bestätigung über den Empfang von Lehengütern am Eschnerberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1049">CH-BAC, 015.2343</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 5. Februar 1514 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jörg Brendle, wohnhaft zu Schönabüel am Eschnerberg, bekennt, dass ihm Abt Johannes Walser und der Konvent des Klosters St. Luzi in Chur folgende Güter am Eschnerberg für 15 Jahre verliehen haben: eine Hofstatt zu Schönabüel bei der Kapelle Heilig Kreuz, den Acker Brendlesbünt, eine Bünt im Gebiet Schettli, einen Acker im Gebiet Wellenberg, einen Acker im Gebiet auf Platz, zwei Äcker im Benderer Feld, ein Gehölz auf dem Underen Büel, ein Stück Ried im Gebiet Alür, ein Stück Ried in Nendeln, ein Stück Ried in Bendern, ein Stück Ried beim Seele, ein Stück Ried am Rain, zwei Wiesen in Bangs, einen Acker am Haidenrain, ein Baumgärtlein in Schönabüel, einen Acker in Bendern, einen Acker im Gebiet Platzer, zwei Teile an einem Grundstück und einen Acker in Rietlisbünt sowie ein Stück Pflanzland im Gebiet Krest. Brendle muss jährlich 10 Fuder Mist auf den Gütern ausbringen und dem Kloster als Zins jährlich auf Martini 8,5 Scheffel und ein halbes Viertel Weizen, 13,5 Scheffel Gerste, 50 Eier, ein halbes Viertel Bohnen und 10 Schilling Churer Währung nach Bendern liefern. Falls Brendle auf der Hofstatt bei der Kapelle anstelle des alten Gemäuers ein neues Haus errichtet, soll ihn das Kloster bei der Rückgabe des Lehens entschädigen. Brendle hat 26 Gulden Ehrschatz bezahlt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-466">widem</term>
+          <term ref="lub-keywords-408">bretscha</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-172">Gerste</term>
+          <term ref="lub-keywords-468">Eier</term>
+          <term ref="lub-keywords-469">Bohnen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-401">Brendle, Jörg</persName>
+          <date when="1514-02-05">5. Feb 1514</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-14">Noll, Christian</persName>
+          <date when="1514-02-05">5. Feb 1514</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1514-02-05">5. Feb 1514</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2343-0001.jpg" xml:id="lub-media-3931" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3931" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-401">Jörg Brenndli</persName>, seßhaft am <placeName ref="lub-places-16">Eschnerrberg</placeName> zu <placeName ref="lub-places-207">Schönenbül</placeName>, bekenn offennlich für mich und mine erben und thun kundt menngclich mit dem brief, das ich mit 
+<lb n="2"/>gutem wolbedachtem willen von dem erwirdigen heren <persName ref="lub-actors-2551">Johansen</persName>, abbte des loblichen und erwirdigen gotzhus zu <orgName ref="lub-actors-337">Sant Lutzi</orgName> zu <placeName ref="lub-places-102">Kur</placeName>, minem gnädigen he
+<lb break="no" n="3"/>ren, und siner gnaden convent da selbs iren aigne hienach gemelte stuck und guter, alle am <placeName ref="lub-places-16">Eschnerberg</placeName> in der herrschaft <placeName ref="lub-places-11">Schellenberg</placeName>, zu ainem redli
+<lb break="no" n="4"/>chen lehen fünfzehen jar die nechsten nach datum diß briefs nach ain andren künftig und nit lenger empfangen han: Item des ersten ain hofstatt zu <placeName ref="lub-places-207">Sch
+  <lb break="no" n="5"/>önenbül</placeName> zu der cappilen<note>Die Kapelle Hl. Kreuz in Eschen(Rofabergkapelle).</note> gelegen, stost ainhalb an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut und sust zu ring umm and almain. Me ainn acker genannt <placeName ref="lub-places-847">Brendlis Pündt</placeName>, stost ainhalb an <persName ref="lub-actors-2552">Hai
+<lb break="no" n="6"/>nrich Kremels</persName> erben gut, das genant ist der <placeName ref="lub-places-848">Bogen</placeName>, zur andren syten an <placeName ref="lub-places-978">Cappilen wingarten</placeName>, zur dritten an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das <persName ref="lub-actors-2553">Hans Sgöl</persName> zu der <placeName ref="lub-places-607">Eschinen</placeName> inhat,
+<lb n="7"/>zur vierden syten an <persName ref="lub-actors-222">Hug Knabenknechts</persName> gut, zu der fünften syten an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, gut. Me ain püntili, gelegen in <placeName ref="lub-places-849">Schettli</placeName>, stost obna an die landtstraß, hinna 
+<lb n="8"/>an <persName ref="lub-actors-222">Hug Knabenknechts</persName> gut, unna och an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, gut, inwert an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das och <persName ref="lub-actors-2553">Hans Sgöl</persName> zur <placeName ref="lub-places-607">Eschinen</placeName> inhat. Me dry juchart acker uff <placeName ref="lub-places-402">Well
+<lb break="no" n="9"/>enberg</placeName> gelegen, stossend ufwert an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das <persName ref="lub-actors-2554">Hainrich Sgöls</persName> erben inhond, hinnen uff die almain, aber hinnen ufwert an <persName ref="lub-actors-2555">Ulrich Schribers</persName>, an <persName ref="lub-actors-1626">Ulrich Hem
+<lb break="no" n="10"/>erlis</persName> und och etwie vyl an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, guter, unna zu aber an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das <persName ref="lub-actors-2554">Hainrich Sgöls</persName> erben inhond, vorna zu an <persName ref="lub-actors-2556">Hans Tönis</persName> erben aigen gut und an
+<lb n="11"/><orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, so <persName ref="lub-actors-2557">Hainrich Mader</persName> inhat. Me zwo juchart acker uff <placeName ref="lub-places-403">Platz</placeName> gelegen, stossend unna an die straß, hinna an unser gnädigen herrschaft <orgName ref="lub-actors-7">von Sultz</orgName> gut, obna an 
+<lb n="12"/><orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das <persName ref="lub-actors-2556">Hans Tönis</persName> erben inhond, und an <persName ref="lub-actors-2558">Hans Maders</persName> aigen stückli gut und och zu zwayen syten an <persName ref="lub-actors-2559">Ulrich Werders</persName> gut. Me ain juchart acker in <placeName ref="lub-places-404">Bendrer 
+<lb n="13"/>Veld</placeName> gelegen, stost unna an <persName ref="lub-actors-2561">Bart Wagners</persName> gut, zur andren syten an <persName ref="lub-actors-2562">Hensli Dieprechts</persName> gut, zur dritten an <persName ref="lub-actors-1253">Hans Kouffmans</persName> gut, zur vierden syten an unser gemelten herr
+<lb break="no" n="14"/>schaft gut und an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, gut. Me ain halb juchart acker, och in <placeName ref="lub-places-404">Bendrer Veld</placeName> gelegen, stost unna an <persName ref="lub-actors-2564">Lienhart Raingers</persName> gut, ainhalb an des <term ref="lub-keywords-466">widems</term> gut,
+<lb n="15"/>obna an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das <persName ref="lub-actors-2556">Hans Tönis</persName> erben inhond, vorna an der herrschaft wingarten, genannt der <placeName ref="lub-places-623">Platzer</placeName>. Mer ain stucki gut, ist ain gestüd, uff dem <placeName ref="lub-places-854">Undren Bul</placeName> gele
+<lb break="no" n="16"/>gen, stost zu allen orten an die almain. Me zway mannmad <term ref="lub-keywords-408">pritschen</term> in <placeName ref="lub-places-850">Alür</placeName> gelegen, stossend unna an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut, das <persName ref="lub-actors-2553">Hans Sgöl</persName> zur <placeName ref="lub-places-607">Eschinen</placeName> inhät, och an der pfrund
+<lb n="17"/>gut zu <placeName ref="lub-places-35">Eschen</placeName>, obna an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, gut, zur vierden syten an der herrschaft gut. Me ain stucki riedt vor dem <placeName ref="lub-places-8">Schanwald</placeName> gelegen, stost ufwert an <placeName ref="lub-places-851">Mitlen 
+<lb n="18"/>Wis</placeName>, zu ainr syten an die almain. Me den halbentail an dem riedt zu <placeName ref="lub-places-36">Bendren</placeName> an der <placeName ref="lub-places-852">Mitlen Brugg</placeName> gelegen, stost ainhalb an der <orgName ref="lub-actors-2565">Herrtner</orgName> gut und sust ringsumm 
+<lb n="19"/>an die almain, och stost es an <persName ref="lub-actors-2566">Jacob Grawen</persName> gut von <placeName ref="lub-places-36">Bendren</placeName>. Me zway mannmad riedt, gelegen zum <placeName ref="lub-places-853">Seli</placeName>, stossend ainhalb an <persName ref="lub-actors-2561">Bart Wagners</persName> und an <persName ref="lub-actors-408">Jörg Dieprechts</persName> 
+<lb n="20"/>guter, obna an die almain, zu ainr syten an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, aigen gut, ufwerrt an den <placeName ref="lub-places-977">Ryn</placeName>. Me das groß riedtmad obna bi dem <placeName ref="lub-places-977">Ryn</placeName> gelegen, stost ainhalb an der 
+<lb n="21"/>herrschaft gut, hinna an die almain, unna an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut. Me drü mannmad wisen uff <placeName ref="lub-places-445">Banx</placeName> gelegen, stossend ainhalb an die <placeName ref="lub-places-386">Spürs</placeName>, anderthalb an <persName ref="lub-actors-2567">Wolf Feren</persName> 
+<lb n="22"/>in <placeName ref="lub-places-855">Hewen Öw</placeName> gut, zur dritten syten an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, aigen gut. Me vier mannmad wisen uff <placeName ref="lub-places-445">Banx</placeName> zu der linden gelegen, stossend ainhalb an die <placeName ref="lub-places-386">Spürs</placeName>, andert
+<lb break="no" n="23"/>halb an <persName ref="lub-actors-2568">Erhart Weltis</persName> gut. Me ain halb mal acker an <placeName ref="lub-places-856">Haiden Rain</placeName> gelegen, stost vorna zu an <orgName ref="lub-actors-337">Sant Lutzis</orgName> gut und zu den andren syten an <persName ref="lub-actors-1626">Ulrich Hemerlis</persName> guter. Me
+<lb n="24"/>ain bömgärtli zu <placeName ref="lub-places-207">Schönenbül</placeName> gelegen, stost vorna an die straß und zu den dryen syten an <orgName ref="lub-actors-337">Sant Lutzis</orgName> guter. Me ain juchart acker am <placeName ref="lub-places-441">Widem</placeName> gelegen, stost obna an des 
+<lb n="25"/><term ref="lub-keywords-466">widems</term> von <placeName ref="lub-places-36">Bendren</placeName> gut, unna an <persName ref="lub-actors-2569">Bartlome Maders</persName> gut. Me ain äckerli hinder <placeName ref="lub-places-623">Platzeren</placeName> gelegen, stost ainhalb an <persName ref="lub-actors-2557">Hainrich Maders</persName> wingarten, och an <persName ref="lub-actors-1258">Rudolf Kochs</persName> 
+<lb n="26"/>gut, unna an <persName ref="lub-actors-2570">Regla Dieprechtin</persName> gut. Me zway tail in <placeName ref="lub-places-857">Rietlis Pündt</placeName> und ain juchart acker, darob gelegen, stossend hinna zu an <persName ref="lub-actors-408">Jörg Dieprechts</persName> gut, vorna an <persName ref="lub-actors-2569">Bartlo
+<lb break="no" n="27"/>me Maders</persName> gut. Und darzu ain püntili uff <placeName ref="lub-places-858">Crist</placeName> gelegen, stost unna an min, <persName ref="lub-actors-401">Jörg Brendlis</persName>, aigen gut und obna an die almain. Und alles mit grund, grat,
+<lb n="28"/>wunn, waid, holtz, veld, gestüd, gerüdt, stock, stain, wasser, wasserlaitinen, mit gengen, stegen und wegen und gemainlich mit allen andren iren rechten und zuge
+<lb break="no" n="29"/>hörnden, benembten und unbenembten, also und mit dem geding, das ich, obgenannter <persName ref="lub-actors-401">Jörg Brendli</persName>, und mine erben die egemelten stuck und guter alle die obge
+<lb break="no" n="30"/>melten jarzal us söllen und mügend buwen, nutzen, niessen nach unser notdurft und och die lehen guter in guten, bestendigen, unzergengclichen buwen und
+<lb n="31"/>in eren halten, bi unsern guten trüwen. Wir söllen och die obgemelten jarzal us in die guter järlich zehen fuder mist legen und söllen och ich, genanter <persName ref="lub-actors-401">Jörg 
+<lb n="32"/>Brendli</persName>, oder mine erben dem genannten, unserm hern apt, och sinen nachkomen äpten und dem convent da selbs zu <orgName ref="lub-actors-337">Sant Lutzi</orgName> von den obgemelten lehen guter allen 
+<lb n="33"/>nun fürohin die obgemelten jarzal us alle jar järlich zu ainem rechten zins nündhalben schöffel und ain halb viertil guten, wolgewanneten waissen, vierzehendhalb
+<lb break="no" n="34"/>en schöffel guts gersten korrns, funfzig ayer, ain fiertil bona und darzu zehen schilling pfening <placeName ref="lub-places-102">Kurer</placeName> werung dienst gelt, und namlich kürn, das je järlich uff den
+<lb n="35"/>gemelten lehen güter gewachsen ist, je uff <date when="--11-11">Sant Martins tag</date> oder vierzehen tag darnach ungevarlich zu aines gewalthabers handen zu <placeName ref="lub-places-36">Bendren</placeName> in des gemel
+<lb break="no" n="36"/>ten gotzhus spycher für alles verhefften und verbieten, och ön allen abgang und ön allen costen und schaden antwürten und geben, samenthaft und unzertailt.
+<lb n="37"/>Wo aber ich oder mine erben den egemelten zins je järlich die bemelten jarzal us, wie ob stat, nit richtind noch gebind und bi aines heren abts guten willen nit beli
+<lb break="no" n="38"/>bind, so söllen und mügend jetz min gnädiger herr abt oder sin nachkomen äpt alsdann zu den obgemelten guteren allen gryffen und zu des gemelten gotzhus han
+<lb break="no" n="39"/>den und gwalt nemen, die selbs buwen oder die, wem sin gnad anderem verlihen, wem sin gnad wil, von mir und minen erben und allerrmengclichs irrung und
+<lb n="40"/>inred. Och ist hierinn gedingt worden, ob ich, <persName ref="lub-actors-401">Jörg Brendli</persName>, ain hus uff die hofstatt und alt gemür bi der capell buwen wurde und ich oder mine erben nach 
+<lb n="41"/>den gemelten fünfzehen jaren von den gutern und lehen kamind, in welcher gestalt das beschehe, alsdann sol ain apt oder convent des gemelten gotzhuß uns 
+<lb n="42"/>das selb hus und gebüw nach frummer lüdten erkanntnuß on wider red bezalen. Und darumm ich in besitzung des gemelten lehens komen bin, han ich dem genann
+<lb break="no" n="43"/>ten, minem gnadigen herrn apt, und convent zu rechtem erschatz und intrat geben sechs und zwaintzig guldi rinisch <placeName ref="lub-places-102">Kurer</placeName> werung. Und sol noch mag
+<lb n="44"/>weder ich noch mine erben die bemelten lehen guter in kainen weg weder versetzen, verpfenden noch verköffen, öne aines apts zu <orgName ref="lub-actors-337">Sant Lutzi</orgName> und des co
+<lb break="no" n="45"/>nvents da selbs wissen und willen, bi pen verfallung des lehens, alles wissentlich, getrülich und ungevarlich in kraft diß briefs. Und des alles zu warem ur
+<lb break="no" n="46"/>kund und vester sicherhait han ich, genannter <persName ref="lub-actors-401">Jörg Brendli</persName>, flyssig erbetten den ersamen und wysen <persName ref="lub-actors-14">Cristan Nollen</persName>, der zyt amann in der herrschaft <placeName ref="lub-places-11">Schellenbe
+  <lb break="no" n="47"/>rg</placeName>, das er sin insigel, im und sinen erben one schaden, für mich und mine erben offenlich gehengkt hat an den brief, der geben ist <origDate when="1514-02-05">an sant Agten tag
+<lb n="48"/>nach Cristi gebürt fünfzehenhundert und vierzehen jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

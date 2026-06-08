@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1230">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Entscheid im Streit um einen Zins ab Gütern in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1230">CH-BAC, 015.2727</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 15. Dezember 1547 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Gericht unter dem Vorsitz von Michael Graf von Mauren, Ammann der Herrschaft Schellenberg, entscheidet auf die Klage von Georg Feuerstein, Pfarrer zu Bendern, dass Hans Wagner, wohnhaft in Mösma (Eschen), für einen Zins von einem Scheffel Weizen, den er der Pfarrei Bendern schuldet, einen neuen Schuldbrief erstellen lassen soll. Der Zins war früher im Jahrzeitbuch der Kirche Bendern dokumentiert. Dieses wurde jedoch vor langer Zeit bei einem Brand der Kirche zerstört.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-406">nachgericht</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-323">Feuer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1547-12-15">15. Dez 1547</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2727-0001.jpg" xml:id="lub-media-3947" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3947" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-817">Michaell Graw</persName> von <placeName ref="lub-places-30">Mauren</placeName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, bekhenn offennlich unnd thun khunt allermennglich mit dißem brive, dz auf 
+<lb n="2"/>heuith, seins datumbs, als ich auss gewalt, ouch gnaden unnd bevelch des wolgepornnen herrn, herrn <persName ref="lub-actors-156">Wilhalmen, gravenn zü Sultzs</persName>, landtgraven im <placeName ref="lub-places-18">Clägkew</placeName>, 
+<lb n="3"/>des <orgName ref="lub-actors-516">Römischen Reychs</orgName> hoverichter zü <placeName ref="lub-places-17">Rottweyl</placeName>, herrn zü <placeName ref="lub-places-7">Vadutzs</placeName>, <placeName ref="lub-places-11">Schellenberg</placeName> unnd <placeName ref="lub-places-12">Plumenegckh</placeName> etc., meins gnedigen herrn, offenn, verpannen herpst<term ref="lub-keywords-406">nachgericht</term> auf <placeName ref="lub-places-31">Rauffenn
+<lb break="no" n="4"/>berg</placeName> ann gewonlicher richtstatt besessen hab, für mich unnd offenn, verpannen gericht khomen seynnd die wirdigen, gaistlichen unnd erbärn her <persName ref="lub-actors-450">Jerg Fuirstain</persName>, der zeit
+<lb n="5"/>pfarrer zü <placeName ref="lub-places-36">Beenndern</placeName>, als innammen und von wegen der pfar daselbs cläger ann ainem, unnd <persName ref="lub-actors-1297">Hanns Wagner</persName> von <placeName ref="lub-places-37">Mißnen</placeName> als antwurter anderstheils von wegen 
+<lb n="6"/>aines scheffell wayßens, so nit allein er, <persName ref="lub-actors-1297">Hanns Wagner</persName>, denn selbigen biss uf dißen tag datho allwegen ainer pfar der ortten, als obsteth, erbärglich, tugentlich unnd wol zü siner 
+<lb n="7"/>gefalnen zeit geraicht unnd one clag gütwilliglichen betzaltt hat, besonnder ouch vorher seine elttern ouch zü gütten genüegen allwegen aussgericht haben, fürdweyll aber 
+<lb n="8"/>vor ettlicher lanngverschiner zeit und jar durch ain unversenhenliche prunst die kirch zü <placeName ref="lub-places-36">Beenndern</placeName> verprunen, darinnen das jarzeitbüch und anders mer, wie dann mennglich 
+<lb n="9"/>des laider güth wissens tregt, verprunen worden ist, dardurch ainem pfarher also des orts nit ain geringer schad und nachtheil, besonnder ouch ain mercklichen abganng ann iren stätten, 
+<lb n="10"/>jerglichen, ewigen, unabgengcklichen zeinssen, renntten unnd gültten widerfarn were, stüende dämnach alhie vor mir unnd ainem ersamen gericht anrüeffen unnd bittennde, 
+<lb n="11"/>inne, <persName ref="lub-actors-1297">Hanns Wagner</persName>, als den schuldigen zeinssern, dweyl er solchs scheffel wayßens, wie man außer seinem mundt gehert, jerlichs zübezallen gestenndig unnd gar nit abredt were, 
+<lb n="12"/>güetlich dahin weyßen, das er ime von wegen der pfar ain newe zeins verschreybunng darumb mit gnügsamen underpfannden nach dem lantzgebrauch aufrichten, versichern 
+<lb n="13"/>unnd uf seinen costen züstellen soltte. Unnd wa ers güetlich nit thun, verhoffte er, es soltte mit urtheil unnd recht, dweyl er sollichen jerglichs zegeben gestenndig, erkhennt werden. 
+<lb n="14"/>Darzu <persName ref="lub-actors-1297">Hanns Wagner</persName> von <placeName ref="lub-places-37">Mißnen</placeName> ouch durch seinen in recht erlaupten unnd angedingten fürsprechen nach unnsers geprauchs des gerichtzs uff vorgethone clag diße antwurth 
+<lb n="15"/>geben liess: Es were nit minder, sonnder war, sein vatter selig unnd ouch er hernacher hetten sellichen scheffel wayßens allwegen biss uf dißen tag datho ainem jeden pfarherrn 
+<lb n="16"/>zü <placeName ref="lub-places-36">Beenndern</placeName> geraicht unnd bezaltt unnd nie anderst vermainth, ouch noch also dra<unclear>u</unclear>, dann sellicher scheffel wayßens gannge allein ab unnd außer dem lehen, so er von seinen gnedigen 
+<lb n="17"/>herrn, den <orgName ref="lub-actors-7">gravenn von Sultzs</orgName> etc., ze lehen hab unnd trage. Derhalben ime nit gepürn wölle, dweyl er, wie gehert, nit wissenn kündte oder müge, ob sellicher scheffel wayßens 
+<lb n="18"/>ab dißem lehen oder andern seinen güettern gon seye. Wa man ine aber mit mererm grundt, dan noch bißher bescheen, berichte kündte, wölle er sich aller gepüre nach fünd
+<lb break="no" n="19"/>en laßen. Uff sellichs unnd demnach satzten paydthail mit mer, hier inn zü melden unnotturfttigen reden, so sie wider unnd gegen ain ander geprauchtenn,
+<lb n="20"/>also ir clag, antwurth, red unnd widerredt zü rechtlicher erkhanntnus. Daruff fragt ich, obgenannter aman, die urtheilsprecher des rechtens um auf den ayd, was 
+<lb n="21"/>desshalben recht were. Die haben nach meiner gethonen umfrage mit ainhelliger urtheil zü recht erkhennt unnd gesprochen, dweyl <persName ref="lub-actors-1297">Hanns Wagner</persName> von <placeName ref="lub-places-37">Mißnen</placeName> 
+<lb n="22"/>obernennts pfarhers fürgetragne clag des scheffel wayßens halber jerglichs zübezallen gestenndig unnd er, pfarher, durch bescheene prunst, wie gehert, um das jarzeit
+<lb break="no" n="23"/>büch, darinnen dißer scheffell wayßens unnd anderm mer mit desselbigen underpfannden, unversenhenlicher sach khumen, so soll er, <persName ref="lub-actors-1297">Hanns Wagner</persName>, ime, pfarher, widerum
+<lb n="24"/>nach gewonhait unnd sit, alttem herkummen, dißem lantzgeprauch nach mit gnügsamen underpfannden als um dißen scheffel wayßens uf seinen costen lauth pfarhers 
+<lb n="25"/>gütwilliglichen erpiettens unverzogenlich, aller notturfft nach vergwissen unnd under aines amans dißer herschafft sigel aufzerichten schuldig sein, doch mit vorbehalt, 
+<lb n="26"/>so hinfürter, über kurtz oder lang zeit, altter brieff, dißen scheffel wayßens mit desselbigen underpfannden antreffen, funden unnd an tag khummen wurdenn, so solle der selbig 
+<lb n="27"/>bey krefften, würden unnd eeren sein unnd pleybenn unnd dißer new auffgericht zeins brieff sampt dißer jetztgesprochenen unnd gegebnen urtheil tod, ab unnd in unwürdn 
+<lb n="28"/>sein unnd pleyben. Dißer urtheil hat offt genannter pfarher von dem rechten ains brieffs begerth, der ime also auf sein begeren auch mit ainhelliger urtheil zügebenn 
+<lb n="29"/>erkhennt worden ist. Hierumb des zü warem unnd offem urkhundt hab ich, obgenannter aman <persName ref="lub-actors-817">Michaell Graw</persName>, mein aigen innsigel von des rechten wegen, 
+          <lb n="30"/>doch mir, meinen erben unnd dem rechten oneschadenn, herunden offennlich ann dißen brieff gehennckt, der geben ist <origDate when="1547-12-15">uff dornstag, denn funffzechisten tag des monäts 
+<lb n="31"/>decembris, als man von Christi, unnsers lieben herrn unnd seligmachers, gepurt zaltt funfftzechennhundert viertzig unnd sübenn jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

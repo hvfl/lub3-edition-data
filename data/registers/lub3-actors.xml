@@ -10,7 +10,7 @@
     <meta name="keywords" lang="de" content="Archiv Anton">
     <meta name="keywords" lang="en" content="Archives Anton">
     <meta name="author" content="k-r, Zürich">
-    <meta name="csrf-token" content="FjOtZ52isokMatayMfA8qG3aDqIsMw12ED1e3U5C">
+    <meta name="csrf-token" content="VPcJwvXMqJkRuJn7AmdPApofTpi0IdMaa9p0miR3">
 
     <meta property="og:title" content="">
     <meta property="og:description" content="">
@@ -20,15 +20,15 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="">
     <meta name="twitter:description" content="">
-    <meta name="twitter:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200&refreshcache=69fc6bed38982">
+    <meta name="twitter:image" content="https://lub.anton.ch/admin/images/image.jpg?width=1200&refreshcache=6a268a232a407">
 
     <link rel="icon" sizes="256x256" type="image/png" href="/favicons/android-icon-256x256.png"><link rel="icon" sizes="192x192" type="image/png" href="/favicons/android-icon-192x192.png"><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png"><link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png"><link rel="icon" sizes="96x96" type="image/png" href="/favicons/favicon-96x96.png"><link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png"><link rel="icon" sizes="32x32" type="image/png" href="/favicons/favicon-32x32.png"><link rel="icon" sizes="16x16" type="image/png" href="/favicons/favicon-16x16.png"><link rel="manifest" href="/favicons/manifest.json"><link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
 
     <meta name="theme-color" content="#ffffff">
 
     <title></title>
-    <link rel="preload" as="style" href="https://lub.anton.ch/build/assets/main-DzSt5ScG.css" /><link rel="stylesheet" href="https://lub.anton.ch/build/assets/main-DzSt5ScG.css" data-navigate-track="reload" />    
-    <link rel="stylesheet" href="https://lub.anton.ch/build/assets/anton-standard-style-Dc91Xplw.css">
+    <link rel="preload" as="style" href="https://lub.anton.ch/build/assets/main-didSL6aW.css" /><link rel="stylesheet" href="https://lub.anton.ch/build/assets/main-didSL6aW.css" data-navigate-track="reload" />    
+    <link rel="stylesheet" href="https://lub.anton.ch/build/assets/anton-standard-style-BxGkKgvj.css">
 
     <link rel="stylesheet" href="/css/fontawesome-all.min.css">
         
@@ -107,7 +107,7 @@ a { color: var(--link-color) }
         document.documentElement.setAttribute("data-bs-theme", theme);
     </script>
 
-    <link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/app-BbUPmaMw.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-uoon-iQo.js" /><script type="module" src="https://lub.anton.ch/build/assets/app-BbUPmaMw.js" data-navigate-track="reload"></script>    
+    <link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/app-Dl3Ax0DN.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-uoon-iQo.js" /><script type="module" src="https://lub.anton.ch/build/assets/app-Dl3Ax0DN.js" data-navigate-track="reload"></script>    
     <!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.list-item][wire\:loading\.list-item], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
         
     <!-- use a google font -->
@@ -157,22 +157,31 @@ a { color: var(--link-color) }
             </ul>
 
             <ul class="navbar-nav d-flex ms-md-auto align-items-lg-center">
-                                    <li class="nav-item dropdown">
+                                    <li wire:key="lw-2923624730-0" wire:snapshot="{&quot;data&quot;:{&quot;customItems&quot;:null},&quot;memo&quot;:{&quot;id&quot;:&quot;FUaXFBORtQPpDHCkjGdL&quot;,&quot;name&quot;:&quot;nav-search&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;release&quot;:&quot;a-a-a&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;de&quot;,&quot;islands&quot;:[]},&quot;checksum&quot;:&quot;3ed22853062266aac22e04a52c7a44b55e25b0e51ae3a32c081a8c83ababb66d&quot;}" wire:effects="[]" wire:id="FUaXFBORtQPpDHCkjGdL" wire:name="nav-search" class="nav-item dropdown">
     <a href="#" class="nav-link py-2 px-3" data-bs-toggle="dropdown" aria-expanded="false">
         <i class="bi bi-search fs-5"></i>
     </a>
     <ul class="dropdown-menu dropdown-menu-end dropdown-search p-3">
         <li>
-            <form method="GET" action="https://lub.anton.ch/objects/simplesearch" accept-charset="UTF-8" class="form">
-            <div class="input-group input-group-sm">
-                <input class="form-control" placeholder="Suche" name="fulltext" type="text" value="">
-                <button type="submit" class="btn btn-outline-secondary"><i class="bi bi-search fs-5"></i></button>
-            </div>
+            <form method="get" action="https://lub.anton.ch/objects/simplesearch" class="form">
+                <div class="input-group input-group-sm">
+                    <input type="text" id="fulltext" name="fulltext"
+       maxlength="255"
+                            placeholder="Suche"
+       value=""
+        class="fulltext fulltext form-control form-control"
+        
+>
+<!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                    <button type="submit" class="btn btn-outline-secondary">
+                        <i class="bi bi-search fs-5"></i>
+                    </button>
+                </div>
             </form>
         </li>
-                    <li>
-                <a href="https://lub.anton.ch/objects/search" class="py-2 px-3"><span
-                        class="bi bi-search fs-5"></span> Erweiterte Suche</a>
+        <!--[if BLOCK]><![endif]-->            <li>
+                <a href="https://lub.anton.ch/objects/search" class="py-2 px-3">
+                    <span class="bi bi-search fs-5"></span> Erweiterte Suche
+                </a>
             </li>
             <li>
                 <a href="/actors"><i class="bi bi-link-45deg"></i> Akteurinnen/Akteure</a>
@@ -183,7 +192,7 @@ a { color: var(--link-color) }
             <li>
                 <a href="/keywords"><i class="bi-link-45deg"></i> Schlagwörter</a>
             </li>
-            </ul>
+        <!--[if ENDBLOCK]><![endif]-->    </ul>
 </li>
                 
                 <li class="nav-item dropdown">
@@ -199,20 +208,17 @@ a { color: var(--link-color) }
                   action="https://lub.anton.ch/logout"
                   method="POST"
                   style="display: none;">
-                  <input type="hidden" name="_token" value="FjOtZ52isokMatayMfA8qG3aDqIsMw12ED1e3U5C" autocomplete="off">
+                  <input type="hidden" name="_token" value="VPcJwvXMqJkRuJn7AmdPApofTpi0IdMaa9p0miR3" autocomplete="off">
                 </form>
             </li>
         </ul>
     </li>
 
-                <div wire:key="lw-2923624730-0" wire:snapshot="{&quot;data&quot;:{&quot;unreadCount&quot;:2},&quot;memo&quot;:{&quot;id&quot;:&quot;out0LfhAmV3PzTKJc9RC&quot;,&quot;name&quot;:&quot;notification-badge&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;release&quot;:&quot;a-a-a&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;de&quot;,&quot;islands&quot;:[]},&quot;checksum&quot;:&quot;5a049e29322af7bd26c92ad54da214f47dc1435e3ec8bb0c328c578962be42b5&quot;}" wire:effects="[]" wire:id="out0LfhAmV3PzTKJc9RC" wire:name="notification-badge">
+                <div wire:key="lw-2923624730-1" wire:snapshot="{&quot;data&quot;:{&quot;unreadCount&quot;:0},&quot;memo&quot;:{&quot;id&quot;:&quot;pFyX7CdHsmBuoVXbZW6K&quot;,&quot;name&quot;:&quot;notification-badge&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;release&quot;:&quot;a-a-a&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;de&quot;,&quot;islands&quot;:[]},&quot;checksum&quot;:&quot;be8a22f9f66d31633816bcf62a9391a136b358fd9ec041c88ec52a4051ac6f4e&quot;}" wire:effects="[]" wire:id="pFyX7CdHsmBuoVXbZW6K" wire:name="notification-badge">
     <!--[if BLOCK]><![endif]-->        <li class="nav-item">
             <a class="nav-link py-2 px-0 px-lg-2 position-relative" href="https://lub.anton.ch/notifications" title="Nachrichten">
                 <i class="bi bi-bell"></i>
-                <!--[if BLOCK]><![endif]-->                    <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style="font-size: 0.6rem;">
-                        2
-                    </span>
-                <!--[if ENDBLOCK]><![endif]-->            </a>
+                <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->            </a>
         </li>
     <!--[if ENDBLOCK]><![endif]--></div>
 
@@ -323,14 +329,14 @@ Liechtenstein   <br>
                             </a>
                             &middot;
                         </small>
-                                                                                                                <small>Anton v0.60.4 lub</small>
+                                                                                                                <small>Anton v0.71.3 lub</small>
                                     </div>
                     </div>
     </footer>
 
 </div> <!-- /container -->
 
-<script src="https://lub.anton.ch/livewire-a04c4263/livewire.min.js?id=6b3709b1"   data-csrf="FjOtZ52isokMatayMfA8qG3aDqIsMw12ED1e3U5C" data-module-url="https://lub.anton.ch/livewire-a04c4263" data-update-uri="https://lub.anton.ch/livewire/update" data-navigate-once="true"></script>
+<script src="https://lub.anton.ch/livewire-a04c4263/livewire.min.js?id=6b3709b1"   data-csrf="VPcJwvXMqJkRuJn7AmdPApofTpi0IdMaa9p0miR3" data-module-url="https://lub.anton.ch/livewire-a04c4263" data-update-uri="https://lub.anton.ch/livewire/update" data-navigate-once="true"></script>
 
 <!-- Scripts are placed here -->
 <link rel="preload" as="style" href="https://lub.anton.ch/build/assets/anton-edit-script-VUOOhAUG.css" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/anton-edit-script-BzF-hkYJ.js" /><link rel="modulepreload" as="script" href="https://lub.anton.ch/build/assets/jquery-uoon-iQo.js" /><link rel="stylesheet" href="https://lub.anton.ch/build/assets/anton-edit-script-VUOOhAUG.css" data-navigate-track="reload" /><script type="module" src="https://lub.anton.ch/build/assets/anton-edit-script-BzF-hkYJ.js" data-navigate-track="reload"></script>

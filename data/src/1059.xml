@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1059">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Präsentation von Werner Kindle als Kaplan am Katharinenaltar in der Kapelle St. Florin in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1059">CH-BAC, 015.2517</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 13. Juli 1527 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Graf Rudolf von Sulz teilt Johannes Koler, Dompropst in Chur, mit, dass er Werner Kindle aus Triesen die Kaplaneipfründe am Katharinenalter in der Kapelle St. Florin in Vaduz verliehen hat, die durch die Resignation von Cosmas Häberling, Pfarrer in Sax, freigeworden ist, und bittet ihn, Kindle als Kaplan einzusetzen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-297">Kaplan</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-8">Sulz, Rudolf V. von</persName>
+          <date when="1527-07-13">13. Jul 1527</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-1158">Koler, Johannes</persName>
+          <date when="1527-07-13">13. Jul 1527</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2517-0001.jpg" xml:id="lub-media-3935" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3935" n="1"/><lb n="1"/>Dem erwirdigen, hoch unnd wolgelerten herrn <persName ref="lub-actors-1158">Johanns Kholer</persName>, tumprobst des loblichen stifft zu <placeName ref="lub-places-102">Chaur</placeName>, meinem 
+<lb n="2"/>guten freundt, enpeut ich, <persName ref="lub-actors-8">Rudolff graff zu Sultz</persName>, lanndtgraff im <placeName ref="lub-places-18">Clekhgew</placeName>, des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName> hoff
+<lb break="no" n="3"/>richter zu <placeName ref="lub-places-17">Rotweyl</placeName>, khunigklicher maigestat zu <placeName ref="lub-places-162">Behaim</placeName> unnd <placeName ref="lub-places-146">Hunngern</placeName> statthalter der <placeName ref="lub-places-160">Oberössterreichischen Lanndt</placeName>, herr
+<lb n="4"/>zu <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennperg</placeName> unnd <placeName ref="lub-places-12">Bluemenegkh</placeName> etc., mein freundtlich gruss zuvor. Nach dem als die mess unnd phrundt 
+<lb n="5"/>sanndt <persName ref="lub-actors-862">Khatherinen</persName> altars <placeName ref="lub-places-210">Sanndt Floris Kirchen</placeName> in meiner herschafft <placeName ref="lub-places-7">Vadutz</placeName> durh frey, gutwillig resignacion, 
+<lb n="6"/>verzeichnus unnd absteung des ersamen herrn <persName ref="lub-actors-510">Cossman Heberlins</persName>, pharrer zu <placeName ref="lub-places-343">Sachs</placeName>, vaciert unnd ledig worden 
+<lb n="7"/>ist unnd mir die lehenschafft derselben gestifften mess unnd phreundt mit vollem rechten zustat, hab ich die 
+<lb n="8"/>als mein juspatronatus mit allen nutzen unnd rehten dem ersamen priesster, hern <persName ref="lub-actors-525">Wernhart Khündlin</persName> von <placeName ref="lub-places-79">Trissen</placeName>, 
+<lb n="9"/>beweiser ditz brieffs, umb gots, auch singens unnd lessens willen genedigklich verlihen unnd gelichen. Dieweyl nw 
+<lb n="10"/>in der stifftung bemelter mess unnd phreundt mit namen ausgedrukht <supplied>i</supplied>st, so offt dieselb mes vaciert 
+<lb n="11"/>unnd ledig, auch widerumb mit ainem erbern priesster unnd capplon, so zu derselben phreundt tugenlich ist, 
+<lb n="12"/>versehen wirt, das derselb priesster ainem jeden tumprobst zu <placeName ref="lub-places-102">Chaur</placeName> presentiert selle werden, das ime 
+<lb n="13"/>widerfar mit insetzung unnd annderm, als sich nach gaistlicher ordnung gepurtt, demselben nach so presentier 
+<lb n="14"/>ich ewer erwirdi denselben herrn <persName ref="lub-actors-525">Wernhart Khindlin</persName> hiemit besonnderm pitt, in umb meinen willen und 
+<lb n="15"/>uff selich mein verleihung uff bemelten altar sanndt <persName ref="lub-actors-862">Khathreinen</persName> gutwillig zu investieren und mit allen worten 
+<lb n="16"/>unnd gethäten, so darzu gehören unnd sich gepurt, zubestäten. Dess beger ich umb ewer erwirdi freundtlich zu ver
+<lb break="no" n="17"/>gleichen. Zu urkhundt besigelt mit meinem anhangenden secret unnd ynnsigell. Geben <origDate when="1527-07-13">uff sampstag
+<lb n="18"/>vor Margarete nah Crissti, unnsers lieben herrn, gepurtt feunffzehenhunderrt unnd im syben unnd 
+<lb n="19"/>zwaintzigissten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

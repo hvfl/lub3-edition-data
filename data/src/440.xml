@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-440">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lehen in Triesen für Kaspar von Ramschwag</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-440">AT-VLA, RH Blumenegg Schachte 1-1-1</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 5. September 1601 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Johann Bischof zu Chur beurkundet, dass er Kaspar von Ramschwag, Vogt zu Gutenberg, einen Zehnt in Triesen unter dem Wald, woraus der vierte Teil der Kirche in Triesen gehört, und zwei Huben in Flerden als Lehen verliehen hat. Ramschwag verspricht, dem Stift Chur treu</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-192">Flugi, Johann</persName>
+          <placeName ref="lub-places-170">Chur, Schloss</placeName>
+          <date when="1601-09-05">5. Sep 1601</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0001.jpg" xml:id="lub-media-2510" source="1601-08-26-vla-rh-blumenegg-lehen-triesen-1.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0002.jpg" xml:id="lub-media-2511" source="1601-08-26-vla-rh-blumenegg-lehen-triesen-2.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg__schachtel_1_1-1-0003.jpg" xml:id="lub-media-2512" source="1601-08-26-vla-rh-blumenegg-lehen-triesen-3.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir <persName ref="lub-actors-192">Johann</persName> von gottes genaden bischoff  
+<lb n="2"/>zue <orgName ref="lub-actors-2466">Chuer</orgName>, bekhennen und thuen kundt aller
+<lb break="no" n="3"/>mennigclich mit dißem brief, daß wir dem edlen 
+<lb n="4"/>vesten <persName ref="lub-actors-166">Casparn von Rambschwag</persName>, fürstlich durchlaucht erzherzog  
+<lb n="5"/>zue <persName ref="lub-actors-184">Össterreich</persName> vogt zue <placeName ref="lub-places-13">Guetenberg</placeName>, zue ainem lechen  
+<lb n="6"/>recht und redlich verlichen haben und leichen auch wis
+<lb break="no" n="7"/>sentlich in crafft dis briefs, waß wir im von recht 
+<lb n="8"/>oder gewonnhait daran zue leichen haben, leichen sollen,  
+<lb n="9"/>und mögen unß, unnßern nachkommen und unßerem  
+<lb n="10"/>stifft unschädlich. Nemblichem dem zechenden zue  
+<lb n="11"/><placeName ref="lub-places-79">Trißner</placeName> kilchspell unnder dem waldt, darauß der  
+<lb n="12"/>viertail desselben zechendens der kirchen daselbst  
+<lb n="13"/>zuegehört. Item zwo hueben, zue <placeName ref="lub-places-171">Flerten</placeName> gelegen,   
+<lb n="14"/>mit allen iren rechten und zueghörden, also, daß  
+<lb n="15"/>er solch lechen müge innhaben, nuzen und niessen  
+<lb n="16"/>nach solcher lechen recht. Hierumb hat unß der ob
+<lb break="no" n="17"/>genannt <persName ref="lub-actors-166">Caspar von Rambschwag</persName> geschworen ainen 
+<lb n="18"/>aidt zue gott und den hailigen, unnß, unßern nachkommen  
+<lb n="19"/>unnd unßerm stifft zue <orgName ref="lub-actors-2466">Chuer</orgName>, getrew, diennstlich  
+<lb n="20"/>und gewertig ze sein und alles zue thuen, so ain lechen
+<lb break="no" n="21"/>mann seinem lechenherren von solcher lechen wegen 
+<lb n="22"/>billich thuen soll und pflichtig ist, und sonnderlich  
+<lb n="23"/>solche lechen an kainem enndt zue berechten dann von  
+<lb n="24"/>unnß. Deß zue urkhundt haben  
+<lb n="25"/>wir unnßer secret innsigel offenlich thuen  
+
+<lb n="26"/>hennkhen an dißen brief, der geben ist in unßerm  
+<lb n="27"/>schloß <placeName ref="lub-places-170">Chuer</placeName>, am <origDate>sechs und zwainzigisten tag augusti  
+<lb n="28"/>alten callenders im jar do man zalt nach der  
+<lb n="29"/>geburt Cristi unnßers erlößers taussent sechßhundert  
+<lb n="30"/>ein jahr</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Copias  
+<lb n="2"/>aines lechenbriefs in <placeName ref="lub-places-79">Trissen</placeName><lb n="3"/>im dorff etc. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

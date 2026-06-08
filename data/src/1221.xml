@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1221">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Feldkirch entsendet im Konflikt mit den Grafen von Sulz Juristen auf den Reichstag in Regensburg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1221">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 45r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 7. Mai 1594 / Beschreibstoff: Papier, 1 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben der Oberösterreichischen Regierung an Dr. Johann Hilleson, dass er anstelle von Dr. Gall Hager, auf dem Reichstag in Regensburg Erzherzog Ferdinand II. von Österreich vertreten soll, weil Hager sich mit den Amtleuten in Feldkirch wegen des Streits mit Karl Ludwig von Sulz beratschlagen soll.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-60">Reichstag</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1594-05-07">7. Mai 1594</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__45r-0001.jpg" xml:id="lub-media-3701" source="1594-05-07-buch-walgau-8-10-45r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem  
+</p>
+        <p><lb n="2"/>Wir geben euch hiemit zuvernemen, das wir  
+<lb n="3"/>vor der zeit der fürstlichen durchleucht etc., unnsers gnedigisten  
+<lb n="4"/>herrn rat, doctor <persName ref="lub-actors-173">Gallen Hager</persName>, durch bevelch  
+<lb n="5"/>auferlegt, irer fürstlich durchlaucht <orgName ref="lub-actors-2588">vogt und ambtleüten  
+<lb n="6"/>zu Veldtkirch</orgName>, etlich strittige sachen wider  
+<lb n="7"/>herrn graf <persName ref="lub-actors-13">Carl Ludwigen zu Sulz</persName> berat
+<lb break="no" n="8"/>schlagen zuhelffen etc. Dieweil aber seitheer 
+<lb n="9"/>er, doctor <persName ref="lub-actors-173">Hager</persName>, von hohermelter fürstlich durchlaucht auf  
+<lb n="10"/>yezigen <term ref="lub-keywords-60">Reichstag</term> nach <placeName ref="lub-places-77">Regenspurg</placeName> zuver
+<lb break="no" n="11"/>raisen abgeordnet worden und an würckhlicher 
+<lb n="12"/>berathschlagung und fortsezung der sachen hoch  
+<lb n="13"/>und vil gelegen. Demnach so haben wir euch  
+<lb n="14"/>anstat sein, des <persName ref="lub-actors-173">Hagers</persName>, hierzue fürgenomen,  
+<lb n="15"/>und ist hiemit in irer fürstlichen durchlaucht namen unnser be
+<lb break="no" n="16"/>velch, das ir euch mit ermelten <orgName ref="lub-actors-2588">vogt unnd 
+<lb n="17"/>ambtleuten</orgName> (welche es mit ehistem an euch  
+<lb n="18"/>gelanngen lassen werden) aines fürderlichen  
+<lb n="19"/>tags vergleichet, alß dann zu inen erscheinet  
+<lb n="20"/>und die sachen mit inen, auch dem vogt zu <placeName ref="lub-places-13">Guet
+<lb break="no" n="21"/>tenberg</placeName> und den ambtleüten zu <placeName ref="lub-places-45">Bregenz</placeName> 
+<lb n="22"/>in notwendige consultation und beratschlag
+<lb break="no" n="23"/>ung ziehet und unns hiennach desselben neben 
+<lb n="24"/>inen, beambten, unverlengt hieheer berichtet. 
+<lb n="25"/>Daran beschieht etc. Datum, den <origDate>7. tag may  
+<lb n="26"/>anno etc. 94</origDate>. 
+</p>
+        <p><lb n="27"/>An doctor <persName ref="lub-actors-2657">Johann Hille
+<lb break="no" n="28"/>son</persName>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

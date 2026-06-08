@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1223">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Schmalzzinses ab einem Haus in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1223">CH-BAC, 015.2634</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 6. Dezember 1541 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ulrich Kaufmann, sesshaft in Eschen, und seine Frau Nesa Heeb verkaufen einen Zins von einem Viertel Sommeralpschmalz ab ihrem Haus in Eschen an Georg Feuerstein, Pfarrer in Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-106">Schmalz</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2354">Kaufmann, Ulrich (2)</persName>
+          <date when="1541-12-06">6. Dez 1541</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2629">Heeb, Nesa</persName>
+          <date when="1541-12-06">6. Dez 1541</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1541-12-06">6. Dez 1541</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1541-12-06">6. Dez 1541</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2634-0002.jpg" xml:id="lub-media-3942" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3942" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2354">Ulrich Khauffman</persName>, seshafft zu <placeName ref="lub-places-35">Eschen</placeName> im dorff, und ich, <persName ref="lub-actors-2629">Nesa Hewin</persName>, sein eliche hausfraw, bekhennen offennlich und thun khundt 
+<lb n="2"/>allermenigklich mit dissem brieve, das wir mit veraintem guten willen, wolbedacht, sonder mit hand des ersamen, weisen <persName ref="lub-actors-817">Mihael 
+<lb n="3"/>Grawen</persName>, der zeit aman unser gnedigen herschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, recht und redlich verkhaufft und zu khauffen geben 
+<lb n="4"/>haben und geben ouch jetzo hiemit in krafft ditz brieffs dem ersamen und gaistlichen <persName ref="lub-actors-450">Geörgen Furstain</persName>, der zeit pfarherrn zu 
+<lb n="5"/><placeName ref="lub-places-36">Bendern</placeName>, und allen seinen nachkomenden pfarherrn daselbst ains stäten, vesten, ewigen khauffs krefftig fur unns, all unnser erben 
+<lb n="6"/>und nachkomen nämlich ain viertel gut summer alp schmaltz khuemolckhens <placeName ref="lub-places-10">Veldkircher</placeName> gewicht recht, ewig järlichs zeins unnd 
+<lb n="7"/>schmaltz gelt von, ausser und ab unnsern aigen haus, hofft, hofstatt und stadel zu <placeName ref="lub-places-35">Eschen</placeName> im dorff gelegen, stosst zur ainen seiten an 
+<lb n="8"/><persName ref="lub-actors-2630">Martin Wangner</persName> <unclear><persName ref="lub-actors-2631">Ferdinant Marxer</persName></unclear><note>Nachträglich unterhalb der Zeile ergänzt.</note>, zur ander an <persName ref="lub-actors-1125">Volentin Khauffman</persName>, zur dritten an <persName ref="lub-actors-1072">Hans Koch</persName> und zur vierten seiten and landtstras, ab grundt, 
+<lb n="9"/>grat, wun, waid, zimmer, gemeur, dach, gemach, pomen, zweig, stockh, stain, gesteudt, gereudt, gengen, stegen und wegen und gemain
+<lb break="no" n="10"/>klich ab allen andern iren rechten und zugehörden, benempten und unbenempten, und auch fur ledig und los und vormals gegen
+<lb n="11"/>menigklich unversezt und unverkimbert. Und ist der ewig, redlich khauff also beschechen und gethon worden umb acht phund phening guter 
+<lb n="12"/><placeName ref="lub-places-101">Cosstenzer</placeName> minz <placeName ref="lub-places-10">Veldkirher</placeName> werung, dero wir von ime also par erberlich ausgericht und bezalt worden synnd nach unnserm guten beniegen. 
+<lb n="13"/>Und darumb so sellen und wellen wir, all unnser erben und nachkomen obgemelter underpfanden besitzer und inhaber den bestimpten zeins 
+<lb n="14"/>dem genanten khöffer und allen seinen nachkomen pfarrn, inhaber ditz brieffs, nwfurohin ewigklich und järlich alle jar auff <date when="--09-29">sant Mihels 
+<lb n="15"/>tag</date>, acht tag vor oder nach ungevarlich, tugentlich richten, zeinsen und zu <placeName ref="lub-places-36">Bendern</placeName> im pfarhaus zu iren sichern handen und gewalte andt
+<lb break="no" n="16"/>wurten und geben, fur allermenigklichs hefften, verbieten und entweren und gentzlich on allen iren cosste<supplied>n</supplied> und schaden. Wann, wie
+<lb n="17"/>oder welches jars das aber also nit bescheche, uber kurtz oder lang zeit, so synnd inen ir obgemelt underp<unclear>fa</unclear>nd, in iren bestimpten 
+<lb n="18"/>marckhen begriffen, gantz zeinsfellig worden und dann danethin mit grundt, grat und mit allen iren rechten und zugehorden zue 
+<lb n="19"/>rechtem ewigem aigen imermer gevallen und verfallen, one unns, aller unnser erben und nachkomen und allermenigklichs von 
+<lb n="20"/>unnsern wegen irrung und widersprechen. Und hirauff ditz ewigen, redlichen khauffs umb zeinsfelligin und fur all abgeng 
+<lb n="21"/>der obgemelten underpfand, auch zeins, hauptgut, schadens und aller obgemelten ding sellen und wellen wir, all unnser erben und 
+<lb n="22"/>nachkomen des obgenanten khöffers und allen seinen nachkomenden pfarherrn recht, gut und getrew, krefftig weren, furstand und 
+<lb n="23"/>versprecher sein vor dem richter und gericht, darunder obgemelte underpfand gelegen synnd, wo, wie, wenn und gegen wem, als 
+<lb n="24"/>offt und dickh sy des nach dem rechten immer bedurffen und notturfftig werden, alweg in unnserm aigen cossten, on iren schaden, 
+<lb n="25"/>bey guten trewen, on alle widerred, ausszug und geverde. Und des alles zu warem und offem urkhundt so haben wir, obge
+<lb break="no" n="26"/>nante verkhöffer, paide mit sonderm fleis und ernst gepetten und erbetten den vorgenanten aman <persName ref="lub-actors-817">Mihel Grawen</persName>, das er sein
+<lb n="27"/>aigen ynnsigel, im und sein erben onschaden, fur unns, all unnser erben und nachkomen offennlich gehenckht hat an dissen 
+<lb n="28"/>brieff, der geben ist <origDate when="1541-12-06">an sant Niclaus tag, des hailigen bischoffs, nach Cristi, unnsers herrn, gepurtt veinffhechen
+<lb break="no" n="29"/>hundert und im ainundviertzigisten jare</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

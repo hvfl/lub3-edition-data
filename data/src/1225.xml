@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1225">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wechsel des Unterpfands für Zinsen zugunsten der Spend und des Pfarrers von Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1225">CH-BAC, 015.2702</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 15. Januar 1545 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Alber von Ruggell, der jährlich auf Martini der Spend von Bendern einen Zins von zwei Viertel Weizen und dem Pfarrer von Bendern  einen Zins von einem halben Viertel Weizen schuldet, setzt statt einem Acker in Ruggell als neues Unterpfand eine Bünt in Ruggell.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-349">spend</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2062">Alber, Jakob (1)</persName>
+          <date when="1545-01-15">15. Jan 1545</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-65">Brendle, Peter</persName>
+          <date when="1545-01-15">15. Jan 1545</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2702-0002.jpg" xml:id="lub-media-3944" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3944" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2062">Jacob Alber</persName> von <placeName ref="lub-places-2">Ragell</placeName>, bekenn offennlich für mich, alle meine erben unnd nachkhumen unnd thun khunth allermennglich mit dißm 
+<lb n="2"/>brive, nach dem ich bißhär unnd noch auff dißen tag alle jar järlichs gemainer <term ref="lub-keywords-349">spennd</term> zü <placeName ref="lub-places-36">Bündern</placeName>, ouch innamen der selbigen ainem jeden 
+<lb n="3"/>darzü verordneten innemern und verwalttern ermelter kirchen allwegen uff <date when="--11-11">sanct Martins tag</date>, achttag vor oder nach ungevarlich, 
+<lb n="4"/>zugeben schuldig bin unnd geltten solle zway vierttel wayßens, deßgleychen ouch ainem jeden pfarher daselbs ain halb fiertel wayßens, 
+<lb n="5"/>alles <placeName ref="lub-places-10">Veldtkircher</placeName> meß, rechts, järlichs, ewigs und unablößigs wayßens zeins lauth und vermug desselbigen jarzeitbüchs, umb 
+<lb n="6"/>und für welchen järlichen kornzeins bißher ze rechtem für und underpfanndt eingesetzt und verhafft geweßt ist 
+<lb n="7"/>namlich ain acker inn <placeName ref="lub-places-2">Ragel</placeName> gelegen, so zü zwayen seiten ann <persName ref="lub-actors-2641">Hannsen Geltinger</persName>, burgern zü <placeName ref="lub-places-10">Veldtkirch</placeName>, aigen güth stoßent, zür driten 
+<lb n="8"/>an <persName ref="lub-actors-2642">Joßen Spaltz</persName> güth unnd oben an des <persName ref="lub-actors-2643">Kybers</persName> bomgarth, aber auff anmuetig bitlich beger, ouch anderer rechtmeßiger ursachen halben, 
+<lb n="9"/>ist vermeltem verköuffer auß liebe durch gütwilligkait diße obernennte underpfanndts einsatzunge inn wechßelsweyß gegen ainer an
+<lb break="no" n="10"/>deren hernachgemelten underpfanndts einsatzunge widerum nach gnügsamlicher versicherung allermaß unnd gstaltt, wie hievor bey der
+<lb n="11"/>anderen bescheen, ledig und an andere ende verwißen, ouch züglaßen unnd vergündt werden dergstaltt und also, was dißer obernennten 
+<lb n="12"/>järlichen gültthalb, es were über kurtz oder lang zeit, eintrags, fels und mangels mit somseligkait unnd raychunge der zeins oder sunst 
+<lb n="13"/>in ander weg entsteen oder bescheen wurde, irens, ußstanndts und schadens daruff und darbey, destbaß lauth und vermüg dißer her
+<lb break="no" n="14"/>schafft <placeName ref="lub-places-11">Schellenberg</placeName> gebrauch und alttherkhummen züerhellen wißen, von, ußer und abe ainem stuckh halbe bünth zü <placeName ref="lub-places-2">Ragell</placeName> in <placeName ref="lub-places-36">Bundern</placeName>
+<lb n="15"/>kilspell gelegen, ain seit oben an <persName ref="lub-actors-2064">Ülrich Fischers</persName> erben, anderseit nebenzü an <persName ref="lub-actors-613">Jacob Büchel</persName> unnd sunst zü zwayen seiten, unden und nebenzü, 
+<lb n="16"/>an sein, des verköuffers, enchlin <persName ref="lub-actors-2062">Ülis</persName> und <persName ref="lub-actors-1732">Hannsen die Alber</persName>, gebrüeder, von vatterher recht geschwüsterigten, unnd zür fünfften 
+<lb n="17"/>seiten nebenzü an die gaß, so von der <placeName ref="lub-places-886">Kratzerin</placeName> herab gät, unnd gipt vorhin järlichs vermelte bündt der gnoß am <placeName ref="lub-places-16">Eschnerberg</placeName> 
+<lb n="18"/>viertzechenn schilling pfening zeins, weytters nit, sunst ledig und unverkümbert gegen mennglichem in allweg. Uff sollichs 
+<lb n="19"/>unnd demnach habe ich, obgenannter verköuffer, inn namen obsteth gütz, freys willens gantz wolbedacht, auffrecht und redlich für 
+<lb n="20"/>mich und meine erben zügesagt unnd versprochen, züsag und versprich ouch hiemit wissenntlich in krafft diß brieffs nun fürter
+<lb break="no" n="21"/>hin imer unnd allwegen obernenten wyßen zeins, wie obstet, an baide ortten allwegen uff <date when="--11-11">Martini</date> one allen der selbigen zü baiden
+<lb n="22"/>seiten costen unnd schaden zü irn sichern hannden unnd gewaltte raichen unnd antwurten. Wa, es sie aber über kurtz oder 
+<lb n="23"/>lang zeit, zütragen oder begebe, in was weyß und maßen das bescheen möchte, das ich oder meine erben oder andere innhaber 
+<lb n="24"/>dißer underpfanndts innsatzunge inn aichem oder mer zil sömig und den nit oberlauter maß, lauth diß brieffs sag, järlichs 
+<lb n="25"/>raichen wurden, wie sie dann das zütragen, welches dann, ob got wil, nit bescheen solle, als dann mügen sie baid oder ain jeder in sunder
+<lb break="no" n="26"/>hait, als namlich <gap/> pfarher, deßgleychen ain jeder spenndmaister des orts oder andere ire nachkhumen innhabern
+<lb n="27"/>diß brieffs, vollen <gap/>echt und güth erlangt recht haben, diße ersternennte underpfanndts innsatzunge, wie diß landts 
+<lb n="28"/>gewonhait unnd brauch ist, angreyffen, nötten, pfennden und an sich ziehen unnd darmit als anderm irem aigen güth one menng
+<lb break="no" n="29"/>lichs einsprechen und verhinderung in allweg, darvor weder mich noch meine erben nichtzit freyen, freyden, schützen noch
+<lb n="30"/>schirmen solle, inn kainerlay weyß noch weg, ungevarlich, besunder uns desselbigen hierinnen aller fündt und list, so jetzunt 
+<lb n="31"/>sient oder fürters in künfftig zeit erdacht werden möchten, nichtzit außgenumen noch hindan gesetzt, gantz und gar verzigen 
+<lb n="32"/>und begeben haben wöllen, mit rechter wissennt inn krafft diß brieffs, alles auffrecht, redlich getruilich unnd ungevarlich. 
+<lb n="33"/>Unnd des alles zü warem und offem urkundt hab ich, obgenannter verköuffer, mit ernstlichem vleys gebetten und erpettenn 
+<lb n="34"/>denn ersamen, weyßen <persName ref="lub-actors-65">Petter Brendlin</persName>, dißer zeit des wolgebornen herrn, herrn grave <persName ref="lub-actors-35">Johan Ludtwigs von Sultzs</persName> etc., meins 
+<lb n="35"/>gnedigen herren, aman der herschafft <placeName ref="lub-places-11">Schellenberg</placeName> etc., welche obbemelte vest einsatzunge mit güttem, lieb wissen und willen, ouch 
+<lb n="36"/>mit hanndt desselbigen bescheen und zugangen ist, daruff er sein aigen insigell, doch ime und seine erben one schaden, 
+<lb n="37"/>zügezuigcknuß der sach für mich, all mein erben und nachkhummen offennlich gehennckt hat an dißen brieff, der geben ist 
+          <lb n="38"/><origDate when="1545-01-15">uff dornstag nach Hillary, als man von Christi geburth zaltt funfftzechenhundert viertzig unnd fünff jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

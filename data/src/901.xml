@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-901">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Präsentation von Simon Maurer als Abt von St. Luzi und Pfarrer in Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-901">CH-BAC, 032.02 B</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 19. Dezember 1605 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten / Unterschriften von Elias Lütscher und Bartholomäus Öhri, Chorherren im Kloster St. Luzi</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jakob Werkmann, der Abt des Prämonstratenserklosters Roggenburg im Bistum Augsburg, Vaterabt des Klosters St. Luzi und der Kirche Bendern, teilt dem Churer Bischof Johann Flugi mit, dass die Chorherren von St. Luzi den Roggenburger Chorherrn Simon Maurer zum Abt von St. Luzi und Pfarrer von Bendern gewählt haben, und bittet den Bischof, Maurer die Pfarrei zu übertragen und ihn zum Abt zu weihen. Die Ämter waren durch die Resignation von Hieronymus Huttler und Matthäus Agricola freigeworden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="la">Latein</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-140">Pfarrei</term>
+          <term ref="lub-keywords-149">Kloster</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-724">Werkmann, Jakob</persName>
+          <placeName ref="lub-places-286">Roggenburg (Kloster)</placeName>
+          <date when="1605-12-19">19. Dez 1605</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-192">Flugi, Johann</persName>
+          <date when="1605-12-20">ca. 20. Dez 1605</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__032_02_-b--0001.jpg" xml:id="lub-media-3940" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3940" n="1"/><lb n="1"/><supplied>S. 1</supplied><lb n="2"/>Reverendissimo in Christo patri ac domino, domino <persName ref="lub-actors-192">Joan
+<lb break="no" n="3"/>ni</persName>, dei et apostolicae sedis gratia episcopo <placeName ref="lub-places-175">Curiensi</placeName>,
+<lb n="4"/>frater <persName ref="lub-actors-724">Jacobus</persName>, divina permissione humilis abbas mona
+<lb break="no" n="5"/>stery <orgName ref="lub-actors-451">Roggenburgensis</orgName>, ordinis <orgName ref="lub-actors-1191">Praemonstratensis</orgName>,
+<lb n="6"/>in <placeName ref="lub-places-32">Augustana</placeName> diocaesi siti, pater abbas et 
+<lb n="7"/>immediate superior monastery <orgName ref="lub-actors-337">sancti Lucy</orgName> 
+<lb n="8"/>ac ecclesiae <placeName ref="lub-places-183">Benedurensis</placeName>, eiusdem 
+<lb n="9"/>ordinis ac <placeName ref="lub-places-175">Churiensis</placeName> diocaesis, 
+<lb n="10"/>sedi apostolicae immediate 
+<lb n="11"/>subiecti, reverentiam 
+<lb n="12"/>debitam et condignam 
+<lb n="13"/>orationesque in do
+<lb break="no" n="14"/>mino utinam
+<lb n="15"/>devotas. 
+</p>
+        <p><lb n="16"/>Cum nuper ecclesia <orgName ref="lub-actors-337">sancti Lucy</orgName> ac parochia <placeName ref="lub-places-183">Benedu
+<lb break="no" n="17"/>rensis</placeName> (quae nobis ut patri abbati subiecta est) per resignationem
+<lb n="18"/>quondam venerabilis nec non religiosi patris ac domini, domini <persName ref="lub-actors-17">Hyero
+<lb break="no" n="19"/>nimi Huttleri</persName>, ac religiosi domini <persName ref="lub-actors-725">Mathai Agricolae</persName> orbata et
+<lb n="20"/>destituta fuit et certo die ad eligendum abbatem ipsis frat
+<lb break="no" n="21"/>ribus dicta ecclesiae a nobis praefixo, ut de electione futuri
+<lb n="22"/>abbatis inter eos singulari tractatu habito convenirent, ipsi fratres 
+<lb n="23"/>praefatae ecclesiae <orgName ref="lub-actors-337">sancti Lucy</orgName> ac parochiae <placeName ref="lub-places-36">Benedurensis</placeName> honora
+<lb break="no" n="24"/>bilem et religiosum fratrem <persName ref="lub-actors-336">Simonem Maurer</persName>, <placeName ref="lub-places-859">Weyssen
+<lb break="no" n="25"/>hornianum</placeName> ac monastery <orgName ref="lub-actors-451">Roggenburgensis</orgName> quondam canoni
+<lb break="no" n="26"/>cum et professum (virum utique scientia, moribus et honestate
+<lb n="27"/>pollentem) in abbatem et pastorem suum ac dominum 
+<lb n="28"/>dicti monastery <orgName ref="lub-actors-337">sancti Lucy</orgName> et ecclesiae <placeName ref="lub-places-36">Benedurensis</placeName> 
+<lb n="29"/>unanimi consensu postularunt. Et nos eundem sic postula
+<lb break="no" n="30"/><supplied>S. 2</supplied><lb n="31"/>tum authoritate paterna nobis in hac parte commissa et qua fungimur  
+<lb n="32"/>confirmavimus. Hinc est quod nos, pater abbas, atque conventus 
+<lb n="33"/>praefatum fratrem <persName ref="lub-actors-336">Simonem</persName>, sic per nos postulatum et confir
+<lb break="no" n="34"/>matum, vestrae reverendae paternitati non uti ordinario
+<lb n="35"/>tantum, sed tanquam catholico episcopo iuxta nostri ordi
+<lb break="no" n="36"/>nis privilegia et indulta, libere in his scriptis pro munere so
+<lb break="no" n="37"/>lemnis benedictionis duximus praesentandum, humiliter
+<lb n="38"/>supplicantes, ut ipsi postulato et confirmato exercitium, re
+<lb break="no" n="39"/>gimen et administrationem curae animarum (ad quae
+<lb n="40"/>assumptus est) nec non munus benedictionis committere atque 
+<lb n="41"/>conferre dignemini, pure propter deum et ob respectum precum 
+<lb n="42"/>nostrarum humilium, adhibitis in his solemnitatibus debitis 
+<lb n="43"/>et consuetis. In quorum omnium fidem et testimonium nos, 
+<lb n="44"/>praefatus pater abbas, sigillum nostrum abbatiale praesentibus 
+<lb n="45"/>literis appendendum nominaque fratrum monastery sancti 
+<lb n="46"/>Lucy professorum subscribenda duximus. Datum ex nostro 
+          <lb n="47"/>monasterio <placeName ref="lub-places-286">Roggenburgensi</placeName> <origDate when="1605-12-19">decimo nono die mensis decembris 
+<lb n="48"/>anno virginei partus supra millesimum sexcentesimum quinto</origDate>. 
+</p>
+        <p><lb n="49"/>Ego, frater <persName ref="lub-actors-17">Hieronymus Uttlerus</persName>, <orgName ref="lub-actors-337">sancti Lucy</orgName> professus, testor reverendum dominum, dominum 
+<lb n="50"/>fratrem <persName ref="lub-actors-336">Symonem Maurer</persName>, tunc temporis <orgName ref="lub-actors-451">Roggenburgensem</orgName> canonicum, a me 
+<lb n="51"/>postulatum esse, ideo ut eidem munus benedictionis abbatialis conferatur  
+<lb n="52"/>prorsus consentio. 
+</p>
+        <p><lb n="53"/>Frater <persName ref="lub-actors-2572">Elias Lütscher</persName>, <orgName ref="lub-actors-337">sancti Lucy</orgName> professus, manu propria.
+<lb n="54"/>Frater <persName ref="lub-actors-2573">Bartholomeus Öri</persName>, <orgName ref="lub-actors-337">sancti Lucy</orgName> professus, manu propria.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

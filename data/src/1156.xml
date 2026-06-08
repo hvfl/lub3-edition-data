@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1156">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Weinberg und Baumgarten in Bendern</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Die Auflösung der Datierung der Urkunde ist unklar. Ist "sandt Matheis tag" auf den Gedenktag des Apostels Matthias (24. Februar) oder jenen des Apostels Matthäus (21. September) zu beziehen?</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1156">CH-BAC, 015.2574</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 21. September 1534 / Beschreibstoff: Pergament / Siegel: 1 Siegel, in Stoffsäcklein eingenäht</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jos Hertner von Bendern und seine Frau Klara Strub verlaufen einen Zins von 3 Pfund ab ihrem Weinberg und Baumgarten in Bendern an Hans Kachler von Bendern und seine Frau Anna Strub.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-170">Weingarten</term>
+          <term ref="lub-keywords-284">Obstgarten</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-904">Hertner, Jos</persName>
+          <date when="1534-02-24">24. Feb 1534</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2452">Strub, Klara</persName>
+          <date when="1534-02-24">24. Feb 1534</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-209">Öhri, Hans (1)</persName>
+          <date when="1534-02-24">24. Feb 1534</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-2453">Kachler, Hans</persName>
+          <date when="1534-02-24">24. Feb 1534</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2454">Strub, Anna</persName>
+          <date when="1534-02-24">24. Feb 1534</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2574-0001.jpg" xml:id="lub-media-3937" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3937" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-904">Jos Hertner</persName> von Bendern, und ich, <persName ref="lub-actors-2452">Clara Straubin</persName>, sein eeliche hausfraw, bekhennen offennlich und thun khundt aller
+<lb break="no" n="2"/>menigklich mit dissem brieff, das wir mit veraintem guten willen wolbedacht, sonder mit hand des ersamen weisen <persName ref="lub-actors-209">Hans
+<lb n="3"/>Erins</persName>, der zeit aman der herschafft <placeName ref="lub-places-11">Schellenperg</placeName>, krefftig fur uns, all unser erben und nahkomen recht und redlich verkaufft 
+<lb n="4"/>und zukauffen geben haben und geben auch jtzo hiemit dissem brieff dem erbern <persName ref="lub-actors-2453">Hans Kachlern</persName>, auch zu <placeName ref="lub-places-36">Bendern</placeName>, und 
+<lb n="5"/><persName ref="lub-actors-2454">Anna Straubin</persName>, seiner eelichen hausfrawen, allen iren erben und nahkhomen ains stäten, vessten, eewigen kauffs, be
+<lb break="no" n="6"/>nantlich drew phund phening guter und genemer <placeName ref="lub-places-101">Cosstentzer</placeName> mintz <placeName ref="lub-places-10">Veldkircher</placeName> werung rechts eewigs und järlichs zeins
+<lb n="7"/>und phening gelts von, usser und ab unserm aigen weingarthen und pomgarten, in ainem infang zu <placeName ref="lub-places-36">Bendern</placeName> gelegen, 
+<lb n="8"/>stosst unden an <persName ref="lub-actors-2455">Dicht Singner</persName>, zu zway seiten an <persName ref="lub-actors-2456">Hans Gsthölen</persName> zu <placeName ref="lub-places-36">Bendern</placeName>, oben an <persName ref="lub-actors-2457">Hans Singner</persName> und zur vierten seiten 
+<lb n="9"/>and landtstras, und alles ab grundt, grat, wun, waid, stickheln, reben, rebstal, pomen, zweig, stockh, stain, gestudt, ge
+<lb break="no" n="10"/>reudt, gengen, stegen und wegen und gemainklich ab allen andern iren rechten und zugehörden, benempten und unbe
+<lb break="no" n="11"/>nempten, und auh fur ledig und los und vormals gegen menigklich unversetzt und unverkimbert. Und ist der eewig,
+<lb n="12"/>redlich kauff also beschechen und gethon worden umb sechzig phund phening guter obgenanter mintz und werung, dero 
+<lb n="13"/>wir von inen also par bezalt worden synd nach unserm guten willen und beniegen. Und darumb so sellen und welln 
+<lb n="14"/>wir, all unser erben und nahkomen besitzer der eegemelten underphand die drey phund phening zeins den genanten köffern, 
+<lb n="15"/>allen iren erben und nahkomen inhaber ditz brieffs nw furohin eewigklih und järlich alle jär auff <date when="--11-11">sandt Martins 
+<lb n="16"/>tag</date>, acht tag vor oder nach ungefarlich, tugentlich richten, zeinsen und zu iren sichern handen und gewalte, fur aller
+<lb break="no" n="17"/>menigklichs hefften, verpieten und entweren und gäntzlich on allen iren cossten und schaden andtwurten und geben. Wann,
+<lb n="18"/>wie oder welihs jars das aber also uber khurtz oder lang zeit nit bescheche, so synd inen ir obgemelte underphand 
+<lb n="19"/>in iren bestimpten marckhen begriffen gantz zeinsfellig worden und danethin mit grundt, gradt und mit allen iren 
+<lb n="20"/>rechten und zugehörungen zu rechtem eewigem aigen imermer gevallen und verfallen, one uns, unser erben und 
+<lb n="21"/>nachkomen und allermenigklihs von unsern wegen irrung und widersprechen. Und hirauff diss eewigen redlichen 
+<lb n="22"/>kauffs umb zeinsfelligin und fur all abgeng der obgemelten underphand, auch zeins, hoptguts, schadens und aller obge
+<lb break="no" n="23"/>melten ding sellen und wellen wir, all unser erben und nachkomen der obgenanten köffer, aller irer erben und nach
+<lb break="no" n="24"/>khomen recht, gut und getrew, krefftig weren, furstand und versprecher sein vor dem richter und gericht, darunder
+<lb n="25"/>bemelte underphand gelegen synd, wann sy des nah dem rechten immer bedurffen und noturfftig werden, alweg in 
+<lb n="26"/>unserm aigen cossten, on iren schaden, bey guten trewen, on alle widerred, außzug und geverde. Und wie
+<lb break="no" n="27"/>wol disser brieff ainen eewigen kauff ausweist, danocht mögen wir, all unser erben und nahkomen die gemelten
+<lb n="28"/>drew phund phening zeins von den genanten köffern, allen iren erben und nahkomen wol wider kauffen und ablösen 
+<lb n="29"/>nw furohin eewigklih, wenn und welichs jars wir wellen, uber kurtz oder lang zeit, doch vor zeinsfal und all
+<lb break="no" n="30"/>weg auff <date when="--11-11">sandt Martins tag</date>, acht tag vor oder nach ungefarlich, samethafft mit dem obgemelten hoptgut, den
+<lb n="31"/>sechzig phund phening, oder je ain phund phening besonder mit zwaintzig phund phening hoptguts, sampt allen ver
+<lb break="no" n="32"/>fallen aussteend zeinsen und  auch mit selicher mintz und werschafft, daran sy nit verlusst noch abgang haben,
+<lb n="33"/>ob sich die mintz in der zeit verendern wurde, alles ungefarlich. Und des alles zu warem, offem urkhundt 
+<lb n="34"/>so haben wir, obgenante verköffer, mit fleis und ernst gepeten und erpeten den vorgenanten aman <persName ref="lub-actors-209">Hans Erin</persName>, das 
+<lb n="35"/>er sein aigen ynsigel, im und sein erben onschaden, fur uns, all unser erben und nachkomen offennlih gehenckht 
+          <lb n="36"/>hat an dissen brieff, der geben ist <origDate when="1534-02-24">an sandt Matheis tag, des hailigen zwelffpoten nach Cristi, unsers 
+<lb n="37"/>herrn, gepurtt feinffzechenhundert und im vierunddreissigisten jare</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

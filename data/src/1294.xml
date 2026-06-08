@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1294">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Teilung des Zehnts in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Insert, Signatur: <ref type="identifier" target="lub-objects-1294">LI-LA, PfäfA 22/03</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 14. Dezember 1550 / Beschreibstoff: Papier, 1 Seite</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Auszug aus einem erneuerten Urbar der Pfarrei Eschen, in dem vermerkt wird, wer dem Kloster Pfäfers zehntpflichtig ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-56">Zehnt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-309">Pfäfers, Kloster</persName>
+          <date when="1550-12-14">14. Dez 1550</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__pf-fa_22_03-0001.jpg" xml:id="lub-media-3908" source="pfafa-22-03-s03.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Uff den <origDate>14. tag deß monats decembris im 1550</origDate>. jar ist diß  
+<lb n="2"/>urber erneweret worden durch die fürnemmen und weysen  
+<lb n="3"/><persName ref="lub-actors-308">Hannßen Regler</persName>, der zeit amman zue <orgName ref="lub-actors-309">Pfevers</orgName>, richter  
+<lb n="4"/>zue <placeName ref="lub-places-174">Ragatz</placeName>, <persName ref="lub-actors-1070">Luzi Christa</persName>, schreiber zue <orgName ref="lub-actors-309">Pfevers</orgName>, in beysein  
+<lb n="5"/><persName ref="lub-actors-65">Peter Brendlins</persName> zue <placeName ref="lub-places-35">Eschen</placeName> alß hierzue erbetenen gezeugen. 
+</p>
+        <p><lb n="6"/>Erstlich so ist zue wissen, das der kilchensatz zue <placeName ref="lub-places-35">Eschen</placeName> sambt wein
+<lb n="7"/>und kornzähenden dem gottshaus <orgName ref="lub-actors-309">Pfevers</orgName> zum theil  
+<lb n="8"/>zuegehörig. 
+</p>
+        <p><lb n="9"/>Item <persName ref="lub-actors-1071">Andreß Zähenders</persName> erben zinsen jerlichen 3 schilling d.  
+<lb n="10"/>an weißbrot vom lehen und seind dise hienach volgenden  
+<lb n="11"/>underpfanden darumb. 
+</p>
+        <p><lb n="12"/>Item ein weingarten, ligt im <placeName ref="lub-places-438">Grafen</placeName> im <placeName ref="lub-places-35">Eschner</placeName> kilchspel,  
+<lb n="13"/>stost erstlichen an der graven von <orgName ref="lub-actors-7">Sultz</orgName> weingarten, oben  
+<lb n="14"/>an <placeName ref="lub-places-450">St. Luzis weingarten</placeName>, hinaußwert auch an der  
+<lb n="15"/>graven von <orgName ref="lub-actors-7">Sulz</orgName> guet, dahinden an <persName ref="lub-actors-1072">Hannß Kochs</persName> von  
+<lb n="16"/><placeName ref="lub-places-35">Eschen</placeName> weingarten, und unden an des hauß von <orgName ref="lub-actors-172">Österichs</orgName>  
+<lb n="17"/>erblehen. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

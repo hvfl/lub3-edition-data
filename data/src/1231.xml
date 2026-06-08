@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1231">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut in Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1231">CH-BAC, 015.2731</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 26. April 1548 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Jörg Knabenknecht von Bendern und Margarethe Glarner, seine Frau, verkaufen einen Zins von 1 Pfund ab ihrem Gut in Eschen an Georg Feuerstein, Pfarrer in Bendern und Bevollmächtigten des Kloster St. Luzi.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1687">Knabenknecht, Georg (2)</persName>
+          <date when="1548-04-26">26. Apr 1548</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2725">Glarner, Margarethe</persName>
+          <date when="1548-04-26">26. Apr 1548</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1548-04-26">26. Apr 1548</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1548-04-26">26. Apr 1548</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2731-0001.jpg" xml:id="lub-media-3946" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3946" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-1687">Jerg Knabenknecht</persName> von <placeName ref="lub-places-36">Benndern</placeName>, und ich, <persName ref="lub-actors-2725">Margretha Glarnerin</persName>, sein eeliche haussfrow, bekhennen offennlich für uns, all unser erbenn 
+<lb n="2"/>und nachkummen und thüent khunt allermennglich mit dißem brive, dz wir mit veraintem, gütem willen wolbedacht, sonder mit hanndt des 
+<lb n="3"/>ersamen <persName ref="lub-actors-817">Michell Graen</persName>, der zeit der herschafft <placeName ref="lub-places-11">Schellenberg</placeName> aman, recht und redlich verkoufft und zükouffen geben haben und geben auch jetzo 
+<lb n="4"/>mitkrafft diss brieffs dem wirdigen gaistlichen hern <persName ref="lub-actors-450">Jergen Feuirstein</persName>, der zeit pfarher zü <placeName ref="lub-places-36">Bendern</placeName>, innamen und von wegen als verordneter 
+<lb n="5"/>und volmechtiger gwalthaber des wirdigen gotzhauss <orgName ref="lub-actors-337">Sanct Luci</orgName>, ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <orgName ref="lub-actors-1191">Praemonstater</orgName> ordens, und allen der selbigen nachkumen 
+<lb n="6"/>vermelts gotzhauss namlich ain pfundt güter und genemer <placeName ref="lub-places-101">Costenntzer</placeName> mintzs <placeName ref="lub-places-10">Veltkircher</placeName> werunnge rechts, järlichs, ewigs zeins unnd 
+<lb n="7"/>pfening geltzs von, ußer und abe unserm aignen stuck güth genanth die <placeName ref="lub-places-969">Hannfferin</placeName>, <placeName ref="lub-places-35">Eschner</placeName> kilspell gelegen, ain seit an <orgName ref="lub-actors-337">Sanct Lucis</orgName> güth, 
+<lb n="8"/>so die <orgName ref="lub-actors-1557">Mader</orgName> zü lehen innhaben, zür andern an <persName ref="lub-actors-2726">Jos Dieprecht</persName>, zür dritten abermals an die <orgName ref="lub-actors-1557">Madere</orgName> und zür vierten seiten an <persName ref="lub-actors-408">Jergen Dieprecht</persName>, 
+<lb n="9"/>unnd alles ab grunndt, gradt, wunn, wayd, pomen, zweyg, stegck, stein, gesteüdt, gereudt, gengen, stegen und wegen und gemainlich ab allen andern 
+<lb n="10"/>seinen rechten und zügehörden, benennten und unbenennten, und ouch für ledig und lous und vormals gegen mennglichm unversetzt und unver
+<lb break="no" n="11"/>khümbert. Unnd ist der ewig, redlich kouf also bescheen und gethon worden umb zwaintzig pfundt pfening güter obgemelter mintzs
+<lb n="12"/>und werunng, deren wir von ime, pfarhere, innamen und von wegen <orgName ref="lub-actors-337">Sanct Lucis</orgName> erbärglich aussgericht und betzalt worden seyent 
+<lb n="13"/>nach unserm völligen benüegen. Unnd darumb so sollen und wöllen wir, all unser erben und nachkhummen innhaber und besitzer obbemelts 
+<lb n="14"/>underpfanndts den gemelten pfening zeins dem genanten köuffer und allen seinen nachkhummen vermelts gotzhaus <orgName ref="lub-actors-337">Sanct Lucin</orgName> als inn
+<lb break="no" n="15"/>habern diss briefs nun fürohin ewiglich und järlich alle jar uf <date when="--11-11">sanct Martins tag</date>, achttag vor oder nach ungevarlich, tugentlich
+<lb n="16"/>richten, zeinssen und zü irn sichern hannden und gwalt antwurten und geben, für allermennglichs hefften, verbieten und entweren und 
+<lb n="17"/>gentzlich one allen iren costen und schaden. Wann, wie oder welches jars das aber also nit beschähe über kurtz oder lanng zeit, so ist inen 
+<lb n="18"/>ir obbemelt underpfanndt, in seinen bestimpten marcken begriffen, gantz zeins völlig worden unnd dann dannethin mit grundt, 
+<lb n="19"/>gradt und allen seinen rechten und zügehörden zü rechtem ewigen aigen imer haimgefallen und verfallen, one uns, aller unser erben und 
+<lb n="20"/>nachkummen und allermennglichs von unsert wegen irrunng und widersprechen. Unnd hieruf diss ewigen, redlichen koufs und zins völligin 
+<lb n="21"/>und für all abgenng obbemelts underpfanndts, auch zeins, houptgüth, schadens und aller obgemelten ding sollen und wöllen wir, all 
+<lb n="22"/>unser erben und nachkhummen obgenanntem her köuffer von wegen <orgName ref="lub-actors-337">Sanct Lucis</orgName> und allen der selbigen nachkhummen vermelts 
+<lb n="23"/>gotzhaus recht, güth und getrui, krefftig weren, fürstanndt und versprecher sein vor dem richter und gericht, darunder obbemelt 
+<lb n="24"/>underpfanndt und zeins gelegen ist, wie, wen und gegen wem, als offt und dick sie das nach dem rechten imer betürffen und notturfftig werden, 
+<lb n="25"/>allwegen in unserm aignen costen, one iren schaden, bey güten getruien, one alle widerredt, ausszüg und geverdt. Unnd wie woll dißer brieff 
+<lb n="26"/>ainen ewigen kouf aussweyßt, so mügen doch wir, all unser erben und nachkhumen den obgemelten zeins von dem genannten her keuffer 
+<lb n="27"/>oder andern desselbigen nachkhumen vermelts gotzhaus <orgName ref="lub-actors-337">Sanct Luci</orgName> woll widerkouffen und ablössen, nunn, fürohin, ewiglich, wenn und 
+<lb n="28"/>welches jars wir uber kurtz oder lang zeit wöllen, doch vor zeins fall und allwegen uf <date when="--11-11">sanct Martins tag</date>, achttag vor oder nach unge
+<lb break="no" n="29"/>varlich, samenthafft mit dem obgemelten houptgüth sampt allen verfallen ausstenden zinßen und ouch mit sellicher mintzs unnd
+<lb n="30"/>werschafft, daran sie nit verlust noch abganng haben, ob sie die mintzs in der zeit verendern wurde, alles ungevarlich. Unnd des zü 
+<lb n="31"/>warem, offem urkhundt so haben wir, obgenannthe verköuffere, baide mit fleys erbetten den vorgenannten aman, das er sein 
+<lb n="32"/>aigen innsigell, doch ime und seinen erben in allweg oneschaden, herunden offenlich an dißen brieff gehennckt hat, der geben ist 
+          <lb n="33"/><origDate when="1548-04-26">uf dornstag nach sanct Jergen, des hailligen ritters, tag, als man Christi, unnsers lieben herren unnd seligmachers, ge
+<lb break="no" n="34"/>purt zalt fünfftzechennhundert viertzig unnd acht jar</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schutz- und Schirmbrief sowie Öffnungsgeld für Schloss Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1006">AT ÖStA HHStA Länderabteilung Österreichische Akten Vorderösterreich 6 fol. 6r+v +15r+v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 27. August 1560 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben der Kammer in Innsbruck an Graf Alwig von Sulz betreffend dessen Differenzen mit Glarus und das Öffnungsgeld für die Schlösser Vaduz und Küssaberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-73">öffnungsgeld</term>
+          <term ref="lub-keywords-108">Jagdrecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1560-08-27">27. Aug 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_6_fol__6r+v_+15r+v-0002.jpg" xml:id="lub-media-928" source="1560-08-27-hhsta-la-vo-6-1-6r.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_6_fol__6r+v_+15r+v-0003.jpg" xml:id="lub-media-929" source="1560-08-27-hhsta-la-vo-6-4-15v.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_6_fol__6r+v_+15r+v-0004.jpg" xml:id="lub-media-930" source="1560-08-27-hhsta-la-vo-6-3-15r.jpg" corresp="B"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_6_fol__6r+v_+15r+v-0005.jpg" xml:id="lub-media-931" source="1560-08-27-hhsta-la-vo-6-2-6v.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Als die herrn der <orgName ref="lub-actors-929">Regierung</orgName> hievor auf der herrn  
+<lb n="2"/>grafen von <orgName ref="lub-actors-7">Sultz</orgName> begeern von wegen <orgName ref="lub-actors-276">Glariß</orgName>,   
+<lb n="3"/>auch jagens unnd hagens unnd annderer spenn  
+<lb n="4"/>unnd irrungen der <orgName ref="lub-actors-2587">Camer</orgName> bedenkhen und bericht  
+<lb n="5"/>begeerdt. Darauf hat sy, die <orgName ref="lub-actors-2587">Camer</orgName>, bey  
+<lb n="6"/>derselben channtzley registratur nachsuechen  
+<lb n="7"/>lassen, unnd sovil das schirm- und offnung
+<lb break="no" n="8"/>gellt betrifft, drey verschreibungen, so von 
+<lb n="9"/>kayser <persName ref="lub-actors-4">Maximilian</persName>, hochlöblichster gedechtnus,  
+<lb n="10"/>unnd der <persName ref="lub-actors-156">jezigen römischen kayserlichen mayestät</persName> etc., unnserm allergne
+<lb break="no" n="11"/>digesten herrn, in dem verschinen <date when="1505">xv c v</date> etc., auch 
+<lb n="12"/><date when="1518">xviii</date> und <date when="1524">xxiiii</date> etc. jarn ausganngen sein, re
+<lb break="no" n="13"/>gistriert befunden. Davon hieneben abschrifften 
+<lb n="14"/>mit no. 1, 2 unnd 3 ligen. Unnd werden  
+<lb n="15"/>graf <persName ref="lub-actors-10">Wilhalmen von Sulz</persName>, die in solchen copeyen  
+<lb n="16"/>vermelten vierhundert gulden öffnungsgellt  
+<lb n="17"/>auf <placeName ref="lub-places-33">Vaduz</placeName> unnd <placeName ref="lub-places-86">Kussenberg</placeName> aus dem <placeName ref="lub-places-255">Salz
+<lb break="no" n="18"/>mayrambt</placeName> zu <placeName ref="lub-places-61">Hall</placeName> im <placeName ref="lub-places-62">Ynntal</placeName> noch jerlichen zu 
+<lb n="19"/>quattemberzeiten, yede derselben ain hundert  
+<lb n="20"/>gulden, thuet alle jar vierhundert gulden reinisch  
+<lb n="21"/>muntz geraicht unnd gegeben. 
+</p>
+        <p><lb n="22"/>Was dann jagen unnd hagen unnd die anndern  
+<lb n="23"/>speen betrifft, dieweil solches alles anhenngige sachen,  
+<lb n="24"/>unnd darinnen vil schrifften einkomen sein, so  
+<lb n="25"/>zuersehen vonnotten. So hat die <orgName ref="lub-actors-2587">Camer</orgName> dem  
+<lb n="26"/>herrn camerprocurator auferlegt und bevolhen,  
+<lb n="27"/>hierüber der <orgName ref="lub-actors-2587">Camer</orgName> seinen bericht, rat unnd guet  
+<lb n="28"/>bedunkhen anzuzaigen. Nachdem aber er, heer  
+<lb n="29"/>camerprocurator, yezo mit anndern dero kayserlichen mayestät  
+<lb n="30"/>ansechlichen hochwichtigen sachen gegen <placeName ref="lub-places-981">Trienndt</placeName>   
+<lb n="31"/>unnd sonnst beladen, so wirdet ime dise sachen  
+<lb n="32"/>der zeit zuferttigen nit aufzelegen sein. Zu dem,  
+<lb n="33"/>so ist der huebmaister von <placeName ref="lub-places-10">Veldkhirch</placeName>, so diser sachen  
+<lb n="34"/>pessts wissens tregt, von dem die <orgName ref="lub-actors-2587">Camer</orgName> hierinnen  
+<lb n="35"/>merers berichts zu haben bedurfftig, der zeit nit  
+<lb n="36"/>bey lanndt. Aber die <orgName ref="lub-actors-2587">Camer</orgName> hat yezt derhalben  
+<lb n="37"/>dem vogt zu <placeName ref="lub-places-10">Veldkirch</placeName> unnd anndern officiern  
+<lb n="38"/>daselbst umb bericht geschriben, aus solchen ursachen  
+<lb n="39"/>ist mit ansezung der begeerdten tagsatzung  
+<lb n="40"/>der zeit noch still zu steen. So pald aber die  
+<lb n="41"/><orgName ref="lub-actors-2587">Camer</orgName> hierinnen obgemelten begeerdten bericht  
+<lb n="42"/>eingenomen wirdet haben, so will alßdann di  
+<lb n="43"/>Camer dieselben furnemen unnd alßdann  
+<lb n="44"/>darauf den heern der <orgName ref="lub-actors-929">Regierung</orgName> ir bedenkhen  
+
+<lb n="45"/>unnd notturfften in schrifft uberanndtworten. 
+<lb n="46"/>Actum, am <origDate>xxvii tag augusti anno etc. lx</origDate> etc. 
+<lb n="47"/><orgName ref="lub-actors-2587">Camer</orgName> 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-929" n="1"/><lb n="1"/>Schuz-, schirm- und  
+<lb n="2"/>öffnungsgelter von dem  
+<lb n="3"/>allerdurchleuchtigsten  
+<lb n="4"/>erhauß Österreich fir die 
+<lb n="5"/>herren grafen Rudolph von  
+<lb n="6"/>Sulz und freyherrn  
+<lb n="7"/>von Brandis auf die  
+<lb n="8"/>herrschafften Sulz, Glariß,  
+<lb n="9"/>Damülß, Küstenberg,  
+<lb n="10"/>Vaduz und Schellenberg  
+<lb n="11"/>betreffend 1560. 
+</p>
+        <p><lb n="12"/>Iterum 
+<lb n="13"/>Ad dominos regenntes  
+<lb n="14"/>Sulz  
+<lb n="15"/>Gariß 
+<lb n="16"/>Damuls  
+<lb n="17"/>27. augusti anno 60. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

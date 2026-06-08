@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-447">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Grenze Grafschaft Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-447">AT-VLA, RH Blumenegg A 14</ref> (<orgName key="at-vla" ref="lub-objects-18">Vorarlberger Landesarchiv, Bregenz</orgName>) / Originaldatierung: 6. September 1515 / Beschreibstoff: Papier, 5 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kopie eines Vertrags zwischen Graf Rudolf V. von Sulz und den Amtleuten der Herrschaft Feldkirch weil wegen der Jagd auf Damüls und auf Sonntag in Gamperdon im Nenzingtal in der Herrschaft Sonnenberg gelegen ein Konflikt entstanden ist. Deshalb soll die Grenze zwischen der Grafschaft Sonnenberg und der Herrschaft Vaduz neu festgelegt werden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-1">Grenze</term>
+          <term ref="lub-keywords-108">Jagdrecht</term>
+          <term ref="lub-keywords-420">Schneeschleife</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1515-09-06">6. Sep 1515</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-vla__reichsherrschaft_blumenegg_a_14-0001.jpg" xml:id="lub-media-2595" source="vla-reichsherrschaft-blumenegg-a-14-2.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg_a_14-0002.jpg" xml:id="lub-media-2596" source="vla-reichsherrschaft-blumenegg-a-14-3.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg_a_14-0003.jpg" xml:id="lub-media-2597" source="vla-reichsherrschaft-blumenegg-a-14-4.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg_a_14-0004.jpg" xml:id="lub-media-2598" source="vla-reichsherrschaft-blumenegg-a-14-5.jpg" corresp="B"/>
+    <graphic url="at-vla__reichsherrschaft_blumenegg_a_14-0005.jpg" xml:id="lub-media-2599" source="vla-reichsherrschaft-blumenegg-a-14-6.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Zuwissen. Als sich zwischen des allerdurchleuchtigisten,  
+<lb n="2"/>großmechtigisten furssten und herrn, herrn <persName ref="lub-actors-4">Max
+<lb break="no" n="3"/>imilians</persName>, römischen kayßers, zu allen zeiten merer des 
+<lb n="4"/><orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-122">Dalmacien</placeName>, <placeName ref="lub-places-123">Croacien</placeName> etc.  
+<lb n="5"/>kunig, erzhertzog zu <placeName ref="lub-places-295">Össterreich</placeName>, herzgog zu <placeName ref="lub-places-120">Burgundi</placeName>,  
+<lb n="6"/>zu <placeName ref="lub-places-121">Brabannt</placeName>, und pfalzgrave etc., unßers allergnedigisten  
+<lb n="7"/>herrens ampteuten als vogt, huebmaister und vorsst
+<lb break="no" n="8"/>maister der herschafft <placeName ref="lub-places-10">Veldkirch</placeName> an ainem. Und dann 
+<lb n="9"/>des wolgebornen herrn <persName ref="lub-actors-8">Rudolffen graven zu Sulz</persName> etc.  
+<lb n="10"/>am andern tail, etlich irrungen von wegen dreyer sachen  
+<lb n="11"/>und spennigen stöß, vorsst, wildpann und marckhen be
+<lb break="no" n="12"/>treffent. Als nemblichen der erst spann in <placeName ref="lub-places-44">Gamp
+<lb break="no" n="13"/>endan</placeName> in <placeName ref="lub-places-389">Nenziger tall</placeName> in der herschafft <placeName ref="lub-places-6">Sonenberg</placeName> ge
+<lb break="no" n="14"/>legen, der ander im <placeName ref="lub-places-8">Schanwald</placeName>, und der dritt auff 
+<lb n="15"/><placeName ref="lub-places-70">Damuls</placeName> und zu <placeName ref="lub-places-158">Sonentag</placeName> gehalten. So dann auff ob
+<lb break="no" n="16"/>beruerter römischer kayserlicher mayestat statthalter 
+<lb n="17"/>und regenten zu <placeName ref="lub-places-19">Ynnsprugg</placeName> verordnet comissarien  
+<lb n="18"/>und bemelts grave <persName ref="lub-actors-8">Rudolffen von Sulz</persName>, frey will
+<lb break="no" n="19"/>khurlich bewilligung und zugeben durch ainen, als von 
+<lb n="20"/>baiden obberuerten tails verwilligten und erkhiessten  
+<lb n="21"/>obman mitsampt gleichem zusaz, auff notturfftig  
+<lb n="22"/>und gnugsam verhorung baider tayl klag und andt
+<lb break="no" n="23"/>wurt, auch red und widerred, und ander ir furbracht, 
+<lb n="24"/>mundtlich und briefflich, gerechtigkaiten und khundt
+<lb break="no" n="25"/>schafften, auch nach gethaner besicht und beschaw, un
+<lb break="no" n="26"/>natt, alles nach leng hierinn zuvermelden, guetlich 
+<lb n="27"/>vertragen, hingelegt und entschiden sein, wie her
+<lb break="no" n="28"/>nach volgt, dem ist also, das die marckh 
+<lb n="29"/>zwischen der graffschafft <placeName ref="lub-places-6">Sonenberg</placeName> und der herschafft  
+<lb n="30"/><placeName ref="lub-places-7">Vaduz</placeName> hinfur sein, und der maß also gehalten  
+<lb n="31"/>werden sellen. Nemblich soll die marckh gan, aus  
+<lb n="32"/><placeName ref="lub-places-374">Samynnen bach</placeName> aus dem <placeName ref="lub-places-375">Vall</placeName> hinab, der hochsten  
+
+<lb n="33"/><placeName ref="lub-places-382">Gandenstain</placeName> hinumb, hinuber in <placeName ref="lub-places-383">Gaemposch</placeName>, und von  
+<lb n="34"/><placeName ref="lub-places-383">Gaemposch</placeName> zu alten <placeName ref="lub-places-384">Padbrunnen</placeName> zu <placeName ref="lub-places-267">Noffels</placeName>, und vom  
+<lb n="35"/><placeName ref="lub-places-384">Padbrunnen</placeName> hinuber in das <placeName ref="lub-places-746">Riedt</placeName> in <placeName ref="lub-places-385">Haßen pach</placeName>,  
+<lb n="36"/>vom <placeName ref="lub-places-385">Haßen bach</placeName> hinab in den pach, genant <placeName ref="lub-places-386">Speurs</placeName>,  
+<lb n="37"/>und vom selben pach in <placeName ref="lub-places-103">Rhein</placeName>, welcher jezgemelter  
+<lb n="38"/>marckhen paide obgenante tayl also anainander be
+<lb break="no" n="39"/>khendtlich und gestendig gewesen sein. Dann des 
+<lb n="40"/>hyrß halben, so vor etlichen jaren im <placeName ref="lub-places-8">Schanwald</placeName> von  
+<lb n="41"/>wolffen nider gelegen ist, bey herrn <persName ref="lub-actors-1670">Ludwigen von  
+<lb n="42"/>Branndiß</persName> zeiten, da ist bey grave <persName ref="lub-actors-8">Ruedolffen</persName> <orgName ref="lub-actors-687">Ampt
+<lb break="no" n="43"/>leuten</orgName> und annwalden befunden, das der auff kayser
+<lb break="no" n="44"/>licher mayestat obrigkaiten grund und poden nider 
+<lb n="45"/>gelegen seye, damit grave <persName ref="lub-actors-8">Rudolff</persName> von derselben  
+<lb n="46"/>ansprach auch gestanden ist. Dann des dritten  
+<lb n="47"/>spanns, so sich gehalten hat auff <placeName ref="lub-places-70">Tamuls</placeName> und  
+<lb n="48"/>zum <placeName ref="lub-places-158">Sonnentag</placeName> zwischen beruerter kayserlicher maye
+<lb break="no" n="49"/>stat und grave <persName ref="lub-actors-8">Rudolphen von Sulz</persName> antreffent die 
+<lb n="50"/>die obrigkait und gericht, auch den vorsst und wildpann    
+<lb n="51"/>da zwischen ist ain marckh gemacht. Nemblichen  
+<lb n="52"/>also des erssten, das fur ain marckh gehalten soll  
+<lb n="53"/>werden, der alt marckhstain, so an Metsch auff  
+<lb n="54"/>dem Puchel in Hans Kauffmans gut steet, und vom  
+<lb n="55"/>selben marckhstain soll die marckh gan hinauswert  
+<lb n="56"/>in <placeName ref="lub-places-387">Grassellen</placeName> tobel und pach, und demselben pach  
+<lb n="57"/>und tobel nach, hinauff wie von alterher und von  
+<lb n="58"/>bemeltem marckhstain an <placeName ref="lub-places-391">Turtsch</placeName>, soll die marckh  
+<lb n="59"/>dem <placeName ref="lub-places-391">Turtschen</placeName> nach hinein gan, durch die ausseren  
+<lb n="60"/>und yndern <placeName ref="lub-places-392">Funtnellen</placeName> biß in die marckh, die  
+<lb n="61"/>zwischen aman Springlis haus und stadel steet,  
+<lb n="62"/>und dann hinuber am <placeName ref="lub-places-394">Garlut</placeName> in die Tharren,  
+
+<lb n="63"/>und vom <placeName ref="lub-places-394">Garlut</placeName> hinuber in Sewald under dem See  
+<lb n="64"/>in die höchsten Kopf, und was ob den jezbestimpten  
+<lb n="65"/>marckhen von leuten und guet syzt und gelegen  
+<lb n="66"/>ist, das soll der kayserlichen mayestat mit hochen  
+<lb n="67"/>und nidern gerichten gen <placeName ref="lub-places-70">Tamuls</placeName> in die herschafft  
+<lb n="68"/><placeName ref="lub-places-10">Veldkirch</placeName> zu gehoren, doch nit anders, dann wie man  
+<lb n="69"/>an denen orthen die gericht pfligt, gegen einandern  
+<lb n="70"/>zugebrauchen, wie das von altherkhomen ist, und  
+<lb n="71"/>was under den bemelten marckhen von leuten und  
+<lb n="72"/>guet gelegen ist, das soll graf <persName ref="lub-actors-8">Ruedolffen von Sulz</persName>  
+<lb n="73"/>mit hochen und nidern gerichten seiner herschafft  
+<lb n="74"/><placeName ref="lub-places-12">Bluemenegg</placeName> zugehoren, wie das von alther komen ist,  
+<lb n="75"/>doch das disser vertrag jedem tayl an seinen aigen  
+<lb n="76"/>leuten, vogelrechten, rendten und gulten, wie jeder  
+<lb n="77"/>tayl die von alther gehept hat, unvergriffen und  
+<lb n="78"/>onschedlich sein soll. Dann weiter des jagens  
+<lb n="79"/>halben soll grave <persName ref="lub-actors-8">Ruedolff von Sulz</persName> bey dem  
+<lb n="80"/>gejaid und jagen hinfur beleiben, wie dann seine  
+<lb n="81"/>vordern von <orgName ref="lub-actors-744">Branndiß</orgName> das bishär im brauch gehept  
+<lb n="82"/>haben, und ausserhalb des jagens an den orten  
+<lb n="83"/>ob den bemelten marckhen, soll grave <persName ref="lub-actors-8">Rudolph</persName>  
+<lb n="84"/>sich dhainer oberkhait noch gerechtigkait, perckhwerch  
+<lb n="85"/>oder dergleichen antreffent, nit gebrauchen. Und  
+<lb n="86"/>des zu waren steten urkhundt, so sein dißes entschids  
+<lb n="87"/>und vertrags zwen gleich lauttend brieve under  
+<lb n="88"/>vorberuerter romischer kayserlicher mayestat, auch  
+<lb n="89"/>gemelts grave <persName ref="lub-actors-8">Rudolffen von Sulz</persName> anhangenden  
+<lb n="90"/>ynnsigel auffgericht und verfertig, und jedem tail  
+<lb n="91"/>ainer gegeben. Beschechen am <origDate>pfinztag von unser  
+<lb n="92"/>Lieben Frawen tag Nativitatis nach Cristi  
+
+<lb n="93"/>unßers lieben herrn geburde feinffzechenhundert  
+<lb n="94"/>und im veinffzechenden jare</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Copey vertrags auff  
+<lb n="2"/><placeName ref="lub-places-70">Damuls</placeName> und zum  
+<lb n="3"/><placeName ref="lub-places-158">Sonnentag</placeName> jagends  
+<lb n="4"/>halben, anno etc.  
+<lb n="5"/>im xv d. außgangen  
+<lb n="6"/>anno 1515. 
+</p>
+        <p><lb n="7"/>Ist durch herrn Straußen vidimiert worden. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

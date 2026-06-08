@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-898">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaspar von Ramschwag präsentiert Othmar Boss als neuen Pfarrer von Balzers</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-898">CH-BAC, 032.02 B</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 27. April 1602 / Beschreibstoff: Papier / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar von Ramschwag, Vogt auf Gutenberg, präsentiert dem Churer Bischof Johann Flugi den Priester Othmar Boss aus Bregenz als neuen Pfarrer von Balzers, nachdem die Pfarrpfründe durch den Wegzug von Johannes Held aus Überlingen freigeworden war.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-182">Pfründe</term>
+          <term ref="lub-keywords-140">Pfarrei</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-166">Ramschwag, Kaspar von</persName>
+          <placeName ref="lub-places-13">Gutenberg, Schloss</placeName>
+          <date when="1602-04-27">27. Apr 1602</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-192">Flugi, Johann</persName>
+          <date when="1602-04-28">ca. 28. Apr 1602</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__032_02_-b--0001.jpg" xml:id="lub-media-3939" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3939" n="1"/><lb n="1"/>Dem hochwürdigen fürssten und herren, herrn <persName ref="lub-actors-286">Johanneß</persName>, bischoffen zue <placeName ref="lub-places-175">Chur</placeName>, 
+<lb n="2"/>meinem gnedigen herren, und seiner gnaden vicarien in gaistlichen sachen empeüt ich, <persName ref="lub-actors-166">Caspar 
+<lb n="3"/>von Rammschwag</persName>, römisch kayserlicher majestat vogt zue <placeName ref="lub-places-13">Guettenberg</placeName>, mein guetwillig und freündtlich 
+<lb n="4"/>dienst unnd füeg den selben daneben zuvernehmen, nachdem die pfruendt und pfarr zue 
+<lb n="5"/><placeName ref="lub-places-71">Baltzers</placeName> (welche mir als rechten lechen herren und collatoren zuverleichen gebeürt, auch zue
+<lb break="no" n="6"/>stendig und zuegehörig ist) durch wegkhziechen herren <persName ref="lub-actors-722">Johann Helden</persName> von <placeName ref="lub-places-285">Überlingen</placeName> va
+<lb break="no" n="7"/>cierendt und ledig worden, daß ich diße pfrüendt und pfarr, damit die selben wid
+<lb break="no" n="8"/>erumben mit ainem catolischen taugenlichen priester besetzt und der gotz dienst be
+<lb break="no" n="9"/>fürdert und versechen werde, dem würdigen <persName ref="lub-actors-723">Othmar Bossen</persName> von <placeName ref="lub-places-45">Bregentz</placeName>, der mir
+<lb n="10"/>für ainen hier zue qualificierten und tugentlichen priester und seelsorger berüembdt 
+<lb n="11"/>worden ist, umb gottes singens, leßens, predigens und administrierung der hoch
+<lb break="no" n="12"/>hailigen sacramenten willen ohne pact und geding gelichen habe. Thue derhalben
+<lb n="13"/>eur fürstlichen gnaden und erwürden bemelten herren <persName ref="lub-actors-723">Othmar Bossen</persName> hiemit praesentieren, auch under
+<lb break="no" n="14"/>thenig und dienstlich pitten, dieselben wöllen ine uf gemelte pfarr <placeName ref="lub-places-71">Baltzers</placeName> mit
+<lb n="15"/>allen zinsen, gülten, zechenden, nutzungen und was darzue gehördt inevistieren und be
+<lb break="no" n="16"/>stetigen. Daß beger ich der gebür nach underthenig und dienstlichs vleiß zuverdienen
+<lb n="17"/>und zuebeschulden. Zue urkhundt dessen hab ich mein adenlich an
+<lb break="no" n="18"/>geboren secret insigel (doch mir, meinen erben und nachkhomen an der lechenschafft
+<lb n="19"/>und collatur one schaden) hiefürgetruckht. Beschechen und geben auf <placeName ref="lub-places-13">Guetemberg</placeName> 
+          <lb n="20"/>den <origDate when="1602-04-27">sibenundzwaintzigisten monnats aprilliß deß sechzechenhundert und 
+<lb n="21"/>andern jarß</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

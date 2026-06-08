@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-955">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Privileg Rudolfs II. für Christoph, Rudolf und Carl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1">B1: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-955">LI-LA, RA 73/18</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 4. November 1572 / Beschreibstoff: Papier, 18 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+          <witness xml:id="B2">B2: Kopie (kollationierte Abschrift), Signatur: <ref type="identifier" target="lub-objects-1010">AT-ÖStA HHStA Länderabteilung Österreichische Akten Vorderösterreich 7 fol. 489r-500v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Originaldatierung: 4. November 1572 / Beschreibstoff: Papier, 22 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Privileg von Kaiser Rudolf II. für Christoph, Rudolf und Karl Ludwig von Sulz betreffend Freiheiten, Blutbann, Ehrschutz, Steinbrüche. Insert: Gleich lautendes Privileg für die Grafen von Sulz von Kaiser Friedrich III. vom 26. Juni 1471.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-21">Privileg</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-25">Maximilian II.</persName>
+          <placeName ref="lub-places-364">Wien</placeName>
+          <date when="1572-11-04">4. Nov 1572</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-127">Sulz, Christoph von</persName>
+          <date when="1572-11-04">4. Nov 1572</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-113">Sulz, Rudolf VII. von</persName>
+          <date when="1572-11-04">4. Nov 1572</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-13">Sulz, Karl Ludwig von</persName>
+          <date when="1572-11-04">4. Nov 1572</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="li-la__ra_73_18-0001.jpg" xml:id="lub-media-1620" source="ra-73-18-s01.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0002.jpg" xml:id="lub-media-1621" source="ra-73-18-s02.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0003.jpg" xml:id="lub-media-1622" source="ra-73-18-s03.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0004.jpg" xml:id="lub-media-1623" source="ra-73-18-s04.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0005.jpg" xml:id="lub-media-1624" source="ra-73-18-s05.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0006.jpg" xml:id="lub-media-1625" source="ra-73-18-s06.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0007.jpg" xml:id="lub-media-1626" source="ra-73-18-s07.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0008.jpg" xml:id="lub-media-1627" source="ra-73-18-s08.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0009.jpg" xml:id="lub-media-1628" source="ra-73-18-s09.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0010.jpg" xml:id="lub-media-1629" source="ra-73-18-s10.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0011.jpg" xml:id="lub-media-1630" source="ra-73-18-s11.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0012.jpg" xml:id="lub-media-1631" source="ra-73-18-s12.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0013.jpg" xml:id="lub-media-1632" source="ra-73-18-s13.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0014.jpg" xml:id="lub-media-1633" source="ra-73-18-s14.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0015.jpg" xml:id="lub-media-1634" source="ra-73-18-s15.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0016.jpg" xml:id="lub-media-1635" source="ra-73-18-s16.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0017.jpg" xml:id="lub-media-1636" source="ra-73-18-s17.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_73_18-0018.jpg" xml:id="lub-media-1637" source="ra-73-18-s18.jpg" corresp="B1"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0001.jpg" xml:id="lub-media-990" source="1572-11-04-at-hhsta-oa-vo-7-fol-489r-privilegien.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0002.jpg" xml:id="lub-media-991" source="1572-11-04-at-hhsta-oa-vo-7-fol-490r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0003.jpg" xml:id="lub-media-992" source="1572-11-04-at-hhsta-oa-vo-7-fol-490v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0004.jpg" xml:id="lub-media-993" source="1572-11-04-at-hhsta-oa-vo-7-fol-491r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0005.jpg" xml:id="lub-media-994" source="1572-11-04-at-hhsta-oa-vo-7-fol-491v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0006.jpg" xml:id="lub-media-995" source="1572-11-04-at-hhsta-oa-vo-7-fol-492r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0007.jpg" xml:id="lub-media-996" source="1572-11-04-at-hhsta-oa-vo-7-fol-492v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0008.jpg" xml:id="lub-media-997" source="1572-11-04-at-hhsta-oa-vo-7-fol-493r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0009.jpg" xml:id="lub-media-998" source="1572-11-04-at-hhsta-oa-vo-7-fol-493v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0010.jpg" xml:id="lub-media-999" source="1572-11-04-at-hhsta-oa-vo-7-fol-494r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0011.jpg" xml:id="lub-media-1000" source="1572-11-04-at-hhsta-oa-vo-7-fol-494v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0012.jpg" xml:id="lub-media-1001" source="1572-11-04-at-hhsta-oa-vo-7-fol-495r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0013.jpg" xml:id="lub-media-1002" source="1572-11-04-at-hhsta-oa-vo-7-fol-495v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0014.jpg" xml:id="lub-media-1003" source="1572-11-04-at-hhsta-oa-vo-7-fol-496r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0015.jpg" xml:id="lub-media-1004" source="1572-11-04-at-hhsta-oa-vo-7-fol-496v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0016.jpg" xml:id="lub-media-1005" source="1572-11-04-at-hhsta-oa-vo-7-fol-497r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0017.jpg" xml:id="lub-media-1006" source="1572-11-04-at-hhsta-oa-vo-7-fol-497v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0018.jpg" xml:id="lub-media-1007" source="1572-11-04-at-hhsta-oa-vo-7-fol-498r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0019.jpg" xml:id="lub-media-1008" source="1572-11-04-at-hhsta-oa-vo-7-fol-498v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0020.jpg" xml:id="lub-media-1009" source="1572-11-04-at-hhsta-oa-vo-7-fol-499r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0021.jpg" xml:id="lub-media-1010" source="1572-11-04-at-hhsta-oa-vo-7-fol-499v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0022.jpg" xml:id="lub-media-1011" source="1572-11-04-at-hhsta-oa-vo-7-fol-500r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_7_fol__489r-500v-0023.jpg" xml:id="lub-media-1012" source="1572-11-04-at-hhsta-oa-vo-7-fol-500v.jpg" corresp="B2"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir <persName ref="lub-actors-25">Maximilian der Ander</persName>, von gottes gnaden  
+<lb n="2"/>erwölter römischer khaiser, zue allen zeiten merer deß <orgName ref="lub-actors-516">Reichs</orgName>,  
+<lb n="3"/>in <placeName ref="lub-places-145">Germanien</placeName>, zue <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Böheimb</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName>  
+<lb n="4"/>unnd <placeName ref="lub-places-294">Schlavonien</placeName> etc. könig, erzherzog zu <placeName ref="lub-places-295">Össterreich</placeName>, herzog  
+<lb n="5"/>zu <placeName ref="lub-places-120">Burgundi</placeName>, zu <placeName ref="lub-places-121">Brabant</placeName>, zue <placeName ref="lub-places-259">Steyr</placeName>, zu <placeName ref="lub-places-260">Kärndten</placeName>, zu <placeName ref="lub-places-261">Crain</placeName>,  
+<lb n="6"/>zu <placeName ref="lub-places-296">Lüzenburg</placeName>, zu <placeName ref="lub-places-263">Wierttemberg</placeName>, <placeName ref="lub-places-297">Ober</placeName> unnd <placeName ref="lub-places-298">Nider Schlesien</placeName>,  
+<lb n="7"/>fürst zue <placeName ref="lub-places-78">Schwaben</placeName>, margrave des <orgName ref="lub-actors-516">Hailigen Römischen Reichs</orgName>,  
+<lb n="8"/>zue <placeName ref="lub-places-299">Burggaw</placeName>, zu <placeName ref="lub-places-300">Mehrren</placeName>, <placeName ref="lub-places-302">Ober</placeName> unnd <placeName ref="lub-places-301">Nider Lausniz</placeName>, gefürster  
+<lb n="9"/>graf zue <placeName ref="lub-places-303">Haspurg</placeName>, zu <placeName ref="lub-places-96">Tyrol</placeName>, zue <placeName ref="lub-places-304">Pfirdt</placeName>, zu <placeName ref="lub-places-305">Kiburg</placeName> und zue  
+<lb n="10"/><placeName ref="lub-places-306">Görz</placeName>, landtgrave in <placeName ref="lub-places-307">Elsass</placeName>, herr auf der <placeName ref="lub-places-308">Windischen Marckh</placeName>,  
+<lb n="11"/>zue <placeName ref="lub-places-309">Portenaw</placeName> unnd zu <placeName ref="lub-places-310">Salinß</placeName> etc. Bekhennen offenlich  
+<lb n="12"/>mit disem brieff unnd thun khundt allermeniglich, nach  
+<lb n="13"/>dem unnß die wolgebornen unsser unnd des <orgName ref="lub-actors-516">Reichs</orgName> liebe  
+<lb n="14"/>getrewen <persName ref="lub-actors-189">Geörg graff zue Helffenstain</persName>, freyherr zue  
+<lb n="15"/><placeName ref="lub-places-344">Gundelfingen</placeName>, unsser unnd des durchleuchtigen hochgebornen  
+<lb n="16"/>unssers freundtlichen lieben brueders unnd fürsten, erzherzog  
+<lb n="17"/><persName ref="lub-actors-11">Ferdinannden zue Österreich</persName> etc. rath unnd seiner lieb obrister  
+<lb n="18"/>hoffmaister, unnd <persName ref="lub-actors-466">Heinrich graffe zu Fürstenberg</persName>, <placeName ref="lub-places-332">Hailigen
+<lb break="no" n="19"/>berg</placeName> unnd <placeName ref="lub-places-73">Werdenberg</placeName>, weilundt graff <persName ref="lub-actors-9">Alwigen zu Sulz</persName> etc. 
+<lb n="20"/>nachgelassener unmündiger süne <persName ref="lub-actors-127">Christophen</persName>, <persName ref="lub-actors-113">Ruodolphen</persName>  
+<lb n="21"/>unnd <persName ref="lub-actors-13">Carl Ludwigen graven zu Sulz</persName> unnd landtgraven im  
+<lb n="22"/><placeName ref="lub-places-18">Klöggw</placeName> verordnete vormunder, underthenigist zu erkhennen  
+<lb n="23"/>geben, welcher massen weylundt der durchleuchtigist fürst,  
+<lb n="24"/>kaiser <persName ref="lub-actors-30">Friderich</persName>, unsser lieber herr unnd ururanherr   
+<lb n="25"/>loblichister gedächtnuß, jezermelter irer jungen pflegsönen  
+<lb n="26"/>voreltern unnd vattern, ire gnaden unnd freyhaiten, so inen  
+<lb n="27"/>vor vil jharen verbrunnen, widerumb vernewert unnd  
+<lb n="28"/>etlich von newem gegeben. Auch den pann über das blueth  
+
+<lb n="29"/>zu richten, inen, ihren grafschafften, herschafften, stätten, märckhten,  
+<lb n="30"/>dörffern, hochen unnd nidern gerichten, zu lehen verlihen  
+<lb n="31"/>hett, inhalt unnd vermög eines aufgerichten und verfertigten  
+<lb n="32"/>briefs, den sie unnß originaliter fürgebracht unnd von  
+<lb n="33"/>wort zu wort also lautet: Wir, <persName ref="lub-actors-30">Friderich</persName>, von gottes  
+<lb n="34"/>gnaden römischer kaiser, zu allen zeiten mehrer des  
+<lb n="35"/><orgName ref="lub-actors-516">Reichs</orgName>, zue <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName> künig, herzog zu  
+<lb n="36"/><placeName ref="lub-places-295">Össterreich</placeName>, zu <placeName ref="lub-places-259">Steyr</placeName>, zue <placeName ref="lub-places-260">Kärndten</placeName> unnd zu <placeName ref="lub-places-261">Crain</placeName>, herr auf  
+<lb n="37"/>der <placeName ref="lub-places-308">Windischen Marckh</placeName>, zue <placeName ref="lub-places-309">Partenaw</placeName>, grave zu <placeName ref="lub-places-303">Haspurg</placeName>  
+<lb n="38"/>zu <placeName ref="lub-places-96">Tyrol</placeName>, zu <placeName ref="lub-places-304">Pfirdt</placeName> unnd zu <placeName ref="lub-places-305">Kiburg</placeName>, marggrave zu <placeName ref="lub-places-299">Burgaw</placeName>  
+<lb n="39"/>unnd landtgrave in <placeName ref="lub-places-307">Elsass</placeName> etc. Bekhennen offentlich mit  
+<lb n="40"/>disem brief unnd thun khundt allen denen, die in sehen oder  
+<lb n="41"/>hören lesen, das fürkhommmen sein, die edlen <persName ref="lub-actors-2687">Johannes</persName>,  
+<lb n="42"/><persName ref="lub-actors-2685">Alwigen</persName> unnd <persName ref="lub-actors-2686">Ruedolph</persName>, gebrüedere, graven zu <orgName ref="lub-actors-7">Sulz</orgName> unnd  
+<lb n="43"/>lanndtgraven im <placeName ref="lub-places-18">Kleggew</placeName>, unsser rath unnd des <orgName ref="lub-actors-516">Reichs</orgName>  
+<lb n="44"/>lieben getrewen, unnd haben unnß durch genugsamb  
+<lb n="45"/>unnd glaublich underrichtung gebracht, das sie unnd ihre  
+<lb n="46"/>vordern vormalen von unnß unnd unssern vorfharen, am  
+<lb n="47"/><orgName ref="lub-actors-516">Reich</orgName> römischen kaisern unnd künigen, mit mancherlay  
+<lb n="48"/>gnaden unnd freyhaiten loblichen begnadet und versehen,  
+<lb n="49"/>die inen aber nachmals mitsambt andern iren gnaden  
+<lb n="50"/>privilegien unnd freyhait brieffen in einem ihrem hauß in  
+<lb n="51"/>unsser unnd des <orgName ref="lub-actors-516">Reichs</orgName> statt <placeName ref="lub-places-17">Rotweil</placeName>, als wir auch des  
+<lb n="52"/>warlich underricht, verbrunnen unnd darinnen sonderlich  
+<lb n="53"/>begriffen unnd bestimbt gewesen were, das nihemandt  
+<lb n="54"/>sy, noch die iren mit frembden, außlendischen gerichten  
+<lb n="55"/>fürladen beschweren, auchten noch bekhümmern soll. So wurde  
+
+<lb n="56"/>doch zu zeiten nichts desto minder von etlichen understanden,  
+<lb n="57"/>sy ihre räht, vogt, ambtleuth, diener, stätt und dörffer,  
+<lb n="58"/>hindersessen unnd die inen zuversprechen steen, daran zuver
+<lb break="no" n="59"/>hindern unnd sy ihr leib unnd gueth mit frembden ge
+<lb break="no" n="60"/>richten unnd in ander unbillig weeg zuverhindern, zube
+<lb break="no" n="61"/>laidigen unnd zu beschweren. Unnd unns darauf demüetig
+<lb break="no" n="62"/>lich angerueffen unnd gebeten, das wir inen unnd ihren erben  
+<lb n="63"/>solche ihr gnad, freyhaith, alt herkhommen, guete gewonhait  
+<lb n="64"/>unnd gerechtigkheit, so sy unnd ihr vordern von unnß  
+<lb n="65"/>unnd unssern vorfharn am <orgName ref="lub-actors-516">Reich</orgName> römischen kaisern unnd  
+<lb n="66"/>künigen bißhero erworben gehabt unnd herbracht hetten,  
+<lb n="67"/>zuvernewern, unnd die in allen unnd jeden puncten unnd  
+<lb n="68"/>articuln zu confirmieren unnd bestetten, auch darmit  
+<lb n="69"/>sy ihre erben unnd underthanen fürbaß vor unbillichen  
+<lb n="70"/>beschwerungen berüebet bleiben, unnd unnß unnd dem  
+<lb n="71"/><orgName ref="lub-actors-516">Hailigen Reich</orgName> desto statlicher gediennen möchten, wider  
+<lb n="72"/>mit sondern unßern kaiserlichen gnaden und freyhaiten  
+<lb n="73"/>zu begaben unnd zuversehen, genediglich geruehten.  
+<lb n="74"/>Daß haben wir angesehen der vorgenanten von Sulz de
+<lb break="no" n="75"/>müetig unnd zimblich pith, auch die getrewen annemblichen 
+<lb n="76"/>unnd nuzlichen dienst, so sy unnd ihre vordern unnß  
+<lb n="77"/>unnd unssern vorfharen am <orgName ref="lub-actors-516">Reich</orgName> römischen kaisern  
+<lb n="78"/>unnd königen, in räthen, auch andern erhlichen unnd  
+<lb n="79"/>merckhlichen sachen offt manigfaltiglich mit grosser arbaith  
+<lb n="80"/>unnd darlegung ires leibs unnd guets unverdrossen gethan  
+<lb n="81"/>haben, unnd in khünfftig zeit wol thun sollen unnd mügen,  
+<lb n="82"/>auch den schaden, so sy in dergleichen unnd mehr gnaden  
+
+<lb n="83"/>unnd freyhaiten von unssern vorfharen am <orgName ref="lub-actors-516">Reich</orgName> ihe gehabt  
+<lb n="84"/>unnd von dem prandt gelitten hanndt. Unnd haben  
+<lb n="85"/>darumb mit wolbedachtem mueth, guetem und zeitigem  
+<lb n="86"/>rath, unsser unnd des <orgName ref="lub-actors-516">Hailigen Reichs</orgName> fürsten, graven,  
+<lb n="87"/>herren unnd getrewen unnd rechter wissen, denselben <persName ref="lub-actors-2687">Johannes</persName>,  
+<lb n="88"/><persName ref="lub-actors-2685">Alwigen</persName> unnd <persName ref="lub-actors-2686">Ruodolphen</persName>, gebrüeder, graven zue <orgName ref="lub-actors-7">Sulz</orgName>,  
+<lb n="89"/>all unnd jeglich ihr gnad freyhaiten, recht, brief, privilegia,  
+<lb n="90"/>alt herkhommen, guet gewonhait unnd gerechtigkeit, wie dan  
+<lb n="91"/>die gemelten gericht, gerichtszwang unnd ander sachen,  
+<lb n="92"/>halb auf sy unnd ihre vorderen lautendt, unnd loblich  
+<lb n="93"/>erworben herkhommen unnd herbracht, sein vernewert,  
+<lb n="94"/>in auch die inn allen unnd jeglichen ihren wortten, clausulen,  
+<lb n="95"/>articuln, mainungen unnd begreiffungen, allermaß  
+<lb n="96"/>als ob die all unnd jeglich besonder von wort zu wort  
+<lb n="97"/>hierinnen begriffen unnd beschriben werden, die wir  
+<lb n="98"/>auch also angezogen haben wöllen, genediglich confürmiert  
+<lb n="99"/>unnd besteet. Unnd darzue die besonder gnad gethan  
+<lb n="100"/>unnd die freyhait, nach dem sy iezo verbrent sein, wider  
+<lb n="101"/>gegeben, also das hinfüro zu ewigen zeiten nihemandt,  
+          <lb n="102"/>wer der oder die weren, die obgenanten <persName ref="lub-actors-2687">Johannßen</persName>,  
+          <lb n="103"/><persName ref="lub-actors-2685">Alwigen</persName> unnd <persName ref="lub-actors-2686">Ruodolffen</persName>, gebrüeder, graven zu <orgName ref="lub-actors-7">Sulz</orgName>,  
+<lb n="104"/>ir erben rath, vogt, landtrichter, richter, urteelsprecher,  
+<lb n="105"/>ambleuth, diener, steett, märkh, dörffer, burger, under
+<lb break="no" n="106"/>sässen, gemaindt, auch alle unnd jede, die zu ihnen in pfandt
+<lb break="no" n="107"/>schafften oder in ander weeg, wie das immer sein möchte, 
+<lb n="108"/>es seyen gaistlich, weltlich mann oder frawen personen,  
+<lb n="109"/>die in zuversprechen steen, in was wüerden, stats oder  
+<pb facs="lub-media-1624" n="5"/>
+<lb n="110"/>wesens, unnd wie in die gewondt sein, kainerley außgenommen,  
+<lb n="111"/>weder ihr leib noch ihr gueth, umb einich handel, es treffe  
+          <lb n="112"/>an ehr, leib, oder gueth, für unnß unnd des <orgName ref="lub-actors-516">Reichs</orgName>, noch  
+<lb n="113"/>khain ander hoffgericht, landtgericht, noch gericht, gaistlich  
+<lb n="114"/>noch weltlich, wie die genant, oder wa die gelegen sein,  
+<lb n="115"/>nicht fürladen, verkünden, vordern, ansprechen, beklagen, be
+<lb break="no" n="116"/>kümbern, auchten oder in ander weeg beschweren noch belaidigen  
+<lb n="117"/>sollen noch mögen, sonder wher zu inen oder ihren erben zu  
+<lb n="118"/>sprechen, zuclagen, oder zu fordern hett, oder gewinnet, umb  
+<lb n="119"/>was sachen das sey, es berüer trew, ehr, leib, oder gueth,  
+<lb n="120"/>nichts hindan geschaiden, der oder dieselben sollen darumben  
+<lb n="121"/>recht suechen unnd nehmen, vor unnß oder unssern nachkhommen  
+          <lb n="122"/>am <orgName ref="lub-actors-516">Reich</orgName> römischen kaisern, oder künigen, deßgleichen  
+<lb n="123"/>wer zu iren rahten, vogten, landtrichtern, richtern,  
+<lb n="124"/>urteelsprechern, dienern, dienerinnen, comunen, rähten   
+<lb n="125"/>oder gerichten zu sprechen hette oder gewunne, wie oben  
+<lb n="126"/>berüert ist, der oder dieselben sollen das suechen, vor ihnen  
+<lb n="127"/>unnd iren rähten unnd mindert anderstwa. Wer aber  
+<lb n="128"/>zu sonderlichen personen, iren underseßen und die in  
+<lb n="129"/>zuversprechen steen, clag oder spruch hette, oder zu haben  
+<lb n="130"/>vermaint, der oder dieselben sollen darumb recht vor  
+<lb n="131"/>den richtern, oder in den gerichten, da dieselben an
+<lb break="no" n="132"/>sprüchigen sizen unnd hingehören, suechen unnd nehmen, 
+<lb n="133"/>unnd sich des lassen bemüegen, solches rechtens sy auch  
+<lb n="134"/>ainem jedem nach seiner erforderung fürderlich statt,  
+<lb n="135"/>thun unnd erghen lassen sollen. Wa aber den clegern  
+<lb n="136"/>an den vorgemelten enden das recht kundtlich versagt   
+<pb facs="lub-media-1625" n="6"/>
+<lb n="137"/>oder gefhärlich verzogen wurde, so möchte als dan ein  
+<lb n="138"/>jeder cleger sein recht suechen, an den enden unnd  
+<lb n="139"/>gerichten, da sich das gebüerth, wurden auch die  
+          <lb n="140"/>vorgenanten gebrüeder, graven zu <orgName ref="lub-actors-7">Sulz</orgName>, ire erben,  
+<lb n="141"/>diener, mann, edel oder unedelleuth, burger oder underseßen,  
+<lb n="142"/>gepauren oder derselben diener unnd manne güetter,  
+<lb n="143"/>leuth, burger, diener, undersessen und die in unnd  
+<lb n="144"/>denselben iren dienern unnd mannen zuversprechen  
+<lb n="145"/>steen, ainer oder mehr, durch jhemandt an ainich  
+<lb n="146"/>hoffgericht, landtgericht, oder gericht verkhündt,  
+<lb n="147"/>erfordert oder fürgehaischen, wan dan sy oder ihre  
+<lb n="148"/>ambtleuht von ihren wegen in den ambt, solch fürgehaischen  
+<lb n="149"/>personen gesessen sein, dieselben leuth unnd gueth  
+<lb n="150"/>durch ihr offen besigelt brief erfordern, und nach lauth  
+<lb n="151"/>der obbestimbten unsser kaiserlichen freyhait zuweisen   
+<lb n="152"/>begeren, als dan sollen dieselben hofrichter, lanndt
+<lb break="no" n="153"/>richter, oder andere richter, wider den oder dieselben  
+<lb n="154"/>nicht urtheilen, richten, auchten noch procedieren, sonder  
+<lb n="155"/>die an die endt wie oben berüert ist, weisen unnd die  
+<lb n="156"/>ferrer darüber nit beschweren noch bekümmern. Wa  
+<lb n="157"/>aber solches veracht unnd über die unsser kaiserliche  
+<lb n="158"/>freyhait ichetz wider sy, die ihren, oder ihr guet ge
+<lb break="no" n="159"/>handlet wurde, es were mit ladung, verkhündung, 
+<lb n="160"/>verhaischung, urteelsprechen, auchten, oder anlaiten,  
+<lb n="161"/>wie oder in was schein das beschehe, daßelb alles  
+<lb n="162"/>vernichten wir unnd thun das ab, von obgemelter  
+<pb facs="lub-media-1626" n="7"/>
+<lb n="163"/>kayserlicher macht, unnd wöllen, das daß alles crafft
+<lb break="no" n="164"/>loss unnd untaugenlich sein, unnd den gebrüedern von 
+          <lb n="165"/><orgName ref="lub-actors-7">Sulz</orgName>, iren erben, leuthen unnd güetern, ganz kheinen schaden  
+<lb n="166"/>bringen soll, in kein weiß, sonder so sezen unnd wöllen  
+<lb n="167"/>wir, das all unnd jeglich frevel unnd buessen, so sich in  
+          <lb n="168"/>der genanten graven von <orgName ref="lub-actors-7">Sulz</orgName> graffschafften, herrschafften,  
+<lb n="169"/>hohen unnd nidern gerichten begeben, niendert dan von  
+<lb n="170"/>inen oder iren ambtleuthen, den sy das zue zeiten bevelchen,  
+<lb n="171"/>gericht unnd nach herhkhommen unnd gewonhaith deß landts  
+<lb n="172"/>daselbs gestrafft werden sollen, ohne meniglichs irrung  
+<lb n="173"/>unnd widersprechen. Ob aber einer umb mißhandlung in  
+<lb n="174"/>den obgemelten iren grafschafften, herschafften und gerichten,  
+<lb n="175"/>unnd durch jhemandts an recht darauß gefüert wurde,  
+<lb n="176"/>der oder dieselben, oder die von derowegen solches geschehe,  
+<lb n="177"/>solle die, so sy also weeg gefüert hetten, wan sy durch die  
+<lb n="178"/>genanten graven, ir erben oder ambtleuth, darumb  
+<lb n="179"/>ersuecht oder ernant wurden, widerumb in ihr oder ihrer  
+<lb n="180"/>ambtleuth handen, an die obgenanten ir gericht stellen  
+<lb n="181"/>unnd antworten, unnd alßdan nach gestalt einer jeden  
+<lb n="182"/>mißhandlung straffen unnd püessen laßen. Es sollen auch  
+          <lb n="183"/>dieselben <persName ref="lub-actors-2687">Johannß</persName>, <persName ref="lub-actors-2685">Alwig</persName> unnd <persName ref="lub-actors-2686">Ruodolff</persName>, gebrüeder,  
+          <lb n="184"/>graven zue <orgName ref="lub-actors-7">Sulz</orgName>, all unnd jeglich erzschäz, stainbrüch,  
+<lb n="185"/>wülstät unnd andere herligkheit, in den genanten iren  
+<lb n="186"/>graffschafften, herrschafften unnd gerichten gelegen, nichts  
+<lb n="187"/>außgenommen haben, selbs pawen unnd gebrauchen, oder  
+<lb n="188"/>andern zu pawen vergonnen unnd verleihen mögen. Unnd  
+<pb facs="lub-media-1627" n="8"/>
+<lb n="189"/>alß dan der oder dieselben, so die also pawen unnd ire  
+<lb n="190"/>erben solch erzschäz, stainbrüch unnd mülen, so sy die  
+<lb n="191"/>also auf berüerten mülstetten pawen oder vormals  
+<lb n="192"/>nit obgemelter maß gepawen weren, unnd den genanten  
+          <lb n="193"/>graven von <orgName ref="lub-actors-7">Sulz</orgName> unnd ihren erben fürbaß zu lehen ewig
+<lb break="no" n="194"/>lich haben, unnd nit anderst dan in lehensweiß gebrauchen.
+<lb n="195"/>Was auch parstarden unnd herkommenleut, die man ahn den
+<lb break="no" n="196"/>selben enden nennet, landtsiglung sich in iren grafschafften, 
+<lb n="197"/>herrschafften unnd gerichten zu whonen begeben, oder  
+<lb n="198"/>darinnen ir wesen haben, das in unnd ihren erben dieselben  
+<lb n="199"/>schweren unnd als ander, die ihnen gehorsamb sein, das  
+<lb n="200"/>auch all unnd jeglich hofe, dorffer, weyler, die in denselben  
+<lb n="201"/>grafschafften, herrschafften unnd gerichten ligen unnd  
+<lb n="202"/>nit ordenlich gerichts herren gehabt oder noch haben,  
+<lb n="203"/>kainen herren nach ihrem gefallen unnd willen suechen   
+          <lb n="204"/>noch annemen, sonder die genanten graven zu <orgName ref="lub-actors-7">Sulz</orgName>  
+<lb n="205"/>unnd ihr erben in der grafschafft, herschafft unnd gericht  
+<lb n="206"/>sy ligen, für ihr recht herren unnd ordenlich richter  
+<lb n="207"/>erkhennen unnd den glüpd unnd aydt, als andere die  
+<lb n="208"/>iren thuen unnd alle gehorsambe beweisen sollen. Unnd  
+          <lb n="209"/>nach dem wir durch die genanten von <orgName ref="lub-actors-7">Sulz</orgName> bericht sein,  
+<lb n="210"/>das in benanten ihren grafschafften die gewonlich maut,  
+          <lb n="211"/>steet unnd zöll, so wir unnd unssere vorfharen am <orgName ref="lub-actors-516">Reich</orgName>  
+<lb n="212"/>in unnd iren fordern verlihen haben, zu zeiten durch die, den  
+<lb n="213"/>die mit ihrer hanndtierung zubesuechen gebüert gemithen,  
+<lb n="214"/>unnd andere strassen, in denselben iren grafschafften,  
+<lb n="215"/>herschafften unnd gerichten besucht und fürgenommen werden,  
+<pb facs="lub-media-1628" n="9"/>
+          <lb n="216"/>haben wir den obbestimbten von <orgName ref="lub-actors-7">Sulz</orgName> unnd iren erben  
+<lb n="217"/>vergunt unnd erlaubt, das sy fürbaß ewiglich solche  
+<lb n="218"/>meuth auf denselben strassen, so also in obberüerter maß  
+<lb n="219"/>besuecht unnd gesuecht werden, gleich in aller maß, als an  
+<lb n="220"/>den andern iren gesezten mauthstetten nemen unnd sich  
+<lb n="221"/>aller gerechtigkheit daselbs, die ihr mauthsteet haben,  
+<lb n="222"/>gebrauchen unnd dabey handthaben mögen, das auch dieselben  
+          <lb n="223"/>von <orgName ref="lub-actors-7">Sulz</orgName> unnd ire erben in allen iren schlössern, stätten,  
+<lb n="224"/>märckhten, dorffern unnd gebieten, so iren räthen oder  
+<lb n="225"/>dienern zuversprechen steen, offenbar achter, so an unsserm  
+<lb n="226"/>unnd des <orgName ref="lub-actors-516">Reichs</orgName> Hoffgericht zue <orgName ref="lub-actors-519">Rotweil</orgName>, unsserm kayser
+<lb break="no" n="227"/>lichem <orgName ref="lub-actors-521">Camergericht</orgName>, oder an andern enden unnd gerichten 
+<lb n="228"/>in acht erkhent worden, hausen, hofen unnd gemainschafften,  
+<lb n="229"/>mit in unnd den iren. haben lassen. Doch ob solche achter  
+<lb n="230"/>in ire schlösser, stett, marckh, dorffer unnd gebieten,  
+<lb n="231"/>nach gerichtsordnung angefallen wurden, das man dan den  
+<lb n="232"/>aufhaltern unverzuglich rechtens zu inen gestatten unnd  
+<lb n="233"/>verhelffen solle, als sich gegen solchen achtern nach ordnung  
+<lb n="234"/>des rechtens zuthun gebüert. So aber solche achter in  
+<lb n="235"/>der schlösser, stett, marckh, dörffer unnd gebüet, unnd  
+<lb n="236"/>widrumb darauß kommen unnd von jhemandt angefallen,  
+<lb n="237"/>nach rechtenß gegen inen begert wurde, so sollen die  
+          <lb n="238"/>genanten von <orgName ref="lub-actors-7">Sulz</orgName>, ihre erben, die iren unnd die inen  
+<lb n="239"/>zuversprechen steen, des gegen allermeniglich onentgolten,  
+<lb n="240"/>unnd deßhalben ansprach sein unnd bleiben. Und darmit  
+          <lb n="241"/>sich die obgemelten von <orgName ref="lub-actors-7">Sulz</orgName> bey solchen iren herligkeiten  
+<lb n="242"/>desto baß behalten, auch iren underthanen vor ungerechtigkeit  
+<pb facs="lub-media-1629" n="10"/>
+<lb n="243"/>unnd unbillicher beschedigung vor sein unnd das unrecht  
+<lb n="244"/>unnd mißhandlung gestraffen mögen. So haben wir  
+<lb n="245"/>in allen unnd jedlichen ihren obberüerten grafschafften,  
+<lb n="246"/>herrschafften, stetten, marckhten, dörffern, hohen unnd  
+<lb n="247"/>nidern gerichten, den pann über das blueht zurichten gene
+<lb break="no" n="248"/>diglich gelihen. Also das sy den iren ambleuten fürbaß 
+<lb n="249"/>mögen bevelchen, damit bey den ayden, so sy unns darum
+<lb break="no" n="250"/>ben thun unnd von denselben iren ambleuten nehmen 
+<lb n="251"/>sollen, zu handlen, zu richten unnd zu volfharen gegen  
+<lb n="252"/>dem reichen als dem armen, und dem armen als reichen, unnd darinnen  
+<lb n="253"/>nichts angesehen, weder mueth noch gab, freundtschafft noch 
+<lb n="254"/>feindtschafft, noch kainerlay andere sachen, dan allein  
+<lb n="255"/>gerechts gericht unnd recht, das auch als dan dieselben  
+<lb n="256"/>ire ambtleuth in irem namen zue offenbahren missethatern  
+<lb n="257"/>mögen greiffen, die fhaen, <gap/>tigen unnd nach ihren  
+<lb n="258"/>offenbaren mißhandlungen oder selbs bekhantnuß, an  
+<lb n="259"/>all irer khundtschafft unnd bewerbung bey den vorgemelten  
+<lb n="260"/>ayden, unnd als sy das am jungsten gericht gegen gott  
+<lb n="261"/>dem almechtigen verantworten wöllen, zu handlen unnd  
+<lb n="262"/>zugefharen, als sich mit solchen misstetern nach ordnung  
+<lb n="263"/>deß rechten zu thun gebüerth. Ob aber zu zeiten die
+<lb break="no" n="264"/>selben misthäter entrunnen unnd dannoch umb solche 
+<lb n="265"/>ihr verhandlung zurichten nottürfftig wurden, das  
+<lb n="266"/>sie oder ire anwaldt alß dan macht haben, umb die
+<lb break="no" n="267"/>selben mißhandlung urthailen zurichten und zu auchten, 
+<lb n="268"/>das auch als dan solch urthail unnd acht all die crafft  
+<pb facs="lub-media-1630" n="11"/>
+<lb n="269"/>unnd macht haben, alß ob die vor einem geordneten  
+<lb n="270"/>hoffgericht oder landtgericht gesprochen, und in  
+<lb n="271"/>irem bestandt gegangen weren, von allermeniglich  
+<lb n="272"/>unverhindert. Was auch gnaden oder freyhaiten  
+<lb n="273"/>vormaln vor unnß oder unssern vorfharen erworben  
+<lb n="274"/>unnd außgangen weren, oder noch auß vleißigen pitt,  
+<lb n="275"/>auß vergessenhait außgheen wurden, die disen unssern  
+<lb n="276"/>kaiserlichen gnaden unnd freyhaiten abbruch theten,  
+<lb n="277"/>in was schein oder mainung gesein oder gehaisen  
+<lb n="278"/>werden möchten, dieselben all thun wir ab, vermechten  
+<lb n="279"/>die von obgemelter unsser kayserlicher macht vol
+<lb break="no" n="280"/>kommenhait unnd mainen, sezen unnd wöllen, das die 
+<lb n="281"/>ganntz crafftloss untauglich unnd vernicht sein, und  
+          <lb n="282"/>den gemelten graven von <orgName ref="lub-actors-7">Sulz</orgName>, iren erben unnd den  
+<lb n="283"/>iren, daran ganz khein schaden noch krankh bringen  
+<lb n="284"/>solle. Doch inn den obgeschribenen stuckhen und articuln  
+          <lb n="285"/>allen unnß unnd dem <orgName ref="lub-actors-516">Hailigen Reich</orgName> obrigkheit vor
+<lb break="no" n="286"/>behalten unnd außgeschaiden, vernewern, confirmieren 
+<lb n="287"/>unnd bestetten in unnd iren erben, solch vorbestimbt  
+<lb n="288"/>ir gnad, freyhait, recht, altherkhommen, guete gewonhait  
+<lb n="289"/>unnd gerechtigkheit. Thuen geben unnd verleihen in  
+<lb n="290"/>auch solch obgemelt gnad unnd freyhait von römischer  
+<lb n="291"/>kaiserlicher macht volkhommenhait unnd rechter wissen  
+<lb n="292"/>in crafft diß briefs, unnd gebieten darauf allen  
+<lb n="293"/>unnd jedtlichen unsseren unnd des <orgName ref="lub-actors-516">Hailigen Reichs</orgName> chur
+<lb break="no" n="294"/>fürsten, fürsten, gaistlichen unnd weltlichen, graven, freyen 
+<pb facs="lub-media-1631" n="12"/>
+<lb n="295"/>herren, rittern, khnechten, haubtleuten, vizthomben,  
+<lb n="296"/>vogten, pflegern, verweseren, burgermaistern, richter,  
+<lb n="297"/>räthen, burgern unnd gemainden unnd sonst allen  
+<lb n="298"/>andern unssern unnd des <orgName ref="lub-actors-516">Reichs</orgName> underthanen unnd  
+<lb n="299"/>getrewen, in was würden, stats oder wesens die sein,  
+<lb n="300"/>ernstlich unnd vesstiglich mit disem brief, das sy, die  
+          <lb n="301"/>vorgenanten <persName ref="lub-actors-2687">Johannßen</persName>, <persName ref="lub-actors-2685">Alwigen</persName> unnd <persName ref="lub-actors-2686">Ruodolffen</persName>,  
+          <lb n="302"/>graven zu <orgName ref="lub-actors-7">Sulz</orgName>, ire erben unnd nachkhommen und all  
+<lb n="303"/>die iren, an den obgeschribenen vernewerung, confirmation  
+<lb n="304"/>unnd bestettigung, auch disen unssern kaiserlichen gnaden  
+<lb n="305"/>unnd freyhaiten, nicht hindern noch irren, sonder ge
+<lb break="no" n="306"/>trewlich dabey handthaben, schuzen, schirmen und der 
+<lb n="307"/>gerueblich gebrauchen, geniessen unnd ganzlich dabey  
+<lb n="308"/>bleiben zu lassen, auch sy noch die iren hierwider nit  
+<lb n="309"/>tringen noch beschweren, noch jhemandt andern zu thun  
+<lb n="310"/>gestatten, in kein weiß, alß lieb in allen unnd jedtlichen   
+          <lb n="311"/>seye, unsser unnd des <orgName ref="lub-actors-516">Reichs</orgName> schwere ungnad und darzue  
+<lb n="312"/>ain peen, nemblichen hundert marckh lottigs goldts  
+<lb n="313"/>zuvermeyden, die ein jedtlicher, so freventlich hierwider  
+          <lb n="314"/>thete, verfallen sein solle, halb in unsser unnd des <orgName ref="lub-actors-516">Reichs</orgName>  
+<lb n="315"/><orgName ref="lub-actors-521">Cammer</orgName>, den andern halben thail den offt genanten  
+          <lb n="316"/>graven zu <orgName ref="lub-actors-7">Sulz</orgName> unnd iren erben unableslich zubezalen.  
+<lb n="317"/>Mit urkhundt diß briefs besiglet mit unsserm kay
+<lb break="no" n="318"/>serlicher mayestatt anhangenden insigel. Geben 
+<lb n="319"/>zue <placeName ref="lub-places-77">Regenspurg</placeName>, <date when="1471-06-26">am mitwoch nach Sanct Johannß tag  
+<lb n="320"/>zu Sonnwenden nach Christi geburht vierzehenhundert  
+<pb facs="lub-media-1632" n="13"/>
+          <lb n="321"/>unnd in dem ain unnd sibenzigisten</date>, unsserer <orgName ref="lub-actors-516">Reich  
+<lb n="322"/>des Romischen</orgName> im zway unnd dreissigisten, des  
+<lb n="323"/>kayserthumbs im zwainzigisten unnd des hungarischen  
+<lb n="324"/>im dreyzechenden jahren. Unnd darauf gehorsamb
+<lb break="no" n="325"/>lich angesuecht unnd gebetten, das wir, als iez regieren
+<lb break="no" n="326"/>der römischer kayser, inen, den gedachten vormündern,  
+<lb n="327"/>solche irer pflegsüne gnaden unnd freyhaiten, auch zu  
+<lb n="328"/>vernewern, zu confirmieren unnd zubestetten, unnd den  
+<lb n="329"/>paan über das bluet zurichten in obberüerten iren graf
+<lb break="no" n="330"/>schafften, herschafften, stetten, märckhten, dörffern widerumb 
+<lb n="331"/>zu lehen zu verleihen, genediglich gerueheten. Das  
+<lb n="332"/>wir demnach genediglich angesehen haben, solch ihr zimblich  
+<lb n="333"/>pitt, auch die gehorsamben getrewen willigen und angene
+<lb break="no" n="334"/>men dienst, so weylundt ermelter ihrer pflegsüne vor
+          <lb break="no" n="335"/>eltern unnd vattern, unsseren loblichen vorfharen am <orgName ref="lub-actors-516">Reich</orgName> 
+          <lb n="336"/>römischen kaysern unnd künigen, unnß unnd dem <orgName ref="lub-actors-516">Hailigen  
+<lb n="337"/>Reich</orgName> jeweder zeit unverdrossenlich erzaigt und bewisen  
+<lb n="338"/>haben, unnd sy in khünfftig wol thun mögen und sollen.  
+<lb n="339"/>Unnd darumb mit wolbedachtem mueth, gutem raht  
+          <lb n="340"/>unnd rechter wissen, denselben graven <persName ref="lub-actors-189">Geörgen zue  
+            <lb n="341"/>Helffenstain</persName> unnd <persName ref="lub-actors-466">Heinrichen zu Fürstenberg</persName>, alß  
+<lb n="342"/>vormündern unnd lehentragern ermelter ihrer pfleg
+          <lb break="no" n="343"/>süne, der jungen graven zue <orgName ref="lub-actors-7">Sulz</orgName>, obeingeleibte 
+<lb n="344"/>gnaden unnd freyhaiten vernewert, confirmiert unnd  
+<lb n="345"/>bestettigt, unnd mehrbemelten pann über das bluet zue
+<lb break="no" n="346"/>richten, zu lehen genediglich verlihen, verneweren, confir
+<lb break="no" n="347"/>mieren unnd bestettigen solche gnaden unnd freyhaiten 
+<pb facs="lub-media-1633 " n="14"/>
+<lb n="348"/>unnd verleihen inen den pann über das blueht zu haben, zu  
+<lb n="349"/>richten, anstatt unnd als lehenträger wie vorsteet, alles  
+<lb n="350"/>auß römischer kayserlicher macht volkhommenhaith  
+<lb n="351"/>hiemit wissentlich in crafft diß briefs, was wir inen  
+<lb n="352"/>von recht unnd billigkhait wegen daran vernewern,  
+<lb n="353"/>confirmieren, bestetten unnd verleihen sollen und mögen,  
+<lb n="354"/>unnd mainen, sezen unnd wöllen, das obbestimbte gnaden  
+<lb n="355"/>unnd freyhaiten in allen unnd jeden ihren puncten, articuln,  
+<lb n="356"/>clausulen, inhaltungen, mainungen unnd begreiffungen,  
+<lb n="357"/>whar, vesst, steet unnd cräfftig sein, unnd die mehr berüer
+<lb break="no" n="358"/>ten vormunder anstatt irer pflegsüne, sich derselben nach 
+<lb n="359"/>irem inhalt erfrewen, geniessen unnd gebrauchen sollen unnd  
+<lb n="360"/>mögen, unnd obberüerten pann über das blueth zu richten,  
+          <lb n="361"/>von unnß unnd dem <orgName ref="lub-actors-516">Hailigen Reich</orgName> in lehentragers  
+<lb n="362"/>weiß inhaben, nuzen unnd gebrauchen, unnd denselben  
+<lb n="363"/>fürther iren ambtleuten, den sy zu jeder zeit für geschickht  
+<lb n="364"/>unnd tauglich achten unnd befinden werden. Damit bey  
+<lb n="365"/>dem ayde, so sy unnß darumben gethan, und von denselben  
+<lb n="366"/>iren ambtleuten auch nehmen sollen zu handlen, zu richten  
+<lb n="367"/>unnd zu volfharen gegen dem reichen als dem armen   
+<lb n="368"/>unnd dem armen als dem reichen, unnd darinnen  
+<lb n="369"/>nichts anzusehen, weder mueth, gabb, gunst, forcht,  
+<lb n="370"/>freundtschafft, feindschafft, noch sonst ganz kein  
+<lb n="371"/>ander sachen, dan gerecht, gericht unnd recht, das  
+<lb n="372"/>auch als dan dieselben ire ambtleuth in irem namen  
+<lb n="373"/>nach offenbharen mössethätern mügen greiffen, die fhaen,  
+<lb n="374"/>gechtigen unnd nach offenbaren mißhandlungen, oder  
+<pb facs="lub-media-1634" n="15"/>
+<lb n="375"/>selbs bekhantnus, ohne alle ferrere khundtschafft unnd  
+<lb n="376"/>bewherung bey den vorgemelten ayden, unnd alß sy  
+<lb n="377"/>das am jungsten gericht gegen gott dem almechtigen,  
+<lb n="378"/>verantworten wollen, zuhandlen unnd zugefharen, alss  
+<lb n="379"/>sich mit solche mißthätern nach ordnung deß Reichs  
+<lb n="380"/>rechten zuthun gebüert. Ob aber je zu zeiten, solch  
+<lb n="381"/>mißthäter entrunnen unnd dannoch umb solch ihr verhand
+<lb break="no" n="382"/>lung zurichten nottürfftig sein wurde, das sy oder ire 
+<lb n="383"/>anwäldt, als dan macht haben, umb dieselb mishandlung  
+<lb n="384"/>zu urthailen, zurichten unnd zu ächten, das auch alßdann  
+<lb n="385"/>solche urthail unnd acht, alle die crafft unnd macht haben,  
+<lb n="386"/>als ob die vor einem geordneten hofgericht oder landtgericht  
+<lb n="387"/>gesprochen unnd in irem bestandt gegangen weren, von aller
+<lb break="no" n="388"/>meniglich unverhindert. Doch unnß und dem 
+          <lb n="389"/><orgName ref="lub-actors-516">Reich</orgName> an unsser obrigkheit unvergriffen unnd uneschädlich,  
+          <lb n="390"/>die offtgedachten grafen <persName ref="lub-actors-189">Geörg zue Helffenstain</persName> unnd  
+          <lb n="391"/><persName ref="lub-actors-466">Heinrich zu Fürstenberg</persName>, haben unnß auch darauf anstatt  
+<lb n="392"/>unnd als lehentrager obvermelter irer pflegsüne, der  
+          <lb n="393"/>jungen graven zu <orgName ref="lub-actors-7">Sulz</orgName>, durch iren gevolmechtigten  
+<lb n="394"/>anwaldt, den ersamen gelerten unssern unnd des Reichs  
+<lb n="395"/>lieben getrewen Johann Spretern, der rechten doctorn,  
+<lb n="396"/>in crafft habenden gewalts, den er unns deßhalben in  
+<lb n="397"/>originali fürbracht, gewonlicht glübdt unnd aydt gethan,  
+          <lb n="398"/>inmassen iezermelter unmündige graven zue <orgName ref="lub-actors-7">Sulz</orgName>,  
+<lb n="399"/>wan sy zu iren vogtbaren jharen khommen, gleichsfals zuthun  
+          <lb n="400"/>schuldig sein sollen, unnß unnd dem <orgName ref="lub-actors-516">Hailigen Reich</orgName>  
+<pb facs="lub-media-1635" n="16"/>
+<lb n="401"/>von solches lehen wegen getrew, gehorsamb unnd gewertig  
+<lb n="402"/>zue sein, unnd mit solchem pann obbestimbter massen zuthun  
+<lb n="403"/>unnd zu fharen, als sich gebüerth. Unnd gebieten  
+<lb n="404"/>darauf allen unnd jeden churfürsten, fürsten, gaistlichen  
+<lb n="405"/>unnd weltlichen prelaten, graven, freyen herren, rittern,  
+<lb n="406"/>knechten, landtvögten, haubtleuten, vizthomen, vogten, pflegern,  
+<lb n="407"/>verwesern, ambtleuten, schuldthaisen, burgermaistern, richtern,  
+<lb n="408"/>rähten, burgern, gemainden unnd sonst allen andern unssern  
+<lb n="409"/>unnd des Reichs underthanen unnd getrewen, was würdens,  
+<lb n="410"/>stanndts oder wesens die sein, ernstlich unnd vesstiglich  
+<lb n="411"/>mit disem brieff, unnd wöllen, das sy, die vorgemelten graven  
+          <lb n="412"/><persName ref="lub-actors-189">Geörgen zu Helffenstain</persName> unnd graff Heinrichen zu Fürsten
+<lb break="no" n="413"/>berg, ire pflegsüne vorgemelt unnd alle die irigen an den 
+<lb n="414"/>obgeschribenen iren gnaden unnd freyhaiten, und dieser unsser  
+<lb n="415"/>vernewerung confirmierung, bestettigung und verleihung  
+<lb n="416"/>nit irren noch verhindern, sonder getrewlich dabey handthaben,  
+<lb n="417"/>schuzen, schürmen unnd der geruebilich gebrauchen, geniessen  
+<lb n="418"/>unnd genzlich dabey bleiben lassen, hierwider nit thun noch  
+<lb n="419"/>des jhemandts andern zu thun gestatten, in khein weiß als  
+<lb n="420"/>lieb ainem jeden sey, unsser unnd des <orgName ref="lub-actors-516">Reichs</orgName> schwere ungnad  
+<lb n="421"/>unnd straff unnd darzue ein pöen in obeingeleibten kayser Fride
+<lb break="no" n="422"/>richs brief begriffen zuvermeiden. Das mainen wir 
+<lb n="423"/>ernstlich mit urkhundt diß briefs, besigelt mit unsserm  
+<lb n="424"/>kaiserlichen anhangenden insigel. Geben in unsser statt <placeName ref="lub-places-364">Wien</placeName>,  
+<lb n="425"/>den <origDate>vierten tag des monats novembris nach Christi unssers  
+<lb n="426"/>lieben herren geburth fünfzehen hundert unnd im zway unnd  
+  <lb n="427"/>sibenzigisten</origDate>, unsserer <orgName ref="lub-actors-516">Reiche des Romischen</orgName> unnd <placeName ref="lub-places-146">Hungarischen </placeName> 
+          <lb n="428"/>im zehenden und des <placeName ref="lub-places-162">Böhmischen</placeName> im vierunndzwainzigsten jaren.  
+          <lb n="429"/><persName ref="lub-actors-25">Maximilian</persName>
+<lb n="430"/>Ad mandatum sacrae caesareae  
+<lb n="431"/>maiestatis proprium 
+<lb n="432"/>Vice ac nomine reverendissimi domini Danielis 
+<lb n="433"/>archicancellarii Maguntini  
+<lb n="434"/>V. Johann Baptist Weber d.  
+<lb n="435"/>Andreas Erstenberger manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-1636" n="1"/><lb n="1"/>Taxa 25 goldguldin und pro schirm unnd  
+<lb n="2"/>canzley jura 6 goldguldin 
+<lb n="3"/>Registratur: graven etc. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

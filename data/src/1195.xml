@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1195">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Durchgangsrecht der Untertanen von Balzers durch die Güter des Kaspar von Ramschwag bei Schloss Gutenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1195">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 93r-94r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 27. August 1597 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar von Ramschwag bittet die Regierung in Innsbruck um Bewilligung, den Untertanen von Balzers, deren Güter an seine bei Schloss Gutenberg grenzen, einen Durchgang zu gewähren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1597-08-27">27. Aug 1597</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__93r-94r-0001.jpg" xml:id="lub-media-3186" source="1597-08-27-buch-walgau-8-38-93r-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__93r-94r-0002.jpg" xml:id="lub-media-3187" source="1597-08-27-buch-walgau-8-39-93v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__93r-94r-0003.jpg" xml:id="lub-media-3188" source="1597-08-27-buch-walgau-8-39-94r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Idem. 
+</p>
+        <p><lb n="2"/>Was <persName ref="lub-actors-166">Caspar von Rambschwag</persName>, vogt zu  
+<lb n="3"/><placeName ref="lub-places-13">Guettenberg</placeName>, vom <date when="1597-07-26">26. diß negstver
+<lb break="no" n="4"/>schinen monats julii</date> von wegen der 
+
+<lb n="5"/>grefischen sulzischen unnderthanen zu  
+<lb n="6"/><placeName ref="lub-places-71">Balzers</placeName>, welliche mit iren güettern  
+<lb n="7"/>an ernannts schloss <placeName ref="lub-places-13">Guettemberg</placeName>  
+<lb n="8"/>zuegehörigen äckher wissen, gärtten,  
+<lb n="9"/>höf unnd güetter stossen und bey ime  
+<lb n="10"/>umb bewilligung aines nachperlichen  
+<lb n="11"/>unnderganngs, alß erneuerung der ab
+<lb break="no" n="12"/>ganngnen märckhen und vergleichungen 
+<lb n="13"/>halten haben sollen, an unns in under
+<lb break="no" n="14"/>thenigkhait schrifftlich gelanngen lassen 
+<lb n="15"/>unnd zuverrichtung solicher sachen umb  
+<lb n="16"/>zueordnung aines beystanndts gehorsamb
+<lb break="no" n="17"/>lichen bitet, das habt ir auß beyge
+<lb break="no" n="18"/>schlossnem, unns derwegen von gedachtem 
+<lb n="19"/>von <persName ref="lub-actors-166">Rambschwag</persName> zuegethanem schreiben  
+<lb n="20"/>mit mererm zusehen. 
+</p>
+        <p><lb n="21"/>Wann dann berüerter von <persName ref="lub-actors-166">Rambschwag</persName>  
+<lb n="22"/>angezogner unnderganng durch geschwor
+<lb break="no" n="23"/>ne unpartheyische unndergenger verrichten 
+<lb n="24"/>zlassen nicht für unnotwendig, sonnder ein  
+<lb n="25"/>guet werckh zu sein errechten thuet. Dem
+<lb break="no" n="26"/>nach, so ist in der römisch kayserlichen mayestät etc., unnsers 
+<lb n="27"/>allergnedigisten herrn, namen hiemit  
+<lb n="28"/>unnser bevelch an uech, wovor ir ange
+<lb break="no" n="29"/>regts unnderganngs halber euers theils 
+
+<lb n="30"/>khain sonnders bedennckhen hettet, das  
+<lb n="31"/>ir alßdann obernanntem von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="32"/>schwag</persName> ainen auß euch, der solichem werckh 
+<lb n="33"/>sambt und neben ime beiwone zu ainem  
+<lb n="34"/>beystanndt zueordnet, unnd den uncossten,  
+<lb n="35"/>so darüber auferlauffen möchte, von den  
+<lb n="36"/>ambts gefellen abrichtet, an deme vol
+<lb break="no" n="37"/>zieht ir etc. Datum, den <origDate>27. augusti anno etc. 97</origDate>.
+</p>
+        <p><lb n="38"/>An die <orgName ref="lub-actors-2588">ambtleuth  
+<lb n="39"/>zu Veldtkhürch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

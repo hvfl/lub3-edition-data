@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1222">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beratung über gütliche Beilegung des Konflikts mit den Grafen von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1222">AT-TLA BBÄ OÖRG Kopialbücher Buch Walgau 8 fol. 62r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. Juni 1595 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anfrage bei Dr. Gall Hager und Vogt und Amtleuten von Feldkirch betreffend eine gütliche Kommission zur Beilegung der alten und neuen Streitigkeiten zwischen Feldkirch und Sulz und Ramschwag und Sulz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-06-10">10. Jun 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__62r-v-0001.jpg" xml:id="lub-media-3704" source="1595-06-10-buch-walgau-8-19-62r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_buch_walgau_8_fol__62r-v-0002.jpg" xml:id="lub-media-3705" source="1595-06-10-buch-walgau-8-20-62v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><orgName ref="lub-actors-2479">Vogt und ambtleut zu Veldtkhirch</orgName><lb n="2"/>contra sulzische <orgName ref="lub-actors-687">Ambtleut</orgName>. 
+</p>
+        <p><lb n="3"/>Wir haben eur schreiben vom <date when="1595-05-24">24. negst verflossnen  
+<lb n="4"/>monats maii</date>, die newen zwischen euch mit den  
+<lb n="5"/>sulzischen <orgName ref="lub-actors-687">Ambtleuten</orgName> erhaltenden spenn antreffent,  
+<lb n="6"/>sambt den beylagen empfanngen und angehört,  
+<lb n="7"/>und lassen unns nit zuwider sein, das die sachen  
+<lb n="8"/>auf ain güettige commission gericht und ver
+<lb break="no" n="9"/>anlasst werde, wie wir es dann hieneben doctor 
+<lb n="10"/><persName ref="lub-actors-173">Gallen Hager</persName>, (so ir ime mit ehistem weiter zu handen  
+<lb n="11"/>zuezefertigen werdet wissen) also zueschreiben.  
+<lb n="12"/>Dieweil wir aber nit unrathsam hielten, das auch  
+<lb n="13"/>die alten spenn, so man gegen ermelten <orgName ref="lub-actors-687">Ambt
+<lb break="no" n="14"/>leuten</orgName>, oder den herrn grafen zu <persName ref="lub-actors-13">Sulz</persName> selbst hat, 
+<lb n="15"/>als da ist von wegen des vogts zu <placeName ref="lub-places-13">Guetenberg</placeName>,  
+<lb n="16"/><persName ref="lub-actors-166">Caspar von Rambschwag</persName>, <persName ref="lub-actors-167">Caspern Wolfingers</persName>  
+<lb n="17"/>und in annder mer weeg in die commission  
+<lb n="18"/>handlung auch zuziehen, und ob müglich in ain  
+<pb facs="lub-media-3705" n="2"/>
+<lb n="19"/>güettige hinlegung und vergleichung zubringen,  
+<lb n="20"/>haben wir von ime, doctor <persName ref="lub-actors-173">Hager</persName>, ob es also thuen
+<lb break="no" n="21"/>lich, sein bedennckhen nebenbey erfordert, und aber 
+<lb n="22"/>nit umbgeen wellen, was in deme ewr mainung  
+<lb n="23"/>und guetachten sein mechte, euch gleichermassen  
+<lb n="24"/>anzehören. Innamen der römisch khayserlichen mayestät etc. unnsers   
+<lb n="25"/>allergnedigisten herrn, hiemit bevelhendt, das ir  
+<lb n="26"/>unns dasselbig und was für alte spenn unnder
+<lb break="no" n="27"/>schidlich und aigentlich seyen, unverlenngt in schrifft 
+<lb n="28"/>berichtet. Daran beschieht etc. Datum, den <origDate>10. junii  
+<lb n="29"/>anno etc. 95</origDate>. 
+</p>
+        <p><lb n="30"/>An <orgName ref="lub-actors-2588">vogt und ambtleut  
+<lb n="31"/>zu Veldtkhirch</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
