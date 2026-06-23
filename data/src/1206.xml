@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1206">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dem Haus Österreich ist der Kauf von Vaduz und Schellenberg zu teuer</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1206">AT-TLA BBÄ OÖKAM Akten Resolutionen von Hof 1610 Oktober 25</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. Oktober 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-399">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1610 fol. 216v-217r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. Oktober 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid Erzherzog Maximilians III. an die Vorderösterreichische Regierung und Kammer betreffend den Kauf von Blumenegg und die Erlaubnis für Karl Ludwig von Sulz,Vaduz und Schellenberg jemand anderem, jedoch immer mit Vorbehalt der Schlossöffnung und dass sein Nachfolger um gute Beziehungen zu den Nachbarterritorien bemüht ist</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1610-10-25">25. Okt 1610</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_akten_resolutionen_von_hof_1610_oktober_25-0001.jpg" xml:id="lub-media-3535" source="1610-10-25-ookam-akten-resulationen-von-hof-040r.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_akten_resolutionen_von_hof_1610_oktober_25-0002.jpg" xml:id="lub-media-3536" source="1610-10-25-tla-ookam-akten-resulationen-von-hof-040v.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1610_fol__216v-217r-0001.jpg" xml:id="lub-media-3465" source="geschaft-von-hof-1610-04-216v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1610_fol__216v-217r-0002.jpg" xml:id="lub-media-3466" source="geschaft-von-hof-1610-04-217r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wellichermassen graf <persName ref="lub-actors-113">Rudolff zu Sulz</persName> sich zum höchsten  
+<lb n="2"/>beschwert, wegen das er mit dem kauff umb <placeName ref="lub-places-12">Bluemenegg</placeName>  
+<lb n="3"/>zu seinem merckhlichen schaden lang aufgehalten werde,  
+<lb n="4"/>das hat ein lobliche <orgName ref="lub-actors-2777">Regierung</orgName> unnd <orgName ref="lub-actors-2788">Camer</orgName> beyverwahrt  
+<lb n="5"/>originaliter zuvernemmen. Nun hat man gleichwol  
+<lb n="6"/>zu hof sovil nachrichtung, das den vierten diß der <orgName ref="lub-actors-2777">Vorderösterreichischen  
+<lb n="7"/>Regierung</orgName> unnd <orgName ref="lub-actors-2788">Camer</orgName> desswegen die nothdurfft anbe
+<lb break="no" n="8"/>volhen worden. Ob aber solliches schreiben allhie verligen 
+<lb n="9"/>bliben, oder was die verhinderung sein möchte, das man so  
+<lb n="10"/>langsamb mit der sach umbgehet, das ist hergegen unbewisst. 
+<lb n="11"/>Es würdet aber wolermelte <orgName ref="lub-actors-2777">Regierung</orgName> unnd <orgName ref="lub-actors-2788">Camer</orgName> die ver
+<lb break="no" n="12"/>füegung zuthuen wissen, damit diß werckh lenger nit 
+<lb n="13"/>eingestellt, sonder mit anbevolhner tractation fürderlich  
+<lb n="14"/>unnd ohne alles einstellen fürgangen werde. 
+</p>
+        <p><lb n="15"/>Sonsten hat man bey diser ordinari graf <persName ref="lub-actors-13">Carl Ludwigen  
+<lb n="16"/>zu Sulz</persName> den weeg eröffnet unnd licentiam gegeben, seine  
+<lb n="17"/>bayde herrschafften <placeName ref="lub-places-7">Vaduz</placeName> unnd <placeName ref="lub-places-11">Schellenberg</placeName> (doch in  
+<lb n="18"/>allweeg mit vorbehalt der öffnung, unnd das er die
+<lb break="no" n="19"/>selben einem fridferttigen nachbarn einhendigen solle) 
+<lb n="20"/>anderwerts zuversilberen unnd zuverkauffen. Dessen  
+<lb n="21"/>wolermelte <orgName ref="lub-actors-2777">Regierung</orgName> unnd <orgName ref="lub-actors-2788">Camer</orgName> zur nachrichtung  
+<lb n="22"/>hiemit erinnert würdet. Actum <placeName ref="lub-places-19">Ynsprugg</placeName>, den  
+<lb n="23"/><origDate>fünffunndzwainzigisten tag monats octobris im sech
+<lb break="no" n="24"/>zehenhundert unnd zehendten jar</origDate>.
+<lb n="25"/><gap/> 
+</p>
+        <p><lb n="26"/>Decretum per serenissimum dominum  
+<lb n="27"/>archiducem <persName ref="lub-actors-184">Maximilianum</persName>. 
+<lb n="28"/><gap/></p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Praesentatum 28. octobris anno 1610. 
+</p>
+        <p><lb n="2"/>Zu hannden <orgName ref="lub-actors-929">Oberösterreichische Re
+<lb break="no" n="3"/>gierung</orgName> unnd <orgName ref="lub-actors-2788">Camer</orgName>.
+</p>
+        <p><lb n="4"/>Registrata den 25. tag  
+<lb n="5"/>octobris anno 1610. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

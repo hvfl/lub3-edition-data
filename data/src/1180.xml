@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1180">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Johann Ludwig I. von Sulz möchte die Herrschaft Altkirch als Lehen übertragen bekommen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1180">AT-TLA BBÄ OÖKAM  Aktenserie Resolutionen von Hof 1535 Nov 2</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 2. November 1535 / Beschreibstoff: Papier, 2 Seiten / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag: <ref type="identifier" target="lub-objects-341">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1535 fol. 201v-202v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid Ferdinands I. an Vizestatthalter, Regenten und Kammerräten der Oberösterreichischen Lande, über die Herrschaft Altkirch Erkundigungen einzuziehen betreffend deren Einkünfte, Nutzungsmöglichkeiten und Höhe des Pfandschillings, da Johann Ludwig I. von Sulz diese Pfandherrschaft seines verstorbenen Vaters Rudolf V. von Sulz überschrieben haben möchte.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <placeName ref="lub-places-364">Wien</placeName>
+          <date when="1535-11-02">2. Nov 1535</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam__aktenserie_resolutionen_von_hof_1535_nov_2-0001.jpg" xml:id="lub-media-3024" source="1535-11-02-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam__aktenserie_resolutionen_von_hof_1535_nov_2-0002.jpg" xml:id="lub-media-3025" source="1535-11-02-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1535_fol__201v-202-0001.jpg" xml:id="lub-media-3384" source="geschaft-von-hof-1535-02-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1535_fol__201v-202-0002.jpg" xml:id="lub-media-3385" source="geschaft-von-hof-1535-02.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-26">Ferdinand</persName> von gots gnaden romischer,  
+<lb n="2"/>auch zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Beham</placeName> etc. khunig etc. 
+</p>
+        <p><lb n="3"/>Wolgepornnen, edlen, ersamen, gelerten und lieben getrewen. Wir geben euch zuerkhennen, das wir durch den wol
+<lb break="no" n="4"/>gepornnen, unnsern und des <orgName ref="lub-actors-516">Reichs</orgName> lieben getrewen <persName ref="lub-actors-35">Hanns Ludwigen grafen zu Sulz</persName> etc., von wegen unserer 
+<lb n="5"/>herschafft <placeName ref="lub-places-57">Altkirch</placeName>, so weylenndt sein vater graf <persName ref="lub-actors-8">Ruedolff von Sulz</persName> pfanndsweise inngehabt, das wir ime  
+<lb n="6"/>solhe herschafft sein leben lanng unabloßlich zuverschreiben geruechten, underthenigclich angelangt word
+<lb break="no" n="7"/>den sein. Dieweil aber wir gelegenhait derselben herschafft <placeName ref="lub-places-57">Altkirch</placeName>, furnemlich wie hoch 
+<lb n="8"/>der pfanndtschilling und dagegen die einkhomen und nutzung der herschafft sich erstreckhen, was wir auch  
+<lb n="9"/>unns zu nutz damit handlen unnd verordnung thun mochten, unns auch an solhem sloss gelegen ist  
+<lb n="10"/>nit wissen tragen. Demnach bevelhen wir euch mit ernnst, das ir uns desselben und aller  
+<lb n="11"/>gelegenhait aigenntlich sampt ewerm rat und guetbedunckhen berichtet. Und nachdem gedachter  
+<lb n="12"/>graf von <persName ref="lub-actors-35">Sulz</persName> selbst personndlich an unnserm hof ist, unnd diser und andrer sachen halben bey unns  
+<lb n="13"/>taglich umb beschayd anhaltet, ewern bericht furdret. Daran beschiecht unser ernnstliche mainung.  
+<lb n="14"/>Geben in unnserer stat <placeName ref="lub-places-364">Wienn</placeName>, am <origDate>andern tag novembris anno etc. im xxxv</origDate>. unserer <orgName ref="lub-actors-516">Reiche  
+<lb n="15"/>des Romischen</orgName> im funfften und der andern im zehendten. 
+<lb n="16"/><persName ref="lub-actors-26">Ferdinand</persName> 
+</p>
+        <p><lb n="17"/>Ad mandatum domini 
+<lb n="18"/><gap/></p>
+        <p>
+          <lb n="19"/>
+          <gap/>
+        </p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>10. novembris  
+<lb n="2"/>1535. 
+</p>
+        <p><lb n="3"/>Dem wolgebornnen, edlen, ersamen, gelerten und  
+<lb n="4"/>unsern lieben, getrewen n. unserm vicestathalter,  
+<lb n="5"/>regenten und camerreten der <placeName ref="lub-places-160">Oberosterreichischen  
+<lb n="6"/>Lande</placeName>. 
+</p>
+        <p><lb n="7"/>auf <gap/> damit  
+<lb n="8"/>furderlich bescheid gefallen. 
+<lb n="9"/>herrschafft <placeName ref="lub-places-57">Altkirch</placeName>  
+<lb n="10"/><placeName ref="lub-places-19">Ynsprukh</placeName> 
+<lb n="11"/>Registrata  
+<lb n="12"/>2. novembris  
+<lb n="13"/>1535 
+<lb n="14"/><persName ref="lub-actors-35">Sulz</persName>  
+<lb n="15"/><placeName ref="lub-places-57">Altkirch</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

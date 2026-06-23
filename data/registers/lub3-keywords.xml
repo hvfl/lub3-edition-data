@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-06-23 09:49:13 aus </p>
+        <p>Datenbankexport vom 2026-06-23 10:00:57 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-06-23T09:49:13+02:00">teiHeader was automatically produced from the database 2026-06-23T09:49:13+02:00</change>
+      <change when="2026-06-23T10:00:57+02:00">teiHeader was automatically produced from the database 2026-06-23T10:00:57+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -464,6 +464,14 @@
           <label xml:lang="en" type="main">Befestigungsanlage</label>
           <label xml:lang="en" type="sort">befestigungsanlage</label>
         </item>
+        <item xml:id="lub-keywords-91">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Munition</label>
+          <label xml:lang="de" type="sort">munition</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Munition</label>
+          <label xml:lang="en" type="sort">munition</label>
+        </item>
         <item xml:id="lub-keywords-95">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Waffe</label>
@@ -471,6 +479,22 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Waffe</label>
           <label xml:lang="en" type="sort">waffe</label>
+        </item>
+        <item xml:id="lub-keywords-98">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Schuldenerlass</label>
+          <label xml:lang="de" type="sort">schuldenerlass</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Schuldenerlass</label>
+          <label xml:lang="en" type="sort">schuldenerlass</label>
+        </item>
+        <item xml:id="lub-keywords-99">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Reparatur</label>
+          <label xml:lang="de" type="sort">reparatur</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Reparatur</label>
+          <label xml:lang="en" type="sort">reparatur</label>
         </item>
         <item xml:id="lub-keywords-100">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -581,6 +605,14 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Tod</label>
           <label xml:lang="en" type="sort">tod</label>
+        </item>
+        <item xml:id="lub-keywords-135">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Landvogtei</label>
+          <label xml:lang="de" type="sort">landvogtei</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Landvogtei</label>
+          <label xml:lang="en" type="sort">landvogtei</label>
         </item>
         <item xml:id="lub-keywords-138">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -1111,6 +1143,14 @@
           <label xml:lang="en" type="main">Wassernutzung</label>
           <label xml:lang="en" type="sort">wassernutzung</label>
         </item>
+        <item xml:id="lub-keywords-259">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Rechnung</label>
+          <label xml:lang="de" type="sort">rechnung</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Rechnung</label>
+          <label xml:lang="en" type="sort">rechnung</label>
+        </item>
         <item xml:id="lub-keywords-260">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Armenwesen</label>
@@ -1550,6 +1590,14 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Hof</label>
           <label xml:lang="en" type="sort">hof</label>
+        </item>
+        <item xml:id="lub-keywords-337">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Bergbau</label>
+          <label xml:lang="de" type="sort">bergbau</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Bergbau</label>
+          <label xml:lang="en" type="sort">bergbau</label>
         </item>
         <item xml:id="lub-keywords-339">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -3069,6 +3117,39 @@
           <objectType xml:lang="en">Object</objectType>
           <label xml:lang="en" type="main">hofgut</label>
           <label xml:lang="en" type="sort">hofgut</label>
+        </item>
+        <item xml:id="lub-keywords-516">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Landsknecht</label>
+          <label xml:lang="de" type="sort">landsknecht</label>
+          <note type="description" xml:lang="de">
+            <p>Als Landsknecht bezeichnet man einen zu Fuß kämpfenden Söldner des späten 15. bis Mitte des 17. Jahrhunderts.</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Landsknecht</label>
+          <label xml:lang="en" type="sort">landsknecht</label>
+        </item>
+        <item xml:id="lub-keywords-517">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">Anschlag</label>
+          <label xml:lang="de" type="sort">anschlag</label>
+          <note type="description" xml:lang="de">
+            <p>Schätzung</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">Anschlag</label>
+          <label xml:lang="en" type="sort">anschlag</label>
+        </item>
+        <item xml:id="lub-keywords-518">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Schmalkaldischer Krieg</label>
+          <label xml:lang="de" type="sort">schmalkaldischer krieg</label>
+          <note type="description" xml:lang="de">
+            <p>Der Schmalkaldische Krieg wurde von 1546 bis 1547 von Kaiser Karl V. gegen den Schmalkaldischen Bund, ein Bündnis protestantischer Landesfürsten und Städte unter der Führung von Kursachsen und Hessen, geführt. Dabei versuchte der Kaiser, im Heiligen Römischen Reich den Protestantismus zurückzudrängen und gegenüber den Reichsständen die kaiserliche Macht zu stärken.</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Schmalkaldischer Krieg</label>
+          <label xml:lang="en" type="sort">schmalkaldischer krieg</label>
         </item>
       </list>
       <p/>

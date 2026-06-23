@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1200">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bescheid an die Amtsleute in Feldkirch bezüglich verschiedene finanzielle Angelegenheiten Karl Ludwig von Sulz betreffend</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1200">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1607 Nov 19</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 19. November 1607 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1207">AT-TLA BBÄ OÖKAM Kopialbücher Geschäft von Hof 1607 fol. 404r-405v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 19. November 1607 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Sulz hatte sich über die Zurückhaltung des Geldes, inzwischen 8000 Gulden, durch die Oberösterreichische Hofammer beklagt und behauptet, dadurch auch nicht die Schulden bei den Kindern von Dr. Johann Georg Kern über 5.145 Gulden begleichen zu können. Diese Gelder werden ihm ausgezahlt ebenso wie das Öffnungsgeld für die Schlösser Vaduz und Küssaberg. Den Konflikt des Grafen von Sulz mit Kaspar Wolfinger und Kaspar von Ramschwag muss der Graf einstellen und die entstandenen Unkosten bezahlen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-73">öffnungsgeld</term>
+          <term ref="lub-keywords-61">Schulden</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-184">Österreich, Maximilian III. von</persName>
+          <date when="1607-11-19">19. Nov 1607</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_11-0001.jpg" xml:id="lub-media-3212" source="1607-11-19-tla-ookam-akten-resulationen-von-hof-033.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_11-0002.jpg" xml:id="lub-media-3213" source="1607-11-19-tla-ookam-akten-resulationen-von-hof-034-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_11-0003.jpg" xml:id="lub-media-3214" source="1607-11-19-tla-ookam-akten-resulationen-von-hof-034.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_11-0004.jpg" xml:id="lub-media-3215" source="1607-11-19-tla-ookam-akten-resulationen-von-hof-035-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_404r-405v-0001.jpg" xml:id="lub-media-3546" source="geschaft-von-hof-1607-03-404r-1911.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_404r-405v-0002.jpg" xml:id="lub-media-3547" source="geschaft-von-hof-1607-04-404v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_404r-405v-0003.jpg" xml:id="lub-media-3548" source="geschaft-von-hof-1607-04-405r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_404r-405v-0004.jpg" xml:id="lub-media-3549" source="geschaft-von-hof-1607-05-405v-1911.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-184">Maximilian</persName> etc. 
+<lb n="2"/>Wir geben euch hiemit gnädigst zu vernemben, das unnß  
+<lb n="3"/>doctor <persName ref="lub-actors-2785">Johann Geörgen Kherns</persName> von unserer freundlich  
+<lb n="4"/>geliebten fraw muemen, <persName ref="lub-actors-2784">Magdalena</persName>, geborner  
+<lb n="5"/>khünigin zu <placeName ref="lub-places-146">Hungern</placeName>, lobseliger gedachtnuß, ge
+<lb break="no" n="6"/>westen leibmedici hindterlaßne khinder ge
+<lb break="no" n="7"/>horsambist zu erkhennen geben, wie das sy 
+<lb n="8"/>bey dem wolgebornen unsern lieben besondern  
+<lb n="9"/><persName ref="lub-actors-13">Carl Ludwigen graven zu Sulz</persName> 2800 capitäl  
+<lb n="10"/>unnd jetz von villen jahren hero 23 xr. ver
+<lb break="no" n="11"/>fallene intereße, unnd also zusamen in ainer 
+<lb n="12"/>summa 5145 fl. zuversuechen, vermög bey handen  
+<lb n="13"/>habender schuldtverschreibung, aber derselbigen  
+<lb n="14"/>über vilfaltiges anhalten bißhero nit hab
+<lb break="no" n="15"/>hafft werden khönnen. Dahero unnß umb ain 
+<lb n="16"/>gehorsamistes recommendationschreiben an ihne, graven,  
+<lb n="17"/>angelangt, so wir innen, khernischen, den 19. decembris  
+<lb n="18"/>abgewichnen 1606. jahrs gnädigst erthailten.  
+<lb n="19"/>Darüber unnß mehrbemelter graf von <persName ref="lub-actors-13">Sulz</persName>,  
+<lb n="20"/>den 19. tag februarii diß jahrs, wie ir  
+<lb n="21"/>auß der abschrifft no. 1 zu sehen, dahin  
+<lb n="22"/>beantwortet, das er der schuldt zwar be
+
+<lb break="no" n="23"/>khandtlich, unnd ihme zumahl diser aufhalt 
+<lb n="24"/>nit lieb, sich aber benebens wider die <orgName ref="lub-actors-2815">Camer</orgName>  
+<lb n="25"/>undterthenigist erclagt, wie daß auch  
+<lb n="26"/>dieselbig ime bey 8000 fl. capital unnd  
+<lb n="27"/>von anno 1591 hero (welches aber vermög  
+<lb n="28"/>der <orgName ref="lub-actors-2815">Camer</orgName> bericht, exclusive zuverstehen)  
+<lb n="29"/>ausstendigs interesse, auch offnunggelt  
+<lb n="30"/>weegen beder vesstungen <placeName ref="lub-places-86">Khißenberg</placeName> und  
+<lb n="31"/><placeName ref="lub-places-33">Vaduz</placeName> zu thuen schuldig, darumben er mit  
+<lb n="32"/>weniger brief unnd sigl ainhendig, auch  
+<lb n="33"/>crafft derselbigen der bezallung begehrt,  
+<lb n="34"/>so sey er urbiettig, die khernischen ge
+<lb break="no" n="35"/>bürendermassen zu contentiern.
+<lb n="36"/>Wan wir aber khein wissenschafft gehabt,  
+<lb n="37"/>wie die sach im grundt beschaffen, so ist  
+<lb n="38"/>die <orgName ref="lub-actors-2815">Oberösterreichische Camer</orgName> darüber angehört unnd ver
+<lb break="no" n="39"/>nomben worden, die bericht unnß von 
+<lb n="40"/>dritten diß auß waß ursachen ihme,  
+<lb n="41"/>graven, seine einkhomen, so er auß unsers  
+<lb n="42"/>löblichen hauß <orgName ref="lub-actors-172">Össterreichs</orgName> ambtern zu em
+<lb break="no" n="43"/>pfahen gehabt, in arrest unnd verbott  
+<lb n="44"/>gelegt worden, daß es nemblich umb  
+<lb n="45"/>etliche durch ihne, graven, verursachte,   
+<lb n="46"/>unnd auß dem ambt <placeName ref="lub-places-10">Veldtkhirch</placeName> bezalte  
+
+<lb n="47"/>uncossten (aber unwißendt wie hoch sich die
+<lb break="no" n="48"/>selbigen belauffen möchten) zu thuen, wie 
+<lb n="49"/>ir auß inligender abschrifft no. 2 mehrers  
+<lb n="50"/>zuvernemben. 
+<lb n="51"/>Unnd demnach wir dan disen spann gehrn  
+<lb n="52"/>in der güete abglichen sehen, wolten damit   
+<lb n="53"/>ainer unnd der ander wisste, waß ihme ge
+<lb break="no" n="54"/>bürth, alß haben wir euch zu unsern 
+<lb n="55"/>commissarien verordnet, gnädigst bevelhende,  
+<lb n="56"/>das ir, vogt unnd ambtleithen zu <placeName ref="lub-places-10">Veldtkhirch</placeName>,  
+<lb n="57"/>sich mit allen notwendigen behelffen be
+<lb break="no" n="58"/>fast zu machen, crafft diß bevelhet, 
+<lb n="59"/>inmassen wir dan auch mehrberierten graven,   
+<lb n="60"/>das er seine ambtleuth dises werkhs halber  
+<lb n="61"/>informiern unnd auf tag unnd orth, so ir innen  
+<lb n="62"/>benennen werdet, zu entlicher vergleichung  
+<lb n="63"/>abordnen welle und gehorsamst ersuecht, inmassen ir  
+<lb n="64"/>dan darauf zum fürderlichsten, so immer müg
+<lb break="no" n="65"/>lich, euch eines tags unnd gelegenlicher mal
+<lb break="no" n="66"/>statt zuvergleichen, bede thail ad comparendum 
+<lb n="67"/>respective zuverschaffen unnd zubeschreiben,  
+<lb n="68"/>sy gegen ainander zuvernemben, auch des  
+<lb n="69"/>graven habende verschreibungen zuversehen,  
+<lb n="70"/>unnd durch gebierende mittl unnd weeg zwischen  
+
+<lb n="71"/>innen auf unnser gehorsamiste ratification ein  
+<lb n="72"/>richtigs zumachen werdet wissen.  
+<lb n="73"/>Dessen geben wir euch hiemit gwaldt  
+<lb n="74"/>unnd ir volziecht hieran unnsern gnädigsten  
+<lb n="75"/>willen, damit wir euch wol gewogen  
+<lb n="76"/>seyn, auch eurs unverlengten gehorsamisten  
+<lb n="77"/>relation unnd guetter fruchtbarlicher  
+<lb n="78"/>verrichtung, damit man ainesmalß  
+<lb n="79"/>zu ruhe gelangen müge, in gnaden gewertig,  
+<lb n="80"/>den <origDate>19. novembris anno 1607</origDate>. 
+</p>
+        <p><lb n="81"/>Copia  
+<lb n="82"/>fürstlichen schreibens an vogt  
+<lb n="83"/>unnd ambtleith zu <placeName ref="lub-places-45">Bregenz</placeName>,  
+<lb n="84"/>den <origDate>19. novembris 1607</origDate>. 
+<lb n="85"/>B. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

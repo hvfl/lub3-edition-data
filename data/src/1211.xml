@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1211">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Landvogt von Vaduz, Kaspar von Ulm, soll an einer Tagsatzung teilnehmen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-1211">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. XV 1540-1544</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 26. Januar 1543 / Beschreibstoff: Papier, 2 Seiten / Siegel: 1 Siegel, auf der Rückseite aufgedrückt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar von Ulm, Vogt zu Vaduz, bestätigt aus Radolfzell dem Statthalter und der Oberösterreichische Regierung den Empfang ihres Schreibens aus Innsbruck vom 18. Januar. Danach wurde dem Vogt der 15. Februar als Tag bestimmt und angesetzt, an dem er mit seiner Endabrechnung vor ihnen erscheinen oder einen bevollmächtigen Vertreter schicken soll. Kaspar von Ulm ist jedoch verhindert, weil ihm Graf Johann Ludwig I. von Sulz nach Tiengen befohlen hat.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-259">Rechnung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1543-01-26">26. Jan 1543</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__xv_1540-1544-0001.jpg" xml:id="lub-media-3574" source="kk-wieneinlauf-xv-1540-1544-0001-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__xv_1540-1544-0002.jpg" xml:id="lub-media-3575" source="kk-wieneinlauf-xv-1540-1544-0002-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wolgeborn, gestreng, edlen und hochgelerten und vestenn  
+<lb n="2"/>gnädxg herren, myn gehorsam undertenyg gantz gut wyll  
+<lb n="3"/>dinst zufor, an beraytt gnädig sonder gebuyttig herren,   
+<lb n="4"/>euer gnaden schryben dess datum zu <placeName ref="lub-places-19">Ysprug</placeName>, uff <date when="1543-01-18">xviii tag dyss loffentz  
+<lb n="5"/>monat</date> hab ich zu <placeName ref="lub-places-188">Zel</placeName> uff <date when="1543-01-26">xxvi tag diss</date> enpfangen und mit  
+<lb n="6"/>syner inhalt zenomen, und namlych daz mir euer gnaden und gunst  
+<lb n="7"/>aber ain tag bestympt und angesetzt zu miner endraytung  
+<lb n="8"/>und euer gnaden an stat der kaiserlich küniglichen mayestät etc. lenger an zu sten lasen  
+<lb n="9"/>nit gelegen sin welle, daruff sol ich uff den <date when="1543-02-15">xv tag näst  
+<lb n="10"/>komet monat feberary</date> by eych mit myner endraytung,   
+<lb n="11"/>ineth mych selbs oder folkomen macht poten erschaynen  
+<lb n="12"/>und thun etc., Dar uff gnädiger heren kan ich warlych alß der clain  
+<lb n="13"/>pestendyg wol bedencken, daz eß wol zitt were, och dasselbig  
+<lb n="14"/>alzytt und noch gern thun wyll, aber uff ietz hat mich  
+<lb n="15"/>myn gnädiger herr <persName ref="lub-actors-35">Johan Ludwig</persName> graffe etc. zu ime hinab gen  
+<lb n="16"/><placeName ref="lub-places-56">Tyngen</placeName> erforderet und bin ietz mal also uff dem weg  
+<lb n="17"/>zu syner gnaden hin ab zu rytten, waß er myn wele oder ob er  
+<lb n="18"/>mych wytter bruchen oder schycken wele, daz mag ich nit  
+<lb n="19"/>wyssen, und so er mych aber zu dyser zytt, wie die tagsatzung,    
+<lb n="20"/>so mag nit betreff und ich euer gnaden zu myttler zit nit  
+<lb n="21"/>wytter schryb, so wyl ich abermalß wyls got eyerem  
+<lb n="22"/>schryben nach gehorsamlichen erschynen und euer gnaden und mir  
+<lb n="23"/>jez handlung helffen ain ustrag thun und geben, damit  
+<lb n="24"/>thun ich mych euer gnaden zu aler undertenygkayt befellenn.  
+<lb n="25"/>Datum zu <placeName ref="lub-places-188">Radolffzel</placeName> uff <origDate>xxvi tag jener im xliii jar</origDate>. 
+<lb n="26"/>Euer gnaden  
+<lb n="27"/>alzit gehorsame  
+</p>
+        <p><lb n="28"/><persName ref="lub-actors-2797">Caspar vonn Ulm</persName><lb n="29"/>vogt zu <placeName ref="lub-places-7">Vaduz</placeName></p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Den wolgeborn, gestreng, edlen, hochgelerten  
+<lb n="2"/>und vesten n. r. kuniglicher mayestät etc. statthalter  
+<lb n="3"/>ampt, verwaltter, rätten und regenten, die <placeName ref="lub-places-160">Ober
+<lb break="no" n="4"/>österychischen Lande</placeName> mynen gnädigen herrenn etc.
+<lb n="5"/>Zu <placeName ref="lub-places-19">Ysprug</placeName> 
+<lb n="6"/><persName ref="lub-actors-2797">C. v. Ulm</persName> antwort  
+<lb n="7"/>raittung 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

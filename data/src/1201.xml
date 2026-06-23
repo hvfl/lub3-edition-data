@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1201">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Maximilian III. von Österreich befiehlt Karl Ludwig von Sulz seine Übergriffe gegen Kaspar Wolfinger und Kaspar von Ramschwag einzustellen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1201">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1607 Nov 19</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 19. November 1607 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-1208">AT-TLA BBÄ OÖKAM Kopialbücher Geschäft von Hof 1607 fol. 405v-407r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 19. November 1607 bis 19. November 1607 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Antwortschreiben Erzherzog Maximilians III. an Karl Ludwig von Sulz, dass er die Schulden der Oberösterreichische Hofammer bei ihm in der Höhe von 8000 Gulden anerkennt. Die Kammer hat nur Sulz Schulden von 5145 Gulden bei den Kindern des Dr. Johann Georg Kern beglichen und wird ihm die restlichen 1591 Schulden auszahlen. Er beschwert sich, dass der Graf sich gegenüber Kaspar Wolfinger und anderen österreichischen Untertanen Übergriffe angemasst und einige Lehen des Vogts von Gutenberg, Kaspar von Ramschwag, eingezogen hat. Die daraus entstandenen Unkosten für die Amtleute in Feldkirch muss Sulz nun begleichen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-73">öffnungsgeld</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-61">Schulden</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-184">Österreich, Maximilian III. von</persName>
+          <date when="1607-11-19">19. Nov 1607</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_19-0001.jpg" xml:id="lub-media-3216" source="1607-11-19a-tla-ookam-akten-resulationen-von-hof-035.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_19-0002.jpg" xml:id="lub-media-3217" source="1607-11-19a-tla-ookam-akten-resulationen-von-hof-036-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_19-0003.jpg" xml:id="lub-media-3218" source="1607-11-19a-tla-ookam-akten-resulationen-von-hof-036.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_19-0004.jpg" xml:id="lub-media-3219" source="1607-11-19a-tla-ookam-akten-resulationen-von-hof-037.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_405v-407r-0001.jpg" xml:id="lub-media-3550" source="geschaft-von-hof-1607-05-405v-1911-1.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_405v-407r-0002.jpg" xml:id="lub-media-3551" source="geschaft-von-hof-1607-05-406r-1.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_405v-407r-0003.jpg" xml:id="lub-media-3552" source="geschaft-von-hof-1607-06-406v-1.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_405v-407r-0004.jpg" xml:id="lub-media-3553" source="geschaft-von-hof-1607-06-407r-1911-1.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-184">Maximilian</persName> etc. 
+<lb n="2"/>Unnß ist dein gehorsamblichs schreiben, den 19. februarii  
+<lb n="3"/>diß jahrs zu <placeName ref="lub-places-1">Vaduz</placeName> datiert, doctor <persName ref="lub-actors-2785">Johann Geörg  
+<lb n="4"/>Kherns</persName> hindterlaßner khinder bey dir ligenden  
+<lb n="5"/>austandt, so sich nunmehro auf 5145 fl. erstrekht,  
+<lb n="6"/>betrefendt vor disem zu recht eingehendigt worden.  
+<lb n="7"/>Unnd dieweil du der bezallung erpiettig, allein  
+<lb n="8"/>das die <orgName ref="lub-actors-2815">Oberösterreichische Camer</orgName> dir auch 8000 fl. schuldig sein,  
+<lb n="9"/>unnd selbigen die sider anno 1591 vorhalten solle.   
+<lb n="10"/>Ist die <orgName ref="lub-actors-2815">Camer</orgName>, wie billich darüber vernomben  
+<lb n="11"/>und durch dieselbige sovil angedeüt worden,  
+<lb n="12"/>das dir zwar etlich tausent gulden bey ir,  
+<lb n="13"/>der <orgName ref="lub-actors-2815">Camer</orgName>, sowol verzinsung alß öffnunggelt  
+<lb n="14"/>verfallen unnd ausstendig sein möchten, die weren  
+<lb n="15"/>aber anno 92 bey dem amtbleüthen zu <placeName ref="lub-places-10">Veldt
+<lb break="no" n="16"/>khirch</placeName> und dem gewessten salzfactor <persName ref="lub-actors-2787">Hannsen 
+<lb n="17"/>Habisreittinger</persName>, auch hernach ein salzmayrambt  
+<lb n="18"/>zu <placeName ref="lub-places-61">Hall</placeName> auß sonderbaren bevelch unnd darumben  
+<lb n="19"/>in arresst gelegt worden, das du dich aller
+<lb break="no" n="20"/>ley neulicher eingriff nit allein wider <persName ref="lub-actors-167">Caspern 
+<lb n="21"/>Wölfinger</persName>, hoflehens undterthan, alß deme du  
+<lb n="22"/>gleich vor dem schloß <placeName ref="lub-places-13">Guettenberg</placeName> beendisieren   
+
+<lb n="23"/>unnd obwekh bietten lassen, sonndern auch wider  
+<lb n="24"/>andere österreichische undterthannen angemasst,  
+<lb n="25"/>wie nit weniger den vogt zu bemeltem  
+<lb n="26"/><placeName ref="lub-places-13">Guettenberg</placeName>, <persName ref="lub-actors-166">Caspern von Rambschwag</persName>, seine  
+<lb n="27"/>güetter unnd lechen, so er undter dir ligen  
+<lb n="28"/>gehabt, für völlig eingezogen unnd hierdurch,  
+<lb n="29"/>weil die gebierende gegen handthabung für
+<lb break="no" n="30"/>genomben werden müessen, etlich nit wenig
+<lb n="31"/>hundert gulden uncossten, so die ambtleith  
+<lb n="32"/>zu <placeName ref="lub-places-10">Veldtkhirch</placeName> auß dene ambtsgefellen da
+<lb break="no" n="33"/>selbsten abgericht unnd durch dich billich wider
+<lb break="no" n="34"/>umb erstattet werden sollen, verursacht. 
+<lb n="35"/>Wan dann sy, die <orgName ref="lub-actors-2815">Camer</orgName>, nit waist, wie hoch  
+<lb n="36"/>sich solcher uncossten aigentlich belauffen  
+<lb n="37"/>unnd aber in alweeg guet, wir es auch gnädigst  
+<lb n="38"/>gehrn sehen wolten, das man hierinnen ein  
+<lb n="39"/>richtigkheit machte. So haben wir der  
+<lb n="40"/>sachen zum bessten, unnserm vogt unnd ambt
+<lb break="no" n="41"/>leithen zu <placeName ref="lub-places-45">Bregenz</placeName> gnädigsten bevelch zue
+<lb break="no" n="42"/>khomben lassen, sich dises werkhs zu 
+<lb n="43"/>undterfangen unnd die beambten zu <placeName ref="lub-places-10">Veldt
+<lb break="no" n="44"/>khirch</placeName> an ein gelegenliche orth zu be
+<lb break="no" n="45"/>schreiben, solches auch deinen beambten 
+
+<lb n="46"/>unnd diennern (so du hierzue abordnen unnd  
+<lb n="47"/>der notturfft nach instruiern wöllest)  
+<lb n="48"/>anzuzaigen, sy bederseits gegen ainander abzu
+<lb break="no" n="49"/>hören unnd zuvernemben, auch allen möglichen 
+<lb n="50"/>fleiß, damit in dießem werkh dermaln ainß  
+<lb n="51"/>ein richtigkheit gemacht, unnd die unschuldigen  
+<lb n="52"/>khernischen khinder hierundter zu leiden verer  
+<lb n="53"/>nit gedrungen werden derffen, anzuwenden,  
+<lb n="54"/>wie wir dan auß deinem schreiben vermerkhen  
+<lb n="55"/>khünden, das du selber geren sehen woltest,  
+<lb n="56"/>daß innen geholffen werden möchte. 
+<lb n="57"/>Wolten wir dir nit verhalten und sein  
+<lb n="58"/>dir mit allen gnaden forderist wolgewogen etc. 
+<lb n="59"/>Den <origDate>19. novembris anno 1607</origDate>. 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Copia  
+<lb n="2"/>fürstliches schreibens an graf  
+<lb n="3"/><persName ref="lub-actors-13">Carl Ludwig von Sulz</persName>,  
+<lb n="4"/>den <origDate>19. novembris 1607</origDate>. 
+<lb n="5"/>A. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

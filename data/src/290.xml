@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-290">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Unruhen in Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-290">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. IV Pos. 30 Teil 4 fol. 222r-223v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 24. Juli 1526 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar Mammendorfer, Vogt von Vaduz, berichtet Statthalter Graf Rudolf V. von Sulz, dass er die Landschaften von Vaduz, Schellenberg und Blumenegg zusammengerufen hatte, um die Landessicherung zu vereinbaren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-293">Zuzug</term>
+          <term ref="lub-keywords-426">Harnisch</term>
+          <term ref="lub-keywords-95">Waffe</term>
+          <term ref="lub-keywords-84">Grenzsicherung</term>
+          <term ref="lub-keywords-516">Landsknecht</term>
+          <term ref="lub-keywords-58">Leibeigenschaft</term>
+          <term ref="lub-keywords-32">Untertanen</term>
+          <term ref="lub-keywords-2">Freizügigkeit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-155">Mammendorfer, Hans Kaspar</persName>
+          <date when="1526-07-24">24. Jul 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_4_fol__222r-223v-0001.jpg" xml:id="lub-media-3566" source="4-0002-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_4_fol__222r-223v-0002.jpg" xml:id="lub-media-3567" source="4-0003-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_4_fol__222r-223v-0003.jpg" xml:id="lub-media-3568" source="4-0003a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_4_fol__222r-223v-0004.jpg" xml:id="lub-media-3569" source="4-0004-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wolgeborner gnediger herr. Euer gnaden sein mein underthenig diennst  
+<lb n="2"/>zuvor beraytt. Gnädiger herr daß jungst schreiben, so mir von euer gnaden  
+<lb n="3"/>der uffmanung deß außzugs unnd annders seins inhalts hab  
+<lb n="4"/>ich vernomen. Darauf hab ich ylentz ain gemaindt in der  
+<lb n="5"/>herschafft <placeName ref="lub-places-11">Schellennberg</placeName> zusamen beruefft unnd selbs mit  
+<lb n="6"/>inen muntlich gehandlet lautt unnd inhalt deß vertrags,  
+<lb n="7"/>so ain fürst vonn <orgName ref="lub-actors-172">Osterreich</orgName> mit der graffschaft <placeName ref="lub-places-96">Tyroll</placeName>  
+<lb n="8"/>mit euer gnaden mit verwilligung unnd zusagen euer gnaden landt
+<lb break="no" n="9"/>schafften gethan, hatt furgehalten und sy desselbigen ermanndt. 
+<lb n="10"/>Darbei inen were unnd <term ref="lub-keywords-426">harnasch</term> zu habenn und darbey  
+<lb n="11"/>gebottenn, daß sy vonn stundtan on allen verzug funffzig  
+<lb n="12"/>man ausschiessenn und erkhyessen wellen, wan die erst manung  
+<lb n="13"/>von fürstlich durchlaucht ald meinen gnädigen herrn von hoffrätten khume, daß  
+<lb n="14"/>daß dieselbenn funffzig man lautt fürstlich durchlaucht begeren und  
+<lb n="15"/>inhalt deß vertrags vonn stundan ylenntz, wo hyn sy beschaiden  
+<lb n="16"/>werden zu ziehenn sollen und wellen. Uff solhs ist mir  
+<lb n="17"/>die anttwurtt vonn inen worden, sy wellen zu denen vonn  
+<lb n="18"/><placeName ref="lub-places-7">Vadutz</placeName> schickhenn und weitter ratts phlegen, sunst enntlich  
+<lb n="19"/>khain antwurdt noch untzher nie gebenn, ob sy euer gnaden gehorsam  
+<lb n="20"/>erscheinen wellen oder nit. Uff mitwochen darnach hab ich  
+<lb n="21"/>ain landts gemaindt zu <placeName ref="lub-places-1">Vadutz</placeName> gehabt unnd innen auch  
+<lb n="22"/>furgehalten wie obstat. Da hat mir euer gnaden lanndtschafft  
+<lb n="23"/>die anttwurtt gebenn unnd seint deß anhelliglich ains worden,  
+<lb n="24"/>sy wellendt und habenn vi man zu mir verordnett, die
+<lb break="no" n="25"/>selbenn sollenn mit mir außziehen, ain ordnung machen, waß 
+<lb n="26"/>es uff die erste manung schickhen sollen, dem wellen sy  
+<lb n="27"/>gehorsams erscheinen, und was ich sy haiß, daß wollen sy  
+<lb n="28"/>thun. Und wann dann von notten were oder wurde, das  
+
+<lb n="29"/>deß außzugs nit gnug sein wurd. So wellen sy allesambt  
+<lb n="30"/>unnd sunder uff sein und er fürstlich durchlaucht, auch euer gnaden als  
+<lb n="31"/>iren naturlichen rechten herren zuziehen, ir fürstliche durchlaucht landt  
+<lb n="32"/>unnd leutt, desgleichen euer gnaden person als lang ir leib und  
+<lb n="33"/>lebenn werdt, schutzen unnd retten helffen. Uff  
+<lb n="34"/>donerstag darnach hab ich auch ain landts gemaindt in  
+<lb n="35"/>der herschafft <placeName ref="lub-places-12">Bluemenegkh</placeName> gehabt, und inen auch fur
+<lb break="no" n="36"/>gehalten, wie in den andern zwayen herschafften, ist mir 
+<lb n="37"/>daselbst von euer gnaden landtschafften die antwurt wordenn  
+<lb n="38"/>und ainhelliglich beschlossen, sy wellend nit allain fünff
+<lb break="no" n="39"/>zig mender ald mer zu ainem außzug verordnen, insonder 
+<lb n="40"/>so sy von fürstlich durchlaucht hoffrätten und euer gnaden als iren naturlichen  
+<lb n="41"/>herrenn gemandt, so wellen sy mit der anzall wie vill  
+<lb n="42"/>an sy begert werdt, ylenntz auf sein. Und ob weitter  
+<lb n="43"/>vonn notten sein wurdt, mit allen irem armen vermugen  
+<lb n="44"/>der fürstlichen durchlaucht landt und leutt, auch euer gnaden als iren rechten  
+<lb n="45"/>naturlichen herrn helffen schutzen und schirmen, als lang  
+<lb n="46"/>ir leib unnd lebenn und gutt were. Aber die auß  
+<lb n="47"/>der herschafft <placeName ref="lub-places-11">Schellenberg</placeName> haben mir noch untzt auf dato  
+<lb n="48"/>diß brieffs khain antwurt gebenn, ob sy euer gnaden schreiben  
+<lb n="49"/>und begeren lautt deß vertrags gehorsam erscheinen wellen  
+<lb n="50"/>oder nit. Aber sy habenn, wie sy vor der aufrur auch gethan,  
+<lb n="51"/>gen <placeName ref="lub-places-7">Vadutz</placeName> und in die <placeName ref="lub-places-161">Vorlandt</placeName> geschickht unnd alda  
+<lb n="52"/>rads gephlegen, ob sy sollten hilff fürstlich durchlaucht und euer gnaden  
+<lb n="53"/>zusagen sollen oder nit. Und khan in meinem ainfeltigen  
+<lb n="54"/>nit anderst vermessen und bedenckhen, dann das sy  
+<lb n="55"/>als gern ain ungehorsame under andern iren nachpauren   
+<pb facs="lub-media-3568" n="3"/>
+<lb n="56"/>mechten, als sy vor ir gethann hanndt, das hab ich euer gnaden auß  
+<lb n="57"/>schuldiger phlicht nit verhaltenn wellen, und dieweill nit  
+<lb n="58"/>mer gehorsame uff das genedig schreiben bey inen erfunden  
+<lb n="59"/>worden ist, unnd doch inen euer gnaden nichts anderst der leib
+<lb break="no" n="60"/>aygenschafft sol unnd deß freyen abzugs nachgelassen, dann 
+<lb n="61"/>sover sy sich woll an euer gnaden haltenn, so befinndt euer gnaden  
+<lb n="62"/>jetzt waß in inen steckht, auch waß sy euer gnaden guts zu  
+<lb n="63"/>inen versehen mug, sich nicht ain mal für gut an  
+<lb n="64"/>das inen euer gnaden dieselben gnad und freyhaitt betreffenden  
+<lb n="65"/>fal und den freyen abzug widerumb abkhundte, damit  
+<lb n="66"/>sy befunden, das sy unrecht gethann hetten, nichts desminder,  
+<lb n="67"/>so euer gnaden selbs anhaymisch khumpt, mag alßdan euer gnaden  
+<lb n="68"/>inen dasselbig gnediglich widerumb verzeihen, dann bei  
+<lb n="69"/>der warhaitt so steckht noch mehrs guts in inen etc. 
+</p>
+        <p><lb n="70"/>Zum andern thun ich euer gnaden warliche zuvernemen, daß  
+          <lb n="71"/>die <orgName ref="lub-actors-515">Aydgnossen</orgName> von tag zu tag hartt an fur und fur ire  
+<lb n="72"/>knecht in <placeName ref="lub-places-88">Maylanndt</placeName> mit aufrechten vendlin lauffen  
+<lb n="73"/>lassen, deshalben ist an euer gnaden mein ernstlich vleissig  
+<lb n="74"/>bitt unnd beger, sy welle sich an niemants keren, die
+<lb break="no" n="75"/>weyl euer gnaden drey herschafften an den rechten grenutzen gegen 
+<lb n="76"/>den <orgName ref="lub-actors-515">Aydgnossen</orgName> ligen, daß euer gnaden ine arme leutt auß  
+<lb n="77"/>ir herschafft ziehen laß, insonder bedenckhen, waß den Schweizer  
+<lb n="78"/>unnd <orgName ref="lub-actors-1632">Püntten</orgName> inhalt irer handlung zuvertrawen sey, dann  
+<lb n="79"/>der fürstlich durchlaucht will nit klarfueg am schloß <placeName ref="lub-places-33">Vadutz</placeName> als ain  
+<lb n="80"/>schlüssel landts gelegen sein etc. <persName ref="lub-actors-161">Michel Schmidts</persName> halben,  
+<lb n="81"/>hab ich euer gnaden jetzt zum viertten mall geschriben, dieweill  
+<lb n="82"/>doch der amptman von <placeName ref="lub-places-45">Bregenntz</placeName> gestorben ist, daß mir  
+<pb facs="lub-media-3569" n="4"/>
+<lb n="83"/>euer gnaden am andern an sein statt verordnen woll, damit  
+<lb n="84"/>euer gnaden unnd meine wortt nit unwarhafft geacht werdt,  
+<lb n="85"/>das ich und euer gnaden alweg gesagt habenn, er sy der fürstlich durchlaucht  
+<lb n="86"/>und nit euer gnaden gefangner.  
+<lb n="87"/>Unnd wer ir durchlaucht am heraußschickhen mit im zu handlen,  
+<lb n="88"/>darauf ist an euer gnaden mein underthenig bitt, sy welle  
+<lb n="89"/>ain furderlich verordnen, damit ich sein ab und euer gnaden  
+<lb n="90"/>khossten khumb, hiemit bevelh ich mich euer gnaden als  
+<lb n="91"/>meinem gnädigen herrn. Actum, am <origDate>xxiiii tag julii anno xxvi jar</origDate>. 
+<lb n="92"/>Euer gnaden  
+<lb n="93"/>undertheniger 
+</p>
+        <p><lb n="94"/><persName ref="lub-actors-155">Caspar Manendorffer</persName><lb n="95"/>vogt zue <placeName ref="lub-places-7">Vadutz</placeName> etc. 
+</p>
+        <p><lb n="96"/>An graff <persName ref="lub-actors-8">Rudolffen vonn Sulz</persName>, fürstlich durchlaucht   
+<lb n="97"/>statthalter zue <placeName ref="lub-places-19">Ynnsprugg</placeName> etc. 
+</p>
+        <p><lb n="98"/>1526 
+<lb n="99"/>die herschafften <placeName ref="lub-places-7">Fiduz</placeName>,  
+<lb n="100"/><placeName ref="lub-places-11">Schellenberg</placeName>,  
+<lb n="101"/><placeName ref="lub-places-12">Plumenek</placeName><lb n="102"/>landrettung und zuzug  
+<lb n="103"/>28. julii 
+<lb n="104"/><gap/></p>
+      </div>
+    </body>
+  </text>
+</TEI>

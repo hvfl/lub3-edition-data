@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1212">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Georg Kräler, Landvogt von Vaduz, berichtet von einem Konflikt wegen Forstgrenzen der Grafen von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-1212">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. XV 1663</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Entstehungszeitraum: 1516 / Beschreibstoff: Papier, 2 Seiten / Siegel: Siegelrest</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Kräler, Vogt zu Vaduz, und Hans Tschol, Amtmann zu Blumennegg, berichten der Oberösterreichische Regierung über Forststreitigkeiten zwischen Kaiser Maximilian I. und Rudolf V. von Sulz. Sie selbst konnten zu den angezeigten Landmarken weder "nein noch ja sagen", aber der Graf hatte ihnen befohlen, sich zum Kaiser zu verfügen, falls dieser ins Land käme, und ihn zu bitten, sich persönlich um die Angelegenheit zu kümmern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-157">Wald</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-1">Grenze</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date from="1516" to="1516">ca. 1516 – 1516</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__xv_1663-0001.jpg" xml:id="lub-media-3576" source="kk-wieneinlauf-xv-1562-1564-0001-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__xv_1663-0002.jpg" xml:id="lub-media-3577" source="kk-wieneinlauf-xv-1562-1564-0002-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Edlen, gestrenngen, vesten, gnädig  
+<lb n="2"/>und gunstig herren. 
+<lb n="3"/>Alß der vormaister euer gnaden und gunst die landtmarchen der spänen halb  
+<lb n="4"/>deß vorstß halben entzwuschen kayserlicher mayestät und unserem gnädigen herren schrift
+<lb break="no" n="5"/>lich angezaigt hat.
+</p>
+        <p><lb n="6"/>Ist daruf an statt unserß gnädigen herren unser underricht, daß wir  
+<lb n="7"/>zu den angezaigten marchen weder nain noch ja sagend, aber wol  
+<lb n="8"/>hat unser gnadiger herr unß befelch geben, eweren kayserlichen mayestät nit rädt in land  
+<lb n="9"/>kumind söllen, wir unß anstatt sinr gnaden zu in verfügen und si under
+<lb break="no" n="10"/>tenigclich bitten, daß si uff die spenn wellind rydten und die besichtigen und 
+<lb n="11"/>sich an ludten erkennen und erfarn, die dann der marchen deß spanß halben wissen  
+<lb n="12"/>habend. Ob aber sölichß jezen euer gnaden und gunst obligenden sachen zethun nit  
+<lb n="13"/>gesin möcht, so ist doch unser pitt und beger an euer gnaden und gunst, so vil und  
+<lb n="14"/>och geliebt, den span zu besichtigen und erlerrnen ernstlich verschaffen so wellen  
+<lb n="15"/>wir och an statt unserß gnadigen herren darzu verordnen und waß euer gnaden und  
+<lb n="16"/>gunst, oder die so ir und och die, so wir darzu verordnend, in der sach nach  
+<lb n="17"/>kundtschaft ludt und briefen zwuschen baiden tailen sprechend und machend. 
+<lb n="18"/>Daß wellen wir an statt unserß gnädigen herren trulich zu haben an ne
+<lb break="no" n="19"/>men.
+<lb n="20"/>Euer gnaden und gunst  
+<lb n="21"/>willig 
+<lb n="22"/><persName ref="lub-actors-238">Jörg Kräler</persName>, vogt zu  
+<lb n="23"/><placeName ref="lub-places-7">Vaduz</placeName>, und <persName ref="lub-actors-234">Hanß Tschol</persName>,  
+<lb n="24"/>amman zu <placeName ref="lub-places-12">Blumnegg</placeName> 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/><persName ref="lub-actors-8">Sulz</persName> vorstmarch 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

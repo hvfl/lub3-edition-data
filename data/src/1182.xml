@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1182">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schloss Altkirch ist baufällig</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1182">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1544 Aug 21</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 21. August 1544 / Beschreibstoff: Papier, 5 Seiten / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-347">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1544 fol. 188-189v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 21. August 1544 / Beschreibstoff: Papier, 2-3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung Ferdinands I. an die Vorderösterreichische Regierung die baufällige Befestigungsanlage von Schloss Altkirch, für das Johann Ludwig I. Graf von Sulz. die Pfandschaft innehat, reparieren zu lassen, weil es sich um eine wichtige Festungsanlage handelt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-99">Reparatur</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <date when="1544-08-21">21. Aug 1544</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1544_aug_21-0001.jpg" xml:id="lub-media-3028" source="1544-08-21-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1544_aug_21-0002.jpg" xml:id="lub-media-3029" source="1544-08-21-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1544_aug_21-0003.jpg" xml:id="lub-media-3030" source="1544-08-21-tla-ookam-akten-resulationen-von-hof-3.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1544_aug_21-0004.jpg" xml:id="lub-media-3031" source="1544-08-21-tla-ookam-akten-resulationen-von-hof-4.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1544_aug_21-0005.jpg" xml:id="lub-media-3032" source="1544-08-21-tla-ookam-akten-resulationen-von-hof-5.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1544_fol__188v-189v-0001.jpg" xml:id="lub-media-3387" source="geschaft-von-hof-1544-03-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1544_fol__188v-189v-0002.jpg" xml:id="lub-media-3388" source="geschaft-von-hof-1544-03.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1544_fol__188v-189v-0003.jpg" xml:id="lub-media-3389" source="geschaft-von-hof-1544-04.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-26">Ferdinand</persName> von gottes genaden römischer,  
+<lb n="2"/>auch zu <placeName ref="lub-places-146">Hungern</placeName> und <placeName ref="lub-places-162">Behaim</placeName> etc. kunig etc. 
+</p>
+        <p><lb n="3"/>Wolgebornner, edlen, ersamen, gelerten und lieben ge
+<lb break="no" n="4"/>trewen, eur schreiben am datum, den <date when="1544-07-17">sibenzehen
+<lb break="no" n="5"/>den negst verschinen monadts julii</date> sambt beiligenden 
+<lb n="6"/>schrifften betreffennd <persName ref="lub-actors-35">Johann Ludwigen</persName> graven und  
+<lb n="7"/><persName ref="lub-actors-47">Margarethen</persName> wittib grävin zu Sulz, schrifftlich an
+<lb break="no" n="8"/>zaigen und begern von wegen der pawfelligkhaiten 
+<lb n="9"/>am schloß <placeName ref="lub-places-57">Altkirch</placeName>, irer phanndtschafft innhabung,  
+<lb n="10"/>wie hoch sich auch dasselb pawgelt innhalt gethaner  
+<lb n="11"/>besicht unnd uberschlags verlauffen wurde, haben wir  
+<lb n="12"/>sambt eurm und unnserer <orgName ref="lub-actors-2777">Vordern Regierung</orgName> zu <placeName ref="lub-places-24">Enßiß</placeName>
+<lb break="no" n="13"/>haim bericht, rat und guetbedunkhen verstannden. 
+</p>
+        <p><lb n="14"/>Unnd dieweil ir aber selbs wissen, das gwondlich in  
+<lb n="15"/>den phanndtverschreibungen, auch reversu, sonder
+<lb break="no" n="16"/>lich inseriert unnd ausgedrukht wirdet, das die phandt
+<lb break="no" n="17"/>schaffter ire phanndtschafft, als schlosser unnd herr
+<lb break="no" n="18"/>schafften, auch derselben ein- unnd zuegehörungen, 
+<lb n="19"/>inmassen inen die zur zeit der abtrettung eingeant
+<lb break="no" n="20"/>wort und befunden worden, ires tails geburlich wesen
+<lb break="no" n="21"/>lich und peulich underhalten sollen, unnd dann aus 
+
+<lb n="22"/>unnserer <orgName ref="lub-actors-2777">Vordern Regierung</orgName> hievor im verschinen acht
+<lb break="no" n="23"/>unddreissigisten jar gehaltnen besicht vernomben 
+<lb n="24"/>wirdet, das an beruertem schloß <placeName ref="lub-places-57">Altkirch</placeName> under  
+<lb n="25"/>andern die innwendigen berg, schewern und dächer  
+<lb n="26"/>zu pessern von nöten. Wie dann auch jezo jungst  
+<lb n="27"/>innhalt der mituberschikhten copei mit B gemelter graf  
+<lb n="28"/><persName ref="lub-actors-35">Johann Ludwig</persName> und <persName ref="lub-actors-47">Margaretha grävin zu Sulz</persName>,  
+<lb n="29"/>witib, egemelter <orgName ref="lub-actors-2777">Vordern Regierung</orgName> schrifftlichen an
+<lb break="no" n="30"/>gezaigt, das der tachstuel ob dem marstal auf der 
+<lb n="31"/>ainen seiten im hof zum halben tail mit dem holzwerch  
+<lb n="32"/>und ziegln nidergangen sei, etc., so achten wir aus voran
+<lb break="no" n="33"/>geregten ursachen beswärlich sein, das wir also neben 
+<lb n="34"/>anderm gebew der zimer und maurwerchs, darzue  
+<lb n="35"/>auch jeder zeit die pesserung und erhebung der tachung  
+<lb n="36"/>und rinnen auf unsern cossten zuthuen bewilligen  
+<lb n="37"/>sollen. 
+</p>
+        <p><lb n="38"/>Nachdem aber innhalt der <orgName ref="lub-actors-2777">Vordern Regierung</orgName> schreiben die  
+<lb n="39"/>angezaigt pessrung der pawfelligkhaiten an dem ge
+<lb break="no" n="40"/>mewer der rinkhmaur und anderm in beruertem 
+<lb n="41"/>schloß <placeName ref="lub-places-57">Altkhirch</placeName> zu furkhumung merers nachtails  
+<lb n="42"/>je nit umbgangen werden mag. Darauf so be
+<lb break="no" n="43"/>willigen wir hiemit gnedigclich mit disem bevelh, 
+<lb n="44"/>was zu aufrichtung und pessrung der gemewer  
+
+<lb n="45"/>unnd anderer notwendigisten gepew auflauffen  
+<lb n="46"/>wirdet, das ir dasselb gepew von unnsern wegen  
+<lb n="47"/>zuverrichten, unnd dann solhes pawgelt (darumb
+<lb break="no" n="48"/>en auch guet raittung gehalten werden solle), zu 
+<lb n="49"/>anderm vorigen phanndtschilling auf <placeName ref="lub-places-57">Altkirch</placeName>  
+<lb n="50"/>doch unverzinst zuslagen, und daruber was not  
+<lb n="51"/>ist, zu ferttigen verordnet, aber die pessrung des  
+<lb n="52"/>tachwerchs unnd anders dergleichen, sollen gemel
+<lb break="no" n="53"/>ten innhaber der phanndtschafft auf iren aigen costen 
+<lb n="54"/>an unnsern nachtail thuen unnd verrichten, wie ir  
+<lb n="55"/>deshalben notturfftige verordnung zu thuen und hand
+<lb break="no" n="56"/>len werden wissen. 
+</p>
+        <p><lb n="57"/>Wo ir auch vesten oder befunden, das andere phanndt
+<lb break="no" n="58"/>schaffter ire habende phanndtschilling am dachwerch 
+<lb n="59"/>oder sunst slechten gemächen ernider geen liessen, und  
+<lb n="60"/>dasselb nit wesenlich oder peulich der gestalt, wie sy  
+<lb n="61"/>es (als vorangeregt), in der einnembung befunden  
+<lb n="62"/>hielten, ist ferrer unnser bevelh, das ir also bei dem  
+<lb n="63"/>oder denselben in unnserm namen verfueget unnd  
+<lb n="64"/>darob seiet, damit soliche pawfelligkhaiten der  
+<lb n="65"/>tachwerch und anders mangls, welicher zeitlich  
+<lb n="66"/>und mit geringem irem cossten furkhumen und  
+
+<lb n="67"/>gewenndt werden mag, verhuet werde, das haben  
+<lb n="68"/>wir euch also zu gnediger antwurt, unnd fur
+<lb break="no" n="69"/>nemblich damit ir furohin, wo dergleichen begern 
+<lb n="70"/>von den innhabern der phanndtschilling an euch  
+<lb n="71"/>gelangen, gleichermassen daruber abschid unnd be
+<lb break="no" n="72"/>schaid zu geben wissen, nit wellen verhalten. 
+<lb n="73"/>Unnd ist unnser endtlicher willen und mainung. 
+<lb n="74"/>Geben in unnser stat <placeName ref="lub-places-364">Wienn</placeName>, den <origDate>xxi. thag  
+<lb n="75"/>augusti anno etc. im xliiii</origDate> ten, unserer <orgName ref="lub-actors-516">Reiche  
+<lb n="76"/>des Römische</orgName>n im vierzehennden unnd der ann
+<lb break="no" n="77"/>dern im achtzehennden.
+<lb n="78"/><persName ref="lub-actors-26">Ferdinand</persName>  
+</p>
+        <p><lb n="79"/>Ad mandatum domini  
+<lb n="80"/>regis proprium 
+<lb n="81"/><gap/></p>
+      </div>
+      <div type="back">
+        <p>
+          <lb n="1"/>
+          <date when="1544-08-29">29. augusti 44</date>
+        </p>
+        <p><lb n="2"/>Dem wolgebornnen, edlen, ersamen, gelerten  
+<lb n="3"/>unnd unsern lieben, getrewen, unnserm  
+<lb n="4"/>vicestathalter, regennten unnd camerräten  
+<lb n="5"/>der <placeName ref="lub-places-160">Oberösterreichischen Lannde</placeName>. 
+</p>
+        <p><lb n="6"/>Paufelligkait halben zu <placeName ref="lub-places-57">Altkirch</placeName><lb n="7"/>Auch allen phanntschafften innhabenden <gap/><lb n="8"/>und gepew halben die peulich zu halten in  
+<lb n="9"/>iren selben costen. 
+<lb n="10"/>21. augusti  
+</p>
+        <p><lb n="11"/>Zu handen unnserer  
+<lb n="12"/><orgName ref="lub-actors-2587">Tirolischen Camer</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

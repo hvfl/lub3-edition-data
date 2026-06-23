@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-06-23 09:49:09 aus </p>
+        <p>Datenbankexport vom 2026-06-23 10:00:52 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -2485,6 +2485,16 @@
               </bibl>
             </listBibl>
           </person>
+          <person xml:id="lub-actors-183">
+            <persName type="full" xml:lang="de">Gaismair, Hans (1527–1528)</persName>
+            <persName type="main" xml:lang="de">Gaismair, Hans</persName>
+            <persName type="sort" xml:lang="de">gaismair, hans</persName>
+            <birth when="1527"/>
+            <death when="1528-05-28"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von Michael Gaismair.</p>
+            </note>
+          </person>
           <person xml:id="lub-actors-184">
             <persName type="full" xml:lang="de">Österreich, Maximilian III. von (1558–1618)</persName>
             <persName type="main" xml:lang="de">Österreich, Maximilian III. von</persName>
@@ -2564,6 +2574,85 @@
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Karl_V._(HRR)"/>
               </bibl>
             </listBibl>
+          </person>
+          <person xml:id="lub-actors-187">
+            <persName type="full" xml:lang="de">Fugger von der Lilie, Anton (1546–1550)</persName>
+            <persName type="main" xml:lang="de">Fugger von der Lilie, Anton</persName>
+            <persName type="sort" xml:lang="de">fugger von der lilie, anton</persName>
+            <persName type="alternative" xml:lang="de">Fugger, Anthon</persName>
+            <birth when="1546-02-14"/>
+            <death when="1550-11-24"/>
+            <note type="description" xml:lang="de">
+              <list type="unordered">
+                <item>Lebensdaten: * 1493-06-10; † 1560-09-14</item>
+                <item>Augsburger Kaufmann und Bankier.</item>
+                <item>Bruder von <ref target="2780">Raymund Fugger</ref></item>
+              </list>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118694170"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68245"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Anton-Fugger"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118694170.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr88003385"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/806644/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Anton_Fugger"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Anton_Fugger">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person>
+          <person xml:id="lub-actors-188">
+            <persName type="full" xml:lang="de">Hohenems, Jakob Hannibal I. von (1530–1587)</persName>
+            <persName type="main" xml:lang="de">Hohenems, Jakob Hannibal I. von</persName>
+            <persName type="sort" xml:lang="de">hohenems, jakob hannibal i. von</persName>
+            <persName type="alternative" xml:lang="de">Hohenembs, Jacob Hannibal</persName>
+            <birth when="1530"/>
+            <death when="1587"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * 1530-05-13 in Bludenz, † 1587-12-27 in Hohenems</p>
+              <p>1568–1587 Vogt von Feldkirch.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118706268"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3805781"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118706268.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/806933/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Jakob_Hannibal_I._von_Hohenems"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>Niederstätter, Vogteien, S. 87</bibl>
+              </listBibl>
+            </note>
           </person>
           <person xml:id="lub-actors-189">
             <persName type="full" xml:lang="de">Helfenstein, Georg II. von (1518–1573)</persName>
@@ -7641,7 +7730,7 @@
               <p>Wohnhaft in Blumenegg.</p>
             </note>
           </person>
-          <person xml:id="lub-actors-633">
+        <person xml:id="lub-actors-633">
             <persName type="full" xml:lang="de">Gassner, Hans (1) (1527–)</persName>
             <persName type="main" xml:lang="de">Gassner, Hans (1)</persName>
             <persName type="sort" xml:lang="de">gassner, hans (1)</persName>
@@ -7649,8 +7738,7 @@
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Blumenegg.</p>
             </note>
-          </person>
-          <person xml:id="lub-actors-634">
+          </person><person xml:id="lub-actors-634">
             <persName type="full" xml:lang="de">Boden, Siegbert auf dem (1527–)</persName>
             <persName type="main" xml:lang="de">Boden, Siegbert auf dem</persName>
             <persName type="sort" xml:lang="de">boden, siegbert auf dem</persName>
@@ -7658,8 +7746,7 @@
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Blumenegg.</p>
             </note>
-          </person>
-          <person xml:id="lub-actors-635">
+          </person><person xml:id="lub-actors-635">
             <persName type="full" xml:lang="de">Stauder, Michael (1527–)</persName>
             <persName type="main" xml:lang="de">Stauder, Michael</persName>
             <persName type="sort" xml:lang="de">stauder, michael</persName>
@@ -7667,8 +7754,7 @@
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Blumenegg.</p>
             </note>
-          </person>
-        <person xml:id="lub-actors-636">
+          </person><person xml:id="lub-actors-636">
             <persName type="full" xml:lang="de">Vonblon, Gabriel (1527–)</persName>
             <persName type="main" xml:lang="de">Vonblon, Gabriel</persName>
             <persName type="sort" xml:lang="de">vonblon, gabriel</persName>
@@ -27779,6 +27865,218 @@
             <note type="description" xml:lang="de">
               <p>Besitzer eines Guts in Eschen.</p>
             </note>
+          </person><person xml:id="lub-actors-2770">
+            <persName type="full" xml:lang="de">Kessler, Kaspar (1526–)</persName>
+            <persName type="main" xml:lang="de">Kessler, Kaspar</persName>
+            <persName type="sort" xml:lang="de">kessler, kaspar</persName>
+            <persName type="alternative" xml:lang="de">Kessler, Casper</persName>
+            <birth when="1526-11-28"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Bludenz.</p>
+            </note>
+          </person><person xml:id="lub-actors-2780">
+            <persName type="full" xml:lang="de">Fugger von der Lilie, Raymund (1546–)</persName>
+            <persName type="main" xml:lang="de">Fugger von der Lilie, Raymund</persName>
+            <persName type="sort" xml:lang="de">fugger von der lilie, raymund</persName>
+            <persName type="alternative" xml:lang="de">Fugger, Reymund</persName>
+            <birth when="1546-02-14"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * 24.10.1489; † 3.12.1535 in Mickhausen.</p>
+              <list type="unordered">
+                <item>Bruder von <ref target="187">Anton Fugger</ref></item>
+                <item>Sohn von Georg Fugger</item>
+              </list>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Raymund_Fugger">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person><personGrp role="family" xml:id="lub-actors-2781">
+            <persName type="full" xml:lang="de">Mörsberg, Freiherren von (1100–)</persName>
+            <persName type="main" xml:lang="de">Mörsberg, Freiherren von</persName>
+            <persName type="sort" xml:lang="de">moersberg, freiherren von</persName>
+            <persName type="alternative" xml:lang="de">Mörsperg</persName>
+            <persName type="variant" xml:lang="de">Mörsberg und Belfort</persName>
+            <birth when="1100"/>
+            <note type="description" xml:lang="de">
+              <p>südwestdeutsches und elsässisches Adelsgeschlecht, dessen Wurzeln bis in das 11. Jahrhundert zurückreichen</p>
+            </note>
+          </personGrp><person xml:id="lub-actors-2782">
+            <persName type="full" xml:lang="de">Schaumburg, Claus von (1546–)</persName>
+            <persName type="main" xml:lang="de">Schaumburg, Claus von</persName>
+            <persName type="sort" xml:lang="de">schaumburg, claus von</persName>
+            <persName type="alternative" xml:lang="de">Schauenburg, Claus von</persName>
+            <birth when="1546-02-14"/>
+          </person><person xml:id="lub-actors-2783">
+            <persName type="full" xml:lang="de">Reich von Reichenstein, Ritter (1546–)</persName>
+            <persName type="main" xml:lang="de">Reich von Reichenstein, Ritter</persName>
+            <persName type="sort" xml:lang="de">reich von reichenstein, ritter</persName>
+            <persName type="alternative" xml:lang="de">Reiche</persName>
+            <birth when="1546-02-14"/>
+            <note type="description" xml:lang="de">
+              <p>Die Reich von Reichenstein waren ein Rittergeschlecht, das erstmals 1166/79 mit Rudolf Dives erwähnt wird. Der Besitz der Familie lag im Baselbiet, Sundgau und südlichen Schwarzwald und bestand aus Lehen der Herzöge von Österreich, des Bischofs von Basel und der Markgrafen von Baden. Ab 1503 Pfandinhaber der Grafschaft Pfirt.</p>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Reich_von_Reichenstein">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person><person xml:id="lub-actors-2784">
+            <persName type="full" xml:lang="de">Österreich, Magdalena von (1607–)</persName>
+            <persName type="main" xml:lang="de">Österreich, Magdalena von</persName>
+            <persName type="sort" xml:lang="de">oesterreich, magdalena von</persName>
+            <birth when="1607-11-19"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * 14.08.1532; † 10.09.1590</p>
+              <list type="unordered">
+                <item>Magdalena war die vierte Tochter des römisch-deutschen Königs und späteren Kaisers Ferdinand I. (1503–1564), und seiner Gattin Prinzessin Anna Jagiello (1503–1547), Tochter des Königs Wladyslaw II. von Böhmen und Ungarn und dessen dritter Frau Anne de Foix-Candale.</item>
+              </list>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Magdalena_von_%C3%96sterreich">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person><person xml:id="lub-actors-2785">
+            <persName type="full" xml:lang="de">Kern, Johann Georg Dr. (1607–)</persName>
+            <persName type="main" xml:lang="de">Kern, Johann Georg Dr.</persName>
+            <persName type="sort" xml:lang="de">kern, johann georg dr.</persName>
+            <persName type="alternative" xml:lang="de">Khern, Johann Geörg</persName>
+            <birth when="1607-11-19"/>
+            <note type="description" xml:lang="de">
+              <p>Dr. Johann Georg Kern war ein Mediziner, der als Leibarzt im Umfeld der habsburgischen Erzherzogin <ref target="2784">Magdalena von Österreich</ref> in Hall in Tirol wirkte.</p>
+            </note>
+          </person><person xml:id="lub-actors-2787">
+            <persName type="full" xml:lang="de">Habisreitinger, Hans (1607–)</persName>
+            <persName type="main" xml:lang="de">Habisreitinger, Hans</persName>
+            <persName type="sort" xml:lang="de">habisreitinger, hans</persName>
+            <persName type="alternative" xml:lang="de">Habisreittinger, Hanns</persName>
+            <birth when="1607-11-19"/>
+            <note type="description" xml:lang="de">
+              <p>Lebendaten: * ca. 1536; † ca. 1599</p>
+              <list type="unordered">
+                <item>Salzfaktor in Hall in Tirol</item>
+                <item>wohnhaft in Konstanzer, Gemeindeteil von Oberstaufen (D).</item>
+              </list>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Konstanzer">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person><person xml:id="lub-actors-2791">
+            <persName type="full" xml:lang="de">Schertlin von Burtenbach, Sebastian (1552–)</persName>
+            <persName type="main" xml:lang="de">Schertlin von Burtenbach, Sebastian</persName>
+            <persName type="sort" xml:lang="de">schertlin von burtenbach, sebastian</persName>
+            <persName type="alternative" xml:lang="de">Schertlin, Sebastion; Schertlin, Sebastien</persName>
+            <birth when="1552-03-25"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: * 12.02.1496; † 18.11.1577</p>
+              <list type="unordered">
+                <item>Landsknechtführer, 1532 Oberkommandant über das gesamte Fussvolk des Reichsheeres, Grossmarschall, Generalkapitän, Gerichtsherr, Brandschatzmeister.</item>
+              </list>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Sebastian_Schertlin_von_Burtenbach">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person><person xml:id="lub-actors-2792">
+            <persName type="full" xml:lang="de">Schilling von Wildegg, Jörg (1552–)</persName>
+            <persName type="main" xml:lang="de">Schilling von Wildegg, Jörg</persName>
+            <persName type="sort" xml:lang="de">schilling von wildegg, joerg</persName>
+            <persName type="alternative" xml:lang="de">Schilling von Willdegg, Jeorg</persName>
+            <birth when="1552-03-25"/>
+            <note type="description" xml:lang="de">
+              <p>Kriegsherr</p>
+            </note>
+          </person><person xml:id="lub-actors-2793">
+            <persName type="full" xml:lang="de">Reutin, Ulrich genannt Ziegler (1552–)</persName>
+            <persName type="main" xml:lang="de">Reutin, Ulrich genannt Ziegler</persName>
+            <persName type="sort" xml:lang="de">reutin, ulrich genannt ziegler</persName>
+            <persName type="alternative" xml:lang="de">Rewtin, Ulrich</persName>
+            <birth when="1552-03-25"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger in Bregenz</p>
+            </note>
+          </person><person xml:id="lub-actors-2794">
+            <persName type="full" xml:lang="de">Nell, Balthasar (1552–)</persName>
+            <persName type="main" xml:lang="de">Nell, Balthasar</persName>
+            <persName type="sort" xml:lang="de">nell, balthasar</persName>
+            <persName type="alternative" xml:lang="de">Nell, Ballthussar</persName>
+            <birth when="1552-03-25"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger in Bregenz</p>
+            </note>
+          </person><person xml:id="lub-actors-2795">
+            <persName type="full" xml:lang="de">Altmannshausen, Achilles von (1552–)</persName>
+            <persName type="main" xml:lang="de">Altmannshausen, Achilles von</persName>
+            <persName type="sort" xml:lang="de">altmannshausen, achilles von</persName>
+            <persName type="alternative" xml:lang="de">Altmanshausen, Achilles von</persName>
+            <birth when="1552-03-25"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † 1560</p>
+              <list type="unordered">
+                <item>Hubmeister in Feldkirch, Jerusalempilger</item>
+              </list>
+            </note>
+          </person><person xml:id="lub-actors-2796">
+            <persName type="full" xml:lang="de">Weiler zu Altenburg, Eberhard von (1552–)</persName>
+            <persName type="main" xml:lang="de">Weiler zu Altenburg, Eberhard von</persName>
+            <persName type="sort" xml:lang="de">weiler zu altenburg, eberhard von</persName>
+            <persName type="alternative" xml:lang="de">Weyler, Eberhard von</persName>
+            <birth when="1552-03-25"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † 1552</p>
+            </note>
+          </person><person xml:id="lub-actors-2797">
+            <persName type="full" xml:lang="de">Ulm, Kaspar von (1543–)</persName>
+            <persName type="main" xml:lang="de">Ulm, Kaspar von</persName>
+            <persName type="sort" xml:lang="de">ulm, kaspar von</persName>
+            <persName type="alternative" xml:lang="de">Ulm, Caspar von</persName>
+            <birth when="1543-01-26"/>
+            <note type="description" xml:lang="de">
+              <p>Lebendaten: † nach dem 26.08.1551</p>
+              <list type="unordered">
+                <item>Landvogt von Vaduz</item>
+              </list>
+            </note>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://historisches-lexikon.li/Ulm,_Kaspar_von">HLFL</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </person><person xml:id="lub-actors-2800">
+            <persName type="full" xml:lang="de">Frankfurter, Jakob Dr. (1529–)</persName>
+            <persName type="main" xml:lang="de">Frankfurter, Jakob Dr.</persName>
+            <persName type="sort" xml:lang="de">frankfurter, jakob dr.</persName>
+            <persName type="alternative" xml:lang="de">Frannckfurter, Jacob doctor</persName>
+            <birth when="1529-04-15"/>
+            <note type="description" xml:lang="de">
+              <p>Prokurator der Oberösterreichischen Regierung in Innsbruck.</p>
+            </note>
+          </person><person xml:id="lub-actors-2801">
+            <persName type="full" xml:lang="de">Ofner, Peter (1529–)</persName>
+            <persName type="main" xml:lang="de">Ofner, Peter</persName>
+            <persName type="sort" xml:lang="de">ofner, peter</persName>
+            <persName type="alternative" xml:lang="de">Ofner, Petter</persName>
+            <birth when="1529-04-15"/>
+            <note type="description" xml:lang="de">
+              <p>kaiserlicher Majestät Diener</p>
+            </note>
           </person></listPerson>
         <listOrg>
           <org xml:id="lub-actors-195">
@@ -28185,7 +28483,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2026-06-23T09:49:10+02:00">teiHeader was automatically produced from the database 2026-06-23T09:49:10+02:00</change>
+      <change when="2026-06-23T10:00:52+02:00">teiHeader was automatically produced from the database 2026-06-23T10:00:52+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

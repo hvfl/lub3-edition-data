@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1186">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vogtei in Bregenz für Alwig IX. von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1186">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1563 Jul 24</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 24. Juli 1563 / Beschreibstoff: Papier, 2 Seiten / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-359">AT-TLA BBÄ OÖKAM Kopialbücher Geschäft von Hof 1563 fol. 246v-248</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 24. Juli 1563 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid Ferdinands I. an die Oberösterreichische Regierung betreffend die Vogtei Bregenz für Alwig IX. von Sulz.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-135">Landvogtei</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <placeName ref="lub-places-364">Wien</placeName>
+          <date when="1563-07-24">24. Jul 1563</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_reolutionen_von_hof_1563_jul_24-0001.jpg" xml:id="lub-media-3053" source="1563-07-24-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_reolutionen_von_hof_1563_jul_24-0002.jpg" xml:id="lub-media-3054" source="1563-07-24-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1563_fol__246v-248r-0001.jpg" xml:id="lub-media-3397" source="geschaft-von-hof-1563-02-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1563_fol__246v-248r-0002.jpg" xml:id="lub-media-3398" source="geschaft-von-hof-1563-02.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1563_fol__246v-248r-0003.jpg" xml:id="lub-media-3399" source="geschaft-von-hof-1563-03-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1563_fol__246v-248r-0004.jpg" xml:id="lub-media-3400" source="geschaft-von-hof-1563-03.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-26">Ferdinand</persName> von gottes genaden erwelter romischer  
+<lb n="2"/>khayser, zu allen zeitten merer des <orgName ref="lub-actors-516">Reichs</orgName> etc. 
+</p>
+        <p><lb n="3"/>Wolgebornner, auch edlen, ersamen, gelertten unnd lieben gethrewen. Wir haben eur unnderthenig  
+<lb n="4"/>schreiben vom sechzehenden tag gegenwurttigen monats emphanngen, unnd senden euch dar
+<lb break="no" n="5"/>auf zwo abschrifften unnserer, dem graff <persName ref="lub-actors-9">Albwigen von Sulz</persName>, <gap/>, von wegen der 
+<lb n="6"/>vogtey <placeName ref="lub-places-45">Bregenz</placeName> hiemit gnedigclichen zue und bevelhen euch, das ir ime die noturft darüber auf
+<lb break="no" n="7"/>richten, fertigen unnd endtgegen das anlehen der sechsthausendt gulden zw unnsern <orgName ref="lub-actors-2587">Tyrolischen Camers</orgName> 
+<lb n="8"/>noturfften emphahen lasset. Daran ervolgt unnser gnediger willen. Geben in unnser statt <placeName ref="lub-places-364">Wienn</placeName>,  
+<lb n="9"/>der <origDate>vierundzwaynzigisten tag julii anno etc. im dreyundsechzigissten</origDate>, unnserer <orgName ref="lub-actors-516">Reiche des Romischen</orgName>  
+<lb n="10"/>im dreyunddreyssigisten unnd der anndern im sibenunddreyssigisten. 
+<lb n="11"/><persName ref="lub-actors-26">Ferdinand</persName>  
+</p>
+        <p><lb n="12"/>Ad mandatum domini electi  
+<lb n="13"/>imperatoris proprium. 
+</p>
+        <p><lb n="14"/><gap/><lb n="15"/><gap/><lb n="16"/>Hueber 
+</p>
+        <p><lb n="17"/>Darüber di notdurfft zeferttigen zuegeschigkht. 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Praesentatum, <date when="1563-07-31">31. juli 63</date>. 
+</p>
+        <p><lb n="2"/>Dem wolgebornen, auch edlen, ersamen, gelerten,  
+<lb n="3"/>unnsern lieben getrewen n., unnserm stathalter,  
+<lb n="4"/>regenten unnd camerräthen der <placeName ref="lub-places-160">Oberösterreich
+<lb break="no" n="5"/>ischen Lannden</placeName>.
+</p>
+        <p><lb n="6"/>Vib <gap/><lb n="7"/>Graf <persName ref="lub-actors-9">Albig zu Sulz</persName>. 
+<lb n="8"/>Vogtei <placeName ref="lub-places-45">Bregenz</placeName><lb n="9"/><placeName ref="lub-places-19">Insprug</placeName><lb n="10"/>24. tag juli ano etc. 63. 
+</p>
+        <p><lb n="11"/>Zu handen unserer  
+<lb n="12"/><orgName ref="lub-actors-2587">Tirolischen Camer</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

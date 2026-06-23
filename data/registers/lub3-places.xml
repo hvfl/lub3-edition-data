@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-06-23 09:49:12 aus </p>
+        <p>Datenbankexport vom 2026-06-23 10:00:55 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -700,6 +700,39 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Köln"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-24">
+            <placeName type="main" xml:lang="de">Ensisheim</placeName>
+            <placeName type="full" xml:lang="de">Ensisheim (Elsass)</placeName>
+            <placeName type="sort" xml:lang="de">ensisheim</placeName>
+            <placeName type="alternative" xml:lang="de">Enßißhaim</placeName>
+            <location>
+              <geo>47.86584 7.35052</geo>
+              <settlement xml:lang="de">Ensisheim</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">24</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3020152"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q455645"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81048088"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/151278368/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4014832-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Ensisheim"/>
               </bibl>
             </listBibl>
           </place>
@@ -2556,6 +2589,43 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="P" xml:id="lub-places-88">
+            <placeName type="main" xml:lang="de">Mailand</placeName>
+            <placeName type="full" xml:lang="de">Mailand</placeName>
+            <placeName type="sort" xml:lang="de">mailand</placeName>
+            <location>
+              <geo>45.46427 9.18951</geo>
+              <country xml:lang="de">Italien</country>
+              <country xml:lang="en">Italy</country>
+            </location>
+            <idno type="lub-places-id">88</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6542283"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q490"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Milan-Italy"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80060867"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/006598"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/157818740/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4037100-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Mailand"/>
+              </bibl>
+            </listBibl>
+          </place>
           <place type="A" xml:id="lub-places-91">
             <placeName type="main" xml:lang="de">Toggenburg</placeName>
             <placeName type="full" xml:lang="de">Toggenburg (St. Gallen)</placeName>
@@ -2589,6 +2659,26 @@
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Toggenburg"/>
               </bibl>
             </listBibl>
+          </place>
+          <place type="A" xml:id="lub-places-93">
+            <placeName type="main" xml:lang="de">Appenzell</placeName>
+            <placeName type="full" xml:lang="de">Appenzell</placeName>
+            <placeName type="sort" xml:lang="de">appenzell</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">93</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://hls-dhs-dss.ch/de/articles/007389/2019-10-25/">HLS</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Eidgenössischer Ort, 1597 Trennung in Appenzell Ausserrhoden und Appenzell Innerrhoden.</p>
+            </note>
           </place>
           <place type="P" xml:id="lub-places-94">
             <placeName type="main" xml:lang="de">Baden (Stadt)</placeName>
@@ -2625,6 +2715,43 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Baden_AG"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="lub-places-95">
+            <placeName type="main" xml:lang="de">Basel</placeName>
+            <placeName type="full" xml:lang="de">Basel</placeName>
+            <placeName type="sort" xml:lang="de">basel</placeName>
+            <location>
+              <geo>47.55839 7.57327</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">95</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285161"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q78"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Basel-Switzerland"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79062979"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007478"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/130173038/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4004617-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Basel"/>
               </bibl>
             </listBibl>
           </place>
@@ -13241,7 +13368,7 @@
               <p>Wiesen und Äcker und Strasse westlich des Dorfes, nördlich der Bahn, bis zur Zollstrasse oder darüber hinaus reichend. Der Strassenname wird offiziell mit Präposition (Im Loma) verwendet.</p>
             </note>
           </place>
-          <place type="L" xml:id="lub-places-567">
+        <place type="L" xml:id="lub-places-567">
             <placeName type="main" xml:lang="de">Lowal</placeName>
             <placeName type="full" xml:lang="de">Lowal / Balzers</placeName>
             <placeName type="sort" xml:lang="de">lowal</placeName>
@@ -13268,8 +13395,7 @@
             <note type="description" xml:lang="de">
               <p>Wiesen, Häuser und Strasse westlich der Balzner Allmein, nördlich von Obem Dorf; früher Teil der Balzner Allmein.</p>
             </note>
-          </place>
-          <place type="V" xml:id="lub-places-568">
+          </place><place type="V" xml:id="lub-places-568">
             <placeName type="main" xml:lang="de">Loch</placeName>
             <placeName type="full" xml:lang="de">Loch / Planken</placeName>
             <placeName type="sort" xml:lang="de">loch</placeName>
@@ -13295,8 +13421,7 @@
             <note type="description" xml:lang="de">
               <p>Teils bewaldeter Wieshang im Dorf, nordöstlich des Lochteils, an der westlichen Gemeindegrenze zu Schaan.</p>
             </note>
-          </place>
-          <place type="S" xml:id="lub-places-569">
+          </place><place type="S" xml:id="lub-places-569">
             <placeName type="main" xml:lang="de">Malarsch</placeName>
             <placeName type="full" xml:lang="de">Malarsch / Schaan</placeName>
             <placeName type="sort" xml:lang="de">malarsch</placeName>
@@ -13323,8 +13448,7 @@
             <note type="description" xml:lang="de">
               <p>Häuser mit Wiesen und Äckern und Strasse nordwestlich des Dorfes, zwischen Tröxlegass und Zollstrasse. Der Strassenname wird offiziell mit Präposition (Im Malarsch) verwendet.</p>
             </note>
-          </place>
-          <place type="S" xml:id="lub-places-570">
+          </place><place type="S" xml:id="lub-places-570">
             <placeName type="main" xml:lang="de">Mesmergut</placeName>
             <placeName type="full" xml:lang="de">Mesmergut / Schaan</placeName>
             <placeName type="sort" xml:lang="de">mesmergut</placeName>
@@ -13349,8 +13473,7 @@
             <note type="description" xml:lang="de">
               <p>Unbekannt. Nördlich des Dorfes, im oder beim Gebiet Weslewolf.</p>
             </note>
-          </place>
-        <place type="S" xml:id="lub-places-571">
+          </place><place type="S" xml:id="lub-places-571">
             <placeName type="main" xml:lang="de">Oberplanken</placeName>
             <placeName type="full" xml:lang="de">Oberplanken / Planken</placeName>
             <placeName type="sort" xml:lang="de">oberplanken</placeName>
@@ -18873,6 +18996,28 @@
                 <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Weißenhorn"/>
               </bibl>
             </listBibl>
+          </place><place type="P" xml:id="lub-places-860">
+            <placeName type="main" xml:lang="de">Ingolstadt</placeName>
+            <placeName type="full" xml:lang="de">Ingolstadt (Bayern)</placeName>
+            <placeName type="sort" xml:lang="de">ingolstadt</placeName>
+            <placeName type="alternative" xml:lang="de">Ingotstat</placeName>
+            <placeName type="alternative" xml:lang="de">Ingelsatt</placeName>
+            <placeName type="alternative" xml:lang="de">Inglsatt</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="lub-places-id">860</idno>
+          </place><place type="P" xml:id="lub-places-861">
+            <placeName type="main" xml:lang="de">Wroclaw</placeName>
+            <placeName type="full" xml:lang="de">Wroclaw</placeName>
+            <placeName type="sort" xml:lang="de">wroclaw</placeName>
+            <placeName type="alternative" xml:lang="de">Breslau</placeName>
+            <location>
+              <country xml:lang="de">Polen</country>
+              <country xml:lang="en">Poland</country>
+            </location>
+            <idno type="lub-places-id">861</idno>
           </place><place type="A" xml:id="lub-places-862">
             <placeName type="main" xml:lang="de">Frischenberg (Herrschaft)</placeName>
             <placeName type="full" xml:lang="de">Frischenberg (Herrschaft) / Sennwald (St. Gallen)</placeName>
@@ -20774,6 +20919,154 @@
               <country xml:lang="en">Austria</country>
             </location>
             <idno type="lub-places-id">982</idno>
+          </place><place type="P" xml:id="lub-places-991">
+            <placeName type="main" xml:lang="de">St. Veit an der Glan</placeName>
+            <placeName type="full" xml:lang="de">St. Veit an der Glan (Kärnten)</placeName>
+            <placeName type="sort" xml:lang="de">st. veit an der glan</placeName>
+            <placeName type="alternative" xml:lang="de">Sant Veit</placeName>
+            <location>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">991</idno>
+          </place><place type="P" xml:id="lub-places-995">
+            <placeName type="main" xml:lang="de">Issenheim</placeName>
+            <placeName type="full" xml:lang="de">Issenheim (Grand Est (Haut Rhin))</placeName>
+            <placeName type="sort" xml:lang="de">issenheim</placeName>
+            <placeName type="alternative" xml:lang="de">Isenhaim; Ysenhaim</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">995</idno>
+          </place><place type="S" xml:id="lub-places-996">
+            <placeName type="main" xml:lang="de">Blochmont (Burgruine)</placeName>
+            <placeName type="full" xml:lang="de">Blochmont (Burgruine) / Kiffis (Grand Est (Haut Rhin))</placeName>
+            <placeName type="sort" xml:lang="de">blochmont (burgruine)</placeName>
+            <placeName type="alternative" xml:lang="de">Plochmundt; Chateau du Blochmont</placeName>
+            <location>
+              <settlement xml:lang="de">Kiffis</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">996</idno>
+          </place><place type="P" xml:id="lub-places-997">
+            <placeName type="main" xml:lang="de">Merxheim (Elsass)</placeName>
+            <placeName type="full" xml:lang="de">Merxheim (Elsass) (Grand Est (Haut Rhin))</placeName>
+            <placeName type="sort" xml:lang="de">merxheim (elsass)</placeName>
+            <placeName type="alternative" xml:lang="de">Merxhaim</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">997</idno>
+          </place><place type="P" xml:id="lub-places-998">
+            <placeName type="main" xml:lang="de">Raedersheim</placeName>
+            <placeName type="full" xml:lang="de">Raedersheim (Grand Est (Haut Rhin))</placeName>
+            <placeName type="sort" xml:lang="de">raedersheim</placeName>
+            <placeName type="alternative" xml:lang="de">Rotterßhaim; Rottershaim</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">998</idno>
+          </place><place type="P" xml:id="lub-places-999">
+            <placeName type="main" xml:lang="de">Ostheim</placeName>
+            <placeName type="full" xml:lang="de">Ostheim (Grand Est (Haut Rhin))</placeName>
+            <placeName type="sort" xml:lang="de">ostheim</placeName>
+            <placeName type="alternative" xml:lang="de">Osstain</placeName>
+            <location>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">999</idno>
+          </place><place type="S" xml:id="lub-places-1001">
+            <placeName type="main" xml:lang="de">Landskron (Burg)</placeName>
+            <placeName type="full" xml:lang="de">Landskron (Burg) / Leymen (Grand Est (Haut Rhin))</placeName>
+            <placeName type="sort" xml:lang="de">landskron (burg)</placeName>
+            <location>
+              <settlement xml:lang="de">Leymen</settlement>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="lub-places-id">1001</idno>
+          </place><place type="R" xml:id="lub-places-1006">
+            <placeName type="main" xml:lang="de">Klause</placeName>
+            <placeName type="full" xml:lang="de">Klause / Lochau (Vorarlberg)</placeName>
+            <placeName type="sort" xml:lang="de">klause</placeName>
+            <placeName type="alternative" xml:lang="de">Clauß Bregennz</placeName>
+            <location>
+              <settlement xml:lang="de">Lochau</settlement>
+              <country xml:lang="de">Österreich</country>
+              <country xml:lang="en">Austria</country>
+            </location>
+            <idno type="lub-places-id">1006</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Klause_(Lochau)">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Klause (auch: Bregenzer Klause genannt) ist eine geographische Engstelle in der Gemeinde Lochau, Vorarlberg, Österreich am Klausberg. Diese Engstelle war auch über Jahrhunderte militärisch bedeutsam und hat mit anderen Sperrwerken den Zugang zur Festung Bregenz und dem Land Vorarlberg bei Bedarf für gegnerische Truppen, die aus dem schwäbischen, bayrischen und württembergischen Raum kamen, versperrt.</p>
+            </note>
+          </place><place type="A" xml:id="lub-places-1007">
+            <placeName type="main" xml:lang="de">Bern</placeName>
+            <placeName type="full" xml:lang="de">Bern</placeName>
+            <placeName type="sort" xml:lang="de">bern</placeName>
+            <placeName type="alternative" xml:lang="de">Beren</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">1007</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://de.wikipedia.org/wiki/Stadt_und_Republik_Bern">Wikipedia</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Die Stadt und Republik Bern (Respublica Bernensis) entwickelte sich durch Gebietserweiterungen der 1191 gegründeten, späteren Reichsstadt Bern zwischen Genf und Brugg sowie Jurasüdfuss und Berner Alpen. Bern galt bis zu seiner Auflösung 1798 als mächtigster und grösster Stadtstaat nördlich der Alpen.</p>
+            </note>
+          </place><place type="P" xml:id="lub-places-1016">
+            <placeName type="main" xml:lang="de">Lausanne</placeName>
+            <placeName type="full" xml:lang="de">Lausanne (Waadt)</placeName>
+            <placeName type="sort" xml:lang="de">lausanne</placeName>
+            <placeName type="alternative" xml:lang="de">Lassann</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">1016</idno>
+          </place><place type="A" xml:id="lub-places-1017">
+            <placeName type="main" xml:lang="de">Thurgau</placeName>
+            <placeName type="full" xml:lang="de">Thurgau</placeName>
+            <placeName type="sort" xml:lang="de">thurgau</placeName>
+            <placeName type="alternative" xml:lang="de">Durggoy</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">1017</idno>
+            <note type="description" xml:lang="de">
+              <p>Kanton</p>
+            </note>
+          </place><place type="A" xml:id="lub-places-1018">
+            <placeName type="main" xml:lang="de">Aargau</placeName>
+            <placeName type="full" xml:lang="de">Aargau</placeName>
+            <placeName type="sort" xml:lang="de">aargau</placeName>
+            <placeName type="alternative" xml:lang="de">Ergew</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="lub-places-id">1018</idno>
+            <note type="description" xml:lang="de">
+              <p>Kanton</p>
+            </note>
           </place></listPlace>
       </settingDesc>
     </profileDesc>
@@ -20821,7 +21114,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-06-23T09:49:12+02:00">teiHeader was automatically produced from the database 2026-06-23T09:49:12+02:00</change>
+      <change when="2026-06-23T10:00:56+02:00">teiHeader was automatically produced from the database 2026-06-23T10:00:56+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

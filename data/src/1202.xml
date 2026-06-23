@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1202">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zahlungsanweisung von Maximilian III. an die Oberösterreichische Kammer</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-1202">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1607 Nov 21</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 21. November 1607 / Beschreibstoff: Papier, 3 Seiten / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-392">AT-TLA BBÄ OÖKAM Kopialbücher Geschäft von Hof 1607 fol. 403r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 21. November 1607 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Dekret Maximilian III. an die Oberösterreichische Hofkammer, die Öffnungsgelder für die Schlösser des Grafen Karl Ludwig von Sulz in der Höhe von 7500 Gulden sollen mit den Schulden, die der Graf bei Dr. Johann Kern in der Höhe von 5145 Gulden gegenverrechnet werden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-73">öffnungsgeld</term>
+          <term ref="lub-keywords-61">Schulden</term>
+          <term ref="lub-keywords-60">Reichstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-184">Österreich, Maximilian III. von</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1607-11-21">21. Nov 1607</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_21-0001.jpg" xml:id="lub-media-3220" source="1607-11-21-tla-ookam-akten-resulationen-von-hof-032.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_21-0002.jpg" xml:id="lub-media-3221" source="1607-11-21-tla-ookam-akten-resulationen-von-hof-033-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1607_nov_21-0003.jpg" xml:id="lub-media-3222" source="1607-11-21-tla-ookam-akten-resulationen-von-hof-038.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1607_fol__403r-407r-0001.jpg" xml:id="lub-media-3407" source="geschaft-von-hof-1607-02-403r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1607_fol__403r-407r-0002.jpg" xml:id="lub-media-3408" source="geschaft-von-hof-1607-03-404r-kopie.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Was es mit herrn graf <persName ref="lub-actors-13">Carl Ludwigen von  
+<lb n="2"/>Sulz</persName> praetension wegen zwaytausent gulden  
+<lb n="3"/>capital und etlicher ausstendiger interesse,   
+<lb n="4"/>auch öffnunggelts ansprach für ein beschaffen
+<lb break="no" n="5"/>hait, und das sich solche seine, deß herrn grafen,  
+<lb n="6"/>praetensiones auf sibentausent funfhundert  
+<lb n="7"/>gulden erstreckhen mechten, doch der durch  
+<lb n="8"/>ine, herrn grafen, verursachte uncosten davon  
+<lb n="9"/>abgericht und zuvorderist liquidiert werden  
+<lb n="10"/>müesse, darzue doctor <persName ref="lub-actors-173">Gall Hager</persName> zu ei
+<lb break="no" n="11"/>nem obman fürgeschlagen würdet, das al
+<lb break="no" n="12"/>les haben ir fürstlich durchlaucht, erzherzog <persName ref="lub-actors-184">Maximilian 
+<lb n="13"/>zu Österreich</persName> etc., unnser gnedigister herr, aus  
+<lb n="14"/>der <orgName ref="lub-actors-929">Oberösterreichischen Regierung</orgName> gehorsamen bericht  
+<lb n="15"/>und guetachten vom dritten diß ablesendt  
+<lb n="16"/>verstannden. 
+</p>
+        <p><lb n="17"/>Was nun darauf sowol ime, grafen, zuegeschriben,  
+<lb n="18"/>als vogt und ambtleuthen zu <placeName ref="lub-places-45">Bregenz</placeName> (weil  
+<lb n="19"/>doctor <persName ref="lub-actors-173">Hager</persName> ieziger zeit mit dem <term ref="lub-keywords-60">Reichstag</term> zu  
+<lb n="20"/>schaffen und disem werckh nit abwartten  
+<lb n="21"/>khan) gnedigist bevolchen, das hat woler
+<lb break="no" n="22"/>meltte <orgName ref="lub-actors-929">Regierung</orgName> beygelegt copeylich sub 
+<lb n="23"/>literis A unnd B mehrers zuvernemmen. 
+</p>
+        <p><lb n="24"/>Und ist ir doctor ganz und gar nit zuwider, sonder  
+<lb n="25"/>hiemit in eventum deroselben gnedigister  
+<lb n="26"/>bevelch, das hernach, wann mit dem herrn  
+<lb n="27"/>grafen ein richtigß gemacht, die <persName ref="lub-actors-2785">kernische</persName>  
+<lb n="28"/>schuldt der funftausent ainhundert funf
+<lb break="no" n="29"/>undvierzig gulden, so sy by dem grafen 
+
+<lb n="30"/>zuersuechen und einzulangen haben, oder wievil es sich  
+<lb n="31"/>belauffen mechte, durch ein transport auf  
+<lb n="32"/>die <orgName ref="lub-actors-2587">Cammer</orgName> gericht werde. Hieran beschieht  
+<lb n="33"/>ir durchlaucht gnedigister will und mainung. Actum  
+<lb n="34"/><placeName ref="lub-places-19">Ynsprugg</placeName>, den <origDate>ainundtzwainzigisten nov
+<lb break="no" n="35"/>vember anno etc. sechzehenhundert siben</origDate>.
+</p>
+        <p>
+          <lb n="36"/>
+          <gap/>
+        </p>
+        <p><lb n="37"/>Decretum per serenissimum dominum  
+<lb n="38"/>archiducem <persName ref="lub-actors-184">Maximilian</persName></p>
+        <p>
+          <lb n="39"/>
+          <gap/>
+        </p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Praesentatum 28. novembris anno 1607
+</p>
+        <p><lb break="no" n="2"/>Zu hannden <orgName ref="lub-actors-2815">Oberöster
+<lb break="no" n="3"/>reichischer Camer</orgName>.
+</p>
+        <p><lb n="4"/><persName ref="lub-actors-13">Sulz</persName><lb n="5"/><persName ref="lub-actors-2785">Kernisch</persName><lb n="6"/>Den 21. november anno 1607. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

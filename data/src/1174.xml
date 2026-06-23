@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1174">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Öffnungsgeld für Schloss Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1174">AT-TLA BBÄ OÖKAM Akten Resolutionen von Hof</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Mai 1523 / Beschreibstoff: Papier / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-327">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1523 Bd. 87 fol. 262v-263r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Mai 1523 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Öffnungsvertrag Erzherzog Ferdinands für Graf Rudolf V. von Sulz. Dafür erhält der Graf jährlich am 1. Mai 200 Gulden Öffnungsgeld aus der Tiroler Raitkammer und ein Hilfsgeld von 1'200 Gulden für Bau und Besserung der Schlösser Vaduz und Küssaberg.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-73">öffnungsgeld</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1523-05-01">1. Mai 1523</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_akten_resultationen_von_hof-0001.jpg" xml:id="lub-media-3016" source="1523-05-01-tla-ookam-akten-resulationen-von-hof-001-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_akten_resultationen_von_hof-0002.jpg" xml:id="lub-media-3017" source="1523-0501-tla-ookam-akten-resulationen-von-hof-002-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1523_bd__87_fol__262v-263r-0001.jpg" xml:id="lub-media-3014" source="geschaft-von-hof-1523-band-87-02-262v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1523_bd__87_fol__262v-263r-0002.jpg" xml:id="lub-media-3015" source="geschaft-von-hof-1523-band-87-02-263r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wir, <persName ref="lub-actors-26">Ferdinand</persName> von gotes gnaden prinz und infant in <placeName ref="lub-places-253">Hispanien</placeName>, erzherzog zu <placeName ref="lub-places-295">Osterreich</placeName>, herzog zu <placeName ref="lub-places-120">Burgundi</placeName>, <placeName ref="lub-places-259">Steir</placeName>, <placeName ref="lub-places-260">Kerndtn</placeName> und  
+<lb n="2"/><placeName ref="lub-places-261">Crain</placeName> etc., embietten den edlen, ersamen, gelerten, unnsern lieben getrewen, unnsern statthaltern und räten unnsers regiments und  
+<lb n="3"/><orgName ref="lub-actors-2587">Raitcamer</orgName> zu <placeName ref="lub-places-19">Insprugg</placeName>, welhe yetze sein oder hinfuro sein werden, unnser gnad und alles gut. Wir haben dem edlen unnserm  
+<lb n="4"/>lieben getrewen <persName ref="lub-actors-8">Rudolfen graven zu Sulz</persName>, unnserm rat, von wegen des sloß <placeName ref="lub-places-86">Kussenperg</placeName>, und sunst aller anndern seiner slosser,  
+<lb n="5"/>fleckhen, dorffern und weilern, darinn er und sein erben, unns und unnsern erben, ewige offnunghalter, und geben sollen alle jar  
+<lb n="6"/>jerlich und aines yeden jars besonnder, allwegen auf den ersten tag des monats maii zwayhundert guldin reinisch, ain guldin  
+<lb n="7"/>fur funfzehen patzen oder sechzig kreuzer, zereichen von unnser <orgName ref="lub-actors-2587">Tirolischen Camer</orgName> eur verwaltung zu raichen zugesagt und  
+<lb n="8"/>verschriben. Darzue so haben wir auch gedachtem graven <persName ref="lub-actors-8">Rudolfen</persName> zu paw und pesserung seiner zwayer slosser <placeName ref="lub-places-86">Kussenberg</placeName> und  
+<lb n="9"/><placeName ref="lub-places-33">Vaduz</placeName> hilfgelt zwelfhundert guldin reinisch aus gedachter unnser <orgName ref="lub-actors-2587">Camer</orgName> zu <placeName ref="lub-places-19">Insprugg</placeName> zu raichen bewilligt. Daran er dann  
+<lb n="10"/>nunmals vor dato dits briefs zwayhundert emphanngen, und die ubermaß tausend guldin ime in vier jaren den nechsten auch  
+<lb n="11"/>entricht und bezalt werden sollen, nemlich von dato dits briefs uber sechs monat ain hundert funfundzwainzig guldin, und da
+<lb break="no" n="12"/>nach allwegen in sechs monaten ain hundert und funfundzwainzig guldin zu volliger bezalung der gemeltn tausend guldin 
+<lb n="13"/>dergestallt, das derselb graf <persName ref="lub-actors-8">Rudolf</persName> und sein erben zu solhem unnserm paw und hilfgelt zu bemelten fristen gleicherweis zwelf
+<lb break="no" n="14"/>hundert guldin reinisch, das zusamen zwaytausendt und dreihundert guldin tut geben, die zu notdurfft der weren, an derselben 
+<lb n="15"/>zwayen slossern nach unnserm oder eurem rat und gevallen verpaut werden sollen, innhalt unnser verschreibung und vertrags
+<lb break="no" n="16"/>brief deßhalben außganngen. Demnach emphelhen wir euch mit ernst und wellen, das ir obgenantem graven 
+<lb n="17"/><persName ref="lub-actors-8">Rudolfen von Sulz</persName> sein leben lanng und nach seinem abganng seinen erben, so lanng sy das obberurt sloß <placeName ref="lub-places-86">Kussenberg</placeName> innhaben  
+<lb n="18"/>werden, alle jar jerlich und aines jeden jars besonnder, die vorgenanntn zwayhundert guldin reinisch, auch die mergemelten  
+<lb n="19"/>tausend guldin baw und hilfgelt zu den frissten, wie obgemelt, von dem einkomen unnser <orgName ref="lub-actors-2587">Tirolischen Camer</orgName> eur verwaltung  
+<lb n="20"/>auf ir geburlich quitanzen und disen unnsern bevelh zu raichen und zu bezallen verordnet. Daran tut ir unnser ernst
+<lb break="no" n="21"/>liche maynung. Geben zu <placeName ref="lub-places-19">Innsprugg</placeName>, am <origDate>ersten tag des monats maii anno domini etc. im dreyundzwainzigisten</origDate>.
+<lb n="22"/><persName ref="lub-actors-26">Ferdinand</persName>  
+</p>
+        <p><lb n="23"/>Ad mandatum serenissimi domini principis  
+<lb n="24"/>archiducis proprium 
+<lb n="25"/><gap/></p>
+        <p><lb n="26"/>Registrata Veit von Waldenburg manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>1. mai 1523 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

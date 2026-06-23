@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1210">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bericht über die Landesrettung der Herrschaften vor dem Arlberg inklusive von Vaduz und Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-1210">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. IV Pos. 22</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 25. März 1552 / Beschreibstoff: Papier, 8 Seiten / Siegel: 7 Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bericht an die Oberösterreichische Regierung in Innsbruck von mehreren Vertretern der Herrschaften vor dem Arlberg, welche Überlegungen bezüglich der Landesrettung vor den Eidgenossen und den Franzosen angestellt worden sind.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-328">Kriegsvorbereitung</term>
+          <term ref="lub-keywords-518">Schmalkaldischer Krieg</term>
+          <term ref="lub-keywords-516">Landsknecht</term>
+          <term ref="lub-keywords-95">Waffe</term>
+          <term ref="lub-keywords-91">Munition</term>
+          <term ref="lub-keywords-84">Grenzsicherung</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-45">Bregenz</placeName>
+          <date when="1552-03-25">25. Mär 1552</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0001.jpg" xml:id="lub-media-3554" source="1-0001-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0002.jpg" xml:id="lub-media-3555" source="1-0002-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0003.jpg" xml:id="lub-media-3556" source="1-0002a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0004.jpg" xml:id="lub-media-3557" source="1-0003-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0005.jpg" xml:id="lub-media-3558" source="1-0003a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0006.jpg" xml:id="lub-media-3559" source="1-0004-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0007.jpg" xml:id="lub-media-3560" source="1-0004a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0008.jpg" xml:id="lub-media-3561" source="1-0005-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Hochwirdiger fürsst, wolgepornnen, edlen, gestrenngen, hochgelerten unnd  
+<lb n="2"/>vessten, genedigen herrn. Euer fürstlich gnaden unnd gunst seyen allzeit unnser unnder
+<lb break="no" n="3"/>thenig unnd gehorsam willig diennst zuvor. Auff euer fürstlich gnaden unnd gunst  
+<lb n="4"/>aussganngne bevelch unnd mein, <persName ref="lub-actors-203">Lauxen von Reyschachs</persName>, vogts zu <placeName ref="lub-places-45">Bregentz</placeName>,  
+<lb n="5"/>schreiben unnd ervordern, sind wir alls der römisch kuniglichen mayestät etc. vogt,  
+<lb n="6"/>amptleüt unnd dienere, auff hewt datho alhie zu <placeName ref="lub-places-45">Bregenntz</placeName> bey ain anndern   
+<lb n="7"/>erschinen. Unnd haben mit sampt den edlen, vessten unnd fürnemen  
+<lb n="8"/><persName ref="lub-actors-2792">Jeorgen Schilling von Willdegg</persName>, <persName ref="lub-actors-94">Hannsen Schnabel von Schönnstain</persName>, <persName ref="lub-actors-2794">Ball
+<lb break="no" n="9"/>thussar Nellen</persName> unnd <persName ref="lub-actors-2793">Ulrichen Rewtin</persName>, genannt Ziegler von <placeName ref="lub-places-45">Bregentz</placeName>, 
+<lb n="10"/>hauptleüten unnd anndern mer verstenndigen pershonen unnd kriegs
+<lb break="no" n="11"/>lewten von den stetten unnd lanndtschafften <placeName ref="lub-places-10">Velldtkirch</placeName>, <placeName ref="lub-places-45">Bregenntz</placeName>, 
+<lb n="12"/><placeName ref="lub-places-205">Bludenntz</placeName> unnd <placeName ref="lub-places-47">Sonnenburg</placeName>, die wir zu unns beschriben unnd ervordent   
+<lb n="13"/>ainer lanndtsrettung halben. Nachdem man sich bei disen gefarlichen  
+<lb n="14"/>unnd beschwerlichen lewffen in der römisch kuniglichen mayestät etc. vier herrschafften  
+<lb n="15"/>her dißhalb <placeName ref="lub-places-97">Arlabergs</placeName> von der römisch khayserlichen unnd kuniglichen mayestät wider
+<lb break="no" n="16"/>wertigen unnd veinden, alls dem verkerdten verüebigen pundt, so sich 
+<lb n="17"/>die evanngelischen bruoder nennen, auch <persName ref="lub-actors-2791">Sebastion Schertlin</persName> unnd  
+<lb n="18"/>zum thayl von den <orgName ref="lub-actors-515">Aydtgnossen</orgName> unnd <orgName ref="lub-actors-1632">Pündten</orgName> unnd anndern irn anhenngern  
+<lb n="19"/>unnd verhelffern aines eylennden unversechnen überzugs unnd beschedigung  
+<lb n="20"/>versehen muß, auch annderer nottwenndigkaiten mit ainanndern unnder
+<lb break="no" n="21"/>redt, verainigt unnd enntschlossen. Wie hernach volgt 
+<lb n="22"/>unnd namlichen, so haben wir vermög euer fürstlich gnaden und gunst schreiben unnd  
+<lb n="23"/>bevelchs auff mich, <persName ref="lub-actors-203">Lauxen von Reyschach</persName>, alls von euer fürstlich gnaden unnd gunst   
+<lb n="24"/>verordneten oberisten hauptman diser vordern herrschafften aussganngen  
+<lb n="25"/>deß dathum steet <placeName ref="lub-places-19">Ynnsprugg</placeName>, den tag dits laufenden  
+<lb n="26"/>monnats martii drey lanndtsrettungen, die ain im verschinen <date when="1534">fünff
+<lb break="no" n="27"/>zehenhundert vierunddreissigisten</date>, die annder im <date when="1544">xliii</date> sten 
+<lb n="28"/>unnd die dritt im <date when="1546">xlvi</date> sten jarn durch unnsere vorfarn vögt unnd  
+<lb n="29"/>annder verstenndig pershonnen berüerter herrschafften abgredt worden  
+<lb n="30"/>sein. Erstlichen für unns genomen, dieselben alles vleiß erwegen   
+<lb n="31"/>unnd besichtigt, ob bei disen beschwerlichen lewffen unnd selzamen pratickhen  
+<lb n="32"/>ettwas darinnen zu minndern oder ze meern von nötten gewesst, so be
+<lb break="no" n="33"/>fynnder wir aber, das sölche drey lanndtsrettungen (der krieg, oder über
+<lb break="no" n="34"/>fall trage sich gleich auff welcher seytten es welle zuo) guotter massen 
+<lb n="35"/>aller notturfft nach, abgeredt unnd beschlossen worden sein. Derhalben wir  
+<lb n="36"/>dieselben drey lanndtsrettungen noch derzeit in ir wirden unnd crefften  
+<lb n="37"/>beleyben lassen. Unnd fürnemlich so mag die lanndsrettung im  
+
+<lb n="38"/>verschinen xv und xlvi sten jar in der schmalkhalldischen kriegsempörung, abge
+<lb break="no" n="39"/>redt worden ist, unnsers bedunckhenns disen vordern herrschafften 
+<lb n="40"/>der yez schwebennden empörung halben, wo annderst derselben stattliche  
+<lb n="41"/>volnziehung beschichdt, im val der nott, ganntz diennstlich unnd fürstenndig  
+<lb n="42"/>sein, wellen unns auch derselbigen mitsampt den unnderthanen unnser ver
+<lb break="no" n="43"/>walltungen, biß wir aigenntlich sehen mügen, wie sich schwebennde kriegs
+<lb break="no" n="44"/>züg hinauß lennden werden behelffen. Unnd vermüg derselben, alls die 
+<lb n="45"/>getrewen gehorsamen diener, was der römisch küniglichen mayestät etc. unns unnd disen  
+<lb n="46"/>vordern herrschafften zu nutz unnd guottem raychen unnd gedienen mag,  
+<lb n="47"/>yederzeit getrewlich hanndlen. Unnd sind der unnderthenigen hoffnung,   
+<lb n="48"/>euer fürstlich gnaden unnd gunst werden anstatt der khüniglichen mayestät alle notturfften, was berüerte  
+<lb n="49"/>jüngsste lanndtsrettung unnd diser vordern herrschafften notturfft ervordert,  
+<lb n="50"/>genedigclich erstatten, verordnen unnd fürsehung thuon. Unnd damit  
+<lb n="51"/>euer fürstlich gnaden unnd gunst derselben jungst abgeredten lanndsrettung grundtlich  
+<lb n="52"/>wissen empfahen mügen. So schicken wir denselben hiemit ain lauttere  
+<lb n="53"/>coppei davon zue, so sich dann die sachen annderst zuetriegen, allso das ain  
+<lb n="54"/>überfal in den obern wallgewischen herrschafften beschehen sollt, mag allß
+<lb break="no" n="55"/>dann vermüg der obberüerten zwayer elltern lanndsrettungen, im val 
+<lb n="56"/>der nott zu widerstannd der veind gehanndelt werden, in denselben  
+<lb n="57"/>unnsers bedunckhens nit vil übersehen, sonnder alle notturfft bedacht  
+<lb n="58"/>worden ist. 
+</p>
+        <p><lb n="59"/>Zum anndern genedig herrn, so haben wir ain copei aines schreibenns,  
+<lb n="60"/>so ich, vogt, auch die amptlewt unnd stattamman unnd rath zu <placeName ref="lub-places-45">Bregenntz</placeName><lb n="61"/>euer fürstlich gnaden unnd gunst vom datho, den <date when="1552-03-21">xxi sten tag dits lauffennden monats</date>  
+<lb n="62"/>von <placeName ref="lub-places-45">Bregenntz</placeName> auß gethan, mit ainanndern abgehört. Darinnen wir  
+<lb n="63"/>fünffzehen oder sechzehen artickhl unnd männgelhaiten, darinnen sy  
+<lb n="64"/>an euer fürstlich gnaden unnd gunst anstatt der khuniglichen mayestät in der herrschafft <placeName ref="lub-places-45">Bregennz</placeName>  
+<lb n="65"/>fürsehung zethuon, alles vleiß anhalten, befinnden unnd wirdeth war
+<lb break="no" n="66"/>lichen in demselben schreiben nichts annders anzaigt oder begert, dann das 
+<lb n="67"/>der hoch unvermeydelich notturfft nit allain in der herrschafft <placeName ref="lub-places-45">Bregentz</placeName>,  
+<lb n="68"/>sonnder auch in der anndern herrschafften allen ervordert. Derhalben  
+<lb n="69"/>so ist unnser aller gannz unnderthenig pith, euer fürstlich gnaden unnd gunst wellen  
+<lb n="70"/>dieselben artickhel in gedachtem schreiben begriffen, genedigclich erwegen  
+<lb n="71"/>unnd anstatt der khuniglichen mayestät darinnen diser herrschafften notturfft nach  
+<lb n="72"/>fürnemlich mit verordnung der zwayer commissaryen in allweg ge
+<lb break="no" n="73"/>nedige fürsehung thuon. Dann sich vil zeit zutragen, das weder  
+
+<lb n="74"/>wir, <persName ref="lub-actors-90">Hanns von Embs</persName>, noch <persName ref="lub-actors-156">Balltussar von Rambschwag</persName>, auff ervordern deß  
+<lb n="75"/>oberisten hauptmans nit erscheinen, unnd in zufallennden sachen der notturfft  
+<lb n="76"/>nach zu hanndlen verhelffen möchten. Unnd über das alles, wo nott  
+<lb n="77"/>gepüerennde bevelch unnd beschaid geben unnd verfollgen lassen, damit  
+<lb n="78"/>derhalben im vall der nott nichts verabsaumpt werde. 
+</p>
+        <p><lb n="79"/>Zum dritten haben wir noch ettlich männgel darinnen fürsehung zethuon  
+<lb n="80"/>ganntz von nötten sein will befunden, die euer fürstlich gnaden und gunst hievor zum  
+<lb n="81"/>thayl nit angezaigt worden sein, die wellen wir euer fürstlich gnaden unnd gunst hiemit  
+<lb n="82"/>in unnderthenigkait anzaigen. Unnd dieselben daneben alles vleiß  
+<lb n="83"/>vleiss pitten, die wellen sölche männgel genedigclich bedennckhen unnd dar
+<lb break="no" n="84"/>innen sovil muglich eylennde fürsehung zethuon verordnen, auch wo nott 
+<lb n="85"/>fürderlichen bevelch unnd beschaid geben. 
+</p>
+        <p><lb n="86"/>Namlichen, so vermag die jüngst abgeredt lanndtsrettung, wie euer fürstlich gnaden unnd gunst  
+<lb n="87"/>auß beyligennder coppei vernemen werden, das ain vogt zu <placeName ref="lub-places-205">Bludenntz</placeName>  
+<lb n="88"/>im fal der nott ain valckenet unnd ainen gannzen wagen mit toppel  
+<lb n="89"/>unnd sonnst haggen unnd drey tunen pulfer, unnd ain vogt oder ver
+<lb break="no" n="90"/>wallter zu <placeName ref="lub-places-139">Newburg</placeName> ain valkhonet, zwainzig haggen unnd etlich pullfer 
+<lb n="91"/>unnd pley, dergleichen die statt Velkirch mit allem irem geschütz, sovil sy  
+<lb n="92"/>in irer statt empern mügen. Dergleichen der vogt zu <placeName ref="lub-places-13">Guottemberg</placeName>  
+<lb n="93"/>auch ettlich geschütz zu der nottwer geben unnd laissten sölten, das wurd  
+<lb n="94"/>aber kainßwegs beschehen. Dann weder zu <placeName ref="lub-places-205">Bludenntz</placeName>, <placeName ref="lub-places-13">Guottemberg</placeName>  
+<lb n="95"/>noch <placeName ref="lub-places-139">Newburg</placeName> das geschütz kainßwegs zugericht ist, das dasselb im val  
+<lb n="96"/>der nott, insonnders im velld, gepraucht werden müg. Zu dem ist auch  
+<lb n="97"/>der ennden gar wenig pulfer, unnd sovil allda, das ist kain nütz,  
+<lb n="98"/>so befynnden wir, das die von <placeName ref="lub-places-10">Velldkyrch</placeName> gar wenig geschütz auß irer  
+<lb n="99"/>statt empern mügen, das zu der lanndtwör gepraucht wedern söllten.  
+<lb n="100"/>Derhalben warlichen im val der nott an geschüz unnd aller annderer  
+<lb n="101"/>monicion unnd rüsstung darzu gehörig, in disen herrschafften grosser  
+<lb n="102"/>manngel erscheinen, damit palld ettwas groß verabsaumpt wurd, zu
+<lb break="no" n="103"/>fürkumung desselben, so wellen euer fürstlich gnaden unnd gunst vermüg zugeschickter 
+<lb n="104"/>lanndsrettung ain gut velld geschützt, mit aller beraitschafft, one verzug,  
+<lb n="105"/>mitsampt ettlichen guoten püchssenmaistern in dise herrschafften verordnen,  
+<lb n="106"/>unnd die daran nit lassen. Unnd dieweil der römisch kuniglichen mayestät etc.  
+<lb n="107"/>unnd disen vordern herrschafften an den schlösern <placeName ref="lub-places-46">Bludenntz</placeName> und <placeName ref="lub-places-139">Newburg</placeName>  
+<lb n="108"/>nit wenig gelegen, aber das geschütz darinnen, wie obsteet, zum thayl  
+
+<lb n="109"/>ins velld zugebrauchen, gar nit zugericht ist. So wellen euer fürstlich gnaden und gunst  
+<lb n="110"/>der kuniglichen mayestät amptleuten zu <placeName ref="lub-places-10">Velldkirch</placeName> unnd <placeName ref="lub-places-205">Bludennz</placeName> bevelch geben, was  
+<lb n="111"/>ich, vogt zu Bregennz, in gemelten baiden hewsern für geschütz, vermüg  
+<lb n="112"/>euer fürstlich gnaden unnd gunst bevelchs, der notturfft nach zuzerichten bevelhen wird,  
+<lb n="113"/>das sy den uncosten, so darüber geen wirdeth, auß den ämptern irn ver
+<lb break="no" n="114"/>walltungen bezaln, damit derhalben nichts verabsaumpt werde. 
+</p>
+        <p><lb n="115"/>Verrer so will die notturfft grösslich ervordern, dieweil die schlösser,  
+<lb n="116"/>dergleichen die unnderthanen gemainclich diser vordern herrschafften mit  
+<lb n="117"/>profannt, unnd fürnemlich mit salz, deß mann doch kainßwegs empern  
+<lb n="118"/>kan, gar nit fürsehen sein, das euer fürstlich gnaden unnd gunst one vertzug  
+<lb n="119"/>ain guotte anzal kornn unnd salz, dieweil doch kain verlieren daran  
+<lb n="120"/>beschicht, sonnder wo es im fall der nott nit verpraucht, yederzeit  
+<lb n="121"/>zu gellt gemacht werden mag, zu ainem vorrat in dise herrschafften  
+<lb n="122"/>verordnen, damit im vall der nott nit manngel daran erscheine,  
+<lb n="123"/>dann sich leichtsam zuetragen, das unns auß verhinnderung der veind,  
+<lb n="124"/>der kains, so schon gellt verhannden were, zukumen möchte, euer fürstlich gnaden  
+<lb n="125"/>unnd gunst söllen auch unns, den vögten, amptleütten unnd verwaltern  
+<lb n="126"/>der schlösser diser herrschafften, innamen der römisch kuniglichen mayestät etc., bevelhen,  
+<lb n="127"/>das ain yeder sein innhabennd schloß, im fall der nott (soverr die
+<lb break="no" n="128"/>selben mit profannt, geschütz unnd annderer notturfftigen monicion 
+<lb n="129"/>versehen werden), mit guotem tapffern kriegslewten nach notturfft  
+<lb n="130"/>besetze, unnd zeitliche fürsehung thuoe, damit derhalben nichts  
+<lb n="131"/>verabsaumpt werde. 
+</p>
+        <p><lb n="132"/>Es were auch vasst guot, dieweil in verschiner <term ref="lub-keywords-518">Schmalkhaldischer kriegs</term><lb break="no" n="133"/>empörung in der <placeName ref="lub-places-1006">Clauß Bregennz</placeName> ain maur- unnd plockhaus zuer
+<lb break="no" n="134"/>sparung grosser wachten auffgepawt, das anstatt desselben blockh
+<lb break="no" n="135"/>hauß ain gemaurter thurm, unnd dartzu hinder der maur gegen 
+<lb n="136"/><placeName ref="lub-places-45">Bregennz</placeName> werz, am <placeName ref="lub-places-266">Podennsee</placeName> unnd im berg, die stennd oder brust
+<lb break="no" n="137"/>werinen der notturfft nach erpawt unnd gemacht. Dergleichen die 
+<lb n="138"/><placeName ref="lub-places-1006">Clauß</placeName> ob der gemelten maur gegen dem velsen wertz verfellt  
+<lb n="139"/>unnd welezt wurde. Damit solliche alles im fall der nott zu der  
+<lb n="140"/>gegenwer stattlich gepraucht werden müge. 
+</p>
+        <p><lb n="141"/>Das alles haben wir euer fürstlich gnaden unnd gunst auff derselben bevelch unange
+<lb break="no" n="142"/>zaigt nit wellen lassen. Die wissen sich hierüber der khüniglichen mayestät 
+
+<lb n="143"/>unnd diser herrschafften notturfft nach wol zu enntschliessen unnd in allweg  
+<lb n="144"/>genedige fürsehung zethuon. Unnd wiewol euer fürstlich gnaden unnd gunst hievor  
+<lb n="145"/>auch anzaigt worden ist, was für menngel am geschütz unnd annderer  
+<lb n="146"/>monicion in den zeügheüsern zu <placeName ref="lub-places-45">Bregenntz</placeName>. Unnd euer fürstlich gnaden unnd gunst  
+<lb n="147"/>ersuecht worden sein, bevelch zugeben, damit das geschützt der notturfft  
+<lb n="148"/>nach zugericht unnd anndere menngel fürkumen werden, so ist doch  
+<lb n="149"/>bißher von euer fürstlich gnaden unnd gunst derhalben kain enntlicher bevelch ervolgt ,  
+<lb n="150"/>derhalben biß daher in vil nottwenndigen sachen kain fürsehung beschehen ist,  
+<lb n="151"/>darauß nachtayl ervollgen möchte. Das wissen euer fürstlich gnaden unnd gunst  
+<lb n="152"/>auch zufürkumen unnd zuverhüettung nachtayls aller notturfft nach  
+<lb n="153"/>bevelch unnd beschaid zegeben. 
+</p>
+        <p><lb n="154"/>Wir wellen euer fürstlich gnaden unnd gunst auch nit verhallten, wiewol der lanndt
+<lb break="no" n="155"/>vogt zu <placeName ref="lub-places-7">Faduz</placeName>, dieweil die herrschafften <placeName ref="lub-places-7">Vadutz</placeName>, <placeName ref="lub-places-11">Schellennberg</placeName> unnd 
+<lb n="156"/><placeName ref="lub-places-12">Pluemenegg</placeName> mit disen vordern herrschafften in verainigung der lannds
+<lb break="no" n="157"/>rettung sein, auch zu yeziger vergleichung hieher geen <placeName ref="lub-places-45">Bregenntz</placeName> be
+<lb break="no" n="158"/>schriben worden, das er aber krannkhait halben nit alhie erscheinen 
+<lb n="159"/>mügen, sonnder hat mir <persName ref="lub-actors-156">Balltussarn von Ramschwag</persName> bevolhen, unns, den  
+<lb n="160"/>vögten, diser vordern herrschafften anzezaigen, das er von wegen  
+<lb n="161"/>obbemelter herrschafften anstatt seines genedigen herrn, wie von alterher  
+<lb n="162"/>mit disen vordern herrschafften im val der not heben unnd legen, und  
+<lb n="163"/>leyb unnd gut zu inen sezen, sich auch desselben herwider von disen vordern  
+<lb n="164"/>herrschafften nit weniger getrössten unnd versehen welle. 
+</p>
+        <p><lb n="165"/>Unnd dieweil <persName ref="lub-actors-2791">Sebastien Schertlins</persName> knecht, es seyen Schweyzer oder lannds
+<lb break="no" n="166"/>knecht, in der <orgName ref="lub-actors-515">Aydtgnossen</orgName> unnd deren von <placeName ref="lub-places-1007">Beren</placeName> gepiet gemusstert 
+<lb n="167"/>werden, das doch kain mann gedennckhen kan, das solches dem Frantzosen  
+<lb n="168"/>oder ainichen anndern pottentaten in der <orgName ref="lub-actors-515">Aydtgnosschafft</orgName> zuwider deß  
+<lb n="169"/>haus <orgName ref="lub-actors-172">Össterreichs</orgName> ainich knecht zu musstern nie gestatt worden ist, wie  
+<lb n="170"/>dann euer fürstlich gnaden unnd gunst das alles auß vorangezaigtem meinem, deß  
+<lb n="171"/>vogts, unnd der amptleüt, auch stattamman unnd raths zu <placeName ref="lub-places-45">Bregennz</placeName> jüngst
+<lb break="no" n="172"/>gethanen schreiben zuvernemen haben. Demnach were unnser unnder
+<lb break="no" n="173"/>thenigs gutbedunckhen, euer fürstlich gnaden unnd gunst hietten gemainen <orgName ref="lub-actors-515">Aydtgnossen</orgName>, 
+<lb n="174"/>wo dieselben auff künfftigen tagen zusamen kumen, alls wir beriht, in  
+<lb n="175"/>kürz zu <placeName ref="lub-places-94">Baden</placeName> im <placeName ref="lub-places-1018">Ergew</placeName> beschehen wirdeth, geschriben unnd sich solchen  
+<lb n="176"/>hanndlung gegen inen innamen der römisch kuniglichen mayestät zum höchsten beschwern,  
+
+<lb n="177"/>das sölche mussterung bey inen gestatt, unnd wie davon geredt  
+<lb n="178"/>wirdeth, der überfall durch den <persName ref="lub-actors-2791">Schertli</persName> mit seinem kriegsvolckh  
+<lb n="179"/>auß der <orgName ref="lub-actors-515">Aydgnosschafft</orgName> in der khuniglichen mayestät <placeName ref="lub-places-161">Vordere Lannd</placeName> unnd herr
+<lb break="no" n="180"/>schafften beschehen soll. Dann solches in allweg zuwider der 
+<lb n="181"/>erbainigung ist, unnd darneben an gemaine <orgName ref="lub-actors-515">Aydtgnossen</orgName> zu begern  
+<lb n="182"/>euer fürstlich gnaden unnd gunst anzuzaigen. Warumben unnd auß was ur
+<lb break="no" n="183"/>sachen solches dem <persName ref="lub-actors-2791">Schertli</persName> gestatt wirdeth unnd ob solches durch ge
+<lb break="no" n="184"/>maine <orgName ref="lub-actors-515">Aydtgnossen</orgName>, oder villeicht allain durch ettliche ort bewilligt 
+<lb n="185"/>seye. Mit beger dasselb unvertzug abzustellen unnd sich in  
+<lb n="186"/>den unnd anndern dergleichen sachen irem erpietten nach der erb
+<lb break="no" n="187"/>ainigung gemeß zuhallten. Auß solcher der <orgName ref="lub-actors-515">Aydtgnossen</orgName> 
+<lb n="188"/>anntwurt möcht man dannocht unnsers erachtenns erlernnen,  
+<lb n="189"/>solches mit gemainer <orgName ref="lub-actors-515">Aydtgnossen</orgName> oder sonnderer orth bewilligung  
+<lb n="190"/>gestatt wurd, unnd was gefallenns oder ungefallenns gemain
+<lb break="no" n="191"/>ne <orgName ref="lub-actors-515">Aydgnossen</orgName> in solchem fal haben, unnd ob sy den überfall zusampt 
+<lb n="192"/>der mussterung die diserzeit im werckh sein soll, durch den <persName ref="lub-actors-2791">Schertlin</persName>  
+<lb n="193"/>unnd seinem anhanng auß der <orgName ref="lub-actors-515">Aydtgnosschafft</orgName> in der khuniglichen mayestät <placeName ref="lub-places-161">Vordern  
+<lb n="194"/>Lannd</placeName> unnd herrschafften zusehen unnd gestatten wellen, damit sich  
+<lb n="195"/>die römisch khunigliche mayestät unnd euer fürstlich gnaden unnd gunst anstatt derselben hier
+<lb break="no" n="196"/>innen in allweg irer erhaischennden notturfft, darnach zurichten unnd 
+<lb n="197"/>zu der gegenwer fürsehung zethuon wissen. 
+</p>
+        <p><lb n="198"/>Wir künden auch euer fürstlich gnaden unnd gunst auch nit pergen (dieweil  
+<lb n="199"/>guot haggennschützen im fal der nott in disen vordern herrschafften  
+<lb n="200"/>für annder kriegsvolckh gannz nuzper zugebrauchen), unnd aber an  
+<lb n="201"/>ettlichen orten hervor zu lannd zu häzung der khuniglichen mayestät wildpräts den  
+<lb n="202"/>unnderthanen püchssen zetragen verpotten, auch ettlichen personnen ire  
+<lb n="203"/>püchssen gar von hannden genomen worden sein, das wir bei  
+<lb n="204"/>disen beschwerlichen lewffen denselben unnderthanen, welcher ain  
+<lb n="205"/>guotter schütz ist unnd sich selbs beschossen unnd gerüsst machen will,  
+<lb n="206"/>erlaupt unnd vergundt haben, das dieselben widerumb püchssen  
+<lb n="207"/>tragen unnd sich damit zu der gegenwör gerüsst machen mügen.  
+<lb n="208"/>Doch mit der sonndern condiction, das dero kainer damit ainich  
+<lb n="209"/>willdpreth erlegen, sonnder sich desselben gennzlich müessigen söllen,  
+
+<lb n="210"/>bey vermeydung schwerer straff. So sich dann vor augen schwe
+<lb break="no" n="211"/>bennde leüff wider zu rue schicken, mag allßdann derhalben, wo not, 
+<lb n="212"/>abermalen abschaffen unnd fürsehung beschehen. Thuond euer fürstlich gnaden und  
+<lb n="213"/>gunst uns hiemit in unnderthenigkait zu gnaden bevelhen.  
+<lb n="214"/>Dathum <placeName ref="lub-places-45">Bregennz</placeName>, am <origDate>xxv sten tag marcii anno etc. im lii sten</origDate>.  
+<lb n="215"/>Euer fürstlich gnaden unnd gunst  
+<lb n="216"/>Unnderthenig unnd  
+<lb n="217"/>gehorsam diener  
+</p>
+        <p><lb n="218"/><persName ref="lub-actors-203">Laux von Reyschach zum  
+<lb n="219"/>Megtberg</persName>, vogtt zu <placeName ref="lub-places-45">Bregennz</placeName> manu propria  
+</p>
+        <p><lb n="220"/><persName ref="lub-actors-90">Hans von Emps</persName><lb n="221"/>zu der <placeName ref="lub-places-223">Hohen Emps</placeName></p>
+        <p><lb n="222"/><persName ref="lub-actors-156">Balthsar von Ramschwag</persName>,  
+<lb n="223"/>vogtt zu <placeName ref="lub-places-13">Guttenburg</placeName></p>
+        <p><lb n="224"/><persName ref="lub-actors-158">Merck Sittich von Emps </persName><lb n="225"/>zu der <placeName ref="lub-places-223">Hochen Emps</placeName></p>
+        <p>
+          <lb n="226"/>
+          <persName ref="lub-actors-2796">Eberhart von Weyler</persName>
+        </p>
+        <p><lb n="227"/><persName ref="lub-actors-2795">Achilles von Altmanshausen</persName>, hueb
+<lb break="no" n="228"/>maister der herrschafft <placeName ref="lub-places-10">Veldkirch</placeName></p>
+        <p>
+          <lb n="229"/>
+          <persName ref="lub-actors-1522">Wilhelm von Villebach</persName>
+        </p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Dem hochwirdigen fürsten unnd den wolgepornnen, edlen, ge
+<lb break="no" n="2"/>strenngen, hochgelerten unnd vessten herrn n., der römisch kuniglichen mayestät etc. 
+<lb n="3"/>statthallter, regennten unnd rätten, der <orgName ref="lub-actors-929">Regierung</orgName> <placeName ref="lub-places-160">Oberössterreichi
+<lb break="no" n="4"/>scher Lannden</placeName> zu <placeName ref="lub-places-19">Ynnsprugg</placeName>, unnsern genedigen herrn.
+<lb n="5"/><placeName ref="lub-places-19">Ynnsprugg</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

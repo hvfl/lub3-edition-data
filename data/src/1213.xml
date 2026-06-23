@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1213">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Protestanten</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1213">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. III Pos. 5 160r-161r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 15. April 1529 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung der Oberösterreichischen Regierung in Innsbruck an Statthalter Rudolf V. von Sulz und Dr. Jakob Frankfurter, sich mit Marx Sittich von Hohenems wegen der Auseinandersetzung der Stadt Lindau mit dem Protestantismus zu beraten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-35">Protestantismus</term>
+          <term ref="lub-keywords-60">Reichstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1529-04-15">15. Apr 1529</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iii_pos__5_160r-161r-0001.jpg" xml:id="lub-media-3586" source="kk-wien-einlauf-iii-pos-5-0002-2-160r-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iii_pos__5_160r-161r-0002.jpg" xml:id="lub-media-3587" source="kk-wien-einlauf-iii-pos-5-0003-2-160v-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iii_pos__5_160r-161r-0003.jpg" xml:id="lub-media-3588" source="kk-wien-einlauf-iii-pos-5-0003-2-161r-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>An herrn <persName ref="lub-actors-8">Ruedolfen grafen zu Sulz</persName>, statthalter,  
+<lb n="2"/>und doctor <persName ref="lub-actors-2800">Jacoben Frannckfurter</persName> außgangen. 
+</p>
+        <p><lb n="3"/>Wolgeborner, edler, hochgelerter, lieber herr und frundt, unnser frunt
+<lb break="no" n="4"/>lich willig diennst zuvor. Wie wir euch des dritten tags aprilis geschri
+<lb break="no" n="5"/>ben, also haben wir kuniglicher mayestät, unnsers gnedigisten herrn diener, <persName ref="lub-actors-2801">Pettern 
+<lb n="6"/>Ofner</persName>, hinaus geschickht und bey glaubwirdigen personen, so irer mayestät  
+<lb n="7"/>auch dem haws <orgName ref="lub-actors-172">Österreich</orgName> unnd diser <orgName ref="lub-actors-929">Regierung</orgName> eern und guets  
+<lb n="8"/>gonnen und der sachen fur annder guet wissens haben, erkundigt  
+<lb n="9"/>und befunden, das man daselbst in der pfarrkirchen die meß nit mer  
+<lb n="10"/>hallt, und alain im frawenstifft oder closter der gozdiennst wie von  
+<lb n="11"/>alter herkomen gehallten und durch vil eerlicher vermuglicher  
+<lb n="12"/>und erber leut vom rat und der gemainde noch besuecht wirdet,  
+<lb n="13"/>daz die Lutterischen, wie ir gebrauch ist, ir sect zuerweyttern und  
+<lb n="14"/>inen des anhanng und rugkhen zumachen nit seyren, sonnder in  
+<lb n="15"/>stätter ubung sein. Und haben verndt mit denen von <placeName ref="lub-places-101">Costennz</placeName> und  
+<lb n="16"/>von <placeName ref="lub-places-80">Sannt Gallen</placeName>, derrn beder stetten unwesen diser sect halben ir  
+<lb n="17"/>vil wisst, gesellschafften, schiessen und annder gesprech nit on  
+<lb n="18"/>misfallen deren so zu <placeName ref="lub-places-50">Lindaw</placeName> guet österreichisch sein gehallten   
+<lb n="19"/>und zu besorgen, sy möchten auch haimlich verstenntnussen practiciert  
+<lb n="20"/>und etwas vertrösstung erlanngt haben. Darauf sy sich verlassen.  
+<lb n="21"/>Und so aber als wir bericht, denen von <placeName ref="lub-places-50">Lindaw</placeName> kurz verschiner zeit  
+<lb n="22"/>etlich slachtvihe in der herrschafft <placeName ref="lub-places-205">Bludenz</placeName> aufgehallten worden,  
+<lb n="23"/>auch in der herschaft <placeName ref="lub-places-45">Bregennz</placeName> offennlich verpotten sein soll,  
+<lb n="24"/>inen in der vassten kaine kelber noch annder vleisch oder ayer zuze
+<lb break="no" n="25"/>fueren oder zuverkauffen, auch in den unnderthanen und inwonern 
+<lb n="26"/>der stat und herrschafft <placeName ref="lub-places-45">Bregennz</placeName>, zwischen wellichen und denen  
+<lb n="27"/>von <placeName ref="lub-places-50">Lindaw</placeName> etwas alten unwillenns und grollenns noch sein solle,  
+<lb n="28"/>inen und den iren vil anraiziger und trolicher reden angelegt werden,  
+<lb n="29"/>wie dann durch ainen, Cornelius genannt, der ain vil redennder mensch   
+<lb n="30"/>sein soll, newlich zu <placeName ref="lub-places-50">Lindaw</placeName> in der stat gegen ainem pawrßman,  
+<lb n="31"/>der ayer hinein getragen, sambt annder unzucht geschehen, des sich  
+<lb n="32"/>herr <persName ref="lub-actors-158">Merckh Sittich von Embs</persName> etwas beweglich angenomen, haben die  
+<lb n="33"/>von <placeName ref="lub-places-50">Lindaw</placeName> aus einbilder der Lutterischen des etwanz entsizens  
+<lb n="34"/>empfanngen, und die Lutterischen mit iren beweglichen reden mer  
+<lb n="35"/>dann vorher sich vernemen lassen, warumb man solichs leide, und  
+<lb n="36"/>so man ye kain guete nachperschafft auf der seitten mit inen halten   
+<lb n="37"/>und inen ir notturfft nit zugeen lassen welle. So soll und mueß man  
+<pb facs="lub-media-3587" n="2"/>
+<lb n="38"/>wol an anndern orten rugkn machen. Sollichs ist nu wie unnßer  
+<lb n="39"/>kuntschafft laut, so seer kumen, das die frumen lewt, so dise warrung  
+<lb n="40"/>gethan, mit wainenden augen anzaigt haben. Sy besorgen, wo man  
+<lb n="41"/>es nit bald underkam und sonnderlich mit dem, das man sollich der  
+<lb n="42"/><placeName ref="lub-places-45">Bregennzer</placeName> und herrn <persName ref="lub-actors-523">Merckhen</persName> anraizig reden und unnachperlich  
+<lb n="43"/>erzaigen abstelle, anndere wenndung wissen sy nit, so stee darauf,  
+<lb n="44"/>das gar bald und ee, dann mans gedennckhen möchte, ain abfall  
+<lb n="45"/>der stat <placeName ref="lub-places-50">Lindaw</placeName>, wie zu <placeName ref="lub-places-101">Costennz</placeName> daraus ervolgen und so das,  
+<lb n="46"/>das got nit welle, beschehen sollte, nit mer leichtlich zu widerbringen  
+<lb n="47"/>sein werde. So wirdet unns auch annzaigt, das der burgermaister  
+<lb n="48"/>Varnbuchler von <placeName ref="lub-places-50">Lindaw</placeName> yez auf dem <term ref="lub-keywords-60">Reichstag</term> zu <placeName ref="lub-places-75">Speyr</placeName> bey den  
+<lb n="49"/>gesanndten von <placeName ref="lub-places-101">Cosstennz</placeName> und <placeName ref="lub-places-80">Sannt Gallen</placeName>, an ainer herberg  
+<lb n="50"/>ligen, da sy all drey stattlich mitainannder all sollich sachen mit
+<lb break="no" n="51"/>ainannder practiciern mugen. Demnach sicht unns fur not und 
+<lb n="52"/>guet an, das ir herr <persName ref="lub-actors-158">Merckh Sittichen von Embs</persName>, so der noch bey euch  
+<lb n="53"/>ist, dise mainung sovil euch guet bedunckhe, furhalltet und mit  
+<lb n="54"/>im redet alles das ihem, so die von <placeName ref="lub-places-50">Lindaw</placeName> zu widerwillen und  
+<lb n="55"/>sorgen raizen mag, bey den unnderthanen und inwonern der statt  
+<lb n="56"/>und herschafft <placeName ref="lub-places-45">Bregennz</placeName> diser zeit mit guetter fuegen und fleiß  
+<lb n="57"/>abzustellen, und das er selbs sich gegen inen auch nit strenng, sonnder  
+<lb n="58"/>nachperlich beweyse, und ob den verpotten des vichs flaisch und annderer  
+<lb n="59"/>speis inen zu wider, nit hart hallte. So wellen wir inen sunst umb  
+<lb n="60"/>das sy den Cornellius auf unnser schreiben ledig gelassen, auch new
+<lb break="no" n="61"/>lich drew schifflin mit lanndsknechten, so zum Franzosen welln, 
+<lb n="62"/>auf dem see zukert, zu zurugkh schweren gemacht, welches wir an  
+<lb n="63"/>sy, wie an annder stett auch schrifftlich begert haben, ain nachper
+<lb break="no" n="64"/>lichs dannckhbrieflin schreiben, und darzu kuniglicher mayestät ratn, das inen 
+<lb n="65"/>ir mayestät als schirmbherr in gnediger warrnungs weise auch schreib
+<lb n="66"/>oder sy durch ain potschafft vermanen lasse, bey dem alten glawben  
+<lb n="67"/>zubeleiben, und sich in die newen secten nit zubegeben mit gnedigem  
+<lb n="68"/>und geburlichem erbietten, ob sy von yemanndt beswerdt wollten  
+<lb n="69"/>werden. Unnd sollichs irer mayestät oder diser <orgName ref="lub-actors-929">Regierung</orgName> anzaigen sy be
+<lb break="no" n="70"/>volhen zu haben, in massen das inen nit not sein solle, sich mit ye
+<lb break="no" n="71"/>mand annderm, da es kayserlicher mayestät nit wol gemaint sein möchte, in 
+<lb n="72"/>verstannd einzulassen, das haben wir euch kuniglicher mayestät sachen zu guetem  
+<lb n="73"/>nit wellen unangezaigt lassen. Und so herr <persName ref="lub-actors-523">Merck</persName> von euch abgeschaiden  
+
+<lb n="74"/>were, mugt ir ine widerumben zu euch beschaiden, oder ime dise  
+<lb n="75"/>mainung zu schreiben, doch in albeg ir schreibt oder rat mit ime,  
+<lb n="76"/><persName ref="lub-actors-2801">Pettern Ofner</persName>, nit zuvermelden, ob euch auch fur not anseche, das  
+<lb n="77"/>ir am herein ziehen mit denen von <placeName ref="lub-places-50">Lindaw</placeName> von den sachen auf  
+<lb n="78"/>mainung, wie oblaut, selbst geredt hette, das stellen wir zu euch und  
+<lb n="79"/>schickhen euch deßhalben ain credennz an sy, die wist ir in sollichem  
+<lb n="80"/>fall zugebrauchen, wo es aber nit sonnders not thette, als wo ir abfal  
+<lb n="81"/>yez vor augn were, ist unnsers bedunckhens geburlich, der kuniglichen mayestät willens  
+<lb n="82"/>hierinn zu erwarten, und vor dem mit inen nit zu hanndlen, dann  
+<lb n="83"/>zu bedennckhen, sy möchten durch solich hanndlung alßbald ain half
+<lb break="no" n="84"/>starck emphahen und gedennckhen man forcht sy so hart. Datum <placeName ref="lub-places-19">Ynn
+<lb break="no" n="85"/>sprugg</placeName>, am <origDate>xv tag aprilis anno etc. im xxviiii</origDate> etc.
+</p>
+        <p><lb n="86"/>Vice statthallter, regenntn und rette  
+<lb n="87"/>der <placeName ref="lub-places-160">Oberösterreichischen Lannden</placeName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1188">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abtretung der Vogtei Bregenz und Hohenegg an Jakob Hannibal I. von Hohenems</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1188">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1567 Dez 1</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Dezember 1567 / Beschreibstoff: Papier, 5 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-364">AT-TLA BBÄ OÖKAM Kopialbücher Geschäft von Hof 1567 fol. 414-415</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 1. Dezember 1567 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid Erzherzog Ferdinand II. an Graf Alwig IX. von Sulz betreffend die Abtretung der Vogtei Bregenz und Hohenegg und Übernahme derselben durch Jakob Hannibal von Hohenems am 15. Dezember. An diesem Vollzugstag sollte er persönlich erscheinen oder einen Beauftragten schicken.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-135">Landvogtei</term>
+          <term ref="lub-keywords-19">Bürgschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-11">Österreich, Ferdinand II. von</persName>
+          <placeName ref="lub-places-19">Innsbruck</placeName>
+          <date when="1567-12-01">1. Dez 1567</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1567_dez_1-0001.jpg" xml:id="lub-media-3055" source="1567-12-01-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1567_dez_1-0002.jpg" xml:id="lub-media-3056" source="1567-12-01-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1567_dez_1-0003.jpg" xml:id="lub-media-3057" source="1567-12-01-tla-ookam-akten-resulationen-von-hof-029a.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1567_dez_1-0004.jpg" xml:id="lub-media-3058" source="1567-12-01-tla-ookam-akten-resulationen-von-hof-030.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1567_dez_1-0005.jpg" xml:id="lub-media-3059" source="1567-12-01-tla-ookam-akten-resulationen-von-hof-031.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1567_fol__414r-415r-0001.jpg" xml:id="lub-media-3401" source="geschaft-von-hof-1567-02-414r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1567_fol__414r-415r-0002.jpg" xml:id="lub-media-3402" source="geschaft-von-hof-1567-03-415r-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialb-cher_gesch-ft_von_hof_1567_fol__414r-415r-0003.jpg" xml:id="lub-media-3403" source="geschaft-von-hof-1567-03-415r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-11">Ferdinannd</persName> etc. 
+<lb n="2"/>Wolgeborner, lieber, getrewer. Welcher gestalt  
+<lb n="3"/>unnd auß was sonderlichen ansehenlichen unns  
+<lb n="4"/>darzue bewegenden ursachen wir hievor mit dir  
+<lb n="5"/>von wegen abtrettung der vogtheyen <placeName ref="lub-places-45">Bregenz</placeName>  
+<lb n="6"/>unnd <placeName ref="lub-places-49">Hohenegg</placeName> genedigiste handlung gepflegen,  
+<lb n="7"/>waß massen du dich auch darauf unns zu  
+<lb n="8"/>underthenigen ehrn unnd gefallen unns zu  
+<lb n="9"/>underthenigen ehrn unnd gefallen aller gehor
+<lb break="no" n="10"/>samisten willfahrung erboten unnd bewilligt, dessen hast 
+<lb n="11"/>du dich zur gnüege wol zuerynndern. Darauf  
+<lb n="12"/>unnd zu volziehung derselben sachen haben wir  
+<lb n="13"/>den funffzehenten yezeingeundes monnats  
+<lb n="14"/>decembris angesezt und fürgenomen, auf welchen  
+<lb n="15"/>tag wir unnsere commissari mit allem not
+<lb break="no" n="16"/>wendigen bevelch und instruction gehn <placeName ref="lub-places-45">Bre
+<lb break="no" n="17"/>genz</placeName> anzukhumen abfertigen unnd verordnen 
+<lb n="18"/>wellen. Welliches wir dir dann hiemit dar
+<lb break="no" n="19"/>umben verkünden unnd anzaigen genedigclich 
+<lb n="20"/>bevelhendt, das du auf ermelten tag auch selbs  
+<lb n="21"/>personlichen gehn <placeName ref="lub-places-45">Bregenz</placeName> erscheinest, oder aber ye
+
+<lb break="no" n="22"/>manden andern von deinetwegen mit gnuegsamen 
+<lb n="23"/>bevelch unnd gwalt dahin abfertigest, damit die  
+<lb n="24"/>abtrettung unnd übernemung berüerter vog
+<lb break="no" n="25"/>theyen unnd was diser sachen sonst anhengig, und 
+<lb n="26"/>die nodturfft erfordert, der zuvor mit dir gepfleg
+<lb break="no" n="27"/>nen handlung nach auf solche bestimbte zeit orden
+<lb break="no" n="28"/>lich unnd gewißlichen beschehe.
+</p>
+        <p><lb n="29"/>Unnd nachdem du bey der dir hievor beschechnen ein
+<lb break="no" n="30"/>antworttung diser vogthey weylendt <persName ref="lub-actors-203">Lauxen von 
+<lb n="31"/>Reischachs</persName> nachgelassnen erben, umb ain summa  
+<lb n="32"/>gellts, darumben sich gedachter von <persName ref="lub-actors-203">Reischach</persName> in  
+<lb n="33"/>seynem leben als ain ruggpürg unnd gleichsamb  
+<lb n="34"/>fur sein aigen schuldt fur weylendt die jungst  
+<lb n="35"/>in gott seligist verstorbne römisch kayserliche mayestät, unsern  
+<lb n="36"/>allergnedigisten geliebsten herrn unnd vattern,  
+<lb n="37"/>hochlöblichister gedechtnus, verschriben unnd alle
+<lb break="no" n="38"/>giert gehabt, entheben unnd ledigen müessen.
+<lb n="39"/>So ist billich, wie wir es dann auch mit dem grafen  
+<lb n="40"/>von <persName ref="lub-actors-188">Embs</persName> dergestalt handlen lassen, das er dich  
+<lb n="41"/>deiner gegen den reischachischen gethanen verschrei
+<lb break="no" n="42"/>bung auch widerumben enthebe unnd versichere.
+</p>
+        <p><lb n="43"/>Unnd begern demnach an dich gnedigclich, du  
+<lb n="44"/>wellest umb sollicher deiner verschreibung  
+<lb n="45"/>willen den gedachten graven von <persName ref="lub-actors-188">Embs</persName> ain  
+<lb n="46"/>gnuegsame gegenversicherung annemen   
+<lb n="47"/>unnd du also noch lennger gegen den reischachischen  
+<lb n="48"/>erben behafft bleiben, inmassen wir unnß  
+<lb n="49"/>dann dessen zu dir genedigclich versehen, unnd auch  
+<lb n="50"/>solliches unnsern commissarien mit dir oder  
+<lb n="51"/>deinen gevolmechtigten gwalthaber zu hand
+<lb break="no" n="52"/>len unnd zuverrichten sonnderlichen bevelch geben.
+</p>
+        <p><lb n="53"/>Woverr dir aber ye so beschwerlichen fürfallen wolte,  
+<lb n="54"/>dergestallt gegen den reischachischen erben lenger   
+<lb n="55"/>zu hafften, das wir doch nit erachten, so wollest  
+<lb n="56"/>doch wo nit lennger doch noch auf ain halbs jar  
+<lb n="57"/>gegen inen also wie vorgemelt behafft bleiben.  
+<lb n="58"/>So wellen wir in sollicher zeit durch sonndere  
+<lb n="59"/>commissarien mit den reischachischen erben hand
+<lb break="no" n="60"/>lung pflegen lassen, auf das sy den graven von 
+<lb n="61"/><persName ref="lub-actors-188">Embs</persName> zu ainem gegen ruggpürgen annemen und  
+<lb n="62"/>du dardurch gelediget werdest, wie wir dann  
+<lb n="63"/>daß genedige vertrawen zu dir haben, du werdest  
+
+<lb n="64"/>dich auch dises fahls dermassen in der hannd
+<lb break="no" n="65"/>lung erzaigen unnd finden lassen, damit bey 
+<lb n="66"/>sollicher abtrettung unnd ubernemung der  
+<lb n="67"/>vogtey auf dißmals hieran kain mangl oder  
+<lb n="68"/>hindernus erscheine, sonderlich weil dir selbs  
+<lb n="69"/>in gehorsam wol bewüst, wie hoch unnd vill  
+<lb n="70"/>unns an der sach gelegen ist, das die darüber  
+<lb n="71"/>kainswegs lennger aufzogen werde, daran be
+<lb break="no" n="72"/>schieht unnser gnediger willen. Geben <placeName ref="lub-places-19">Ynnsprugg</placeName>, 
+<lb n="73"/>den <origDate>ersten decembris anno etc. 67</origDate>. 
+</p>
+        <p><lb n="74"/>An grafen <persName ref="lub-actors-9">Albigen  
+<lb n="75"/>von Sultz</persName></p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Copey schreiben an <persName ref="lub-actors-9">Albig grafen zu Sulz</persName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

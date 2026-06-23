@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-289">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Unruhen in Vaduz wegen Michael Gaismair</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-289">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. IV Pos. 30 Teil 3 fol. 155r-157v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. Mai 1528 / Beschreibstoff: Papier, 4 Seiten / Siegel: 1 Siegel, Reste auf Rückseite</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Kaspar Mammendorfer, Vogt von Vaduz, bestätigt das Schreiben des Statthalters Rudolf V. von  Sulz, betreffend Michael Gaismair, nach dessen Erhalt er sofort einen Boten zu den Drei Bünden geschickt hatte, um etwas über Gaismair in Erfahrung zu bringen. Mammendorfer berichtet, dass sich Hans Gaismair, Michaels Bruder, in Bad Fideris aufgehalten und dort Bündnisse mit den Franzosen  geschlossen hat, bis er weiter floh, um nicht gefangen genommen zu werden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-516">Landsknecht</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-155">Mammendorfer, Hans Kaspar</persName>
+          <placeName ref="lub-places-1">Vaduz (Gemeinde)</placeName>
+          <date when="1528-05-28">28. Mai 1528</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_3_fol__155r-157v-0001.jpg" xml:id="lub-media-3562" source="3-0002-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_3_fol__155r-157v-0002.jpg" xml:id="lub-media-3563" source="3-0003-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_3_fol__155r-157v-0003.jpg" xml:id="lub-media-3564" source="3-0003a.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_3_fol__155r-157v-0004.jpg" xml:id="lub-media-3565" source="3-0004-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3562" n="1"/><lb n="1"/>Wolgeborner gnediger her, euer gnaden sy mein underthenig  
+<lb n="2"/>dienst zuvor. Euer gnaden schreiben betreffend <persName ref="lub-actors-181">Michel Gaismairn</persName> hab   
+<lb n="3"/>ich seins inhalz vernomen unnd thun euer gnaden daruff zu wyssen,  
+<lb n="4"/>daß ich in der stund, als mir der brief uberantwurt, uff  
+<lb n="5"/>einen aigen botten in die <placeName ref="lub-places-82">Pynd</placeName> verruett. Ist muglichen,  
+<lb n="6"/>etwaß des <persName ref="lub-actors-181">Gaismairs</persName> halben mit grund der warhaitt zu  
+<lb n="7"/>erkundigen, so wirz beschehen. Waß mir deshalben für kund
+<lb break="no" n="8"/>schaft wirt, daß wyll ich euer gnaden by gewysser kundtschaft zu
+<lb break="no" n="9"/>schicken.
+</p>
+        <p><lb n="10"/>Zum andern, so hab ich warre unnd gewysse kundschaft, daz  
+<lb n="11"/>einer im bad zu <placeName ref="lub-places-491">Pfyderisch</placeName> ettlich tag gebadet, der hatt  
+<lb n="12"/>in styllem fuog die grossen franzosichen gesellen beschickt  
+          <lb n="13"/>unnd sy bewerwen kneth in den <placeName ref="lub-places-82">Binden</placeName>, den feindigern  
+<lb n="14"/>uff zu bringen und under winden. Derselben franzesischen gesellen synd  
+<lb n="15"/>vill zu ym komen, die habben mit im ein groß wessen  
+<lb n="16"/>gehabtt mit essen, trincken unnd anderem, für die  
+<lb n="17"/>hatt er all bezald unnd sunst waidlichen geld usgeben,  
+<lb n="18"/>der hatt offenlichen gerett, er sy <persName ref="lub-actors-181">Michel Gaismairs</persName>  
+<lb n="19"/>naster frundt unnd haißt <persName ref="lub-actors-183">Hans Gaismair</persName>, unnd ist  
+<lb n="20"/>sein be<gap/> zimlichen lang die, unnd hat ein dicken  
+<lb n="21"/>langen schwarzen bartt under und obdem, unnd  
+<lb n="22"/>hab ein gel erttlosse wames unnd zwo rott hossen  
+<lb n="23"/>ann, unnd rett ein köstenblich kleins pfertt mit  
+<lb n="24"/>abgeschniden orren, unnd hab ein neyen gelben  
+<lb n="25"/>sattel daruff. Uff den haben der <persName ref="lub-actors-156">Ramschwab</persName> und  
+<lb n="26"/>ich kundtschaft in euer gnaden herschaften anden sweren  
+<lb n="27"/>gemacht, ob er unns werden mocht.  
+</p>
+        <p><lb n="28"/>Zum dryden, so ist demselben so also im batt gewest ist,  
+<lb n="29"/>uff yez, <date when="1528-05-25">mantag nach dem Uffertag</date>, warnung ins bad  
+<lb n="30"/>kumen, er solle sich heben, er wertt sunst gevangen,  
+          <lb n="31"/>dan die <placeName ref="lub-places-82">Pynd</placeName> wellen kain kneth usser irem lanndt  
+<lb n="32"/>ziehen, noch gemeng dardurch bassierren lassen.  
+<lb n="33"/>Uff solhs ist er uff yez, zinstag, vergangen in der nach  
+<lb n="34"/>us dem bad, unnd si sein lii  
+<lb n="35"/>dinger gewest  
+<lb n="36"/>und sy bretten  
+<lb n="37"/>uß dem Echland hinweg, nit mag ich wyssen wohin.   
+<lb n="38"/>Am morgen fruo synd viiii knecht von <placeName ref="lub-places-185">Luzern</placeName> oder  
+<lb n="39"/><placeName ref="lub-places-72">Glarreß</placeName> komen, die haben in im bad uffheben und  
+<lb n="40"/>fahen wellen, dan er sy in irrn landen mit seiner  
+<pb facs="lub-media-3563" n="2"/>
+<lb n="41"/>pratigen auch umbgangen, dan sy wellen schlechlichen  
+<lb n="42"/>kain kneth uß iren landen hinweg zehen lassen, unnd  
+<lb n="43"/>wiewol er uß dem bad hinweg hatt miessen, so pratteget   
+<lb n="44"/>einer in seinem namen, genand Jorg Bely. 
+</p>
+        <p><lb n="45"/>Zum viertten, so hab ich warre kundschaft, daß fenly   
+<lb n="46"/>zu <placeName ref="lub-places-102">Chur</placeName> haimlichen gemach worden synd, ich mag  
+<lb n="47"/>aber mit der warhait nit wyssen, wem unnd  
+<lb n="48"/>wohin, darumb wyl von nott den fein gutt frey zu  
+<lb n="49"/>haben. 
+</p>
+        <p><lb n="50"/>Zum funften, so synd etlich lanzkneth unnd Schwizer  
+<lb n="51"/>zu <placeName ref="lub-places-95">Basel</placeName>, <placeName ref="lub-places-101">Costennz</placeName> und andern orden durch den  
+<lb n="52"/>von Enernigen angenomen worden, die wil man  
+<lb n="53"/>nit bassieren lassen, die zihen uff <placeName ref="lub-places-1016">Lassannan</placeName> zu,  
+<lb n="54"/>dahin synd sy beschaiden, doch so sollend iren fill von  
+<lb n="55"/><placeName ref="lub-places-101">Costennz</placeName> unnd andren orden wider komen sein  
+<lb n="56"/>solhs weld ich euer gnaden nit verhalden. 
+</p>
+        <p><lb n="57"/>Gnädiger herr, ich hab euer gnaden nun zum v mall von Zesfel  
+<lb n="58"/>Gallens deß franzesischen unnd luderischen gesellen   
+<lb n="59"/>kernens weggen geschriben unnd euer gnaden wyllens  
+<lb n="60"/>unnd gannz wie ich darmit handlen soll, darmit  
+<lb n="61"/>ich euer gnaden nith verabsum begert, mir ist aber noch kain  
+<lb n="62"/>antwurt von euer gnaden zukomen, ist abermals  
+<lb n="63"/>an euer gnaden mein underthnig bitt, si welle mich  
+<lb n="64"/>furderlichen hierinne irs wyllens und gutten  
+<lb n="65"/>bedunckens berahten, darmit ich recht handle und  
+<lb n="66"/>euer gnaden nith verabsum, hiemit befilh ich mich euer gnaden  
+<lb n="67"/>als meinem gnädigen herrn. Dathum <placeName ref="lub-places-1">Vaduz</placeName>, uff <origDate>dornstag  
+<lb n="68"/>vor Pfingsten anno etc. xxviii</origDate>. 
+<lb n="69"/>Euer gnaden 
+<lb n="70"/>Undertheniger  
+<lb n="71"/><persName ref="lub-actors-155">Caspar Mamendorffer</persName>
+<lb n="72"/>vogt zu <placeName ref="lub-places-7">Vaduz</placeName> etc. 
+</p>
+        <p><pb facs="lub-media-3564" n="3"/><lb n="73"/>Gnadiger herr. Euer gnaden sol deß <persName ref="lub-actors-181">Gaismairs</persName> handlung nit  
+<lb n="74"/>gar verathten, dan er hatt ein zu <placeName ref="lub-places-491">Pfysters</placeName> im  
+<lb n="75"/>batt, der besich etlich gros hansen mit geld  
+<lb n="76"/>unnd insunder Jorig Bellin ist mir warren  
+<lb n="77"/>kuntschaft uff heitt dathum des briefs zukomen,  
+<lb n="78"/>wolt ich euer gnaden als mein gnädigen herrn nit verhalden. 
+<lb n="79"/>v j v 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3565" n="1"/><lb n="1"/>Dem wolgebornen herrn, herren  
+<lb n="2"/><persName ref="lub-actors-8">Ruodolffen grave zu Sulz</persName>,  
+<lb n="3"/>kaiserlicher mayestät statthalter etc., meinem  
+<lb n="4"/>gnadigen herren zu aigen handen. 
+</p>
+        <p><lb n="5"/>3. junnii anno etc. 
+</p>
+        <p><lb n="6"/>Vogt zu <placeName ref="lub-places-7">Faduz</placeName><lb n="7"/><persName ref="lub-actors-181">Gayßmayr</persName><lb n="8"/>und ander kunnschafften 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

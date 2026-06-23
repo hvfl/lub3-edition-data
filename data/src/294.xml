@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-294">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bericht aus Vaduz über die Religionskämpfe in der Grafschaft Toggenburg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-294">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. IV Pos. 30 Teil 9</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 11. Oktober 1528 / Beschreibstoff: Papier, 4 Seiten / Siegel 2 Siegel, Reste auf Rückseite aufgedrückt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Statthalter Graf Rudolf V. von Sulz und Marx Sittich von Ems berichten aus Vaduz der Oberösterreichischen Regierung über Religionskämpfe in der Grafschaft Toggenburg und den daraufhin von Basel, Schaffhausen und Appenzell angesetzten Tagung in Baden,  die aber keine Beilegung erbrachte. So hätten sich die Sieben Orte, die noch dem katholischen Glaubens angehören, entschlossen, in ungefähr 14 Tagen gemeinsam mit den Walsern mit 2000 Landsknechten und 200 Pferden die Grafschaft Toggenburg einzunehmen und zu bestrafen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-38">Walser</term>
+          <term ref="lub-keywords-35">Protestantismus</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-516">Landsknecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1528-10-11">11. Okt 1528</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_9-0001.jpg" xml:id="lub-media-3582" source="kk-wien-einlauf-iv-30-teil-9-0005-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_9-0002.jpg" xml:id="lub-media-3583" source="kk-wien-einlauf-iv-30-teil-9-0006-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_9-0003.jpg" xml:id="lub-media-3584" source="kk-wien-einlauf-iv-30-teil-9-0006a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__30_teil_9-0004.jpg" xml:id="lub-media-3585" source="kk-wien-einlauf-iv-30-teil-9-0007-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wolgebornen, edelen, gestrengen, lieben herren unnd frundt, euch sy  
+<lb n="2"/>unnser fruntlich wyllich dienst zuvor. Eß hatt unnser gna
+<lb break="no" n="3"/>diger herr von <placeName ref="lub-places-101">Costennz</placeName>, dottor Pettern Snyssern, mit sampt 
+<lb n="4"/>ein credenz mir her <persName ref="lub-actors-523">Merck</persName> zugeschickt unnd gegenan  
+<lb n="5"/>dem dottor befolhen, mir, herr <persName ref="lub-actors-523">Merckhen</persName>, diese mainung  
+<lb n="6"/>anzuzaigen, daß der landtvogt im <placeName ref="lub-places-1017">Durggoy</placeName> von weg
+<lb break="no" n="7"/>gen unnd us befelh der <orgName ref="lub-actors-845">vii Ord</orgName>, so noch des alden gelaubens 
+<lb n="8"/>synd, demselbigen landtvogt, meinem herren von <placeName ref="lub-places-101">Co
+<lb break="no" n="9"/>stenz</placeName> anzuzaigen, daß sich ettlich us der graffschaft <placeName ref="lub-places-91">Dock
+<lb break="no" n="10"/>enburg</placeName> erhebt, unnd in daß closter <orgName ref="lub-actors-195">Sant Johans</orgName>, daß 
+<lb n="11"/>dan an mitdel in der von <orgName ref="lub-actors-515">Schweiz</orgName>, schuz und schirm us
+<lb break="no" n="12"/>gefallen, die kirchen blindertt, die hailigen zerschlaggen 
+<lb n="13"/>unnd irem neywen bruch nach gehandeld. Darab dan  
+<lb n="14"/>die von <orgName ref="lub-actors-515">Schweiz</orgName> unnd anderer irer mitverwanden  
+<lb n="15"/>merckhlichen müsfallen, dardurch etliche anderer örter,  
+<lb n="16"/>namlichen <placeName ref="lub-places-95">Bassel</placeName>, <placeName ref="lub-places-21">Schaffhuesen</placeName> unnd <placeName ref="lub-places-93">Appenzell</placeName> einen  
+<lb n="17"/>tag guettlichen darine zu handtlen, gen <placeName ref="lub-places-94">Baden</placeName> ange
+<lb break="no" n="18"/>sez, der dan verschinen unnd durch die mitler kain guett
+<lb break="no" n="19"/>lichkait befynden oder erlangen muggen, seinder sich die 
+<lb n="20"/><orgName ref="lub-actors-845">vii Ord</orgName> endlichen endschlissen, wiewol sy ein andren tag  
+<lb n="21"/>anzusezen bewylligt, so sy doch ir gemüett den nit zu  
+<lb n="22"/>suochen oder zu benemen, sunder mitlerzeit als in  
+<lb n="23"/>xiiii tagen ungevärlichen mit aller macht sampt den  
+<lb n="24"/><orgName ref="lub-actors-941">Walsseren</orgName> uff zu sein, die graffschaft <placeName ref="lub-places-91">Dockenburg</placeName> oder  
+<lb n="25"/>wer innen beistandig sein weld, zu uberziehen unnd  
+<lb n="26"/>zu straffen. Diewyl nun dieselbigen ord wyssend, daß  
+<lb n="27"/>ich, her <persName ref="lub-actors-523">Merck</persName>, meinem herren von <placeName ref="lub-places-101">Costennz</placeName>, mit  
+<lb n="28"/>fruntschaft verwand unnd auch dem neywen gelauben  
+<lb n="29"/>wider daß dan ir gnad mit mir, her <persName ref="lub-actors-523">Mercken</persName>, handel,  
+<lb n="30"/>daß ich auch zu solhem zug mit ii m.<note>2000</note> knechten unnd  
+<lb n="31"/>ii c.<note>200</note> pferden uff sy, unnd so sy iren zug thun wurden,  
+<lb n="32"/>inen zu hylff, da sy dan ir barschaft zu denselben pferden  
+<lb n="33"/>unnd knechten verornen, darmit man befynden  
+<lb n="34"/>muge, daß selher zug mit irem forwyssen unnd wyl
+<lb break="no" n="35"/>len beschech, mich daß durch meinen herren von 
+<lb n="36"/><placeName ref="lub-places-101">Costennz</placeName> unnd den abbt von <orgName ref="lub-actors-708">Sant Gallen</orgName> dasselbig  
+<lb n="37"/>folck mit brosand underhalden, auch etlich inkaym,   
+
+<lb n="38"/>die knecht unnd pfertt mit geld, auch versehen. Dardurch  
+<lb n="39"/>er maint, nit mangel deßhlaben haben wertt, sunder  
+<lb n="40"/>fyl guttz uszurichten unnd begert, daß mein her von  
+<lb n="41"/><placeName ref="lub-places-101">Costenz</placeName> mit mir, her <persName ref="lub-actors-523">Mercken</persName>, anzuzaigen unnd hand
+<lb break="no" n="42"/>len welle, daß dan der genandten dottor Petter 
+<lb n="43"/>mir anzaigt, unnd wie woll ich, her <persName ref="lub-actors-523">Merck</persName>, wyllig  
+<lb n="44"/>unnd solhs gern fundten weld, so hab ich doch dem genanden  
+<lb n="45"/>dottor meinem herren von <placeName ref="lub-places-101">Costenz</placeName> anzuzaigen, dise  
+<lb n="46"/>antwurt zu geben, wie wol ich meinem herren von  
+<lb n="47"/><placeName ref="lub-places-101">Costenz</placeName> gern dienen weld, so well mir doch nit gebiet
+<lb break="no" n="48"/>tn an for wyssen euer mayestät zu <placeName ref="lub-places-146">Ungern</placeName> unnd <placeName ref="lub-places-162">Behem</placeName>, meins 
+<lb n="49"/>gnadigsten herren, oder ierer meyestag stathalter, regenden  
+<lb n="50"/>unnd reten zu <placeName ref="lub-places-19">Ynsprugk</placeName> in einerlay weg zu ziehen, so  
+<lb n="51"/>wellich doch solhe handtlung königliche mayestät oder ir regierung  
+<lb n="52"/>mich berichten und anzaigen. Diewyll aber mein her  
+<lb n="53"/>stathalter zu <placeName ref="lub-places-7">Vaduz</placeName> gewist, hab ich mich zu im ver
+<lb break="no" n="54"/>fuegt unnd solhe handtlung auch anzaigt, diewyl 
+<lb n="55"/>nun wir baid dise handlung, so solh ein firganng  
+<lb n="56"/>haben wurtt, daß kayserliche unnd königliche mayestät stätten, auch  
+<lb n="57"/>landt unnd lytten mercklichen zu nuz raichen unnd  
+<lb n="58"/>dienen mechten. So haben wir euch solhe handlung  
+<lb n="59"/>uffs furderlichest anzaigen wellen, darmit ir solhs  
+<lb n="60"/>kuniglicher mayestät zuberichten oder hierenne ewern guttbe
+<lb break="no" n="61"/>duncken zu handlen wyssen unnd wie woll fyll in 
+<lb n="62"/>solher handtlung zu bedencken, unnd velicht kuniglicher mayestät  
+<lb n="63"/>hierinne zu handlen nit gelegen, so sich unns doch  
+<lb n="64"/>fur gutt an, wie muglichen wer, daß man in ein
+<lb break="no" n="65"/>ichen weg mitdel fynden mecht, darmit der selbig
+<lb break="no" n="66"/>en ord maynung fyrgieng, dardurch sy in anzug 
+<lb n="67"/>kemen unnd gegen einander handletten, wieß  
+<lb n="68"/>dan gering vor unnsers bedunckens wol gehan
+<lb break="no" n="69"/>deld, unnd vermainden, ob durch mittel persch 
+<lb n="70"/>ainen die vii ord bewegt, ein tag an ein gelegen  
+<lb n="71"/>ingehaim anzusezen unnd kuniglicher mayestät oder euch  
+<lb n="72"/>herren zu innen miteinander zu handlen,   
+<lb n="73"/>weß sich ye ein dail zudem andern versehen oder  
+
+<lb n="74"/>sunst waß gutt vergehandlett werden, daß dan die  
+<lb n="75"/>kunigliche mayestät oder ir solhs begeren nit abschlag sunders,  
+<lb n="76"/>sy zuvernemen unnd darmit si sich das derer in  
+<lb n="77"/>irem firnemen gesterckt unnd dennoch nuz zugesagt  
+<lb n="78"/>sunder ir beger zuvernemen unnd an kuniglicher mayestät wyder  
+<lb n="79"/>zu bringen annemen unnd ir mayestät beschaiths weitter 
+<lb n="80"/>zu erwartten, darmit sy dennest in irrem furnemen  
+<lb n="81"/>gesterckt unnd desder ir für sweren solls alles haben  
+<lb n="82"/>wür euch als unnsern herren unnd sunndern frundt
+<lb break="no" n="83"/>licher maynung unangezaigt nit lassen wellen 
+<lb n="84"/>unnd befelhen unns hiemit. Dathum <placeName ref="lub-places-1">Vaduz</placeName>, den <origDate>xi  
+<lb n="85"/>tag octobris anno etc. xxviii</origDate>. 
+</p>
+        <p><lb n="86"/><persName ref="lub-actors-8">Rudolff graff zu Sulz</persName> manu propria 
+<lb n="87"/>stathalter 
+</p>
+        <p><lb n="88"/><persName ref="lub-actors-158">Marck Sittich  
+<lb n="89"/>von Empß</persName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/><date when="1528-10-13">13. octobris anno 28.</date><lb n="2"/>Den wolgebornen gestrenngen hochgelertten  
+<lb n="3"/>edelen unnd vesten, kuniglicher mayestät zu <placeName ref="lub-places-146">Ungern</placeName> und  
+<lb n="4"/><placeName ref="lub-places-162">Behem</placeName>, unsers gnadigsten herren fitz-statt
+<lb break="no" n="5"/>halter unnd regirenden zu <placeName ref="lub-places-19">Ynsprugk</placeName>, 
+<lb n="6"/>unsern liben herren und gutten freundten. 
+</p>
+        <p><lb n="7"/>Citto 
+<lb n="8"/>Citto 
+<lb n="9"/>Citto 
+<lb n="10"/>Graf <persName ref="lub-actors-8">Rudolf von Sulz</persName><lb n="11"/><gap/><persName ref="lub-actors-158">Merck Sittich von Embs</persName></p>
+      </div>
+    </body>
+  </text>
+</TEI>

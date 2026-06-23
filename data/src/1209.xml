@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1209">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bericht Balthasar von Ramschwag über Kriegsvorbereitungen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift (Missiv), Signatur: <ref type="identifier" target="lub-objects-1209">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. IV Pos. 22</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 12. April 1552 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Balthasar von Ramschwag bestätigt aus Gutenberg dem obersten Hauptmann, den Kommissaren und Kriegsräten der vordern Herrschaften vor dem Arlberg ihr Schreiben vom 8. April samt einem an die Drei Bünde mit dem er sofort nach Chur geritten war, um&#13;
+es dort Bürgermeister und Rat zu übergeben. Diese hätten den Inhalt des Schreibens gut aufgenommen und versprochen, sich an die Erbeinigung zu halten und Knechte gegen Besoldung zu stellen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-328">Kriegsvorbereitung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1552-04-12">12. Apr 1552</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0001.jpg" xml:id="lub-media-3572" source="1552-04-12-4-0001-kopie-1.jpg" corresp="B"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv_pos__22-0002.jpg" xml:id="lub-media-3573" source="1552-04-12-4-0002-kopie-1.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Mein freundtlich willig diennst zuvor, lieb herrn unnd freundt. Euer   
+<lb n="2"/>schreiben deß dathums laut, den <date when="1552-04-08">viii apprillis</date> sampt ainem schreiben  
+<lb n="3"/>an die <orgName ref="lub-actors-808">Drey Pündt</orgName>, hab ich empfanngen unnd vernomen, unnd mich von  
+<lb n="4"/>stund an erhept unnd geen <placeName ref="lub-places-102">Cur</placeName> geritten. Unnd alls ich dahin kumen,  
+<lb n="5"/>sei die <orgName ref="lub-actors-808">Pündt</orgName> verritten unnd der tag ain ennd gehapt. Allso hab ich  
+<lb n="6"/>für burgermaister unnd rath zu <placeName ref="lub-places-102">Chur</placeName> begert, inen solch schreiben  
+<lb n="7"/>überanntwurt unnd ine antzaigt, die hanndlung nach lenngs mit  
+<lb n="8"/>beger, sy solches unvertzogen irer mitverwanndten der <orgName ref="lub-actors-808">Dreyer Pündten</orgName>  
+<lb n="9"/>zu schreiben unnd ain wissen machen etc. Welches sy ganntz zu guttem  
+<lb n="10"/>unnd nachpeurlichem willen angenomen, sich auch darbey erpotten, ain guetter  
+<lb n="11"/>nachpeurlichen willen, unnd sich der erbainigung gemeß zu halten, gleicher  
+<lb n="12"/>gestallt wellen sy sich gegen der küniglichen mayestät unnd derselben lanndenn  
+<lb n="13"/>versehen.  
+</p>
+        <p><lb n="14"/>Zum anndern habt ir herren on zweyfel in meinem jüngssten schreiben  
+<lb n="15"/>zu ainem peizedel vernomen, wie die erbainigung, so zwüschen  
+<lb n="16"/>dem haus <orgName ref="lub-actors-172">Össterreich</orgName> unnd den <orgName ref="lub-actors-808">Pündten</orgName> auffgericht, innhalt so ain  
+<lb n="17"/>fürsst von <orgName ref="lub-actors-172">Össterreich</orgName> in seinen lannden angriffen unnd von <orgName ref="lub-actors-808">Pündten</orgName>  
+<lb n="18"/>knecht umb die besolldung begert, das sy, die <orgName ref="lub-actors-808">Pündt</orgName>, solches zu  
+<lb n="19"/>rettung der lannden schuldig. Darzu sein vor unnd yez ettlich  
+<lb n="20"/>kriegsleutt auß den <placeName ref="lub-places-83">Pündten</placeName> zu mir kumen unnd begert, der kayserlichen  
+<lb n="21"/>alld küniglichen mayestät ze diennen. Sein aber auff disem ritt ettlich an mich  
+<lb n="22"/>kumen unnd gefragt, ob ich nit wißen, ob man sy annemen, dieweil  
+<lb n="23"/>sy hörennd, das man knecht herniden ainen, sy welten hinab ziehen  
+<lb n="24"/>unnd trewlich alls kriegsleut diennen. Allso hab ich inen kain  
+<lb n="25"/>enntlichen beschaid geben künden. Ich acht genntzlich, so man sy  
+<lb n="26"/>annemen, es wurde vil knecht auß innlauffen. Dergleichen  
+<lb n="27"/>hab ich mit ettlichen vertrauten geredt unnd inn fürgeworffen,  
+<lb n="28"/>so die khunigliche mayestät unnd dieselben lannd unnd lewt angriffen, sy  
+<lb n="29"/>laut der erbainigung vermainen zu ziehen. Was sy achten beschehen  
+<lb n="30"/>möcht. Allso vermainem sy, es wurt nit abgeschlagen, sonnder  
+<lb n="31"/>was sy laut der erbainung zu thun schulldig, dem wurt gelept, etc.,  
+<lb n="32"/>wie dem allem, so man knecht bedürffen, möcht man die wol uberkumen,   
+
+<lb n="33"/>doch so man die brauchen, das die besolldung gewiß wer,  
+<lb n="34"/>so wurden sy sich wol brauchen lassen unnd dardurch desto  
+<lb n="35"/>weniger dem Frannzosen zuziehen. Dann es ist ain ver
+<lb break="no" n="36"/>trosstung, unnder inn isst, man werd sy palld mer brauchen 
+<lb n="37"/>vom Frannzosen, hab ich euch alls mein lieb herrn unnd freundt  
+<lb n="38"/>nit wollen verhalten, hiemit die gnad gotts mit unns. Datum  
+<lb n="39"/><placeName ref="lub-places-13">Guettemberg</placeName>, den <origDate>xii des apprillis anno 1552</origDate>. 
+</p>
+        <p><lb n="40"/><persName ref="lub-actors-156">Baltussar von Ramschwag</persName><lb n="41"/>vogt zu <placeName ref="lub-places-13">Guottemberg</placeName>. 
+</p>
+        <p><lb n="42"/>Wil mich nit pergen, das ich solch mein hanndlung in  
+<lb n="43"/><placeName ref="lub-places-83">Pündten</placeName> auff euer schreiben alles mein genedigen herrn  
+<lb n="44"/>statthalter unnd <orgName ref="lub-actors-929">Regierung</orgName> schrifftlich antzaigt. 
+</p>
+        <p><lb n="45"/>Den edlen, vessten herrn, der römisch kuniglichen mayestät etc.  
+<lb n="46"/>oberisten hauptman, commissari unnd kriegs
+<lb break="no" n="47"/>rätten der vordern herrschafften vor dem 
+<lb n="48"/><placeName ref="lub-places-97">Arlenberg</placeName> yez zu <placeName ref="lub-places-45">Bregennz</placeName> meinen  
+<lb n="49"/>lieben herrn und freund 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

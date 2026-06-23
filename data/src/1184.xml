@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1184">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ablösung der Herrschaft Altkirch durch Anton Fugger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>2. Ausfertigung</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A1">A1: Original, Signatur: <ref type="identifier" target="lub-objects-1183">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1546 Feb 14</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 14. Februar 1546 / Beschreibstoff: Papier, 5 Seiten / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="A2">A2: Original, Signatur: <ref type="identifier" target="lub-objects-1184">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1546 Apr 29</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 29. April 1546 / Beschreibstoff: Papier, 6 Seiten / Siegel: 1 Siegel, beschädigt</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-348">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1546 fol. 23r+v und 60v-61</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 14. Februar 1546 / Beschreibstoff: Papier, 5 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ferdinand I. gibt der Oberösterreichischen Regierung am 14. Feber, 29. April, 19. Juni, 24. August und 19. November 1546 Bescheid wegen der Ablösung verschiedener Pfand- und Herrschaften durch Anton Fugger, darunter auch Altkirch. Die Ablösung sollte aber erst nach vier Jahren geschehen, da der Vertrag mit den Grafen von Sulz nicht früher auslief.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-16">Güterverkauf</term>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <placeName ref="lub-places-861">Wroclaw</placeName>
+          <date when="1546-04-29">29. Apr 1546</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_feb_14-0001.jpg" xml:id="lub-media-3033" source="1546-02-14-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A1"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_feb_14-0002.jpg" xml:id="lub-media-3034" source="1546-02-14-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A1"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_feb_14-0003.jpg" xml:id="lub-media-3035" source="1546-02-14-tla-ookam-akten-resulationen-von-hof-3.jpg" corresp="A1"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_feb_14-0004.jpg" xml:id="lub-media-3036" source="1546-02-14-tla-ookam-akten-resulationen-von-hof-4.jpg" corresp="A1"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_feb_14-0005.jpg" xml:id="lub-media-3037" source="1546-02-14-tla-ookam-akten-resulationen-von-hof-5.jpg" corresp="A1"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_apr_29-0001.jpg" xml:id="lub-media-3038" source="1546-04-29-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A2"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_apr_29-0002.jpg" xml:id="lub-media-3039" source="1546-04-29-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A2"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_apr_29-0003.jpg" xml:id="lub-media-3040" source="1546-04-29-tla-ookam-akten-resulationen-von-hof-3.jpg" corresp="A2"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_apr_29-0004.jpg" xml:id="lub-media-3041" source="1546-04-29-tla-ookam-akten-resulationen-von-hof-4.jpg" corresp="A2"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_apr_29-0005.jpg" xml:id="lub-media-3042" source="1546-04-29-tla-ookam-akten-resulationen-von-hof-5.jpg" corresp="A2"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1546_apr_29-0006.jpg" xml:id="lub-media-3043" source="1546-04-29-tla-ookam-akten-resulationen-von-hof-6.jpg" corresp="A2"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0001.jpg" xml:id="lub-media-3390" source="geschaft-von-hof-1546-02.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0002.jpg" xml:id="lub-media-3391" source="geschaft-von-hof-1546-03-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0003.jpg" xml:id="lub-media-3392" source="geschaft-von-hof-1546-03.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0004.jpg" xml:id="lub-media-3393" source="geschaft-von-hof-1546-04-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0005.jpg" xml:id="lub-media-3394" source="geschaft-von-hof-1546-04.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0006.jpg" xml:id="lub-media-3395" source="geschaft-von-hof-1546-05-kopie.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1546_fol__23r-24r_und_60v-62r-0007.jpg" xml:id="lub-media-3396" source="geschaft-von-hof-1546-05.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-26">Ferdinand</persName> von gotes genaden römischer,  
+<lb n="2"/>zu <placeName ref="lub-places-146">Hungern</placeName> und <placeName ref="lub-places-162">Behaim</placeName> etc. kunig etc. 
+</p>
+        <p><lb n="3"/>Wolgeborner, edlen, ersamen, gelerten und  
+<lb n="4"/>lieben getrewen. Wir haben zway  
+<lb n="5"/>ewre schreiben und postscripta, deren data am  
+<lb n="6"/>zwelfften tag martii nechstverschinen und  
+<lb n="7"/>sechsten diz gegenwirttigs monats aprillis  
+<lb n="8"/>steen, sambt den uberschickhten schrifften   
+<lb n="9"/>emphanngen angehort und darauß ewr  
+<lb n="10"/>getrew und notturfftig anzaigen unnd  
+<lb n="11"/>rätlich bedenngkhen der herrschaften  
+<lb n="12"/><placeName ref="lub-places-57">Altkirch</placeName>, <placeName ref="lub-places-304">Phirdt</placeName>, sambt <placeName ref="lub-places-996">Plochmundt</placeName>, <placeName ref="lub-places-995">Ysen
+<lb break="no" n="13"/>haim</placeName>, <placeName ref="lub-places-860">Inngelsat</placeName>, sambt <placeName ref="lub-places-999">Osstein</placeName> unnd 
+<lb n="14"/>zwayer dorffer halben nach lenngs ge
+<lb break="no" n="15"/>nediglich verstannden. Darauf well
+<lb break="no" n="16"/>en wir euch unnser maynung und willen 
+<lb n="17"/>nicht verhalten, nachdem ir guet wissen  
+<lb n="18"/>tragt, mit was mercklichen, vilfeltigen und  
+<lb n="19"/>uberschwenngklichen ausgaben wir belad
+<lb break="no" n="20"/>en, dermassen, das wir bey disen grossen 
+<lb n="21"/>und schwern raisen in anndere lanndt und  
+<lb n="22"/>reichstägen unnsern hofstat nicht woll  
+<lb n="23"/>underhalten mugen, sonnder yederzeit gelt  
+<lb n="24"/>mit grossem interesse, wo wir khunden,  
+<lb n="25"/>aufpringen muessen. Und sich aber der  
+<lb n="26"/><persName ref="lub-actors-187">Fugger</persName> gegen unns angepoten, unns auf  
+
+<lb n="27"/>angezaigte herrschafften ain zimliche  
+<lb n="28"/>suma gelts on interesse zu leihen und fur
+<lb n="29"/>zustregken, der wir dann obvermelter  
+<lb n="30"/>ursachen halben hoch nottig und bedurff
+<lb break="no" n="31"/>tig sein, das wir unns darauf mit ime 
+<lb n="32"/>in beschliche hanndlung eingelassen. 
+</p>
+        <p><lb n="33"/>Und erstlich was die herrschafft <placeName ref="lub-places-995">Isenhaim</placeName><lb n="34"/>belanngt, dieselbig herrschafft hat gedachter  
+<lb n="35"/><persName ref="lub-actors-187">Fugger</persName> von denen von <orgName ref="lub-actors-2781">Mersperg</orgName>, wie wir  
+<lb n="36"/>auch hievor zuegeschriben, mit guettem  
+<lb n="37"/>willen abzutretten erlanngt. 
+</p>
+        <p><lb n="38"/><placeName ref="lub-places-57">Alltkirch</placeName> halben achten wir die yezigen  
+<lb n="39"/>innhaber und phanndtschaffter werden  
+<lb n="40"/>dieselbig abzutretten auch wenig beschwer
+<lb break="no" n="41"/>ung tragen.
+</p>
+        <p><lb n="42"/>Allain die herrschafft und ambt <placeName ref="lub-places-304">Phirdt</placeName><lb n="43"/>sambt <placeName ref="lub-places-996">Plochmund</placeName>, von wegen des schloß  
+<lb n="44"/><placeName ref="lub-places-1001">Lanndtscron</placeName>, so dem <persName ref="lub-actors-2783">Reichen</persName> alls inn
+<lb break="no" n="45"/>haber <placeName ref="lub-places-304">Phierdt</placeName> erblichen zuesteet, betreffent, 
+<lb n="46"/>khunden wir unns wol erinndern, das  
+<lb n="47"/>unns hievor in diser sachen allerlay handl
+<lb break="no" n="48"/>ungen und bericht, und sonnderlichen die 
+<lb n="49"/>schreiben und guetbedungkhen, so ir uns yezo  
+
+<lb n="50"/>wider zuegesanndt furkomen sein. Wir  
+<lb n="51"/>haben aber in diser hanndlung mit dem  
+<lb n="52"/><persName ref="lub-actors-187">Fugger</persName> denselben nicht in gedechtnuß gehabt.  
+<lb n="53"/>Wir wissen unns auch zuerinndern, das  
+<lb n="54"/>unns hievor anzaigt, wie an sölhem hauß  
+<lb n="55"/><placeName ref="lub-places-1001">Lanndßcron</placeName> nicht so gar vil gelegen, sich auch  
+<lb n="56"/>nicht zuversehen sey, das der <persName ref="lub-actors-2783">Reich</persName> dasselb
+<lb break="no" n="57"/>ig wider unns oder unnser vorwissen den 
+<lb n="58"/><orgName ref="lub-actors-515">Aidgnossen</orgName> oder yemandts anndern den  
+<lb n="59"/><placeName ref="lub-places-161">Vordern Lannden</placeName> zu schaden geben und ver
+<lb break="no" n="60"/>khauffen werde. Dieweil aber auch 
+<lb n="61"/>unser <orgName ref="lub-actors-2777">Regierung</orgName> in <placeName ref="lub-places-422">Ober Elsaß</placeName> anzaigen  
+<lb n="62"/>und vermelden, was an disem schloß den  
+<lb n="63"/><placeName ref="lub-places-161">Vordern Lannden</placeName>, wo es in der <orgName ref="lub-actors-515">Aidgnos
+<lb break="no" n="64"/>schafft</orgName> oder außlennder henndt unnd 
+<lb n="65"/>gewalt khomen solt, fur nachtail unnd  
+<lb n="66"/>schaden zuesteen mocht, das auch daran  
+<lb n="67"/>sovil gelegen. Und wir unns aber nun  
+<lb n="68"/>wie ir verstannden, mit dem <persName ref="lub-actors-187">Fugger</persName> ablos
+<lb break="no" n="69"/>ung <placeName ref="lub-places-304">Phierdt</placeName> halben eingelassen und besloss
+<lb break="no" n="70"/>en. So ist derhalben unnser 
+<lb n="71"/>bevelh, das ir von stundan nach uberannt
+<lb break="no" n="72"/>worttung dises bevelhs den <persName ref="lub-actors-2783">Reichen</persName> aigner 
+<lb n="73"/>person oder durch seinen volmechtigen gwalt
+<lb break="no" n="74"/>trager fur euch erforderet, mit ime auf 
+<lb n="75"/>mitl und weg, wie euch fur guet ansehen wir
+<lb break="no" n="76"/>det, dises schloß <placeName ref="lub-places-1001">Lanndtßcron</placeName> halben, damit 
+<lb n="77"/>es nicht in anndere frembde und unns wider
+<lb break="no" n="78"/>werttige henndt khum, doch allain auf 
+
+<lb n="79"/>unnser wolgefallen hanndlet, und auf  
+<lb n="80"/>was mitl und weeg die ir zum pesten und  
+<lb n="81"/>nutzlichisten bedennckhen solt, ir euch also in  
+<lb n="82"/>dem und seiner ausstenndigen schulden  
+<lb n="83"/>halben einlassen werdt, unns hernach  
+<lb n="84"/>zum furderlichisten berichtet und zue
+<lb break="no" n="85"/>schreibet. Unnd solhes in bedenckhung, 
+<lb n="86"/>das unns sovil daran gelegen, damit die  
+<lb n="87"/>sachen dest eher beslossen mugen werden,  
+<lb n="88"/>mit dem ehisten furderet. 
+</p>
+        <p><lb n="89"/>Was nun die spen und irrung <placeName ref="lub-places-304">Phirft</placeName><lb n="90"/>und <orgName ref="lub-actors-2781">Mersperg</orgName> berürt, wirdet dem <persName ref="lub-actors-187">Fugger</persName>  
+<lb n="91"/>solhe herrschafft <placeName ref="lub-places-304">Phirdt</placeName>, dem von <orgName ref="lub-actors-2781">Mersperg</orgName>  
+<lb n="92"/>oder yemandts anndern vertrags weiß  
+<lb n="93"/>ainzugeben nicht bewilligt, so achten wir  
+<lb n="94"/>auch, er werde ime daran wider sein reverß,  
+<lb n="95"/>so er geben wirdt, nichtso enntziehen lassen. 
+</p>
+        <p><lb n="96"/>Von wegen der anndern zway herrschaff
+<lb break="no" n="97"/>ten, als <placeName ref="lub-places-57">Altkirch</placeName>, <placeName ref="lub-places-860">Inngelsat</placeName> und <placeName ref="lub-places-999">Osstein</placeName>, 
+<lb n="98"/>auch der zwayer dörffer <placeName ref="lub-places-998">Rotershaim</placeName> und  
+<lb n="99"/><placeName ref="lub-places-997">Merxhaim</placeName>, ist unnser bevelh, das ir  
+<lb n="100"/>die abkhundung derselben, inmassen wir  
+<lb n="101"/>auch hievor auferlegt, von stundan thuet,  
+<lb n="102"/>auch von denselben innhabern copeyen irer  
+<lb n="103"/>phanndtverschreibungen begeret. Und  
+
+<lb n="104"/>unns dann dieselben, damit wie die hanndl
+<lb break="no" n="105"/>ung unnser unvermeidlichen notturfft 
+<lb n="106"/>nach zu ainem beschluß bringen mugen, zue
+<lb break="no" n="107"/>schickhet, an dem allen thuet ir unnsern ge
+<lb break="no" n="108"/>felligen und ernstlichen willen und mayn
+<lb break="no" n="109"/>ung. Und wir haben auch sovil hiemit auf 
+<lb n="110"/>angezaigte ewre schreiben, damit ir unsers  
+<lb n="111"/>gemuets ain wissen und euch darnach zu  
+<lb n="112"/>halten hetten, zu antwordt in gnaden nicht  
+<lb n="113"/>wellen verhalten. Geben in  
+<lb n="114"/>unnser stat <placeName ref="lub-places-861">Preßlaw</placeName>, den <origDate>neunundzwainzig
+<lb break="no" n="115"/>isten tag aprillis anno etc. im sechsunnd
+<lb break="no" n="116"/>vierzigisten</origDate>, unserer <orgName ref="lub-actors-516">Reiche des Römischen</orgName> im 
+<lb n="117"/>sechzehenden und der anndern im xx ten. 
+<lb n="118"/><persName ref="lub-actors-26">Ferdinand</persName>  
+</p>
+        <p><lb n="119"/>Ad mandatum domini  
+<lb n="120"/>regis proprium. 
+</p>
+        <p><lb n="121"/><gap/><lb n="122"/>Sigmar 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>17. maii 1546 
+</p>
+        <p><lb n="2"/>Dem wolgebornen, edlen, ersamen, ge
+<lb break="no" n="3"/>lerten und unsern lieben, getrewen n., uns
+<lb break="no" n="4"/>erm vicestathalter, regenten und camer
+<lb break="no" n="5"/>räten der <placeName ref="lub-places-160">Oberösterreichischen Lannde</placeName>.
+</p>
+        <p><lb n="6"/><persName ref="lub-actors-187">Fugger</persName> ablesungen in <placeName ref="lub-places-161">Vorlannden</placeName>  
+<lb n="7"/><placeName ref="lub-places-57">Altkirch</placeName>, <placeName ref="lub-places-304">Pirdt</placeName>, <placeName ref="lub-places-996">Blochmundt</placeName>, <placeName ref="lub-places-995">Ysenhaim</placeName>,  
+<lb n="8"/><placeName ref="lub-places-860">Ingelstat</placeName>, <placeName ref="lub-places-999">Osstain</placeName>, <placeName ref="lub-places-997">Merxhaim</placeName> und <placeName ref="lub-places-998">Rettenßhaim</placeName>. 
+</p>
+        <p><lb n="9"/><placeName ref="lub-places-19">Innsprugg</placeName><lb n="10"/>Registrata  
+<lb n="11"/>29. apprillis  
+</p>
+        <p><lb n="12"/>Zu handen unserer  
+<lb n="13"/><orgName ref="lub-actors-2587">Tirolischen Camer</orgName></p>
+      </div>
+    </body>
+  </text>
+</TEI>

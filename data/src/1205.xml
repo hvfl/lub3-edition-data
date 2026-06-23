@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1205">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schätzung von Vaduz und Schellenberg auf 300.000 Gulden</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-1205">AT-TLA BBÄ OÖKAM Akten Resolutionen von Hof 1610 März 11</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 11. März 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-398">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1610 fol. 136v-137r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 11. März 1610 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bestätigung der Schätzung von Vaduz und Schellenberg auf 300.000 Gulden und über die Erklärung des Abtes zu St. Gallen, dem Haus Österreich beim Kauf der Herrschaften nicht hinderlich zu sein.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-517">Anschlag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1610-03-11">11. Mär 1610</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_akten_resolutionen_von_hof_1610_m-rz_11-0001.jpg" xml:id="lub-media-3533" source="1610-03-11-tla-ookam-akten-resulationen-von-hof-039r.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_akten_resolutionen_von_hof_1610_m-rz_11-0002.jpg" xml:id="lub-media-3534" source="1610-03-11-tla-ookam-akten-resulationen-von-hof-039v.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1610_fol__136v-137r-0001.jpg" xml:id="lub-media-3463" source="geschaft-von-hof-1610-03-136v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1610_fol__136v-137r-0002.jpg" xml:id="lub-media-3464" source="geschaft-von-hof-1610-03-137r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/>Wellicher gestaldt sich graf <persName ref="lub-actors-13">Carl Ludwig von  
+<lb n="2"/>Sulz</persName> deß anschlags halben umb beede herrschaften  
+<lb n="3"/><placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName>, so er per pausch auf drey
+<lb break="no" n="4"/>mal hundert tausent gulden bestimbt, aber doch ein 
+<lb n="5"/>aigentlichen anschlag hernach zu übergeben sich erpiet
+<lb break="no" n="6"/>tig macht. 
+</p>
+        <p><lb n="7"/>Unnd dann der abbt zu<orgName ref="lub-actors-708"> St. Gallen</orgName> in <placeName ref="lub-places-109">Schweiz</placeName> dem  
+<lb n="8"/>hochloblichisten hauß <orgName ref="lub-actors-172">Österreich</orgName> etc. in erkhauffung sol
+<lb break="no" n="9"/>licher herrschafften nit verhinderlich zu sein sich erclert, 
+<lb n="10"/>das haben die fürstlich durchlaucht erzherzog <persName ref="lub-actors-184">Maximilian zu Öster
+<lb break="no" n="11"/>reich</persName> etc., unnser gnedigister herr, auß einer loblichen 
+<lb n="12"/><orgName ref="lub-actors-929">Oberösterreichischen Regierung</orgName> unnd <orgName ref="lub-actors-2788">Camer</orgName> zwayen under
+<lb break="no" n="13"/>schidlichen berichten vom ersten und dritten diß in gnaden 
+<lb n="14"/>angehört unnd verstannden, die wöllen auch ir der  
+<lb n="15"/><orgName ref="lub-actors-929">Regierung</orgName> unnd <orgName ref="lub-actors-2788">Cammer</orgName>, wann ermeltter anschlag ein
+<lb break="no" n="16"/>khombt, verrern berichts unnd guetachtens hierüber ge
+<lb break="no" n="17"/>werttig sein. Actum <placeName ref="lub-places-19">Ynsprugg</placeName>, den <origDate>ailfften 
+<lb n="18"/>martii anno sechzehenhundert unnd zehen</origDate>. 
+</p>
+        <p><lb n="19"/><gap/><lb n="20"/>Decretum per serenissimum dominum  
+<lb n="21"/>archiducem <persName ref="lub-actors-184">Maximilianum</persName>. 
+</p>
+        <p>
+          <lb n="22"/>
+          <gap/>
+        </p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>Praesentatum 13. martii anno 1610. 
+</p>
+        <p><lb n="2"/>Zu hannden <orgName ref="lub-actors-929">Oberöster
+<lb break="no" n="3"/>reichischer Regierung</orgName> und 
+<lb n="4"/><orgName ref="lub-actors-2587">Cammer</orgName>. 
+</p>
+        <p><lb n="5"/>Anschlag beeder herrschafft  
+<lb n="6"/><placeName ref="lub-places-7">Vaduz</placeName> und <placeName ref="lub-places-11">Schellenberg</placeName> betref. 
+<lb n="7"/>Registrata, den 11. tag  
+<lb n="8"/>martii anno 1610. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

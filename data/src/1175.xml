@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1175">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Munition für Schloss Vaduz und Schloss Küssaberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1175">AT-TLA BBÄ OÖKAM Akten Resolutionen von Hof</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 22. Juni 1524 / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-331">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1523-24 Bd. 88 fol. 271r</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 22. Juni 1524 / Beschreibstoff: Papier, 1 Seite / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Anweisung Erzherzog Ferdinands I. an die Oberösterreichische Raitkammer, Rudolf V. von Sulz eineinhalb Zentner Kupfer zum Gießen von Geschützen für Küssaberg und Vaduz zu überantworten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-84">Grenzsicherung</term>
+          <term ref="lub-keywords-337">Bergbau</term>
+          <term ref="lub-keywords-87">Befestigungsanlage</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <placeName ref="lub-places-860">Ingolstadt</placeName>
+          <date when="1524-06-22">22. Jun 1524</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_akten_resultationen_von_hof-0001.jpg" xml:id="lub-media-3019" source="1524-06-22-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_akten_resultationen_von_hof-0002.jpg" xml:id="lub-media-3020" source="1524-06-22-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1523-24_bd__88_fol__271r-0001.jpg" xml:id="lub-media-3018" source="1524-06-22-geschaft-von-hof-1523-24-band-88-02-271r.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-26">Ferdinand</persName> von gots gnaden prinz unnd infannt in <placeName ref="lub-places-253">Hispanien</placeName>,  
+<lb n="2"/>erzhertzog zu <placeName ref="lub-places-295">Österreich</placeName>, hertzog zu <placeName ref="lub-places-120">Burgunndien</placeName> etc. 
+</p>
+        <p><lb n="3"/>Getrewen lieben, als wir dem edeln unnserm lieben getrewen <persName ref="lub-actors-8">Rudelfen grafen zu Sulz</persName>, unnserm stathalter, unnsers  
+<lb n="4"/>hofrats der <placeName ref="lub-places-160">Oberösterreichischen Lannde</placeName> in crafft ains vertrags, so er mit unns unnd unnserm haws <orgName ref="lub-actors-172">Österreich</orgName>  
+<lb n="5"/>hat, auf seine slesser unnd hewser <placeName ref="lub-places-86">Kussennberg</placeName> unnd <placeName ref="lub-places-33">Vaduz</placeName> etlich geschuz zugeben unnd anntwurten zelassen,  
+<lb n="6"/>schuldig unnd aber unnser zewghewser an geschuz diser zeit mercklichen emplösst unnd wie ir ermessen  
+<lb n="7"/>kundt, selbs mer notdurfftig sein. Damit aber bemelter von <persName ref="lub-actors-8">Sultz</persName> daran nit mangel oder nachtayll  
+<lb n="8"/>leid, sonnder seine hewser obgemelter massen zu der weer unnd not mit geschuz fursehen werden, so  
+<lb n="9"/>emphelhen wir euch mit ernnst unnd wellen, das ir ime annderthalb hundert centen kupfer von unnsern  
+<lb n="10"/>wegen verordnet unnd zustellet, damit er selbs seinem erbieten nach aus solhem kupfer unnd dem zyn  
+<lb n="11"/>unnd annderm zewg, so er auf seinen cessten darzue ordnen und geben soll, geschuz machen und dasselb  
+<lb n="12"/>in crafft egemelts vertrags auf benennte seine slösser furen unnd pringen mug. Unnd so solich  
+<lb n="13"/>geschuz gemacht unnd fertig ist, dasselb alsdann inventarisiern unnd auf unnser <orgName ref="lub-actors-2587">Chammer</orgName>  
+<lb n="14"/>einschreiben lasset, damit mit solhem in kunfftig zeit aufgerichten vertrag nach gelebt werden  
+<lb n="15"/>mug. Daran tuet ir unnser ernnstliche maynung. Geben <placeName ref="lub-places-860">Yngeltstatt</placeName>, am <origDate>xxii tag junii  
+<lb n="16"/>anno etc. mc xxiiii.</origDate> 
+</p>
+        <p>
+          <lb n="17"/>
+          <persName ref="lub-actors-26">Ferdinand</persName>
+        </p>
+        <p><lb n="18"/>Ad mandatum serenissimi domini  
+<lb n="19"/>principis archiducis proprium  
+</p>
+        <p><lb n="20"/>P. Ferenberg manu propria  
+<lb n="21"/>Registrata <gap/></p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>1524 
+<lb n="2"/>Unnsern getrewen lieben, unnsern verordneten reten  
+<lb n="3"/>unnser <orgName ref="lub-actors-2587">Oberösterreichischen Raitkhamer</orgName>. 
+<lb n="4"/><persName ref="lub-actors-8">Sulz</persName> kupher 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1181">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Erlassung der Kammerschulden des verstorbenen Grafen Rudolf V. von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1181">AT-TLA BBÄ OÖKAM Aktenserie Resolutionen von Hof 1536 Okt 6</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. Oktober 1536 / Beschreibstoff: Papier / Siegel: 1 Siegel, beschädigt (Editionsvorlage)</witness>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-345">AT-TLA BBÄ OÖKAM Kopialbuch Geschäft von Hof 1536 fol. 79v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. Oktober 1536 / Beschreibstoff: Papier / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Bescheid Ferdinands I. an die Vorderösterreichische Regierung, dass er der Bitte Johann Ludwigs I. Graf von Sulz um Erlassung der Kammerschulden seines Vaters Rudolfs V. von Sulz in der Höhe von 533 Gulden insoweit nachkomme, dass nur die Hälfte der Summe, nach Abzug des Weins, den Ferdinand aus dem Keller der Grafen von Sulz verbraucht hatte, bei der Oberösterreichische Hofkammer eingebracht werden muss. Die andere Hälfte wird Johann Ludwig erlassen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-98">Schuldenerlass</term>
+          <term ref="lub-keywords-138">Wein</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <date when="1536-10-06">6. Okt 1536</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1536_okt__6-0001.jpg" xml:id="lub-media-3026" source="1536-10-06-tla-ookam-akten-resulationen-von-hof-1.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_aktenserie_resolutionen_von_hof_1536_okt__6-0002.jpg" xml:id="lub-media-3027" source="1536-10-06-tla-ookam-akten-resulationen-von-hof-2.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_o-kam_kopialbuch_gesch-ft_von_hof_1536_fol__79v-0001.jpg" xml:id="lub-media-3386" source="geschaft-von-hof-1536-02.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><lb n="1"/><persName ref="lub-actors-26">Ferdinand</persName> von gots gnaden romischer,  
+<lb n="2"/>auch zu <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Beham</placeName> etc. kunig etc. 
+</p>
+        <p><lb n="3"/>Wolgebornner, edlen, ersamen, gelerten unnd lieben getrewen. Unns hat der wolgebornn, unnser lieber, getrewer <persName ref="lub-actors-13">Johann  
+<lb n="4"/>Ludwig grave zu Sultz</persName> underthenigclich gebeten, ime in ansehung seines vatters, weylenndt graf <persName ref="lub-actors-8">Ruedolffen  
+<lb n="5"/>zu Sultz</persName>, unnsers stathalters getrewen diennst den resst, nämlich funffhundert dreyunddreissig guldin rein
+<lb break="no" n="6"/>isch zwen vierer, so derselb, sein vater, lawt ainer abrayttung auf unnser <orgName ref="lub-actors-2587">Camer</orgName> ewerer verwaltung schuldig 
+<lb n="7"/>bliben, aus gnaden und zu ergötzlichait fur die wein, so auf unnser notdurfft von gedachtem seinem vater  
+<lb n="8"/>genommen worden, nachzulassen. Darauf wir genedigclich bewilligt, das gedachtem graven zu <persName ref="lub-actors-35">Sulz</persName>  
+<lb n="9"/>die wein, so also fur unnser person unnd notdurfft aws seines vaters keller genommen, soferr die vorhin  
+<lb n="10"/>in die abrayttung nicht khomen oder abgezogen sein, an dem vorbestimpten resst noch aufgehebt werden,  
+<lb n="11"/>unnd was daruber noch in resst bleibt, ime daran halben tail in annsehung seines vaters lannggethanen  
+<lb n="12"/>getrewen diennst aus gnaden nachzulassen. Empfelhen euch darauf mit ernnst, das  
+<lb n="13"/>ir gedachtem graven zu <persName ref="lub-actors-35">Sultz</persName> an solhem resst, sovil er unns uber abzug beruerter wein noch schuldig  
+<lb n="14"/>bleibt, den halben tail nachlasset, unnd den andern halben tail von ime zu unnserer <orgName ref="lub-actors-2815">Camer</orgName> notturfft ein
+<lb break="no" n="15"/>bringet, wie ir zuthun wisst. Daran beschiecht unnser ernnstliche mainung. Geben in unnserer 
+<lb n="16"/>stat <placeName ref="lub-places-991">Sant Veit</placeName> in <placeName ref="lub-places-260">Kernten</placeName>, am <origDate>sechsten tag octobris anno etc. im xxxvi</origDate>., unnserer <orgName ref="lub-actors-516">Reiche des Romischen</orgName>  
+<lb n="17"/>im sechten und der andern im zehenden. 
+<lb n="18"/><persName ref="lub-actors-26">Ferdinand</persName>  
+</p>
+        <p><lb n="19"/>Ad mandatum domini  
+<lb n="20"/>regis proprium 
+</p>
+        <p><lb n="21"/><gap/> manu propria 
+<lb n="22"/>Registrata <gap/> 
+</p>
+      </div>
+      <div type="back">
+        <p><lb n="1"/>1536 15. octobris. 
+</p>
+        <p><lb n="2"/>Dem wolgebornen, edlen, ersamen, gelerten  
+<lb n="3"/>und unnsern lieben, getrewen n. unnserm  
+<lb n="4"/>vicestathalter, regennten und camer
+<lb break="no" n="5"/>räten der <placeName ref="lub-places-160">Oberosterreichischen Lannde</placeName>.
+</p>
+        <p><lb n="6"/>Graf <persName ref="lub-actors-35">Ludwig von Sulz</persName><lb n="7"/>nachlass am rest. 
+<lb n="8"/>6. octobris  
+<lb n="9"/>registrata 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

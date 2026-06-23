@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-292">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bitte Kaspar Kessler aus dem Gefängnis zu entlassen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original(Missiv), Signatur: <ref type="identifier" target="lub-objects-292">AT-TLA BBÄ Kaiserliche Kanzlei Wien Einlauf Abt. IV. Pos. 30 Teil 8</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. November 1526 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kasper Mammendorfer, Vogt von Vaduz, unterrichtet aus Blumenegg Statthalter Graf Rudolf V. von Sulz über die Fürbitte der Ehefrau und Verwandtschaft Kasper Kesslers, Bürger zu Bludenz, ihn aus dem Gefängnis zu entlassen.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1526-11-28">28. Nov 1526</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv__pos__30_teil_8-0001.jpg" xml:id="lub-media-3570" source="8-0002-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_kaiserliche_kanzlei_wien_einlauf_abt__iv__pos__30_teil_8-0002.jpg" xml:id="lub-media-3571" source="8-0003-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3570" n="1"/><lb n="1"/>Wolgeborner gnädiger herr, ewer gnaden sein unnser unnder
+<lb break="no" n="2"/>tenig gehorsam dienst allzeit zuvor. Gnädiger herr, nachdem euer gnaden 
+<lb n="3"/>gut wyssen tregt, wie die von <placeName ref="lub-places-46">Bludenz</placeName> unnd <persName ref="lub-actors-2770">Casper Kesslers</persName>  
+<lb n="4"/>ins burgers fruntschaft zum andern mal hievor by euer gnaden  
+<lb n="5"/>gewesen unnd euer gnaden undertenigklichen gebietten, darmit euer gnaden  
+          <lb n="6"/>in <persName ref="lub-actors-2770">Casper Kesslers</persName> vencknus unnd handlung gnedigklichen  
+          <lb n="7"/>verhelffen unnd daß best thun welle, und diewyl aber <persName ref="lub-actors-2770">Ca
+<lb break="no" n="8"/>sper Kessler</persName> noch ymander in gefencknus ligt, ist daruff 
+<lb n="9"/>sein huesfrow unnd fruntschaft fur unns komen, unnd  
+<lb n="10"/>unß an euer gnaden umb furbitt angerieft unnd gepetten, derre  
+<lb n="11"/>sy verhoffen, fruchtpar zu geniessen, unnd diewil wir im  
+<lb n="12"/>hylff unnd fürderung zu thun genaigt, und auch schul
+          <lb break="no" n="13"/>dig sind angesehen, daß <persName ref="lub-actors-2770">Caspar Keslers</persName> huesfrow euer gnaden 
+<lb n="14"/>aigen unnd unnß der alten genoß in unnser stur zu sturzn   
+<lb n="15"/>gepurt, des gelichen irre kynder der drittail och euer gnaden unnd  
+<lb n="16"/>unß dermassen zugehorend, unnd diewyl er yez lannge zyt  
+<lb n="17"/>in gefenngknus gelegen, unnd darzu hart gewoggen ist, daruff  
+<lb n="18"/>an euer gnaden unnser undertenig unnd fleisig bitt, euer gnaden welle  
+<lb n="19"/>umb gottes, och seiner wirdigen lieben mutter magt, Maria  
+          <lb n="20"/>Wyllen, so gnadig sein, sein verhelffen darmit <persName ref="lub-actors-2770">Casper Kes
+<lb break="no" n="21"/>lers</persName> verhandlung unnd sein grosse marder und langwurige  
+<lb n="22"/>gefengknus gegen ain ander ermessen und yez wider  
+<lb n="23"/>gnedigklichen ledig gelassen werde. Wo deß aber ye  
+<lb n="24"/>nit sein mechte, welle euer gnaden verhelffen, darmit man  
+<lb n="25"/>in uff gnugsame burgschaft, wen man in durch frist  
+<lb n="26"/>erfordere zu rechten zu stellen ledig lasse, darmit er  
+<lb n="27"/>nit also inder gefengknus verderb, er sein weyb  
+<lb n="28"/>unnd kynd an lyb unnd gut werd, darmit er seine  
+<lb n="29"/>kynd erziehen und hinbringen müge, und welle sich euer gnaden  
+<lb n="30"/>hierinne so gnedigklichen erzaigen, darmit sy solher  
+<lb n="31"/>unnser furbit genossen befunden, als unnss nit zweyffeld  
+<lb n="32"/>bescheht, daß begerren wir undertenigklichen umb euer gnaden mit  
+<lb n="33"/>aller underthenigkait mit hohem vleis unnd ernst zuvor   
+<lb n="34"/>dienen haben. Datum <placeName ref="lub-places-12">Blumenegg</placeName>, uff <origDate>mitwoch Katharine anno   
+<lb n="35"/>etc. xxvi</origDate>
+<lb n="36"/>Euer gnaden  
+<lb n="37"/>Undertenig gehorsamen 
+<lb n="38"/><persName ref="lub-actors-155">Casper Mamendorffer</persName>, vogt zu <placeName ref="lub-places-7">Vaduz</placeName> aman  
+<lb n="39"/>und grichslut der grossen gnos zu  
+<lb n="40"/><placeName ref="lub-places-12">Blumenegg</placeName>, aman und grichslut der  
+<lb n="41"/>neuwen gnoß zum <placeName ref="lub-places-158">Suntag</placeName> etc. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3571" n="1"/><lb n="1"/>Dem wolgebornen herren, herren  
+<lb n="2"/><persName ref="lub-actors-8">Ruedolffen grave zu Sulz</persName>, fürstlich gnaden  
+<lb n="3"/><persName ref="lub-actors-26">von Osterreich</persName> stathalter etc., unserm  
+<lb n="4"/>gnadigen herrn zu hannd. 
+</p>
+        <p><lb n="5"/>5. decembris anno  
+<lb n="6"/>26 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
