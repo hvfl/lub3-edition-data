@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1228">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab Gütern in Ruggell und Bangs</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1228">CH-BAC, 015.2725</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 1. Dezember 1547 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Felix Spalt von Ruggell und seine Frau Anna Wohlwend verkaufen einen Zins von 2 Gulden ab einem Gut im Lett im Ruggell sowie einer Wiese in Bangs an Jörg Feuerstein, Pfarrer zu Bendern, den Bevollmächtigten des Klosters St. Luzi in Chur.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-30">Verkauf</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2678">Spalt, Felix</persName>
+          <date when="1547-12-01">1. Dez 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2679">Wohlwend, Anna</persName>
+          <date when="1547-12-01">1. Dez 1547</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-817">Graf, Michael</persName>
+          <date when="1547-12-01">1. Dez 1547</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-450">Feuerstein, Georg</persName>
+          <date when="1547-12-01">1. Dez 1547</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2725-0001.jpg" xml:id="lub-media-3926" source="platzhalter-1.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3926" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2678">Felix Spaltt</persName> von <placeName ref="lub-places-2">Ragell</placeName>, unnd ich, <persName ref="lub-actors-2679">Anna Wolwein</persName>, sein eeliche haussfrow, bekhennen offennlich für uns, all unnser erben und nachkhumen unnd thun kunth aller
+<lb break="no" n="2"/>mennglich mit dißem brive, dz wir mit veraintem gütem willen wolbedacht, sonder mit hanndt des ersamen, weyssen <persName ref="lub-actors-817">Michaell Graen</persName> von <placeName ref="lub-places-30">Mauren</placeName>, der zeit der her
+<lb break="no" n="3"/>schafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName> aman, recht und redlich verkoufft unnd zü kouffen geben haben und geben ouch jetzo mit krafft diss brieffs dem wirdigen gaistlichen
+<lb n="4"/>hern <persName ref="lub-actors-450">Jergen Füirstain</persName>, der zeit pfarher zü <placeName ref="lub-places-36">Beenndern</placeName>, innammen und von wegen als verordneter und volnmechtiger gwalthaber des wirdigen gotzhauss zü <orgName ref="lub-actors-337">Sanct Luci</orgName>, 
+<lb n="5"/>ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <orgName ref="lub-actors-1191">Premonstrater</orgName> ordens, und allen der selbigen nachkhummen vermelts gotzhauss namlich zween guldin, jeden zü sechtzig kreytzer ge
+<lb break="no" n="6"/>rechnet, güter und genemer <placeName ref="lub-places-101">Costenntzer</placeName> mintzs <placeName ref="lub-places-10">Veldtkircher</placeName> werunnge rechts järlichs ewigs zeins unnd pfening geltzs von, ußer und abe unnsern aigenen stuckh
+<lb n="7"/>und güettern, des ersten ab ainem stuck güt, der <placeName ref="lub-places-959">Lett</placeName> genanth, in <placeName ref="lub-places-36">Bennderer</placeName> kilspell gelegen, stoßt zür ersten seiten an <persName ref="lub-actors-2463">Ülrich Strauben</persName> seligen erben güth, zur andren 
+<lb n="8"/>an <persName ref="lub-actors-221">Theys Wagners</persName> seligen erben güth, zür driten an <persName ref="lub-actors-613">Jack Büchels</persName> güth und zür vierten an die gass, idem mer zway mamath wisen in obbemeltem kilspell uff 
+<lb n="9"/><placeName ref="lub-places-445">Banckß</placeName> gelegen, ain seit an <persName ref="lub-actors-401">Jerg Prendlins</persName> seligen erben, zür andern an <orgName ref="lub-actors-337">Sanct Lucius</orgName> güth, zür dritten an <persName ref="lub-actors-2054">Ülrich Mayers</persName> erben und <persName ref="lub-actors-2675">Othmar Wolwenden</persName> güth, so 
+<lb n="10"/>mit ain ander in wechßell gondt, und an meiner gnedigen herrn, der <orgName ref="lub-actors-337">graven von Sultzs</orgName>, güth etc. und zür vierten seiten an <persName ref="lub-actors-2062">Jacob Albern</persName>, unnd alles ab grundt, gradt, wun, 
+<lb n="11"/>wayd, pomen, zweyg, stock, stein, gesteüdt, gereüdt, genngen, stegen und wegen und gemainlich ab allen andern iren rechten und zügehörden, benennten und unbenennten, unnd 
+<lb n="12"/>ouch baide stuck für ledig und lous und vormals gegen mennglichem unversetzt und unverkhümbert. Unnd ist der ewig, redlich kouff also bescheen und gethon worden 
+<lb n="13"/>umb viertzig guldin güter obgemelter mintzs und werunnge, deren wir von ime, unserm günstign herrn, innamen wie obsteth, erbärglich aussgericht und betzaltt 
+<lb n="14"/>worden seyent nach unserm völligen benüegen. Unnd darumb so sollen und wöllen wir, all unser erben und nachkhummen innhaber und besitzer  obbemelter underpfanndt 
+<lb n="15"/>den gemelten pfening zeins dem genanten köuffern und allen der selbigen nachkhummen vermelts gotzhauss <orgName ref="lub-actors-337">Sanct Luci</orgName>, innhabern diss brieffs, nun fürohin ewig
+<lb break="no" n="16"/>lich und järlich alle jar uf <date when="--11-11">sanct Martins tag</date>, achttag vor oder nach ungevarlich, tugentlich richten, zeinssen und zü irn sichern hannden und gwaltt antwurten und gebenn
+<lb n="17"/>für allermennglichs hefften, verpieten und entweren und genntzlich one allen iren costen und schaden. Wann, wie oder welches jars das aber also nit beschäche über kurtz 
+<lb n="18"/>oder lang zeit, so ist vermeltem gotzhauss <orgName ref="lub-actors-337">Sanct Luci</orgName> obbemelt ir underpfanndt, in iren bestimpten marcken begriffen, gantz zeins völlig worden unnd dann dannet
+<lb break="no" n="19"/>hin mit grundt, gradt und mit allen iren rechten und zügehörden zü rechtem ewigen aigen imer haimgefallen und verfallen, one uns, aller unser erben und nachkhumen und aller
+<lb break="no" n="20"/>mennglichs von unnsert wegen irrunng und widersprechen. Unnd hieruf diss ewigen, redlichen koufs umb zeins völligin und für all abgeng obbemelter underpfanndt, auch
+<lb n="21"/>zeins, houptgüth, schadens und aller obgemelten ding sellen und wöllen wir, all unser erben und nachkhummen dem obgenanten köuffern und allen der selbigen nachkhummen 
+<lb n="22"/>vermelts gotzshaus <orgName ref="lub-actors-337">Sanct Luci</orgName> recht, güth und getrui, krefftig wern, fürstanndt und versprecher sein vor dem richter und gericht, darunder obbemelte underpfanndt 
+<lb n="23"/>und zeins gelegen seyent, wie, wenn und gegen wem als offt und dick sie das nach dem rechten imer betürffen und notturfftig werden, allwegen in unnserm aignen 
+<lb n="24"/>costen, one iren schaden, bey güten getruien, one alle widerredt, ausszüg unnd geverdt. Unnd wie woll dißer brieff ainen ewigen kouff aussweyßt, 
+<lb n="25"/>so mügen doch wir, all unser erben und nachkhummen denn obgemelten zeins von dem genannten köuffer und allen der selbigen nachkhumen vermelts gotzhaus 
+<lb n="26"/><orgName ref="lub-actors-337">Sanct Luci</orgName> woll widerkouffen und ablößen, nun, fürohin ewiglich, wenn und welches jars wir über kurtz oder lanng zeit wöllenn, doch vor zeinsfall und all
+<lb break="no" n="27"/>wegen uf <date when="--11-11">sanct Martins tag</date>, achttag vor oder nach ungevarlich, samenthafft mit dem obgemelten houptgüth sampt allen verfallen, aussstennden zeinßen unnd
+<lb n="28"/>ouch mit sollicher mintzs und werschafft, daran sie nit verlust noch abganng habenn, ob sie die mintzs in der zeit verendern wurde, alles ungevarlich. Unnd 
+<lb n="29"/>des zü warem und offem urkundt so haben wir, obgenanthe verköuffere, baide mit fleys gepetten und erpetten denn vorgenannten aman, das er sein 
+<lb n="30"/>aigen innsigell, doch ime und seinen erben in allweg oneschaden, zügezuigcknuss der sach herunden offennlich ann dißen brieff gehennckt hat, der geben ist 
+<lb n="31"/>uff <origDate when="1547-12-01">dornstag nach sanct Andreas, des hailligen zwölffbotten, tag, als man von Christi, unnsers lieben herrn unnd seligmachers, gepurth zaltt 
+<lb n="32"/>funfftzechennhundert viertzig unnd sübenn jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-06-23 10:00:57 aus </p>
+        <p>Datenbankexport vom 2026-08-12 12:30:21 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-06-23T10:00:57+02:00">teiHeader was automatically produced from the database 2026-06-23T10:00:57+02:00</change>
+      <change when="2026-08-12T12:30:21+02:00">teiHeader was automatically produced from the database 2026-08-12T12:30:21+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -3117,6 +3117,17 @@
           <objectType xml:lang="en">Object</objectType>
           <label xml:lang="en" type="main">hofgut</label>
           <label xml:lang="en" type="sort">hofgut</label>
+        </item>
+        <item xml:id="lub-keywords-515">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">behemsch</label>
+          <label xml:lang="de" type="sort">behemsch</label>
+          <note type="description" xml:lang="de">
+            <p>Böhmischer Groschen (Münze).</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">behemsch</label>
+          <label xml:lang="en" type="sort">behemsch</label>
         </item>
         <item xml:id="lub-keywords-516">
           <objectType xml:lang="de">Sachschlagwort</objectType>

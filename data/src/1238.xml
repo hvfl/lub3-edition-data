@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1238">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Gut im Sasseler Feld</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1238">CH-BAC, 015.2900</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 1. Mai 1571 / Beschreibstoff: Pergament / Siegel: 1 Siegel, in Stoffsäcklein</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Lienhart Bleichner von Sassel (wohl in Gamprin) und seine Frau Anna Hirt verkaufen einen Zins von 13 Böhmischen ab ihrem Acker im Sasseler Feld an Jos Walch von Gamprin und dessen Frau Anna Fehr.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+          <term ref="lub-keywords-515">behemsch</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1697">Bleichner, Leonhard</persName>
+          <date when="1571-05-01">1. Mai 1571</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2757">Hirt, Anna</persName>
+          <date when="1571-05-01">1. Mai 1571</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-821">Knabenknecht, Hans (2)</persName>
+          <date when="1571-05-01">1. Mai 1571</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-818">Walch, Jos</persName>
+          <date when="1571-05-01">1. Mai 1571</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2758">Fehr, Anna (1)</persName>
+          <date when="1571-05-01">1. Mai 1571</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2900-0001.jpg" xml:id="lub-media-3958" source="platzhalter-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3958" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-1697">Liennhart Plaichner</persName> von <placeName ref="lub-places-983">Sasel</placeName>, unnd ich, <persName ref="lub-actors-2757">Anna Hiertnerin</persName>, sein eeliche hausfrow, bekhennen offennlich füer unns, all unnser erben unnd nachkhomen unnd thuen kundt allermenigclich mit dem 
+<lb n="2"/>brief, das wir mit veraintem guettem willen, wolbedachtem synn unnd mueth, zue furderung unnsers nutz, besonnder mit hannd des ersamen, weysen <persName ref="lub-actors-821">Hannsen Knabennkhnechts</persName>, der zeit aman 
+<lb n="3"/>der herrschafft <placeName ref="lub-places-11">Schellennperg</placeName> am <placeName ref="lub-places-16">Eschnerperg</placeName>, aufrecht unnd redlich verkhaufft unnd zuekhauffen gegeben haben unnd geben auch also hie mit wissenndtlich in crafft dis briefs dem ersamen 
+<lb n="4"/><persName ref="lub-actors-818">Jos Walchen</persName> von <placeName ref="lub-places-328">Gampperin</placeName> unnd <persName ref="lub-actors-2758">Anna Verin</persName>, seinem eelichen weib, allen iren erben unnd nachkhomen nemlich drey zechen <term ref="lub-keywords-515">behemisch</term>, yeden zu drey kreutzern gerechnet, rechts eewigs 
+<lb n="5"/>jerlichs zins unnd pfening geltz von, ausser unnd ab unnserm aignen ackher in <placeName ref="lub-places-984">Saseler Veld</placeName> gelegen, stost gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2171">Steffan Kindts</persName> erben guet, abwert dem lannd nach an <persName ref="lub-actors-2759">Caspar Haslers</persName> 
+<lb n="6"/>guet unnd <persName ref="lub-actors-2760">Steffan Wernners</persName> guet, gegen <placeName ref="lub-places-985">Maurerperg</placeName> an der keuffer guet unnd gegen <placeName ref="lub-places-36">Benndern</placeName> wert an <persName ref="lub-actors-1691">Dietterich Walchen</persName> guet, alles ab grund, grat, veld, wasen, wun, waid, 
+<lb n="7"/>stockh, stain, gesteudt, gereut, genngen, stegen unnd wegen unnd gemainlich mit allen anndern seinen rechten unnd zuegehörden, benembten unnd unbenembten, auch fuer ledig unnd gegen 
+<lb n="8"/>allermenigclich unverkhumbert. Unnd also ist der eewig, redlich kauf erganngen unnd beschechen benenntlichen umb drey zechen guldin reinisch in muntz, yeden zu funfftzechen 
+<lb n="9"/><placeName ref="lub-places-101">Costenntzer</placeName> patzen gerechnet, dero wir aller gar von inen, den keuffern, erberlich ausgericht unnd betzalt worden seind nach unnserm guetten willen unnd benuegen. Darumben 
+<lb n="10"/>sollen unnd wöllen wir, auch all unnser erben unnd nachkhomen oder wer das obgemelt unnderphanndt nach unns ymmer innennhat, nutzet unnd prauchet, gedachten zins, die drey zechen 
+<lb n="11"/><term ref="lub-keywords-515">behemisch</term>, vorgenannten keuffern, allen iren erben unnd nachkhomen nunhinenndthin ymmer eewigclich unnd ye jerlich alle jar auf <date when="--11-11">sanndt Marthins tag</date>, achttag vor oder nach ungevarlich, guet
+<lb break="no" n="12"/>lich ausrichten, zinsen unnd zu iren sichern hannden unnd gewalt, fuer alles verhefften, verpietten unnd enndtweren, genntzlichen one allen iren costen unnd schaden geben unnd anndtwurten.
+<lb n="13"/>Wann, wie oder weliches jars das aber also nit bescheche uber kurtz oder lanng zeit, so ist inen das obgemelt unnderphanndt, in seinen obgenannten marckhen begriffen, ganntz zins
+<lb break="no" n="14"/>fellig worden unnd dannennthin mit grund, grat unnd mit allen anndern seinen rechten, pesserungen unnd zuegehörden zu rechtem, eewigem aigen haimbgevallen unnd ver
+<lb break="no" n="15"/>fallen, on unnser, aller unnser erben unnd nachkhomen unnd allermenigclichs von unnsernt wegen irrung unnd widersprechen. Unnd hierauf dis eewigen, redlichen kaufs
+<lb n="16"/>umb zinsfelligi, auch füer all abgenng unnd minderung des obgenannten unnderphanndts, auch hauptguetz, zins unnd schadenns unnd aller obgenannter ding sollen unnd wöllen wir, auch 
+<lb n="17"/>all unnser erben unnd nachkhomen der genannten keuffer, aller irer erben unnd nachkhomen recht, guet unnd getrew, krefftig geweren, füerstanndt unnd versprecher gegen 
+<lb n="18"/>allermenigclich sein vor dem richter unnd gericht, darunnder das obgemelt unnderphanndt gelegen ist, nach recht, wa, wie, wenn oder gegen wem, als offt unnd dickh sy des nach dem 
+<lb n="19"/>rechten ymmer bedurffen oder notturfftig werden, alfart in unnserm aignen costen, on iren schaden, bei unnsern waren unnd guetten trewen, on alle widerred, auftzug unnd geverde. 
+<lb n="20"/>Unnd wiewoll der brief ainen eewigen kauf ausweyst, nichtdesterweniger mugen wir, auch all unnser erben unnd nachkhomen den gemelten zins, die drey zechen <term ref="lub-keywords-515">behemisch</term>, von inenn, 
+<lb n="21"/>den keuffern, allen iren erben unnd nachkhomen woll widerumben kauffen unnd ablösen nunhinenndthin, wann unnd weliches jars wir wellennd, uber kurtz oder lanng zeit, 
+<lb n="22"/>doch vor zinsfall unnd auf <date when="--11-11">sanndt Marthins tag</date>, achttag vor oder nach ungevarlich, samenndthafft mit dem obgeschribnen hauptguet, den drey zechen guldinen, unnd alwegen mit gevallnen, 
+<lb n="23"/>ausstenndigen zinsen, auch mit guetter muntz unnd weerschafft, daran sy kainen verlurst noch abganng haben, ob sich die yetzig muntz in der zeit verenndern wurde, alles unge
+<lb break="no" n="24"/>varlich. Unnd des zu warem urkhundt haben wir, obgemelte verkheuffere, mit vleys unnd ernnst erpetten den obgedachten aman <persName ref="lub-actors-821">Hannsen Knabennkhnecht</persName>, das der
+          <lb n="25"/>sein innsigel fuer unns unnd unnser erben (doch ime unnd seinen erben onschaden) offennlich an disen brief gehennckht hat, der geben ist <origDate when="1571-05-01">den ersten tag des monnats may 
+<lb n="26"/>im funfftzechenn hundert ain unnd sibenntzigisten jare</origDate>.  
+</p>
+        <p><lb n="27"/><supplied>Rückvermerk</supplied><lb n="28"/>Schuld-verschreibung 
+<lb n="29"/>gegen 
+<lb n="30"/><persName ref="lub-actors-818">Joß Walckhen</persName> von <placeName ref="lub-places-328">Gambrin</placeName> per 13 fl. 
+<lb n="31"/>von <persName ref="lub-actors-1697">Leonardt Blaichner</persName> von <placeName ref="lub-places-983">Sasel</placeName>. 
+<lb n="32"/>Underpffandt 
+<lb n="33"/>der <placeName ref="lub-places-986">Platten Ackher</placeName> in <placeName ref="lub-places-147">Saseler Veldt</placeName> gelegen. 
+<lb n="34"/>Anno <date>1571</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

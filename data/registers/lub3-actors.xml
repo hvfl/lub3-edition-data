@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-06-23 10:00:52 aus </p>
+        <p>Datenbankexport vom 2026-08-12 12:30:10 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -511,7 +511,7 @@
             </note>
           </person>
           <person xml:id="lub-actors-24">
-            <persName type="full" xml:lang="de">Kreder, Juvenal (1552–1583)</persName>
+            <persName type="full" xml:lang="de">Kreder, Juvenal (1552–1581)</persName>
             <persName type="main" xml:lang="de">Kreder, Juvenal</persName>
             <persName type="sort" xml:lang="de">kreder, juvenal</persName>
             <persName type="alternative" xml:lang="de">Kreder, Juvenalis</persName>
@@ -519,9 +519,9 @@
             <persName type="alternative" xml:lang="de">Kreder, Juvynaliß</persName>
             <persName type="alternative" xml:lang="de">Kreder, Jüvenalis</persName>
             <birth when="1552"/>
-            <death when="1583"/>
+            <death when="1581-11-03"/>
             <note type="description" xml:lang="de">
-              <p>Lebensdaten: † vor 1583-11-03.</p>
+              <p>Lebensdaten: † vor 1583-11-03 (eher vor 1581 - siehe LI-LA, RA 73/19)</p>
               <list type="unordered">
                 <item>1552–1578 Landvogt in Vaduz.</item>
               </list>
@@ -1250,12 +1250,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-70">
-            <persName type="full" xml:lang="de">Hasler, Fabian (1604–)</persName>
+            <persName type="full" xml:lang="de">Hasler, Fabian (1604–1607)</persName>
             <persName type="main" xml:lang="de">Hasler, Fabian</persName>
             <persName type="sort" xml:lang="de">hasler, fabian</persName>
             <birth when="1604-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer eines Guts im Erler (Eschen). Kirchenmeier der Kirche Bendern.</p>
+              <p>Besitzer von Gütern in Eschen. Kirchenmeier der Kirche Bendern.</p>
             </note>
           </person>
           <person xml:id="lub-actors-71">
@@ -1395,13 +1396,19 @@
             </note>
           </person>
           <person xml:id="lub-actors-93">
-            <persName type="full" xml:lang="de">Bollweiler, Nikolaus von (1552–)</persName>
+            <persName type="full" xml:lang="de">Bollweiler, Nikolaus von (1552–1563)</persName>
             <persName type="main" xml:lang="de">Bollweiler, Nikolaus von</persName>
             <persName type="sort" xml:lang="de">bollweiler, nikolaus von</persName>
             <persName type="alternative" xml:lang="de">Pollweiler, Niklas von</persName>
+            <persName type="alternative" xml:lang="de">Pollweiler, Niclasen freyherrn zu</persName>
             <birth when="1552-10-03"/>
+            <death when="1563-05-28"/>
             <note type="description" xml:lang="de">
-              <p>Kaiserlicher Rat und Hauptmann von Konstanz.</p>
+              <p>Lebensdaten: ca. 1520 bis 1588</p>
+              <list type="unordered">
+                <item>kais. Rat und Hauptmann von Konstanz.</item>
+                <item>Unterlandvogt im Elsass</item>
+              </list>
             </note>
           </person>
           <person xml:id="lub-actors-94">
@@ -2195,6 +2202,7 @@
             <persName type="alternative" xml:lang="de">Öry</persName>
             <persName type="alternative" xml:lang="de">Öhri, Hanß</persName>
             <persName type="alternative" xml:lang="de">Ori, Hans</persName>
+            <persName type="alternative" xml:lang="de">Orni, Hanns</persName>
             <birth when="1579-08-17"/>
             <death when="1592"/>
             <note type="description" xml:lang="de">
@@ -3866,11 +3874,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-284">
-            <persName type="full" xml:lang="de">Senn, Luzius (1573–1589)</persName>
+            <persName type="full" xml:lang="de">Senn, Luzius (1556–1589)</persName>
             <persName type="main" xml:lang="de">Senn, Luzius</persName>
             <persName type="sort" xml:lang="de">senn, luzius</persName>
             <persName type="alternative" xml:lang="de">Senn, Lutze</persName>
-            <birth when="1573-06-10"/>
+            <persName type="alternative" xml:lang="de">Sen, Luzi</persName>
+            <birth when="1556-04-06"/>
             <death when="1589-10-07"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Dorfgeschworener. Ehemann von <ref target="1873">Greta Gantenbein</ref>.</p>
@@ -4035,6 +4044,7 @@
             <persName type="alternative" xml:lang="de">Frumoltz, Stäffan</persName>
             <persName type="alternative" xml:lang="de">Frumoldts, Steffan</persName>
             <persName type="alternative" xml:lang="de">Frumeldt, Steffan</persName>
+            <persName type="alternative" xml:lang="de">Frombolt, Steffan</persName>
             <birth when="1500"/>
             <death when="1560"/>
             <note type="description" xml:lang="de">
@@ -4428,12 +4438,12 @@
             </note>
           </person>
           <person xml:id="lub-actors-319">
-            <persName type="full" xml:lang="de">Rig, Crispin (1573–1601)</persName>
+            <persName type="full" xml:lang="de">Rig, Crispin (1556–1601)</persName>
             <persName type="main" xml:lang="de">Rig, Crispin</persName>
             <persName type="sort" xml:lang="de">rig, crispin</persName>
             <persName type="alternative" xml:lang="de">Rigg, Crispin</persName>
             <persName type="alternative" xml:lang="de">Reig, Crispinus</persName>
-            <birth when="1573-06-10"/>
+            <birth when="1556-04-06"/>
             <death when="1601"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Dorfgeschworener.</p>
@@ -4453,11 +4463,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-321">
-            <persName type="full" xml:lang="de">Kindle, Lienhart (2) (1573–1584)</persName>
+            <persName type="full" xml:lang="de">Kindle, Lienhart (2) (1556–1584)</persName>
             <persName type="main" xml:lang="de">Kindle, Lienhart (2)</persName>
             <persName type="sort" xml:lang="de">kindle, lienhart (2)</persName>
             <persName type="alternative" xml:lang="de">Kindli, Leonnhart</persName>
-            <birth when="1573-06-10"/>
+            <persName type="alternative" xml:lang="de">Khindli, Leonhardt</persName>
+            <persName type="alternative" xml:lang="de">Khindli, Lienhardt</persName>
+            <birth when="1556-04-06"/>
             <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Dorfgeschworener.</p>
@@ -5055,12 +5067,13 @@
             </note>
           </person>
           <person xml:id="lub-actors-360">
-            <persName type="full" xml:lang="de">Kindli, Kaspar (1509–1542)</persName>
+            <persName type="full" xml:lang="de">Kindli, Kaspar (1509–1556)</persName>
             <persName type="main" xml:lang="de">Kindli, Kaspar</persName>
             <persName type="sort" xml:lang="de">kindli, kaspar</persName>
             <persName type="alternative" xml:lang="de">Kindle</persName>
+            <persName type="alternative" xml:lang="de">Khindli, Caspar</persName>
             <birth when="1509"/>
-            <death when="1542"/>
+            <death when="1556-04-06"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Zwischen 1535 und 1542 belegt als Landammann der Grafschaft Vaduz.</p>
             </note>
@@ -6822,14 +6835,14 @@
             <birth when="1550-01-25"/>
           </person>
           <person xml:id="lub-actors-538">
-            <persName type="full" xml:lang="de">Lifer, Lienhart (1538–1552)</persName>
+            <persName type="full" xml:lang="de">Lifer, Lienhart (1538–1556)</persName>
             <persName type="main" xml:lang="de">Lifer, Lienhart</persName>
             <persName type="sort" xml:lang="de">lifer, lienhart</persName>
             <persName type="alternative" xml:lang="de">Liffrer, Lienhart</persName>
             <persName type="alternative" xml:lang="de">Lyffer, Liennhart</persName>
             <persName type="alternative" xml:lang="de">Lifer, Leonhardt</persName>
             <birth when="1538-02-22"/>
-            <death when="1552-11-14"/>
+            <death when="1556-04-06"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen, dort Inhaber eines herrschaftlichen Lehens. Verheiratet mit <ref target="539">Margaretha Gantner/Gantenbein</ref>. Bruder von <ref target="998">Jacob</ref>.</p>
             </note>
@@ -8851,14 +8864,14 @@
               <p>Wohnhaft in Triesenberg.</p>
             </note>
           </person><person xml:id="lub-actors-756">
-            <persName type="full" xml:lang="de">Strub, Hans (4) (1572–1604)</persName>
+            <persName type="full" xml:lang="de">Strub, Hans (4) (1572–1607)</persName>
             <persName type="main" xml:lang="de">Strub, Hans (4)</persName>
             <persName type="sort" xml:lang="de">strub, hans (4)</persName>
             <persName type="alternative" xml:lang="de">Strauben, Hannß</persName>
             <birth when="1572-11-10"/>
-            <death when="1604-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen (Mösma oder Schönabüel).</p>
+              <p>Wohnhaft in Eschen (Mösma oder Schönabüel). Inhaber von Lehen des Klosters St. Luzi.</p>
             </note>
           </person><person xml:id="lub-actors-757">
             <persName type="full" xml:lang="de">Ruedi, Matthias (2) (1565–1584)</persName>
@@ -9072,13 +9085,13 @@
               </list>
             </note>
           </person><person xml:id="lub-actors-782">
-            <persName type="full" xml:lang="de">Gassner, Christian (1604–1613)</persName>
-            <persName type="main" xml:lang="de">Gassner, Christian</persName>
-            <persName type="sort" xml:lang="de">gassner, christian</persName>
+            <persName type="full" xml:lang="de">Gassner, Christian (5) (1604–1613)</persName>
+            <persName type="main" xml:lang="de">Gassner, Christian (5)</persName>
+            <persName type="sort" xml:lang="de">gassner, christian (5)</persName>
             <birth when="1604-03-07"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Rotaboda (Triesenberg). Ehemann von Katharina Frommelt.</p>
+              <p>Wohnhaft in Rotaboda (Triesenberg).</p>
             </note>
           </person><person xml:id="lub-actors-783">
             <persName type="full" xml:lang="de">Hemmerle, Jos (1582–1584)</persName>
@@ -9567,19 +9580,21 @@
               <p>Wohnhaft in Ruggell. Dort Ausgezogener.</p>
             </note>
           </person><person xml:id="lub-actors-832">
-            <persName type="full" xml:lang="de">Singer, Georg (1606–)</persName>
+            <persName type="full" xml:lang="de">Singer, Georg (1606–1606)</persName>
             <persName type="main" xml:lang="de">Singer, Georg</persName>
             <persName type="sort" xml:lang="de">singer, georg</persName>
             <persName type="alternative" xml:lang="de">Signer, Georg</persName>
             <birth when="1606-02-04"/>
+            <death when="1606-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Verheiratet mit <ref target="833">Ursula Bläsi</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-833">
-            <persName type="full" xml:lang="de">Bläsi, Ursula (1606–)</persName>
+            <persName type="full" xml:lang="de">Bläsi, Ursula (1606–1606)</persName>
             <persName type="main" xml:lang="de">Bläsi, Ursula</persName>
             <persName type="sort" xml:lang="de">blaesi, ursula</persName>
             <birth when="1606-02-04"/>
+            <death when="1606-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Verheiratet mit <ref target="832">Georg Signer</ref>.</p>
             </note>
@@ -10358,12 +10373,12 @@
               <p>Gutsbesitzer in Ruggell.</p>
             </note>
           </person><person xml:id="lub-actors-932">
-            <persName type="full" xml:lang="de">Büchel, Hans (1547–1594)</persName>
+            <persName type="full" xml:lang="de">Büchel, Hans (1547–1604)</persName>
             <persName type="main" xml:lang="de">Büchel, Hans</persName>
             <persName type="sort" xml:lang="de">buechel, hans</persName>
             <persName type="alternative" xml:lang="de">Büchl, Hannß</persName>
             <birth when="1547-05-23"/>
-            <death when="1594"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Ruggell. Bruder von <ref target="613">Jakob Büchel</ref>.</p>
             </note>
@@ -10493,14 +10508,15 @@
               <p>Kaiserlicher Rat und Freilandrichter in Ober- und Niederschwaben auf der Leutkircher Heide.</p>
             </note>
           </person><person xml:id="lub-actors-948">
-            <persName type="full" xml:lang="de">Pauli, Raphael (1604–)</persName>
+            <persName type="full" xml:lang="de">Pauli, Raphael (1604–1607)</persName>
             <persName type="main" xml:lang="de">Pauli, Raphael</persName>
             <persName type="sort" xml:lang="de">pauli, raphael</persName>
             <persName type="alternative" xml:lang="de">Pauln, Raphael</persName>
             <persName type="alternative" xml:lang="de">Paulin, Raffael</persName>
             <birth when="1604"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Inhaber von Lehen des Klosters St. Luzi.</p>
+              <p>Wohnhaft in Schönabüel (Eschen). Verheiratet mit <ref target="2853">Anna Mündle</ref>. Inhaber von Lehen des Klosters St. Luzi.</p>
             </note>
           </person><person xml:id="lub-actors-949">
             <persName type="full" xml:lang="de">Mündle, Andreas (2) (1604–)</persName>
@@ -10639,16 +10655,16 @@
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person><person xml:id="lub-actors-965">
-            <persName type="full" xml:lang="de">Thöni, Hans (5) (1572–1604)</persName>
+            <persName type="full" xml:lang="de">Thöni, Hans (5) (1572–1607)</persName>
             <persName type="main" xml:lang="de">Thöni, Hans (5)</persName>
             <persName type="sort" xml:lang="de">thoeni, hans (5)</persName>
             <persName type="alternative" xml:lang="de">Töhnie, Hannß</persName>
             <persName type="alternative" xml:lang="de">Thöni, Hannß</persName>
             <persName type="alternative" xml:lang="de">Thönny, Hannß</persName>
             <birth when="1572-11-10"/>
-            <death when="1604"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Vogt der Ehefrau von <ref target="964">Lutz Brendle</ref> aus Eschen.</p>
+              <p>Wohnhaft in Schönabüel (Eschen). Verheiratet mit <ref target="2816">Anna Fehr</ref>. Inhaber von umfangreichen Lehen des Klosters St. Luzi. Vogt der Ehefrau von <ref target="964">Luzius Brendle</ref> aus Eschen.</p>
             </note>
           </person><person xml:id="lub-actors-968">
             <persName type="full" xml:lang="de">Holzhalb, Hans Heinrich (1564–1637)</persName>
@@ -11320,14 +11336,15 @@
               <p>Wohnhaft in Triesen, dort Gutsbesitz.</p>
             </note>
           </person><person xml:id="lub-actors-1025">
-            <persName type="full" xml:lang="de">Nigg, Florian (1584–1610)</persName>
+            <persName type="full" xml:lang="de">Nigg, Florian (1556–1610)</persName>
             <persName type="main" xml:lang="de">Nigg, Florian</persName>
             <persName type="sort" xml:lang="de">nigg, florian</persName>
             <persName type="alternative" xml:lang="de">Niggen, Flurin</persName>
             <persName type="alternative" xml:lang="de">Nigg, Fridle</persName>
             <persName type="alternative" xml:lang="de">Nigg, Fluri</persName>
             <persName type="alternative" xml:lang="de">Niggen, Florin</persName>
-            <birth when="1584-11-13"/>
+            <persName type="alternative" xml:lang="de">Nigkh, Fluri</persName>
+            <birth when="1556-04-06"/>
             <death when="1610"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen und Grundbesitzer.</p>
@@ -11568,29 +11585,33 @@
               <p>Besitzerin eines Guts in Triesen.</p>
             </note>
           </person><person xml:id="lub-actors-1051">
-            <persName type="full" xml:lang="de">Kindle, Katharina (1561–1584)</persName>
+            <persName type="full" xml:lang="de">Kindle, Katharina (1556–1584)</persName>
             <persName type="main" xml:lang="de">Kindle, Katharina</persName>
             <persName type="sort" xml:lang="de">kindle, katharina</persName>
             <persName type="alternative" xml:lang="de">Khindli, Drina</persName>
             <persName type="alternative" xml:lang="de">Kündlin, Trina Nolerin</persName>
-            <birth when="1561-11-11"/>
+            <persName type="alternative" xml:lang="de">Khindli, Katherina Noweli</persName>
+            <birth when="1556-04-06"/>
             <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen und Besitzerin eines Guts.</p>
             </note>
           </person><person xml:id="lub-actors-1052">
-            <persName type="full" xml:lang="de">Müller, Jakob (1561–)</persName>
+            <persName type="full" xml:lang="de">Müller, Jakob (1556–1561)</persName>
             <persName type="main" xml:lang="de">Müller, Jakob</persName>
             <persName type="sort" xml:lang="de">mueller, jakob</persName>
-            <birth when="1561-11-11"/>
+            <persName type="alternative" xml:lang="de">Müller, Jacob</persName>
+            <birth when="1556-04-06"/>
+            <death when="1561-11-11"/>
             <note type="description" xml:lang="de">
               <p>Besitzer eines Guts in Triesen.</p>
             </note>
           </person><person xml:id="lub-actors-1053">
-            <persName type="full" xml:lang="de">Besserer, N. (1561–)</persName>
+            <persName type="full" xml:lang="de">Besserer, N. (1556–1561)</persName>
             <persName type="main" xml:lang="de">Besserer, N.</persName>
             <persName type="sort" xml:lang="de">besserer, n.</persName>
-            <birth when="1561-11-11"/>
+            <birth when="1556-04-06"/>
+            <death when="1561-11-11"/>
             <note type="description" xml:lang="de">
               <p>Besitzer eines als Lehen verliehenen Guts in Triesen.</p>
             </note>
@@ -11967,7 +11988,7 @@
             <birth when="1572-11-10"/>
             <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Schönabüel (Eschen). Mit <ref target="823">Hans Wanger</ref> und später <ref target="2804">Sebastian Wanger</ref> Inhaber von umfangreichen Lehen des Klosters St. Luzi in den Pfarreien Eschen und Bendern.</p>
+              <p>Wohnhaft in Schönabüel/Mösma (Eschen). Mit <ref target="823">Hans Wanger</ref> und später <ref target="2804">Sebastian Wanger</ref> Inhaber von umfangreichen Lehen des Klosters St. Luzi in den Pfarreien Eschen und Bendern.</p>
             </note>
           </person><person xml:id="lub-actors-1088">
             <persName type="full" xml:lang="de">Marxer, Ulrich (3) (1582–1584)</persName>
@@ -12117,7 +12138,7 @@
               <p>Wohnhaft in Eschen. Schmied.</p>
             </note>
           </person><person xml:id="lub-actors-1105">
-            <persName type="full" xml:lang="de">Allgäuer, Jakob (1579–1604)</persName>
+            <persName type="full" xml:lang="de">Allgäuer, Jakob (1579–1607)</persName>
             <persName type="main" xml:lang="de">Allgäuer, Jakob</persName>
             <persName type="sort" xml:lang="de">allgaeuer, jakob</persName>
             <persName type="alternative" xml:lang="de">Algöwe, Jacob</persName>
@@ -12126,7 +12147,7 @@
             <persName type="alternative" xml:lang="de">Algeuwer, Jacob</persName>
             <persName type="alternative" xml:lang="de">Algeüer, Jacob</persName>
             <birth when="1579-08-17"/>
-            <death when="1604-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -12376,7 +12397,7 @@
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person><person xml:id="lub-actors-1131">
-            <persName type="full" xml:lang="de">Koch, Gallus (1579–1584)</persName>
+            <persName type="full" xml:lang="de">Koch, Gallus (1579–1604)</persName>
             <persName type="main" xml:lang="de">Koch, Gallus</persName>
             <persName type="sort" xml:lang="de">koch, gallus</persName>
             <persName type="alternative" xml:lang="de">Koch</persName>
@@ -12385,7 +12406,7 @@
             <persName type="alternative" xml:lang="de">Koch, Gälly</persName>
             <persName type="alternative" xml:lang="de">Koch, Gally</persName>
             <birth when="1579-08-17"/>
-            <death when="1584-11-13"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -12831,13 +12852,13 @@
               </bibl>
             </listBibl>
           </person><person xml:id="lub-actors-1174">
-            <persName type="full" xml:lang="de">Nigg, Fridolin (1584–1601)</persName>
+            <persName type="full" xml:lang="de">Nigg, Fridolin (1556–1601)</persName>
             <persName type="main" xml:lang="de">Nigg, Fridolin</persName>
             <persName type="sort" xml:lang="de">nigg, fridolin</persName>
             <persName type="alternative" xml:lang="de">Niegkh, Fridli</persName>
             <persName type="alternative" xml:lang="de">Nigg, Fridli</persName>
             <persName type="alternative" xml:lang="de">Nickh, Fridli</persName>
-            <birth when="1584-11-13"/>
+            <birth when="1556-04-06"/>
             <death when="1601"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Um 1600 zusammen mit <ref target="1056">Ulrich Rig</ref> Inhaber des Kapellenguts in Triesen.</p>
@@ -13134,13 +13155,13 @@
               </list>
             </note>
           </person><person xml:id="lub-actors-1201">
-            <persName type="full" xml:lang="de">Walch, Gabriel (1586–1604)</persName>
+            <persName type="full" xml:lang="de">Walch, Gabriel (1586–1607)</persName>
             <persName type="main" xml:lang="de">Walch, Gabriel</persName>
             <persName type="sort" xml:lang="de">walch, gabriel</persName>
             <birth when="1586-06-20"/>
-            <death when="1604-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Verheiratet mit <ref target="2750">Emerita Huttler</ref>. Gerichtsmann. Inhaber von umfangreichen Lehen des Klosters St. Luzi am Eschnerberg.</p>
+              <p>Wohnhaft in Rofaberg (Eschen). Verheiratet mit <ref target="2750">Emerita Huttler</ref>. Gerichtsmann. Inhaber von umfangreichen Lehen des Klosters St. Luzi am Eschnerberg.</p>
             </note>
           </person><person xml:id="lub-actors-1202">
             <persName type="full" xml:lang="de">Kieber, Michael (1582–1603)</persName>
@@ -14132,10 +14153,11 @@
               <p>Wohnhaft in Balzers.</p>
             </note>
           </person><person xml:id="lub-actors-1304">
-            <persName type="full" xml:lang="de">Wagenbach, N. (1601–)</persName>
+            <persName type="full" xml:lang="de">Wagenbach, N. (1595–1601)</persName>
             <persName type="main" xml:lang="de">Wagenbach, N.</persName>
             <persName type="sort" xml:lang="de">wagenbach, n.</persName>
-            <birth when="1601"/>
+            <birth when="1595-04-01"/>
+            <death when="1601"/>
             <note type="description" xml:lang="de">
               <p>Inhaber eines Lehens in Triesen.</p>
             </note>
@@ -14200,13 +14222,13 @@
               <p>Wohnhaft in Balzers.</p>
             </note>
           </person><person xml:id="lub-actors-1312">
-            <persName type="full" xml:lang="de">Konrad, Georg (2) (1584–1604)</persName>
+            <persName type="full" xml:lang="de">Konrad, Georg (2) (1584–1607)</persName>
             <persName type="main" xml:lang="de">Konrad, Georg (2)</persName>
             <persName type="sort" xml:lang="de">konrad, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Conradt, Geörg</persName>
             <persName type="alternative" xml:lang="de">Conradt, Giorg</persName>
             <birth when="1584-11-13"/>
-            <death when="1604-03-07"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -14367,14 +14389,14 @@
               <p>Ammann in Sonntag und Raggal.</p>
             </note>
           </person><person xml:id="lub-actors-1331">
-            <persName type="full" xml:lang="de">Schurti, Luzius (1569–1613)</persName>
+            <persName type="full" xml:lang="de">Schurti, Luzius (1556–1613)</persName>
             <persName type="main" xml:lang="de">Schurti, Luzius</persName>
             <persName type="sort" xml:lang="de">schurti, luzius</persName>
             <persName type="alternative" xml:lang="de">Schurttis, Luzi</persName>
             <persName type="alternative" xml:lang="de">Schurti, Lutzi</persName>
             <persName type="alternative" xml:lang="de">Schurte, Lutzi</persName>
             <persName type="alternative" xml:lang="de">Schurthi, Lucius</persName>
-            <birth when="1569-09-27"/>
+            <birth when="1556-04-06"/>
             <death when="1613"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen.</p>
@@ -15332,11 +15354,12 @@
               <p>Wohnhaft in Schaan. Ehefrau von <ref target="1432">Marx Ludescher</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-1434">
-            <persName type="full" xml:lang="de">Mader, Heinrich (2) (1604–)</persName>
+            <persName type="full" xml:lang="de">Mader, Heinrich (2) (1604–1607)</persName>
             <persName type="main" xml:lang="de">Mader, Heinrich (2)</persName>
             <persName type="sort" xml:lang="de">mader, heinrich (2)</persName>
             <persName type="alternative" xml:lang="de">Mader, Hainrich</persName>
             <birth when="1604-03-07"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Schaan.</p>
             </note>
@@ -15672,6 +15695,9 @@
             <persName type="sort" xml:lang="de">quaderer, johannes (2)</persName>
             <persName type="alternative" xml:lang="de">Quaderer, Johan</persName>
             <birth when="1590"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Vaduz.</p>
+            </note>
           </person><person xml:id="lub-actors-1472">
             <persName type="full" xml:lang="de">Quaderer, Margaretha (1604–)</persName>
             <persName type="main" xml:lang="de">Quaderer, Margaretha</persName>
@@ -17242,11 +17268,13 @@
               </list>
             </note>
           </person><person xml:id="lub-actors-1644">
-            <persName type="full" xml:lang="de">Bertsch, Fabian (1547–)</persName>
+            <persName type="full" xml:lang="de">Bertsch, Fabian (1547–1556)</persName>
             <persName type="main" xml:lang="de">Bertsch, Fabian</persName>
             <persName type="sort" xml:lang="de">bertsch, fabian</persName>
             <persName type="alternative" xml:lang="de">Pertsch, Fabian</persName>
+            <persName type="alternative" xml:lang="de">Perdtsch, Fabian</persName>
             <birth when="1547"/>
+            <death when="1556-04-06"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen. Ehemann von <ref target="1645">Elsa Bürkli</ref>.</p>
             </note>
@@ -17552,16 +17580,16 @@
               <p>Wohnhaft in Bendern.</p>
             </note>
           </person><person xml:id="lub-actors-1673">
-            <persName type="full" xml:lang="de">Öhri, Balthasar (2) (1593–1604)</persName>
+            <persName type="full" xml:lang="de">Öhri, Balthasar (2) (1593–1607)</persName>
             <persName type="main" xml:lang="de">Öhri, Balthasar (2)</persName>
             <persName type="sort" xml:lang="de">oehri, balthasar (2)</persName>
             <persName type="alternative" xml:lang="de">Öri, Baltasar</persName>
             <persName type="alternative" xml:lang="de">Öri, Ballas</persName>
             <persName type="alternative" xml:lang="de">Öhry, Balthas</persName>
             <birth when="1593-11-11"/>
-            <death when="1604-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Sohn von Landammann <ref target="165">Hans Öhri</ref>. Bruder von <ref target="1674">Lena</ref>, <ref target="1675">Martha</ref>, <ref target="2190">Andreas</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>.</p>
+              <p>Wohnhaft in Eschen (Rofaberg). Verheiratet mit <ref target="2832">Ursula Schiffer</ref>. Sohn von Landammann <ref target="165">Hans Öhri</ref>. Bruder von <ref target="1674">Lena</ref>, <ref target="1675">Martha</ref>, <ref target="2190">Andreas</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>. Inhaber von umfangreichen Lehen des Klosters St. Luzi.</p>
             </note>
           </person><person xml:id="lub-actors-1674">
             <persName type="full" xml:lang="de">Öhri, Lena (1593–)</persName>
@@ -17595,7 +17623,7 @@
               </list>
             </note>
           </person><person xml:id="lub-actors-1677">
-            <persName type="full" xml:lang="de">Wanger, Peter (2) (1572–1604)</persName>
+            <persName type="full" xml:lang="de">Wanger, Peter (2) (1572–1607)</persName>
             <persName type="main" xml:lang="de">Wanger, Peter (2)</persName>
             <persName type="sort" xml:lang="de">wanger, peter (2)</persName>
             <persName type="alternative" xml:lang="de">Wagner, Peter</persName>
@@ -17603,23 +17631,24 @@
             <persName type="alternative" xml:lang="de">Wagner, Petter</persName>
             <persName type="alternative" xml:lang="de">Wanngner, Petter</persName>
             <birth when="1572-11-10"/>
-            <death when="1604-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen. Verwandt mit <ref target="2216">Ulrich</ref> und <ref target="2217">Magdalena Wanger</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-1678">
-            <persName type="full" xml:lang="de">Hasler, Georg (2) (1606–)</persName>
+            <persName type="full" xml:lang="de">Hasler, Georg (2) (1604–1606)</persName>
             <persName type="main" xml:lang="de">Hasler, Georg (2)</persName>
             <persName type="sort" xml:lang="de">hasler, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Haßler, Georg</persName>
-            <birth when="1606-02-04"/>
+            <birth when="1604-11-11"/>
+            <death when="1606-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Gamprin.</p>
             </note>
           </person><person xml:id="lub-actors-1679">
-            <persName type="full" xml:lang="de">Mader, Peter (1606–)</persName>
-            <persName type="main" xml:lang="de">Mader, Peter</persName>
-            <persName type="sort" xml:lang="de">mader, peter</persName>
+            <persName type="full" xml:lang="de">Mader, Peter (2) (1606–)</persName>
+            <persName type="main" xml:lang="de">Mader, Peter (2)</persName>
+            <persName type="sort" xml:lang="de">mader, peter (2)</persName>
             <persName type="alternative" xml:lang="de">Mader, Petter</persName>
             <birth when="1606-02-04"/>
             <note type="description" xml:lang="de">
@@ -17689,13 +17718,13 @@
               <p>Wohnhaft in Bendern. Besitzer eines Guts im Gampriner Feld. Bruder von <ref target="2638">Jos Singer</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-1687">
-            <persName type="full" xml:lang="de">Knabenknecht, Georg (2) (1582–1584)</persName>
+            <persName type="full" xml:lang="de">Knabenknecht, Georg (2) (1582–1604)</persName>
             <persName type="main" xml:lang="de">Knabenknecht, Georg (2)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, georg (2)</persName>
             <persName type="alternative" xml:lang="de">Knabenkhnecht, Georg</persName>
             <persName type="alternative" xml:lang="de">Knabenkhnecht, Jeorg</persName>
             <birth when="1582-07-06"/>
-            <death when="1584-11-13"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Verheiratet mit <ref target="2725">Margarethe Glarner</ref>.</p>
             </note>
@@ -17840,10 +17869,11 @@
             <persName type="alternative" xml:lang="de">Mösner, Joß</persName>
             <persName type="alternative" xml:lang="de">Müßner, Joß</persName>
             <persName type="alternative" xml:lang="de">Misner, Jos</persName>
+            <persName type="alternative" xml:lang="de">Mößner, Jobst</persName>
             <birth when="1582-07-06"/>
             <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wohnhaft in Bendern. Besitzer von Gütern auf Platz (Eschen) und im Tal (Ruggell).</p>
+              <p>Wohnhaft in Bendern. Verheiratet mit <ref target="2848">Magdalena Jäger</ref>. Besitzer von Gütern auf Platz (Eschen) und im Tal (Ruggell), Inhaber von Lehen des Klosters St. Luzi.</p>
             </note>
           </person><person xml:id="lub-actors-1705">
             <persName type="full" xml:lang="de">Kaufmann, Sebastian (1582–1584)</persName>
@@ -19435,11 +19465,12 @@
               <p>Wohnhaft in Triesen. Ehefrau von <ref target="284">Luzius Senn</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-1874">
-            <persName type="full" xml:lang="de">Kindle, Oswald (1584–)</persName>
+            <persName type="full" xml:lang="de">Kindle, Oswald (1556–1584)</persName>
             <persName type="main" xml:lang="de">Kindle, Oswald</persName>
             <persName type="sort" xml:lang="de">kindle, oswald</persName>
             <persName type="alternative" xml:lang="de">Kinndli, Oschwalt</persName>
-            <birth when="1584-11-13"/>
+            <birth when="1556-04-06"/>
+            <death when="1584-11-03"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen.</p>
             </note>
@@ -19637,11 +19668,13 @@
               <p>Wohnhaft in Triesen. Bruder von <ref target="1893">Franz Gassner</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-1895">
-            <persName type="full" xml:lang="de">Banzer, Roni (1584–)</persName>
-            <persName type="main" xml:lang="de">Banzer, Roni</persName>
-            <persName type="sort" xml:lang="de">banzer, roni</persName>
+            <persName type="full" xml:lang="de">Banzer, Hieronimus (1556–1584)</persName>
+            <persName type="main" xml:lang="de">Banzer, Hieronimus</persName>
+            <persName type="sort" xml:lang="de">banzer, hieronimus</persName>
             <persName type="alternative" xml:lang="de">Bannzer, Roni</persName>
-            <birth when="1584-11-13"/>
+            <persName type="alternative" xml:lang="de">Banzer, Roni</persName>
+            <birth when="1556-04-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Lebensdaten: † vor dem 13.11.1584.</p>
               <list type="unordered">
@@ -19775,11 +19808,13 @@
               <p>Wohnhaft in Triesen.</p>
             </note>
           </person><person xml:id="lub-actors-1910">
-            <persName type="full" xml:lang="de">Nigg, Hans (1) (1584–)</persName>
+            <persName type="full" xml:lang="de">Nigg, Hans (1) (1556–1584)</persName>
             <persName type="main" xml:lang="de">Nigg, Hans (1)</persName>
             <persName type="sort" xml:lang="de">nigg, hans (1)</persName>
             <persName type="alternative" xml:lang="de">Nigg, Hannß</persName>
-            <birth when="1584-11-13"/>
+            <persName type="alternative" xml:lang="de">NIgg, Hanns</persName>
+            <birth when="1556-04-06"/>
+            <death when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Triesen.</p>
             </note>
@@ -20163,10 +20198,12 @@
               <p>Wohnhaft in Triesenberg.</p>
             </note>
           </person><person xml:id="lub-actors-1949">
-            <persName type="full" xml:lang="de">Martin, Hans (2) (1536–)</persName>
+            <persName type="full" xml:lang="de">Martin, Hans (2) (1536–1556)</persName>
             <persName type="main" xml:lang="de">Martin, Hans (2)</persName>
             <persName type="sort" xml:lang="de">martin, hans (2)</persName>
+            <persName type="alternative" xml:lang="de">Mardthin, Hannß</persName>
             <birth when="1536-04-10"/>
+            <death when="1556-04-06"/>
             <note type="description" xml:lang="de">
               <p>Besitzer eines Guts in Triesen.</p>
             </note>
@@ -21292,12 +21329,12 @@
               </list>
             </note>
           </person><person xml:id="lub-actors-2068">
-            <persName type="full" xml:lang="de">Öhri, Hans (5) (1579–1584)</persName>
+            <persName type="full" xml:lang="de">Öhri, Hans (5) (1579–1607)</persName>
             <persName type="main" xml:lang="de">Öhri, Hans (5)</persName>
             <persName type="sort" xml:lang="de">oehri, hans (5)</persName>
             <persName type="alternative" xml:lang="de">Örin, Hannß</persName>
             <birth when="1579-02-04"/>
-            <death when="1584-11-13"/>
+            <death when="1607-01-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Ruggell.</p>
             </note>
@@ -22265,13 +22302,13 @@
               <p>Wohnhaft in Bendern. Tochter von <ref target="2171">Stefan Kind</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-2173">
-            <persName type="full" xml:lang="de">Gstöhl, Hans (5) (1584–1602)</persName>
+            <persName type="full" xml:lang="de">Gstöhl, Hans (5) (1584–1607)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Hans (5)</persName>
             <persName type="sort" xml:lang="de">gstoehl, hans (5)</persName>
             <persName type="alternative" xml:lang="de">Gstöl, Hannß</persName>
             <persName type="alternative" xml:lang="de">Gsteöl, Hannß</persName>
             <birth when="1584-11-13"/>
-            <death when="1602-11-11"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Ruggell im Falgedin.</p>
             </note>
@@ -22294,10 +22331,11 @@
               <p>Wohnhaft in Bendern. Sohn von <ref target="1079">Konrad Öhri</ref>. Bruder von <ref target="2176">Konrad</ref>, <ref target="2177">Luisa</ref> und <ref target="2178">Eva Öhri</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-2176">
-            <persName type="full" xml:lang="de">Öhri, Konrad (2) (1584–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Konrad (2) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Öhri, Konrad (2)</persName>
             <persName type="sort" xml:lang="de">oehri, konrad (2)</persName>
             <birth when="1584-11-13"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern. Sohn von <ref target="1079">Konrad Öhri</ref>. Bruder von <ref target="2175">Hans</ref>, <ref target="2177">Luisa</ref> und <ref target="2178">Eva Öhri</ref>.</p>
             </note>
@@ -22422,15 +22460,6 @@
             <birth when="1584-11-13"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Bendern (Gamprin?). Sohn von <ref target="2188">Stefan Frick</ref></p>
-            </note>
-          </person><person xml:id="lub-actors-2190">
-            <persName type="full" xml:lang="de">Öhri, Andreas (3) (1584–)</persName>
-            <persName type="main" xml:lang="de">Öhri, Andreas (3)</persName>
-            <persName type="sort" xml:lang="de">oehri, andreas (3)</persName>
-            <persName type="alternative" xml:lang="de">Öry, Andres</persName>
-            <birth when="1584-11-13"/>
-            <note type="description" xml:lang="de">
-              <p>Wohnhaft in Eschen. Sohn von Landammann <ref target="165">Hans Öhri</ref>. Bruder von <ref target="1673">Balthasar</ref>, <ref target="1674">Lena</ref>, <ref target="1675">Martha</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-2191">
             <persName type="full" xml:lang="de">Öhri, Greta (1584–)</persName>
@@ -22698,12 +22727,13 @@
               <p>Wohnhaft in Eschen.</p>
             </note>
           </person><person xml:id="lub-actors-2219">
-            <persName type="full" xml:lang="de">Öhri, Peter (3) (1584–)</persName>
+            <persName type="full" xml:lang="de">Öhri, Peter (3) (1584–1604)</persName>
             <persName type="main" xml:lang="de">Öhri, Peter (3)</persName>
             <persName type="sort" xml:lang="de">oehri, peter (3)</persName>
             <persName type="alternative" xml:lang="de">Örry, Petter</persName>
             <persName type="alternative" xml:lang="de">Öry, Petter</persName>
             <birth when="1584-11-13"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Eschen.</p>
             </note>
@@ -22836,12 +22866,12 @@
               <p>Wohnhaft in Mauren.</p>
             </note>
           </person><person xml:id="lub-actors-2235">
-            <persName type="full" xml:lang="de">Wanger, Andreas (2) (1582–1584)</persName>
+            <persName type="full" xml:lang="de">Wanger, Andreas (2) (1582–1604)</persName>
             <persName type="main" xml:lang="de">Wanger, Andreas (2)</persName>
             <persName type="sort" xml:lang="de">wanger, andreas (2)</persName>
             <persName type="alternative" xml:lang="de">Wagner, Anndreas</persName>
             <birth when="1582-07-06"/>
-            <death when="1584-11-13"/>
+            <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Wohnhaft in Mauren in Steinbös.</p>
             </note>
@@ -24952,13 +24982,14 @@
               <p>Gutsbesitzer in Balzers.</p>
             </note>
           </person><person xml:id="lub-actors-2437">
-            <persName type="full" xml:lang="de">Öhri, Andreas (4) (1594–)</persName>
-            <persName type="main" xml:lang="de">Öhri, Andreas (4)</persName>
-            <persName type="sort" xml:lang="de">oehri, andreas (4)</persName>
+            <persName type="full" xml:lang="de">Öhri, Andreas (3) (1584–1607)</persName>
+            <persName type="main" xml:lang="de">Öhri, Andreas (3)</persName>
+            <persName type="sort" xml:lang="de">oehri, andreas (3)</persName>
             <persName type="alternative" xml:lang="de">Öhrin, Andreas</persName>
-            <birth when="1594-03-01"/>
+            <birth when="1584-11-13"/>
+            <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Wirt auf Rofaberg (Eschen).</p>
+              <p>Wirt auf Rofaberg (Eschen). Sohn von Landammann <ref target="165">Hans Öhri</ref>. Bruder von <ref target="1673">Balthasar</ref>, <ref target="1674">Lena</ref>, <ref target="1675">Martha</ref>, <ref target="2191">Greta</ref> und <ref target="2192">Jos Öhri</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-2438">
             <persName type="full" xml:lang="de">Schmid, Thomas (1) (1520–1586)</persName>
@@ -27271,6 +27302,27 @@
             <note type="description" xml:lang="de">
               <p>Besitzer eines Guts in Ruggell.</p>
             </note>
+          </person><person xml:id="lub-actors-2678">
+            <persName type="full" xml:lang="de">Spalt, Felix (1547–1570)</persName>
+            <persName type="main" xml:lang="de">Spalt, Felix</persName>
+            <persName type="sort" xml:lang="de">spalt, felix</persName>
+            <persName type="alternative" xml:lang="de">Spaltt, Felix</persName>
+            <persName type="alternative" xml:lang="de">Spalt, Velix</persName>
+            <birth when="1547-12-01"/>
+            <death when="1570"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † vor 1572-11-10.</p>
+              <p>Wohnhaft in Ruggell. Verheiratet mit <ref target="2679">Anna Wohlwend</ref>. Besitzer eines Guts in Bangs.</p>
+            </note>
+          </person><person xml:id="lub-actors-2679">
+            <persName type="full" xml:lang="de">Wohlwend, Anna (1547–)</persName>
+            <persName type="main" xml:lang="de">Wohlwend, Anna</persName>
+            <persName type="sort" xml:lang="de">wohlwend, anna</persName>
+            <persName type="alternative" xml:lang="de">Wolwein, Anna</persName>
+            <birth when="1547-12-01"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Ruggell. Verheiratet mit <ref target="2668">Felix Spalt</ref>.</p>
+            </note>
           </person><person xml:id="lub-actors-2680">
             <persName type="full" xml:lang="de">Watt, David von (1520–1548)</persName>
             <persName type="main" xml:lang="de">Watt, David von</persName>
@@ -27668,13 +27720,16 @@
               <p>Besitzer eines Guts in Eschen.</p>
             </note>
           </person><person xml:id="lub-actors-2727">
-            <persName type="full" xml:lang="de">Nigg, Maria (1) (1552–)</persName>
+            <persName type="full" xml:lang="de">Nigg, Maria (1) (1552–1556)</persName>
             <persName type="main" xml:lang="de">Nigg, Maria (1)</persName>
             <persName type="sort" xml:lang="de">nigg, maria (1)</persName>
             <persName type="alternative" xml:lang="de">Nigkhin, Marie</persName>
+            <persName type="alternative" xml:lang="de">Niggin, Maria</persName>
+            <persName type="alternative" xml:lang="de">Nigckhin, Maria</persName>
             <birth when="1552-11-14"/>
+            <death when="1556-04-06"/>
             <note type="description" xml:lang="de">
-              <p>Besitzer eines Guts in Triesen.</p>
+              <p>Besitzerin eines Guts in Triesen.</p>
             </note>
           </person><person xml:id="lub-actors-2728">
             <persName type="full" xml:lang="de">Rig, Elsa (1552–)</persName>
@@ -27686,11 +27741,13 @@
               <p>Besitzerin eines Guts in Triesen.</p>
             </note>
           </person><person xml:id="lub-actors-2729">
-            <persName type="full" xml:lang="de">Frommelt, Maria (1552–)</persName>
+            <persName type="full" xml:lang="de">Frommelt, Maria (1552–1556)</persName>
             <persName type="main" xml:lang="de">Frommelt, Maria</persName>
             <persName type="sort" xml:lang="de">frommelt, maria</persName>
             <persName type="alternative" xml:lang="de">Frumolt, Marie</persName>
+            <persName type="alternative" xml:lang="de">Fromboltin, Maria</persName>
             <birth when="1552-11-14"/>
+            <death when="1556-04-06"/>
             <note type="description" xml:lang="de">
               <p>Besitzerin eines Guts in Triesen.</p>
             </note>
@@ -27865,6 +27922,51 @@
             <note type="description" xml:lang="de">
               <p>Besitzer eines Guts in Eschen.</p>
             </note>
+          </person><person xml:id="lub-actors-2755">
+            <persName type="full" xml:lang="de">Meier, Anna (1586–)</persName>
+            <persName type="main" xml:lang="de">Meier, Anna</persName>
+            <persName type="sort" xml:lang="de">meier, anna</persName>
+            <persName type="alternative" xml:lang="de">Meyerin, Anna</persName>
+            <birth when="1586-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesen. Verheiratet mit <ref target="1056">Ulrich Rig</ref>.</p>
+            </note>
+          </person><person xml:id="lub-actors-2757">
+            <persName type="full" xml:lang="de">Hirt, Anna (1571–)</persName>
+            <persName type="main" xml:lang="de">Hirt, Anna</persName>
+            <persName type="sort" xml:lang="de">hirt, anna</persName>
+            <persName type="alternative" xml:lang="de">Hiertnerin, Anna</persName>
+            <birth when="1571-05-01"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Sassel (Bendern oder Gamprin). Verheiratet mit <ref target="1697">Leonhard Bleichner</ref>.</p>
+            </note>
+          </person><person xml:id="lub-actors-2758">
+            <persName type="full" xml:lang="de">Fehr, Anna (1) (1571–)</persName>
+            <persName type="main" xml:lang="de">Fehr, Anna (1)</persName>
+            <persName type="sort" xml:lang="de">fehr, anna (1)</persName>
+            <persName type="alternative" xml:lang="de">Verin, Anna</persName>
+            <birth when="1571-05-01"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Gamprin. Verheiratet mit <ref target="818">Jos Walch</ref>.</p>
+            </note>
+          </person><person xml:id="lub-actors-2759">
+            <persName type="full" xml:lang="de">Hasler, Kaspar (1571–)</persName>
+            <persName type="main" xml:lang="de">Hasler, Kaspar</persName>
+            <persName type="sort" xml:lang="de">hasler, kaspar</persName>
+            <birth when="1571-05-01"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts im Sassler Feld (Gamprin).</p>
+            </note>
+          </person><person xml:id="lub-actors-2760">
+            <persName type="full" xml:lang="de">Werner, Stefan (1571–1572)</persName>
+            <persName type="main" xml:lang="de">Werner, Stefan</persName>
+            <persName type="sort" xml:lang="de">werner, stefan</persName>
+            <persName type="alternative" xml:lang="de">Wernner, Steffan</persName>
+            <birth when="1571-05-01"/>
+            <death when="1572-11-10"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer von Gütern im Sassler Feld (Gamprin) und auf Platz (Eschen).</p>
+            </note>
           </person><person xml:id="lub-actors-2770">
             <persName type="full" xml:lang="de">Kessler, Kaspar (1526–)</persName>
             <persName type="main" xml:lang="de">Kessler, Kaspar</persName>
@@ -27873,6 +27975,23 @@
             <birth when="1526-11-28"/>
             <note type="description" xml:lang="de">
               <p>Bürger von Bludenz.</p>
+            </note>
+          </person><person xml:id="lub-actors-2776">
+            <persName type="full" xml:lang="de">Hemmerle, Martha (1573–)</persName>
+            <persName type="main" xml:lang="de">Hemmerle, Martha</persName>
+            <persName type="sort" xml:lang="de">hemmerle, martha</persName>
+            <persName type="alternative" xml:lang="de">Hemerlin, Martha</persName>
+            <birth when="1573-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Triesenberg. Verheiratet mit <ref target="1935">Adam Kaufmann</ref>.</p>
+            </note>
+          </person><person xml:id="lub-actors-2778">
+            <persName type="full" xml:lang="de">Walch, Georg (2) (1586–)</persName>
+            <persName type="main" xml:lang="de">Walch, Georg (2)</persName>
+            <persName type="sort" xml:lang="de">walch, georg (2)</persName>
+            <birth when="1586-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Gamprin. Verheiratet mit <ref target="2779">Katharina Öhri</ref>.</p>
             </note>
           </person><person xml:id="lub-actors-2780">
             <persName type="full" xml:lang="de">Fugger von der Lilie, Raymund (1546–)</persName>
@@ -27952,6 +28071,15 @@
             <birth when="1607-11-19"/>
             <note type="description" xml:lang="de">
               <p>Dr. Johann Georg Kern war ein Mediziner, der als Leibarzt im Umfeld der habsburgischen Erzherzogin <ref target="2784">Magdalena von Österreich</ref> in Hall in Tirol wirkte.</p>
+            </note>
+          </person><person xml:id="lub-actors-2786">
+            <persName type="full" xml:lang="de">Tanner, Anna (1586–)</persName>
+            <persName type="main" xml:lang="de">Tanner, Anna</persName>
+            <persName type="sort" xml:lang="de">tanner, anna</persName>
+            <persName type="alternative" xml:lang="de">Tanneri, Anna</persName>
+            <birth when="1586-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Sassel (Gamprin?). Verheiratet mit <ref target="1698">Georg Kind</ref></p>
             </note>
           </person><person xml:id="lub-actors-2787">
             <persName type="full" xml:lang="de">Habisreitinger, Hans (1607–)</persName>
@@ -28483,7 +28611,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2026-06-23T10:00:52+02:00">teiHeader was automatically produced from the database 2026-06-23T10:00:52+02:00</change>
+      <change when="2026-08-12T12:30:11+02:00">teiHeader was automatically produced from the database 2026-08-12T12:30:11+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1242">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Acker in Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1242">CH-BAC, 015.2987</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1586 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Kind, wohnhaft zu Sassel im Kirchspiel Bendern, und seine Frau Anna Tanner verkaufen einen Zins von 1 Gulden ab ihrem Acker in der Habrütti in Ruggell an Hieronymus Huttler, Abt von St. Luzi.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1698">Kind, Georg (3)</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2786">Tanner, Anna</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-170">Graf, Jakob (3)</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2987-0001.jpg" xml:id="lub-media-3962" source="platzhalter-3.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3962" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-1698">Georg Keind</persName>, wonhafft zu <placeName ref="lub-places-983">Sassel</placeName>, <placeName ref="lub-places-36">Benderer</placeName> kilchspel, unnd mit ime ich, <persName ref="lub-actors-2786">Anna Tanneri</persName>, sein eheliche haußfraw, bekhennen offentlich für unnß, all unnsere erben und 
+<lb n="2"/>nachkhomen unnd thund kundt allermenigclich mit dem briefe, das wir mit veraintem, freyen, gutem willen, wolbedachtem synn unnd muth zu fürderung unnsers beßern nuz 
+<lb n="3"/>besonnder mit handt deß ersamen unnd weysen <persName ref="lub-actors-170">Jacob Grawen</persName>, derzeit aman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, aufrecht unnd redlich verkhaufft und zekhauffen geben 
+<lb n="4"/>haben aines besteeten, vesten, ewigen und immerwerenden kaufs unnd geben auch hiemit wißentlich in crafft diß briefs dem erwürdigen unnd gaistlichen herrn <persName ref="lub-actors-17">Jeronymo</persName>, 
+<lb n="5"/>abbten deß gottshaußes <orgName ref="lub-actors-337">Sanct Luzi</orgName>, und allen seinen nachkhommen nemblichen ain gulden reinischin münz, yeder derselben zu fünfzehen bazen oder sechzig creuzern geraith, <placeName ref="lub-places-10">Veldt
+<lb break="no" n="6"/>khircher</placeName> weerung rechz, steets, jerlichs zeinß unnd gelts von, außer und abe unnserm aignen ackher in der <placeName ref="lub-places-1002">Haber Reuti</placeName> gelegen, stosst dem landt nach an <persName ref="lub-actors-932">Hans</persName> unnd <persName ref="lub-actors-613">Jacob
+<lb n="7"/>die Büchel</persName>, gebrüedere, gegen dem berg an <persName ref="lub-actors-831">Hans Hopen</persName>, aufwert an <persName ref="lub-actors-1667">Jerg Öris</persName> erben unnd gegen dem <placeName ref="lub-places-103">Reyn</placeName> an <persName ref="lub-actors-1697">Leonhardt Blaichner</persName>, alles ab grund, grath, veldt, wasen, 
+<lb n="8"/>zun, waid, stockh, stain, gesteudt, gereuth, gengen, stägen, wegen unnd sonnst gemeinlich ab allen andern deßelben rechten und zugehörden, benennten unnd unbenennten, darzu 
+<lb n="9"/>für frey, aigen, ledig, loß unnd gegen allermenigclich unverkhümbert. Unnd also ist der ewig, redlich kauff ergangen unnd beschehen benantlichen umb 
+<lb n="10"/>zwainzig gulden obgeschribner münz unnd werung, dern wir aller gar von ime, herrn keuffer, erbarlich außgericht unnd bezalt worden seind, nach unnserm willen 
+<lb n="11"/>und guten benüegen. Darumben so sollen unnd wöllen wir, all unnsere erben unnd nachkhomen ald andere innhaber und besizere vorgemelten underpfandts den be
+<lb break="no" n="12"/>stimbten zeinß gesagtem herrn abbte unnd allen deßen nachkhomen, innamen deß gottshauses innhabern diß briefs, nunfürterhin ewigclich unnd alle jahr jerlich auf <date when="--11-11">sanct
+<lb n="13"/>Martins, deß hailigen bischofs, tag</date>, achttag vor oder nach ungevorlich, güetlich richten, zeinßen unnd zu iren sichern handen unnd gewaldt geben und antwurten, für allermenig
+<lb break="no" n="14"/>lichs verhefften, verpieten unnd entwheren, genzlich ohne allen iren costen unnd schaden. Wann, wie oder welches jars das aber also nit geschehe, über khurz oder lange
+<lb n="15"/>zeit, so ist inen angezaigtes underpfandt, in seinen bestimbten marckhen begriffen, ganz zeinßfellig worden unnd dannenthien mit grund, grath, auch allen andern deßelben 
+<lb n="16"/>obgenanten rechten, beßerung und zugehörden zu rechtem, ewigen aigen haimbgefallen unnd verfallen, ohne unser, all unser erben und nachkhommen, auch sonst allermenigclichs 
+<lb n="17"/>von unsertwegen irrung und widerred, ohngeverde. Hierauf diz ewigen und redlichen kaufs umb zeinßfellige, auch für all abgäng unnd minderung deß obge
+<lb break="no" n="18"/>nanten underpfandts, haubtguts, zeinß, schaden unnd aller obgeschribnen dingen sollen unnd wellen wir, dickhgenante verkheuffere, all unnsere erben und nachkhomen deß
+<lb n="19"/>gerüerten herrn keuffers unnd allen deßen nachkhommen anstat des gozhauß recht, gut, getrew und crefftig gewheren, fürstand und versprecher gegen allermeniglich 
+<lb n="20"/>sein vor dem richter unnd gericht, darunder ehegemelt underpfandt gelegen ist, nach recht, wo, wie, wenn oder gegen wem, als offt und dickh sie das nach dem rechten immer 
+<lb n="21"/>bedürffen oder noturfftig werden, allvart in unserm aignen costen unnd ohne iren schaden, bey guten trewen, ohne alle widerred unnd aufzug. Unnd 
+<lb n="22"/>wiewol diser brieff einen ewigen kauff außweißt unnd sagt, dannocht hat uns der ehegemelt herr keuffer disen gewaldt geben unnd verwilliget, also das wir, 
+<lb n="23"/>auch all unsere erben und nachkhommen den gemelten guldi zeinß von ime, herrn abbte, oder deßen nachkhomen wolwiderumben kauffen und ablösen mögen nunhinfüro 
+<lb n="24"/>ewigclich, wann und welches jars wir, über khurz oder lang zeit, wöllen, doch allwegen vor zeinßfal unnd auf <date when="--11-11">sanct Marthins tag</date>, achttag vor oder nach ungevorlich, 
+<lb n="25"/>samethafft mit den obgeschribnen zwainzig guldi haubtgut oder aber thailbarlichen zu zwayen underschiedlichen mahlen yhe allwegen ein halben guldi zeinß mit zechen gulden 
+<lb n="26"/>haubtguts, sambt allen verfallnen, ausstendigen zeinßen, auch mit guter münz unnd wehrschafft, daran sie kheinen verlust noch abgang haben dörffen, ob sich die yezige 
+<lb n="27"/>münz in der zeit verendern wurde, ungeverlich. Und des zu warem urkhundt haben wir, obbekhennend verkheuffere, mit vleiß und ernst erpetten 
+<lb n="28"/>den obgedachten aman <persName ref="lub-actors-170">Jacob Grawen</persName>, das er sein aigen innsigel (doch ime, aman, und seinen erben ohne schaden) offentlich gehenckht hat an disen briefe, der geben 
+          <lb n="29"/>ist auf <origDate when="1586-11-11">sanct Marthins, deß hayligen bischoffs, tag nach Christi, unsers lieben herrn und seeligmachers, geburth gezelt fünffzehenhundert achzig und sechs 
+<lb n="30"/>jahr</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

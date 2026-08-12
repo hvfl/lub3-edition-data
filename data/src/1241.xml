@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1241">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einer Hofstatt und einem Grundstück in Gamprin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1241">CH-BAC, 015.2986</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1586 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Georg Walch von Gamprin und seine Frau Katharina Öhri verkaufen einen Zins von 4,5 Gulden ab ihrer Hofstatt und dem Gut Kalchofa im Büel in Gamprin an Abt Hieronymus Huttler und den Konvent des Klosters St. Luzi.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2778">Walch, Georg (2)</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2779">Öhri, Katharina</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-170">Graf, Jakob (3)</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2986-0001.jpg" xml:id="lub-media-3961" source="platzhalter-3.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3961" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2778">Georg Walch</persName>, seßhafft zu <placeName ref="lub-places-328">Gamperin</placeName>, <placeName ref="lub-places-36">Bennderer</placeName> kilchspel, unnd mit ime ich, Trina Öri, sein eheliche haußfraw, bekhennen offentlich für uns, all unsere 
+<lb n="2"/>erben unnd nachkhomen und thun kundt allermenigclich mit dem brieve, das wir mit veraintem, freyen, guten willen, wolbedachtem synn und muth, zu fur
+<lb break="no" n="3"/>derung unsers beßern nuz, besonnder mit handt deß ersamen und weysen <persName ref="lub-actors-170">Jacob Grawen</persName>, der zeit aman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> am <placeName ref="lub-places-16">Eschnerberg</placeName>, aufrecht
+<lb n="4"/>unnd redlich verkhaufft und zekhauffen geben haben eines besteeten, vesten, ewigen und immerwerenden kauffs unnd geben auch hiemit wißentlich in crafft 
+<lb n="5"/>dis briefs dem erwürdigen unnd gaistlichen herrn <persName ref="lub-actors-17">Jeronymo</persName>, abbte deß gottshaus <orgName ref="lub-actors-337">Sanct Luzi</orgName>, unnd allen seinen nachkhomen namblichen fünffthalben 
+<lb n="6"/>gulden reinischin münz, yeden derselben zu fünffzehen bazen oder sechzig creuzern geraith, <placeName ref="lub-places-10">Veldtkhircher</placeName> weerung rechts, steets, jerlichs zeinß und geltts 
+<lb n="7"/>von, außer unnd ab unnserer aig<gap/> hofstatt zu <placeName ref="lub-places-328">Gamperin</placeName> gelegen, stosst aufwert dem lanndt nach an <persName ref="lub-actors-1734">Christa Mader</persName>, neben zu an <unclear><persName ref="lub-actors-2212">Linsa Fezeri</persName></unclear>, dem lanndt 
+<lb n="8"/>nach abwert an <placeName ref="lub-places-993">Gamperiner Gaß</placeName> unnd gegen den berg an <persName ref="lub-actors-1694">Pauli Lampart</persName>, item unnd darzu ab unnserm aignen stukh gutt, genant der <placeName ref="lub-places-992">Kalchofen</placeName>, zu 
+<lb n="9"/><placeName ref="lub-places-651">Büel</placeName> gelegen, stosst nebenzu an weingarten, abwert dem landt nach an <persName ref="lub-actors-1079">Conradt Öris</persName> erben, zur lanngen seiten an <orgName ref="lub-actors-337">Sanct Luzis</orgName> gut unnd zur vierten seiten 
+<lb n="10"/>an die straß, alles ab grundt, grath, veldt, wasen, wun, waid, stockh, stain, gesteut, gereuth, gengen, stegen, wegen unnd sonnst gemeinlich ab allen anndern 
+<lb n="11"/>derselben rechten unnd zugehörden, benennten und unbenennten, darzu für frey, aigen, ledig, los unnd gegen allermenigclich unverkhümbert. Unnd 
+<lb n="12"/>also ist der ewig, redlich kauff erganngen unnd beschehen benanntlichen umb neunzig gulden obgeschribner münz unnd werung, dern wir aller gar von 
+<lb n="13"/>ime, herrn keuffer, erbarlichen außgericht und bezalt worden seind nach unnserm willen unnd guten benüegen. Darumben so sollen unnd wöllen wir, all 
+<lb n="14"/>unsere erben unnd nachkhomen ald andere innhaber unnd besizere vorgemelter underpfanden den bestimbten zeinß gesagtem herrn abbte und allen deßelben nach
+<lb break="no" n="15"/>khomen, innamen des gottshaus inhabern diz briefs, nunfürterhien ewigclich unnd alle jahr jerlich auf <date when="--11-11">sanct Marthins, deß hayligen bischoffs, tag</date>, achttag
+<lb n="16"/>vor oder nach ungevarlich, güetlich richten, zeinßen unnd zu iren sichern handen unnd gewaldt geben unnd antwurtten, für allermenigclichs verhefften, verbieten 
+<lb n="17"/>und entwheren, genzlich ohne allen iren costen und schaden. Wann, wie oder welches jars das aber also nit geschehe, uber khürz oder lange zeit, so seind inen 
+<lb n="18"/>angezaigte underpfandt, in iren <gap/>mbten marckhen begriffen, ganz zeinßfellig worden unnd dannenthin mit grund, grath, auch allen andern derselben 
+<lb n="19"/>obgenanten rechten, beßerung unnd zugehörden zu rechtem, ewigem aigen heimbgevallen unnd vervallen, ohne unnser, all unserer erben unnd nachkhomen, auch sonst 
+<lb n="20"/>allermeniglichs von unsertwegen irrung und widerred, ohn geverde. Hierauf diz ewigen unnd redlichen kaufs umb zeinßfellig, auch für alle abgenng 
+<lb n="21"/>unnd minderung der obgenanten underpfanden, haubtguts, zeinß, schaden unnd aller obgeschribner dingen sollen und wöllen wir, die ehbenante verkheuffern, all 
+<lb n="22"/>unnsere erben und nachkhomen deß gerüerten herrn keuffers und allen deßen nachkhomen anstat deß gottshaus recht, gutt unnd getrew, crefftig gewhern, 
+<lb n="23"/>fürstand unnd versprecher gegen allermeniglich sein, vor dem richter unnd gericht, darunder ehegemelte underpfandt gelegen seind, nach recht, wo, wie, wenn 
+<lb n="24"/>oder gegen wem, als offt unnd dickh sie das nach dem rechten immer bedürfftig oder notturfftig werden, allvart in unserm aignen costen unnd ohne iren schaden, 
+<lb n="25"/>bey guten trewen, ohne alle widerred unnd aufzug. Unnd wiewol diser brief einen ewigen kauff außweißt und sagt, dannocht hat unns 
+<lb n="26"/>der ermelt herr keuffer disen volkhomnen gewaldt geben und verwilliget, also das wir, auch all unsere erben und nachkhomen die gemelten fünnfthalben guldi 
+<lb n="27"/>zeinß von inen, herrn abbte oder deßen nachkhomen, wol wider khauffen unnd ablösen mögen nunhinfüro ewiglich, wann, welches jars wir, über kurz oder lange 
+<lb n="28"/>zeit, wöllen, doch allwegen vor zeinßfal unnd auf <date when="--11-11">sanct Marthins tag</date>, achttag vor oder nach ungevarlich, samenthafft mit den obgeschribnen neunzig gulden 
+<lb n="29"/>haubtgut oder aber thailbarlichen zu dreyen underschiedlichen mahlen, ye allwegen anderthalben gulden zeinß mit dreyßig gulden haubtgut, sambt allen verfallnen, 
+<lb n="30"/>ausstendigen zeinßen, auch mit guter münz unnd wherschafft, daran sie kheinen verlurst noch abganng haben dörffen, ob sich die yezige münz in der zeit verendern 
+<lb n="31"/>wurde, ungevarlichen. Unnd deß zu wahrem urkhundt haben wir, obbekhennende verkheuffere, mit vleis und ernst erbetten den obgenannten 
+<lb n="32"/>aman <persName ref="lub-actors-170">Jacob Grawen</persName>, das er sein aigen innsigel (doch ime, aman, unnd seinen erben ohne schade<gap/>) offentlich gehenckht hat an disen brieff, der geben ist 
+          <lb n="33"/>auf <origDate when="1586-11-11">sanct Marthins, deß hayligen bischoffs, tag nach Christi, unsers lieben herrn unnd seeligmachers, geburth gezelt fünffzehenhundert achzig unnd sechs 
+<lb n="34"/>jahr</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

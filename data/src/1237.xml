@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1237">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Haus in Triesenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1237">CH-BAC, 015.2888</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1586 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Martin Beck, wohnhaft in Triesenberg, und seine Frau Anna Lampert verkaufen einen Zins von 2 Pfund ab ihrem Haus auf Gnalp an Ulrich Rig zu Triesen und dessen Frau Anna Meier.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1166">Beck, Martin (2)</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2000">Lampert, Anna (2)</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-246">Quaderer, Heinrich</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-1056">Rig, Ulrich</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2755">Meier, Anna</persName>
+          <date when="1586-11-11">11. Nov 1586</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2888-0001.jpg" xml:id="lub-media-3957" source="platzhalter-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3957" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-1166">Martin Beckh</persName>, seßhafft am <placeName ref="lub-places-41">Tryßnerberg</placeName>, unnd mit ime ich, <persName ref="lub-actors-2000">Anna Lamparti</persName>, sein eheliche haußfraw, bekhennen offentlich für uns, all unnsere erben und nachkhomen 
+<lb n="2"/>unnd thund kundt allermeniglich mit disem brieve, das wir mit veraintem, freyem, gutem willen, wolbedachtem synn unnd muth zu fürderung unnsers nuz be
+<lb break="no" n="3"/>sonnder mit handt deß ersamen unnd weysen <persName ref="lub-actors-246">Hainrichen Quaderers</persName>, der zeit aman der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, aufrecht und redlich verkhaufft und zukhauffen gegeben haben eines
+<lb n="4"/>besteten, vesten, ewigen und imerwerenden kaufs und geben auch hiemit wißentlich incrafft diß briefs dem erbarn <persName ref="lub-actors-1056">Ulrich Reygen</persName> zu <placeName ref="lub-places-79">Trysen</placeName> unnd <persName ref="lub-actors-2755">Anna Meyerin</persName>, 
+<lb n="5"/>seiner ehelichen haußfrawen, auch allen iren erben und nachkhomen nemblichen zway pfundt pfening guter <placeName ref="lub-places-101">Costanzer</placeName> münz <placeName ref="lub-places-10">Veldtkhircher</placeName> weerung rechts, steets, jerlichs 
+<lb n="6"/>zeinß und pfening gelts von, außer und ab unserm aignen hauß unnd hoff auf <placeName ref="lub-places-475">Gutnalp</placeName> gelegen, stosst zue dreyen seiten an die gassen unnd zur vierten seiten an <persName ref="lub-actors-606">Gretha</persName> und 
+<lb n="7"/><persName ref="lub-actors-1916">Barbara Beckhi</persName>, alles ab grund, grath, tach, gemach, zymmer, gemeur, veldt, wasen, wun, waid, stockh, stain, gesteud, gereut, gengen, stegen, wegen unnd sonnst gemainlich ab 
+<lb n="8"/>allen andern deßelben rechten und zugehörden, benennten und unbenennten, auch für zeinßfrey, ledig, los unnd gegen allermeniglichen ganz unverkümbert. Unnd also 
+<lb n="9"/>ist der ewig, redlich kauff ergangen und beschehen benantlichen umb vierzig pfundt pfening obgeschribner münz und werung, dern wir allergar von inen, den keuffern, 
+<lb n="10"/>erbarlichen außgericht unnd bezalt worden seind nach unserm willen und guten benüegen. Darumben so sollen und wöllen wir, all unsere erben und nachkhomen 
+<lb n="11"/>oder wer das obgemelte underpfandt nach uns imer innhat, nuzt und braucht, gesagten keuffern, auch allen iren erben und nachkhomen oder rechtmeßigen innhabern 
+<lb n="12"/>diz briefs die bestimbten zway pfundt pfening geltzeinßes nunhinenthien immer, ewiglich unnd ye jerlich alle jahr auf <date when="--11-11">sanct Martins, deß hayligen bischoffs, tag</date>, acht 
+<lb n="13"/>tag vor oder nach ungevorlich, güetlich außrichten, zeinsen unnd zu iren sichern handen unnd gewaldte, für allermeniglichs verhefften, verpieten unnd entwehren, genzlich ohn 
+<lb n="14"/>allen irenn costen und schaden geben und antworten. Wann, wie oder welches jars das aber also nit geschehe, über khurz oder lange zeit, so seye inen das obgemeltte 
+<lb n="15"/>underpfandt ganz zeinßfellig worden, dannenthin mit grund, grat und allen andern deßelben rechten, beßerung unnd zugehörden zu rechtem ewigen aigen haimbgefallen 
+<lb n="16"/>unnd verfallen, ohne unser, aller uns<gap/> erben und nachkhomen, auch allermeniglichs von unsertwegen irrung und widersprechen. Unnd hierauf diz 
+<lb n="17"/>ewigen und redlichen kaufs umb zeinßfellige, auch für all abgeng und minderung deß obgenanten underpfandts, auch haubtguts, zeins und schadens und aller obgenanter ding 
+<lb n="18"/>sollen und wöllen wir dickhgenante verkheuffere, all unsere erben und nachkhomen der gerüerten keuffer, aller irer erben und nachkhomen recht, gut und getrew, 
+<lb n="19"/>crefftig geweren, fürstand und versprecher gegen allermeniglich sein vor dem richter und gericht, darunder obgemelt underpfandt gelegen ist, nach recht, wo, wie, 
+<lb n="20"/>wann oder gegen wem, als offt und dickh sie das nach dem rechten immer bedürffen oder notturfftig werden, allvart in unserm aignen costen und genzlich ohne allen iren 
+<lb n="21"/>schaden, bey guten trewen, ohne alle widerred und aufzug. Unnd wiewol diser brief einen ewigen kauff außweisst unnd vermag, nichtsdestoweniger 
+<lb n="22"/>mögen wir, auch all unsere erben und nachkhomen die gedachte zwai pfundt pfening jerlichs zeinßes von inen, den keuffern, allen iren erben und nachkhomen, wolwiderumb 
+<lb n="23"/>kauffen und ablösen nunhinenthin, wann und welches jars wir wöllen, doch vor zeinßfal und auf <date when="--11-11">sanct Martins tag</date>, achttag vor oder nach ungevorlichen, samethafft 
+<lb n="24"/>mit dem obgeschribnen haubtgut, der vierzig pfundt pfening, doch allwegen mit sambt dem gefallnen unnd ausstendigen zeinße, auch mit guter münz und wehrschafft, daran sie 
+<lb n="25"/>kheinen verlust noch abgang haben dörffen, ob sich die yezig münz in der zeit verendern wurde, ungevorlich. Unnd deß alles zu warem und offnen 
+<lb n="26"/>urkhundt haben wir, obbenennte verkheuffere, mit vleiß und ernst erbetten den obgedachten aman <persName ref="lub-actors-246">Hainrich Quadern</persName>, das er sein aigen insigel für uns, all unsere 
+          <lb n="27"/>erben und nachkhomen (doch ime, aman, und seinen erben ohneschaden) offentlich gehangen hat an disen brieff, der geben ist auf <origDate when="1586-11-11">Martini episcopi nach Christi, 
+<lb n="28"/>unsers lieben herrn und seeligmachers, geburt gezelt fünffzehenhundert achzig unnd sechs jahr</origDate>. 
+</p>
+        <p><lb n="29"/><supplied>Rückvermerke</supplied><lb n="30"/>Zinßbrief <persName ref="lub-actors-1056">Ulrich Reigen</persName> zu <placeName ref="lub-places-79">Trysen</placeName> unnd seiner hauß
+<lb break="no" n="31"/>frawen, laut uf <persName ref="lub-actors-1166">Marthin Beckhen</persName> am <placeName ref="lub-places-41">Trysnerberg</placeName>,
+<lb n="32"/>2 lb. d jerlichs zinß. 
+<lb n="33"/><date>1586</date>. 
+<lb n="34"/>Zinst jetz <placeName ref="lub-places-183">Unser Lieben Frawen</placeName> zue <placeName ref="lub-places-79">Drüsen</placeName> 
+<lb n="35"/><unclear>Th</unclear>oma <unclear>Beckh</unclear> ab dem <placeName ref="lub-places-41">Driesnerberg</placeName>. 
+</p>
+        <p><lb n="36"/>Schuld-Verschreibung 
+<lb n="37"/>gegen <persName ref="lub-actors-1056">Ulrich Rügen</persName> zu <placeName ref="lub-places-79">Trüsen</placeName> per 40 lb. dt. 
+<lb n="38"/>von <persName ref="lub-actors-1166">Martin Böckh</persName> am <placeName ref="lub-places-41">Trüsner Berg</placeName>. 
+<lb n="39"/>Underpfandt 
+<lb n="40"/>hauß und hoffstatt auf <placeName ref="lub-places-475">Gutnalp</placeName> gelegen. 
+<lb n="41"/>Anno <date>1568</date>. 
+<lb n="42"/>Nota bene: Ist hernach an <placeName ref="lub-places-183">Unser Lieben Frawen Capell</placeName> zu <placeName ref="lub-places-79">Trüsen</placeName> kommen. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
