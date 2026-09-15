@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1244">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einer Wiese in Gamprin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Die Urkunde weist oben links ein grosses Brandloch auf.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1244">CH-BAC, 016.3082</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1602 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Marx Gabriel von Gamprin und seine Frau Anna Kind verkaufen einen Zins von 1 Pfund Pfennig ab einer Wiese in der Hostet bzw. im Lehn in Gamprin an Simon Maurer, Pfarrer in Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2799">Gabriel, Marx (2)</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2798">Kind, Anna</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-698">Brendle, Leonhard (2)</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-336">Maurer, Simon</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__016_3082-0001.jpg" xml:id="lub-media-3964" source="platzhalter-3.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3959" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2799">Mar<gap/> Gabriel</persName> von <placeName ref="lub-places-328">Gambrin</placeName>, unnd <persName ref="lub-actors-2798">Anna Kindin</persName>, mein eheliche haußfraw, bekhennen offenlich hiemit für unnß, 
+<lb n="2"/><gap/> mitt veraintem freyen willen, wolbedachten sin undt mueth, zubefürderung unßers nutzes, besonder 
+<lb n="3"/><gap/> <persName ref="lub-actors-698">Brendlin</persName>, diser zeit landtamman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, auffrecht und redlich verkhauft 
+<lb n="4"/><gap/>it wissenlich in crafft diß brieffs zukhauffen dem erwürdigen und geistlichen herrn <persName ref="lub-actors-336">Simon</persName> 
+<lb n="5"/><gap/> <persName ref="lub-actors-337">Lucy</persName> undt pfarherrn zu <placeName ref="lub-places-36">Bendern</placeName>, auch allen seinen successorn undt nachkommenden praelaten 
+<lb n="6"/><gap/>en ein pfund pfening gueter landtmüntz genemer <placeName ref="lub-places-10">Veldtkhürcher</placeName> wehrung rechtß, ewigs 
+<lb n="7"/><gap/> ab unserm aigenen stuckh hewwachs zu <placeName ref="lub-places-328">Gambrin</placeName> in der <placeName ref="lub-places-1008">Hoffstatt</placeName> oder <placeName ref="lub-places-1009">Leh<supplied>en</supplied></placeName> gelegen, 
+<lb n="8"/><gap/> ahn <placeName ref="lub-places-103">Rhein</placeName>, zur drytten seiten ahn <persName ref="lub-actors-2173">Hannß Gsteöl</persName> unnd zur vierdten seiten ahn Georg 
+<lb n="9"/><gap/> wun, waidt, stockh, stain, gesteüdt, gerüdt, gengen, stegen und wegen und gemainlich mit 
+<lb n="10"/><gap/>gen fur frey, ledig, unversetz und eigen. Und ist hierüber diser ewig, redlich khauff ergangen 
+<lb n="11"/><gap/> pfening vorgeschrybner müntz undt wehrung, deren wür von gemelten kheüffer zu unserm 
+<lb n="12"/>gut<gap/> <gap/>ahr <gap/> bezahlt worden seindt. Darumben sollen und wellen wür, auch all unsere erben und nachkommen 
+<lb n="13"/>oder wer daß vorberüert underpfandt nach unß besitzt, nutzet und brauchet, obgedachten zinß, deß ein pfundt pfening gelts, mehr besagtem 
+<lb n="14"/>kheüffer oder seinen successorn undt nachkommen nun hinführo ewiglich und alle jahr auff <date when="--11-11">st. Martins tag</date>, acht tag vor oder nach 
+<lb n="15"/>ungefährlichen, guetlich außrichten, zinsen und zu sei<unclear>n</unclear> sichern handen und gewalt für allermäniglichs verhafften, verpieten und 
+<lb n="16"/>entwehren uberantwurten und zustellen, ohn all sein costen und schaden. Wan und welches jahrs aber daß allso nit beschehe, so ist ime 
+<lb n="17"/>daß obgemelt underpfandt, in sein bestimbten marckhen begrüffen, gantz zinßfällig worden und alß dan mit grundt, gradt, aller 
+<lb n="18"/>ein- und zugehördt zu einem ewigen aigenthumb immer haimgefallen und verfallen, ohn unser, unsere erben und nachkommen, 
+<lb n="19"/>auch sonst jedermäniglich von unsertwegen irrung und widersprechung. Und hierauff diß ewigen, redlichen khauffs umb zinsfällig, 
+<lb n="20"/>auch für all abgeng und minderung deß offtgedachten underpfandts, auch haubtguets, zinß und schadenß sollen und wöllen wür, 
+<lb n="21"/>auch all unsere und nachkommen recht, guet, cräfftig und getrew gewehren, fürsteher und versprecher gegen allermäniglichs sein 
+<lb n="22"/>(doch nach unser beiderseits außtruckhenlicher gethoner abredt ahn keinem anderen ort allß allein vor der obrigkheit, auch 
+<lb n="23"/>richter und gericht, darunder diß underpfandt gelegen), wie recht und billich ist, jederzeit in unserm eyegen costen, ohn sein schaden, 
+<lb n="24"/>alß offt er dessen notturfftig würdt, bey gueten trewen, ohn all widerredt, auffzüg und geferdte. Und wiewoll diser brieff einen ewigen 
+<lb n="25"/>khauff außweiset, nichts desto weniger mögen wür, auch all unsere erben und nachkommen, den obgeschrybnen zinß von ime 
+<lb n="26"/>wohl widerumb allösen nuhn hinführo über kurtz oder lang, welches jahr wür wöllen, doch vor zinßfahl undt auff <date when="--11-11">st. Martins tag</date>, 
+<lb n="27"/>acht tag vor oder nach ungefahrlich, sammenthafft mit dem obgeschrybenen haubtguet und allweg mit verfallnen, ausstendigen 
+<lb n="28"/>zinsen, auch costen und schaden, ob ainiche redlicher weiß darüber gangen wehren, in müntz und wehrschafft, daran er khein 
+<lb n="29"/>verlust noch abgang habe, alleß getrewlich. Dessen zu wahrem urkhund haben wür, die verkheüffer, mit sonderm vleiß undt 
+<lb n="30"/>gebetten und erbetten den obgemelten ammann <persName ref="lub-actors-698">Linhardt Brendlin</persName>, daß er sein eygen insigel (doch ime, seinen erben und nach
+<lb break="no" n="31"/>khommen in allweg ohn schaden) offenlich für unnß gehenckht hatt ahn disen brieff, der geben ist auff <origDate when="1602-11-11">Martini episcopi im
+<lb n="32"/>sechzehenhun<gap/> undt andern jahre</origDate>. 
+</p>
+        <p><lb n="33"/><supplied>Rückvermerk</supplied><lb n="34"/>Schuld-verschreibung 
+<lb n="35"/>gegen dem löbl. gottshauß <persName ref="lub-actors-337">S. Lucy</persName> per 20 lb. dt. von 
+<lb n="36"/><persName ref="lub-actors-2799">Marx Gabriel</persName> zu <placeName ref="lub-places-328">Gamprin</placeName> und <persName ref="lub-actors-2798">Anna Kindin</persName>, seiner hausfrawen. 
+<lb n="37"/>Underpfandt ein stuckh hewguet in der so genandten <placeName ref="lub-places-1008">Hoff
+<lb break="no" n="38"/>statt</placeName> gelegen, darvon jährlich uff <date when="--11-11">Martini</date> zünß 1 lb. dt.
+<lb n="39"/>sub Simone abbate anno <origDate when="1602">1602</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

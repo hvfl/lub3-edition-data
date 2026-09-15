@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-281">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt mit Glarus wegen Werdenberg und Vaduz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-281">AT-TLA Grenzakten Abteilung III Fasz. 41 Pos. 5</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. August 1560 / Beschreibstof: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Antwortschreiben der Oberösterreichischen Regierung zu Innsbruck an Wilhelm und Alwig IX. Grafen von Sulz auf deren Vortrag vom 21. August und ein vorangegangenes Schreiben vom 22. April, betreffend den  Konflikt mit Glarus. Man teilte ihnen mit, dass man den Kaiser ersucht habe, nochmals an Landammann und Rat von Glarus zu schreiben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-60">Reichstag</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1560-08-28">28. Aug 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0001.jpg" xml:id="lub-media-3680" source="grenzakten-abt-iii-41-5-0005-1560-08-28-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0002.jpg" xml:id="lub-media-3681" source="grenzakten-abt-iii-41-5-0006-1560-08-28-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3680" n="1"/><lb n="1"/>Von der <orgName ref="lub-actors-929">Regierung</orgName> zu <placeName ref="lub-places-19">Insprugg</placeName>  
+<lb n="2"/>an herrn <persName ref="lub-actors-10">Wilhelmen</persName> und <persName ref="lub-actors-9">Alwigen</persName> gebrueder  
+<lb n="3"/>graven zu Sulz 
+</p>
+        <p><lb n="4"/>Eur schreiben des datum, den <date when="1560-08-21">21. tag diß monats</date>, uns bei disem  
+<lb n="5"/>eurm poten zuegesanndt, haben wir empfanngen,  
+<lb n="6"/>unnd sovil erstlich den spann, so sich zwischen eur von wegen  
+<lb n="7"/>der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> an einem und <orgName ref="lub-actors-276">landtaman und  
+<lb n="8"/>rät</orgName> zu <placeName ref="lub-places-72">Glariß</placeName>, als innhabern der herrschafft <placeName ref="lub-places-73">Werden
+<lb break="no" n="9"/>berg</placeName> am andern tail, erhalt, belanngt, ist uns von 
+<lb n="10"/>euch hievor, den <date when="1560-04-22">22. verschines monats aprilis</date>, auch  
+<lb n="11"/>ain schreiben derwegen zuekhumen. Unnd dieweil wir  
+<lb n="12"/>daraus verstannden, daz ir auf jungst gehaltnen <term ref="lub-keywords-60">Reichs
+<lb break="no" n="13"/>tag</term> zu <placeName ref="lub-places-32">Augspurg</placeName> dises spans halber an die römisch <persName ref="lub-actors-26">kayserlicher 
+<lb n="14"/>mayestät</persName> etc., unnsern allergenedigisten herrn, suppliciert  
+<lb n="15"/>und ir <persName ref="lub-actors-26">kayserliche mayestät</persName> euch disen genedigen bschaid geben lassen,  
+<lb n="16"/>daz ir mayestät bemelte von <orgName ref="lub-actors-276">Glaris</orgName> innhalt ainer copei, so  
+<lb n="17"/>euch oder eurn gesanndten zuegestelt worden, ersuechen  
+<lb n="18"/>wolten. Unnd aber gedachte von <orgName ref="lub-actors-276">Glaris</orgName> nit gestendig  
+<lb n="19"/>sein wellen, daz inen von irer <persName ref="lub-actors-26">kayserlichen mayestät</persName> derhalben ainich  
+<lb n="20"/>schreiben zuekhumen, sein wir entschlossen, bei irer <persName ref="lub-actors-26">kayserlichen mayestät</persName>  
+<lb n="21"/>unnderthenigist anzuvermanen, das ir <persName ref="lub-actors-26">mayestät</persName> inen, denen  
+<lb n="22"/>von <orgName ref="lub-actors-276">Glaris</orgName>, nachmals vorangeregter copei gemeß  
+<lb n="23"/>schreiben und sy darneben ersuechen lassen wolten,  
+<lb n="24"/>ainen unvergriffnen stillstannd zu halten, wie ir dann  
+<lb n="25"/>eurs tails auch halten solten. So were ir <persName ref="lub-actors-26">mayestät</persName> genedigist  
+<lb n="26"/>bedacht, die sachen an gemaine <orgName ref="lub-actors-515">Aidgnosschafft</orgName> rats
+<lb break="no" n="27"/>poten durch derselben comissarien gelanngen ze lassen, 
+<lb n="28"/>und die sachen dahin zuvergleichen, damit sy, die <orgName ref="lub-actors-515">Aid
+<lb break="no" n="29"/>gnossen</orgName>, ain oder zwen und dann ir auch sovil underhandler 
+<lb n="30"/>oder tädingsleut erkhiessten und furschliegen, die solchen  
+<lb n="31"/>spann in der guete zwischen eur hinzulegen, sich alles fleiß be
+<pb facs="lub-media-3681" n="2"/>
+<lb break="no" n="32"/>mueen, und wo die guete nit statt, alsdann sumarie er
+<lb break="no" n="33"/>örtern und entschaiden solten etc. Unnd ist darauf 
+<lb n="34"/>in namen höchst gedachter <persName ref="lub-actors-26">kayserlicher mayestät</persName> unnser beger  
+<lb n="35"/>an euch, ir wellet in mitler zeit hierynnen auch  
+<lb n="36"/>ainen unvergriffnen stillstannd halten, des  
+<lb n="37"/>versehens ir <persName ref="lub-actors-26">kayserliche mayestät</persName> werde solches bei mergedachten   
+<lb n="38"/>von <orgName ref="lub-actors-276">Glaris</orgName> gleicher stalt erlanngen, wolten  
+<lb n="39"/>wir euch nit verhalten. Datum, <placeName ref="lub-places-19">Insprugg</placeName>, den  
+<lb n="40"/><date when="1560-08-28">28. augusti anno etc. 60</date>. 
+</p>
+        <p><lb n="41"/>Anntwort 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-411">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Schutz- und Schirmverschreibung auf Vaduz und Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-411">AT-TLA BBÄ OÖRG Kopialbuch von der fürstlichen Durchlaucht 1564-1567 fol. 185r+v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 28. Juni 1565 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Erzherzog Ferdinand II. wünscht von der Oberösterreichischen Regierung Bericht und Gutachten betreffend die&#13;
+Supplikation Graf Alwigs IX. von Sulz, die von Kaiser Maximilian I. erlangte Schutz- und Schirmverschreibung auf seine Herrschaften Vaduz und Schellenberg zu konfirmieren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-65">schutz und schirm</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1565-06-28">28. Jun 1565</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialbuch_von_der_f-rstlichen_durchlaucht_1564-1567_fol__185r-v-0001.jpg" xml:id="lub-media-3523" source="von-der-furstlichen-durchlaut-1564-1567-02-185r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialbuch_von_der_f-rstlichen_durchlaucht_1564-1567_fol__185r-v-0002.jpg" xml:id="lub-media-3524" source="von-der-furstlichen-durchlaut-1564-1567-03-185v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3523" n="1"/><lb n="1"/>Sulz  
+<lb n="2"/>Wolgeborner edle etc. Was gestalt unns der wolgeborn, unnser  
+<lb n="3"/>rat, oberster stallmaister unnd lieber getrewer <persName ref="lub-actors-9">Albig graf  
+<lb n="4"/>zu Sulz</persName> etc. neben beigelegter copi von weilennd kayser <persName ref="lub-actors-4">Maxi
+<lb break="no" n="5"/>milian</persName>, unnsers geliebten herrn unnd uranherrn, hochloblichister 
+<lb n="6"/>gedechtnus, erlanngten schuz unnd schirmbs verschreibung auf  
+<lb n="7"/>beede herrschafften <placeName ref="lub-places-7">Vaduz</placeName> unnd <placeName ref="lub-places-11">Schellenberg</placeName> durch ein
+<lb break="no" n="8"/>geschlossne supplication in unnderthenigkhait gebeten, das 
+<lb n="9"/>wir ime aus gnaden ermelte verschreibung, als jezo regierender  
+<lb n="10"/>herr unnd lanndsfurst der <placeName ref="lub-places-160">Ober</placeName>- unnd <placeName ref="lub-places-161">Vorderösterreichischen  
+<lb n="11"/>Lannden</placeName>, gnedigist confirmieren wolten, daz habt ir ab  
+<lb n="12"/>denselben einschlussen gehorsamlich zuersehen. Hierauf  
+<pb facs="lub-media-3524" n="2"/>
+<lb n="13"/>ist unnser gnediger bevelch, daz ir unns, waz wir in sachen der gebur  
+<lb n="14"/>nach thuen möchten, ewern bericht, rat unnd guetbedunckhen,  
+<lb n="15"/>gehorsamlich zueschickhet. 
+<lb n="16"/>Sovil aber sein annder unnderthenigs begern belanngt, da muget  
+<lb n="17"/>ir ime beruerter herrschafft halben, so weit unnd vil unns  
+<lb n="18"/>diß orts zuesteet, unnd wir auch schuldig sein, in furfallender not  
+<lb n="19"/>von unnserntwegen zur pillichait wol schuzen und schirmen,  
+<lb n="20"/>und bei seinen gerechtigkhaiten, nach vermug der angeregten  
+<lb n="21"/>kayserlichen verschreibung hanndthaben, an dem beschicht unser  
+<lb n="22"/>gnediger willen unnd mainung. Datum <placeName ref="lub-places-25">Prag</placeName>, <date when="1565-06-28">28. junii  
+<lb n="23"/>anno etc. 65</date>. 
+<lb n="24"/><persName ref="lub-actors-11">Ferdinannd</persName> 
+</p>
+        <p><lb n="25"/><gap/><lb n="26"/>an die <orgName ref="lub-actors-929">Oberösterreichische  
+<lb n="27"/>Regierung</orgName><lb n="28"/>Ad mandatum serenissimi domini  
+<lb n="29"/>archiducis proprium 
+<lb n="30"/><gap/></p>
+      </div>
+    </body>
+  </text>
+</TEI>

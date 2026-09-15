@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-412">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rechtsstreit mit dem Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="E">E: Eintrag, Signatur: <ref type="identifier" target="lub-objects-412">AT-TLA BBÄ OÖRG Kopialbücher an die fürstliche Durchlaucht 1587 fol. 833r-834v</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 10. Dezember 1587 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Gutachten der Oberösterreichischen Regierung betreffend die Beschwerde Karl Ludwig Graf von Sulz gegen das Landgericht Rankweil, im speziellen Fall durch die Aburteilung seines Untertanen Hans Schädler ohne vorhergehendes gütliches oder rechtliches Ersuchen an den Gerichtsstab des Grafen. Die Oberösterreichische Regierung untermauert jedoch das Vorgehen des Landgerichtes mit der Behauptung, dass die Urteile von Rankweil schon immer in die drei Herrschaften Vaduz, Schellenberg und Blumenegg ergangen waren.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+          <term ref="lub-keywords-179">Landrecht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1587-12-10">10. Dez 1587</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_an_die_f-rstliche_durchlaucht_1587_fol__833r-834v-0001.jpg" xml:id="lub-media-3060" source="1587-12-10-an-die-furstlichen-durchlaut-1587-833r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_an_die_f-rstliche_durchlaucht_1587_fol__833r-834v-0002.jpg" xml:id="lub-media-3061" source="1587-12-10-an-die-furstlichen-durchlaut-1587-833v.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_an_die_f-rstliche_durchlaucht_1587_fol__833r-834v-0003.jpg" xml:id="lub-media-3062" source="1587-12-10-an-die-furstlichen-durchlaut-1587-834r.jpg" corresp="E"/>
+    <graphic url="at-tla_bb-_o-rg_kopialb-cher_an_die_f-rstliche_durchlaucht_1587_fol__833r-834v-0004.jpg" xml:id="lub-media-3063" source="1587-12-10-an-die-furstlichen-durchlaut-1587-834v.jpg" corresp="E"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3060" n="1"/><lb n="1"/><orgName ref="lub-actors-7">Sulz</orgName><lb n="2"/>Durchleuchtigister etc. Als sich neu
+<lb break="no" n="3"/>licher zeit bei eur durchlaucht herr <persName ref="lub-actors-13">Carl Ludwig 
+<lb n="4"/>graff zu Sulz</persName> durch beygelegte suppli
+<lb break="no" n="5"/>cation gehorsamist beschwert, das seine under
+<lb break="no" n="6"/>thonen der dreyen herrschafften <placeName ref="lub-places-7">Vaduz</placeName>, 
+<pb facs="lub-media-3061" n="2"/><lb n="7"/><placeName ref="lub-places-11">Schelnberg</placeName> und <placeName ref="lub-places-12">Bluemenegg</placeName>, und sonderlich ver
+<lb break="no" n="8"/>schiner zeit sein, herrn grafen, underthan ainer, 
+<lb n="9"/><persName ref="lub-actors-2838">Hanns Schedler</persName>, durch ainen euer durchlaucht ranckhweil
+<lb break="no" n="10"/>ischen underthonen <persName ref="lub-actors-2837">Franz Frickhen</persName> ungeferlich 
+<lb n="11"/>umb 10 pazen willen, on vorgeend guetlichs  
+<lb n="12"/>oder rechtlichs ersuechen, sein, herrn grafen, ge
+<lb break="no" n="13"/>richtsstab mit <orgName ref="lub-actors-518">Ranckhweilische Landtgericht </orgName>
+<lb n="14"/>furgenomen und in die acht gebracht worden,  
+<lb n="15"/>und derwegen ermelte seine underthanen bei  
+<lb n="16"/>altem herkhomen bleiben und darwider nit  
+<lb n="17"/>zu beschwern lassen, angerueffen und gebeten.  
+<lb n="18"/>Ist unns auf unsern bevelch uber solche, des herrn  
+<lb n="19"/>grafen supplication, von euer durchlaucht  <orgName ref="lub-actors-2588">veldtkhirchischen  
+<lb n="20"/>beambten</orgName> beyvverwalter bericht ervolgt und  
+<lb n="21"/>zuekhomen. Dieweil sich dann vermüg solchen  
+<lb n="22"/>berichts, die durch gedachten <persName ref="lub-actors-2837">Frickhen</persName> wider er
+<lb break="no" n="23"/>nennten <persName ref="lub-actors-2838">Schedler</persName> geclagte schuldforderung an
+<lb break="no" n="24"/>fangs 17 fl. etlich khreuzer betroffen, und 
+<lb n="25"/>volgents auf die 90 fl. khomen, deßwegen  
+<lb n="26"/>ernennter herr graff, als ob solche forderung  
+<lb n="27"/>nur 10 pazen betreffen solle, durch die seinigen  
+<lb n="28"/>zu milt berichten worden. Und dann von alters  
+<pb facs="lub-media-3062" n="3"/>
+<lb n="29"/>heer irem, der ambtleut, anzaigen nach, im  
+<lb n="30"/>brauch gewest und bei euer durchlaucht underthonen und  
+<lb n="31"/>der benachparten daselbst umb freyen waal  
+<lb n="32"/>gestannden, ire schuldner mit dem landt- und  
+<lb n="33"/>gantrechten, oder aber mit dem freyen  
+<lb n="34"/><orgName ref="lub-actors-518">Landtgericht</orgName> zuersuechen. Darzue wissen
+<lb break="no" n="35"/>lich, das etwan die österreichischen underthanen 
+<lb n="36"/>umb schlechter bezallung willen die gräfisch  
+<lb n="37"/>sulzischen underthanen mit rottweilischen  
+<lb n="38"/>und wangischen proceß furgenomen, und  
+<lb n="39"/>das die landtrecht nit geachtet, sonnder umb
+<lb break="no" n="40"/>ganngen, khain neuerung, wie dann auch be
+<lb break="no" n="41"/>weißlich, das die ranckhweilischen proceß  
+<lb n="42"/>noch bei sein, des grafen, voreltern vor langen  
+<lb n="43"/>unfurdenckhliche jaren in angedeute des  
+<lb n="44"/>grafen dreyen herrschafften ergangen, welches  
+<lb n="45"/>auch die vorigen herrn grafen zu <persName ref="lub-actors-13">Sulz</persName>  
+<lb n="46"/>für recht und guet sein lassen. So würdet  
+<lb n="47"/>demnach berurt euer durchlaucht <orgName ref="lub-actors-518">Landtgericht</orgName> zu  
+<lb n="48"/><placeName ref="lub-places-40">Ranckhweil</placeName>, dessen jeziger zeit nit  
+<lb n="49"/>weniger fueg und recht haben, und dabei  
+<lb n="50"/>glassen werden muessen, wern wir demnach  
+<lb n="51"/>der ghorsamisten mainung, euer durchlaucht mochten  
+<pb facs="lub-media-3063" n="4"/>
+<lb n="52"/>merernenten herrn grafen aines solchen,  
+<lb n="53"/>wie obsteet gnedigist berichten und vermelden,  
+<lb n="54"/>euer durchlaucht wolten sich zu ime versehen, er würde  
+<lb n="55"/>solchem altem gebrauch und heerkhomen  
+<lb n="56"/>verner auch nit zuwider sein, sonndern es darbei  
+<lb n="57"/>verbleiben, entgegen wern euer durchlaucht auch mit nichten  
+<lb n="58"/>gedacht, ine, herrn grafen, oder seine underthanen  
+<lb n="59"/>wider die gebür und billigkhait in ainem oder  
+<lb n="60"/>dem anndern beschwern zu lassen etc. Und ob  
+<lb n="61"/>wol der herr graf sich hievor durch ain schreiben,  
+<lb n="62"/>so aber seither verlegt worden, diser sachen  
+<lb n="63"/>halb guetlicher hanndlung anerboten, aber in  
+<lb n="64"/>obberurter seiner jezigen supplication des
+<lb break="no" n="65"/>halben verner khain anregung beschieht, hielten 
+<lb n="66"/>wir gehorsamist darfür, das die verordnung  
+<lb n="67"/>der durch euer durchlaucht <orgName ref="lub-actors-2588">veldtkhirchischen ambtleut</orgName>  
+<lb n="68"/>in irem bericht ernenten comissarien, wie  
+<lb n="69"/>auch die comission biß auf weiter des grafen  
+<lb n="70"/>anhalten, durch euer durchlaucht gnädigst eingestelt werden  
+<lb n="71"/>mochte, doch steet das alles etc. Datum,  
+<lb n="72"/><date when="1587-12-10">zehenden decembris anno etc. 87</date>.  
+<lb n="73"/>An die fürstliche durchlaucht etc. 
+<lb n="74"/><orgName ref="lub-actors-929">Regiment</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

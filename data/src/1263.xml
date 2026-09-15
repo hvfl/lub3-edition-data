@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1263">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abschrift Lehenrevers von Hans Rig und Hans Banzer aus Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1263">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 6. April 1556 / Beschreibstoff: Papier, 4 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Lehenrevers für Hans Rig und Hans Banzer aus Triesen als Lehensträger der Kapelle Unsere Liebe Frau und der dazu gehörenden Güter.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1556-04-06">6. Apr 1556</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349__unfol_-0001.jpg" xml:id="lub-media-3765" source="img-0097-1556-04-06.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0002.jpg" xml:id="lub-media-3766" source="img-0098-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0003.jpg" xml:id="lub-media-3767" source="img-0099-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0004.jpg" xml:id="lub-media-3768" source="img-0100-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3765" n="1"/><lb n="1"/>Wir nachbenannten mit namen <persName ref="lub-actors-314">Hanns  
+<lb n="2"/>Rig</persName> unnd <persName ref="lub-actors-1912">Hanns Banzer</persName>, baid von <placeName ref="lub-places-79">Trüßen</placeName>, als  
+<lb n="3"/>lehentrager <placeName ref="lub-places-183">Unnser Lieben Frawen Cappel</placeName> unnd der
+<lb break="no" n="4"/>selbigen zuegehörigen guetter. Bekhennen 
+<lb n="5"/>für unns selbs unnd inn namen unnserer mitverwanten,  
+<lb n="6"/>auch für unns, all unnser leiberben unnd nachkhomen  
+<lb n="7"/>unnd thund khundt allermenigclichem mit disem  
+<lb n="8"/>brief. Demnach der edl unnd vesst junckher  
+<lb n="9"/><persName ref="lub-actors-156">Balthaßer von Rambschwag</persName>, römisch königlicher mayestät etc.  
+<lb n="10"/>vogt zu <placeName ref="lub-places-13">Guettemberg</placeName>, unnser gunstiger junckher,  
+<lb n="11"/>für sich unnd seine erben heut dato unns als lehen
+<lb break="no" n="12"/>trager sambt unnsern mitverwanten, all unnßer 
+<lb n="13"/>leiberben unnd nachkhomen, zu ainem rechten leib  
+<lb n="14"/>erblehen, unnd nach leiberblehens recht hingeliehen  
+<lb n="15"/>unnd verlihen hat, der bemelten <placeName ref="lub-places-183">Unnser Lieben Frawen</placeName>  
+<lb n="16"/>zu <placeName ref="lub-places-79">Thrüßen</placeName> <placeName ref="lub-places-183">Cappel</placeName> unnd derselben zuegehörigen  
+<lb n="17"/>güetere zue <placeName ref="lub-places-79">Trißen</placeName> im torf, unnd daselbst rumb   
+<lb n="18"/>in der wolgebornen, unnsern genedigen herrn graf
+<lb break="no" n="19"/>en zu <orgName ref="lub-actors-7">Sulz</orgName> etc., herrschafft <placeName ref="lub-places-7">Vaduz</placeName> gelegen, was dann 
+<lb n="20"/>von alter heer zu gerürten güetern gehort unnd ge
+<lb break="no" n="21"/>hörn soll, unnd sonnderlich alles mit steeg, weeg, won, 
+<lb n="22"/>waidt unnd allen andern rechten, nuzen, früchten,  
+<lb n="23"/>gueten gewonhaiten, begreiffungen unnd zuegehorungen  
+<lb n="24"/>laut unnd vermeg aines hierumb beihendigen ver
+<lb break="no" n="25"/>sigelten leiberblehen briefs, so gedacher unnser gunst
+<lb break="no" n="26"/>iger junckher unnd lehenherr unns hiemit zuegestelt 
+<lb n="27"/>unnd gegeben hat, welicher von wort zu wort also  
+<lb n="28"/>lauttende: Ich <persName ref="lub-actors-156">Balthaßer von Rambschwag</persName> etc.,  
+<lb n="29"/>wie dann die abschrifft des lehenbriefs auß
+<lb break="no" n="30"/>weist unnd die jhrigen lehengüter darjnnen begriffen.
+</p>
+        <p><pb facs="lub-media-3766" n="2"/><lb n="31"/>Also unnd mit solichem geding, das si, die obgemelte  
+<lb n="32"/>lehentrager für sich selbsten sambt iren mitver
+<lb break="no" n="33"/>wanten, all ire leiberben unnd nachkhomen, ehegemelte 
+<lb n="34"/>güetter nuhn hinfür eewigelich zu rechten leib  
+<lb n="35"/>erblehen brauchen, nuzen, niessen, pflanzen, pawen  
+<lb n="36"/>und in weßenlichen ehrn halten unnd inn albeg vor  
+<lb n="37"/>abgang zuverhüetten, unnd in sonnders darmit hand
+<lb break="no" n="38"/>len unnd thun sollen, als  mit irem leib erblehen unnd 
+<lb n="39"/>nach leiberblehens recht. Doch albeg mit mein unnd  
+<lb n="40"/>meiner erben, als ires lehen herrn bewilligung, dar
+<lb break="no" n="41"/>umben so sollen si, die lehentrager, für sich unnd ire 
+<lb n="42"/>mitverwanten, auch derselbigen aller leiberben unnd  
+<lb n="43"/>nachkhomen alle jhar auf <date when="--11-11">Sanct Marthins des hail
+<lb break="no" n="44"/>ligen bischofs tag</date>, achttag vor oder nach ungevar,  
+<lb n="45"/>mir, meinen erben unnd nachkhomen sechs pfundt wenig
+<lb break="no" n="46"/>er dreyer pfening gueter costenzer münz unnd 
+<lb n="47"/>veldtkircher werung geen <placeName ref="lub-places-71">Baltharß</placeName> oder <placeName ref="lub-places-13">Guetem
+<lb n="48"/>berg</placeName> zu bezallen verfallen schuldig sein, ohne unnsern  
+<lb n="49"/>costen unnd schaden, gemelte lehentrager ald ire  
+<lb n="50"/>mitverwanten, auch derselbigen aller erben unnd  
+<lb n="51"/>nachkhomen, mitler weil ernante lehensstuckh,  
+<lb n="52"/>ains oder mer, nit in weßenlichen ehrn hielten,  
+<lb n="53"/>oder ohne mein, des lehenherrn, wissen beschweren  
+<lb n="54"/>wölten, ald gleichfals ernanter lehenzinß inn  
+<lb n="55"/>massen vorstet, nicht gericht wurde, unnd besonnder  
+<lb n="56"/>sollen si, die lehentrager, ire mitverwanten, ir  
+<lb n="57"/>aller erben unnd nachkhomen, dise gemelte stuckh unnd  
+<lb n="58"/>güetter nit versezen, verkhauffen, verendern, zer
+<lb break="no" n="59"/>tailen unnd gar nichts davon khomen lassen, inn 
+<lb n="60"/>khain weiß noch weeg, ohne mein, meiner erben unnd  
+<lb n="61"/>nachkhomen hand, gunst, wissen unnd willen. Wann  
+<pb facs="lub-media-3767" n="3"/>
+<lb n="62"/>sy aber uber khurz oder lanng zeit ihre rechte  
+<lb n="63"/>unnd gerechtigkhait daran verleihen, versezen,  
+<lb n="64"/>verkhauffen wolten, alßdann sollen si, die mir,  
+<lb n="65"/>meinen erben unnd nachkhomen zuvor anbieten unnd  
+<lb n="66"/>khundt thun, auch vier pfundt pfening costanzer  
+<lb n="67"/>münz unnd vermelter werung necher lassen unnd  
+<lb n="68"/>geben dann jemant andern, welten aber ich oder  
+<lb n="69"/>meine erben unnd nachkhomen soliche güeter nit, so  
+<lb n="70"/>megen si die in vier wochen den nechsten nach  
+<lb n="71"/>irem anbieten, die dannenthin ire recht sament
+<lb break="no" n="72"/>hafft verkhauffen wem si wellend, doch mir, meinen 
+<lb n="73"/>erben ald nachkhomen an allen unnsern zinsen, zinß
+<lb break="no" n="74"/>fellen, rechten unnd gerechtigkhaiten ohne schaden, 
+<lb n="75"/>unnd wo si deren stuckh ains oder mer nit hielten,  
+<lb n="76"/>so soll unnd ist erst ernente lehengüeter mir unnd  
+<lb n="77"/>meinen erben als irem lehenherrn, allenclich haim
+<lb break="no" n="78"/>gefallen nach leiberblehens recht, weliche wir 
+<lb n="79"/>alßdann nach unnserm gefallen verner verleichen  
+<lb n="80"/>megen, zu urkhundt mit meinem aignen anhangenden  
+<lb n="81"/>insigl für mich unnd meine erben verferttigt, unnd  
+<lb n="82"/>geben <date when="1556-04-06">montags in osternfeirtagen nach Cristi  
+<lb n="83"/>geburt gezelt fünffzechenhundert fünffzig  
+<lb n="84"/>unnd sechs jharn</date>. Unnd des alles zu  
+<lb n="85"/>warem urkhundt eewigen sicherhait zu besag unnd  
+<lb n="86"/>bevesstigung diser obgeschriben sachen haben wir,  
+          <lb n="87"/>obgenante lehentrager <persName ref="lub-actors-314">Hanns Rig</persName> unnd <persName ref="lub-actors-1912">Hanns  
+<lb n="88"/>Banzer</persName> für unns selbs unnd als lehentrager unnsern  
+<lb n="89"/>mitverwanten, unnser aller erben unnd nachkhomen  
+<lb n="90"/>mit vleiß unnd ernst gepeten und erpeten den  
+<lb n="91"/>ersamen unnd weisen <persName ref="lub-actors-292">Steffan Frombolten</persName> von  
+<lb n="92"/><placeName ref="lub-places-53">Schan</placeName>, der zeit aman der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>,  
+<pb facs="lub-media-3768" n="4"/>
+<lb n="93"/>das er sein aigen insigl ime und seinen erben  
+<lb n="94"/>ohne schaden zu gezeuckhnus der sachen für unns, all  
+<lb n="95"/>unnser erben unnd nachkhomen offenlich gehenckht  
+<lb n="96"/>hat an disenn brief, der geben ist obgeschribens leh
+<lb break="no" n="97"/>enbriefs. Datum am <date when="1556-04-06">montag an den ostern
+<lb break="no" n="98"/>feirtagen nach Cristi geburt gezelt fünfzechenhundert 
+<lb n="99"/>fünffzig unnd sechs jhar</date>. 
+</p>
+        <p><lb n="100"/>Abschrifft  
+<lb n="101"/>des lechen reverß von  
+<lb n="102"/><persName ref="lub-actors-314">Hanns Rigen</persName> und <persName ref="lub-actors-1912">Hannß  
+<lb n="103"/>Banzern</persName>, baid zu <placeName ref="lub-places-79">Trüßen</placeName>,  
+<lb n="104"/>als lehentrager<placeName ref="lub-places-183"> Unnser Lieben  
+<lb n="105"/>Frawen Cappeln</placeName> und der
+<lb break="no" n="106"/>selbigen zuegehörigen güetern 
+<lb n="107"/>sambt iren mitverwanten. 
+</p>
+        <p><lb n="108"/>In sachen  
+<lb n="109"/><persName ref="lub-actors-156">Rambschwag</persName><lb n="110"/>contra 
+<lb n="111"/><orgName ref="lub-actors-7">Sulz</orgName></p>
+        <p><lb n="112"/>Registrata manu propriae <date when="1595-04-01">1. aprilis  
+<lb n="113"/>anno etc. 95 </date></p>
+        <p><lb n="114"/>Mandati de relaxando  
+<lb n="115"/>arresto. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

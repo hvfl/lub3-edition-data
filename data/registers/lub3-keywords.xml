@@ -17,12 +17,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-08-12 12:50:30 aus </p>
+        <p>Datenbankexport vom 2026-09-15 13:11:48 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-08-12T12:50:30+02:00">teiHeader was automatically produced from the database 2026-08-12T12:50:30+02:00</change>
+      <change when="2026-09-15T13:11:48+02:00">teiHeader was automatically produced from the database 2026-09-15T13:11:48+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -136,14 +136,6 @@
           <label xml:lang="en" type="main">blutbann</label>
           <label xml:lang="en" type="sort">blutbann</label>
         </item>
-        <item xml:id="lub-keywords-16">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Güterverkauf</label>
-          <label xml:lang="de" type="sort">gueterverkauf</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Güterverkauf</label>
-          <label xml:lang="en" type="sort">gueterverkauf</label>
-        </item>
         <item xml:id="lub-keywords-17">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Zins</label>
@@ -183,14 +175,6 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Privileg</label>
           <label xml:lang="en" type="sort">privileg</label>
-        </item>
-        <item xml:id="lub-keywords-23">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Erbe</label>
-          <label xml:lang="de" type="sort">erbe</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Erbe</label>
-          <label xml:lang="en" type="sort">erbe</label>
         </item>
         <item xml:id="lub-keywords-26">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -263,14 +247,6 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Protestantismus</label>
           <label xml:lang="en" type="sort">protestantismus</label>
-        </item>
-        <item xml:id="lub-keywords-37">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Konfession</label>
-          <label xml:lang="de" type="sort">konfession</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Konfession</label>
-          <label xml:lang="en" type="sort">konfession</label>
         </item>
         <item xml:id="lub-keywords-38">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -558,6 +534,14 @@
           <label xml:lang="en" type="main">passbrief</label>
           <label xml:lang="en" type="sort">passbrief</label>
         </item>
+        <item xml:id="lub-keywords-118">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Landgericht</label>
+          <label xml:lang="de" type="sort">landgericht</label>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Landgericht</label>
+          <label xml:lang="en" type="sort">landgericht</label>
+        </item>
         <item xml:id="lub-keywords-121">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Geld</label>
@@ -677,14 +661,6 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Vieh</label>
           <label xml:lang="en" type="sort">vieh</label>
-        </item>
-        <item xml:id="lub-keywords-151">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Weide</label>
-          <label xml:lang="de" type="sort">weide</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Weide</label>
-          <label xml:lang="en" type="sort">weide</label>
         </item>
         <item xml:id="lub-keywords-152">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -1119,14 +1095,6 @@
           <label xml:lang="en" type="main">Wegrecht</label>
           <label xml:lang="en" type="sort">wegrecht</label>
         </item>
-        <item xml:id="lub-keywords-256">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Tränke</label>
-          <label xml:lang="de" type="sort">traenke</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Tränke</label>
-          <label xml:lang="en" type="sort">traenke</label>
-        </item>
         <item xml:id="lub-keywords-257">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Maiensäss</label>
@@ -1206,14 +1174,6 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Pfand</label>
           <label xml:lang="en" type="sort">pfand</label>
-        </item>
-        <item xml:id="lub-keywords-269">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Satzung</label>
-          <label xml:lang="de" type="sort">satzung</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Satzung</label>
-          <label xml:lang="en" type="sort">satzung</label>
         </item>
         <item xml:id="lub-keywords-270">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -1383,14 +1343,6 @@
           <label xml:lang="en" type="main">Amt</label>
           <label xml:lang="en" type="sort">amt</label>
         </item>
-        <item xml:id="lub-keywords-297">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Kaplan</label>
-          <label xml:lang="de" type="sort">kaplan</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Kaplan</label>
-          <label xml:lang="en" type="sort">kaplan</label>
-        </item>
         <item xml:id="lub-keywords-300">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Beleidigung</label>
@@ -1543,14 +1495,6 @@
           <label xml:lang="en" type="main">Fischerei</label>
           <label xml:lang="en" type="sort">fischerei</label>
         </item>
-        <item xml:id="lub-keywords-325">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Gefängnis</label>
-          <label xml:lang="de" type="sort">gefaengnis</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Gefängnis</label>
-          <label xml:lang="en" type="sort">gefaengnis</label>
-        </item>
         <item xml:id="lub-keywords-327">
           <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Verhör</label>
@@ -1628,14 +1572,6 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Silbergeschirr</label>
           <label xml:lang="en" type="sort">silbergeschirr</label>
-        </item>
-        <item xml:id="lub-keywords-342">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Kauf</label>
-          <label xml:lang="de" type="sort">kauf</label>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Kauf</label>
-          <label xml:lang="en" type="sort">kauf</label>
         </item>
         <item xml:id="lub-keywords-343">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -1779,19 +1715,6 @@
           <label xml:lang="en" type="main">pirschbüchse</label>
           <label xml:lang="en" type="sort">pirschbuechse</label>
         </item>
-        <item xml:id="lub-keywords-365">
-          <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">sant Martins tag</label>
-          <label xml:lang="de" type="sort">sant martins tag</label>
-          <note type="description" xml:lang="de">
-            <list type="ordered">
-              <item>November. Beliebter Termin für Abgaben, besonders für Lehen-, Pacht- und Schuldzinsen.</item>
-            </list>
-          </note>
-          <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">sant Martins tag</label>
-          <label xml:lang="en" type="sort">sant martins tag</label>
-        </item>
         <item xml:id="lub-keywords-366">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">mannsspanne</label>
@@ -1871,13 +1794,13 @@
         </item>
         <item xml:id="lub-keywords-375">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Etschkreuzer</label>
+          <label xml:lang="de" type="main">etschkreuzer</label>
           <label xml:lang="de" type="sort">etschkreuzer</label>
           <note type="description" xml:lang="de">
             <p>Tiroler Groschenmünze mit aufgeprägtem Doppelkreuz, benannt nach dem Fluss Etsch.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Etschkreuzer</label>
+          <label xml:lang="en" type="main">etschkreuzer</label>
           <label xml:lang="en" type="sort">etschkreuzer</label>
         </item>
         <item xml:id="lub-keywords-376">
@@ -2093,13 +2016,13 @@
         </item>
         <item xml:id="lub-keywords-397">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">eiserne Kuh</label>
+          <label xml:lang="de" type="main">eiserne kuh</label>
           <label xml:lang="de" type="sort">eiserne kuh</label>
           <note type="description" xml:lang="de">
             <p>Eine eiserne Kuh war eine mit einer entsprechender Abgabe verbundene Verpflichtung zum Halten einer Kuh. Im engeren Sinn verstand man darunter eine aus dem Kirchenvermögen stammende bzw. der Kirche gestiftete Kuh, die einem Bauern gegen Zins überlassen wurde.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">eiserne Kuh</label>
+          <label xml:lang="en" type="main">eiserne kuh</label>
           <label xml:lang="en" type="sort">eiserne kuh</label>
         </item>
         <item xml:id="lub-keywords-398">
@@ -2299,13 +2222,13 @@
         </item>
         <item xml:id="lub-keywords-420">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Schneeschleife</label>
+          <label xml:lang="de" type="main">schneeschleife</label>
           <label xml:lang="de" type="sort">schneeschleife</label>
           <note type="description" xml:lang="de">
             <p>Breiter schneebedeckter Bergrücken bzw. Wasserscheide, die als Grenzpunkt dient.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Schneeschleife</label>
+          <label xml:lang="en" type="main">schneeschleife</label>
           <label xml:lang="en" type="sort">schneeschleife</label>
         </item>
         <item xml:id="lub-keywords-421">
@@ -2318,13 +2241,13 @@
         </item>
         <item xml:id="lub-keywords-424">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Spiess</label>
+          <label xml:lang="de" type="main">spiess</label>
           <label xml:lang="de" type="sort">spiess</label>
           <note type="description" xml:lang="de">
             <p>Ein Spiess (auch Pike von französisch piquer ‚stechen‘) ist eine historische Stichwaffe zu Jagd- und Kriegszwecken, die im Unterschied zum Speer oder Wurfspieß nicht geworfen wird. Synonym wird oft das Wort Lanze verwendet, das jedoch eigentlich den Spieß des Reiters bezeichnet.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Spiess</label>
+          <label xml:lang="en" type="main">spiess</label>
           <label xml:lang="en" type="sort">spiess</label>
         </item>
         <item xml:id="lub-keywords-425">
@@ -2340,46 +2263,46 @@
         </item>
         <item xml:id="lub-keywords-426">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Harnisch</label>
+          <label xml:lang="de" type="main">harnisch</label>
           <label xml:lang="de" type="sort">harnisch</label>
           <note type="description" xml:lang="de">
             <p>Schutzkleidung für den Kriegseinsatz.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Harnisch</label>
+          <label xml:lang="en" type="main">harnisch</label>
           <label xml:lang="en" type="sort">harnisch</label>
         </item>
         <item xml:id="lub-keywords-427">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Hakenbüchse</label>
+          <label xml:lang="de" type="main">hakenbüchse</label>
           <label xml:lang="de" type="sort">hakenbuechse</label>
           <note type="description" xml:lang="de">
-            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern<supplied>1</supplied> (nach anderen Angaben bis zu 25 Millimeter).</p>
+            <p>Mit Hakenbüchse oder Arkebuse wird eine vielfältige Familie von Vorderladern des 15. und 16. Jahrhunderts bezeichnet. Diese finden sich in Europa und Asien mit Luntenschloss und einem Kaliber von etwa 18 bis 20 Millimetern (nach anderen Angaben bis zu 25 Millimeter).</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Hakenbüchse</label>
+          <label xml:lang="en" type="main">hakenbüchse</label>
           <label xml:lang="en" type="sort">hakenbuechse</label>
         </item>
         <item xml:id="lub-keywords-428">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Trommel</label>
+          <label xml:lang="de" type="main">trommel</label>
           <label xml:lang="de" type="sort">trommel</label>
           <note type="description" xml:lang="de">
             <p>Kriegsinstrument</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Trommel</label>
+          <label xml:lang="en" type="main">trommel</label>
           <label xml:lang="en" type="sort">trommel</label>
         </item>
         <item xml:id="lub-keywords-429">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Hauptgut</label>
+          <label xml:lang="de" type="main">hauptgut</label>
           <label xml:lang="de" type="sort">hauptgut</label>
           <note type="description" xml:lang="de">
             <p>Grundstock; Kapital</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Hauptgut</label>
+          <label xml:lang="en" type="main">hauptgut</label>
           <label xml:lang="en" type="sort">hauptgut</label>
         </item>
         <item xml:id="lub-keywords-431">
@@ -2436,35 +2359,35 @@
         </item>
         <item xml:id="lub-keywords-436">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Faktor</label>
+          <label xml:lang="de" type="main">faktor</label>
           <label xml:lang="de" type="sort">faktor</label>
           <note type="description" xml:lang="de">
             <p>Händler bzw. Beauftragter einer Handelskompanie oder eines Kaufmanns.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Faktor</label>
+          <label xml:lang="en" type="main">faktor</label>
           <label xml:lang="en" type="sort">faktor</label>
         </item>
         <item xml:id="lub-keywords-437">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Rod</label>
+          <label xml:lang="de" type="main">rod</label>
           <label xml:lang="de" type="sort">rod</label>
           <note type="description" xml:lang="de">
             <p>Reihenfolge</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Rod</label>
+          <label xml:lang="en" type="main">rod</label>
           <label xml:lang="en" type="sort">rod</label>
         </item>
         <item xml:id="lub-keywords-438">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Wagner</label>
+          <label xml:lang="de" type="main">wagner</label>
           <label xml:lang="de" type="sort">wagner</label>
           <note type="description" xml:lang="de">
-            <p>Handwerker, der Räder, Wagen und andere landwirtschaftliche Geräte aus Holz herstellt</p>
+            <p>Handwerker, der Räder, Wagen und andere landwirtschaftliche Geräte aus Holz herstellt.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Wagner</label>
+          <label xml:lang="en" type="main">wagner</label>
           <label xml:lang="en" type="sort">wagner</label>
         </item>
         <item xml:id="lub-keywords-439">
@@ -2554,36 +2477,25 @@
         </item>
         <item xml:id="lub-keywords-447">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Luder</label>
+          <label xml:lang="de" type="main">luder</label>
           <label xml:lang="de" type="sort">luder</label>
           <note type="description" xml:lang="de">
             <p>Stark riechende Lockspeise.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Luder</label>
+          <label xml:lang="en" type="main">luder</label>
           <label xml:lang="en" type="sort">luder</label>
-        </item>
-        <item xml:id="lub-keywords-449">
-          <objectType xml:lang="de">Sachschlagwort</objectType>
-          <label xml:lang="de" type="main">Ulme</label>
-          <label xml:lang="de" type="sort">ulme</label>
-          <note type="description" xml:lang="de">
-            <p>Baum</p>
-          </note>
-          <objectType xml:lang="en">Event</objectType>
-          <label xml:lang="en" type="main">Ulme</label>
-          <label xml:lang="en" type="sort">ulme</label>
         </item>
         <item xml:id="lub-keywords-450">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Neubruch (Noval)</label>
-          <label xml:lang="de" type="sort">neubruch (noval)</label>
+          <label xml:lang="de" type="main">neubruch</label>
+          <label xml:lang="de" type="sort">neubruch</label>
           <note type="description" xml:lang="de">
             <p>Zehnt auf Neuland</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Neubruch (Noval)</label>
-          <label xml:lang="en" type="sort">neubruch (noval)</label>
+          <label xml:lang="en" type="main">neubruch</label>
+          <label xml:lang="en" type="sort">neubruch</label>
         </item>
         <item xml:id="lub-keywords-451">
           <objectType xml:lang="de">Sachschlagwort</objectType>
@@ -2620,14 +2532,14 @@
         </item>
         <item xml:id="lub-keywords-455">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Stückli (Kanone)</label>
-          <label xml:lang="de" type="sort">stueckli (kanone)</label>
+          <label xml:lang="de" type="main">stückli</label>
+          <label xml:lang="de" type="sort">stueckli</label>
           <note type="description" xml:lang="de">
             <p>Bezeichnung für eine kleine oder leichte fahrbare Kanone.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Stückli (Kanone)</label>
-          <label xml:lang="en" type="sort">stueckli (kanone)</label>
+          <label xml:lang="en" type="main">stückli</label>
+          <label xml:lang="en" type="sort">stueckli</label>
         </item>
         <item xml:id="lub-keywords-457">
           <objectType xml:lang="de">Quellenbegriff</objectType>
@@ -2650,12 +2562,6 @@
           <objectType xml:lang="en">Object</objectType>
           <label xml:lang="en" type="main">wuerkopf</label>
           <label xml:lang="en" type="sort">wuerkopf</label>
-        </item>
-        <item xml:id="lub-keywords-461">
-          <label xml:lang="de" type="main">extanz</label>
-          <label xml:lang="de" type="sort">extanz</label>
-          <label xml:lang="en" type="main">extanz</label>
-          <label xml:lang="en" type="sort">extanz</label>
         </item>
         <item xml:id="lub-keywords-462">
           <label xml:lang="de" type="main">Bildung</label>
@@ -2759,8 +2665,8 @@
         </item>
         <item xml:id="lub-keywords-477">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Trost (Tröstung)</label>
-          <label xml:lang="de" type="sort">trost (troestung)</label>
+          <label xml:lang="de" type="main">trost</label>
+          <label xml:lang="de" type="sort">trost</label>
           <note type="description" xml:lang="de">
             <list type="unordered">
               <item>Hilfe, Unterstützung.</item>
@@ -2769,29 +2675,29 @@
             </list>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Trost (Tröstung)</label>
-          <label xml:lang="en" type="sort">trost (troestung)</label>
+          <label xml:lang="en" type="main">trost</label>
+          <label xml:lang="en" type="sort">trost</label>
         </item>
         <item xml:id="lub-keywords-479">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Barchent</label>
+          <label xml:lang="de" type="main">barchent</label>
           <label xml:lang="de" type="sort">barchent</label>
           <note type="description" xml:lang="de">
             <p>Barchent, veraltend auch Parchend, ist ein Mischgewebe aus Baumwolle und Leinen. Oft wird die Stoffbahn auf einer oder auf beiden Seiten aufgeraut.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Barchent</label>
+          <label xml:lang="en" type="main">barchent</label>
           <label xml:lang="en" type="sort">barchent</label>
         </item>
         <item xml:id="lub-keywords-480">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Fardel</label>
+          <label xml:lang="de" type="main">fardel</label>
           <label xml:lang="de" type="sort">fardel</label>
           <note type="description" xml:lang="de">
             <p>Warenballen oder Bündel.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Fardel</label>
+          <label xml:lang="en" type="main">fardel</label>
           <label xml:lang="en" type="sort">fardel</label>
         </item>
         <item xml:id="lub-keywords-481">
@@ -2807,13 +2713,13 @@
         </item>
         <item xml:id="lub-keywords-482">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Drillich</label>
+          <label xml:lang="de" type="main">drillich</label>
           <label xml:lang="de" type="sort">drillich</label>
           <note type="description" xml:lang="de">
             <p>Die Gewebeart ist nach den dreifachen Fäden benannt. Die Bezeichnung stammt aus dem Althochdeutschen und führt zurück zum lateinischen trilix ‚dreifädig‘ (lateinisch licium ‚Faden‘). Durch die in Köperbindung gefertigten Stoffe entsteht die hohe Reißfestigkeit. In dieser Art werden Möbelstoffe gewebt.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Drillich</label>
+          <label xml:lang="en" type="main">drillich</label>
           <label xml:lang="en" type="sort">drillich</label>
         </item>
         <item xml:id="lub-keywords-483">
@@ -2840,13 +2746,13 @@
         </item>
         <item xml:id="lub-keywords-485">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Spezerei</label>
+          <label xml:lang="de" type="main">spezerei</label>
           <label xml:lang="de" type="sort">spezerei</label>
           <note type="description" xml:lang="de">
             <p>Gewürze, Drogeriewaren, Kolonialwaren.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Spezerei</label>
+          <label xml:lang="en" type="main">spezerei</label>
           <label xml:lang="en" type="sort">spezerei</label>
         </item>
         <item xml:id="lub-keywords-486">
@@ -3005,13 +2911,13 @@
         </item>
         <item xml:id="lub-keywords-500">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Pfefferzins</label>
+          <label xml:lang="de" type="main">pfefferzins</label>
           <label xml:lang="de" type="sort">pfefferzins</label>
           <note type="description" xml:lang="de">
             <p>Abgabe, die in Pfeffer zu leisten ist.</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Pfefferzins</label>
+          <label xml:lang="en" type="main">pfefferzins</label>
           <label xml:lang="en" type="sort">pfefferzins</label>
         </item>
         <item xml:id="lub-keywords-501">
@@ -3037,22 +2943,26 @@
           <label xml:lang="en" type="sort">umgeld</label>
         </item>
         <item xml:id="lub-keywords-503">
-          <label xml:lang="de" type="main">Velleianum</label>
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">velleianum</label>
           <label xml:lang="de" type="sort">velleianum</label>
           <note type="description" xml:lang="de">
             <p>Schutz von Frauen vor unüberlegter Übernahme von Bürgschaften oder ähnlichen Verpflichtungen (intercessio) für Dritte.</p>
           </note>
-          <label xml:lang="en" type="main">Velleianum</label>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">velleianum</label>
           <label xml:lang="en" type="sort">velleianum</label>
         </item>
         <item xml:id="lub-keywords-504">
-          <label xml:lang="de" type="main">Jülische Contract</label>
-          <label xml:lang="de" type="sort">juelische contract</label>
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">jülischer contract</label>
+          <label xml:lang="de" type="sort">juelischer contract</label>
           <note type="description" xml:lang="de">
             <p>Vertrag zwischen Erzbischof Adolf von Köln und den Grafen Johann und Sebastian von Sayn-Homburg wegen der Hälfte der Grafschaft Neuenahr welche des letztern Vorfahren Graf Dietrich von Sayn von weiland Erzbischof Dietrich verpfändet, zusammen mit Rheinbach (Schloß, Stadt, Zoll und Amt) und von dem Herzog Wilhelm von Jülich-Kleve-Berg feindlich eingenommen worden, wonach den Grafen eine jährliche Rente von 800 Goldgulden aus dem Rheinzoll zu Andernach gezahlt werden soll.</p>
           </note>
-          <label xml:lang="en" type="main">Jülische Contract</label>
-          <label xml:lang="en" type="sort">juelische contract</label>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">jülischer contract</label>
+          <label xml:lang="en" type="sort">juelischer contract</label>
         </item>
         <item xml:id="lub-keywords-505">
           <label xml:lang="de" type="main">trierische kaufverschreibung</label>
@@ -3073,20 +2983,22 @@
           <label xml:lang="en" type="sort">som</label>
         </item>
         <item xml:id="lub-keywords-508">
-          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <objectType xml:lang="de">Sachschlagwort</objectType>
           <label xml:lang="de" type="main">Käse</label>
           <label xml:lang="de" type="sort">kaese</label>
-          <objectType xml:lang="en">Object</objectType>
+          <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Käse</label>
           <label xml:lang="en" type="sort">kaese</label>
         </item>
         <item xml:id="lub-keywords-509">
-          <label xml:lang="de" type="main">Assisen</label>
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">assisen</label>
           <label xml:lang="de" type="sort">assisen</label>
           <note type="description" xml:lang="de">
             <p>Assisen (von altfranzösisch assise, Partizip zu asseoir „setzen“, von lateinisch assidere „beisitzen“) ist ein verfassungsrechtlicher Begriff des Mittelalters ursprünglich für feierliche Versammlungen und Zusammenkünfte, auf denen rechtliche Angelegenheiten geregelt wurden, aber auch für die Ergebnisse solcher Sitzungen (Gesetze, Regelungen und auch die Strafen). Später wurden damit im englischen und dann wieder im französischen Recht bis ins 19. Jahrhundert Geschworenengerichte bezeichnet.</p>
           </note>
-          <label xml:lang="en" type="main">Assisen</label>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">assisen</label>
           <label xml:lang="en" type="sort">assisen</label>
         </item>
         <item xml:id="lub-keywords-510">
@@ -3118,6 +3030,17 @@
           <label xml:lang="en" type="main">hofgut</label>
           <label xml:lang="en" type="sort">hofgut</label>
         </item>
+        <item xml:id="lub-keywords-514">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">turnen und blochen</label>
+          <label xml:lang="de" type="sort">turnen und blochen</label>
+          <note type="description" xml:lang="de">
+            <p>gefangennehmen; in harte Gefangenschaft legen</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">turnen und blochen</label>
+          <label xml:lang="en" type="sort">turnen und blochen</label>
+        </item>
         <item xml:id="lub-keywords-515">
           <objectType xml:lang="de">Quellenbegriff</objectType>
           <label xml:lang="de" type="main">behemsch</label>
@@ -3142,13 +3065,13 @@
         </item>
         <item xml:id="lub-keywords-517">
           <objectType xml:lang="de">Quellenbegriff</objectType>
-          <label xml:lang="de" type="main">Anschlag</label>
+          <label xml:lang="de" type="main">anschlag</label>
           <label xml:lang="de" type="sort">anschlag</label>
           <note type="description" xml:lang="de">
             <p>Schätzung</p>
           </note>
           <objectType xml:lang="en">Object</objectType>
-          <label xml:lang="en" type="main">Anschlag</label>
+          <label xml:lang="en" type="main">anschlag</label>
           <label xml:lang="en" type="sort">anschlag</label>
         </item>
         <item xml:id="lub-keywords-518">
@@ -3161,6 +3084,28 @@
           <objectType xml:lang="en">Event</objectType>
           <label xml:lang="en" type="main">Schmalkaldischer Krieg</label>
           <label xml:lang="en" type="sort">schmalkaldischer krieg</label>
+        </item>
+        <item xml:id="lub-keywords-519">
+          <objectType xml:lang="de">Quellenbegriff</objectType>
+          <label xml:lang="de" type="main">bann</label>
+          <label xml:lang="de" type="sort">bann</label>
+          <note type="description" xml:lang="de">
+            <p>Gebiet, über das sich der "Bann" im Sinn von obrigkeitlichem Gebot bzw. Verbot erstreckt.</p>
+          </note>
+          <objectType xml:lang="en">Object</objectType>
+          <label xml:lang="en" type="main">bann</label>
+          <label xml:lang="en" type="sort">bann</label>
+        </item>
+        <item xml:id="lub-keywords-522">
+          <objectType xml:lang="de">Sachschlagwort</objectType>
+          <label xml:lang="de" type="main">Schwabenkrieg</label>
+          <label xml:lang="de" type="sort">schwabenkrieg</label>
+          <note type="description" xml:lang="de">
+            <p>In dem von Januar bis September 1499 dauernden Schwaben- oder Schweizerkrieg standen sich die Schweizerische Eidgenossenschaft und die mit ihr verbündeten Drei Bünde einerseits und das Haus Habsburg-Österreich und der mit ihm verbündete Schwäbische Bund andererseits gegenüber.</p>
+          </note>
+          <objectType xml:lang="en">Event</objectType>
+          <label xml:lang="en" type="main">Schwabenkrieg</label>
+          <label xml:lang="en" type="sort">schwabenkrieg</label>
         </item>
       </list>
       <p/>

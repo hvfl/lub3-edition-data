@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1264">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abschrift Lehenbrief für Hans Rig und Hans Banzer aus Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-1264">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung 6. April 1556 / Beschreibstoff: Papier, 7 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abschrift eines Lehenbriefs von Baltasar von Ramschwag für Hans Rig und Hans Banzer aus Triesen als Lehensträger der Kapelle Unsere Liebe Frau und der dazu gehörenden Güter, die im Prozess von Kaspar von Ramschwag gegen Karl Ludwig von Sulz im Jahr 1595 verwendet wird.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-156">Ramschwag, Balthasar von</persName>
+          <date when="1556-04-06">6. Apr 1556</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349__unfol_-0001.jpg" xml:id="lub-media-3769" source="img-0101-1556-04-06.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0002.jpg" xml:id="lub-media-3770" source="img-0102-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0003.jpg" xml:id="lub-media-3771" source="img-0103-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0004.jpg" xml:id="lub-media-3772" source="img-0104-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0005.jpg" xml:id="lub-media-3773" source="img-0105-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0006.jpg" xml:id="lub-media-3774" source="img-0106-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0007.jpg" xml:id="lub-media-3775" source="img-0107-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3769" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-156">Balthaser von Rambschwag</persName>, römischer kön
+<lb break="no" n="2"/>igclicher mayestath etc. vogt zu <placeName ref="lub-places-13">Guettemberg</placeName>, 
+<lb n="3"/>bekhenn unnd thuen khundt allermenigclichem für  
+<lb n="4"/>mich, all mein erben unnd nachkhomen, offenlich mit  
+<lb n="5"/>disem brief, das ich auf heut unnderschribnen dato  
+<lb n="6"/>zu ainem rechten leib erblehens unnd nach leiberb
+<lb break="no" n="7"/>lehens recht aufrecht unnd redlichen geliehen habe, 
+<lb n="8"/>unnd thuen das wissentlich inn crafft unnd urkhundt  
+<lb n="9"/>dits briefs den beschaidnen <persName ref="lub-actors-314">Hannß Rigen</persName> unnd <persName ref="lub-actors-1912">Hanns
+<lb break="no" n="10"/>en Banzern</persName>, baid zu Trüßen, als lehentrager <placeName ref="lub-places-183">Unnser 
+<lb n="11"/>Lieben Frawen Cappel</placeName> unnd der selbigen zuegehörigen  
+<lb n="12"/>güettern, sambt iren mitverwanten, so ich von den  
+<lb n="13"/>erwürdigen unnd gaistlichen herrn, abbt unnd gemainen  
+<lb n="14"/>convent des gotßhaus <orgName ref="lub-actors-337">Sanct Luzi</orgName>, ob der statt  
+<lb n="15"/><placeName ref="lub-places-102">Chur</placeName> gelegen, premostrator ordens, unnd sonnderlich  
+<lb n="16"/>mit irs pater domus bewilligung, vermüg unnd  
+<lb n="17"/>inhalt khaufbriefs, so ich von innen beyhendig, mit  
+<lb n="18"/>was conditiones erkhaufft habe, unnd leihe also hie
+<lb break="no" n="19"/>mit für mich, all mein erben unnd nachkhomen, den 
+<lb n="20"/>bemelten lehentregers sambt iren mitverwanten,   
+<lb n="21"/>angerürte <placeName ref="lub-places-183">Unnser Frawen</placeName> nachgeschribne güetter,  
+<lb n="22"/>allen iren erben unnd nachkhomen. Nämlichen  
+<lb n="23"/>unnd zum ersten das guet, so ringweis umb die <placeName ref="lub-places-183">Cappel</placeName>  
+<lb n="24"/>gelegen, sambt der <placeName ref="lub-places-183">Cappel</placeName>, zwayen kellern, dar
+<lb break="no" n="25"/>under auch hauß, hof, hoffstat, stadl unnd torggl, 
+<lb n="26"/>alles aneinandern in ainem empfang. Stossend ab
+<lb break="no" n="27"/>wert dem lanndt nach am <placeName ref="lub-places-412">Milbach</placeName>, gegen <placeName ref="lub-places-103">Rein</placeName> 
+<lb n="28"/>an <persName ref="lub-actors-315">Thoman Khindlin</persName>, unnd das lehengut, so <persName ref="lub-actors-2851">Barbel  
+<lb n="29"/>Feiraubendi</persName> innhat, aufwert dem lanndt nach  
+<lb n="30"/>an <persName ref="lub-actors-279">Lienhardt Verlingen</persName> weibs guedt, gegem <placeName ref="lub-places-103">Rein</placeName>  
+<lb n="31"/>an <persName ref="lub-actors-2851">Barbara Feiraubendi</persName> aigen guet, abwert  
+<lb n="32"/>dem lanndt nach an <persName ref="lub-actors-315">Thoman Kindli</persName>, gegem perg  
+<lb n="33"/>an obgemelt lehengut. Item ab der <placeName ref="lub-places-901">Müllin</placeName>  
+<pb facs="lub-media-3770" n="2"/>
+<lb n="34"/>ain wiß, haissedt <placeName ref="lub-places-411">Rungels</placeName>, aufwerdt dem lanndt  
+<lb n="35"/>nach stossende an dem <placeName ref="lub-places-412">Mülbach</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName> an  
+<lb n="36"/>ain haimgassen, abwert dem lanndt nach an <persName ref="lub-actors-284">Luzi  
+<lb n="37"/>Senen</persName> hoffraiti, <persName ref="lub-actors-2852">Hanns Ewerlis</persName> unnd <persName ref="lub-actors-538">Lienhart Liffers</persName>  
+<lb n="38"/>erben guet. Item im <placeName ref="lub-places-415">Aussern Gampeüt</placeName> vier mitmal  
+<lb n="39"/>ackher, stossend aufwert dem lanndt nach an <placeName ref="lub-places-417">Raföschen   
+<lb n="40"/>gesslin</placeName>, gegen <placeName ref="lub-places-103">Rein</placeName> an die <placeName ref="lub-places-345">Lanndtstraß</placeName>, abwert an  
+<lb n="41"/><persName ref="lub-actors-2855">Enderlin Oschwaldts</persName> weibs unnd <persName ref="lub-actors-360">Caspar Khindlis</persName> gut,  
+<lb n="42"/>gegem perg an <persName ref="lub-actors-2851">Barblen Feiraubendi</persName> guet. Item mer   
+<lb n="43"/>anderhalb mal ackher im <placeName ref="lub-places-216">Veldt</placeName>, stosset aufwert  
+<lb n="44"/>dem lanndt nach an <persName ref="lub-actors-2856">Claus Malern</persName>, gegen <placeName ref="lub-places-103">Rein</placeName> an  
+<lb n="45"/><persName ref="lub-actors-2857">Thengin Schurtis</persName> weib guet, abwert dem lanndt nach  
+<lb n="46"/>an <persName ref="lub-actors-1025">Flurin Nigkhen</persName> gut, auch an <persName ref="lub-actors-2859">Grete</persName> unnd <persName ref="lub-actors-2858">Anna  
+<lb n="47"/>Müllerin</persName> gut, gegem berg en <persName ref="lub-actors-2855">Enderlin Oschwaldts</persName>  
+<lb n="48"/>gut. Item mer ain malackher im <placeName ref="lub-places-216">Veldt</placeName>, stoßt uff
+<lb break="no" n="49"/>wert dem lanndt nach an <persName ref="lub-actors-2860">Neßa Lüfferin</persName> gut, gegem 
+<lb n="50"/><placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-315">Thoman Khindlin</persName>, abwert dem lanndt nach  
+<lb n="51"/>an <persName ref="lub-actors-1331">Luzi Schurti</persName>, gegem berg an <persName ref="lub-actors-1874">Oschwaldt Khindli</persName>.  
+<lb n="52"/>Item mer zwo jauchart ackhers, stossent auf
+<lb break="no" n="53"/>wert dem lanndt nach an das <placeName ref="lub-places-416">Bechlin</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName> 
+<lb n="54"/>an <persName ref="lub-actors-593">Hanns Bargözis</persName> weibs unnd <persName ref="lub-actors-2861">Jörg Riden</persName> khinds  
+<lb n="55"/>guet, so auch lehen ist, abwert an <persName ref="lub-actors-2862">Hanns Lennzen</persName> weibs  
+<lb n="56"/>gut unnd <persName ref="lub-actors-2857">Thengin Schurtis</persName> gut, gegem berg an <persName ref="lub-actors-279">Lienhart  
+<lb n="57"/>Verlingen</persName> weibs gut. Item mer aber vier mitmel ackher  
+<lb n="58"/>inn <placeName ref="lub-places-1045">Rafina</placeName>, stossend dem lanndt nach aufwert an  
+<lb n="59"/>die <placeName ref="lub-places-1044">Alten gaß</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2863">Joß Schedlern</persName> unnd <persName ref="lub-actors-2864">Jorg  
+<lb n="60"/>Paulis</persName> erben gut, abwert an <persName ref="lub-actors-2865">Dorothea Khindlin</persName>  
+<lb n="61"/>unnd das <placeName ref="lub-places-1046">Widamgut</placeName>, gegem berg an <persName ref="lub-actors-2866">Caspar Nigckhen</persName>  
+<lb n="62"/>erben gut. Item mer ain mitmel ackher im <placeName ref="lub-places-216">Veldt</placeName>, halben  
+<lb n="63"/>stoßt aufwert dem lanndt nach an <persName ref="lub-actors-314">Hanns Rigen</persName> gut  
+<lb n="64"/>unnd an <placeName ref="lub-places-583">Trenckhweeg</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1912">Hanns Banzers</persName>  
+<lb n="65"/>erben gut, abwert an <persName ref="lub-actors-2867">Ursula Hartmene</persName>, gegem  
+<lb n="66"/>perg an <persName ref="lub-actors-2868">Hanns Jegers</persName> khindts gut. Item mer ain  
+<pb facs="lub-media-3771" n="3"/>
+<lb n="67"/>halb jauchart ackhers, hinder <placeName ref="lub-places-1047">Vinetschen</placeName>, stoßt  
+<lb n="68"/>aufwert dem lanndt nach an das <placeName ref="lub-places-416">Bechlin</placeName>, gegem  
+<lb n="69"/><placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-593">Hanns Bargezis</persName> weibs gut, abwert an  
+<lb n="70"/><persName ref="lub-actors-2857">Thengin Schurti</persName>, gegem berg an <persName ref="lub-actors-2869">Ulrich Tengis</persName> gut.  
+<lb n="71"/>Item mer aber zwo jauchart ackhers, zu <placeName ref="lub-places-1048">Arg</placeName> 
+<lb n="72"/>gelegen, stossent aufwerdt dem lanndt nach an  
+<lb n="73"/><persName ref="lub-actors-2870">Thorothea Negelin</persName> gut, an <persName ref="lub-actors-1025">Flurin Niggen</persName>, <persName ref="lub-actors-1052">Jacob Mül
+<lb break="no" n="74"/>lern</persName> unnd an den <placeName ref="lub-places-583">Trenckh weeg</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName> an die 
+<lb n="75"/><placeName ref="lub-places-345">Lanndtstraß</placeName>, abwert dem lanndt nach an <persName ref="lub-actors-2871">Hannß  
+<lb n="76"/>Bannern</persName>, <persName ref="lub-actors-2855">Ennderlin Oschwaldt</persName> weib, <persName ref="lub-actors-1912">Hannsen Bannzer</persName>  
+<lb n="77"/>unnd <persName ref="lub-actors-2872">Hannsen Hartmans</persName> güter, gegem berg an <persName ref="lub-actors-360">Caspar  
+<lb n="78"/>Khindlis</persName> gut. Item mer ain mitmel ackher usse    
+<lb n="79"/>am <placeName ref="lub-places-416">Bechlin</placeName>, stoßt aufwert dem lanndt nach an  
+<lb n="80"/><persName ref="lub-actors-1644">Fabian Pertschen</persName>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2873">Caspar Schlossers</persName>  
+<lb n="81"/>erben guet, abwert dem lanndt nach an das <placeName ref="lub-places-416">Bechlin</placeName>,  
+<lb n="82"/>gegem berg an <persName ref="lub-actors-321">Leonhardt Khindlin</persName>. Item mer aber  
+<lb n="83"/>ain mitmel ackher in <placeName ref="lub-places-415">Gampart</placeName>, stoßt aufwert  
+<lb n="84"/>dem lanndt nach an <placeName ref="lub-places-417">Raföschen gäßlin</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName>  
+<lb n="85"/>an <persName ref="lub-actors-2851">Barblen Feiraubendi</persName> gut, abwert an <persName ref="lub-actors-2727">Maria  
+<lb n="86"/>Niggin</persName>, gegem berg an <persName ref="lub-actors-2857">Thengi Schurti</persName>, <persName ref="lub-actors-2874">Pauli Rigen</persName>  
+<lb n="87"/>erben, <persName ref="lub-actors-593">Hanns Bargozis</persName> unnd <persName ref="lub-actors-2855">Enderlin Oschwaldts</persName>  
+<lb n="88"/>weiber guetter. Item mer ain ackher, innen am  
+<lb n="89"/><placeName ref="lub-places-416">Bechlin</placeName>, stoßt dem lanndt nach aufwert an das  
+<lb n="90"/><placeName ref="lub-places-416">Bechlin</placeName>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2875">Ulrich Cardinen</persName> erben unnd  
+<lb n="91"/><persName ref="lub-actors-2727">Maria Nigckhin</persName> gut, abwert an <persName ref="lub-actors-1644">Fabian Pertschen</persName>,  
+<lb n="92"/>gegem berg an <persName ref="lub-actors-314">Hanns Rigen</persName> lehen gut. Item mer  
+<lb n="93"/>zway mittmel ackher inn der <placeName ref="lub-places-1049">Rösch</placeName> gelegen, stoßt  
+<lb n="94"/>aufwert dem lanndt nach an <persName ref="lub-actors-2876">Fridlin Maurers</persName>  
+<lb n="95"/>gut, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2874">Paulin Rigen</persName> erben unnd <persName ref="lub-actors-2877">Gretae  
+<lb n="96"/>Gehainin</persName> gut, an <persName ref="lub-actors-279">Lienhart Verlingen</persName>, gegem berg  
+<lb n="97"/>an <persName ref="lub-actors-1025">Flurin Nigckhen</persName> gut. Item im <placeName ref="lub-places-216">Veldt</placeName> mer ain  
+<lb n="98"/>jauchart ackhers, stoßt aufwert dem lanndt nach  
+<lb n="99"/>an <persName ref="lub-actors-1874">Oschwaldt Khindlin</persName> gut, gegem <placeName ref="lub-places-103">Rein</placeName> an die  
+<pb facs="lub-media-3772" n="4"/>
+<lb n="100"/><placeName ref="lub-places-345">Lanndtstraß</placeName>, abwert an <placeName ref="lub-places-417">Raföschen geßlin</placeName>, gegem  
+<lb n="101"/>berg an <persName ref="lub-actors-593">Hannß Bergäzis</persName> weibs gut. Item vier  
+<lb n="102"/>mitmel ackher inn <placeName ref="lub-places-1050">Gaila Radundo</placeName>, stoßt auf
+<lb break="no" n="103"/>werdt dem lanndt nach an <persName ref="lub-actors-1949">Hannß Mardthins</persName> guedt, 
+<lb n="104"/>gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2878">Hannß Fegers</persName> kindts unnd <persName ref="lub-actors-1644">Fabian  
+<lb n="105"/>Perdtschen</persName> gut, abwerdt an <persName ref="lub-actors-315">Thaman</persName> unnd <persName ref="lub-actors-321">Lienhardt  
+<lb n="106"/>Khindlis</persName> gut, gegen perg an <persName ref="lub-actors-279">Lienhardt Verlingen</persName>,  
+<lb n="107"/><persName ref="lub-actors-593">Hanns Bergozis</persName> weibs unnd <persName ref="lub-actors-2871">Hannsen Bonners</persName> gut. Item  
+<lb n="108"/>mer ain malackher unnder der <placeName ref="lub-places-1051">Lanngen gassen</placeName>, stoßt  
+<lb n="109"/>aufwert dem lanndt nach an <persName ref="lub-actors-315">Thoman Khindlis</persName> sönnen  
+<lb n="110"/>gut unnd an das <persName ref="lub-actors-1053">Besserer</persName>s lehen, gegem <placeName ref="lub-places-103">Rein</placeName> an  
+<lb n="111"/><persName ref="lub-actors-2879">Claus Schurtin</persName> gut, so genembt würdt <placeName ref="lub-places-1052">Crumen Ackher</placeName>,  
+<lb n="112"/>abwert an die <placeName ref="lub-places-1044">Altgassen</placeName>. Item mer ain stuckh gut  
+<lb n="113"/>im <placeName ref="lub-places-415">Gampant</placeName>, stoßt aufwert dem lanndt nach an ehe
+<lb break="no" n="114"/>gemelt gut, an <persName ref="lub-actors-2851">Barblen Feiraubendi</persName> aigen gut, geg
+<lb break="no" n="115"/>em <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-279">Lienhardt Verlingen</persName> weibs gut, abwert 
+<lb n="116"/>an das lehen <persName ref="lub-actors-1912">Hanns Bannzers</persName> erben gut, gegem berg  
+<lb n="117"/>an <persName ref="lub-actors-2729">Maria Fromboltin</persName>, <persName ref="lub-actors-593">Hanns Bergäzis</persName> unnd <persName ref="lub-actors-2857">Tengi  
+<lb n="118"/>Schurtis</persName> guetter. Item mer ain mal ackher, genant  
+<lb n="119"/><placeName ref="lub-places-419">Hellenbarten</placeName>, stoßt aufwert dem lanndt nach an <persName ref="lub-actors-2877">Grete  
+<lb n="120"/>Gehain</persName>, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-2860">Nessa Lüfferin</persName>, abwert an  
+<lb n="121"/><persName ref="lub-actors-1874">Oschwaldt Khindlin</persName> unnd <persName ref="lub-actors-279">Lienhardt Verlingen</persName> ackher,  
+<lb n="122"/>gegem berg aber an Oschwaldt Khindlin. Item mer  
+<lb n="123"/>ain stuckh guet, in Trüßner <placeName ref="lub-places-216">Veldt</placeName>, genant <placeName ref="lub-places-419">Hellenbarten</placeName>,  
+<lb n="124"/>stoßt aufwert dem lanndt nach an <persName ref="lub-actors-2877">Grethe Gehain</persName>, <persName ref="lub-actors-2865">Dor
+<lb break="no" n="125"/>othea Kindlin</persName>, <persName ref="lub-actors-2855">Enderlin Oschwaldt</persName> unnd Pauli Rigen 
+<lb n="126"/>erben gueter, gegem <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-1874">Oschwaldt Kindlin</persName>,  
+<lb n="127"/>abwert dem lanndt nach an <persName ref="lub-actors-315">Thaman Khindlin</persName> unnd  
+<lb n="128"/><persName ref="lub-actors-2727">Maria Nigckhin</persName> lehen gut unnd <persName ref="lub-actors-1874">Oschwaldt Khind
+<lb break="no" n="129"/>lins</persName> guet, gegem berg an <persName ref="lub-actors-319">Crispinus Rigen</persName> lehen 
+<lb n="130"/>guet. Item aber ain stuckh ackher, im <placeName ref="lub-places-216">Veldt</placeName> gelegen,  
+<lb n="131"/>stoßt aufwert dem lanndt nach an des <persName ref="lub-actors-1053">Besserens</persName>  
+<pb facs="lub-media-3773" n="5"/>
+<lb n="132"/>lehen ackher, gegen <placeName ref="lub-places-103">Rein</placeName> an <persName ref="lub-actors-593">Hanns Bergozis</persName>  
+<lb n="133"/>weibs unnd <persName ref="lub-actors-279">Lienhardt Verlingen</persName> weibs gut, hinder  
+<lb n="134"/><placeName ref="lub-places-1047">Venetschen</placeName> gegem berg an <persName ref="lub-actors-1051">Katherina Khindli  
+<lb n="135"/>genant Noweli</persName>. Item mer unnd aber ain ackher  
+<lb n="136"/>in Trüßner <placeName ref="lub-places-216">Veldt</placeName>, stoßt ain seidt an <placeName ref="lub-places-1053">Padreller</placeName>,  
+<lb n="137"/>ander seit an <persName ref="lub-actors-1174">Fridlin Niggen</persName>, zur driten an  
+<lb n="138"/><persName ref="lub-actors-1895">Roni Banzer</persName>, zur vierten an <persName ref="lub-actors-1910">Hanns Niggen</persName> unnd  
+<lb n="139"/>an <persName ref="lub-actors-1912">Hanns Banzers</persName> erben. Also unnd mit sol
+<lb break="no" n="140"/>lichem geding, das si, die obgemelte lehentrager, 
+<lb n="141"/>für sich selbsten, sambt iren mitverwanten, all  
+<lb n="142"/>ir leib erben unnd nachkhomen, eegemelte güeter  
+<lb n="143"/>nun hinfür eewigclich zu rechtem leib erblechen  
+<lb n="144"/>brauchen, nuzen, niessen, pflanzen, pawen  
+<lb n="145"/>unnd in weßenlichen ehrn halten unnd in albeg  
+<lb n="146"/>vor abgang zuverhüetten, unnd inn sonnders dar
+<lb break="no" n="147"/>mit handlen unnd thun sollen, als mit irem leib 
+<lb n="148"/>erblehen unnd nach leib erblehens recht, doch  
+<lb n="149"/>albegen mit mein unnd meiner erben, als iren lehen  
+<lb n="150"/>herrn bewilligung. Darumben so sollen si, die  
+<lb n="151"/>lehentrager, für sich unnd ire mitverwanten,  
+<lb n="152"/>auch derselben aller leiberben unnd nachkhomen,  
+<lb n="153"/>alle ihre auf <date when="--11-11">Sanct Marthins</date> des hailligen  
+<lb n="154"/>bischoffs tag, achttag vor oder nach ungevarlich,  
+<lb n="155"/>mir, meinen erben unnd nachkhomen, sechs pfundt  
+<lb n="156"/>weniger dreyer pfening, gueter costenzer münz  
+<lb n="157"/>unnd veldtkhircher werdung, geen <placeName ref="lub-places-71">Baltharß</placeName>  
+<lb n="158"/>oder <placeName ref="lub-places-13">Guettemberg</placeName>, zu bezallen verfallen schuldig  
+<lb n="159"/>sein, ohne unnsern costen. Unnd gemelte lehentrager  
+<lb n="160"/>ald ire mitverwanten, auch derselben aller erben  
+<lb n="161"/>unnd nachkhomen, mitler weil ernante lehensstuckh,  
+<lb n="162"/>ains oder mer, nit inn weßenlichen ehren halten,  
+<lb n="163"/>oder ohne mein, des lehenherrn wissen, beschweren  
+<pb facs="lub-media-3774" n="6"/>
+<lb n="164"/>wolten, ald gleichfals ernenter lehen zinß,  
+<lb n="165"/>inmassen vorsteth, nicht gericht wurde, unnd besonder  
+<lb n="166"/>sollen si, die lehentrager, ire mitverwanten, ir  
+<lb n="167"/>aller erben unnd nachkhomen, dise gemelte stuckh und  
+<lb n="168"/>güetter nit versezen, verkhauffen, verendern, zertail
+<lb break="no" n="169"/>len unnd gar nichts darvon khomen lassen. In khain 
+<lb n="170"/>weiß noch weeg ohne mein, meiner erben unnd nachkhomen   
+<lb n="171"/>hand, gunst, wissen unnd willen. Wann si aber uber  
+<lb n="172"/>khurz oder lanng zeit ire recht unnd gerechtigkhait  
+<lb n="173"/>daran verleihen, versezen, verkhauffen welten, alßdann  
+<lb n="174"/>sollen si, die mir, meinen erben unnd nachkhomen zuvor  
+<lb n="175"/>anpietten unnd khundt thun, auch vier pfundt pfen
+<lb break="no" n="176"/>nig costenzer münz unnd vermelter werung necher 
+<lb n="177"/>lassen unnd geben, dann jemant andern. Wolten aber  
+<lb n="178"/>ich oder meine erben unnd nachkhomen soliche güter nit,  
+<lb n="179"/>so megen sy die in vier wochen, den nechsten nach irm  
+<lb n="180"/>anpietten, die dannenthin ire recht samenthafft  
+<lb n="181"/>verkhauffen wem si wellend. Doch mir, meinen erben  
+<lb n="182"/>ald nachkhomen, an allen unnsern zinßen, zinsfellen,  
+<lb n="183"/>rechten unnd gerechtigkhaiten ohne schaden. Unnd wo  
+<lb n="184"/>sy deren stuckh, ains oder mer, nit hielten, so soll unnd  
+<lb n="185"/>ist ersternente lehengüetter mir unnd meinen erben,  
+<lb n="186"/>als irem lehenherrn, allenclich haimbgefallen nach  
+<lb n="187"/>leiberblechens reht, weliche wir alßdann nach unnserm  
+<lb n="188"/>gefallen verner verleihen megen. Zu urkhundt mit  
+<lb n="189"/>meinem aignen anhangenden insigl für mich unnd meine  
+<lb n="190"/>erben verferttigt. Und geben <date when="1556-04-06">monttags, in Osster
+<lb break="no" n="191"/>feirtagen nach Cristi geburt gezelt fünffzechen
+<lb break="no" n="192"/>hunderdt fünffzig unnd sechs jhar</date>.
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3775" n="1"/><lb n="1"/>Abschrifft  
+<lb n="2"/>des lehenbriefs gegen  
+<lb n="3"/><persName ref="lub-actors-314">Hanns Rigen</persName> und <persName ref="lub-actors-1912">Hanns  
+<lb n="4"/>Banzern</persName>, baid zue <placeName ref="lub-places-79">Thrisen</placeName>,   
+<lb n="5"/>als lehentrager <placeName ref="lub-places-183">Unnser Lieben  
+<lb n="6"/>Frawen Cappeln</placeName> und der
+<lb break="no" n="7"/>selbigen zuegehörigen güetern, 
+<lb n="8"/>sambt iren mitverwanten. 
+</p>
+        <p><lb n="9"/>In sachen  
+<lb n="10"/><persName ref="lub-actors-166">Rambschwag</persName><lb n="11"/>contra 
+<lb n="12"/><persName ref="lub-actors-13">Sultz</persName><lb n="13"/>mandatum de relaxando  
+<lb n="14"/>arresto. 
+</p>
+        <p><lb n="15"/>Registrata manu propria 1<date when="1595-04-01">. aprilis  
+<lb n="16"/>anno etc. 95 </date></p>
+      </div>
+    </body>
+  </text>
+</TEI>

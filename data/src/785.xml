@@ -15,7 +15,8 @@
       <sourceDesc>
         <listWit>
           <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-785">LI-GAR, U 24</ref> (<orgName key="li-gar" ref="lub-objects-778">Gemeindearchiv Ruggell</orgName>) / Originaldatierung: 3. Juni 1558 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt / Unterschrift von Balthasar von Ramschwag (Editionsvorlage)</witness>
-          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-20">AT-ÖStA, HHStA, Länderabteilung, Österreichische Akten, Vorderösterreich 9, fol. 316r-319v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Beschreibstoff: Papier</witness>
+          <witness xml:id="B1">B1: Abschrift (beglaubigt), Signatur: <ref type="identifier" target="lub-objects-928">LI-LA, RA 17/01</ref> (<orgName key="li-la" ref="lub-objects-2">Liechtensteinisches Landesarchiv, Vaduz</orgName>) / Originaldatierung: 3. Juni 1558 / Beschreibstoff: Papier, 7 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
+          <witness xml:id="B2">B2: Abschrift, Signatur: <ref type="identifier" target="lub-objects-20">AT-ÖStA, HHStA, Länderabteilung, Österreichische Akten, Vorderösterreich 9, fol. 316r-319v</ref> (<orgName key="at-osta" ref="lub-objects-177">Österreichisches Staatsarchiv</orgName>) / Beschreibstoff: Papier, 9 Seiten / Siegel: kein Siegel</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -55,15 +56,22 @@ Die Grafen von Sulz erlassen den Feldkircher Ausbürgern den Schnitz der vergang
   <facsimile>
     <graphic url="li-gar,_u_24-0001.jpg" xml:id="lub-media-574" source="gar-u-024-r-1558-06-03.jpg" corresp="A"/>
     <graphic url="li-gar,_u_24-0002.jpg" xml:id="lub-media-1500" source="1558-06-03-gar-u-024-v.jpg" corresp="A"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0001.jpg" xml:id="lub-media-981" source="1558-06-03-hhsta-la-oa-vo-9-fol-316r.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0002.jpg" xml:id="lub-media-982" source="1558-06-03-hhsta-la-oa-vo-9-fol-316v-1.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0003.jpg" xml:id="lub-media-983" source="1558-06-03-hhsta-la-oa-vo-9-fol-317r.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0004.jpg" xml:id="lub-media-984" source="1558-06-03-hhsta-la-oa-vo-9-fol-317v.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0005.jpg" xml:id="lub-media-985" source="1558-06-03-hhsta-la-oa-vo-9-fol-318r.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0006.jpg" xml:id="lub-media-986" source="1558-06-03-hhsta-la-oa-vo-9-fol-318v.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0007.jpg" xml:id="lub-media-987" source="1558-06-03-hhsta-la-oa-vo-9-fol-319r.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0008.jpg" xml:id="lub-media-988" source="1558-06-03-hhsta-la-oa-vo-9-fol-319v.jpg" corresp="B"/>
-    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0009.jpg" xml:id="lub-media-989" source="1558-06-03-hhsta-la-oa-vo-9-fol-320v.jpg" corresp="B"/>
+    <graphic url="li-la__ra_17_01-0001.jpg" xml:id="lub-media-1960" source="ra-17-01-s01.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_17_01-0002.jpg" xml:id="lub-media-1961" source="ra-17-01-s02.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_17_01-0003.jpg" xml:id="lub-media-1962" source="ra-17-01-s03.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_17_01-0004.jpg" xml:id="lub-media-1963" source="ra-17-01-s04.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_17_01-0005.jpg" xml:id="lub-media-1964" source="ra-17-01-s05.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_17_01-0006.jpg" xml:id="lub-media-1965" source="ra-17-01-s06.jpg" corresp="B1"/>
+    <graphic url="li-la__ra_17_01-0007.jpg" xml:id="lub-media-1966" source="ra-17-01-s07.jpg" corresp="B1"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0001.jpg" xml:id="lub-media-981" source="1558-06-03-hhsta-la-oa-vo-9-fol-316r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0002.jpg" xml:id="lub-media-982" source="1558-06-03-hhsta-la-oa-vo-9-fol-316v-1.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0003.jpg" xml:id="lub-media-983" source="1558-06-03-hhsta-la-oa-vo-9-fol-317r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0004.jpg" xml:id="lub-media-984" source="1558-06-03-hhsta-la-oa-vo-9-fol-317v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0005.jpg" xml:id="lub-media-985" source="1558-06-03-hhsta-la-oa-vo-9-fol-318r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0006.jpg" xml:id="lub-media-986" source="1558-06-03-hhsta-la-oa-vo-9-fol-318v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0007.jpg" xml:id="lub-media-987" source="1558-06-03-hhsta-la-oa-vo-9-fol-319r.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0008.jpg" xml:id="lub-media-988" source="1558-06-03-hhsta-la-oa-vo-9-fol-319v.jpg" corresp="B2"/>
+    <graphic url="at-Östa_hhsta_länderabteilung_Österreichische_akten_vorderösterreich_9_fol__316r-319v-0009.jpg" xml:id="lub-media-989" source="1558-06-03-hhsta-la-oa-vo-9-fol-320v.jpg" corresp="B2"/>
   </facsimile>
   <text>
     <body>

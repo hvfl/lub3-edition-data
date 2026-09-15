@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-284">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt mit Glarus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-284">AT-TLA Grenzakten Abteilung III Fasz. 41 Pos. 5</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 13. Juli 1559 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben Kaiser Ferdinands I. aus Augsburg an Landammann und Rat der Stadt Glarus betreffend die Beschwerde der Grafen Wilhelm und Alwig IX. von Sulz wegen Konflikten zwischen Werdenberg und Vaduz betreffend  Jagd und Fischereirecht.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-55">Hoheitsrecht</term>
+          <term ref="lub-keywords-324">Fischerei</term>
+          <term ref="lub-keywords-41">Jagd</term>
+          <term ref="lub-keywords-65">schutz und schirm</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <placeName ref="lub-places-32">Augsburg</placeName>
+          <date when="1559-07-13">13. Jul 1559</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0001.jpg" xml:id="lub-media-3675" source="grenzakten-abt-iii-41-5-0015-nr-3-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0002.jpg" xml:id="lub-media-3676" source="grenzakten-abt-iii-41-5-0016-1559-07-13-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0003.jpg" xml:id="lub-media-3677" source="grenzakten-abt-iii-41-5-0017-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3675" n="1"/><lb n="1"/><persName ref="lub-actors-26">Ferdinannd</persName> etc. 
+<lb n="2"/>Unns haben die wolgebornen, unnsere und des <orgName ref="lub-actors-516">Reichs</orgName>  
+<lb n="3"/>lieb getrewen <note>Mögl. ist hier <persName ref="lub-actors-10">Wilhelm V. von Sulz</persName> gemeint.</note><persName ref="lub-actors-35">Hanns Ludwig</persName> und Alwig graven zu  
+<lb n="4"/>Sulz etc., gebrüeder, unnderthenigclich zuerkhennen geben, 
+<lb n="5"/>wellicher massen sich unlanngst verschiner weilen zwischen  
+<lb n="6"/>euch, als innhabern der herrschafft <placeName ref="lub-places-73">Werdenberg</placeName> ainns   
+<lb n="7"/>und inen, den graven, von wegen irer herrschafft  
+<lb n="8"/><placeName ref="lub-places-7">Vaduz</placeName> etliche nachpeurliche spenn hocher und nider  
+<lb n="9"/>obrigkhait, auch vorstlicher gerechtigkhait und wildpann  
+<lb n="10"/>halben, so ir euch auf irer seiten des <placeName ref="lub-places-103">Reins</placeName> wider alt   
+<lb n="11"/>unwidersprechenlich und beweißlich herkhomen anmassen  
+<lb n="12"/>sollet, zugetragen. Deßgleichen das ir auch inen oder  
+<lb n="13"/>irem ambtman zu <placeName ref="lub-places-1">Vaduz</placeName>, die khain vischerey in den gießen  
+<lb n="14"/>des <placeName ref="lub-places-103">Reins</placeName>, so ire vorfordern und sy ye und allwegen  
+<lb n="15"/>allain zum huß statt <placeName ref="lub-places-1">Vaduz</placeName> und annderer gestalt nit  
+<lb n="16"/>fürnemblich, aber der rechten vischerey und dem hochen  
+<lb n="17"/>fach, so euch allain gehörig, one schaden gehabt, nit allain  
+<lb n="18"/>alltem khundtlichen gebrauch nach fürtter nit gestatten  
+<lb n="19"/>wellen, sonnder auch die darumb geschlagen fechlin mit  
+<lb n="20"/>der that und gewerter hanndt gewaltigclich, uber darvor  
+<lb n="21"/>mermals beschechen recht erbieten, auch nit one  
+<lb n="22"/>arckhwon weitterer feindtlicher hanndlung, wie aus  
+<lb n="23"/>eurem schreiben, so ir unnserm vogt zu <placeName ref="lub-places-13">Gutenberg</placeName>,  
+<lb n="24"/><persName ref="lub-actors-156">Balthassarn von Rambschwag</persName>, gethan, zum thail  
+<lb n="25"/>abzenemen were, abbrechen und schleissen lassen,  
+<lb n="26"/>welliches inen, den graven zu <orgName ref="lub-actors-7">Sulz</orgName>, zu höchster  
+<lb n="27"/>beschwerung raicht, und unns darauf umb unnser  
+<lb n="28"/>gebürennde kayserliche hilff, damit sy wider  
+<lb n="29"/>recht und billigkhait hierinn nit beschwerdt werden,  
+<lb n="30"/>unnderthenigclichen angesuecht und gebeten. Dieweyl  
+<lb n="31"/>dann ernennte graven von <orgName ref="lub-actors-7">Sulz</orgName> nit allain unnsere  
+<lb n="32"/>und des <orgName ref="lub-actors-516">Heilligen Reichs</orgName> gehorsame glider, sonnder  
+<lb n="33"/>auch unns und unnserm löblichen hauß <orgName ref="lub-actors-172">Ossterreich</orgName>  
+<lb n="34"/>obberuerter irer herrschafft <placeName ref="lub-places-7">Vaduz</placeName> halben mit  
+<pb facs="lub-media-3676" n="2"/>
+<lb n="35"/>sonndern ewigen schuz und schirm verwanndt, derwegen  
+<lb n="36"/>wir inen zu aller gebür zuverhelffen mit gnaden  
+<lb n="37"/>genaigt sein und unns dessen schuldig wissen. So  
+<lb n="38"/>ersuechen wir euch hiemit genedigclich begerendt, ir  
+<lb n="39"/>wellet mergedachte graven bei iren habenden rechten  
+<lb n="40"/>gerechtigkhaiten und lanng hergebrachten possession  
+<lb n="41"/>ruewigclich beleiben lassen und des irigen uber  
+<lb n="42"/>recht erbieten, mit gewalt und der that nit enndtsezen,  
+<lb n="43"/>sonnder wo ir derwegen ainiche sprüch oder vorderung  
+<lb n="44"/>zu inen zu haben vermainet, sy als graven des  
+<lb n="45"/><orgName ref="lub-actors-516">Hailigen Reichs</orgName> darumben an orten und ennden,  
+<lb n="46"/>da es sich gebürt, rechtlichen oder durch anndere  
+<lb n="47"/>zimbliche weeg ersuechen. Des und sonnst aller  
+<lb n="48"/>nachpeurlichen gebür wellen wir unns zu euch  
+<lb n="49"/>genedigclich versehen und seind euch daneben mit  
+<lb n="50"/>gnaden wol genaigt. Geben zu <placeName ref="lub-places-32">Augspurg</placeName>, den  
+<lb n="51"/><date when="1559-07-13">xiii tag julii anno etc. im lix</date> sten. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3677" n="1"/><lb n="1"/>Copei  
+<lb n="2"/>der kayserlichen mayestät schreiben an die von  
+<lb n="3"/><orgName ref="lub-actors-276">Glaris</orgName>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

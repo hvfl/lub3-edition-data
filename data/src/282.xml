@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-282">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt mit Glarus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness>Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-282">AT-TLA Grenzakten Abteilung III Fasz. 41 Pos. 5</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 21. August 1560 / Beschreibstoff: Papier, 2 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>In ihrem Brief aus Blumenegg beschweren sich die Brüder Wilhelm und Alwig IX. Grafen von Sulz bei der Oberösterreichische Regierung zu Innsbruck, dass sie noch immer keinen Bescheid auf ihre Beschwerde, betreffend Landammann und Rat zu Glarus, erhalten hätten, obwohl sie um gebührenden Schutz und Schirm auf Grund ihres Briefes angesucht hätten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-65">schutz und schirm</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1560-08-21">21. Aug 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0001.jpg" xml:id="lub-media-3678" source="grenzakten-abt-iii-41-5-0007-1560-08-21-kopie.jpg" corresp="xml:id not found"/>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0002.jpg" xml:id="lub-media-3679" source="grenzakten-abt-iii-41-5-0008-1560-08-21-kopie.jpg" corresp="xml:id not found"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3678" n="1"/><lb n="1"/>An die Regierung zu Insprugg  
+<lb n="2"/>von herrn <persName ref="lub-actors-10">Wilhelmen</persName> und <persName ref="lub-actors-9">Alwigen</persName> gebruedern  
+<lb n="3"/>graven zu Sulz. 
+<lb n="4"/>Wiewol wir euch vor gueter zeit der unleidenlichen beschwerden  
+<lb n="5"/>halb, so unns von <orgName ref="lub-actors-276">lanndaman und rat</orgName> zu <placeName ref="lub-places-72">Glaris</placeName> in der  
+<lb n="6"/>herrschafft <placeName ref="lub-places-7">Vaduz</placeName> begegnet, und waz daraus zu besorgen  
+<lb n="7"/>sein möchte, schrifftlich bericht, auch umb gebürenden schuz  
+<lb n="8"/>und schirm vermug unnsers innhabenden erbschirmbriefes  
+<lb n="9"/>angesuecht. So ist unns doch von euch noch bisher khain bschaid  
+<lb n="10"/>erfolgt, unns unwissend was die ursach oder was wir  
+<lb n="11"/>unns darunnder halten sollen. Dieweil wir unns  
+<lb n="12"/>aber dannocht von beruert von <orgName ref="lub-actors-276">Glaris</orgName> nit dermassen  
+<lb n="13"/>mit der tat entsezen lassen khönden, haben wir euch  
+<lb n="14"/>angeregts unnsers schreibens bei disem unserm aignem  
+<lb n="15"/>hierumb gesanndten poten widerumb eryinnern und inhalt  
+<lb n="16"/>desselben nochmals frundtlich und zum höchsten neben eurm  
+<lb n="17"/>rat und guetbedunckhen, auch schrifftlichen wider anntwort  
+<lb n="18"/>gepeten haben wellen, unns darnach ze richten wissen etc.  
+<lb n="19"/>Datum <placeName ref="lub-places-12">Bluemenegg</placeName>, den 21. augusti anno etc. 60. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3679" n="1"/><lb n="1"/>Copei der graven von <orgName ref="lub-actors-7">Sulz</orgName><lb n="2"/>schreiben  
+<lb n="3"/>vom <date when="1560-08-21">21. augusti anno 60</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

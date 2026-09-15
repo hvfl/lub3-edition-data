@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1265">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Klagartikel gegen Lehensträger in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K">K: Konzept (Missiv), Signatur: <ref type="identifier" target="lub-objects-1265">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 1. April 1595 / Beschreibstoff: Papier, 6 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Karl Ludwig von Sulz bringt verschiedene Punkte einer Klage gegen seine Lehnsleute in Triesen vor, die ihn nicht als Lehnsherrn anerkennen, verliehene Lehn ohne sein Wissen vertauscht und verkauft haben,  weshalb er deren im Jahr 1556 verliehen Lehngüter als heimgefallen betrachtet.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1595-04-01">1. Apr 1595</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349__unfol_-0001.jpg" xml:id="lub-media-3776" source="img-0108-1595-04-01.jpg" corresp="K"/>
+    <graphic url="at-hal__h_1349__unfol_-0002.jpg" xml:id="lub-media-3777" source="img-0109-kopie.jpg" corresp="K"/>
+    <graphic url="at-hal__h_1349__unfol_-0003.jpg" xml:id="lub-media-3778" source="img-0110-kopie.jpg" corresp="K"/>
+    <graphic url="at-hal__h_1349__unfol_-0004.jpg" xml:id="lub-media-3779" source="img-0111-kopie.jpg" corresp="K"/>
+    <graphic url="at-hal__h_1349__unfol_-0005.jpg" xml:id="lub-media-3780" source="img-0112-kopie.jpg" corresp="K"/>
+    <graphic url="at-hal__h_1349__unfol_-0006.jpg" xml:id="lub-media-3781" source="img-0113-kopie.jpg" corresp="K"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3776" n="1"/><lb n="1"/>Clags articul gegen unnd wider  
+<lb n="2"/>meinen lehenleüten zu <placeName ref="lub-places-79">Thrißen</placeName>. 
+</p>
+        <p><lb n="3"/>Erstlichen, so haben sy, die gemelten lehenleut, das  
+<lb n="4"/>lehen inmassen mir soliches zuegetailt unnd ein
+<lb break="no" n="5"/>hendig gemacht worden, von mir, als si dessen zu 
+<lb n="6"/>thuen schuldig nit emphachen wellen, mich auch für  
+<lb n="7"/>khainen lehenherrn erkhennen, sonnder den herrn <persName ref="lub-actors-336">abbt</persName>  
+<lb n="8"/>von <placeName ref="lub-places-36">Bendern</placeName> darfür halten, von welichem dann  
+<lb n="9"/>mein freundtlicher lieber vatter selig vermög hab
+<lb break="no" n="10"/>ender brief unnd sigl, solich lehen erkhaufft, unnd 
+<lb n="11"/>ehr sich desselbigen mit dem wenigisten nicht mer  
+<lb n="12"/>annemen noch beladen thut. 
+</p>
+        <p><lb n="13"/>Zum anndern, so haben auf ain zeit si, berürdte leh
+<lb break="no" n="14"/>enleüt, aman <persName ref="lub-actors-214">Plenggi</persName> von <placeName ref="lub-places-53">Schan</placeName> unnd <persName ref="lub-actors-1471">Johann 
+<lb n="15"/>Quaderer</persName> von <placeName ref="lub-places-1">Vaduz</placeName> zu mir geschickht unnd anzaigen  
+<lb n="16"/>lasse, obgleich wol ain lehenbrief deßhalber ver
+<lb break="no" n="17"/>handen unnd durch gemelten meinem lieben vatter 
+<lb n="18"/>seligen aufgericht, der seye aber inen unnd iren  
+<lb n="19"/>eltern hinderruckhs aufgericht unnd verferttiget  
+<lb n="20"/>worden. Dardurch si dann gemelten meinen vatern  
+<lb n="21"/>seligen unbefuegter weiß unnder dem boden geschmecht,  
+<lb n="22"/>weliches ich aber der gebür nach verantwurttet,  
+<lb n="23"/>unnd befindt sich in dem reverß, so si darüber ge
+<lb break="no" n="24"/>geben, auch in dem lehenbrief, so die abschrifften 
+<lb n="25"/>darvon hiebei gelegt, das si solichem lehen, wie dann  
+<lb n="26"/>hernach unnderschidlichen vermelt würdet, gar zu  
+<lb n="27"/>wider gehandlet unnd zum wenigisten ainiche vol
+<lb break="no" n="28"/>ziechung nit gelaisst, sonnder dardurch verwürckht 
+<lb n="29"/>haben. 
+</p>
+        <p><pb facs="lub-media-3777" n="2"/><lb n="30"/>Zum driten, so befindt sich, das sy auß disem  
+<lb n="31"/>lehen ain stuckh guedt, genandt <placeName ref="lub-places-411">Runggels</placeName>, so an  
+<lb n="32"/><persName ref="lub-actors-1306">Siman Grawen</persName> erblichen khomen, dem <persName ref="lub-actors-285">Christan Hizen</persName>   
+<lb n="33"/>von <placeName ref="lub-places-79">Trüßen</placeName>, mir als irem lehenherrn ohne vorwissen  
+<lb n="34"/>verkhaufft, unnd abermals auß brief unnd sigl ge
+<lb break="no" n="35"/>schritten unnd mir nit angezaigdt. Darauff ich, 
+<lb n="36"/>als ich soliches in erfarenhait gebracht, dasselbige  
+<lb n="37"/>durch den geschwornen waibl zu <placeName ref="lub-places-1">Vaduz</placeName> in arresst  
+<lb n="38"/>legen unnd verbieten lassen, si aber nicht desto wenig
+<lb break="no" n="39"/>er bei irem vorhaben verbliben unnd darbei vermel
+<lb break="no" n="40"/>det, si wellen mir ohne recht nicht zuelassen, hier
+<lb break="no" n="41"/>durch si dann, wie wol zu erachten, abermals auß 
+<lb n="42"/>brief unnd sigl geschriten unnd das lehen vermüg der
+<lb break="no" n="43"/>selben verwürckht.
+</p>
+        <p><lb n="44"/>Zum vierten haben si, die lehenleüth, etliche lehen
+<lb break="no" n="45"/>güetter, gegen unnd miteinandern verwexlet unnd 
+<lb n="46"/>vertauscht, als der <persName ref="lub-actors-1304">Wagenbach</persName> hat ain stuckh  
+<lb n="47"/>lehenguet dem <persName ref="lub-actors-2880">Hanns Hizen</persName> geben, das er dem  
+<lb n="48"/>lanndtvogt den abzug geb. Volgents hat berürter  
+<lb n="49"/><persName ref="lub-actors-2880">Hiz</persName> solich guet widerumb per 12 lb. d. versezt, so  
+<lb n="50"/>mir auch ohne vorwissen beschechen. 
+</p>
+        <p><lb n="51"/>Zum fünfften haben <persName ref="lub-actors-1056">Ulli Rig</persName> unnd seine brüeder  
+<lb n="52"/>von <placeName ref="lub-places-79">Trüßen</placeName> auf absterben ires vatters <persName ref="lub-actors-314">Hanns  
+<lb n="53"/>Rigen</persName> seligen, als gewesten lehentrager die lehen
+<lb break="no" n="54"/>güetter unnder einandern abgetailt unnd iren 
+<lb n="55"/>brueder ainen, so zu <placeName ref="lub-places-118">Nendlen</placeName> seßhafft, darvon  
+<lb n="56"/>außkhaufft, mir als dem lehenherrn, auch ohne  
+<lb n="57"/>vorwissen unnd brieff unnd sigeln zu wider. 
+</p>
+        <p><pb facs="lub-media-3778" n="3"/><lb n="58"/>Zum sechsten, so haben si, vilgemelte lehenleut,  
+<lb n="59"/>als si dann vermüg brief und sigl zue thuen  
+<lb n="60"/>schuldig, die kirchen noch anders mit dem wenig
+<lb break="no" n="61"/>isten bißheer in ehren nit erhalten, sonnder da 
+<lb n="62"/>ich nit selbsten fürsorg thette, das dieselbig von  
+<lb n="63"/>wegen tachloße unnd sonnsten auch durch liechter  
+<lb n="64"/>unnd meßleßen gar zu grundt geen unnd in abfaal  
+<lb n="65"/>khomen müesste. 
+</p>
+        <p><lb n="66"/>Zum sibenden, so haben si, die lehenträger,  
+<lb n="67"/>von 40 oder mer jharen heer, der <placeName ref="lub-places-183">Cappeln</placeName>  
+<lb n="68"/>schmalz unnd gelt zinß in abgang khomen lassen   
+<lb n="69"/>also, das man zum thail nit gewist, wer die
+<lb break="no" n="70"/>selben järlichen zu raichen unnd zu geben schuldig, 
+<lb n="71"/>beineben auch mir, als dem lehenherrn, bißheer  
+<lb n="72"/>wie auch noch ainiche rechnung darumben  
+<lb n="73"/>nit geben wellen. 
+</p>
+        <p><lb n="74"/>Zum achten unnd in mittel diser rechtshand
+<lb break="no" n="75"/>lung haben si, die lehentrager, vorbemelt 
+<lb n="76"/>stuckh guet, genant <placeName ref="lub-places-411">Runggels</placeName>, abermals wider
+<lb break="no" n="77"/>umben in drei tail vertauscht unnd verkhaufft, 
+<lb n="78"/>dem lehenherrn ohne bewist. 
+</p>
+        <p><lb n="79"/>Zum neunten, so haben <persName ref="lub-actors-285">Christan Hizen</persName> seligen  
+<lb n="80"/>khinder auf gemelts ires vattern seligen tödlichen  
+<lb n="81"/>ableiben ainen pomgarten, so gleichfals  
+<lb n="82"/>in berürt lehen gehörig, dem lehenherrn ohne  
+<lb n="83"/>vorwissen miteinandern getailt unnd auß  
+<lb n="84"/>brief unnd sigel geschriten. 
+</p>
+        <p><pb facs="lub-media-3779" n="4"/><lb n="85"/>Zum zehenden, so hat der ain lehentrager mir  
+<lb n="86"/>die schlüssel zu der <placeName ref="lub-places-183">Cappeln</placeName> vorgehalten, dar
+<lb break="no" n="87"/>durch dann diejhenigen, so mit dem creuz alheer 
+<lb n="88"/>khomen, nit in die kirchen khomen khinden, sonnder  
+<lb n="89"/>diser ursachen willen darvor etwas aufgehalten  
+<lb n="90"/>worden. 
+</p>
+        <p><lb n="91"/>Zum ailfften, so haben si, lehenleut, mir laut brief  
+<lb n="92"/>unnd sigl den <date when="1586">86</date> verfallnen unnd schuldigen zinß  
+<lb n="93"/>nit erlegen, sonnder dem herrn von <placeName ref="lub-places-36">Bendern</placeName>, den
+<lb break="no" n="94"/>selben zuestellen unnd uberantwurten, unnd mich aber
+<lb break="no" n="95"/>mals für iren lehenherrn nit erkhennen wellen. 
+<lb n="96"/>Indeme aber gemelter herr von <placeName ref="lub-places-36">Bendern</placeName> solichen  
+<lb n="97"/>zinß von inen nit emphachen noch annemen wellen,  
+<lb n="98"/>sonnder an gemelt solichen zinß gehöre und gebüre,  
+<lb n="99"/>ine nit mer einzuenemn, dann er habe solich  
+<lb n="100"/>lehen vor der zeit dem herrn von <persName ref="lub-actors-22">Rambschwag</persName>  
+<lb n="101"/>zu khaufen geben. Deme gebüre an jezo der zinß  
+<lb n="102"/>einznemen. Uber soliches sindt si gleichwol zu  
+<lb n="103"/>mir khomen unnd denselben erlegen wellen, hab ich  
+<lb n="104"/>aber, dieweil si mir solichen vermüg brief unnd  
+<lb n="105"/>sigl nit zu rechter ordenlicher zinß zeit erlegdt,  
+<lb n="106"/>sonnder ain guete zeit verloffen geweßen, denselben  
+<lb n="107"/>nit emphachen wellen. Darauff haben si solichen  
+<lb n="108"/>zinß hinder dem aman hinderlegt, darumben  
+          <lb n="109"/>ich dann noch nit bezalt, sonnder derselbig<note>sambt andern biß
+            <lb break="no" n="111"/>her verfallnen zinsen 
+            <lb n="112"/>bis anno etc. <date when="1594">94</date></note> noch 
+<lb n="113"/>auf die stundt unbezalt ausstendig verbleiben  
+<lb n="114"/>thut. Weliches dann brief unnd sigl, auch  
+<lb n="115"/>gar zu wider ist. 
+</p>
+        <p><lb n="116"/>Zum zwelfften unnd beschliesslichen, weyll dann  
+<pb facs="lub-media-3780" n="5"/><lb n="117"/>si, die lehenleut, bißheer, wie auch noch  
+<lb n="118"/>habenden brief unnd sigl gar zuwider ge
+<lb break="no" n="119"/>handledt unnd dardurch diejhenigen lehen
+<lb break="no" n="120"/>güetter, vermüg unnd innhalt vorgemelter ar
+<lb break="no" n="121"/>ticlen nit ainmal, sonnder zum öfftern mal ge
+<lb break="no" n="122"/>nuegsamblich meines erachtens verwürckht haben.
+<lb n="123"/>Soliche lehengüetter sollten mir billicher massen   
+<lb n="124"/>als für haimbgefallen guedt einhendig gemacht  
+<lb n="125"/>unnd zuegestelt werden. 
+</p>
+        <p><lb n="126"/>Euer fürstlich durchlaucht 
+<lb n="127"/>underthoniger 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3781" n="1"/><lb n="1"/>Clags articul  
+<lb n="2"/>gegen unnd wider  
+<lb n="3"/>meinen lehenleuten  
+<lb n="4"/>zu <placeName ref="lub-places-79">Thrißen</placeName></p>
+        <p><lb n="5"/>Registrata manu propriæ <date when="1595-04-01">1. aprilis  
+<lb n="6"/>anno etc. 95 </date>
+</p>
+        <p><lb n="7"/><persName ref="lub-actors-22">Rambschwag</persName><lb n="8"/><persName ref="lub-actors-13">Sulz</persName><lb n="9"/>mandatum de relaxando  
+<lb n="10"/>arresto 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

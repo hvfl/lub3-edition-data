@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1259">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rechtsstreit zwischen Kaspar von Ramschwag und Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1259">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 18. Dezember 1591 / Beschreibstoff: Papier,  4 Seiten / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Kaspar von Ramschwag, Vogt von Gutenberg, stellt dem Lizentiat Jacob Streit von Immendingen, Advokat des kaiserlichen Kammergerichts, eine Vollmacht aus, ihn in seinem Rechtsstreit gegen Karl Ludwig von Sulz zu vertreten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-166">Ramschwag, Kaspar von</persName>
+          <placeName ref="lub-places-13">Gutenberg, Schloss</placeName>
+          <date when="1591-12-18">18. Dez 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349-0001.jpg" xml:id="lub-media-3742" source="img-0074-1591-12-18.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349-0002.jpg" xml:id="lub-media-3743" source="img-0075-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349-0003.jpg" xml:id="lub-media-3744" source="img-0076-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349-0004.jpg" xml:id="lub-media-3745" source="img-0077-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3742" n="1"/><lb n="1"/>Ich <persName ref="lub-actors-166">Caspar von Ramschwag</persName>, der fürstlichen durchlaucht  
+<lb n="2"/>ertzhertzog <persName ref="lub-actors-11">Ferdinanden zue Österreich</persName> etc., meines gne
+<lb break="no" n="3"/>digisten herrn vogt zue <placeName ref="lub-places-13">Gutenberg</placeName>. Bekhenn offen
+<lb break="no" n="4"/>lich unnd thue kundt allermeniglich hiemit unnd inn 
+<lb n="5"/>krafft diß briefs, das ich den ehrnuesten und  
+<lb n="6"/>hochgelerten herrn <persName ref="lub-actors-2844">Jacoben Streitten</persName>, der rechten licen
+<lb break="no" n="7"/>tiaten unnd deß hochloblichen kayserlichen <orgName ref="lub-actors-521">Cammergerichts</orgName> 
+<lb n="8"/>advocaten unnd procuratorn, inn allen unnd jeden mein
+<lb break="no" n="9"/>nen sachen unnd rechtfertigungen, so ich an hochgedachtem 
+<lb n="10"/>kayserlichen <orgName ref="lub-actors-521">Cammergericht</orgName> unerörtert schwebendt hab, oder künfftig
+<lb break="no" n="11"/>lich bekommen mag, es seyen fiscalische simplicis 
+<lb n="12"/>querelae oder appelationis, so mich, principaliter, oder  
+<lb n="13"/>als interessenten belangen (mit vorgehender ratification  
+<lb n="14"/>unnd genämhaltung alles deßjhenigen, so durch ine biß
+<lb break="no" n="15"/>häro von meinetwegen gerichtlich verhandelt worden ist) 
+<lb n="16"/>zu meinem rechten, wahrem unnd unzweifenlichen  
+<lb n="17"/>procuratorn und anwaldt constituiert, gesetzt unnd  
+<lb n="18"/>geordnet hab. Thue auch sollichs hiemit inn der aller
+<lb break="no" n="19"/>besten unnd beständigsten form, maß unnd gestallt, 
+<lb n="20"/>wie es vermög der rechten unnd mehr auch hocher
+<lb break="no" n="21"/>meldts kayserlichen <orgName ref="lub-actors-521">Cammergerichts</orgName> gebrauch immer geschehen 
+<lb n="22"/>soll, kan, oder mag, also unnd dergestallt, das er  
+<lb n="23"/>inn meinem namen unnd von meinetwegen an dem
+<lb break="no" n="24"/>selben gerichtlich erscheinen, klagen, gegenklagen, 
+<lb n="25"/>excipieren, replicieren, duplicieren, beschließen, umb  
+<lb n="26"/>urtheil anhalten, litem contestiren, juramentum mali
+<lb break="no" n="27"/>tiae, calumniae et veritatis, decisorium litis in sup
+          <pb facs="lub-media-3743" n="2"/>
+<lb break="no" n="28"/>plementum probationis unnd ainen jeden anndernn inn 
+<lb n="29"/>recht zuerthailten unnd aufferlegten ayd, inn mein seel  
+<lb n="30"/>schwören, positiones unnd articulos übergeben, denselben  
+<lb n="31"/>respondieren unnd den gegenthail darzu anzuhalten  
+<lb n="32"/>bitten, commissarios ernennen, beweysungen füren,  
+<lb n="33"/>inn deß gegenthails bewilligen, probationschrifft über
+<lb break="no" n="34"/>geben, wider deß gegenthails probationes gebürliche 
+<lb n="35"/>einred thuen, unnd weiters wie recht ist, biß zu be
+<lb break="no" n="36"/>schluß der sachen handlen, als dann beschließen, bey 
+<lb n="37"/>unnd end urtheil bitten unnd anhören. Derselben  
+<lb n="38"/>execution unnd volnstreckung begeren, kosten, schäden  
+<lb n="39"/>unnd interesse einlegen, zu taxieren bitten, mit dem  
+<lb n="40"/>ayd beteuren, einnemmen unnd darumb quitieren,  
+<lb n="41"/>restitutionem in integrum (wa von nötten) bitten  
+<lb n="42"/>unnd begeren, ainen oder mehr affteranwäldt an  
+<lb n="43"/>sein statt substituieren, die widerrueffen unnd sollichen  
+<lb n="44"/>gewalt wider an sich nemmen, so offt unnd dick es die  
+<lb n="45"/>notturfft erfordern unnd ime gelieben würdt. 
+<lb n="46"/>Auch sonnsten gemainlich unnd sonnderlich alles unnd je
+<lb break="no" n="47"/>des annders handlen, thuen unnd lassen soll unnd 
+<lb n="48"/>mag, das jederzeit die notturfft meiner sachen unnd  
+<lb n="49"/>rechtfertigungen erfordern würdet, unnd ich selbsten,  
+<lb n="50"/>da ich zugegen, handlen, thuen unnd laßen solt, köndt,  
+<lb n="51"/>oder möcht. Ich gered unnd verspriche auch alles das jhe
+<lb break="no" n="52"/>nig, was also durch meinen anwaldt oder deßen 
+<lb n="53"/>substituierte verhandlet würdet, wahr, stäth und vest,  
+<lb n="54"/>unnd sie darzue irer anwaldtschafft halb im allweg  
+<lb n="55"/>schadloß zuhalten, auch aller bürden oder satisdation  
+          <pb facs="lub-media-3744" n="3"/>
+<lb n="56"/>judicio sisti et judicatum solvi, mit nottwendigen  
+<lb n="57"/>clausuln unnd puncten hinhär gehörig, bey pfandtbarer  
+<lb n="58"/>verbindung aller meiner haab unnd gueter, sovil hier
+<lb break="no" n="59"/>zue vonnötten, zu relevieren unnd zuentheben, ob 
+<lb n="60"/>dann ferners vilernannter mein anwaldt, oder  
+<lb n="61"/>desselben affteranwäldte, inn ainichen meinen sachen  
+<lb n="62"/>mehrers völligers unnd stattlichens gewalts, dann  
+<lb n="63"/>hierinn begriffen, durch rechtliche erkhanntnuß oder  
+<lb n="64"/>sonnst notturfftig wären, oder künfftiglich sein wurden. 
+<lb n="65"/>Denselben will ich inen jetz als dann unnd dann als jetz,  
+<lb n="66"/>so zierlich, vollkommenlich unnd inn aller maß gegeben  
+<lb n="67"/>haben, als stunde sollichs mit außgetruckten worten,  
+<lb n="68"/>clausulen unnd puncten hierinn geschriben unnd begriffen,  
+<lb n="69"/>alles getreuwlich unnd ohn gefährde. 
+<lb n="70"/>Deß zue wahrem urkhund hab ich zue ende diß briefs  
+<lb n="71"/>mein gewohnlich secret unnd insigel auffgetruckt,  
+<lb n="72"/>auch mich mit aigner hand unnderschriben. Geben  
+<lb n="73"/>auff <placeName ref="lub-places-13">Guetenberg</placeName>, den <origDate>achtzehenden tag monats  
+<lb n="74"/>decembris der wenigern zal Christi im ain unnd  
+<lb n="75"/>neuntzigisten jare</origDate>. 
+</p>
+        <p><lb n="76"/><persName ref="lub-actors-166">Caspar von Ramschwag</persName><lb n="77"/>vogt zue <placeName ref="lub-places-13">Guettenberg</placeName></p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3745" n="1"/><lb n="1"/>Original gemeiner  
+<lb n="2"/>gewaltt cum ratificatione  
+<lb n="3"/>prius actorum 
+</p>
+        <p><lb n="4"/>Deß edlen und ehrnuesten <persName ref="lub-actors-166">Caspar  
+<lb n="5"/>von Rambschwag</persName>, fürstlicher durchlaucht ertzhertzog  
+<lb n="6"/><persName ref="lub-actors-11">Ferdinanden zu Österreich</persName> etc. vogten zu  
+<lb n="7"/><placeName ref="lub-places-13">Guttenberg</placeName>  
+<lb n="8"/>contra  
+<lb n="9"/>hern <persName ref="lub-actors-13">Carlen Ludwigen gra
+<lb break="no" n="10"/>ven zu Sulz</persName>
+<lb n="11"/>Registrata propria <date to="1592-02-15">15. februarii  
+<lb n="12"/>anno etc. 92</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1260">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kaspar von Ramschwag contra Karl Ludwig von Sulz wegen Beschlagnahmung von dessen Einkünften in Triesen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie, Signatur: <ref type="identifier" target="lub-objects-1260">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 23. Dezember 1591 / Beschreibstoff: Papier, 7 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Befehl Kaiser Rudolf II., die von Karl Ludwig von Sulz beschlagnahmten Einkünfte Kaspars von Ramschwag in Triesen herauszugeben.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-57">Beschlagnahme</term>
+          <term ref="lub-keywords-42">Türkensteuer</term>
+          <term ref="lub-keywords-309">Vermögen</term>
+          <term ref="lub-keywords-206">Pfändung</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1591-12-23">23. Dez 1591</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349__unfol_-0001.jpg" xml:id="lub-media-3746" source="img-0078-1591-12-23.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0002.jpg" xml:id="lub-media-3747" source="img-0079-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0003.jpg" xml:id="lub-media-3748" source="img-0080-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0004.jpg" xml:id="lub-media-3749" source="img-0081-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0005.jpg" xml:id="lub-media-3750" source="img-0082-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0006.jpg" xml:id="lub-media-3751" source="img-0083-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0007.jpg" xml:id="lub-media-3752" source="img-0084-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3746" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-27">Rudolf der ander</persName>, von gottes gnaden  
+<lb n="2"/>erwöltter römischer keiser, zu allen zeitten  
+<lb n="3"/>mehrer des <orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>, zu <placeName ref="lub-places-146">Hungern</placeName>,  
+<lb n="4"/><placeName ref="lub-places-162">Böheimb</placeName>, <placeName ref="lub-places-122">Dalmacien</placeName>, <placeName ref="lub-places-123">Croatienn</placeName> und <placeName ref="lub-places-294">Schla
+<lb break="no" n="5"/>vonienn</placeName> könig, erzherzog zu <placeName ref="lub-places-295">Osterreich</placeName>, 
+<lb n="6"/>herzog zu <placeName ref="lub-places-120">Burgundi</placeName>, <placeName ref="lub-places-259">Steyr</placeName>, <placeName ref="lub-places-260">Kerndten</placeName>, <placeName ref="lub-places-261">Crein</placeName>  
+<lb n="7"/>unnd <placeName ref="lub-places-263">Württenberg</placeName> etc., grave zu <placeName ref="lub-places-96">Tyroll</placeName> etc. 
+<lb n="8"/>Entbietem dem wolgebornen unserm und des  
+<lb n="9"/><orgName ref="lub-actors-516">Reichs</orgName> liebenn getrewenn <persName ref="lub-actors-13">Carl Ludtwigenn  
+<lb n="10"/>graven zu Sulz</persName>, hoffrichtern unsers keiserlichen  
+<lb n="11"/><orgName ref="lub-actors-519">Hoffgerichts</orgName> zu <placeName ref="lub-places-17">Rottweil</placeName>, unser gnad unnd  
+<lb n="12"/>alles guts. Wolgeborner, lieber, getreuwer,  
+<lb n="13"/>unserm keiserlichenn <orgName ref="lub-actors-521">Cammergericht</orgName> hatt  
+<lb n="14"/>unser und des <orgName ref="lub-actors-516">Reichs</orgName> lieber getrewer <persName ref="lub-actors-166">Caspar  
+<lb n="15"/>vonn Rambschwag</persName>, vogtt zu <placeName ref="lub-places-13">Guttenberg</placeName>  
+<lb n="16"/>supplicirend anbracht, wie daz du  
+<lb n="17"/>verschiener zeitt ime seine eigne früchten und  
+<lb n="18"/>wein, welche er in seinem ime zugehorigem  
+<lb n="19"/>und in dem flecken <placeName ref="lub-places-79">Trysen</placeName> gelegenem haus  
+<lb n="20"/>verwahrlich, behaltten gehabt, nemblich  
+<lb n="21"/>fünff fuder wein und zwelff scheffell korn,  
+<lb n="22"/>ohne einiche vorgehende rechtliche erkandt
+<lb break="no" n="23"/>nus, sonder de mero facto unnd allein under 
+<lb n="24"/>diessem furgewandtenn schein, daz er, suppli
+<lb break="no" n="25"/>cant, vonn seinen eigenthumblichen güttern, 
+<lb n="26"/>welche er in gemeltem flecken <placeName ref="lub-places-79">Trysen</placeName> ligen  
+<lb n="27"/>hatt, dir, beckagtem graven, die <term ref="lub-keywords-42">türken
+<lb break="no" n="28"/>hülff</term> unnd anlag zu geben sich verwiedert,  
+          <pb facs="lub-media-3747" n="2"/>
+<lb n="29"/>in arrest, verbott unnd hafft gelegt, und  
+<lb n="30"/>obwohl er dir hierüber daz recht fürgeschlagenn  
+<lb n="31"/>unnd ferners sein bruder <persName ref="lub-actors-614">Hector vonn Rambsch
+<lb break="no" n="32"/>wag zu Sigberg</persName>, vogt der herrschafftenn 
+<lb n="33"/><placeName ref="lub-places-46">Bludenz</placeName> unnd <placeName ref="lub-places-47">Sonenberg</placeName> etc., dich vonn seinetwegen  
+<lb n="34"/>umb relaxation solches unbefugter weis an
+<lb break="no" n="35"/>gelegen arrest geben, unnd sich auf ervolgung 
+<lb n="36"/>derselbenn dir darumben gut zu sein aner
+<lb break="no" n="37"/>bottenn. Neben dem du ime, supplicanten, 
+<lb n="38"/>ein namhaffte summa aufgeloffener  
+<lb n="39"/>järlicher zins zuthun schuldig, welche deine  
+<lb n="40"/>anforderung ubertrifft, wie dann auch er  
+<lb n="41"/>dir deshalben genugsamme caution zu
+<lb break="no" n="42"/>thun unnd an gebürenden ortten des rechts 
+<lb n="43"/>zu sein nochmals erbietig, so wölle doch  
+<lb n="44"/>dis alles bey dir, beclagtem graven, keines
+<lb break="no" n="45"/>wegs fruchten noch einichen verfang haben, 
+<lb n="46"/>sonder werden ime angeregte seine früchten  
+<lb n="47"/>und wein noch bis auf diese stundt mit  
+<lb n="48"/>der that versperret, verhafftet und zu  
+<lb n="49"/>seinem nicht geringen schaden unnd nachteil  
+<lb n="50"/>vorgehalttenn. Wann aber in  
+<lb n="51"/>dem zu <placeName ref="lub-places-75">Speyr</placeName> anno siebenzig publicirten  
+<lb n="52"/>reichsabschiedt durch ein besonder constitu
+<lb break="no" n="53"/>tion heilsamblich versehenn, welcher maßen 
+<lb n="54"/>in solchem fall, da beide theil uns an dem  
+<lb n="55"/><orgName ref="lub-actors-516">Reich</orgName> ohne mittell underworffen, dem  
+          <pb facs="lub-media-3748" n="3"/>
+<lb n="56"/>beschwerdtenn theil zu recht und fürderlicher relaxion  
+<lb n="57"/>zuverhelffen. Demnach vermög deroselben  
+<lb n="58"/>umb dis unser keyserliches mandat und ladung  
+<lb n="59"/>wieder dich zuertheilenn inn underthenigkeitt  
+<lb n="60"/>anruffenn unnd bitten laßen, wie dann  
+<lb n="61"/>solche proces auch ime an heut dato er
+<lb break="no" n="62"/>kendt wordenn seindt. Hierumb so gebieten 
+<lb n="63"/>wir dir von römisch keyserlicher macht, bey poen  
+<lb n="64"/>acht markenn lottigs goldts halb in unser  
+<lb n="65"/>keyserliche <orgName ref="lub-actors-521">Cammer</orgName>, den andern halben theil ime,  
+<lb n="66"/>clegern, unnachlaßig zu bezahlen hiemit ernst
+<lb break="no" n="67"/>lich unnd wöllenn, daz du demnechstenn nach 
+<lb n="68"/>uberantworttung oder verkundigung dis  
+<lb n="69"/>brieffs ohne verzug, einredt unnd entgeltt,  
+<lb n="70"/>daz angelegt arrest, verbott und sperrung  
+<lb n="71"/>gegen angebottener gebürlicher caution ju
+<lb break="no" n="72"/>dicio sisti et judicatum solvi relaxirest, er
+<lb break="no" n="73"/>öffnest, zerschlagest, abschaffest unnd ime 
+<lb n="74"/>seinen wein und frücht ungehindert zustehen  
+<lb n="75"/>und volgen, dich des ordenlichen rechtens be
+<lb break="no" n="76"/>nügen laßest, hierin nicht seumig noch un
+<lb break="no" n="77"/>gehorsamb seyest, als lieb dir sey, obbe
+<lb break="no" n="78"/>stimpte poen zuvermeiden. Daran geschicht 
+<lb n="79"/>unser ernstliche meinung, wir heischen  
+<lb n="80"/>und laden dich von berürter unser keiserlicher  
+<lb n="81"/>macht auch hiemit, daz du uf den vier  
+<lb n="82"/>unnd zwanzigsten tag, demnechsten nach ge
+          <pb facs="lub-media-3749" n="4"/>
+<lb break="no" n="83"/>melten insinuation und verkündung, der 
+<lb n="84"/>wir dir acht vor den ersten, acht vor den  
+<lb n="85"/>anderen, acht vor den dritten, letsten unnd  
+<lb n="86"/>endtlichen rechtstag sezen und benennenn  
+<lb n="87"/>peremptorie, oder ob derselbig nicht ein ge
+<lb break="no" n="88"/>richtstag sein würdt, den nechsten gerichtstag 
+<lb n="89"/>hernach selbst, oder durch deinen vollmechtigen  
+<lb n="90"/>anwaldt, an demselben unserm <orgName ref="lub-actors-521">Cammergericht</orgName>  
+<lb n="91"/>erscheinest, glaublich anzeig unnd in recht  
+<lb n="92"/>darzuthun, daz diesem unserm keyserlichen gebott  
+<lb n="93"/>gehorsamblich gelebt sey, wo nicht, als dann  
+<lb n="94"/>zu sehenn unnd hören, dich in obbestimpte  
+<lb n="95"/>poen gefallen sein, mit urthl und recht  
+<lb n="96"/>sprechenn, erkennen unnd ercleren, oder  
+<lb n="97"/>aber bestendige erhebliche ursachen, ob du  
+<lb n="98"/>einiche haben magst, warumb solche er
+<lb break="no" n="99"/>clerung nicht solle geschehenn, dagegen 
+<lb n="100"/>in recht gebürlich fürzubringen, darüber  
+<lb n="101"/>erkandtnus und fürderlichen entschiedts zuge
+<lb break="no" n="102"/>wartten. Wann du kommest und er
+<lb break="no" n="103"/>scheinest, als dann also oder nicht, so wirdt 
+<lb n="104"/>doch nichts destoweniger uf des gehorsammen  
+<lb n="105"/>theils oder seines anwaldts anruffen unnd  
+<lb n="106"/>erfordern, hierin im rechten mit gemelter  
+<lb n="107"/>erkandtnus, erclerung und anderm ge
+<lb break="no" n="108"/>handelt unnd procedirt, wie sich daz seiner 
+<lb n="109"/>ordnung nach gebürtt, darnach wiße dich zu richten.  
+          <pb facs="lub-media-3750" n="5"/>
+<lb n="110"/>Gebenn in unser und des <orgName ref="lub-actors-516">Heiligen Reichs</orgName> statt  
+<lb n="111"/><placeName ref="lub-places-75">Speyr</placeName>, am <origDate>drey unnd zwanzigsten tag monats  
+<lb n="112"/>decembris, nach Christi unsers liebenn  
+<lb n="113"/>herrn geburtt fünffzehenhundert unnd  
+<lb n="114"/>im ein unnd neunzigsten</origDate>, unserer <orgName ref="lub-actors-516">Reiche  
+<lb n="115"/>des Römischen</orgName> im siebenzehenden, des <placeName ref="lub-places-146">Hungerischen</placeName>  
+<lb n="116"/>im zwanzigsten und des <placeName ref="lub-places-162">Böhemischen</placeName> im  
+<lb n="117"/>siebenzehenden jahren. 
+</p>
+        <p><lb n="118"/>Ad mandatum domini electi  
+<lb n="119"/>imperatoris proprium 
+</p>
+        <p><lb n="120"/><persName ref="lub-actors-2845">Johann Seyfridus</persName> judicii imperialis  
+<lb n="121"/>camerae protonotarius manu propria 
+</p>
+        <p><lb n="122"/>Ich, <persName ref="lub-actors-2846">Hanns Hopp</persName>, des hochlöblichen keyserlichen <orgName ref="lub-actors-521">Cammer
+<lb break="no" n="123"/>gerichts</orgName> zu <placeName ref="lub-places-75">Speyr</placeName> geschworner beibott bekenne 
+<lb n="124"/>hiemitt disser meiner eigen handt schrifft,  
+<lb n="125"/>auch bei dem aidt, den ich deren halben zu  
+<lb n="126"/>dem hochermeltten keyserlichen <orgName ref="lub-actors-521">Cammergericht</orgName> gethann  
+<lb n="127"/>hab, das ich <gap/> <date when="1592-01-20">92, den 20. januarii</date> zu  
+<lb n="128"/><placeName ref="lub-places-33">Vaduz</placeName> vor dem schloß um die 12 uhren zu mittag  
+<lb n="129"/>dem wolgebornen herren, herren <persName ref="lub-actors-13">Carlo <supplied>gestrichen</supplied> 
+          <pb facs="lub-media-3751" n="6"/><lb n="130"/>Ludwigen graven zu Sulz</persName> und herren zu <placeName ref="lub-places-7">Vaduz</placeName> etc. 
+<lb n="136"/><note>als ir gnaden etc. do zu mal auff das jagen woltten reiden, hab ich ihr gnaden</note>selbst eigener pershonn ein keyserlich besiglett  
+<lb n="137"/>mandat in originali disser coppey gleich laudent  
+<lb n="138"/>under augen verkündt unnd im das original uber  
+<lb n="139"/>andwortt unnd zugesteltt hab, welches  
+<lb n="140"/>ihr gnaden von mier gutt willig haben auff  
+<lb n="141"/>und angenumen, unnd haben ihr gnaden mier  
+<lb n="142"/>zu andwortt geben, sie wollen ihrem advocaten  
+<lb n="143"/>zu <placeName ref="lub-places-75">Speyr</placeName> disses mandatts halben wüderung  
+<lb n="144"/>zu geschriben, ist dise verkündung geschenn in  
+<lb n="145"/>bei sein, <persName ref="lub-actors-1111">Davidt Wüldt</persName>, ihr gnaden etc. hoffmeister etc. 
+</p>
+        <p><lb n="146"/><persName ref="lub-actors-2891">Johann Regele</persName>, bottenmeisters  
+<lb n="147"/>amptsverweser sub manu propria</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3752" n="1"/><lb n="1"/>Copia  
+<lb n="2"/>mandati de relaxando arresto  
+<lb n="3"/>cum citatione 
+<lb n="4"/><persName ref="lub-actors-166">Rambschwag</persName><lb n="5"/>contra 
+<lb n="6"/>Sulz 
+</p>
+        <p><lb n="7"/>Registrata propria <date when="1592-02-16">16. februarii  
+<lb n="8"/>anno etc. 92</date></p>
+      </div>
+    </body>
+  </text>
+</TEI>

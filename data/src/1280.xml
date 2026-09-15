@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1280">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konfirmation König Ferdinand für das Landgericht Rankweil</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Abschrift, Signatur: <ref type="identifier" target="lub-objects-1280">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Originaldatierung: 26. April 1535 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ferdinand I. bestätigt die Rechte und Privilegien des Landgerichts Rankweil. Dieses Schriftstück wurde im Jurisdiktionskonflikt zwischen Kaspar von Ramschwag und Karl Ludwig von Sulz im Jahr 1590 benötigt.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-21">Privileg</term>
+          <term ref="lub-keywords-118">Landgericht</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-26">Ferdinand I.</persName>
+          <date when="1535-04-26">26. Apr 1535</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349__unfol_-0001.jpg" xml:id="lub-media-3904" source="img-0304-1535-04-26-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0002.jpg" xml:id="lub-media-3905" source="img-0305-kopie.jpg" corresp="B"/>
+    <graphic url="at-hal__h_1349__unfol_-0003.jpg" xml:id="lub-media-3906" source="img-0306-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3904" n="1"/><lb n="1"/>Wir <persName ref="lub-actors-26">Ferdinandt</persName> von gottes gnaden römischer könig,  
+<lb n="2"/>zue allen zeitten mehrer des <orgName ref="lub-actors-516">Reichs</orgName>, in <placeName ref="lub-places-145">Germanien</placeName>,  
+<lb n="3"/>zue <placeName ref="lub-places-146">Hungern</placeName>, <placeName ref="lub-places-162">Behaimb</placeName>, <placeName ref="lub-places-122">Dalmatien</placeName>, <placeName ref="lub-places-123">Croatien</placeName> etc. kö
+<lb break="no" n="4"/>nig, infant in <placeName ref="lub-places-253">Hispanien</placeName>, erzherzog zue <placeName ref="lub-places-295">Osterreich</placeName>, zue 
+<lb n="5"/><placeName ref="lub-places-120">Burgundi</placeName> etc., graff zue <placeName ref="lub-places-96">Tyroll</placeName> etc. Bekennen und thun  
+<lb n="6"/>kundt allermeniglich, als dan unser und des haus  
+<lb n="7"/><placeName ref="lub-places-295">Osterreich</placeName>s frey <orgName ref="lub-actors-518">Landtgericht</orgName> zue <placeName ref="lub-places-40">Rangweill</placeName>, in unser  
+<lb n="8"/>herrschafft <placeName ref="lub-places-10">Veltkirch</placeName> gelegen, von unsern vorfahren  
+<lb n="9"/>an <orgName ref="lub-actors-516">Reiche</orgName> römischen kaysern unnd königen mit sondern  
+<lb n="10"/>gnaden, freyhaitten und privilegien begabt, gefreyet  
+<lb n="11"/>unnd fursehen ist. Damit aber dasselb bey solchem ge
+<lb break="no" n="12"/>halten, gehandthabt, geschuzt und geschirmet werde, 
+<lb n="13"/>so haben wir mit wolbedachtem muth, guttem zeittigem  
+<lb n="14"/>rath unnd rechter wißen, solch unser <orgName ref="lub-actors-518">Landtgerichts</orgName> gaben,  
+<lb n="15"/>gnaden, freyhaitten, herlichaitten, rechten, gerechtig
+<lb break="no" n="16"/>keitten, privilegien, auch die löblichen gewonhaitten 
+<lb n="17"/>unnd alt herkommen, wie die dan daselb unser  
+<lb n="18"/><orgName ref="lub-actors-518">Landtgericht</orgName> die nun ein lange zeitt unnzhero ge
+<lb break="no" n="19"/>praucht und geubt hatt, anstatt und in nahmen der 
+<lb n="20"/>römischen kayserlichen mayestatt wegen, aus der
+<lb break="no" n="21"/>selben kayserlichen macht, von newem gnediglich confirmirt 
+<lb n="22"/>und besteet, vernewen, confirmiren und bestäten  
+<lb n="23"/>die auch hiemit von gedachter kayserlichen mayestät  
+<lb n="24"/>wegen, aus derselben kayserlichen macht vollkommenhait  
+<lb n="25"/>und rechtem wißen, in krafft dis brieffs unnd  
+<lb n="26"/>meinen, sezen und wöllen, das das obberürt unser <orgName ref="lub-actors-518">Landt
+<lb break="no" n="27"/>gericht</orgName> solchs alles haben und sich deren in allen puncten, 
+<lb n="28"/>clauseln, artickeln, inhaltungen, mainungen unnd be
+<lb break="no" n="29"/>greiffungen, wie dan das die brieff vormals darumb
+<pb facs="lub-media-3905" n="2"/>
+<lb n="30"/>außgangen, clerlicher außweisen, geprauchen und  
+<lb n="31"/>genießen sollen und mögen, als ob die von wortt  
+<lb n="32"/>zue wortt hierinnen inserirt wehren, von aller
+<lb break="no" n="33"/>menniglich unverhindert, ongeverde, und gepieten 
+<lb n="34"/>darauff allen und ieglichen fürsten, gaistlichen und  
+<lb n="35"/>weltlichen prelaten, graffen, freien, herrn, ritt
+<lb break="no" n="36"/>ern, knechten, amptleuthen, hauptleuthen, vögten, 
+<lb n="37"/>pflegern, verwesern, landtrichtern, richtern, schul
+<lb break="no" n="38"/>taißen, schaffern, burgermaister, räthen, burgern 
+<lb n="39"/>und gemeinden, unnd sonst allen andern unsern und  
+<lb n="40"/>des <orgName ref="lub-actors-516">Reichs</orgName> underthanen und getrewen, in was  
+<lb n="41"/>würden, standts oder wesens, die sein, ernstlich und  
+<lb n="42"/>vestiglich mit diesem brieff und wöllen, das sie das  
+<lb n="43"/>obberurt unser <orgName ref="lub-actors-518">Landtgericht</orgName>, auch unser landt
+<lb break="no" n="44"/>richter, freien und urtaillsprecher daselbst, an solcher 
+<lb n="45"/>unser confirmation, bestettigung, vernewerung, gna
+<lb break="no" n="46"/>den, freyhaitten, gaben, rechten gerechtigkaitten 
+<lb n="47"/>und gewonhaitten nit hindern noch irren, sonder  
+<lb n="48"/>sie darbey geruwiglich pleiben und der geprauchen  
+<lb n="49"/>unnd genießen laßen. Sie auch darbey handthaben,  
+<lb n="50"/>schuzen und schirmen, als lieb einem ieglichen sey,  
+<lb n="51"/>unser und des <orgName ref="lub-actors-516">Reichs</orgName> schwere ungnadt und straff in  
+<lb n="52"/>den vorberurten unsers <orgName ref="lub-actors-518">Landtgericht</orgName>s brieven be
+<lb break="no" n="53"/>griffen, mit urkundt des brieffs. Geben in 
+<lb n="54"/>unser stadt <placeName ref="lub-places-364">Wien</placeName>, am <date when="1535-04-20">sechß und zwanzgisten tag des  
+<lb n="55"/>monats aprilis nach Christi gepurt funffzehen
+<lb break="no" n="56"/>hundert und in dem funff und dreisigsten</date>, unserer 
+<lb n="57"/><orgName ref="lub-actors-516">Reiche</orgName> des Römischen im fünfften und der andern  
+<lb n="58"/>im neunten iaren. 
+<lb n="59"/>Ad mandatum domini regis  
+<lb n="60"/>in <date when="1590">90sten</date>. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3906" n="1"/><lb n="1"/>Confirmation. 
+<lb n="2"/>König <persName ref="lub-actors-26">Ferdinandt</persName> etc. uber das <orgName ref="lub-actors-518">Landtgericht</orgName>  
+<lb n="3"/><placeName ref="lub-places-40">Ranckweill</placeName> in anno <date when="1535">1535</date>. 
+</p>
+        <p><lb n="4"/>A.  
+<lb n="5"/>In sachen  
+<lb n="6"/><orgName ref="lub-actors-172">Osterreich</orgName><lb n="7"/>contra  
+<lb n="8"/><persName ref="lub-actors-13">Sultz</persName><lb n="9"/>Mandati sine clausula 
+<lb n="10"/>Registrata manu propriae <date when="1590-06-16">16. junii  
+<lb n="11"/>anno etc. 90</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

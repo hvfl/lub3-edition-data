@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-285">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Konflikt mit Glarus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B">B: Kopie (Abschrift), Signatur: <ref type="identifier" target="lub-objects-285">AT-TLA Grenzakten Abteilung III Fasz. 41 Pos. 5 1560 April 22</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 22. April 1560 / Beschreibstoff: Papier, 3 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Schreiben der Brüder Wilhelm V. und Alwig IX. von Sulz an die Regierung in Innsbruck, in dem sie berichteten, dass sie an dem kürzlich zu Augsburg abgehaltenen Reichstag dem Kaiser Ferdinand I. über die oft genannten Konflikte vorgetragen und ihn um Schutz und Schirm angerufen hätten, worauf der Kaiser ihnen ein Schreiben an Landammann und Rat zu Glarus überreicht hätte, das sie diesen übersandten.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-60">Reichstag</term>
+          <term ref="lub-keywords-65">schutz und schirm</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1560-04-22">22. Apr 1560</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0001.jpg" xml:id="lub-media-3672" source="grenzakten-abt-iii-41-5-0021-nummer-1-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0002.jpg" xml:id="lub-media-3673" source="grenzakten-abt-iii-41-5-0022-1560-04-22-kopie.jpg" corresp="B"/>
+    <graphic url="at-tla_grenzakten_abteilung_iii_fasz__41_pos__5-0003.jpg" xml:id="lub-media-3674" source="grenzakten-abt-iii-41-5-0023-kopie.jpg" corresp="B"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3672" n="1"/><lb n="1"/>An die <orgName ref="lub-actors-929">Regierung</orgName> zu <placeName ref="lub-places-19">Ynsprugg</placeName>  
+<lb n="2"/>von herrn <persName ref="lub-actors-10">Wilhelmen</persName> und <persName ref="lub-actors-9">Alwigen</persName>  
+<lb n="3"/>gebrüedern grafen zu Sulz. 
+<lb n="4"/>Wolgebornen etc. Nachdem negst verschinen <term ref="lub-keywords-60">Reichstags</term>  
+<lb n="5"/>zu <placeName ref="lub-places-32">Augspurg</placeName> under andern geschefften, so bey der römisch  
+<lb n="6"/><persName ref="lub-actors-26">kayserlichen mayestät</persName>, unnserm allergnedigisten herrn, wie  
+<lb n="7"/>zuverrichten gehabt, wie auch etlicher spenne halber,  
+<lb n="8"/>so sich zwischen uns von wegen unnserer herrschafft  
+<lb n="9"/><placeName ref="lub-places-7">Vaduz</placeName> ains, auch <orgName ref="lub-actors-276">landtaman und rat</orgName> zu  
+<lb n="10"/><placeName ref="lub-places-72">Glaris</placeName>, als innhaber der herrschafft <placeName ref="lub-places-73">Werdenberg</placeName>  
+<lb n="11"/>annderß tails halten, an ir römisch <persName ref="lub-actors-26">kayserliche mayestät</persName> suppliciert,  
+<lb n="12"/>auch umb allergnedigisten schutz, schirm und handthabung  
+<lb n="13"/>underthenigist angerueffen und gebeten, haben ir  
+<lb n="14"/>ausser beyligender copei supplicationis notturfftigclich  
+<lb n="15"/>zuvernemen. Und wiewol ir römisch <persName ref="lub-actors-26">kayserliche mayestät</persName> allergnedigisten  
+<lb n="16"/>bevelch geben, ernenten von <orgName ref="lub-actors-276">Glaris</orgName> darunder inhalt  
+<lb n="17"/>beygelegter copei, so uns daselbsten zu <placeName ref="lub-places-32">Augspurg</placeName>  
+<lb n="18"/>zuegestelt worden, zue schreiben, wie auch anderst nit  
+<lb n="19"/>gewißt noch vertröst gewesen, dann dasselbig schreiben  
+<lb n="20"/>inen, denen von <orgName ref="lub-actors-276">Glaris</orgName>, insinuiert und überschickht  
+<lb n="21"/>sein, also das wir uns versehen, wir wurden bei dem  
+<lb n="22"/>innhalt dessen, wie billich gelassen und darüber  
+<lb n="23"/>weiter nit getrengt worden sein etc. So befinden wir  
+<lb n="24"/>aber ausser jungstem mergenanter von <orgName ref="lub-actors-276">Glaris</orgName>  
+<lb n="25"/>schreiben unnserm vogt zu <placeName ref="lub-places-7">Vadutz</placeName> gethan, dessen  
+<lb n="26"/>copei wir euch hiemit auch übersenden, genueg
+<lb break="no" n="27"/>samblich, das sy nit allain höchst angeregt kayserlich 
+<lb n="28"/>schreiben empfangen ze haben, nit gestendig, sonnder  
+<pb facs="lub-media-3673" n="2"/>
+<lb n="29"/>auch understeen mit fürwendung aines vermainten  
+<lb n="30"/>rechtpots, unns des unnsern gewaltigclich und mit  
+<lb n="31"/>der that zuentsezen, one was auß andern und vor
+<lb break="no" n="32"/>geenden iren schreiben, deren wir etliche beyhanden 
+<lb n="33"/>über unnser offtmals beschehen recht erbieten, abzu
+<lb break="no" n="34"/>nemen etc. Dieweil dann unnsere vordern 
+<lb n="35"/>und wir auch obgenante unnser herrschafft <placeName ref="lub-places-7">Vadutz</placeName>  
+<lb n="36"/>in des hochloblichen hauß <orgName ref="lub-actors-172">Österreich</orgName> und sonderlich der  
+<lb n="37"/>fürstlichen grafschafft <placeName ref="lub-places-96">Tyrol</placeName> ewigem erbschein sein,  
+<lb n="38"/>wie ir ausser hier inverwarten glaubwirdigen  
+<lb n="39"/>copey anzuhören, zu dem, das ir dessen sonder  
+<lb n="40"/>zweifels one das genugsam bericht. So lanngt an  
+<lb n="41"/>euch unnser trungenlich und frundtlichs piten und  
+<lb n="42"/>begern, ir anstat höchst ermelter römisch <persName ref="lub-actors-26">kayserlicher mayestät</persName> wellen  
+<lb n="43"/>unns vermüg und innhalt erst angeregt unnsers  
+<lb n="44"/>innhabenden erbschirmbriefs notturfftigclichen  
+<lb n="45"/>schüzen, schirmen und hanndthaben, oder sonsten  
+<lb n="46"/>nach wegen trachten oder maß geben, damit  
+<lb n="47"/>weiterung und ergers verhüet, wie bei dem  
+<lb n="48"/>unnsern rüewiglichen beleiben mügen, und wider  
+<lb n="49"/>recht und billichait nit beschwert werden, dann  
+<lb n="50"/>ir als die verstendigen selbs zuermessen, das wir  
+<lb n="51"/>uns wider unnser so manigfaltig beschehen recht  
+<lb n="52"/>erbieten, mit der that oder gewalt nit entsezen  
+<lb n="53"/>lassen künden. Datum, den <date when="1560-04-22">22. aprilis anno etc.  
+<lb n="54"/>im Lx</date> sten. 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3674" n="1"/><lb n="1"/>Copie der graven von <orgName ref="lub-actors-7">Sulz</orgName><lb n="2"/>schreiben  
+<lb n="3"/>vom <date when="1560-04-22">22. aprilis anno etc. 60</date></p>
+      </div>
+    </body>
+  </text>
+</TEI>

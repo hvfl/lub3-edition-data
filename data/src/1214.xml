@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1214">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gutachten über Frondienst von Kaspar Wolfinger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1214">AT-TLA BBÄ Älteres Kameralarchiv 582</ref> (<orgName key="at-tla" ref="lub-objects-175">Tiroler Landesarchiv</orgName>) / Originaldatierung: 8. Januar 1590 / Beschreibstoff: Papier, 26 Seiten / Siegel: 3 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Ein Gutachten, unterfertigt von Karl Kurz von Senftenau, Hubmeister Jörg von Altmanshausen und Ludwig Haslach an Erzherzog Ferdinand (II.), betreffend die Jurisdiktionsverletzungen am Schloss und der Vogtei Gutenberg in Balzers durch Karl Ludwig von Sulz. Der Vogt Kaspar von Ramschwag hatte sich viele Jahre hindurch bei der Oberösterreichischen Regierung beschwert, dass der Graf sein Hof- und Lehensmann Kaspar Wolfinger drangsalierte und ungerechtfertigt zu Frondiensten verpflichten wollte. Das Weide-, Jagd- und Fischereirecht des Vogts wurde regelmässig durch den Grafen verletzt. Daraufhin ergingen am 16. November und 12. Dezember 1589 erzherzogliche Befehle, sich von Amts wegen über Recht und Gerechtigkeiten von Gutenberg zu erkundigen und diese Erkundigungen mit einem Gutachten an die Regierung zu übersenden.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-514">turnen und blochen</term>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+          <term ref="lub-keywords-175">Weiderecht</term>
+          <term ref="lub-keywords-324">Fischerei</term>
+          <term ref="lub-keywords-108">Jagdrecht</term>
+          <term ref="lub-keywords-322">Niedergerichtsbarkeit</term>
+          <term ref="lub-keywords-229">Krieg</term>
+          <term ref="lub-keywords-223">Gefangenschaft</term>
+          <term ref="lub-keywords-95">Waffe</term>
+          <term ref="lub-keywords-91">Munition</term>
+          <term ref="lub-keywords-100">frevel</term>
+          <term ref="lub-keywords-34">Frondienst</term>
+          <term ref="lub-keywords-161">fasnachtshenne</term>
+          <term ref="lub-keywords-58">Leibeigenschaft</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-399">senntum</term>
+          <term ref="lub-keywords-179">Landrecht</term>
+          <term ref="lub-keywords-522">Schwabenkrieg</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <date when="1590-01-08">8. Jan 1590</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0001.jpg" xml:id="lub-media-3606" source="alt-kammeralakt-mis-582-0001-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0002.jpg" xml:id="lub-media-3607" source="alt-kammeralakt-mis-582-0002-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0003.jpg" xml:id="lub-media-3608" source="alt-kammeralakt-mis-582-0002a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0004.jpg" xml:id="lub-media-3609" source="alt-kammeralakt-mis-582-0003-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0005.jpg" xml:id="lub-media-3610" source="alt-kammeralakt-mis-582-0003a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0006.jpg" xml:id="lub-media-3611" source="alt-kammeralakt-mis-582-0004-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0007.jpg" xml:id="lub-media-3612" source="alt-kammeralakt-mis-582-0004a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0008.jpg" xml:id="lub-media-3613" source="alt-kammeralakt-mis-582-0005-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0009.jpg" xml:id="lub-media-3614" source="alt-kammeralakt-mis-582-0005a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0010.jpg" xml:id="lub-media-3615" source="alt-kammeralakt-mis-582-0006-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0011.jpg" xml:id="lub-media-3616" source="alt-kammeralakt-mis-582-0006a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0012.jpg" xml:id="lub-media-3617" source="alt-kammeralakt-mis-582-0007-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0013.jpg" xml:id="lub-media-3618" source="alt-kammeralakt-mis-582-0007a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0014.jpg" xml:id="lub-media-3619" source="alt-kammeralakt-mis-582-0008-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0015.jpg" xml:id="lub-media-3620" source="alt-kammeralakt-mis-582-0008a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0016.jpg" xml:id="lub-media-3621" source="alt-kammeralakt-mis-582-0009-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0017.jpg" xml:id="lub-media-3622" source="alt-kammeralakt-mis-582-0009a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0018.jpg" xml:id="lub-media-3623" source="alt-kammeralakt-mis-582-0010-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0019.jpg" xml:id="lub-media-3624" source="alt-kammeralakt-mis-582-0010a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0020.jpg" xml:id="lub-media-3625" source="alt-kammeralakt-mis-582-0011-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0021.jpg" xml:id="lub-media-3626" source="alt-kammeralakt-mis-582-0011a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0022.jpg" xml:id="lub-media-3627" source="alt-kammeralakt-mis-582-0012-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0023.jpg" xml:id="lub-media-3628" source="alt-kammeralakt-mis-582-0012a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0024.jpg" xml:id="lub-media-3629" source="alt-kammeralakt-mis-582-0013-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0025.jpg" xml:id="lub-media-3630" source="alt-kammeralakt-mis-582-0013a-kopie.jpg" corresp="A"/>
+    <graphic url="at-tla_bb-_-lteres_kameralarchiv_582-0026.jpg" xml:id="lub-media-3631" source="alt-kammeralakt-mis-582-0014-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3606" n="1"/><lb n="1"/>Wolgeborn, edl, gestrenng, hochgelerdt unnd vesst, genedig  
+<lb n="2"/>herrn. Eur genaden seyen unnser unnderthenig gehorsam  
+<lb n="3"/>guetwilliger diennst beraidt zuvor. Genedig herrn, eur gnaden  
+<lb n="4"/>zwen unnderschidliche bevelch des ersten datum weist den  
+<lb n="5"/><date when="1589-11-10">10. tag des monnat novembris</date> unnd des anndern des  
+<lb n="6"/><date when="1589-12-12">12. tag decembris negst abgeloffnen 89igisten jars</date> haben  
+<lb n="7"/>wir sambt den beilagen in unnderthenigkhait emphanngen.  
+<lb n="8"/>Darinnen welicher massen der fürstlich durchlaucht erzherzog F<persName ref="lub-actors-11">erdi
+<lb break="no" n="9"/>nannden, erzherzogen zu Össterreich</persName> etc., unnserm genedig
+<lb break="no" n="10"/>isten herrn, für eintrag unnd newerung an dem schloss 
+<lb n="11"/>unnd vogtey <placeName ref="lub-places-13">Guettenberg</placeName> durch herrn <persName ref="lub-actors-13">Carel Ludwigen  
+<lb n="12"/>graven zu Sulz</persName> bescheche. Darumben eur gnaden der voggt zu  
+<lb n="13"/><placeName ref="lub-places-13">Guettenberg</placeName>, <persName ref="lub-actors-166">Caspar von Rambschwag</persName>, vom <date when="1589-07-08">achten juli</date>  
+<lb n="14"/>unnd <date when="1589-09-14">vierzechenden septembris</date>, sowol hernach den <date when="1589-11-19">19. tag des  
+<lb n="15"/>monats novembris</date> der begegneten eingrif unnd newerung
+<lb break="no" n="16"/>en unnderthenigen bericht gethan, so wir aus seinen original 
+<lb n="17"/>schreiben zuvernemen haben, uber weliches alles wir pesstes  
+<lb n="18"/>vleis vorernenter vogtei unnd schloss <placeName ref="lub-places-13">Guettenbergs</placeName> (so  
+<lb n="19"/>wir dessen zuvor nicht genuegsambs wissens hetten) alten  
+<lb n="20"/>herkhomen, recht unnd gerechtigkhaiten aigentlichen erkhundig
+<lb break="no" n="21"/>en unnd desselben eurn gnaden sambt unnsern radtsamen guet
+<lb break="no" n="22"/>achten unverzogenlich in unnderthenigkhait berichten, auch 
+<lb n="23"/>hierzwischen berürdtem voggt auf sein begern beistandt erzaig
+<lb break="no" n="24"/>en unnd irer fürstlich durchlaucht an deren gerechtsame ichzig entziech
+<lb break="no" n="25"/>en, sonndern imme, voggt, dieselben hanndthaben helffen sollen etc., 
+<lb n="26"/>haben wir mit mererm aus angezognen beclagen in unnder
+<lb break="no" n="27"/>thenigkhait verstannden. Darauf füegen eur gnaden wir in 
+<lb n="28"/>unnderthenigkhait zuvernemen, wiewol wir unns in vorge
+<lb break="no" n="29"/>melts von <persName ref="lub-actors-166">Rambschwags</persName> an eur gnaden außgangne schreiben, 
+<lb n="30"/>darinnen er, von <persName ref="lub-actors-166">Rambschwag</persName>, die beschaffenhait der endt
+<lb break="no" n="31"/>standnen newerung unnd eingrif in unnderthenigkhait an
+<lb n="32"/>gemelt, unnd was weitters in vorgemelts herrn grafens  
+<lb n="33"/>gethanen protestation begriffen, der lennge nach ersechen,  
+<lb n="34"/>yedoch haben wir für ain notturfft gehalten, das wir ine,  
+<lb n="35"/>von <persName ref="lub-actors-166">Rambschwag</persName>, für unns beschaiden unnd alles dasjhenige,  
+<lb n="36"/>so zu diser vogtei <placeName ref="lub-places-13">Guettenberg</placeName> an registern brieflichen  
+<pb facs="lub-media-3607" n="2"/>
+<lb n="37"/>urkhunden unnd gerechtigkhaiten geherig mit ime pringen  
+<lb n="38"/>solle. Darauf wir ine fürderlichen beschriben, welcher  
+<lb n="39"/>auch alßbald bei unns erscheinen unnd ime darüber disen für
+<lb break="no" n="40"/>halt gethan, er welte unns auf seine an eur gnaden gelanngte 
+<lb n="41"/>schreiben von ainem puncten auf den andern berichten, was  
+<lb n="42"/>er gedenckhe, das des schloss unnd voggtey <placeName ref="lub-places-13">Guettenbergs</placeName>  
+<lb n="43"/>alt herrkhomen unnd gerechtigkhait seye. Demnach haben wir  
+<lb n="44"/>gemelts von <persName ref="lub-actors-166">Rambschwags</persName> schreiben, so den <date when="1589-09-14">14. tag septembris  
+<lb n="45"/>anno etc. 89</date> datiert für unns genomen unnd ine, von <persName ref="lub-actors-166">Rambschwag</persName>,  
+<lb n="46"/>darüber geherdt. 
+</p>
+        <p><lb n="47"/>Unnd erstlich, sovil die vischenzen belanngt, habe er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="48"/>schwag</persName>, ye unnd albegen geherdt, das seine altvordern unnd 
+<lb n="49"/>vogt zu <placeName ref="lub-places-13">Guettenberg</placeName> der vischpach, genant <placeName ref="lub-places-1012">Sanct Donats  
+<lb n="50"/>Prunenbach</placeName>, welicher in des schloss <placeName ref="lub-places-13">Guettenbergs</placeName> güett
+<lb break="no" n="51"/>ern endtspringdt unnd herunden gleich neben dem schloss hin
+<lb break="no" n="52"/>rindt, als für des schloss <placeName ref="lub-places-13">Guettenbergs</placeName> aigenthumblichen 
+<lb n="53"/>vischenz gebraucht unnd genuzt haben, one eintrag menigclichs,  
+<lb n="54"/>wie dann yezt gemelter von <persName ref="lub-actors-166">Rambschwag</persName> denselben auch  
+<lb n="55"/>also biß auf dise newerung innengehabt unnd genossen,  
+<lb n="56"/>unnd er erachte noch, solicher vischpach seye dem schloss <placeName ref="lub-places-13">Guetten
+<lb break="no" n="57"/>berg</placeName> zuegeherig, doch wisse er darumben nichts fürzuweisen, 
+<lb n="58"/>dann die lanng unfürdenckhliche possession. 
+</p>
+        <p><lb n="59"/>Zum anndern den prunenpach von <placeName ref="lub-places-1013">Sanct Kathrinna Prunen</placeName><lb n="60"/>herab fliessendt, gibt gemelter von <persName ref="lub-actors-166">Rambschwag</persName> disen be
+<lb break="no" n="61"/>richt, obgleich wol nicht an, das selbiger prunenbach, des visch
+<lb break="no" n="62"/>enz sich zemüessigen, albegen wann man das amanambt 
+<lb n="63"/>zu <placeName ref="lub-places-1">Vaduz</placeName> besezt, in gemain verpotten worden, so habe mann  
+<lb n="64"/>aber ime, von <persName ref="lub-actors-166">Rambschwag</persName>, und seinen voreltern, denselben  
+<lb n="65"/>yeder zeit unverbotten offen gelassen unnd mit dem vischen  
+<lb n="66"/>kain intrag gethan, ob aber das schloss <placeName ref="lub-places-13">Guettenberg</placeName> dar
+<lb break="no" n="67"/>umb die gerechtigkhait gehabt, oder obs auß genaden der herrn 
+<lb n="68"/>von <orgName ref="lub-actors-744">Brandis</orgName> unnd graven zu <orgName ref="lub-actors-7">Sulz</orgName> beschechen, möge er dies  
+<lb n="69"/>entlich nit wissen, es seye aber dannocht darbei zuvermuet
+<lb break="no" n="70"/>en. Die herrn von <orgName ref="lub-actors-744">Brandis</orgName> unnd herrn graven zu <orgName ref="lub-actors-7">Sulz</orgName> werd
+<lb break="no" n="71"/>en solichem auß naigung zuegesechen haben.
+</p>
+        <p><pb facs="lub-media-3608" n="3"/><lb n="72"/>Zum driten betreffendt das jagen, zaigt er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="73"/>schwag</persName>, an, <persName ref="lub-actors-167">Caspar Wolfinger</persName>, so ain hof von dem schloss <placeName ref="lub-places-13">Guet
+<lb break="no" n="74"/>enberg</placeName> innenhat unnd besizt, habe ine verstendigt, das 
+<lb n="75"/>er, <persName ref="lub-actors-167">Wolfinger</persName>, von seinen euch mermalen geherdt, herr <persName ref="lub-actors-28">Ulrich  
+<lb n="76"/>von Rambschwag</persName> selig, habe ain beeren im <placeName ref="lub-places-1014">Dürenwald</placeName>,  
+<lb n="77"/>so selbiger zeit den herrn von <orgName ref="lub-actors-744">Brandis</orgName> zuegeherdt, unnd aber  
+<lb n="78"/>darnach mit der herrschafft <placeName ref="lub-places-106">Mayenveld</placeName> den <orgName ref="lub-actors-1632">Pündtern</orgName>  
+<lb n="79"/>hingeben unnd verkhaufft worden, gehezt unnd gefanngen,  
+<lb n="80"/>das seye one eintrag beschechen. An yez aber, weil es <placeName ref="lub-places-82">Pünd
+<lb break="no" n="81"/>tisch</placeName>, haben man sich dessen diß ordts seines wissens nicht 
+<lb n="82"/>mer gebraucht. 
+</p>
+        <p><lb n="83"/>Zum viertten, so seye wissentlich unnd offenbar, das sein, von  
+<lb n="84"/><persName ref="lub-actors-166">Rambschwags</persName>, eltfordern unnd vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>,  
+<lb n="85"/>unnd yeziger von <persName ref="lub-actors-166">Rambschwag</persName> selbs an annel unnd ob dem  
+<lb n="86"/>dorf <placeName ref="lub-places-71">Balzers</placeName>, so in der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> ligende, wildpredt,  
+<lb n="87"/>wildschwein, füx unnd haßen gejagdt, gefanngen unnd purset,  
+<lb n="88"/>one menigclichs eintrag, ob aber soliches aus gerechtigkhait,  
+<lb n="89"/>des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> oder aus genaden der herrn von  
+<lb n="90"/><orgName ref="lub-actors-744">Brandis</orgName> oder hernach der herrn graven zu <orgName ref="lub-actors-7">Sulz</orgName> beschechen,   
+<lb n="91"/>mege er nit wissen, wol zuvermuetten, dieweil sunderlich  
+<lb n="92"/>das jagen dermassen ain herlich werckh wurde, wo es aus  
+<lb n="93"/>genaden bewilligdt, so lannge jar one refers nit gelassen  
+<lb n="94"/>sein worden. Doch hab er darumben nichzit fürzeweißen, dann  
+<lb n="95"/>die lanng herrgebrachte posession.  
+</p>
+        <p><lb n="96"/>Zum fünfften, das vor zeiten von dem schloss <placeName ref="lub-places-13">Guettenberg</placeName>  
+<lb n="97"/>siben hof, die mit hofleuten besezt geweßen, dran aber yezig
+<lb break="no" n="98"/>er zeit nit mer, dann ain hof besezt, welichen <persName ref="lub-actors-167">Caspar 
+<lb n="99"/>Wolfinger</persName> innenhat unnd aber die anndern hof ains tails  
+<lb n="100"/>anyezo bei des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> hannden unnd ainsthails  
+<lb n="101"/>den gravischen underthonen verlichen worden, mit solichen  
+<lb n="102"/>höfen, habe es ain soliche gerechtigkhait gehabt, das dieselben  
+<lb n="103"/>ainem vogdt zu <placeName ref="lub-places-13">Guettenberg</placeName> in allen zuefallen, es seyen  
+<pb facs="lub-media-3609" n="4"/>
+<lb n="104"/>kriegs oder anndern sachen, diennstlich unnd gewerttig  
+<lb n="105"/>sein sollen, die sind auch unnd ain yeder hof besonder ainem  
+<lb n="106"/>voggt zu <placeName ref="lub-places-13">Guettenberg</placeName> jerlich ain vaßnachthennen  
+<lb n="107"/>zu geben schuldig geweßen, seyen auch aller frondiensten  
+<lb n="108"/>von ainer herrschafft <placeName ref="lub-places-7">Vaduz</placeName> yederzeit frey gelassen  
+<lb n="109"/>worden, an yezo aber, das nicht allain die sechs hof, sonnd
+<lb break="no" n="110"/>er auch der innhaber des sibenden hofs, als <persName ref="lub-actors-167">Caspar Wolf
+<lb break="no" n="111"/>inger</persName>, durch den herrn grafen wider alt herkhomen 
+<lb n="112"/>zu frondiensten getrungen. Dernwegen halte er für  
+<lb n="113"/>ain hoche notturfft, das soliche gerechtigkhait wider in  
+<lb n="114"/>allen standt unnd gerechtigkhait gebracht werde. 
+</p>
+        <p><lb n="115"/>Neben solichem hat er unns auch alte schrifften fürgezaigt,  
+<lb n="116"/>das sich in anno etc. 1524 von wegen solicher hofleuth der  
+<lb n="117"/>todtfeel unnd annderer sachen halben ain spann zuegetrag
+<lb break="no" n="118"/>en, auch von ainem lanndtvogt der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="119"/>auf ain commission begert worden, ob aber dieselbig zu  
+<lb n="120"/>werckh gezogen unnd verricht, darvon könne er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="121"/>schwag</persName>, verneren bericht nicht finden, deren wegen were 
+<lb n="122"/>seinem guetachten nach ain notturfft bei der <orgName ref="lub-actors-2587">Tyrolische  
+<lb n="123"/>Camer</orgName> registratur nach zesuechen. 
+</p>
+        <p><lb n="124"/>Volgents hat unns mergesagter von <persName ref="lub-actors-166">Rambschwag</persName> nach volg
+<lb break="no" n="125"/>ende verzaichnußen unnd alte lechenbrief fürgewißen.
+<lb n="126"/>Erstlich zwo verzaichnußen, darinnen das sich vor lanngen  
+<lb n="127"/>jaren abermals ettliche spenn erhebt, so die allmainden,   
+<lb n="128"/>wann man etwas daran außgetailt, auch einzuggelt,  
+<lb n="129"/>todtfel, wueren unnd dergleichen sachen betreffendt, item  
+<lb n="130"/>in ainem lechenbrief von herrn <persName ref="lub-actors-2805">Sigmunden von Lannden
+<lb break="no" n="131"/>berg</persName> als voggt zu <placeName ref="lub-places-13">Guettenberg</placeName> in anno etc. 1441 sagende, 
+<lb n="132"/>der weist, das die lechenleuth des schloss <placeName ref="lub-places-13">Guettenbergs</placeName>  
+<lb n="133"/>güettern, ainem vogdt zu <placeName ref="lub-places-13">Guettenberg</placeName> gehorsam sein  
+<pb facs="lub-media-3610" n="5"/>
+<lb n="134"/>sollen mit diennsten unnd annderm mer in zwayen  
+<lb n="135"/>lechenbriefen von weylend herzog <persName ref="lub-actors-2806">Sigmunden von Össter
+<lb break="no" n="136"/>reich</persName>, hochloblichister seligister gedechtnus, in anno etc. 1474 
+<lb n="137"/>den hofleutten des schloss <placeName ref="lub-places-13">Guettenbergs</placeName> gegeben, dar
+<lb break="no" n="138"/>innen clarlich begriffen, das sy, die hofleuth, höchstermelt
+<lb break="no" n="139"/>em herzog <persName ref="lub-actors-2806">Sigmund von Össterreich</persName> unnd dessen nach
+<lb break="no" n="140"/>khomen, auch dem schloß <placeName ref="lub-places-13">Guettenberg</placeName> zu allen notturfften 
+<lb n="141"/>gewerttig unnd verpflichtig sein sollen. 
+</p>
+        <p><lb n="142"/>Darumben sein, von <persName ref="lub-actors-166">Rambschwags</persName>, erachten, soliche hofleuth  
+<lb n="143"/>seyen der frondiennsten hievor nie ankhomen noch begert  
+<lb n="144"/>worden, sy seyen auch den herrn von <orgName ref="lub-actors-744">Brandiß</orgName>, noch den herrn  
+<lb n="145"/>graven von <orgName ref="lub-actors-7">Sulz</orgName> yemalen nie verphlicht gewesen, noch kain  
+<lb n="146"/>phlicht geschworen, sollen auch hinfüro nicht darmit ver
+<lb break="no" n="147"/>bunden werden etc.
+</p>
+        <p><lb n="148"/>Genedig herrn, nach verrichtung vorstennden befragung hab
+<lb break="no" n="149"/>en wir des herrn graven protestation, darinnen die 
+<lb n="150"/>hievor gemelten beschwerd artickhl merer thails begriff
+<lb break="no" n="151"/>en, für unns genomen unnd von ainem puncten zu dem and
+<lb break="no" n="152"/>ern red gehalten unnd in dem ersten artickhel hagen, jagen, 
+<lb n="153"/>tuernen unnd plockhen betreffendt befunden. 
+</p>
+        <p><lb n="154"/>Daruber des von <persName ref="lub-actors-166">Rambschwags</persName> beantwurttung also, das hagen,  
+<lb n="155"/>jagen, vischenzen anlannge, das lasse er bei den hievor speci
+<lb break="no" n="156"/>ficierten verschribnen bericht artickhel verbleiben, eracht 
+<lb n="157"/>auch, wier werden die notturfft daraus verstannden haben,  
+<lb n="158"/>mit disem vernern vermelden, er habe sich zu erhalttung an  
+<lb n="159"/>gemaster gerechtigkhait nicht tettlicher weiß unnderstand
+<lb break="no" n="160"/>en, sonnder dieweil seine vorelttern unnd voggt zu <placeName ref="lub-places-13">Guet
+<lb break="no" n="161"/>enberg</placeName> soliche hagen, jagen unnd vischenzen also ublich herr
+<lb break="no" n="162"/>bracht, habe er als ain verphlichter unnd geschworner diener 
+<lb n="163"/>one der fürstlich durchlaucht unnd eur gnaden genedigists unnd genedigs vor
+<lb break="no" n="164"/>wissen unnd gehaiß nicht fallen oder versinckhen lassen 
+<lb n="165"/>sollen. Sover aber auf seinen underthenigen bericht nichts  
+<pb facs="lub-media-3611" n="6"/>
+<lb n="166"/>zu erhalten, vermuettlich so welle er darumben dem herrn  
+<lb n="167"/>graven an seiner habenden gerechtsame nichzit zuverschmel
+<lb break="no" n="168"/>lern begert haben. Was unnd so vil aber turnen unnd plockhen 
+<lb n="169"/>betreffe, darüber gebe er disen bericht, wie das offenlich am  
+<lb n="170"/>tag, das im schloss <placeName ref="lub-places-13">Guettenberg</placeName> ain hocher tuern unnd  
+<lb n="171"/>herinden gewelbt darein, nicht weniger auch ain plockh
+<lb break="no" n="172"/>hauß darinnen gewesen, weliches aber von eltis wegen er
+<lb break="no" n="173"/>fault unnd zergangen, das also diser tuern unnd plockhhauß 
+<lb n="174"/>in albeg ainer gefenckhnus gleiche, unnd er könne anderst  
+<lb n="175"/>nicht schliessen, dann es werde freylich nicht vergebenlieg,  
+<lb n="176"/>dermassen zuegericht worden sein. Item auch, so habe er, von  
+<lb n="177"/><persName ref="lub-actors-166">Rambschwag</persName>, in guettem wissen, das ettwann seine elt
+<lb break="no" n="178"/>vordern ire diener unnd knecht umb irer verfreflung wil
+<lb break="no" n="179"/>len, so sy in dem schloß <placeName ref="lub-places-13">Guettenberg</placeName> oder burghalden 
+<lb n="180"/>beganngen, in soliche guettenbergische gefenckhnus gelegdt,  
+<lb n="181"/>wie dann verschiner zeit er, yeziger von <persName ref="lub-actors-166">Rambschwag</persName>, sein
+<lb n="182"/>em geweßnen diener mit namen <persName ref="lub-actors-2807">Bastian Khuerz</persName>, so anyezo  
+<lb n="183"/>in herrn graf <persName ref="lub-actors-13">Carels von Sulz</persName> diennsten seye, auch gethan  
+<lb n="184"/>habe, unnd obgleich solicher sein, von <persName ref="lub-actors-166">Rambschwags</persName>, gewester  
+<lb n="185"/>diener, soliche gefenckhnus schmelerlich oder verächtlich anziecht,  
+<lb n="186"/>als ob die selbigen gwelber nur käs oder milckh gwelben  
+<lb n="187"/>seyen, des wurde aber er ine,  herrn graven, nicht mit grund,  
+<lb n="188"/>sonnder zu milt bericht haben. Unnd in albeg seye sein, von  
+<lb n="189"/><persName ref="lub-actors-166">Rambschwags</persName>, endtliche vermuettung, solich schloss Guett
+<lb break="no" n="190"/>enberg in dem schloß unnd des schloss burghalden werde 
+<lb n="191"/>die gerechtigkhaith des burckhfridens haben etc. Er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="192"/>schwag</persName>, hat unns auch verner verstendigdt, wie das es sich 
+<lb n="193"/>in vergangnen <term ref="lub-keywords-522">Schweizer Krieg</term> in der belegerung <placeName ref="lub-places-13">Guett
+<lb break="no" n="194"/>enberg</placeName> zuegetragen, wie das ain Schweizer, so zuvor im 
+<lb n="195"/>schloß <placeName ref="lub-places-13">Guettenberg</placeName> gedient, haimblicher weis in das schloß  
+<lb n="196"/><placeName ref="lub-places-13">Guettenberg</placeName> gestigen oder eingeschlossen, der auch alßbald  
+<lb n="197"/>gefengclich angenomen unnd dahin verurtailt worden, der
+<lb break="no" n="198"/>selbig solle auf ain prett gebunden unnd zum hochsten laden 
+<pb facs="lub-media-3612" n="7"/>
+<lb n="199"/>uber den velsen hinauß geworfen werden, wie dann auch be
+<lb break="no" n="200"/>beschechen, derselbig laden auch noch auf heuttigen tag den 
+<lb n="201"/>namen habe, der Schweizer Laden, des welle er unns dan
+<lb break="no" n="202"/>nocht zu ainem bericht vermelt haben etc.
+</p>
+        <p><lb n="203"/>Zum anndern, das ermelt hauß und schloß <placeName ref="lub-places-13">Guettenberg</placeName> in  
+<lb n="204"/>des herrn graven von <orgName ref="lub-actors-7">Sulz</orgName> hochen unnd nidern oberkhait  
+<lb n="205"/>mit aller zuegehord unwidersprechenlich lige, unnd das  
+<lb n="206"/>auch ain herr zu <placeName ref="lub-places-7">Vaduz</placeName> in unnd ausserhalb des schloss  
+<lb n="207"/><placeName ref="lub-places-13">Guettenbergs</placeName> umb alle frevelbare sachen zestraffen habe etc.  
+<lb n="208"/>Darüber der von <persName ref="lub-actors-166">Rambschwag</persName> unns disen bericht gethan, ob
+<lb break="no" n="209"/>wol er, herr graf, sich dessen anmasse, so kome er aus 
+<lb n="210"/>volgenden ursachen nicht bekhandt sein, das er, herr graf, inn  
+<lb n="211"/>dem schloß <placeName ref="lub-places-13">Guettenberg</placeName> unnd burghalden zugebietten  
+<lb n="212"/>unnd die frevelbaren personen zue straffen unnd das deren  
+<lb n="213"/>ursachen wegen auf das bei lebzeiten seines lieben herrn vat
+<lb break="no" n="214"/>ern <persName ref="lub-actors-156">Balthasern von Rambschwag</persName> selig durch <persName ref="lub-actors-286">Ynntll Paule</persName>, 
+<lb n="215"/>der damals rambschwagischer diener gewesen, unnd noch ain 
+<lb break="no" n="216"/>em diener, ain frevelbare handlung an des schloß <placeName ref="lub-places-13">Guet
+<lb break="no" n="217"/>enbergs</placeName> burghalden zuegetragen, solichen <persName ref="lub-actors-286">Ynntl Paule</persName>  
+<lb n="218"/>habe man für das gericht der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> umb den  
+<lb n="219"/>begangnen frevel gerichtlich fürgenomen unnd beclagen  
+<lb n="220"/>wellen. Darauf er, von <persName ref="lub-actors-156">Rambschwag</persName>, selig zu dem lanndt
+<lb break="no" n="221"/>vogt der herrschafft <placeName ref="lub-places-7">Vaduz</placeName>, der domals im ambt gewesen, 
+<lb n="222"/>geritten unnd sich diß eingrifs beschwerdt, unnd darfür gebeten,  
+<lb n="223"/>auch darbei angemelt unnd vermaindt. Dieweil solicher  
+<lb n="224"/>frevel an der burghalden begannen worden, so gebüre  
+<lb n="225"/>ime derselbig ze straffen, also seye solicher frevel seines wiss
+<lb break="no" n="226"/>ens erfassen unnd hernach in lebzeitten sein, von Ramb
+<lb break="no" n="227"/>schwags, lieben brueder weilend <persName ref="lub-actors-23">Georg Balthasern von 
+<lb n="228"/>Rambschwag</persName> gewester vogdt zu <placeName ref="lub-places-13">Guettenberg</placeName> selig habe  
+<lb n="229"/>sich begeben, das seiner zween diener zwaymal das ain  
+<lb n="230"/>in dem schloß unnd das annder mal an der burghalden mit  
+<lb n="231"/>ainander gefreffelt, weliche <persName ref="lub-actors-24">Juvenal Kreder</persName>, gewester  
+<pb facs="lub-media-3613" n="8"/>
+<lb n="232"/>lanndtvogt zu <placeName ref="lub-places-7">Vaduz</placeName>, selig, umb die verfreflung angefochten,  
+<lb n="233"/>soliche beschwerdt aber hab er, von <persName ref="lub-actors-23">Rambschwag</persName>, selig, im mon
+<lb break="no" n="234"/>nat <date when="1573-06">junii anno etc. 73</date> an eur gnaden underthenig gelanngen 
+<lb n="235"/>lassen, darvon er, yeziger von <persName ref="lub-actors-166">Rambschwag</persName>, coppei bei  
+<lb n="236"/>der handt. Was aber ime, von <persName ref="lub-actors-23">Rambschwag</persName>, selig, von eur  
+<lb n="237"/>gnaden für beschaid darüber ervolgt, mege er nicht wissen,  
+<lb n="238"/>dann er nichtzit darvon gefunden habe. 
+</p>
+        <p><lb n="239"/>Zum driten in besagtem artickhel angehenckht, das junckher  
+<lb n="240"/><persName ref="lub-actors-156">Balthaser von Rambschwag</persName> selig nie widersprochen, sonnd
+<lb break="no" n="241"/>er gegen <persName ref="lub-actors-24">Juvenal Kreder</persName>, gewesten lanndtvogdt selig, auf 
+<lb n="242"/><placeName ref="lub-places-33">Vaduz</placeName> selbert bekhendt haben solle, wann die gefenckhnus zu  
+<lb n="243"/><placeName ref="lub-places-33">Vaduz</placeName> nit were, so wisse er sein gesind nicht zu regieren,  
+<lb n="244"/>dann mit derselben gefenckhnus, wie er dann ainen seinen  
+<lb n="245"/>diener eerverlezlicher reden halben geen <placeName ref="lub-places-33">Vaduz</placeName> in gefenckh
+<lb break="no" n="246"/>nus geschickht und daselbsten bewechten lassen etc. Darüber der 
+<lb n="247"/>von <persName ref="lub-actors-166">Rambschwag</persName> auf unnser gethaner befragung disen bericht  
+<lb n="248"/>geben, das dise hinabschickhung disen verstandt, demnach  
+<lb n="249"/>ain paur zu <placeName ref="lub-places-71">Balzers</placeName>, <persName ref="lub-actors-2887">Eberlin</persName> genant, so aber nit des herrn  
+<lb n="250"/>von <persName ref="lub-actors-166">Rambschwags</persName> diener unnd zu der zeit solicher geschicht  
+<lb n="251"/>bezecht gewesen, vorgemelts herrn von <persName ref="lub-actors-166">Rambschwags</persName> seligen  
+<lb n="252"/>hausfrawen, als dieselbig in irem pomgartten, welicher  
+<lb n="253"/>in dem dorf zu <placeName ref="lub-places-71">Balzers</placeName> gelegen unnd ime, herrn <persName ref="lub-actors-156">Balthaser  
+<lb n="254"/>von Rambschwag</persName> selig aigenthumblich zuegeherig, der
+<lb break="no" n="255"/>massen mit eerverlezlichen worten angeredt, so ine, 
+<lb n="256"/>herrn von <persName ref="lub-actors-156">Rambschwag</persName> seligen, unnd sein hausfrawen gar  
+<lb n="257"/>hochlich beschwerdt unnd für sich genomen, ime ain soliches nicht  
+<lb n="258"/>hingeen zelassen unnd habe ine, <persName ref="lub-actors-2887">Eberlin</persName>, gleich unlanng dar
+<lb break="no" n="259"/>nach zu <placeName ref="lub-places-71">Balzers</placeName> in dem würtshauß, so dem herrn graven 
+<lb n="260"/>von <orgName ref="lub-actors-7">Sulz</orgName> zuegehörig aufrecht angreiffen, auch fachen und  
+<lb n="261"/>fenckhlichen geen <placeName ref="lub-places-33">Vaduz</placeName> füeren lassen. Darauf habe mann  
+<lb n="262"/>zue solicher seiner verhandlung halben für recht stellen wel
+<lb break="no" n="263"/>len unnd aber auf fürpith gemelts herrn von <persName ref="lub-actors-156">Rambschwags</persName> 
+<lb n="264"/>seligen seye er des rechtens erlassen worden etc. Derenwegen  
+<pb facs="lub-media-3614" n="9"/>
+<lb n="265"/>herr graf seye in deme der sache zu milt bericht unnd werde  
+<lb n="266"/>nicht dahin zuversteen sein, das soliche geschicht weder in dem  
+<lb n="267"/>schloss noch burghalden beschechen unnd darzue er, <persName ref="lub-actors-2887">Eberlin</persName>,  
+<lb n="268"/>nicht sein diener gewesen. Darumben mege der hanndlung  
+<lb n="269"/>in disem punte zur zeit wol begegnet unnd der gebür nach  
+<lb n="270"/>verantwurt werden. 
+</p>
+        <p><lb n="271"/>Zum viertten würdet in angedeuter protestation angezog
+<lb break="no" n="272"/>en, als solte gewester lanndtvogt <persName ref="lub-actors-24">Juvenal Kreder</persName>, seliger, 
+<lb n="273"/>ungevarlich vor 30 jaren ainen schloßknecht von <placeName ref="lub-places-13">Guett
+<lb break="no" n="274"/>enberg</placeName>, <persName ref="lub-actors-286">Ynnttl Paule</persName> genant, der zunechst neben dem schloß 
+<lb n="275"/>am schloßperg mit ainem andern knecht gefreffelt, gestrafft  
+<lb n="276"/>haben one eintrag, herrn <persName ref="lub-actors-156">Balthasern von Rambschwags</persName> seligen  
+<lb n="277"/>unnd sonnst menigclichs auf disen puncten hat unns <persName ref="lub-actors-166">Caspar  
+<lb n="278"/>von Rambschwag</persName> disen bericht geben, er habe in nechst vorgend
+<lb break="no" n="279"/>en andern artickhel bericht gethan, welichermassen sol
+<lb break="no" n="280"/>licher des <persName ref="lub-actors-286">Ynnttel Paulis</persName> seligen frevel angefochten unnd ab
+<lb break="no" n="281"/>er durch seines junckhern vatter seligen fürwand fuegclich 
+<lb n="282"/>abgelaint worden unnd ersessen bliben. Ob aber er, <persName ref="lub-actors-24">Juvenal  
+<lb n="283"/>Kreder</persName>, lanndtvogdt selig, ine, <persName ref="lub-actors-286">Ynttl Paule</persName>, nachdem der
+<lb break="no" n="284"/>selbig zu <placeName ref="lub-places-79">Trisen</placeName>, so in die herrschafft <placeName ref="lub-places-7">Vaduz</placeName> gehorig, hauß
+<lb break="no" n="285"/>heblich seßhafft worden, umb nachgende verbrechen gestrafft, 
+<lb n="286"/>das moge er nicht wissen, dann sonnsten so er, <persName ref="lub-actors-286">Ynnttl Paule</persName>  
+<lb n="287"/>selig, umb vorstende handlung der verfreflung am perg solte  
+<lb n="288"/>gestrafft sein worden, hette sich gemelter von <persName ref="lub-actors-166">Rambschwag</persName>  
+<lb n="289"/>versechen, dieselbige bestrafung were ime, von <persName ref="lub-actors-166">Rambschwag</persName>,  
+<lb n="290"/>aufs wenigist durch ine, <persName ref="lub-actors-286">Ynttel Paule</persName>, fürkhomen oder  
+<lb n="291"/>sonnsten offenbar worden sein, des er doch yemalen gehördt  
+<lb n="292"/>noch verstannden. Derenwegen sein, von <persName ref="lub-actors-166">Rambschwags</persName>, ver
+<lb break="no" n="293"/>mainen, diß wie etwann anders mer, seye ain zuesamen  
+<lb n="294"/>gesuechts werckh, er welle aber ain soliches one verer diß
+<lb break="no" n="295"/>putiert bleiben lasen.
+</p>
+        <p><lb n="296"/>Zum fünfften, das die innhaber des schloß <placeName ref="lub-places-33">Vaduz</placeName> ye unnd albegen  
+<pb facs="lub-media-3615" n="10"/>
+<lb n="297"/>schuldig seyen, in kriegsleuffen unnd feindtsnotten das hauß  
+<lb n="298"/><placeName ref="lub-places-13">Guettenberg</placeName> zue besezen, wie dann mer gedachter herr <persName ref="lub-actors-156">Balt
+<lb break="no" n="299"/>haser von Rambschwag</persName> vorgedachten <persName ref="lub-actors-24">Juvenal Khreder</persName>, als 
+<lb n="300"/>herzog <persName ref="lub-actors-2889">Moriz</persName> unnd margraf <persName ref="lub-actors-2888">Albrecht</persName> im <orgName ref="lub-actors-516">Reich</orgName> mit irem  
+<lb n="301"/>kriegsvolckh umbgeschwaifft unnd deßhalben ain lanndtsteurn   
+<lb n="302"/>erganngen, ambts halber ersuecht, nit mer leuth lauffen  
+<lb n="303"/>ze lassen, dann das er im faal der nott zu besazung des hauß  
+<lb n="304"/><placeName ref="lub-places-13">Guettenbergs</placeName> gevasst bleibe. Nach erforschung hat unns offt
+<lb break="no" n="305"/>gesagter von <persName ref="lub-actors-166">Rambschwag</persName> verstendigt, er moge wol glauben, das 
+<lb n="306"/>ain herr der herrschafft <placeName ref="lub-places-7">Vaduz</placeName> ja aufbegern, aines vogts zu  
+<lb n="307"/><placeName ref="lub-places-13">Guettenberg</placeName> schuldig seye in kriegs unnd veindts notten das 
+<lb n="308"/>schloss <placeName ref="lub-places-13">Guettenberg</placeName> zue besezen, das aber ain herr zu <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="309"/>aigens willens solich schloß zu besezen understeen weltte, ver
+<lb break="no" n="310"/>maine er, von <persName ref="lub-actors-166">Rambschwag</persName>, mit nichten unnd achte genzlich 
+<lb n="311"/>soliches seye nicht zuelässlich, dann ain vogt zu <placeName ref="lub-places-13">Guettenberg</placeName>  
+<lb n="312"/>seye der fürstlich gnaden unnd ainem yeden nachvolgenden regierenden  
+<lb n="313"/>herrn des hochlöblichen hauß <orgName ref="lub-actors-172">Össterreichs</orgName> mit phlichten under
+<lb break="no" n="314"/>worffen, der seye in kriegs unnd veindts notten, was zu beschuz
+<lb break="no" n="315"/>ung unnd beschiermung des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> diennstlichen 
+<lb n="316"/>schuldig unnd verbunden, inmassen es dann die alten ge
+<lb break="no" n="317"/>schichten, so die von <orgName ref="lub-actors-22">Rambschwag</orgName> offtgemelt schloss <placeName ref="lub-places-13">Guet
+<lb break="no" n="318"/>enberg</placeName> in kriegsnotten unnd belegerungen erhalten haben, 
+<lb n="319"/>zu erkhennen geben, unnd das damit, wann soliche vesste unnd  
+<lb n="320"/>schloss <placeName ref="lub-places-13">Guettenberg</placeName> in angemelten veindtsnotten erhalten  
+<lb n="321"/>werde. So werde auch dardurch die herrschafft <placeName ref="lub-places-7">Vaduz</placeName> in dester  
+<lb n="322"/>pessere gewarsame gestelt. Darumben glaublichen unnd  
+<lb n="323"/>natturlichen zu gedenckhen, das die sachen nicht dahin zuver
+<lb break="no" n="324"/>steen, das wolermelter herr graf in unnd ausserhalb 
+<lb n="325"/>des schloss <placeName ref="lub-places-13">Guettenbergs</placeName> zu gebietten, dann sonnsten wurde  
+<lb n="326"/>bei des herrn graven macht unnd gewalt steen, sich mit dem  
+<lb n="327"/>geschüz monition unnd aller anderer dergleichen sachen zu  
+<lb n="328"/>undernemen, so doch ye unnd albegen vor lanngen unfür
+<lb break="no" n="329"/>denckhlichen jaren här das hochloblich hauß <orgName ref="lub-actors-172">Össterreich</orgName> 
+<pb facs="lub-media-3616" n="11"/>
+<lb n="330"/>solich schloß in iren hannden gehabt, dasselbige auch ires  
+<lb n="331"/>gevallens mit vogten besezt, auch geschuz, monnition und  
+<lb n="332"/>anderer notturfft in irem costen erhalten und versechen,  
+<lb n="333"/>wie noch getrostlicher hoffnung, one veel und verhinderung  
+<lb n="334"/>menigelichs hinfüro beschechen werde. 
+</p>
+        <p><lb n="335"/>Zum sechsten, als ain hochlobliche <orgName ref="lub-actors-929">Össterreichischer Regierung</orgName><lb n="336"/>mergedachtem herrn <persName ref="lub-actors-156">Balthasern von Rambschwag</persName>, selig, un
+<lb break="no" n="337"/>gevarlich vor 55 jaren begerdt, sy zue berichten, was für ein
+<lb break="no" n="338"/>khomens, gevel, recht unnd gerechtigkhait das hauß unnd schloß 
+<lb n="339"/><placeName ref="lub-places-13">Guettenberg</placeName> habe, weliches er, den <date when="1534-04-11">11. tag apprilis anno etc.  
+<lb n="340"/>34</date> berichtet, darinnen er aber kainer oberkhait, gebott,  
+<lb n="341"/>verbott oder frävel, noch buessen, vil weniger hagens,  
+<lb n="342"/>jagens oder vischenzen im wenigisten nicht vermeldet etc., in  
+<lb n="343"/>deme haben wir von <persName ref="lub-actors-166">Casparn von Rambschwag</persName> disen be
+<lb break="no" n="344"/>richt, das wol war, das ain hochlobliche <orgName ref="lub-actors-929">Össterreichische 
+<lb n="345"/>Regierung</orgName> seinem herrn vattern seligen durch bevelch des  
+<lb n="346"/>datum, den <date when="1534-03-18">18. marti</date> und nit <date when="1534-04-11">11. apprilis anno etc. 34 </date> 
+<lb n="347"/>auferlegt, so er unns fürgewisen, der hat ain solichen in
+<lb break="no" n="348"/>halt, das das schloß <placeName ref="lub-places-13">Guettenberg</placeName> für einkhomen unnd ge
+<lb break="no" n="349"/>vel, auch versezung, verphendung, verweißungen, kheüf, auf 
+<lb n="350"/>widerkheüf, unnd wer die innenhab unnd auf was zeit die  
+<lb n="351"/>verschriben etc. Unnd würdet sonnsten in dem gemelten bevelch  
+<lb n="352"/>gar nicht gedacht, das anndere des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> frey
+<lb break="no" n="353"/>haiten, recht unnd gerechtigkhaiten mit eingebracht werden 
+<lb n="354"/>sollen. Derenhalben bei ime, von <persName ref="lub-actors-166">Rambschwag</persName>, unbedenckhlichen  
+<lb n="355"/>das darumben durch solichen bevelch unnd darüber ervolgt
+<lb break="no" n="356"/>en bericht dem schloss <placeName ref="lub-places-13">Guettenberg</placeName>, seine freyhaiten, recht 
+<lb n="357"/>unnd gerechtigkhaiten ab sein unnd nichtzit gehalten sollen, sonnder  
+<lb n="358"/>der bericht seye zweifelsone. Nur auf die einkhomen unnd  
+<lb n="359"/>gevel, unnd wo versazungen oder widerloßungen, das dieselben  
+<lb n="360"/>nicht verabsaumbt werden, gemaindt unnd gestelt worden, und  
+<lb n="361"/>solle dem schloß <placeName ref="lub-places-13">Guettenberg</placeName>, derenwegen andere seine  
+<lb n="362"/>recht unnd gerechtigkhait nicht benomen werden. Beineben auch,  
+<lb n="363"/>so seye die vogtey <placeName ref="lub-places-13">Guettenberg</placeName> seines wissens nie kain  
+<pb facs="lub-media-3617" n="12"/>
+<lb n="364"/>verraitambt, das von den vischenzen oder andern dergleich
+<lb break="no" n="365"/>en gerechtigkhaiten meldung zue thuen von notten gewesen, 
+<lb n="366"/>wie er noch achte, bei andern vogteyen nicht gebreichlich,   
+<lb n="367"/>bei deme lasse ers verbleiben. 
+</p>
+        <p><lb n="368"/>Zum sibenden, das die von <orgName ref="lub-actors-22">Rambschwag</orgName> gemainlich alle jar zu  
+<lb n="369"/><placeName ref="lub-places-19">Ynnsprugg</placeName> raittung tuen oder uberschickhend, darinnen  
+<lb n="370"/>werde zweivelsone in deren kainer ainicher frävel ge
+<lb break="no" n="371"/>funden etc. Darüber der von <persName ref="lub-actors-166">Rambschwag</persName> disen bericht gethan, 
+<lb n="372"/>was sich seinem enphangnen bericht nach für frevel in dem  
+<lb n="373"/>schloß oder ausserhalb ander burghalden zuegetragen, die  
+<lb n="374"/>auch seines wissens nit schwerlich erganngen, die seyen durch  
+<lb n="375"/>leidenliche abpuessung der gefenckhnus oder durch fürpit  
+<lb n="376"/>verdiendt und abgelegt worden. Derenwegen durch bezeug
+<lb break="no" n="377"/>ung ainicher raittung habe herr graf wenigern behelf 
+<lb n="378"/>ze suechen, sonnderlich auch weil er und seine vorfordern von  
+<lb n="379"/>Rambschwag dise vogtey unverrait gehabt. 
+</p>
+        <p><lb n="380"/>Zum achten, das er, von <persName ref="lub-actors-166">Rambschwag</persName>, <persName ref="lub-actors-2807">Bastian Kuerzen</persName>, so sein  
+<lb n="381"/>diener gewesen und an yezo in dem schloß <placeName ref="lub-places-33">Vaduz</placeName> in diennsten  
+<lb n="382"/>ist, in ain klains gewelb, darbei noch ain annder gewelb, dar
+<lb break="no" n="383"/>ein man milckh, käß, schmalz unnd anders behalt, eingelegdt 
+<lb n="384"/>und dardurch unbefüegter weiß unnd zu schmelerung wolge
+<lb break="no" n="385"/>dachts herrn gravens jurisdiction ainen einganng ainer 
+<lb n="386"/>vermaindten oberkhait gerechtigkhait zue machen begere etc. 
+<lb n="387"/>Wann nur auf unnser begeren, offt gemelter von <persName ref="lub-actors-166">Rambschwag</persName>  
+<lb n="388"/>unns disen bericht gethan, es seye von wegen der bei fangenschafft  
+<lb n="389"/>unnd tuern legen gemelts <persName ref="lub-actors-2807">Bastian Kurzen</persName> halben und wie  
+<lb n="390"/>es von alter herr in üblichen prauch unnd heerkhomen gewesen,  
+<lb n="391"/>auf die ervolgdte protestation im ersten artickhel meldung  
+<lb n="392"/>beschechen. Auß selbigem artickhel werde man sich im faal  
+<lb n="393"/>der notturfft genuegsamen berichts zuerhollen wissen,  
+<lb n="394"/>dann allain umb so vil mer, das in gemeltem artickhel an
+<lb break="no" n="395"/>handt unnd begriffen er, von <persName ref="lub-actors-166">Rambschwag</persName>, habe sich vernemen 
+<lb n="396"/>lassen, das das hauß <placeName ref="lub-places-13">Guettenberg</placeName> selbs ainen tuernen  
+<lb n="397"/>und gefenckhnus, darein er diejhenigen, so inner und ausser  
+<pb facs="lub-media-3618" n="13"/>
+<lb n="398"/>des hauß unnd schloss <placeName ref="lub-places-13">Guettenberg</placeName> freveln, es weren  
+<lb n="399"/>gleich malefizische oder nit, legen unnd strafen, unnd auf  
+<lb n="400"/>wolgedachts herrn graven ervordern begern oder bevelch  
+<lb n="401"/>nit herauß geben, sonnder er gewalt wider gewalt gebrauch
+<lb break="no" n="402"/>en unnd dargegen kraut unnd loth, mit dem er wol versech
+<lb break="no" n="403"/>en, für die geforderte gefangne heraußschickhen welle etc.
+<lb n="404"/>Diß hat der von <persName ref="lub-actors-166">Rambschwag</persName> also verantwurt, was die  
+<lb n="405"/>verfreflung um schloß und burghalden betrifft, darvon habe  
+<lb n="406"/>er hievor annzaigung gethan, seye auch von uralten zeiten   
+<lb n="407"/>also heerkhomen. Was aber malefizische sachen anlangte,  
+<lb n="408"/>die sich in dem schloß oder der burghalden zuetragen unnd  
+<lb n="409"/>darumben in des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> gefenckhnus khomen  
+<lb n="410"/>wurden, sagt er, von <persName ref="lub-actors-166">Rambschwag</persName>, er habe auf des herrn  
+<lb n="411"/>graven anfrag disen beschaid geben. Wann sich nur ain  
+<lb n="412"/>solicher faal begeben solte, so wurde er die beschaffenhait  
+<lb n="413"/>ir fürstlich durchlaucht oder eur gnaden alßbald underthenigist und under
+<lb break="no" n="414"/>thenig berichten unnd sich beschaidts erholen, unnd so er dessen 
+<lb n="415"/>bevelch emphienge, die malefizische hinauß zeliffern oder  
+<lb n="416"/>zuebehalten, demselbigen wolte er billich gehorsamblichen  
+<lb n="417"/>nachkhomen unnd hiezwischen der zeit verwardt behalten, und  
+<lb n="418"/>nach dem sich vor insinuierter protestation, wie oben gemelt,  
+<lb n="419"/>durch herrn graven und den von <persName ref="lub-actors-166">Rambschwag</persName> ain red in  
+<lb n="420"/>die annder begeben, habe doch herr graf gesagt, so er ime  
+<lb n="421"/>ain mallefizische person auf sein, herrn gravens, begern  
+<lb n="422"/>nicht heraus liffern wolte, so welte er ain soliche mit gewalt  
+<lb n="423"/>heraußbringen. Unnd darzue ine, von <persName ref="lub-actors-166">Rambschwag</persName>, bei dem  
+<lb n="424"/>kopf auch heraußnemen, für solichen gewalt, habe er, von  
+<lb n="425"/><persName ref="lub-actors-166">Rambschwag</persName>, gebetten und darbei anzaigt, ob ime gewalt  
+<lb n="426"/>beschechen wolte, so liesse er ime den gewalt nicht geren an
+<lb break="no" n="427"/>thuen, so lanng krauth und loth im schloß <placeName ref="lub-places-13">Guettenberg</placeName> ver
+<lb break="no" n="428"/>handen. Wie sich aber die protestation und sein, von <persName ref="lub-actors-166">Rambschwags</persName>, 
+<lb n="429"/>beantwurttung gegeneinander vergleicht, ist leichtlich unnd  
+<lb n="430"/>wol zue merckhen. Derenhalben gar glöblich, es werde der  
+<lb n="431"/>von <persName ref="lub-actors-166">Rambschwag</persName> ervorderter notturfft halben, dieweil er  
+<lb n="432"/>für gewalt gebetten unnd noch kain vederen thail an seinen  
+<pb facs="lub-media-3619" n="14"/>
+<lb n="433"/>rechten nichtzit benomen worden, dise beschechne reden   
+<lb n="434"/>notturfft halben ergeen haben lassen.  
+</p>
+        <p><lb n="435"/>Zum neünten, anlangend <persName ref="lub-actors-167">Caspar Wolfinger</persName>, so für des herrn  
+<lb n="436"/>graven underthonen angezogen unnd auf dem hof <placeName ref="lub-places-13">Guetten
+<lb break="no" n="437"/>berg</placeName> haußheblich wonhafft, unnd aber in wolgedachts herrn 
+<lb n="438"/>graven hochen unnd nidern oberkhaiten gelegen, der dann  
+<lb n="439"/>den auferlegten gebotten nach die schuldige gehorsame, wie and
+<lb break="no" n="440"/>ere underthanen, auch soliche diennst und frondienst laissten 
+<lb n="441"/>sollen, die er auch verrichtet habe, das sich ermelter von  
+<lb n="442"/><persName ref="lub-actors-166">Rambschwag</persName> unnderstande ine, <persName ref="lub-actors-167">Wolfinger</persName>, darvon abzeweis
+<lb break="no" n="443"/>en allain darumb, das er, <persName ref="lub-actors-167">Wolfinger</persName>, zum schloß <placeName ref="lub-places-13">Guetten
+<lb break="no" n="444"/>berg</placeName> jerlich das faßnachthen schuldig, dardurch er sein 
+<lb n="445"/>leibaigenschafft recognoscieren möchte etc. In disem puncten  
+<lb n="446"/>haben wir bei dem von <persName ref="lub-actors-166">Rambschwag</persName> disen bericht, das er  
+<lb n="447"/>ainen bevelch bei hannden, so er unns fürgezaigt, darinnen  
+<lb n="448"/>würdet befunden, das weilend herzog <persName ref="lub-actors-2806">Sigmundt von Össt
+<lb break="no" n="449"/>erreich</persName> etc. hochloblich unnd selligister gedechtnus in anno etc. 1474 
+<lb n="450"/>bevelcht, leuth auf die höf zenemen, die hochgedachtem her
+<lb break="no" n="451"/>zogen unnd ainem vogdt zu <placeName ref="lub-places-13">Guettenberg</placeName> gewerttig seyen. 
+<lb n="452"/>Item, so seyen die innhaber der syben höf yederzeit ainem vogt  
+<lb n="453"/>zu <placeName ref="lub-places-13">Guettenberg</placeName> zuegethan unnd werttig gewesen, inmass
+<lb break="no" n="454"/>en dann die hievor angemelten von weilend von herzog <persName ref="lub-actors-2806">Sig
+<lb break="no" n="455"/>munden von Össterreich</persName> lechenbrief den besizer unnd inhaber 
+<lb n="456"/>der lechenhof gegeben, clarlichen außweisen unnd er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="457"/>schwag</persName>, habe auch anderst nit gewist noch gehördt, dann sy,  
+<lb n="458"/>die hoflechenleüth, seyen gegen ainer herrschafft <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="459"/>aller fron unnd annderer diennsten frei, unnd seyen nur alda  
+<lb n="460"/>als hindersassen und nicht aigne leüth. Darumben, weil die  
+<lb n="461"/>fron unnd anndere diennstparkhaith unnd ansprechung der  
+<lb n="462"/>leibaigenschafft ain gar lautter neurs habe er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="463"/>schwag</persName>, auf ain mal das ime, <persName ref="lub-actors-167">Wolfinger</persName>, gleich der zwang 
+<lb n="464"/>auf dem halß gewesen, zuegelassen, die damals auferlegte  
+<lb n="465"/>diennstparkhaith zelaisten unnd aber hernach dieselben bei  
+<pb facs="lub-media-3620" n="15"/>
+<lb n="466"/>ime, <persName ref="lub-actors-167">Wolfinger</persName>, abgeschafft, er, von <persName ref="lub-actors-166">Rambschwag</persName>, hat unns  
+<lb n="467"/>auch verner bericht, wie das seine eltfordern yederzeit auf  
+<lb n="468"/>soliche höf eerliche leüth, die sy für guet und erber angesechen,  
+<lb n="469"/>one menigelichs einreden, angenomen und belechnt haben.  
+<lb n="470"/>Als aber etliche jar här dise betranckhnus eingefallen und  
+<lb n="471"/>er, herr graf, soliche leüth nicht allein der diennstbarkhait  
+<lb n="472"/>angehalten, sonnder auch der leibaigenschafft anerfordert,  
+<lb n="473"/>derwegen das mann ab der leibaigenschafft hoch abscheuch
+<lb break="no" n="474"/>ens getragen. Darumben er, von <persName ref="lub-actors-166">Rambschwag</persName>, dester weniger 
+<lb n="475"/>zu besezung solicher lechenhöf, lechenleüt bekhomen mogen und  
+<lb n="476"/>sich behelffen und verlechnen müessen, wie er gemügt. Wann  
+<lb n="477"/>aber nur soliches in alten standt unnd gerechtsame gericht  
+<lb n="478"/>wurde, so were endtlich zuverhoffen, widerumben guete ge
+<lb break="no" n="479"/>treue lechenleüth zu erlanngen. Es hat unns auch gemelter 
+<lb n="480"/>von <persName ref="lub-actors-166">Rambschwag</persName> mit mererm verstendigt, herr graf habe  
+<lb n="481"/>ine, <persName ref="lub-actors-167">Wolffinger</persName>, umb die nidt gelaiste dienstparkhait unnd fron
+<lb break="no" n="482"/>diennst umb 40 lb.d. straf angelegt, weil unnd aber zu be
+<lb break="no" n="483"/>sorgen, wover sich er, <persName ref="lub-actors-167">Wolfinger</persName>, auf dem hof finden liesse, 
+<lb n="484"/>herr graf wurde mit gefenckhnus und obvermelter straf  
+<lb n="485"/>gegen ime, <persName ref="lub-actors-167">Wolfinger</persName>, verfaren. Derenwegen zu guetter  
+<lb n="486"/>sicherhait, habe er, von <persName ref="lub-actors-166">Rambschwag</persName>, ine, <persName ref="lub-actors-167">Wolfinger</persName>, auf dem  
+<lb n="487"/>schloss in verwarung behalten. Darüber er, von <persName ref="lub-actors-166">Rambschwag</persName>,  
+<lb n="488"/>wie derselbig <persName ref="lub-actors-167">Wolfinger</persName> widerumb in sicherhait zestellen,  
+<lb n="489"/>eur gnaden genedigen beschaidts von netten. 
+</p>
+        <p><lb n="490"/>Unnd nachdem wie vorgemelt die lechenleüth aller dienst
+<lb break="no" n="491"/>parkhait und frondiensten frey unnd als hindersassen ge
+<lb break="no" n="492"/>lassen worden, so habe sich doch (so der protestation nit 
+<lb n="493"/>einverleibt, auch er, herr graf, dasselbige zue thuen nicht  
+<lb n="494"/>ursach gehabt), ain soliche newerung in etlichen jaren er
+<lb break="no" n="495"/>hebt unnd zuegetragen, das, wann er oder etliche seine vor
+<lb break="no" n="496"/>eltern ainen hofmann annemen wellen, das der oder die
+<lb break="no" n="497"/>selben 4 fl. einzuggelt geben sollen. Hernach aber haben sy 
+<lb n="498"/>denselben auf 10 fl. gesezt unnd also umb 6 fl. gestaigert.  
+<lb n="499"/>Unnd obgleich wol sy, die sulzischen underthanen zu <placeName ref="lub-places-71">Balzers</placeName>,  
+<pb facs="lub-media-3621" n="16"/>
+<lb n="500"/>ain soliches gegen den zuezognen halten. So hat doch ge
+<lb break="no" n="501"/>melter von <persName ref="lub-actors-166">Rambschwag</persName> vermaindt, die von <placeName ref="lub-places-71">Balzers</placeName> seyen 
+<lb n="502"/>aines solichen gegen den hofleütten nicht befuegt, unnd das  
+<lb n="503"/>aus ursachen ain annderer der zu inen zieche, der kaufe  
+<lb n="504"/>bei inen underschlauf, haab und güetter, so doch ain hofman  
+<lb n="505"/>sich nur seiner hofgüetter behelffe, es were dann sach,  
+<lb n="506"/>das ain hofman alda ettwas aigenthumblichs kauffte, umb  
+<lb n="507"/>dasselbige solte er sich billich der gebür nach verdienen. Dar
+<lb break="no" n="508"/>auf sein piten, wir welten dise begegnung neben annderm auch 
+<lb n="509"/>einbringen, so wir zue thuen bewilligt haben. 
+</p>
+        <p><lb n="510"/>Zum zechenden, als sein, <persName ref="lub-actors-166">Casparn von Rambschwags</persName>, herr vatter  
+<lb n="511"/>unnd voreltern des bei dem schloß <placeName ref="lub-places-13">Guettenberg</placeName> nechst bei
+<lb break="no" n="512"/>ligendt dorf <placeName ref="lub-places-71">Balzers</placeName> gemaindtrecht wider den neben 
+<lb n="513"/>lauffenden schedlichen <placeName ref="lub-places-103">Reinstrom</placeName> mit aignen rossen unnd  
+<lb n="514"/>wagen fronend erhalten unnd wueren helffen, auch nie mer  
+<lb n="515"/>als zwölf haubtviehs unnd ain stier auf die gemaine wun  
+<lb n="516"/>unnd waid, wie auch zu alppen zetrieben unnd außzeschlagen,  
+<lb n="517"/>deßgleichen aus des herrn graven buechholzern kain ub
+<lb break="no" n="518"/>erig holz, sonnder allain zur hauß notturfft one verderbung 
+<lb n="519"/>unnd schwendung desselben zehawen befuegt gewesen. So unnder
+<lb break="no" n="520"/>stande sich er, von <persName ref="lub-actors-166">Rambschwag</persName>, die hilf des wuerens zu endt
+<lb break="no" n="521"/>ziechen unnd sich darvon selbs zuebefreyen, auch nach seinem 
+<lb n="522"/>gevallen wun, waid, deßgleichen die alppen zu überschlagen etc. 
+<lb n="523"/>Auf dise artickhel gibt der von <persName ref="lub-actors-166">Rambschwag</persName> disen bericht.  
+<lb n="524"/>Erstlich das wueren betreffendt, das, wann wuerens am <placeName ref="lub-places-103">Rein</placeName>  
+<lb n="525"/>obvermelter ennden von netten gewesen, das die lechenleüth  
+<lb n="526"/>der siben höf, oder sovil deren gewesen, in wuerns notturfften  
+<lb n="527"/>geholffen haben. Unn wann ettwan die eüsseriste not vor  
+<lb n="528"/>augen erschainen, habe herr <persName ref="lub-actors-156">Balthaser von Rambschwag</persName>  
+<lb n="529"/>selig auf ainer nachpaurschafft von <placeName ref="lub-places-71">Balzers</placeName> höchlich er
+<lb break="no" n="530"/>suechen unnd ansprechen sein fuer auch darzue verordnet, 
+<lb n="531"/>auch sailler unnd anders guetwillig dargelichen, das aber  
+<lb n="532"/>darauß ervolgen solle, das ain vogdt zu <placeName ref="lub-places-13">Guettenberg</placeName> dise  
+<pb facs="lub-media-3622" n="17"/>
+<lb n="533"/>frondiennst zu thuen schuldig, das werde sich seinem verhoff
+<lb break="no" n="534"/>en nach bei kainen hochverstendigen dahin deütten noch 
+<lb n="535"/>schuldig sein solle, dann es nicht allain nun ainen voggt, sonnder ir  
+<lb n="536"/>fürstlich durchlaucht selbs, als wann die ime, herrn graven, mit solicher dienst
+<lb break="no" n="537"/>parkhait underworfen, betreffen wurde. Zum anndern 
+<lb n="538"/>die zwölf haubtviehs unnd ainen stier belangendt, hat uns  
+<lb n="539"/>er, von <persName ref="lub-actors-166">Rambschwag</persName>, dahin verstendigt, er habe von kainem  
+<lb n="540"/>saz oder anzal nie gehördt, sonnder sein herr vatter unnd  
+<lb n="541"/>brueder selig, haben offtmals vil unnd offtmals wenig vieh  
+<lb n="542"/>gehabt, wie sy es nach irem pessten nuz befunden. Unnd er  
+<lb n="543"/>habe auch gleichermassen zur zeit vil, zur zeit wenig  
+<lb n="544"/>viehs erhalten, unnd seye seines wissens weder seinen vorelt
+<lb break="no" n="545"/>ern unnd vogten zu <placeName ref="lub-places-13">Guettenberg</placeName> in wun, waid unnd alpp
+<lb break="no" n="546"/>en yemalen kain verhindernus ervolgt, mit disem vernern 
+<lb n="547"/>vermelden, das glaublich und unwidersprechenlich die  
+<lb n="548"/>eltern es also genuzt unnd genossen, was sy gewinttert  
+<lb n="549"/>haben, das sy dasselbige auf den allmainden und alpp
+<lb break="no" n="550"/>en auch sumern mögen, sonnsten wover das nicht were, was 
+<lb n="551"/>weren die güetter des schloß <placeName ref="lub-places-13">Guettenbergs</placeName> ainem  
+<lb n="552"/>vogt und inhaber nuz, und es werde sich freylich zu kainer ord
+<lb break="no" n="553"/>erung und anzal bedeüten lassen und billich bei solichen alten 
+<lb n="554"/>rechten verbleiben. Zum driten das holzen berürende, in
+<lb break="no" n="555"/>deme befinden wir bei ime, von <persName ref="lub-actors-166">Ramschwag</persName>, disen bericht, er 
+<lb n="556"/>habe nie uber die notturfft hawen lassen, seye desselben  
+<lb n="557"/>zue thuen noch nit gesindt, dann er dem schloß <placeName ref="lub-places-13">Guettenberg</placeName>  
+<lb n="558"/>und andern, so deren enden zue holzen gerechtigkhaiten haben,  
+<lb n="559"/>den schaden selbs zuefüegdte, darumben solle gemelt schloß  
+<lb n="560"/>bilich one eintrag oder maßgebung bei solichen rechten be
+<lb break="no" n="561"/>leiben und darwider mit nichten getriben werden.
+</p>
+        <p><lb n="562"/>Zum ailfften, das solich schloß unnd burgstal vor jaren  
+<lb n="563"/>dem geschlecht <placeName ref="lub-places-13">Guettenberg</placeName> zuegeherig gewesen, weliche  
+<lb n="564"/>under der herrn von <orgName ref="lub-actors-744">Brandis</orgName> schuz unnd schirm, unnd in  
+<lb n="565"/>derselben hochen unnd nidern oberkhaiten als annderer landt
+<pb facs="lub-media-3623" n="18"/>
+<lb break="no" n="566"/>leüth gesessen unnd also kain aigne jurisdiction, hoch 
+<lb n="567"/>oder nider, stab noch gericht, vil weniger ainichen vorst  
+<lb n="568"/>noch vischenz, gerechtigkhait gehabt, weliches schloss  
+<lb n="569"/>und burgstal hernach an das hauß <orgName ref="lub-actors-172">Össterreich</orgName> mit kain
+<lb break="no" n="570"/>en merern gerechtigkhaiten als vorige innhaber ingehebt, 
+<lb n="571"/>khomen sey etc. Auf diser ailfften artickhel hat unns der von  
+<lb n="572"/><persName ref="lub-actors-166">Rambschwag</persName> solichen bericht geben, er seye der sachen so endt
+<lb break="no" n="573"/>lich gewiß nicht erfaren, wo herr solich schloß <placeName ref="lub-places-13">Guettenberg</placeName> 
+<lb n="574"/>an das hochloblich hauß <orgName ref="lub-actors-172">Össterreich</orgName> khomen, allain habe er  
+<lb n="575"/>bei seinen gueten jaren heer von seinem herrn vatter seligen  
+<lb n="576"/>verstanden, es solle solich schloss <placeName ref="lub-places-13">Guettenberg</placeName> unnd anndere  
+<lb n="577"/>schlösser mer, nicht weit darvon in der <orgName ref="lub-actors-515">Aydtgnosschafft</orgName>  
+<lb n="578"/>gelegen, ain fürst von <placeName ref="lub-places-78">Schwaben</placeName> erpawen haben lassen.  
+<lb n="579"/>Ob nur deme also oder nit, möge er nicht wissen, unnd wann  
+<lb n="580"/>nur dem also were, so bringe die vermuettung mit sich, es  
+<lb n="581"/>werde dannocht solich schloß <placeName ref="lub-places-13">Guettenberg</placeName> nicht mit ge
+<lb break="no" n="582"/>ringer befreyung, es seye mit hagen, jagen, vischenzen unnd 
+<lb n="583"/>anndern gerechtigkhaiten versechen sein worden, wie aber  
+<lb n="584"/>solich schloß <placeName ref="lub-places-13">Guettenberg</placeName> an das hochloblich hauß <orgName ref="lub-actors-172">Össt
+<lb break="no" n="585"/>erreich</orgName> khomen, das seye ime unbekhandt. Deren wegen 
+<lb n="586"/>were seinem guetachten nach in den registeraturen deme  
+<lb n="587"/>allem nachzesuechen. 
+</p>
+        <p><lb n="588"/>Zum zwelfften, weil yeder lecheman seinem lechenherrn  
+<lb n="589"/>zu alten trewen und phlichten praestito juramento verbunden,  
+<lb n="590"/>des lechenherrn nuz unnd fromen zue fürdern, schaden unnd  
+<lb n="591"/>gevar zewenden, das alles gedachter von <persName ref="lub-actors-166">Rambschwag</persName> aus  
+<lb n="592"/>der acht gelassen unnd in wind geschlagen, und wider des  
+<lb n="593"/>lechenherrns wolbefuegdte anforderung kraut und lott  
+<lb n="594"/>zue gebrauchen unnd ine, herrn graven, von seinen wolbe
+<lb break="no" n="595"/>fuegten recht unnd gerechtigkhait, auch habenden kayßer
+<lb break="no" n="596"/>lichen unnd königelichen privilegien mit gewalt landt
+<lb break="no" n="597"/>fried prüchiger weis abzetreiben etc. Auf unnser ervorder
+<lb break="no" n="598"/>ung unnd begeren hat <persName ref="lub-actors-166">Caspar von Rambschwag</persName> unns disen 
+<lb n="599"/>bericht gethan, auf das sich herr graf, wie in vorgenden   
+<pb facs="lub-media-3624" n="19"/>
+<lb n="600"/>achten artickhel vermeldt, gegen ime, von <persName ref="lub-actors-166">Rambschwag</persName>,  
+<lb n="601"/>vernemen lassen, er wolte die malefizische aigens ge
+<lb break="no" n="602"/>walts herauß und ine von <persName ref="lub-actors-166">Rambschwag</persName> auch bei dem kopf 
+<lb n="603"/>nemen, das hat ine, von <persName ref="lub-actors-166">Rambschwag</persName>, uber angelegt pit  
+<lb n="604"/>bedaurlich bedunckht und vermaindt, so yemand gewalt  
+<lb n="605"/>anlegen wolte, biß unnd zuvor er sich beschaidts erhalt, so  
+<lb n="606"/>wurde ime nicht wol gebürt haben, in disem fürstlichen  
+<lb n="607"/>hauß <placeName ref="lub-places-13">Guettenberg</placeName> ainichen gewalt zuegestatten, und  
+<lb n="608"/>das er also darfür gebetten unnd ine nicht helffen mogen,  
+<lb n="609"/>achte er, von <persName ref="lub-actors-166">Rambschwag</persName>, was geredt worden, habe er nicht  
+<lb n="610"/>für sein person, als ain lechenman, sonnder als ain verphlicht
+<lb break="no" n="611"/>er unnd geschworner össterreichischer diener gethan 
+<lb n="612"/>und den eingrif und gewalt seinen phlichten nach verwar
+<lb break="no" n="613"/>en und verhüetten sollen. Wie er sich aber in solichen der
+<lb break="no" n="614"/>gleichen fälen verhalten solte, pittet er bei eurn gnaden 
+<lb n="615"/>welten wir unns beschaidts erholen. Unnd er habe seinem  
+<lb n="616"/>verhoffen nach durch dise handlung sein lechenschafft bilich  
+<lb n="617"/>nicht verwürckht unnd vil weniger, das er an seinen ad
+<lb break="no" n="618"/>enlichen eer unnd glauben noch an seinen lechens phlicht
+<lb break="no" n="619"/>en mit nichten für ain lanndtfrid prüechigen gehalten 
+<lb n="620"/>noch gehaissen werden solle. 
+</p>
+        <p><lb n="621"/>Zum dreyzechenden, das herr graf diejhenigen ir gnaden  
+<lb n="622"/>geschwornen underthanen, so auf den guettenbergischen schloß
+<lb break="no" n="623"/>güettern sizen, irer schuldigen phlicht und fron, deßgleichen 
+<lb n="624"/>ine, von <persName ref="lub-actors-166">Rambschwag</persName>, des schuldigen wuerens mit nichten er
+<lb break="no" n="625"/>lassen wellen, sonnder wo sy wider ire aydtsphlicht die 
+<lb n="626"/>schuldigen diennst unnd fron nit laisten oder er, von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="627"/>schwag</persName>, zue wueren nit helffen unnd von der verderbung 
+<lb n="628"/>der hölzer nit ablassen, mit gebürlichen zueläßlichen  
+<lb n="629"/>mitteln darzue anzehalten, zu zwingen unnd ze treiben,  
+<lb n="630"/>unnd solle darzue ime, von <persName ref="lub-actors-166">Rambschwag</persName>, mer haubtviehs,   
+<lb n="631"/>als er von alters heer befuegt, auf gemaine der von <placeName ref="lub-places-71">Balz
+<lb break="no" n="632"/>ers</placeName> wun und waid, wie auch geen alppen zue treiben noch 
+<lb n="633"/>das holz zu seinem gevallen zue hawen nit gestattet, sonst  
+<pb facs="lub-media-3625" n="20"/>
+<lb n="634"/>sollen ime dieselbig ubergeschlagen haubtviehs gephendt  
+<lb n="635"/>unnd er darbei unnd darumb nach landtßgebrauch unnd  
+<lb n="636"/>nach gestalt des unbefuegten ubertrettens gestrafft  
+<lb n="637"/>werden etc. Uber dise beschwerden hat unns der von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="638"/>schwag</persName> solichen bericht gethan, er erachte die hofleüth, wann 
+<lb n="639"/>es nit hievor des herrn grafen aignen leüth unnd unnder
+<lb break="no" n="640"/>thonen seyen, sollen dem schloß <placeName ref="lub-places-13">Guettenberg</placeName> diennstpar 
+<lb n="641"/>sein unnd mit nichten als underthonen dem herrn graven  
+<lb n="642"/>zuegehören, wie dann im neünten artickhl deßwegen   
+<lb n="643"/>ausfüerlich begriffen, so habe auch ermelter von <persName ref="lub-actors-166">Ramb
+<lb break="no" n="644"/>schwag</persName> im zechenden artickhel angemelt, das weder er 
+<lb n="645"/>noch seine voreltern yemalen ze wuere nie schuldig ge
+<lb break="no" n="646"/>wesen, annderst dann was sy auf pith zur eüssersten nott 
+<lb n="647"/>mit irer fuer unnd leichung sailer guetwillig gethan  
+<lb n="648"/>haben. Derenwegen hoffe er, von <persName ref="lub-actors-166">Rambschwag</persName>, er solle als  
+<lb n="649"/>ain össterreichischer diener zu kainer fron durch ain
+<lb break="no" n="650"/>iche mittel nit getrungen werden, was aber in deme die 
+<lb n="651"/>lechen unnd hofleüth belannge, das haben seine eltfordern  
+<lb n="652"/>und er yeder zeit geschechen lassen, sonnsten aber ausser
+<lb break="no" n="653"/>halb diser zue helffung seyen die lechenleüth one ainiche 
+<lb n="654"/>vernere beschwerd der fron unnd anndern diennsten ledig  
+<lb n="655"/>verbliben. So wisse er sich auch nicht schuldig, das seinen  
+<lb n="656"/>wegen ainiche hölzer verderbt worden. Darumben er diser  
+<lb n="657"/>beschwerd billich ungeschuldigt unnd bei des schloß alten  
+<lb n="658"/>recht unnd gerechtigkhaiten gelassen werden sollen. So
+<lb break="no" n="659"/>vil die anzal der zwelf haubtviehs unnd ain stier 
+<lb n="660"/>belanngt, bezeugt der von <persName ref="lub-actors-166">Rambschwag</persName> gar hoch, das yed
+<lb break="no" n="661"/>erzeit in ublichem gebrauch gestanden unnd von seinen vor
+<lb break="no" n="662"/>elttern also heerkhomen, das ain vogt des schloß <placeName ref="lub-places-13">Guet
+<lb break="no" n="663"/>enbergs</placeName> für vieh gewintert, das er dasselbige auf der 
+<lb n="664"/>allmaind unnd alppen sumern mögen, wie dann deß
+<lb break="no" n="665"/>halben in vorstenden zechenden artickel begriffen, ver
+<lb break="no" n="666"/>maine noch, es were gar hoch beschwerlich, wann das schloß 
+<pb facs="lub-media-3626" n="21"/>
+<lb n="667"/><placeName ref="lub-places-13">Guettenberg</placeName> von diser gerechtsame abgehalten, das dar
+<lb break="no" n="668"/>an nicht geringe schmelerung unnd daraus wachssenden 
+<lb n="669"/>nachtail ervolgetn wurde, dann in gemain leichtlich zu
+<lb break="no" n="670"/>erkhennen seye, soliche gerechtigkhait seye yeder zeit in 
+<lb n="671"/>solichem werenden brauch gestannden, sovil mann dißorts  
+<lb n="672"/>vieh gewintert, das man selbiges auch sumern mögen, solle  
+<lb n="673"/>bilich darbei verbleiben unnd in kain minderung khomen  
+<lb n="674"/>lassen. 
+</p>
+        <p><lb n="675"/>Dem allem nach, genedig herrn, auf das wir unns bei mer
+<lb break="no" n="676"/>besagtem von <persName ref="lub-actors-166">Rambschwag</persName> aller hievorgeschribnen new
+<lb break="no" n="677"/>erungen, eingriff unnd beschwerden aller notturfft er
+<lb break="no" n="678"/>khundigt unnd seinen bericht von puncten zu puncten ver
+<lb break="no" n="679"/>schriben, hat unns für ain notturfft angesechen, das er zu 
+<lb n="680"/>fürderung diß werckhs alle die schrifften, bevelch unnd  
+<lb n="681"/>lechenbrief, darauf sich hievor referierdt worden und  
+<lb n="682"/>gleich zweifelsone bei den registeraturen auch zue finden  
+<lb n="683"/>sein werden, fürderlichen abschrifften darvon machen lassen   
+<lb n="684"/>unnd unns dieselbigen one verziechen uberschicken, damit  
+<lb n="685"/>wir soliche zu ainer dester pessern volkhomenhait diß  
+<lb n="686"/>werckhs euren gnaden zu übersenden haben. Wir haben auch  
+<lb n="687"/>vernere gerechtsame annderst nit, dann wie unns merbemelt
+<lb break="no" n="688"/>er von <persName ref="lub-actors-166">Rambschwag</persName> fürgewisen unnd angezaigt, so wir al
+<lb break="no" n="689"/>les underschidlich verschreiben lassen befinden khünden. 
+<lb n="690"/>Beineben unnd sovil aber unnser geringfüeg guetachten  
+<lb n="691"/>belanngt, wellen unns dise fürgefallne streitt zimblich  
+<lb n="692"/>schwer fallen. Wir mögen aber wol glauben, ain solich  
+<lb n="693"/>schloß unnd vesste werde dannocht wol ansechenliche be
+<lb break="no" n="694"/>freyungen, recht unnd gerechtigkhaiten haben. Was aber die 
+<lb n="695"/>oder dieselben seyen, were bei den registeraturen verner  
+<lb n="696"/>nachzesuechen, sonnsten aber sein soliche heergebrachte ge
+<lb break="no" n="697"/>rechtsame nicht wol hinzelassen, sonnder dieselben nach 
+<lb n="698"/>eur genanden genedigem guetachten außzutragen. 
+</p>
+        <p><pb facs="lub-media-3627" n="22"/><lb n="699"/>Welicher gestalt oder durch was mittel aber soliche zum  
+<lb n="700"/>außtrag zewennden, unnd aber doch das schloss <placeName ref="lub-places-13">Guetten
+<lb break="no" n="701"/>berg</placeName> bei seinen gueten rechten unnd alten heerkhomen, sowol 
+<lb n="702"/>auch die hof unnd lechenleuth biß zu erörtterung und endt
+<lb break="no" n="703"/>lichem außtrag unangefochten bleiben megen, indeme acht
+<lb break="no" n="704"/>en wir unns der sachen zu ring verstendig, ob ir fürstlich gnaden  auß 
+<lb n="705"/>macht und volkhomenhait, das die grafisch herrschafft  
+<lb n="706"/><placeName ref="lub-places-7">Vaduz</placeName> unnd <placeName ref="lub-places-11">Schellenberg</placeName> in ir fürstlich durchlaucht erbschierm unnder
+<lb break="no" n="707"/>worfen, den herrn grafen dahin zu mandiern, oder ob 
+<lb n="708"/>soliches durch die römisch kayserliche mayestät beschechen müesste, das  
+<lb n="709"/>schloß <placeName ref="lub-places-13">Guettenberg</placeName> unnd darzue geherige lechenleüth  
+<lb n="710"/>biß zu erleütterung in rüebiger poseß verbleiben ze lassen,  
+<lb n="711"/>solichem werden eur gnaden nach deren genedigen guetacht
+<lb break="no" n="712"/>en wol zue begegnen wissen.
+</p>
+        <p><lb n="713"/>Allain aber unnd umb sovil mer. Genedig herrn wil unns  
+<lb n="714"/>bedunckhen, des von <persName ref="lub-actors-166">Rambschwags</persName> unnd des lechenmans  
+<lb n="715"/><persName ref="lub-actors-167">Wolfingers</persName> notturfft well es hoch erfordern, das, wover  
+<lb n="716"/>es bei eur gnaden zu erhalten, ime, von <persName ref="lub-actors-166">Rambschwag</persName>, mit be
+<lb break="no" n="717"/>schuldigung lanndtfrid prüechigen fürderliche hilf er
+<lb break="no" n="718"/>wisen werde. Nit weniger auch weil sich anderst nicht
+<lb break="no" n="719"/>zit zuversechen, dann wover offt gemelter <persName ref="lub-actors-167">Wolffinger</persName> 
+<lb n="720"/>sich widerumb auß dem schloss <placeName ref="lub-places-13">Guettenberg</placeName> an haimbsch  
+<lb n="721"/>begebe, es wurde nicht allain umb die 40 lb.d. straf, sonnder  
+<lb n="722"/>auch mit gefenckhnus gegen ime verfaren oder so bald für  
+<lb n="723"/>recht gestelt werden. Item dann, das ime, von <persName ref="lub-actors-166">Rambschwag</persName>,  
+<lb n="724"/>schon alberaith (wie er uns bericht unnd wir auch wol  
+<lb n="725"/>glauben mögen) fürgebogen, sobald er, von <persName ref="lub-actors-166">Rambschwag</persName>,  
+<lb n="726"/>uber die gesetzte anzal viehs außtriebe, so werden ime die
+<lb break="no" n="727"/>selbigen aufgehebt, gepfendt unnd darumben gestrafft, so 
+<lb n="728"/>doch der außtrieb des viehs ungevarlich bei vier monaten  
+<lb n="729"/>schon vor der handt. Volgents zum vierdten, dieweil die 
+<lb n="730"/>zeit des wuerens in kürze dem alten gebrauch nach  
+<pb facs="lub-media-3628" n="23"/>
+<lb n="731"/>mechte fürgenomen unnd er, von <persName ref="lub-actors-166">Rambschwag</persName>, mit bezwang  
+<lb n="732"/>darzue gehalten werden, ob doch soliche beschwerdtpunct
+<lb break="no" n="733"/>en bei ime, herrn graven, durch mittl unnd weeg abze
+<lb break="no" n="734"/>stellen, das also dardurch nicht ettwann weitterung 
+<lb n="735"/>beschwerlichait oder unrue im lannd erweckht, sonnder ver
+<lb break="no" n="736"/>hüet werden mechten.
+</p>
+        <p><lb n="737"/>Sonnsten aber. Genedig herrn, was in zuetragenden fälen,  
+<lb n="738"/>so herr graf in ainich weeg gewalt anlegen welte oder  
+<lb n="739"/>würde, die hanndthabung der fürstlich durchlaucht, unnsers genedigisten  
+<lb n="740"/>herrn, unnd derselben recht unnd gerechtigkhait des schloß  
+<lb n="741"/><placeName ref="lub-places-13">Guettenbergs</placeName> unnd yezigen vogts belanngdt im faal der  
+<lb n="742"/>not unns undertheinigist unnd gehorsamist schuldig wissen.  
+<lb n="743"/>Das wir aber der sachen nicht zuvil oder wenig begegneten,  
+<lb n="744"/>so pitten eur gnaden wir ganz unnderthenig, ob im faal herr  
+<lb n="745"/>graf ainichen gewalt, in was weeg das were, anlegen  
+<lb n="746"/>würde, ob wir dannacht gegengewalt brauchen sollen,  
+<lb n="747"/>unnd möchte dannacht auf euer gnaden genedigs wolgevallen  
+<lb n="748"/>zu guetter fürsechung unnd anstellung one schad sein, das  
+<lb n="749"/>dem oberisten haubtman der vier herrschafften vor dem  
+<lb n="750"/>Arlenberg, herr <persName ref="lub-actors-2808">Hanns Gaudenzen von Raittnaw</persName>, irer  
+<lb n="751"/>fürstlich durchlaucht rath unnd vogte der herrschafften <placeName ref="lub-places-45">Bregenz</placeName> unnd  
+<lb n="752"/><placeName ref="lub-places-49">Hochenegg</placeName>, die wartenden beschwerlichaiten zuerkhennen  
+<lb n="753"/>geben wurde unnd besunder auferlegen, so sich ainicher ge
+<lb break="no" n="754"/>walt des herrn graven zuetruege, so welte er auf 
+<lb n="755"/>unnsern bericht der hanndlung fürstendig unnd beholffen  
+<lb n="756"/>sein, sovil die notturfft ervorderdt, dann wir mögen schier  
+<lb n="757"/>dahin schliessen, es werde hardt on ain unrue abgeen. 
+</p>
+        <p><lb n="758"/>Das alles haben eurn genaden wir auf derselben genedig
+<lb break="no" n="759"/>en bevelch unnd ablesenden beilagen neben widersenndung 
+<lb n="760"/>derselben in unnderthenigkhait berichten wellen, unnd  
+<pb facs="lub-media-3629" n="24"/><lb n="761"/>thuen euern genaden unns hiemit in unnderthenig
+<lb break="no" n="762"/>khait zu genaden bevelchen. Datum <placeName ref="lub-places-1015">Gözis</placeName>, den 
+<lb n="763"/>8. tag januarii anno etc. 90. 
+</p>
+        <p><lb n="764"/>Euer gnaden  
+</p>
+        <p><lb n="765"/>Unndertheinge unnd  
+<lb n="766"/>gehorsame diener 
+</p>
+        <p><lb n="767"/><persName ref="lub-actors-179">C Kurzen</persName> vogt  
+<lb n="768"/><persName ref="lub-actors-841">Jörg von Altmanshausen</persName>  
+<lb n="769"/>huebmaister  
+<lb n="770"/><persName ref="lub-actors-218">Ludwig Haslach</persName> hof- unnd  
+<lb n="771"/>gegennschreiber 
+</p>
+        <p>
+          <pb facs="lub-media-3630" n="25"/>
+        </p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3631" n="1"/><lb n="1"/>Praesentato, 29. januarii anno 90. 
+</p>
+        <p><lb n="2"/>Den wolgebornen, edlen, gestrenngen, hochge
+<lb break="no" n="3"/>lerten unnd vesten herren, herrn n., fürstlich durchlaucht erz
+<lb break="no" n="4"/>herzog <persName ref="lub-actors-11">Ferdinannden zu Össterreich</persName> etc. re
+<lb break="no" n="5"/>genten unnd reten <placeName ref="lub-places-160">Oberösterreichischer 
+<lb n="6"/>Lannden</placeName>, unnsern genedigen herrn. 
+</p>
+        <p><lb n="7"/><placeName ref="lub-places-10">Veldtkirch</placeName> ambtleutt  
+<lb n="8"/><placeName ref="lub-places-13">Guettenberg</placeName> vogt contra <persName ref="lub-actors-13">Sulz</persName>  
+<lb n="9"/><placeName ref="lub-places-19">Ynsprugg</placeName> 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

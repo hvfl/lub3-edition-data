@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1271">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rechtsstreit zwischen Kaspar von Ramschwag und Karl Ludwig von Sulz</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original (Missiv), Signatur: <ref type="identifier" target="lub-objects-1271">AT-HAL, H 1349</ref> (<orgName key="at-hal" ref="lub-objects-125">Hausarchiv der Fürsten von Liechtenstein</orgName>) / Entstehungszeitraum: 16. Februar 1592 / Beschreibstoff: Papier, 11 Seiten / Siegel: kein Siegel</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Der Anwalt von Karl Ludwig von Sulz, Johann Konrad Leser, erläutert, warum die Einziehung von Gütern in Triesen, die Kaspar von Ramschwag als Eigentum betrachtet, juristisch gerechtfertigt ist.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-46">Konflikt</term>
+          <term ref="lub-keywords-48">Jurisdiktionsstreit</term>
+          <term ref="lub-keywords-42">Türkensteuer</term>
+          <term ref="lub-keywords-519">bann</term>
+          <term ref="lub-keywords-7">Steuer</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2847">Leser, Johann Konrad</persName>
+          <date when="1592-02-16">16. Feb 1592</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="at-hal__h_1349__unfol_-0001.jpg" xml:id="lub-media-3834" source="img-0167-1592-02-16.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0002.jpg" xml:id="lub-media-3835" source="img-0168-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0003.jpg" xml:id="lub-media-3836" source="img-0169-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0004.jpg" xml:id="lub-media-3837" source="img-0170-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0005.jpg" xml:id="lub-media-3838" source="img-0171-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0006.jpg" xml:id="lub-media-3839" source="img-0172-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0007.jpg" xml:id="lub-media-3840" source="img-0173-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0008.jpg" xml:id="lub-media-3841" source="img-0174-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0009.jpg" xml:id="lub-media-3842" source="img-0175-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0010.jpg" xml:id="lub-media-3843" source="img-0176-kopie.jpg" corresp="A"/>
+    <graphic url="at-hal__h_1349__unfol_-0011.jpg" xml:id="lub-media-3844" source="img-0177-kopie.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3834" n="1"/><lb n="1"/>Hochwürdiger fürst, romischer kayserlicher mayestät  
+<lb n="2"/>cammerrichter, gnediger herr, alß uff an
+<lb break="no" n="3"/>ruffen <persName ref="lub-actors-166">Caspar vonn Rambschwangs</persName>, vogts 
+<lb n="4"/>uff <placeName ref="lub-places-13">Guttennberg</placeName> angemastenn clagers unnd  
+<lb n="5"/>impetranten an einem, so dan herren <persName ref="lub-actors-13">Carll  
+<lb n="6"/>Ludwigenn gravenn zu Sulz</persName> etc. ubell be
+<lb break="no" n="7"/>clagten anders theils, ein vermeint kayserliches pöenall 
+<lb n="8"/>mandat uff des <orgName ref="lub-actors-516">Heiligen Reichs</orgName> constitution  
+<lb n="9"/>vonn arresten mit angeheffter ladung ad  
+<lb n="10"/>docendum se paruisse, vel ad dandum causas, quare  
+<lb n="11"/>declarari non debeat, vermeinndtlich unnd trunca
+<lb break="no" n="12"/>ta veritate erlanngtt unnd außgeprachtt.
+<lb n="13"/>So erscheinndt inn heutiger audienz gerichtlichen  
+<lb n="14"/>producirten mandats wolgemeltes <persName ref="lub-actors-13">Carln</persName>  
+<lb n="15"/>graffenn etc. constituirter annwaldt jedoch  
+<lb n="16"/>anderer gestaldt nichtt, alß praemissa pro
+<lb break="no" n="17"/>testatione de non consentiendo neque prorogando etc.
+</p>
+        <p><lb n="18"/>Welcher protestation samptt allen anderen  
+<lb n="19"/>gepurenden exceptionenn, defensionenn unnd  
+<lb n="20"/>rechtlichen ubertragendenn vortheilen vorbe
+<lb break="no" n="21"/>haltlichen inn willen unnd maynung euer fürstlich gnaden 
+<lb n="22"/>inn rechtt unnd deß <orgName ref="lub-actors-516">Heiligen Reichs</orgName> consti
+<lb break="no" n="23"/>tutionen gegrundte ursachenn anzuzeigenn, 
+<lb n="24"/>worumb anwaldts gnediger herr und prin
+<pb facs="lub-media-3835" n="2"/>
+<lb break="no" n="25"/>cipall demselbigen zu pariren nichtt schuldig, 
+<lb n="26"/>sonnder als per sub et obreptionem ubell extor
+<lb break="no" n="27"/>quirtt nichtig, crafftlos unnd mangellhafftig, 
+<lb n="28"/>nachmahls cum condemnatione refusionis expensarum  
+<lb n="29"/>widerumb abzuschaffenn, uffzuheben unnd zu   
+<lb n="30"/>cassiren sey, ubergibtt er nachvolgennde ex
+<lb break="no" n="31"/>ceptiones articulatas mit unndertheniger pitt,  
+<lb n="32"/>denn gegentheill adrespondendum singulariter  
+<lb n="33"/>singulis, wie sich vermoge der rechtenn unnd  
+<lb n="34"/>reichsordnunng gepurtt, annzuhaltenn unnd  
+<lb n="35"/>dan zu beweisung, jedoch citra onus superfluitatis  
+<lb n="36"/>de quo diserte protestatur der vermeinten unnd  
+<lb n="37"/>ungestandenen gnediglich zulaßenn. 
+</p>
+        <p><lb n="38"/>1. Sezett unnd sagett hierauff erstlich wahr unnd  
+<lb n="39"/>zu beedenn thailenn unlaugpar sein, das  
+<lb n="40"/>inn des <orgName ref="lub-actors-516">Heyligenn Reichs</orgName> zu <placeName ref="lub-places-32">Augspurg</placeName> unnd  
+<lb n="41"/><placeName ref="lub-places-77">Regenspurg</placeName> anno etc. <date when="1548">48</date>, <date when="1576">76</date> unnd <date when="1582">82</date> auffgerichten  
+<lb n="42"/>unnd publicirten abschiden unnd constitutionenn  
+<lb n="43"/>außtrucklichenn disponirtt unnd versehenn,  
+<lb n="44"/>das jeder obrigkeitt freystehen unnd zu
+<lb break="no" n="45"/>gelaßen sein soll, ir angehörige zugewandte 
+<lb n="46"/>und underthonenn, gaistlich unnd weltlich, sie  
+<lb n="47"/>sein exemptt oder nichtt exempett niemandts  
+<lb n="48"/>außgenomen, mit der zeitt eingewilliglich  
+<lb n="49"/>durcken- oder reichssteuren zu belegenn und  
+<pb facs="lub-media-3836" n="3"/>
+<lb n="50"/>das niemandt darin zuverschonenn sey. 
+</p>
+        <p><lb n="51"/>2. Zum anderm wahr, das inn jez bestimpter  
+<lb n="52"/>constitutionibus verner verordnett, das unver
+<lb break="no" n="53"/>hindertt aller vertrag, obligation, statutenn, 
+<lb n="54"/>gepreuchen, gewonheittenn und herkhomenn,  
+<lb n="55"/>so einicher stifft, stett oder communion mit  
+<lb n="56"/>iren fristenn, oberkeyttenn oder herschafften  
+<lb n="57"/>inn diesem fhall habenn anziehen oder vor
+<lb break="no" n="58"/>wenden mochten, gleichwoll die underthonen 
+<lb n="59"/>alle solche steur unnd contributionen zu erlegen  
+<lb n="60"/>schuldig unnd verpunden sein sollenn. 
+</p>
+        <p><lb n="61"/>3. Also unnd zum dritten auff denn  
+<lb n="62"/>fhall einiche underthonen all solchenn constitutio
+<lb break="no" n="63"/>nen unnd pragmaticis sanctionibus nicht gehorsamen, 
+<lb n="64"/>sonnder irer obrigkeitt sich in dem wider
+<lb break="no" n="65"/>sezenn, das sie als dann dardurch in poe
+<lb break="no" n="66"/>nam dupli mit der thatt unwidersprechlichen 
+<lb n="67"/>gefhallenn unnd zu bezahlen schuldig sein soltten. 
+</p>
+        <p><lb n="68"/>4. Mit dem vernerem anhang unnd zum  
+<lb n="69"/>viertenn, das an diesem hochloblichen kayserlichen  
+<lb n="70"/><orgName ref="lub-actors-521">Cammergerichtt</orgName> khein proces, denselbigen  
+<lb n="71"/>ungehorsamenn widersezigen und sonnigen  
+<lb n="72"/>erkhandt, noch mittgetheilett werden soll. 
+</p>
+        <p><pb facs="lub-media-3837" n="4"/><lb n="73"/>5. Zum funfftenn, so ist auch inn solchen reichs
+<lb break="no" n="74"/>constitutionen weitters disponirtt, 
+<lb n="75"/>so ettliche stenndt unnd underthonen durch  
+<lb n="76"/>ander ausgezogenn oder exemptt unnd ge
+<lb break="no" n="77"/>freyett sein wollenn, unnd gleichwoll 
+<lb n="78"/>in possessione libertatis vel quasi nichtt seyen,  
+<lb n="79"/>das die selbige nichtt desto weniger ire  
+<lb n="80"/>gepurennde anlag vermoge des reichs
+<lb break="no" n="81"/>anschlag enndtrichtenn und erlegen sollenn. 
+</p>
+        <p><lb n="82"/>6. Wie dan auch zum sechsten sowoll nach  
+<lb n="83"/>besage unnd außweissung allegemeiner be
+<lb break="no" n="84"/>schribener rechtenn, als mehr angeregter 
+<lb n="85"/>reichs constitutionen jeder angehöriger  
+<lb n="86"/>underthon seiner obrigkeitt, darunnder  
+<lb n="87"/>ehr geseßenn, die geburliche durcken
+<lb n="88"/>unnd reichssteur zu erlegenn schuldig. 
+</p>
+        <p><lb n="89"/>7. Nun ist aber inn der geschichtt unnd  
+<lb n="90"/>zum siebenden wahr, das alle inn der  
+<lb n="91"/>herschafft <placeName ref="lub-places-7">Vaduz</placeName> eingeseßene unnder ann
+<lb break="no" n="92"/>waldts gnedigenn herren principalln 
+<lb n="93"/>hohe unnd niderige obrigkeitt ge
+<lb break="no" n="94"/>horig.
+</p>
+        <p><pb facs="lub-media-3838" n="5"/><lb n="95"/>8. Zum achten wahr, das auch der flecken  
+<lb n="96"/>oder bäan <placeName ref="lub-places-79">Tryßen</placeName> inn der herschafft <placeName ref="lub-places-7">Vaduz</placeName>  
+<lb n="97"/>gelegen unnd mehr wollgedachtem herren  
+<lb n="98"/>principalln mit aller hoher unnd nideriger  
+<lb n="99"/>oberigkeitt jha aigenthumblichen grundt  
+<lb n="100"/>unnd boden zustenndig. 
+</p>
+        <p><lb n="101"/>9. Item unnd zum neunden wahr, was ungehal
+<lb break="no" n="102"/>tener clager oder eine altern der enndts erkauft, 
+<lb n="103"/>das si es anderer gestaltt nichtt dan cum onere  
+<lb n="104"/>an sich geprachtt unnd per consequens zu abrichtung  
+<lb n="105"/>der durckenhulff unnd reichsanlagenn  
+<lb n="106"/>astringirtt unnd verfunden habenn. 
+</p>
+        <p><lb n="107"/>10. Unnd umb sovill destomehr, dieweill  
+<lb n="108"/>zum zehendenn wahr, das clagennder  
+<lb n="109"/>vonn <persName ref="lub-actors-166">Rambschwanng</persName> gerurtter, erkauffter,  
+<lb n="110"/>oder sonnstenn an sich geprachtenn gütter  
+<lb n="111"/>halben gegenn iren grafen in possessione vel  
+<lb n="112"/>quasi libertatis der durckensteur unnd  
+<lb n="113"/>reichsanlagen niemahlen geweßenn. 
+</p>
+        <p><lb n="114"/>11. Sonnder villmehr unnd zum aefftenn wahr,  
+<lb n="115"/>daß ire gnaden unnd derenn lobliche  
+<lb n="116"/>vorfharen vor 10, 20, 30, 40 unnd mehr jahren,   
+<pb facs="lub-media-3839" n="6"/>
+<lb n="117"/>dann sich mennschenn gedencken erstreckten,  
+<lb n="118"/>alß lanng solche contributiones im <orgName ref="lub-actors-516">Heiligenn  
+<lb n="119"/>Romischen Reich</orgName> inn ubung unnd geprauch ge
+<lb break="no" n="120"/>haltenn, derenn inn besezlichenn herpringen 
+<lb n="121"/>gewesen, solche auch außerhalb jeziger un
+<lb break="no" n="122"/>pilliger recusation, verweygerunng unnd 
+<lb n="123"/>widerseßigkeitt der wurcklichenn empfangen  
+<lb n="124"/>unnd eingenommen. 
+</p>
+        <p><lb n="125"/>12. Wie dann auch zum zwelfftenn wahr,  
+<lb n="126"/>daß diese durch denn herren kayserlichen  
+<lb n="127"/>fiscall allein vonn anwaldts gnedigem  
+<lb n="128"/>herren principall ohnn unnderlaß angefordertt,  
+<lb n="129"/>auch erhabenn wordenn. 
+</p>
+        <p><lb n="130"/>13. Der wegenn unnd zum dreizehenndenn  
+<lb n="131"/>wahr, das ire gnadenn billig verursachtt  
+<lb n="132"/>per viam executionis vermoge rechtlicher   
+<lb n="133"/>disposition die verwaygerte termin  
+<lb n="134"/>einzupringen unnd sovill an wein unnd  
+<lb n="135"/>fruchten anzuhalten zugelaßenn, bis solche  
+<lb n="136"/>der gepur erstattet unnd nichtig gemachtt  
+<lb n="137"/>werden mochtenn. 
+</p>
+        <p><lb n="138"/>14. Und ist auch zum dreuzehendenn ganz ohn  
+<pb facs="lub-media-3840" n="7"/><lb n="139"/>das ihre gnaden die ortts ichziges wider die  
+<lb n="140"/>constitution der arrestenn gehanndlett. 
+</p>
+        <p><lb n="141"/>15. Seyttemahll zum füffzehenden wahre, das  
+<lb n="142"/>solche vonn unrechtmeßigenn arrestenn aber gar  
+<lb n="143"/>nichtt vonn solchenn quae per modum executionis  
+<lb n="144"/>in casibus a jure permissis fiunt zuverstehenn. 
+</p>
+        <p><lb n="145"/>16. Unnd geseztt, obgleich clagers brudern  
+<lb n="146"/>sich taliter qualiter ad cautionem praestandam  
+<lb n="147"/>erpottenn, so ist doch zum sechzehenndenn  
+<lb n="148"/>wahr, das er dieselbige im wenigstenn  
+<lb n="149"/>nichtt wie sich gepürtt, wurcklichenn ge
+<lb break="no" n="150"/>laistett, et ubi facto opus est, ibi verba non 
+<lb n="151"/>sufficiunt. 
+</p>
+        <p><lb n="152"/>17. Sonnder villmehr unnd zum siebenzehendenn  
+<lb n="153"/>wahr, daß muttwilliger impetrant sich gegen  
+<lb n="154"/>annwaldts gnedigenn herrn, als seinen  
+<lb n="155"/>lehenherrnn, welchem er mit pflichtt unnd  
+<lb n="156"/>aydt zugethon, uff leib und leben zu trachten,  
+<lb n="157"/>gannz rundt erclart unnd verlautten laßen,  
+<lb n="158"/>alles verners innhalts deßhalben uffgerichten  
+<lb n="159"/>protestation instruments. 
+</p>
+        <p><lb n="160"/>18. Also zum achtzehenndenn wahr, daß  
+<pb facs="lub-media-3841" n="8"/>
+<lb n="161"/>inn solchen unnd dergleichen fhällen praesertim  
+<lb n="162"/>in casibus illiquitis vermeindtlich angetheute com
+<lb break="no" n="163"/>pensation nichtt mag statt habenn noch deren 
+<lb n="164"/>eingereumbtt werdenn. 
+</p>
+        <p><lb n="165"/>19. In maßen dan zum neunzehendenn inn  
+<lb n="166"/>allgemeinen beschribenen rechten unnd des  
+<lb n="167"/><orgName ref="lub-actors-516">Heyligen Reichs</orgName> constitutionen heilsamlich  
+<lb n="168"/>unnd woll statuirtt, daß all solche ar
+<lb break="no" n="169"/>resta, welche zu befoderung der execu
+<lb break="no" n="170"/>tion beschehenn per cautionem judicio sisti et 
+<lb n="171"/>judicatum solvi nichtt sollen auffgehaben  
+<lb n="172"/>werden, cum in puncto executionis non sufficiat  
+<lb n="173"/>cavere sed oporteat solvere. 
+</p>
+        <p><lb n="174"/>20. Letzlich wahr, das vonn obgeseztenn  
+<lb n="175"/>puncten, sovil derrn inn der geschichtt  
+<lb n="176"/>bewarenn, inn der herschafft <placeName ref="lub-places-7">Vaduz</placeName> und  
+<lb n="177"/>an ubligendenn orttenn ein gemein ruff  
+<lb n="178"/>unnd geschrey sey. 
+</p>
+        <p><lb n="179"/>Dieweill dan gnediger fürst  
+<lb n="180"/>unnd herr, euer fürstlich gnaden unnd des hochlob
+<lb break="no" n="181"/>lichenn kayserlichen <orgName ref="lub-actors-521">Cammergerichtts</orgName> jurisdiction 
+<lb n="182"/>dißfhalls uff die constitution der  
+<lb n="183"/>arresten mit nichttenn fundirtt unnd  
+<pb facs="lub-media-3842" n="9"/>
+<lb n="184"/>da es gleich wider verhoffenns eine anndere  
+<lb n="185"/>maynung gewinnen unnd anwaldts gne
+<lb break="no" n="186"/>diger herr in diesem puncto mandati ein 
+<lb n="187"/>zulaßenn schuldig sein soltt, daß uff  
+<lb n="188"/>solchenn fhall selbige mandat als gegenn  
+<lb n="189"/>deß <orgName ref="lub-actors-516">Reichs</orgName> villfaltiglichen publicirten  
+<lb n="190"/>abschiden ausprachtt zu caßiren unnd uff
+<lb break="no" n="191"/>zuheben oder aber nichtt, unnd crafftlos 
+<lb n="192"/>zuerclaren unnd clagenden vonn <persName ref="lub-actors-166">Rambsch
+<lb break="no" n="193"/>wang</persName>, alß ihrer gnaden angehörigenn 
+<lb n="194"/>lehnman, auß obdeducirtenn ursachenn seine  
+<lb n="195"/>schuldige durckennhulff unnd reichsan
+<lb break="no" n="196"/>lagen hinfurter zu erlegenn unnd zu er
+<lb break="no" n="197"/>stattenn, unnd ire gnaden bey wolherge
+<lb break="no" n="198"/>prachter possession vel quasi collectandi 
+<lb n="199"/>zu hanndt habenn unnd mehr wohlgedachten  
+<lb n="200"/><persName ref="lub-actors-166">Rambschwangen</persName> wegen unbefugter ver
+<lb break="no" n="201"/>waygerung unnd beharlicher widersezung 
+<lb n="202"/>alles doppell zuerstattenn zu rechtt  
+<lb n="203"/>verpundenn unnd zu solchem enndt man
+<lb break="no" n="204"/>data poenalia ad solvendum zuerkhennen 
+<lb n="205"/>unnd inn al deßhalben uffgeloffen gerichts
+<lb break="no" n="206"/>costenn zuverdammenn etc.
+</p>
+        <p><lb n="207"/>Hiernebenn euer fürstlich gnaden hochadelich  
+<pb facs="lub-media-3843" n="10"/>
+<lb n="208"/>milttrichterlich amptt unnd alle hulffliche  
+<lb n="209"/>mittell nichtt allein gepetener maßen,   
+<lb n="210"/>sonnder auch uff andere furtraglichste unnd  
+<lb n="211"/>formblichste weege hochstes fleis inn underthe
+<lb break="no" n="212"/>nigkeitt anrueffennde.
+</p>
+        <p><lb n="213"/>Vorbehaltlich etc. 
+<lb n="214"/>Euer fürstlich gnaden  
+<lb n="215"/>Undertheniger 
+<lb n="216"/><persName ref="lub-actors-2847">Johann Conrad Laßer</persName> manu propria 
+</p>
+      </div>
+      <div type="back">
+        <p><pb facs="lub-media-3844" n="1"/><lb n="1"/>Exceptiones und ursachenn, worumb man  
+<lb n="2"/>ubell außprachtem mandat zu parirenn  
+<lb n="3"/>nichtt schuldig, sonnder zu caßiren sey. 
+</p>
+        <p><lb n="4"/>Des wollgepornen herrn, herrn <persName ref="lub-actors-13">Carll Lud
+<lb break="no" n="5"/>wigenn gravenn zu Sulz</persName> etc. ubell 
+<lb n="6"/>citirten unnd beclagtenn  
+<lb n="7"/>contra  
+<lb n="8"/><persName ref="lub-actors-166">Caspar vonn Rambschwang</persName>, vogtt uff <placeName ref="lub-places-13">Gut
+<lb break="no" n="9"/>tenberg</placeName>, angemasten impetranten unnd clagenden.
+</p>
+        <p><lb n="10"/>Praetensi mandati  
+<lb n="11"/>uff die constitution  
+<lb n="12"/>der arrestenn  
+</p>
+        <p><lb n="13"/>Registrata manu propriae <date when="1592-02-16">16. februarii 
+<lb n="14"/>anno etc. 92</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
