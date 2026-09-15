@@ -62,14 +62,21 @@ for entity in "${entities[@]}"; do
         batch_ids=$(paste -sd, "$batchfile")
         out="$tmpdir/resp.$batch_no.xml"
 
-        wget -q --post-data "ids=$batch_ids&api_token=$API_TOKEN" "$URL/$entity" -O "$out"
+        # curl rather than wget: wget -q discards the body of an error response
+        # and does not report the status, so an HTTP 500 left nothing to read.
+        status=$(curl -s -o "$out" -w '%{http_code}' --data "ids=$batch_ids&api_token=$API_TOKEN" "$URL/$entity")
 
         # Guard: a rejected request returns Anton's HTML page, not TEI. Abort
         # instead of committing a broken register file.
-        if ! head -c 64 "$out" | grep -q '<?xml'; then
-            msg=$(grep -o '<li>[^<]*</li>' "$out" | head -1 | sed 's/<[^>]*>//g')
-            echo "ERROR: $entity batch $batch_no did not return TEI."
-            echo "       Anton said: ${msg:-unknown error (see $out)}"
+        if ! head -c 64 "$out" 2>/dev/null | grep -q '<?xml'; then
+            msg=$(grep -o '<li>[^<]*</li>' "$out" 2>/dev/null | head -1 | sed 's/<[^>]*>//g')
+            # Keep the response: $tmpdir is removed below, and the message
+            # used to point into it.
+            kept=$(mktemp -t "anton-$entity-batch$batch_no")
+            cp "$out" "$kept" 2>/dev/null
+            echo "ERROR: $entity batch $batch_no did not return TEI (HTTP $status)."
+            echo "       Anton said: ${msg:-unknown error}"
+            echo "       Response kept in $kept"
             rm -rf "$tmpdir"
             exit 1
         fi
