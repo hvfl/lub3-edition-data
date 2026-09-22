@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-09-15 13:11:43 aus </p>
+        <p>Datenbankexport vom 2026-09-22 16:48:12 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -9500,6 +9500,7 @@
             <persName type="main" xml:lang="de">Knabenknecht, Hans (2)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, hans (2)</persName>
             <persName type="alternative" xml:lang="de">Knabennknecht, Hanns</persName>
+            <persName type="alternative" xml:lang="de">Knabennkhnecht, Hanns</persName>
             <birth when="1566-11-11"/>
             <death when="1572-11-10"/>
             <note type="description" xml:lang="de">
@@ -12431,6 +12432,7 @@
             <persName type="main" xml:lang="de">Knabenknecht, Hug (2)</persName>
             <persName type="sort" xml:lang="de">knabenknecht, hug (2)</persName>
             <persName type="alternative" xml:lang="de">Knabenkhnecht, Haug</persName>
+            <persName type="alternative" xml:lang="de">Knabennkhnecht, Haug</persName>
             <birth when="1572-11-10"/>
             <death when="1586-06-20"/>
             <note type="description" xml:lang="de">
@@ -27968,6 +27970,42 @@
               <p>Lebensdaten: † vor 1567-11-11.</p>
               <p>Besitzer eines Guts im Steg (Triesenberg).</p>
             </note>
+          </person><person xml:id="lub-actors-2750">
+            <persName type="full" xml:lang="de">Huttler, Emerita (1586–1607)</persName>
+            <persName type="main" xml:lang="de">Huttler, Emerita</persName>
+            <persName type="sort" xml:lang="de">huttler, emerita</persName>
+            <birth when="1586-06-20"/>
+            <death when="1607-11-12"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Eschen. Verheiratet mit <ref target="1201">Gabriel Walch</ref>.</p>
+            </note>
+          </person><person xml:id="lub-actors-2751">
+            <persName type="full" xml:lang="de">Hemmerle, Hans (1586–)</persName>
+            <persName type="main" xml:lang="de">Hemmerle, Hans</persName>
+            <persName type="sort" xml:lang="de">hemmerle, hans</persName>
+            <persName type="alternative" xml:lang="de">Hemerli, Hanns</persName>
+            <birth when="1586-06-20"/>
+            <note type="description" xml:lang="de">
+              <p>Inhaber eines Lehens des Klosters St. Luzi am Eschnerberg (Eschen?).</p>
+            </note>
+          </person><personGrp role="family" xml:id="lub-actors-2752">
+            <persName type="full" xml:lang="de">Spalt (1586–1607)</persName>
+            <persName type="main" xml:lang="de">Spalt</persName>
+            <persName type="sort" xml:lang="de">spalt</persName>
+            <birth when="1586-06-20"/>
+            <death when="1607-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Familie mit Besitz in Eschen und Ruggell.</p>
+            </note>
+          </personGrp><person xml:id="lub-actors-2753">
+            <persName type="full" xml:lang="de">Steiger, Bartholomäus (1586–)</persName>
+            <persName type="main" xml:lang="de">Steiger, Bartholomäus</persName>
+            <persName type="sort" xml:lang="de">steiger, bartholomaeus</persName>
+            <persName type="alternative" xml:lang="de">Styger, Barthli</persName>
+            <birth when="1586-06-20"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts in Bangs (Ruggell).</p>
+            </note>
           </person><person xml:id="lub-actors-2754">
             <persName type="full" xml:lang="de">Gstöhl, Hug (1532–)</persName>
             <persName type="main" xml:lang="de">Gstöhl, Hug</persName>
@@ -28027,10 +28065,74 @@
             <persName type="main" xml:lang="de">Knabenknecht, Jos</persName>
             <persName type="sort" xml:lang="de">knabenknecht, jos</persName>
             <persName type="alternative" xml:lang="de">Knapenkhnecht, Joes</persName>
+            <persName type="alternative" xml:lang="de">Knabenkhnecht, Joß</persName>
+            <persName type="alternative" xml:lang="de">Knabenkhnecht, Jos</persName>
             <birth when="1600"/>
             <death when="1607-11-11"/>
             <note type="description" xml:lang="de">
               <p>Inhaber von Gütern in Eschen.</p>
+            </note>
+          </person><person xml:id="lub-actors-2762">
+            <persName type="full" xml:lang="de">Fetzer, Margreth (1572–)</persName>
+            <persName type="main" xml:lang="de">Fetzer, Margreth</persName>
+            <persName type="sort" xml:lang="de">fetzer, margreth</persName>
+            <persName type="alternative" xml:lang="de">Vetzerin, Gretha</persName>
+            <birth when="1572-11-10"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzerin eines Guts in Eschen.</p>
+            </note>
+          </person><person xml:id="lub-actors-2763">
+            <persName type="full" xml:lang="de">Schreiber, Franziskus (–1570)</persName>
+            <persName type="main" xml:lang="de">Schreiber, Franziskus</persName>
+            <persName type="sort" xml:lang="de">schreiber, franziskus</persName>
+            <persName type="alternative" xml:lang="de">Schreiber, Franntzischg</persName>
+            <death when="1570"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † vor 1572-11-10<lb/> Besitzer einer Weingartens auf Platz (Eschen).</p>
+            </note>
+          </person><person xml:id="lub-actors-2765">
+            <persName type="full" xml:lang="de">Gstöhl, Hans (7) (–1570)</persName>
+            <persName type="main" xml:lang="de">Gstöhl, Hans (7)</persName>
+            <persName type="sort" xml:lang="de">gstoehl, hans (7)</persName>
+            <persName type="alternative" xml:lang="de">Gstöl, Hanns</persName>
+            <death when="1570"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † vor 1571-11-10.<lb/> Inhaber eines Lehenguts in Eschen.</p>
+            </note>
+          </person><person xml:id="lub-actors-2766">
+            <persName type="full" xml:lang="de">Mendli, Jakob (1600–)</persName>
+            <persName type="main" xml:lang="de">Mendli, Jakob</persName>
+            <persName type="sort" xml:lang="de">mendli, jakob</persName>
+            <birth when="1600"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts im Erler (Eschen).</p>
+            </note>
+          </person><person xml:id="lub-actors-2767">
+            <persName type="full" xml:lang="de">Meier, Ulrich (2) (1572–)</persName>
+            <persName type="main" xml:lang="de">Meier, Ulrich (2)</persName>
+            <persName type="sort" xml:lang="de">meier, ulrich (2)</persName>
+            <birth when="1572-11-10"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts im Erler (Eschen).</p>
+            </note>
+          </person><person xml:id="lub-actors-2768">
+            <persName type="full" xml:lang="de">Meier, Andreas (1600–1604)</persName>
+            <persName type="main" xml:lang="de">Meier, Andreas</persName>
+            <persName type="sort" xml:lang="de">meier, andreas</persName>
+            <persName type="alternative" xml:lang="de">Mayer, Andreß</persName>
+            <birth when="1600"/>
+            <death when="1604-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts im Erler (Eschen).</p>
+            </note>
+          </person><person xml:id="lub-actors-2769">
+            <persName type="full" xml:lang="de">Wohlwend, Wolf (1) (–1570)</persName>
+            <persName type="main" xml:lang="de">Wohlwend, Wolf (1)</persName>
+            <persName type="sort" xml:lang="de">wohlwend, wolf (1)</persName>
+            <persName type="alternative" xml:lang="de">Wolwennd, Wolf</persName>
+            <death when="1570"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † vor 1572-11-10.<lb/> Besitzer eines Guts in Gamprin.</p>
             </note>
           </person><person xml:id="lub-actors-2770">
             <persName type="full" xml:lang="de">Kessler, Kaspar (1526–)</persName>
@@ -28051,6 +28153,14 @@
             <death when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Besitzer von Gütern in Eschen.</p>
+            </note>
+          </person><person xml:id="lub-actors-2772">
+            <persName type="full" xml:lang="de">Pfefferli, NN (1572–)</persName>
+            <persName type="main" xml:lang="de">Pfefferli, NN</persName>
+            <persName type="sort" xml:lang="de">pfefferli, nn</persName>
+            <birth when="1572-11-10"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzers eines Guts in Nendlen.</p>
             </note>
           </person><personGrp role="family" xml:id="lub-actors-2773">
             <persName type="full" xml:lang="de">Wohlwend (1572–1604)</persName>
@@ -28207,7 +28317,25 @@
                 </bibl>
               </listBibl>
             </note>
-          </person><person xml:id="lub-actors-2791">
+          </person><person xml:id="lub-actors-2789">
+            <persName type="full" xml:lang="de">Peter, Margarethe (1588–)</persName>
+            <persName type="main" xml:lang="de">Peter, Margarethe</persName>
+            <persName type="sort" xml:lang="de">peter, margarethe</persName>
+            <persName type="alternative" xml:lang="de">Petterin, Margarethe</persName>
+            <birth when="1588-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Rofaberg (Eschen). Verheiratet mit <ref target="165">Hans Öhri</ref>.</p>
+            </note>
+          </person><personGrp role="family" xml:id="lub-actors-2790">
+            <persName type="full" xml:lang="de">Fetzer (1586–)</persName>
+            <persName type="main" xml:lang="de">Fetzer</persName>
+            <persName type="sort" xml:lang="de">fetzer</persName>
+            <persName type="alternative" xml:lang="de">Vetzer</persName>
+            <birth when="1586-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Gutsbesitzer in Gamprin.</p>
+            </note>
+          </personGrp><person xml:id="lub-actors-2791">
             <persName type="full" xml:lang="de">Schertlin von Burtenbach, Sebastian (1552–)</persName>
             <persName type="main" xml:lang="de">Schertlin von Burtenbach, Sebastian</persName>
             <persName type="sort" xml:lang="de">schertlin von burtenbach, sebastian</persName>
@@ -28328,6 +28456,24 @@
             <note type="description" xml:lang="de">
               <p>kaiserlicher Majestät Diener</p>
             </note>
+          </person><person xml:id="lub-actors-2802">
+            <persName type="full" xml:lang="de">Büchel, Barbara (1602–)</persName>
+            <persName type="main" xml:lang="de">Büchel, Barbara</persName>
+            <persName type="sort" xml:lang="de">buechel, barbara</persName>
+            <persName type="alternative" xml:lang="de">Büchlin, Barbara</persName>
+            <birth when="1602-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Verheiratet mit <ref target="835">Hans Heeb</ref>.</p>
+            </note>
+          </person><person xml:id="lub-actors-2803">
+            <persName type="full" xml:lang="de">Stieger, Katharina (1602–)</persName>
+            <persName type="main" xml:lang="de">Stieger, Katharina</persName>
+            <persName type="sort" xml:lang="de">stieger, katharina</persName>
+            <persName type="alternative" xml:lang="de">Stigerin, Catharina</persName>
+            <birth when="1602-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Verheiratet mit <ref target="827">Andreas Alber</ref>.</p>
+            </note>
           </person><person xml:id="lub-actors-2804">
             <persName type="full" xml:lang="de">Wanger, Sebastian (2) (1602–1608)</persName>
             <persName type="main" xml:lang="de">Wanger, Sebastian (2)</persName>
@@ -28381,6 +28527,24 @@
             <note type="description" xml:lang="de">
               <p>Rat und Vogt von Bregenz und Hochegg.</p>
             </note>
+          </person><person xml:id="lub-actors-2809">
+            <persName type="full" xml:lang="de">Öhri, Margaretha (1604–)</persName>
+            <persName type="main" xml:lang="de">Öhri, Margaretha</persName>
+            <persName type="sort" xml:lang="de">oehri, margaretha</persName>
+            <persName type="alternative" xml:lang="de">Öry, Margreta</persName>
+            <birth when="1604-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Ruggell. Verheiratet mit <ref target="2804">Sebastian Wanger</ref>. Mit ihrem Mann Inhaberin von umfangreichen Lehen des Klosters St. Luzi in den Pfarreien Eschen und Bendern.</p>
+            </note>
+          </person><person xml:id="lub-actors-2810">
+            <persName type="full" xml:lang="de">Egli, Barbara (1604–)</persName>
+            <persName type="main" xml:lang="de">Egli, Barbara</persName>
+            <persName type="sort" xml:lang="de">egli, barbara</persName>
+            <persName type="alternative" xml:lang="de">Egelein, Barbara</persName>
+            <birth when="1604-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzerin eines Guts im Bölsfeld (Eschen).</p>
+            </note>
           </person><person xml:id="lub-actors-2811">
             <persName type="full" xml:lang="de">Koch, Andreas (1604–)</persName>
             <persName type="main" xml:lang="de">Koch, Andreas</persName>
@@ -28389,6 +28553,34 @@
             <birth when="1604-11-11"/>
             <note type="description" xml:lang="de">
               <p>Inhaber von Gütern in Eschen.</p>
+            </note>
+          </person><person xml:id="lub-actors-2812">
+            <persName type="full" xml:lang="de">Täscher, Christian (1604–)</persName>
+            <persName type="main" xml:lang="de">Täscher, Christian</persName>
+            <persName type="sort" xml:lang="de">taescher, christian</persName>
+            <persName type="alternative" xml:lang="de">Dascher, Christian</persName>
+            <birth when="1604-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts im Tentschagraba (Gamprin/Eschen).</p>
+            </note>
+          </person><person xml:id="lub-actors-2813">
+            <persName type="full" xml:lang="de">Wanger, NN (1604–)</persName>
+            <persName type="main" xml:lang="de">Wanger, NN</persName>
+            <persName type="sort" xml:lang="de">wanger, nn</persName>
+            <persName type="alternative" xml:lang="de">Wagner</persName>
+            <birth when="1604-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Besitzer eines Guts in Bangs.</p>
+            </note>
+          </person><person xml:id="lub-actors-2814">
+            <persName type="full" xml:lang="de">Ringer, Hans (–1602)</persName>
+            <persName type="main" xml:lang="de">Ringer, Hans</persName>
+            <persName type="sort" xml:lang="de">ringer, hans</persName>
+            <persName type="alternative" xml:lang="de">Ringer, Hannß</persName>
+            <death when="1602"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: † vor 1604-11-11.</p>
+              <p>Besitzer eines Guts in Bangs.</p>
             </note>
           </person><person xml:id="lub-actors-2816">
             <persName type="full" xml:lang="de">Fehr, Anna (2) (1604–)</persName>
@@ -29072,6 +29264,7 @@
             <orgName type="alternative" xml:lang="de">St. Lucio</orgName>
             <orgName type="alternative" xml:lang="de">St. Lanzi</orgName>
             <orgName type="alternative" xml:lang="de">Sanct Lutzi</orgName>
+            <orgName type="alternative" xml:lang="de">Sannt Lutzi</orgName>
             <event type="end" when="1806">
               <p/>
             </event>
@@ -29341,7 +29534,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2026-09-15T13:11:43+02:00">teiHeader was automatically produced from the database 2026-09-15T13:11:43+02:00</change>
+      <change when="2026-09-22T16:48:12+02:00">teiHeader was automatically produced from the database 2026-09-22T16:48:12+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1239">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung von Gütern in Eschen, Gamprin und Ruggell</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <p>Bei zahlreichen Nennungen von Anstössern wurden nachträglich, wohl anlässlich einer Neuverleihung der Güter Ende 16., Anfang 17. Jahrhundert, oberhalb der Zeile neue Namen eingetragen.</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1239">CH-BAC, 015.2906</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 10. November 1572 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abt Christian Ganzmann und der Konvent des Kloster St. Luzi verleihen Hans Wanger von Bendern und Rudolf Marxer von Schönabüel für 17 Jahre gegen einen Zins von 3 Scheffeln 3 Vierteln Weizen, 5 Scheffeln Korn, 2,5 Schilling, 12,5 Eiern und 10 Fudern Mist folgende Güter in Eschen, Gamprin und Ruggell: zwei Äcker auf der Güggelhala, einen Acker im Bölsfeld, einen Acker im Benderer Feld, einen Acker und ein Stück Land auf Platz, einen Acker auf dem Heida, die Brendlesbünt, ein Stück Riedland im Erler, das Broggmeder, eine Wiese beim Seele, eine Wiese auf dem Rain, eine Wiese im Tentschagraba, eine Wiese in Nendeln sowie zwei Wiesen in Bangs.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-408">bretscha</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-331">Getreide</term>
+          <term ref="lub-keywords-468">Eier</term>
+          <term ref="lub-keywords-173">Mist</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1572-11-10">10. Nov 1572</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-823">Wanger, Hans (5)</persName>
+          <date when="1572-11-10">10. Nov 1572</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-1087">Marxer, Rudolf (2)</persName>
+          <date when="1572-11-10">10. Nov 1572</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2906-0001.jpg" xml:id="lub-media-3959" source="platzhalter-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3959" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-1065">Cristanus</persName>, von gottlicher verhennckhnus abbte, unnd convendt gemainlich des gottshaus <orgName ref="lub-actors-337">Sanndt Lutzi</orgName>, <gap/> der statt <placeName ref="lub-places-102">Chuer</placeName> gelegen, <orgName ref="lub-actors-1191">Premonnstrator</orgName> ordenns, thuennd kundt allermenigclich unnd 
+<lb n="2"/>bekhennen offennlich mit disem brief, das wir samenndtlich unnd ainhelligclich mit guettem vorbehalten, wolbedachtem rathe unnd r<supplied>e</supplied>chtem wissen umb gemelts, unnsers gotzhaus, pessern nutz unnd notturfft willen fuer unns unnd alle unnsers gotzhaus nach
+<lb break="no" n="3"/>khomen zum crefftig unnd bestenndigisten aller gaistlichen unnd wel<unclear>tl</unclear>ichen gerichten unnd lanndtsgewonnhaitten gelichen unnd verlichen haben, leichen unnd verleichen also recht unnd redlich in crafft dis briefs den erbern <persName ref="lub-actors-823">Hannsen Wannger
+<lb n="4"/>dem jungen</persName> von <placeName ref="lub-places-36">Benndern</placeName> unnd <persName ref="lub-actors-1087">Ruedolffen Marxer</persName> von <placeName ref="lub-places-207">Schonennbuel</placeName>, auch allen iren erben unnd nachkhomen nemlich unnsers gotshaus aigne, hernach gemelte stuck unnd guetter, die alle in <placeName ref="lub-places-36">Bennderer</placeName> unnd <placeName ref="lub-places-35">Eschner</placeName> kilspeler gelegen: des ersten ain ackher, 
+<lb n="5"/>genannt <placeName ref="lub-places-988">Gugelhalden</placeName>, stost zur ersten seitten an <persName ref="lub-actors-821">Hannsen Knabennkhnecht</persName><note>Über der Zeile: <persName ref="lub-actors-2761">Josen</persName>.</note> unnd zu den anndern drei seitten an die allmain, mer ain ackher auf <placeName ref="lub-places-988">Gugelhalden</placeName>, stost zur ersten seitten an <persName ref="lub-actors-756">Hanns Struben</persName>, zur anndern an <persName ref="lub-actors-965">Hanns Thoni</persName>, zur dritten an die allmain, mer ain ackher 
+<lb n="6"/>in <placeName ref="lub-places-431">Buls Veld</placeName> gelegen, stost zur ersten seitten an die lanndtstras, zur annd<supplied>e</supplied>rn an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-1744">Hanns Gstöll</persName><note>Über der Zeile: <unclear><persName ref="lub-actors-948">Raffael Paulin</persName></unclear>.</note> zu lechen innhat, zur dritten an <persName ref="lub-actors-2762">Gretha Vetz<unclear>erin</unclear></persName><note>Über der Zeile: nicht lesbarer Name.</note>, mer ain ackher, in <placeName ref="lub-places-404">Bennderer Veld</placeName> gelegen, stost zur ersten seitten an <persName ref="lub-actors-65">Petter Brendlis</persName><note>Über der Zeile: Hansen <gap/>.</note> 
+<lb n="7"/>seligen erben guet, zur anndern an <persName ref="lub-actors-964">Lutzen Brenndli</persName><note>Über der Zeile: <persName ref="lub-actors-1105">Jacob Alg<unclear>eur</unclear></persName>.</note>, zur dritten an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-964">Lutz Brenndli</persName><note>Über der Zeile: unlesbarer Name.</note> zu lechen innhat, unnd zur vierten an <persName ref="lub-actors-1129">Haug Knabennkhnecht</persName><note>Über der Zeile: <persName ref="lub-actors-2761">Jos</persName>.</note>, mer ain ackher, <placeName ref="lub-places-403">auf Platz</placeName> gelegen, stost zur ersten seitten an die lanndtstras, zur anndern 
+<lb n="8"/>an unnsers gotzhaus aigen guet, zur dritten an <persName ref="lub-actors-2763">Franntzischg Schreibers</persName><note>Über der Zeile: Andres <gap/>.</note> erben weingarten, zur vierdten an <persName ref="lub-actors-1677">Petter Wanngner</persName> unnd sein hausfrow unnd zur funfften an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-1744">Hanns Gstöll</persName><note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName>.</note> zu lechen innhat, mer ain ackher auf dem 
+<lb n="9"/><placeName ref="lub-places-987">Haiden</placeName> gelegen, stost zur ersten seitten an <persName ref="lub-actors-1677">Petter Wanngers</persName> guet, zur a<unclear>nn</unclear>dern an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-1744">Hanns Gstöll</persName><note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName>.</note> zu lechen innhat, zur dritten an <persName ref="lub-actors-964">Lutzen Brenndli</persName><note>Über der Zeile: <persName ref="lub-actors-1201">Gab<unclear>riel</unclear> Walchen</persName>.</note>, mer ain stuckhe guet, genannt <placeName ref="lub-places-847">Brenndlis Peundt</placeName>, stost zur ersten seitten 
+<lb n="10"/>an <persName ref="lub-actors-1717">Hannsen Gstöls</persName> von <placeName ref="lub-places-207">Schonennbuel</placeName> guet<note>Am Rand: <gap/> gotzhaus eigne <gap/>, so <persName ref="lub-actors-948">Raffael Paulin</persName> <gap/> leen inhat.</note>, zur anndern an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-1717">Petter Gstöll</persName><note>Über der Zeile: <persName ref="lub-actors-1673">Ballas Örin</persName>.</note> innhat, zur dritten an <persName ref="lub-actors-965">Hannsen Toni</persName>, zur vierdten an die lanndtstras, zur fünfften an <persName ref="lub-actors-964">Lutz Brenndlis</persName><note>Über der Zeile: <persName ref="lub-actors-1673">Ballas Örin</persName>.</note> lechen, mer ain manmad <objectName ref="lub-keywords-408">pritschen</objectName> im <placeName ref="lub-places-115">Eerler</placeName> 
+<lb n="11"/>gelegen, stost zur ersten seitten an <persName ref="lub-actors-2765">Hanns Gstöls</persName> erben<note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName>.</note> lechen guet, zur anndern an <persName ref="lub-actors-964">Lutz Brenndlis</persName> und <persName ref="lub-actors-1744">Hanns Gstols</persName><note>Über der Zeile: <persName ref="lub-actors-2766">Jacob Mendlin</persName> und <persName ref="lub-actors-70">Fabiann Hasler</persName>.</note> guet, zur dritten an <persName ref="lub-actors-2767">Ulrich Mayer</persName><note>Über der Zeile: <persName ref="lub-actors-2768">Andre<gap/></persName>.</note>, zur vierdten an der herrschafft guet, mer ain manmad, genannt das <placeName ref="lub-places-989">Prugg Mad</placeName>, stost zur ersten seitten an <persName ref="lub-actors-1686">Lutz Signer</persName><note>Über der Zeile: <persName ref="lub-actors-948">Rap<gap/>ael Paulin</persName>.</note> 
+<lb n="12"/>unnd <persName ref="lub-actors-1114">Marx Vetzers</persName> erben<note>Über der Zeile: <persName ref="lub-actors-965">Hansen Döni</persName>.</note>, mer ain manmad auf dem <placeName ref="lub-places-853">Seele</placeName>, stost zur ain<unclear>en</unclear> seitten <persName ref="lub-actors-2769">Wolf Wolwennden</persName> erben<note>Über der Zeile: an <persName ref="lub-actors-1677">Peter Wanger</persName>.</note>, zu den zwayen seitten an annder unnsers gotzhaus aigen guet, <gap/> <persName ref="lub-actors-964">Lutz Brenndli</persName> zu lechen innhat<note>Über der Zeile: <gap/> Walch und <persName ref="lub-actors-756">Hans Straub</persName>.</note>, mer zway manmad auf dem <placeName ref="lub-places-977">Rein</placeName> gelegen, stossen 
+<lb n="13"/>zu ainer seitten an annder des gotzhaus aigen guet, so <persName ref="lub-actors-964">Lutz Brenndli</persName><note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName> und <persName ref="lub-actors-965">Han<gap/> Duni</persName>.</note> zu l<supplied>e</supplied>chen innhat, zur anndern an die allmain, zur dritten an den <placeName ref="lub-places-977">Rein</placeName>, mer ain manmad im <placeName ref="lub-places-165">Tonntschengraben</placeName> gelegen, stost zur ersten seitten an <persName ref="lub-actors-1129">Haug Knabennkhnecht</persName><note>Über der Zeile: <persName ref="lub-actors-2771">Steffa Hasler</persName>.</note>, zur anndern an <persName ref="lub-actors-1736">Wolf <unclear>Her-</unclear>
+  <lb n="14"/>warts</persName><note>Über der Zeile: Crista <gap/>.</note> aigen guet, zur dritten an annder unnsers gotzhaus aigen guet, <unclear>so</unclear> <persName ref="lub-actors-1717">Petter Gstöll</persName><note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName>.</note> zu lechen innhat, mer ain strowe mad, zue <placeName ref="lub-places-118">Änndlen</placeName> gelegen, stost zur ersten seitten an die allmain, zur anndern an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-964">Lutz Brenndli</persName><note>Über der Zeile: <persName ref="lub-actors-756">Hans Straub</persName>.</note> 
+          <lb n="15"/>zu lechen innhat, zur dritten an des <persName ref="lub-actors-2772">Pfefferlins</persName><note>Über der Zeile: <persName ref="lub-actors-1763"><unclear>U</unclear>lli Sentis</persName>.</note> erben zue <placeName ref="lub-places-118">Änndlen</placeName>, zur vierten an <persName ref="lub-actors-1743">Hannsen Hasler</persName> von <placeName ref="lub-places-36">Benndern</placeName><note>Über der Zeile: <persName ref="lub-actors-756">Strauben</persName> von <placeName ref="lub-places-207">Schönebüel</placeName>.</note>, mer ain manmad auf <placeName ref="lub-places-445">Bannx</placeName> gelegen, stost zur ersten seitten an der <orgName ref="lub-actors-2773">Wolwennden</orgName> guetter von <placeName ref="lub-places-2">Raggel</placeName>, zur anndern an <persName ref="lub-actors-1733">Jos Veren</persName><note>Über der Zeile: <persName ref="lub-actors-829">Hainrich</persName>.</note> unnd <persName ref="lub-actors-1701">Haug 
+<lb n="16"/>Wanngners</persName> guet, zur dritten an <persName ref="lub-actors-2678">Velix Spalten</persName> erben, zur vierdten an <persName ref="lub-actors-2774">Ha<supplied>n</supplied>nsen Raingers</persName> erben, mer ain manmad auf <placeName ref="lub-places-445">Bannx</placeName> gelegen, stost zur ersten seitten an die <placeName ref="lub-places-386">Spurs</placeName>, zur anndern an <persName ref="lub-actors-2775">Ulrich Köchli</persName>, zur dritten an die <orgName ref="lub-actors-2773">Wolwennden</orgName> zu <placeName ref="lub-places-2">Raggel</placeName>, zur vierten 
+          <lb n="17"/>an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-964">Lutz Brenndli</persName><note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName>.</note> zu lechen innhat, item mer unnd letstlich ain stuckhe <placeName ref="lub-places-403">auf Platz</placeName> gelegen, stost zur ersten seitten an annder unnsers gotzhaus aigen guet, so <persName ref="lub-actors-1744">Hanns Gstöll</persName><note>Über der Zeile: <persName ref="lub-actors-948">Raffael Paulin</persName>.</note> zu lechen innhat, zur anndern an der 
+          <lb n="18"/>herrschafft guet, zur dritten an <persName ref="lub-actors-965">Hannsen Toni</persName> unnd zur vierdten an <persName ref="lub-actors-2760">Steffan Wernner</persName><note>Über der Zeile: <persName ref="lub-actors-1704">J<unclear>osen</unclear> Misner</persName>.</note>), alles unnd yedes mit steeg, weeg, wun, waid, pomen, zweyen, wilde unnd zame reben, rebstall oder rebgetzimber, auch mit holtz, veld, wasser, 
+<lb n="19"/>wasserlaittinen unnd allen anndern rechten, nutzen, fruchten, gue<unclear>t</unclear>ten gewonnhaitten, begreiffungen unnd zuegehörden auf sibenntzechen jar lanng, die nechsten von dato dis briefs aufainannder volgennde, aus sonndern gnaden unnd von kainer ge
+<lb break="no" n="20"/>rechtigkhait wegen unnd nemlich das sy sich unnd iren erben damit unnd dardurch kainer gewe<unclear>e</unclear>r, posess noch aigendthumblichen inganngs gebrauchen noch behelffen sö<gap/>, von newem widerumb verlichen haben also unnd mit dem lauttern
+<lb n="21"/>geding, das sy unnd ire erben die vorbestimbten stuckh, hof unnd guetter sollen unnd mugen die bestimbten sibenntzechen jar, von dato antzueraitten unnd nit weitter no<unclear>ch</unclear> lennger, innhaben, pawen, prauchen, nutzen unnd niessen als anndere ire aigne guetter, 
+<lb n="22"/>doch die darneben in guetten, wesennlichen pewlichen eeren aufenndthalten unnd haben mit paw, zeunen, reutten unnd aller annderer notturfftigkhait, wie s<gap/> das yeder zeit eraischet und geburt, unnd nemlich die sambt noch sonnders 
+<lb n="23"/>nit verkhauffen, versetzen, vertauschen, sonnder allerding unbeschwerd<unclear>t</unclear>, unverpfenndt unnd unbeladen, dann auch kainen ungewonnlichen newen weeg <unclear>d</unclear>urch die guetter machen noch gon lassen. Sy sollen noch wellen auch von der wilde 
+<lb n="24"/>noch zame pöm one unnser unnd unnser nachkhomen erlaubtnus nit abhawen, ausgraben oder weeg nemen unnd auch benanntlichen unns unnd unnsers gotzhaus nachkhomen unnd desselben verwaltern von unnd ab vorgestimbten 
+<lb n="25"/>verlechneten stuckh unnd guettern zu rechtem jerlichen zins yedes j<unclear>ar</unclear>s auf <date when="--11-11">sanndt Marthins tag</date>, achttag vor oder nach ungevarlich, geen <placeName ref="lub-places-36">Benndern</placeName> in den pfarrhof aus ainer hannd unnd untzertrennt richten, geben unnd betzalen sollen nemlich drey schöffel 
+<lb n="26"/>unnd drew viertl waitzen unnd funf schöffel korn, alles guetz saubers waitzens unnd korn zins <placeName ref="lub-places-10">Veldkhircher</placeName> mes unnd drithalben schilling wagennfart, auch dreyzechenthalb ayr auf das österlich vesst unnd dann in zechen fueder paw, ain drittl 
+<lb n="27"/>in unnsers gotzhaus <placeName ref="lub-places-457">Kapf Weingartten</placeName>, alles guetter unnd geneme<gap/> werung zuanndtwurtten. Wurden aber gedachte lechenmayr unnd ire erben unns, abbt unnd convendt, oder unnsern nachkhomen die gestimbten zins auf zeil unnd tag, 
+<lb n="28"/>wie obsteet, one unnsern costen unnd schaden, nit geben unnd anndtwurtten, sonnder in disem unnd anndern hievorgeschribnen puncten seumig unnd manngelhafftig erscheinen wurden (das aber nit beschechen soll), alsdann so sind unns, abbt unnd convendt, 
+<lb n="29"/>auch unnsers gotzhaus nachkhomen, vorgeschribne unnd hingelichen stuckh unnd guetter widerumben ganntz ledig aigenndthumblichen haimbgevallen unnd vervallen, one irer erben unnd allermenigclichs von irenndtwegen irrung unnd widersprechen. 
+<lb n="30"/>Wir, abbt unnd convendt, oder unnser nachkhomen mugen auch alsdann die beruerten lechen stuckh unnd guetter widerumben verleichen oder selbs aignen, behalten, nutzen unnd niessen, als anndere unnsers gotzhaus aigne guetter. Unnd hierauf 
+<lb n="31"/>sollen unnd wöllen wir, mergenannter abbt unnd convenndt, auch all unnser nachkhomen beruerts gotzhaus, die vorgenannten sibenntzechen jar lanng, nach dato dis briefs antzeraitten, den dickhgemelten lehennsempfacher, auch iren erben unnd nach
+<lb break="no" n="32"/>khomen das beruert lechen mit allen stuckhen unnd guettern unnd denselben zuegehörd, wie obsteet, aufrichtigen ferttigen, weren unnd versprechen, an allen ennden unnd gerichten, gaistlichen unnd weltlichen, gegen menigclichem, so dickh inen das
+<lb n="33"/>nott ist, alweeg in unnserm unnd unnsers gotzhaus aignem costen unnd one iren schaden, bey guetten trewen, on all arglist, auftzug oder geverde. Unnd des zu warem unnd offem urkhundt haben wir, genannter abbt, unnserer abbtei innsigel 
+<lb n="34"/>unnd wir, die convendtualis, unnsers convenndts innsigel offennlich gehennckht an disen brief, der geben ist <origDate when="1572-11-10">an sanndt Marthins abennd nach Cristi, unnsers lieben herrn unnd seligmachers, gebürt getzelt funfftzechennhundert sibenntzig 
+<lb n="35"/>unnd zway jar</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

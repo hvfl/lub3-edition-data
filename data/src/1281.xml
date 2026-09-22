@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1281">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verkauf eines Zinses ab einem Haus im Brüel</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1281">CH-BAC, 016.3083</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1602 / Beschreibstoff: Pergament / Siegel: 1 Siegel, gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Hans Heeb und seine Frau Barbara Büchel sowie Andreas Alber und dessen Frau Katharina Stieger verkaufen einen Zins von 7,5 Gulden ab ihrem Haus, genannt der Brüel, sowie ab einem weiteren Gut an Simon Maurer, Abt von St. Luzi und Pfarrer von Bendern.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-30">Verkauf</term>
+          <term ref="lub-keywords-17">Zins</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-835">Heeb, Hans</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2802">Büchel, Barbara</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-827">Alber, Andreas</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2803">Stieger, Katharina</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-698">Brendle, Leonhard (2)</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-336">Maurer, Simon</persName>
+          <date when="1602-11-11">11. Nov 1602</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__016_3083-0001.jpg" xml:id="lub-media-3965" source="platzhalter-3.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3965" n="1"/><lb n="1"/>Wir nachbenandte, mitt nammen <persName ref="lub-actors-835">Hans Hew</persName> undt <persName ref="lub-actors-2802">Barbara Büchlin</persName>, mein eheliche haußfraw, <persName ref="lub-actors-827">Andres Alber</persName> undt <persName ref="lub-actors-2803">Catharina Stigerin</persName>, auch mein eheliche 
+<lb n="2"/>haußfraw, bekennen undt thuen kundt offenbar aller männiglich mitt disem brieff für unß, unsere erben undt nachkommen, die wir hierzue festiglich verbinden, 
+<lb n="3"/>das wir mitt gueten, freien willen, wissentlich undt wohlbedächtlich, besonder mitt handt des ehrsamen undt weisen <persName ref="lub-actors-698">Leonhardt Brendlin</persName>, diser zeitt landt
+<lb break="no" n="4"/>amman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, dem hochehrwürdigen undt gaistlichen hern <persName ref="lub-actors-336">Simoni Maurer</persName>, erwöhlten abten des gotteshauß <persName ref="lub-actors-337">Sancti Lucy</persName> undt
+<lb n="5"/>pharhern zue <placeName ref="lub-places-36">Bendern</placeName>, auch allen seinen nochkommen erstgesagts gottshau<unclear>ß</unclear> <placeName ref="lub-places-36">Bendern</placeName> umb einhundert undt fünffzig gülden gelts gueter undt genemmer 
+<lb n="6"/><placeName ref="lub-places-163">Veldkircher</placeName> landtswehrung, unß von ihm also bar ehrbarlich außgericht undt bezahlt, daran wir unß wohl benüegen, eines auffrechten, redlichen, stäten kauffs 
+<lb n="7"/>verkaufft undt jetz wissentlich in crafft dis brieffs zukauffen geben haben namblich achthalben gulden gelts obgeschribner wehrung recht, järlichs 
+<lb n="8"/>zinß undt gelts von, ausser undt ab unserm hauß undt hoffstatt, der <placeName ref="lub-places-1010">Briel</placeName> genandt, in <placeName ref="lub-places-36">Benderer</placeName> kirchspiel gelegen, so vormahl <persName ref="lub-actors-1748">Georg Öry</persName> eingehabt, 
+<lb n="9"/>stost erstlich ahn die landtstraß, gegen dem <placeName ref="lub-places-103">Rhein</placeName> ahn <persName ref="lub-actors-1703">Dieboldt Netschern</persName>, auffwerth ahn <persName ref="lub-actors-1704">Jos Müßners</persName> biel, zu der andern seiten ahn die <placeName ref="lub-places-886">Cratzern</placeName> undt 
+<lb n="10"/>letzstlichen ahn <persName ref="lub-actors-2804">Sebastian Wagners</persName> guet, das <placeName ref="lub-places-1011"><unclear>T</unclear>hal</placeName> genandt, item ab dem gantzen guet, so <persName ref="lub-actors-1729">Adam Hew</persName> von <persName ref="lub-actors-1083">Jacob Öry</persName> erkaufft undt <unclear>ich</unclear>, <persName ref="lub-actors-827">And<unclear>res</unclear> Alber</persName>, 
+<lb n="11"/>jetzundt einhabe undt besitze, alles ab grundt, grad, feld, wasen, wun, weid, stock, stain, gesteüdt, gereüdt, gengen, stegen, wegen undt gemainlich 
+<lb n="12"/>ab allen andern vorgemelter underpfanden rechten undt zugehörungen für frei, ledig, unversetzt undt eigen. Dorumben sollen undt wöllen wir, auch alle 
+<lb n="13"/>unsere erben undt nachkommen oder wer vorgeschribene underpfandt immer noch unß besitzen, nutzen undt brauchen würdt, obgedachten zinß, der achthalben gulden 
+<lb n="14"/>gelts, mehrgenandten keüffern oder <unclear>d</unclear>essen nachkommen nuhn hinführo ewiglich undt alle jahr jährlich auff <date when="--11-11">st. Martins tag</date>, acht tag vor oder nach 
+<lb n="15"/>ungefehrlich, güetlich verzinsen, auch zu ieren sichern handen undt gewalt, für aller männiglichs verhefften, verbieten undt endtwehren, uberantworten undt 
+<lb n="16"/>zustellen, ohn allen ieren costen undt schaden. Wan undt welches jahr aber das also nitt beschehe, so sein obgemeltem hern keüffern oder dessen nach
+<lb break="no" n="17"/>kommen obengeschribne underphandt, in ieren bestimbten marcken begriffen, gantz zinßfällig worden undt mitt allen ieren zugehörungen zu einem ewigen
+<lb n="18"/>aigenthumb immer heimgefallen undt verfallen, ohn männiglich verhinderung undt widersprechen. Undt diß ewigen, redlichen kauffs umb zinßfällig, auch für alle 
+<lb n="19"/>abgäng undt minderung der obgeschribnen underpfandt, auch hauptguet, zinß undt schaden, sollen undt wöllen wir, die verkeuffer, au<unclear>ch</unclear> alle unsere erben 
+<lb n="20"/>undt nachkommen, mehr besagten hern keüffern undt dessen nachkommen recht, guet, cräfftig undt getrewlich gewehren, au<unclear>ch</unclear> fürsteher undt versprecher 
+<lb n="21"/>gegen aller männiglich sein (doch noch beeder seits außtrucklichen gethoner abred ahn keinem andern ort alß allein vor der oberkeitt, au<unclear>ch</unclear> richter undt 
+<lb n="22"/>gericht, dorunder dise underpfandt gelegen), wie recht undt billich ist, jederzeitt in unserm eignen costen, ohn ieren schaden, alß offt sie das nottü<gap/>
+<lb break="no" n="23"/>tig werden, bey gueter trewen, ohn alle widerred, außzug undt geverde. Wiewohl auch sonst diser brieff ein ewigen kauff außweist, nichs desto weni
+<lb break="no" n="24"/>ger mögen wir, die verkeüffer, auch alle unsere erben undt nachkommen den obgeschribnen zinß von dem hern keüffern oder dessen nachkommen
+<lb n="25"/>wohl widerumb kauffen undt ablösen, nuhn hinführo uber kurtz oder lange zeitt, welches jahr wir wöllen, doch vor zinßfahl undt auff <date when="--11-11">st. Martins 
+<lb n="26"/>tag</date>, acht tag vor oder nach ungefahrlich, sammethafft mitt der obgeschribnen hauptsumma undt allwegen mitt verfallenen austehenden zinsen, au<unclear>ch</unclear> 
+<lb n="27"/>costen und schaden, ob einige redlicher weiß darüber gangen weren, in müntz undt wehrschafft, daran sie kein verlust noch abgang haben, alles getrew
+<lb break="no" n="28"/>lich. Dessen zue wahren urkundt haben wir, die verkeüffer, mitt vleiß gebetten undt erbetten zuahnfangs genandten amman <persName ref="lub-actors-698">Leonhardt Brendlin</persName>,
+<lb n="29"/>das er <unclear>sein eigen</unclear> insigel (doch ihm, seinen erben undt nachkommen ohn schaden) offentlich gehenckt hatt ahn disen brieff, der geben ahn <origDate when="1602-11-11">st. 
+<lb n="30"/>Martins tag ihm sechzehenhundersten undt andern jahr</origDate>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

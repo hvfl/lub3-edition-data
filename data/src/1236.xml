@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1236">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung von Gütern in der Herrschaft Schellenberg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1236">CH-BAC, 015.2884</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 20. Juni 1586 / Beschreibstoff: Pergament / Siegel: 2 Siegel, 1. fehlt, 2. gut erhalten</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abt Georg und der Konvent des Klosters St. Luzi verleihen Gabriel Walch, sesshaft in Eschen, und dessen Frau Emerita Huttler für 20 Jahre gegen einen Lehenzins von 8,5 Scheffeln und einem halben Viertel Weizen, 13,5 Scheffeln Korn, 1 Viertel Bohnen, 10 Schilling Pfennig und 50 Eiern folgende Güter in der Herrschaft Schellenberg: die Brendlesbünt, eine Bünt in Etschetlina, einen Acker am Wellenberg, einen Acker auf Platz, zwei Äcker im Benderer Feld, einen Acker hinter dem Platzer, ein Gut auf Krest, ein Gehölz auf dem Stig, ein Gehölz auf dem Krestböchel, ein Stück Riedland im Erler, ein Gut im Rietle, ein Stück Riedland beim Seele, eine Wiese auf dem Rain, zwei Wiesen in Bangs, ein Gut in Wedem, das Broggmeder (?), eine Wiese beim Erlabach und einen Acker in Heida.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-331">Getreide</term>
+          <term ref="lub-keywords-469">Bohnen</term>
+          <term ref="lub-keywords-468">Eier</term>
+          <term ref="lub-keywords-408">bretscha</term>
+          <term ref="lub-keywords-466">widem</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-17">Huttler, Hieronymus</persName>
+          <date when="1586-06-20">20. Jun 1586</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-1201">Walch, Gabriel</persName>
+          <date when="1586-06-20">20. Jun 1586</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2750">Huttler, Emerita</persName>
+          <date when="1586-05-20">20. Mai 1586</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_2884-0001.jpg" xml:id="lub-media-3952" source="platzhalter-2.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3952" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-17">Jeronimus</persName>, von gottes verhenckhnus abbte, unnd gemainer convennt des gottshauß <orgName ref="lub-actors-337">Sannt L</orgName><gap/> der statt <placeName ref="lub-places-102">Chür</placeName> gelegen, <persName ref="lub-actors-1191">Premanstrater</persName> ordins, bekhennen 
+<lb n="2"/>unnd thuen khundt menigkhlichem mit disem brief, das wier für unns, unnsere nachkhommen unnd unnser gottßhauß dem erbaren <persName ref="lub-actors-1201">Gabriel Walchen</persName>, seßhafft zu <placeName ref="lub-places-35">Eschen</placeName>, und <persName ref="lub-actors-2750">E<gap/> Huttleri</persName>, seiner ehelichen hausfrawen, unnd allen iren erban unsers 
+<lb n="3"/>gottßhaus nachgemelte aigne stuckh unnd güettern, wie die von item zu item begriffen seind, in der herrschafft <placeName ref="lub-places-11">Schellennberg</placeName> gelegen, zwaintzig jar lanng nach dato ditz briefs <gap/> <supplied>l</supplied>ennger, aufrecht und redlichen hingelichen unnd verlichen haben, verleichen 
+<lb n="4"/>inen auch die hiemit wißenntlich in crafft ditz briefs: Nemblichen unnd des ersten ain bündt, genant <placeName ref="lub-places-847">Brenndlis Beündt</placeName>, stost vornnen gegem <placeName ref="lub-places-103">Rein</placeName> aman <persName ref="lub-actors-165">Hans Öri</persName> unnd an <placeName ref="lub-places-978">Capp<gap/>ingart</placeName>, gegen <placeName ref="lub-places-35">Eschen</placeName> der lanngen seiten nach an <persName ref="lub-actors-698">Leönnhart Brenndli</persName>, gegem berg 
+<lb n="5"/>an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, so <persName ref="lub-actors-1717">Petter Gstöl</persName> inhat, außwert <unclear>geg</unclear>en des <persName ref="lub-actors-756">Strauben</persName> haus ans bomgertli, item ain bündtli in <placeName ref="lub-places-849">Eschettlina</placeName>, stost zur ersten seiten in die lanndtstras, zur annderen <gap/> <persName ref="lub-actors-1129">Khnabenkhnecht</persName>, zur driten an <persName ref="lub-actors-698">Leonnhart Brenndli</persName>, zur viertten an <persName ref="lub-actors-337">Sannt 
+<lb n="6"/>Lutzis</persName> guet, so <persName ref="lub-actors-1717">Petter Gstöl</persName> inhat, item drew jauchart ackher, auf <placeName ref="lub-places-402">Wellenberg</placeName> gelegen, stost ufwert gegem berg an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet unnd an die allmain, hinden zue an <persName ref="lub-actors-1677">Pett<gap/> Wangner</persName>, unnden zu aber an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, vornnen zu an <persName ref="lub-actors-965">Hans Thönis</persName> 
+<lb n="7"/>aigen guet, item zwen juchert ackher, <placeName ref="lub-places-403">auf Blatz</placeName> gelegen, stoßenndt zur ersten seiten an die lanndtstras, zur anndern an der herrschafft guet, zur driten an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, so <persName ref="lub-actors-965">Hanns <gap/>höni</persName> inhat, zur viertten seiten an <persName ref="lub-actors-1129">Haug Khnabenkhnecht</persName> und <persName ref="lub-actors-698">Leonnhart Brendli</persName> 
+<lb n="8"/>unnd zür fünfften an <persName ref="lub-actors-1677">Petter Wanngners</persName> stadelhofstatt, item ain jauchart ackher, in <placeName ref="lub-places-404">Bennderer Veld</placeName> gelegen, stost zur ainen seitten an <persName ref="lub-actors-810">Jeörgen Maurer</persName>, zür annderen an <persName ref="lub-actors-1129">Haug Khnabenkhnecht</persName>, zur dritten an der herrschafft weingartten, auch <persName ref="lub-actors-2154">Petter Wolwenden</persName>, 
+<lb n="9"/><persName ref="lub-actors-823">Hannßen Wanngner</persName> und <persName ref="lub-actors-1129">Haug Khnabenkhnecht</persName>, unnd zur viertten an <persName ref="lub-actors-2203">Hans Marxer</persName> und <persName ref="lub-actors-1734">Christa Mader</persName>, item zwo jauchart ackher, auch in <placeName ref="lub-places-404">Bennderer Veld</placeName> gelegen, stoßenndt an der herrchafft guet, so aman <persName ref="lub-actors-165">Hans Öri</persName> inhat, obnen an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, so <persName ref="lub-actors-965">Hans 
+<lb n="10"/>Thöni</persName> inhat, hinden zu an der pfrund von <placeName ref="lub-places-36">Bennderen</placeName> guet, unnden zu an <persName ref="lub-actors-756">Hans Strauben</persName> und <persName ref="lub-actors-1734">Crista Mader</persName>, item mer ain jauchert ackher, hinder dem <placeName ref="lub-places-623">Blatzer</placeName> gelegen, stost oben an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, so <persName ref="lub-actors-1085">Ruedolf Maders</persName> erben innhond, hinden zu an <persName ref="lub-actors-1714">Hans Mader</persName> und <persName ref="lub-actors-1677">Petter 
+<lb n="11"/>Wanngner</persName>, unnden zu an <persName ref="lub-actors-1100">Jeörg Walßer</persName>, vornnen an <persName ref="lub-actors-965">Hans Thöni</persName>, so ain weingart ist, item mer ain stückhli guet, uf <placeName ref="lub-places-858">Crist</placeName> gelegen, stost obnen an <placeName ref="lub-places-975">Crist Büchel</placeName>, unnden an <persName ref="lub-actors-698">Leonhart Brenndli</persName> unnd <persName ref="lub-actors-1105">Jacob Allgewern</persName>, vornnen zu an <persName ref="lub-actors-1714">Hanns Mader</persName> unnd <persName ref="lub-actors-1677">Petter Wagner</persName>, item 
+<lb n="12"/>ain stückhli studen, uf dem <placeName ref="lub-places-976">Steyg</placeName> gelegen, stost an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, so <persName ref="lub-actors-965">Hans Thöni</persName> inhat, unnden an <persName ref="lub-actors-1129">Haug Khnabenkhnecht</persName>, item ain stuckh staudn, im <placeName ref="lub-places-975">Christ Büchel</placeName> gelegen, stost allenthalben an die allmain, item mer zway mansmad <objectName ref="lub-keywords-408">brittschen</objectName>, im <placeName ref="lub-places-115">Erler</placeName> gelegen, stost obnen an 
+<lb n="13"/>der pfrund von <placeName ref="lub-places-35">Eschen</placeName> <objectName ref="lub-keywords-408">brittschen</objectName>, zur annderen seiten an <persName ref="lub-actors-698">Leönhart Brenndli</persName>, zur driten an der herrschafft und der <persName ref="lub-actors-2671">closterherren von <unclear>Vel</unclear>dtkhirch</persName>, unnden zu an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, so <persName ref="lub-actors-1717">Petter Gstöl</persName> inhat, nebenzu an <persName ref="lub-actors-1122">Hanns Haßler</persName>, item ain stuckh guet, in <placeName ref="lub-places-1027">Ruedlis</placeName> gelegen, stost 
+<lb n="14"/>unnden zue an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, das die <persName ref="lub-actors-1557">Mader</persName> innhaben, zur annderen seiten an <persName ref="lub-actors-1744">Hans Gstölen</persName>, zur driten an <persName ref="lub-actors-337">Sant Lutzis</persName> guet, so <persName ref="lub-actors-965"><unclear>H</unclear>ans Thöni</persName> inhat, unnd zur viertten seiten aber an <persName ref="lub-actors-337">Sant Lutzis</persName> gueth, so <persName ref="lub-actors-2751">Hanns Hemerli</persName> inhat, item vier manmad ried, auf dem <placeName ref="lub-places-853">Seele</placeName> gelegen, 
+<lb n="15"/>stoßenndt an die allmain, unnden an <persName ref="lub-actors-810">Jeörg Maurer</persName> und <persName ref="lub-actors-823">Hans Wagner</persName>, an <persName ref="lub-actors-337">Sannt Lutzis</persName> guet, <persName ref="lub-actors-965">Hans Thöni</persName> inhat, gegen <placeName ref="lub-places-36">Bennderen</placeName> an <persName ref="lub-actors-1697">Lienhard Blaickner</persName>, obnen an <persName ref="lub-actors-1677">Petter Wangner</persName>, item acht manßmad, gelegen uf dem <placeName ref="lub-places-977">Rein</placeName>, stoßenndt obnen zu an die herrschafft, 
+<lb n="16"/>gegem berg an die allmain, unnden an <persName ref="lub-actors-337">Sant Lutzis</persName> guet, so <persName ref="lub-actors-965">Hans Thöni</persName> inhat, item vier manßmad wyßen, uf <placeName ref="lub-places-445">Bannx</placeName> gelegen, stoßennd an die <placeName ref="lub-places-386">Spürs</placeName>, obnen an die <persName ref="lub-actors-2361">Haßler</persName>, gegem <placeName ref="lub-places-103">Rein</placeName> an die <persName ref="lub-actors-2752">Spalt</persName>, unnden zu an <persName ref="lub-actors-1732">Hans Alber</persName>, item abermallen vier manßmad wysen, 
+<lb n="17"/>uf <placeName ref="lub-places-445">Bannx</placeName> gelegen, stoßennd an die <placeName ref="lub-places-386">Spürs</placeName> und <persName ref="lub-actors-2753">Barthli Styger</persName>, item mer ain stuckher uf dem <placeName ref="lub-places-441">Wydem</placeName> gelegen, stoßt zur ersten seitten an der pfrunnd zu <placeName ref="lub-places-36">Bennderen</placeName> <objectName ref="lub-keywords-466">wydem</objectName>, zur annderen an <persName ref="lub-actors-1096">Hans Schwenndeli</persName>, zur driten an <persName ref="lub-actors-1085">Ruodolf Maders</persName> khinder unnd zur viertten 
+<lb n="18"/>an <persName ref="lub-actors-1122">Hans Haßler</persName>, item <unclear>drey</unclear> mannßmad, genant <placeName ref="lub-places-989">Burg<gap/><unclear>h</unclear>mad</placeName>, item mer ain strewi mad, bey dem <placeName ref="lub-places-611">Erler Brunen</placeName> gelegen, stost al<unclear>lenthalben</unclear> an die <placeName ref="lub-places-851"><unclear>Mi</unclear>ttel Wysen</placeName>, item ain stückhl<unclear>e</unclear> ackher, auf dem <placeName ref="lub-places-987">Haiden</placeName> gelegen, stost zur ersten seyten an <persName ref="lub-actors-1129">Haug Khnabenkhnecht</persName>, zu <gap/> 
+<lb n="19"/>seiten an <persName ref="lub-actors-337">Sant Lutzis</persName> guet unnd zur viertten seyten an der herrschafft weingartten, also mit <unclear>so</unclear>lchem geding, möge<gap/> <supplied>....</supplied>rüerte baide ehepersonnen als lehentragere unnd alle ire erben erzelte stuckh unnd gueteren zwaintzig jar lanng <gap/> 
+<lb n="20"/>dits briefs mit briefs mit bömmen, zwey, stöckhen, genngen, stegen, wegen unnd gemainlich mit allen annderen iren gerechtigkhaitten unnd zugehörden, benembten unnd unbenembten, inhaben, nutzen, nießen unnd brauchen als annder ir aigen gueth. Unnd von welchen leheng<gap/> 
+<lb n="21"/>gedachte lehens leüt unnd ire erben uns und unseren nachkhommen berüerte zwaintzig jar lanng unnd alle jar uf <date when="--11-11">sant Marthins, des hailligen bischoffs, tag</date>, achttag vor oder nach ungevarlich, gehen <placeName ref="lub-places-36">Bennderen</placeName> in den pfarhof richten und geben sollen nem<gap/> 
+<lb n="22"/>neündthalben schöfel unnd ain halb viertel waißen, vierzehenthalb schöffel khorn, ain viertel bonen, als guets, saubers wai<gap/> und khorn zinß, zehen schilling pfennig wagenfart, alles <placeName ref="lub-places-10">Veldtkhircher</placeName> meß unnd werung, unnnd fünfftzig aiger uf dz <unclear>oster</unclear> 
+<lb n="23"/>zeyt. Wurden aber sy, die lehenleüt, oder ire erben uns gemelten zinß auf zyl unnd tag, wie gehört, ohne unseren schaden nit anndtwurtten und geben, als dann so seind uns, unseren nachkhommen unnd unnserem gottßhauß beschribne güetter <unclear>wider</unclear> 
+<lb n="24"/>umb als zinsfellig haimbgevallen und vervallen, ohne ir, auch irer erben unnd allermenigkhlichs von iretwegen saumen, iren unnd wider sprechen, als dz wir vilber<gap/> güetter nach unnserem gevallen verleichen mügenndt. Wir <gap/> 
+<lb n="25"/>auch für unns, unnsere nachkhommen unnd unnser gottshauß den obgedachten lehens personen unnd iren erben umb dise verleichung der zwaintzig jar lanng oder <gap/> hernachvolgen würdet, guet, getrew, crefftig  gewehren, für<gap/> 
+<lb n="26"/>unnd versprecher sein vor dem richter unnd gericht, darunnder obgemelte stuckh unnd güetter gelegen, in unnserem aignen costen und ohne iren schaden, ahn geverde <gap/> würden unnd guetten trewen. Unnd wiewoll dise verleichung <gap/> 
+<lb n="27"/>anngeschrybne zwaintzig jar lanng unnd nicht weiter gestelt, so haben wir innen doch darzu bewilliget unnd dise gnad gethon, das, wover sich nach verschein<unclear>ung</unclear> <gap/> jaren befindt, das sy oder ire erben obberüerte stuckh unnd guette<gap/> 
+<lb n="28"/>in zeyt irer inhabung in siechern, ordenlichen bewen unnd ehren erhalten hetten unnd dieselbigen widerumben zubesteen und zuempfachen begeren <gap/> <gap/>ben erstattung unnd bezallung aines billichen erschatz voran, 
+<lb n="29"/>der leuten ervolgen unnd gelaßen werden unnd nichtzit destowenniger mit obgeschribnen innhalt vom annfang bis zum end in seinen crefften verpl<gap/>. Unnd <gap/> warm, offnem urkhund haben wier, obgenannter abbt <persName ref="lub-actors-17">Jero
+  <lb break="no" n="30"/>nimus</persName>, unnser abthen secret unnd wir, der convent, des convennts ynnsigel offennlich gehennckht an disen brief, der geben ist den <origDate when="1586-06-20">zwannzigisten tag junii des <gap/>ehenhundert sechß unnd achtzi<unclear>g</unclear>isten jars</origDate>.
+</p>
+        <p><lb n="31"/><supplied>Rückvermerk</supplied><lb n="32"/>Lehen-brüeff 
+<lb n="33"/>von dem löblichen gottshauß <persName ref="lub-actors-337">S. Lucii</persName> 
+<lb n="34"/>gegen 
+<lb n="35"/><persName ref="lub-actors-1201">Gabriel Walckhen</persName> zu <placeName ref="lub-places-35">Eschen</placeName> und <persName ref="lub-actors-2750">Emerita</persName>, seiner hausfrawen, 
+<lb n="36"/>wegen übergab etlicher lehen-güetter, in <placeName ref="lub-places-36">Benderer</placeName> und <placeName ref="lub-places-35">Eschner</placeName> 
+<lb n="37"/>kürchspühl gelegen, uff 20 jahr. 
+<lb n="38"/><gap/> <unclear>u</unclear>ff <date when="--11-11">Martini</date> 34 1/2 viertl waizen, 54 viertl koren, 
+<lb n="39"/><gap/> bohnen, 10 schilling wagenfahrt und auf den ostertag 50 ayr. 
+<lb n="40"/>Sub <persName ref="lub-actors-17">Hieronymo</persName> abbate <persName ref="lub-actors-337">S. Lucii</persName> anno <date when="1560">1560</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

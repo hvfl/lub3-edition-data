@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1243">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Verleihung von Gütern in Gamprin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1243">CH-BAC, 015.3000</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1588 / Beschreibstoff: Pergament / Siegel: 2 Siegel, fehlen</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Abt Hieronymus Huttler und der Konvent des Klosters St. Luzi verleihen Hans Öri, Ammann der Herrschaft Schellenberg, sesshaft in Rofaberg, und seiner Frau Margarethe Peter folgende Güter in Gamprin gegen einen Zins von 1 Scheffel Weizen, 12 Schilling und 40 Eiern als Erblehen: den Hof Langacker in Büel, die Breitstaud in der Kratzera und ein Stück Riedland unter dem Stig.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-408">bretscha</term>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-468">Eier</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-165">Öhri, Hans (4)</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="lub-actors-2789">Peter, Margarethe</persName>
+          <date when="1588-11-11">11. Nov 1588</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__015_3000-0001.jpg" xml:id="lub-media-3963" source="platzhalter-3.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3963" n="1"/><lb n="1"/>Wir, <persName ref="lub-actors-17">Hieronimus</persName>, abte, unnd wir, das gemain convent deß gotzhaus <orgName ref="lub-actors-337">Sannt Lutzi</orgName> ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <orgName ref="lub-actors-1191">Praemonstrator</orgName> ordens, bekhennen offennlich unnd khund thuen allermenigclich mit disem brieve, das wir ainmüetigclich, guts, wolbedachts synn 
+<lb n="2"/>unnd muths umb unnsers beßern nutz unnd notturfft willen für unns unnd alle unnsere nachkhomen vorgemelts gotzhauß <orgName ref="lub-actors-337">Sannt Lutzi</orgName> zu ainem rechten erblehen nach erblehens recht gelihen unnd verlihen haben 
+<lb n="3"/>dem ersamen unnd weysen <persName ref="lub-actors-165">Hannßen Öri</persName>, aman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName>, seßhafft auf <placeName ref="lub-places-31">Rauffennberg</placeName>, unnd <persName ref="lub-actors-2789">Margaretha Petterin</persName>, seiner ehlichen hausfrawen, auch iren baider khinder, die sy mit unnd beyainandern ehlichen 
+<lb n="4"/>erzeugt unnd noch ehlichen beyainandern erzeugen möchten, auch derselbigen leiblichen erben ymerdan vort ewigclich unnsere nachbenannte stuckh unnd güeter, in <placeName ref="lub-places-36">Bennderer</placeName> kilchspel gelegen: des ersten unnsern aignen hof, ge
+<lb break="no" n="5"/>nannt der <placeName ref="lub-places-1003">Lang Ackher</placeName>, zu <placeName ref="lub-places-651">Büel</placeName> gelegen, stoßt zur ainen seiten an <unclear>d</unclear>er <persName ref="lub-actors-2790">Vetzer</persName> büel, zur andern seiten an das gotzhauß <orgName ref="lub-actors-337">Sannt Lutzi</orgName> unnd <persName ref="lub-actors-1697">Leonnhart Blaichners</persName> guth, zur dritten seiten an <persName ref="lub-actors-1789">Hannß Strauben</persName> seligen unnd aber an gemelt gotzhaus
+<lb n="6"/>gut unnd zur vierten seiten an <persName ref="lub-actors-1079">Conradt Öris</persName> seligen erben unnd zur fünfften seiten aber an gemelte örische erben unnd der herrschafft guth, zur sechßten an dz <placeName ref="lub-places-1004">Höltzlis Bündt</placeName> unnd <persName ref="lub-actors-1706">Michael Öri</persName> unnd zur achten seiten an lanndtstras, 
+<lb n="7"/>die geen <placeName ref="lub-places-117">Schellenberg</placeName> geet, item ain ge<unclear>er</unclear>t stauden, in der <placeName ref="lub-places-886">Kratzern</placeName> gelegen, genanndt die <placeName ref="lub-places-1005">Braitstaud</placeName>, stoßt ußwert an <persName ref="lub-actors-1704">Joß Müßner</persName> unnd an die <persName ref="lub-actors-2361">Haßler</persName>, zur andern unnd dritten seiten an mergedachts gotzhaus guth unnd 
+<lb n="8"/>zur vierten an aman <persName ref="lub-actors-65">Brenndlins</persName> seligen erben, item unnd noch darzue ain stuckhe <objectName ref="lub-keywords-408">brittschen</objectName>, unnderm <placeName ref="lub-places-976">Steig</placeName> gelegen, stoßt zu dreyen seiten an <persName ref="lub-actors-1123">Vest Haßler</persName> unnd zur vierten seiten an <persName ref="lub-actors-1091">Barthlome Reyb<unclear>i</unclear></persName>, alles 
+<lb n="9"/>zinsfry, ledig, loß unnd gegen allermenigclich unverkhumbert, also unnd dergestalt, dz sye die vorgemelten stuckh unnd güetere mit grund, gradt, auch allen anndern iren rechten unnd zugehörden nuehinenthin nach erblehens recht 
+<lb n="10"/>in guten <unclear>b</unclear>ewlichen unnd wesenlichen ehren, unwuestlich unnd unzerthailt inhaben, brauchen, bawen, nutzen, nießen, besitzen unnd enndtsetzen, doch also unnd mit dem geding, das sye unnß unnd unnsers gotz
+<lb break="no" n="11"/>hauß nachkhomen nunfürohin ewigclich unnd alle jar jerlich auf <date when="--11-11">sannt Marthins, deß hayligen bischoffs, tag</date> oder im negsten monat darnach ohne alles verziehen geen <placeName ref="lub-places-36">Benndern</placeName> für allermenigclichs verhefften, verbieten
+<lb n="12"/>unnd ennndtweren anndtwurtten unnd geben sollen namblichen ain schöffel guts, saubers waißen <placeName ref="lub-places-10">Veldtkhircher</placeName> meß unnd zwelf schilling pfening an gelt unnd alwegen auf die ostern viertzig ayer. Wovern 
+<lb n="13"/>aber sye den gedachten ain schöffel waißen sowol auch die zw<unclear>e</unclear>lf schilling pfening an gelt unnd denn erstgemelte viertzig ayer jhe aines jars also auf <date when="--11-11">Marthini</date> ald den negsten monat darnach und dann auf genante osstern 
+<lb n="14"/>nit richten, anndtwurtten unnd geben, wie vorsteet, sonder darinne sömig erscheinen wurden, so sinnd unns unnd unnsern nachkhomen anstatt des gotzhauß <orgName ref="lub-actors-337">Sannt Lutzi</orgName> die gemelten stuckh unnd güetere dannenthin mit grund, 
+<lb n="15"/>gradt, auch allen anndern unnd zugehörden unnd erbeßertem recht unnd aigentlich gevallen unnd vervallen, ohne ir, auch allermenigclichs irren unnd widersprechen. Begebe es sich auch, dz vorgemelte eheleut, 
+<lb n="16"/>aman <persName ref="lub-actors-165">Hannß Öri</persName>, sein hausfraw, oder ire ehliche kinder, so sy beyainandern ehlichen erzeugt unnd noch überkhomen möchten, unnd alle derselben leibs erben, in massen obsteet, ire recht an gemelter lehenschafft der obbernanndten 
+<lb n="17"/>stuckh und gueter welten oder müeßten versetzen oder verkhauffen, so sollen sye unns dieselben vor allermenigclichem unnd zum ersten an- unnd failbieten unnd zu khauffen geben, ohn alle widerred. Imfahl aber 
+<lb n="18"/>wir oder unnsere nachkhomen dieselbigen innerhalb vier w<gap/>chen nit verpfennden oder kauffen wolten oder wurden, alßdann mögen sye solche wol versetzen unnd verkhauffen, weme sy wollen, doch unnß unnd dem gotzhauß, 
+<lb n="19"/>auch unnsern nachkhomen an deßen unnd unnsern rechten unnd gerechtigkhaiten in alweg ohne schedlich unnd unnachtheilig, alles getrewlich unnd ungevarlich. Unnd deß zu warem urkhundt haben wir, obgenannter abt, unnd  
+          <lb n="20"/>wir, dz convent, unnser aigen secret innsigl offennlich gehen<gap/>kht an disen briefe, der geben ist auf <origDate when="1588-11-11">sannt Marthins, deß hayligen bischoffs, tag nach Christi, unnsers lieben hern unnd seligmachers, geburt gezelt fünff
+<lb break="no" n="21"/>zehenhundert achzig und acht jar</origDate>.
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

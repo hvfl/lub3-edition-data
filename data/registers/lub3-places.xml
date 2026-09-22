@@ -17,7 +17,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-09-15 13:11:46 aus </p>
+        <p>Datenbankexport vom 2026-09-22 16:48:15 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3270,6 +3270,7 @@
             <placeName type="alternative" xml:lang="de">Änndlen</placeName>
             <placeName type="alternative" xml:lang="de">Endlen</placeName>
             <placeName type="alternative" xml:lang="de">Eintlen</placeName>
+            <placeName type="alternative" xml:lang="de">Nendlen</placeName>
             <location>
               <geo>47.19846 9.543</geo>
               <settlement xml:lang="de">Eschen</settlement>
@@ -20925,6 +20926,43 @@
               <country xml:lang="en">Liechtenstein</country>
             </location>
             <idno type="lub-places-id">974</idno>
+          </place><place type="T" xml:id="lub-places-975">
+            <placeName type="main" xml:lang="de">Krestböchel</placeName>
+            <placeName type="full" xml:lang="de">Krestböchel / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">krestboechel</placeName>
+            <placeName type="alternative" xml:lang="de">Crist Büchel</placeName>
+            <placeName type="alternative" xml:lang="de">Grischbichel</placeName>
+            <placeName type="alternative" xml:lang="de">Gröschbühel</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">975</idno>
+            <note type="description" xml:lang="de">
+              <p>Nicht im Namenbuch. Wohl der höchste Punkt im Gebiet Krest (Eschen/Gamprin).</p>
+            </note>
+          </place><place type="V" xml:id="lub-places-976">
+            <placeName type="main" xml:lang="de">Stig</placeName>
+            <placeName type="full" xml:lang="de">Stig / Eschen/Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">stig</placeName>
+            <placeName type="alternative" xml:lang="de">Steig</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen/Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">976</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wieshang nordwestlich des Dorfes Eschen, ob dem Schönabüel, an der Grenze zu Gamprin; langgezogener, schmaler Waldhang in Gamprin, an der Grenze zu Eschen.</p>
+            </note>
           </place><place type="V" xml:id="lub-places-977">
             <placeName type="main" xml:lang="de">Rain</placeName>
             <placeName type="full" xml:lang="de">Rain / Eschen</placeName>
@@ -21087,6 +21125,49 @@
             <idno type="lub-places-id">986</idno>
             <note type="description" xml:lang="de">
               <p>Unbekannt. In der Grossabünt.</p>
+            </note>
+          </place><place type="T" xml:id="lub-places-987">
+            <placeName type="main" xml:lang="de">Heida</placeName>
+            <placeName type="full" xml:lang="de">Heida / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">heida</placeName>
+            <placeName type="alternative" xml:lang="de">Haiden</placeName>
+            <location>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">987</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wieshang, früher Ackerland, nördlich des Dorfes Eschen, ob dem Bölsfeld, zwischen Gaschlun und Ebniteile, mit Bäumen und Sträuchern, leicht abfallend.</p>
+            </note>
+          </place><place type="V" xml:id="lub-places-988">
+            <placeName type="main" xml:lang="de">Güggelhala</placeName>
+            <placeName type="full" xml:lang="de">Güggelhala / Eschen</placeName>
+            <placeName type="sort" xml:lang="de">gueggelhala</placeName>
+            <placeName type="alternative" xml:lang="de">Gugelhalde</placeName>
+            <location>
+              <geo>47.22048 9.519722</geo>
+              <settlement xml:lang="de">Eschen</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">988</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wieshang und Strasse nördlich des Dorfes Eschen, an der Gemeindegrenze zu Gamprin, nordwestlich hinter dem Gebiet Boia.</p>
             </note>
           </place><place type="V" xml:id="lub-places-989">
             <placeName type="main" xml:lang="de">Broggmeder</placeName>
@@ -21259,6 +21340,62 @@
             <note type="description" xml:lang="de">
               <p>Wiesen, Häuser und Strasse nordwestlich des Gebiets Schlatt, an der Landstrasse.</p>
             </note>
+          </place><place type="V" xml:id="lub-places-1003">
+            <placeName type="main" xml:lang="de">Langacker</placeName>
+            <placeName type="full" xml:lang="de">Langacker / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">langacker</placeName>
+            <placeName type="alternative" xml:lang="de">Lang Acker</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">1003</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. Im Gebiet Büel, östlich der Kratzera.</p>
+            </note>
+          </place><place type="V" xml:id="lub-places-1004">
+            <placeName type="main" xml:lang="de">Hölzlebünt</placeName>
+            <placeName type="full" xml:lang="de">Hölzlebünt / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">hoelzlebuent</placeName>
+            <placeName type="alternative" xml:lang="de">Höltzlis Bünt</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">1004</idno>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Wiese und Wald in Gamprin, nördlich des Boia, an der Gemeindegrenze zu Ruggell.</p>
+            </note>
+          </place><place type="V" xml:id="lub-places-1005">
+            <placeName type="main" xml:lang="de">Breitstaud</placeName>
+            <placeName type="full" xml:lang="de">Breitstaud / Gamprin</placeName>
+            <placeName type="sort" xml:lang="de">breitstaud</placeName>
+            <placeName type="alternative" xml:lang="de">Braitstaud</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">1005</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. In der Kratzera.</p>
+            </note>
           </place><place type="R" xml:id="lub-places-1006">
             <placeName type="main" xml:lang="de">Klause</placeName>
             <placeName type="full" xml:lang="de">Klause / Lochau (Vorarlberg)</placeName>
@@ -21340,6 +21477,47 @@
             </note>
             <note type="description" xml:lang="de">
               <p>Wiesen und Hof in Gamprin, am Westrand des Studabergs, an der Ruggeller Strasse.</p>
+            </note>
+          </place><place type="S" xml:id="lub-places-1010">
+            <placeName type="main" xml:lang="de">Brüel (Gamprin/Ruggell)</placeName>
+            <placeName type="full" xml:lang="de">Brüel (Gamprin/Ruggell) / Gamprin/Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">brueel (gamprin/ruggell)</placeName>
+            <placeName type="alternative" xml:lang="de">briel</placeName>
+            <location>
+              <settlement xml:lang="de">Gamprin/Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">1010</idno>
+            <note type="description" xml:lang="de">
+              <p>Unbekannt. An Grenze zwischen Gamprin und Ruggell.</p>
+            </note>
+          </place><place type="S" xml:id="lub-places-1011">
+            <placeName type="main" xml:lang="de">Tal (Ruggell)</placeName>
+            <placeName type="full" xml:lang="de">Tal (Ruggell) / Ruggell</placeName>
+            <placeName type="sort" xml:lang="de">tal (ruggell)</placeName>
+            <placeName type="alternative" xml:lang="de">thal</placeName>
+            <location>
+              <geo>47.2315 9.52256</geo>
+              <settlement xml:lang="de">Ruggell</settlement>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="lub-places-id">1011</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/11750327"/>
+              </bibl>
+            </listBibl>
+            <note type="sources">
+              <listBibl>
+                <bibl>
+                  <ref target="https://www.namenbuch.li/Ortsnamen/Alle-Gemeinden">LNB</ref>
+                </bibl>
+              </listBibl>
+            </note>
+            <note type="description" xml:lang="de">
+              <p>Flach ansteigende Wiesen mit Wald südlich des Oberwilers, an der Gemeindegrenze zu Gamprin.</p>
             </note>
           </place><place type="H" xml:id="lub-places-1012">
             <placeName type="main" xml:lang="de">Donatsbach</placeName>
@@ -21837,7 +22015,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-09-15T13:11:47+02:00">teiHeader was automatically produced from the database 2026-09-15T13:11:47+02:00</change>
+      <change when="2026-09-22T16:48:15+02:00">teiHeader was automatically produced from the database 2026-09-22T16:48:15+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

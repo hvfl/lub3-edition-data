@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lub-objects-1282">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bestätigung über die Verleihung von Gütern in Bendern und Eschen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Historischer Verein für das Fürstentum Liechtenstein (hvfl)</publisher>
+        <pubPlace>Schaan, Liechtenstein</pubPlace>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A">A: Original, Signatur: <ref type="identifier" target="lub-objects-1282">CH-BAC, 016.3095</ref> (<orgName key="ch-bac" ref="lub-objects-896">Bischöfliches Archiv Chur</orgName>) / Originaldatierung: 11. November 1604 / Beschreibstoff: Pergament / Siegel: 1 Siegel, beschädigt</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Sebastian Wanger von Ruggell und seine Frau Margaretha Öhri sowie Rudolf Marxer von Schönabüel bekennen, dass ihnen Abt Simon und der Konvent von St. Luzi folgende Güter in den Kirchspielen Bendern und Eschen für 18 Jahre gegen einen Zins von 3 Scheffeln 3 Vierteln Weizen, 5 Scheffeln Korn, 2,5 Schilling, 12,5 Eiern sowie 10 Fudern Mist als Lehen verliehen haben: den Acker Güggelhala, einen weiteren Acker ebenda, einen Acker im Bölsfeld, einen Acker im Benderer Feld, einen Acker und ein weiteres Gut auf Platz, einen Acker in Heida, die Brendlesbünt, ein Stück Riedland im Erler, das Broggmeder, eine Wiese beim Seele, eine Wiese auf dem Rain, eine Wiese im Tentschagraba, eine Wiese in Nendlen und zwei Wiesen in Bangs.</p>
+      </abstract>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term ref="lub-keywords-27">Lehen</term>
+          <term ref="lub-keywords-174">Weizen</term>
+          <term ref="lub-keywords-331">Getreide</term>
+          <term ref="lub-keywords-468">Eier</term>
+          <term ref="lub-keywords-173">Mist</term>
+          <term ref="lub-keywords-408">bretscha</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2804">Wanger, Sebastian (2)</persName>
+          <date when="1604-11-11">11. Nov 1604</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-2809">Öhri, Margaretha</persName>
+          <date when="1604-11-11">11. Nov 1604</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-1087">Marxer, Rudolf (2)</persName>
+          <date when="1604-11-11">11. Nov 1604</date>
+        </correspAction>
+        <correspAction type="sent">
+          <persName ref="lub-actors-698">Brendle, Leonhard (2)</persName>
+          <date when="1604-11-11">11. Nov 1604</date>
+        </correspAction>
+      </correspDesc>
+      <correspDesc>
+        <correspAction type="received">
+          <persName ref="lub-actors-337">St. Luzi, Kloster</persName>
+          <date when="1604-11-11">11. Nov 1604</date>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="ch-bac__016_3095-0001.jpg" xml:id="lub-media-3966" source="platzhalter-3.jpg" corresp="A"/>
+  </facsimile>
+  <text>
+    <body>
+      <div type="main">
+        <p><pb facs="lub-media-3966" n="1"/><lb n="1"/>Ich, <persName ref="lub-actors-2804">Sebastian Wagner</persName>, zue <placeName ref="lub-places-2">Ruggel</placeName> wohnhafft, unnd mit mier <persName ref="lub-actors-2809">Margreta Öry</persName>, mein eheliche haußfraw, unnd ich, <persName ref="lub-actors-1087">Rudolff Marxer</persName> von <placeName ref="lub-places-207">Schenenbichel</placeName>, 
+<lb n="2"/>bekhennen offentlich für unß, alle unsere erben unnd nachkhomen unnd thuen kundt meniglich mit dem brieff, nach dem unß die ehrwiertigen unnd andächtigen herren, herren <persName ref="lub-actors-336">Simon</persName>, apt, und gemain convendt deß gotts
+<lb break="no" n="3"/>hauß <persName ref="lub-actors-337">Sanct Lutzi</persName>, ob der statt <placeName ref="lub-places-102">Chur</placeName> gelegen, <persName ref="lub-actors-1191">Premonstrator</persName> ordenß, unsere gnädig unnd ginstige herren, deß berierten gottshauß <persName ref="lub-actors-337">Sanct Lutzi</persName> aigene hernach gemelte stuckh unnd güetter, die alle in <placeName ref="lub-places-36">Benderer</placeName> und <placeName ref="lub-places-35">Eschner</placeName> kirchspiehlen
+<lb n="4"/>unnd daselbsten umb in deß wohlgebohrnen herren, herren <persName ref="lub-actors-13">Carle Ludwigen, gravenß zue Sultz</persName>, unsers gnadigen herren, herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> gelegen, waß dan von alter hero zue gerierten güetern gehördt hat 
+<lb n="5"/>unnd noch gehoren soll, item daß ersten ein ackher, genant <placeName ref="lub-places-988">Gugelhalden</placeName>, stost zur ersten seiten ahn <persName ref="lub-actors-2761">Josen Knabenkhnecht</persName> unnd zue den andern dreyen seiten ahn die allgmein, mehr ein ackher auff <placeName ref="lub-places-988">Gugelhalden</placeName>, stost 
+<lb n="6"/>zur ersten seiten ahn <persName ref="lub-actors-756">Hannß Strauben</persName>, zue der andern ahn <persName ref="lub-actors-965">Hannß Thöny</persName>, zur driten ahn die allgmein, mehr ein ackher, im <placeName ref="lub-places-431">Bülßfeld</placeName> gelegen, stost zur ersten seiten ahn die landtstras, zue der andern ahn ander unsers gottß
+<lb break="no" n="7"/>hauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zue lehen einhat, zur dritten ahn <persName ref="lub-actors-2810">Barbara Egelein</persName>, mehr ein ackher, in <placeName ref="lub-places-404">Benderer Feldt</placeName> gelegen, stost zur ersten seiten ahn <persName ref="lub-actors-756">Hanß Strauben</persName>, zur andern ahn <persName ref="lub-actors-1105">Jacob Algewer</persName>, zur driten
+<lb n="8"/>ahn ander unsers gottshauß eigen guet, so <persName ref="lub-actors-756">Hanß Straub</persName> inhat, unnd zur vierten ahn <persName ref="lub-actors-2761">Joß Knabenkhnecht</persName>, mehr ein ackher <placeName ref="lub-places-403">auff Platz</placeName> gelegen, stost zur ersten seiten ahn die landtstraß, zur andern ahn unsers gottshauß aigen 
+<lb n="9"/>guet, zur driten ahn <persName ref="lub-actors-2811">Andreß Kochen</persName> weingarten, zur vierten ahn <persName ref="lub-actors-1677">Petter Wagner</persName> unnd sein hausfraw unnd zur fünnfften ahn ander unsers gottshauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zue lehen einhat, mehr ein ackher, auff 
+<lb n="10"/>dem <placeName ref="lub-places-987">Heidem</placeName> gelegen, stost zur ersten seiten ahn <persName ref="lub-actors-1677">Petter Wagners</persName> guet, zur andern ahn ander unsers gottshauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zuelehen einhat, zur driten ahn <persName ref="lub-actors-1201">Gabriel Walchen</persName>, mehr ein stuckh guet, 
+<lb n="11"/>genandt <placeName ref="lub-places-847">Brendliß Bind</placeName>, stost zur ersten seiten ahn deß gottshauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zue lehen einhat, zur andern ahn unsers ander gottshauß eigen guet, so <persName ref="lub-actors-1673">Balthas Öhry</persName> zue lehen einhat, zur driten an <persName ref="lub-actors-965">Hanß 
+<lb n="12"/>Thöni</persName>, zur vierten ahn die landtstraß unnd zur fünfften ahn <persName ref="lub-actors-1673">Balthas Öhry</persName> lehen, mehr ein manmad <term ref="lub-keywords-408">britßchen</term>, im <placeName ref="lub-places-115">Ehrler</placeName> gelegen, stost zur ersten seiten ahn <persName ref="lub-actors-948">Raphael Pauli</persName> lehenguet, zur andern ahn <persName ref="lub-actors-2228">Jacob 
+<lb n="13"/>Mündtlin</persName> unnd <persName ref="lub-actors-70">Fabian Haslern</persName> guet, zur driten ahn <persName ref="lub-actors-2768">Andreß Mayer</persName> unnd zur vierten ahn der herrschafft guet, mehr ein manmad, genandt daß <placeName ref="lub-places-989">Brugg Mad</placeName>, stost zur ersten seiten ahn <persName ref="lub-actors-948">Raphael Pauli</persName> und <persName ref="lub-actors-965">Hanß Thöni</persName>, 
+<lb n="14"/>mehr ein manmad auff dem <placeName ref="lub-places-853">Sele</placeName>, stost zur ersten seiten ahn <persName ref="lub-actors-1677">Petter Wagner</persName>, zue den zwayen seiten ahn unsers gottshauß eigen guet, so <persName ref="lub-actors-1201">Gabriel Walch</persName> unnd <persName ref="lub-actors-756">Hanß Straub</persName> zue lehen einhaben, mehr zwey man
+<lb break="no" n="15"/>mad, auff dem <placeName ref="lub-places-977">Rhein</placeName> gelegen, stost zue einer seiten ahn ander deß gottshauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> unnd <persName ref="lub-actors-965">Hannß Thöny</persName> zue lehen einhaben, zur andern ahn die allgmein, zur dritten ahn den <placeName ref="lub-places-977">Rhein</placeName>, mehr ein man
+<lb break="no" n="16"/>mad, im <placeName ref="lub-places-165">Denschen Graben</placeName> gelegen, stost zur ersten seiten ahn <persName ref="lub-actors-2771">Stephan Haslern</persName>, zur andern ahn <persName ref="lub-actors-2812">Christian <unclear>D</unclear>aschern</persName>, zur driten ahn ander unsers gottshauß aigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zue lehen einhat, mehr
+<lb n="17"/>ain strewe mad, zue <placeName ref="lub-places-118">Nendlen</placeName> gelegen, stost zur ersten seiten ahn die allgmein, zur andern ahn ander unsers gottshauß eigen guet, so <persName ref="lub-actors-756">Hanß Straub</persName> zue lehen einhat, zur driten ahn <persName ref="lub-actors-1763">Ulreich Sentiß</persName> zue <placeName ref="lub-places-118">Nendlen</placeName> 
+<lb n="18"/>erben guet, zur vierten ahn <persName ref="lub-actors-756">Hannß Strauben</persName> von <placeName ref="lub-places-207">Schehenbühel</placeName>, mehr ein manmad, auff <placeName ref="lub-places-445">Banx</placeName> gelegen, stost zur ersten seiten ahn der <persName ref="lub-actors-2773">Wohlwenden</persName> gueter von <placeName ref="lub-places-2">Ruggel</placeName>, zur andern ahn <persName ref="lub-actors-829">Heinreich Fehren</persName> 
+<lb n="19"/>unnd <persName ref="lub-actors-2813">Wagners</persName> guet, zur driten ahn <persName ref="lub-actors-2678">Felix Spalten</persName> erben unnd zur vierten ahn <persName ref="lub-actors-2814">Hannß Ringers</persName> erben, mehr ein manmad, auff <placeName ref="lub-places-445">Banx</placeName> gelegen, stost zur ersten seiten ahn die <placeName ref="lub-places-386">Spürs</placeName>, zur andern ahn <persName ref="lub-actors-2775">Ulreich 
+<lb n="20"/>Köchlein</persName>, zur driten ahn die <persName ref="lub-actors-2773">Wohlwenden</persName> zue <placeName ref="lub-places-2">Ruggel</placeName>, zur vierten ahn ander unsers gottshauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zue lehen einhat, item mehr unnd letzstlich ein stuckh, <placeName ref="lub-places-403">auff Platz</placeName> gelegen, stost zur 
+<lb n="21"/>ersten seiten an ander unsers gottshauß eigen guet, so <persName ref="lub-actors-948">Raphael Pauli</persName> zue lehen einhat, zur andern ahn der herrschafft guet, zur driten ahn <persName ref="lub-actors-965">Hannß Thöny</persName> unnd zur vierten ahn <persName ref="lub-actors-1704">Joß Müsners</persName>, alleß mit steg, weg, wun, weid, 
+<lb n="22"/>pomen, zweyen, wilde unnd zahme reben, rebstahl, auch mit holtz, veldt, wasser, wasserleitinen unnd allen andern rechten nutzen, früchten, gueten gewohnheiten, begreiffungen unnd zuehehörden, auff achtzehen jahr lang, die negsten 
+<lb n="23"/>nach dato diß brieff auf einander volgende, nemlich unnd daran mir, dem erstgemelten <persName ref="lub-actors-2804">Sebastian Wagner</persName>, unnd meiner hausfrawen die zwehn theil unnd mier, <persName ref="lub-actors-1087">Ruodolff Marxer</persName>, den driten theil auß sondern gnaden und 
+<lb n="24"/>daß wier unß dardurch kainer gewehr, posses noch aigenthumblichen eingangs gebrauchen noch behelffen sollen noch wöllen, von newem widerumb verlichen haben nach einhalt eines besigleten verleichbrieffs, 
+<lb n="25"/>unß derenthalb gegeben, deß selben anfangs lautende: Wier, <persName ref="lub-actors-336">Simon</persName>, von göttlicher verhenckhnuß abbt, unnd convent gemeinlich deß gottshauß <persName ref="lub-actors-337">Sanct Lutzi</persName>, ob der stadt <placeName ref="lub-places-102">Chur</placeName> gelegen, <persName ref="lub-actors-1191">Premonstrator</persName> ordenß, 
+<lb n="26"/>thuen kundt allermäniglich unnd bekhennen, unnd entet am dato: der geben ist auff <date when="1604-11-11">sanct Martinß tag nach Christi, unsers lieben herren heillandt unnd sälligmachers, geburt gezelt sechzehenhundert und vierten jahr</date>, 
+<lb n="27"/>also unnd mit dem lautern geding, daß wier unnd unsere erben die obgestimpten stuckh unnd guetere sollen unnd mögen die bestimbten achtzehen jahr lang, von dato ahnzu<unclear>ereitten</unclear> und nicht lenger oder weiter, 
+<lb n="28"/>inhaben, pawen, prauchen, nutzen unnd niesen alß andere unsere eigene güetter unnd die auch in gueten, wesentlichen ehren auffenthalten unnd haben, mit bawen, zeinen, r<unclear>ei</unclear>tten unnd aller anderer nottürfftigkheit, 
+<lb n="29"/>wie sich daß jederzeit erheischet unnd gebür unnd nämblich kheinen ungewohnlichen unnd fremben weg durch die güetter machen unnd gahn lassen unnd sonderlich dem herren abbt und convent deß berierten 
+<lb n="30"/>gottshaus <persName ref="lub-actors-337">Sanct Lutzi</persName> unnd der selbigen erwierden unnd nachkhommen darvon, darauß unnd darab zue rechten jährlichen zinß jedeß jahrs auff <date when="--11-11">sanct Martinß tag</date>, achttag vor oder nach ohngefahrlich, 
+<lb n="31"/>gen <placeName ref="lub-places-36">Bendern</placeName> in den pfahrhoff auß einer handt unnd unzertrendt richten, geben unnd bezahlen sollen unnd wöllen namblich drey schöffel unnd drey viertel waitzen und fünff schöffel kohrn, alleß 
+<lb n="32"/>guets, saubers waitzen unnd kornzinß unnd drit halb schilling wagenfahrt, alleß <placeName ref="lub-places-10">Veldkircher</placeName> meß unnd wehrung, auch dreizehent halb ayer auff dz österlich fest unnd dan in zehen fuder baw, ein triteil 
+<lb n="33"/>in deß gottshauß <placeName ref="lub-places-457">Kapf Weingarten</placeName> zueantwworten. Wir, die dickh genandte lehenmayer, unnd unsere erben sollen unnd mögen auch deß obgenandten gottshauß <persName ref="lub-actors-337">Sanct Lutzi</persName> ahngezeigte stuckh und güettere 
+<lb n="34"/>weder versetzen, verkhauffen, verthauschen, verkhümbern noch in khainen weg von unsern handen khomen lasen noch verbrieffen noch auch weder wi<unclear>lde</unclear> noch zahme pöhm abhawen, außraiten noch wegnemmen, dan mit obgenant
+<lb break="no" n="35"/>en, unsern lehenherren unnd derselben ehrwürden nachkhomen gueten gunst, wißen unnd willen. Welches jahrs wir auch gemeltem herrn abbt unnd convendt oder derselben ehrwürden nachkhomen den gemelten zinß
+<lb n="36"/>samendtlich auf zeil, tag unnd der weiß, wie obsteet, nit gereicht, bezalt unnd auch die güetter nicht in ehren unnd gueten gebe<unclear>w</unclear>en erhieltendt, wie oblaut, oder die <unclear>versetztent</unclear>, bekhümertent, von unsern handen khomen 
+<lb n="37"/><supplied>Rückseite</supplied> 
+<lb n="38"/>liesen unnd verenderten, wildte oder zähme pöm abhawent, außreiten unnd wegnemen, wie erst gemelt ist, so dann unnd alß baldt sollen offtgenandter herren abbt unnd cohnvendt zue <persName ref="lub-actors-337">Sanct Lutzi</persName> oder derselben 
+<lb n="39"/>ehrwierden nachkhommen ahn statt bemelts gottshauß <persName ref="lub-actors-337">Sanct Lutzi</persName> die vorgemelten stuckh unnd guetere mit allen ieren rechten unnd zuegehörden, gebewen unnd erbesserungen widerumb gan<unclear>tz</unclear> lediglich 
+<lb n="40"/>gefallen unnd verfallen sein, die selben einzuehaben, zuenutzen unnd zueniesen, zuebesetzen, zuentsetzen unnd damit zuethuen unnd zuelassen alß mit andern deß gottshauß aigenen guetern, wie sye wöllen, ohn 
+<lb n="41"/>unser unnd allermäniglichs von unsernwegen soumen, iren unnd widersprechen. Unnd hierauff sollen unsere gnädige unnd ginstige herren abbt und convendt, auch ieren ehrwierden nachkhommen die ange
+<lb break="no" n="42"/>zeigten achtzehen jahr lang, nach dato diß brieffs anzu<unclear>e</unclear>reiten, unß erstgemelten lehenmayer unnd unsern erben daß geriert lehen mit hoffgietern unnd aller anderen zuegehördt, wie obsteet, fertigen, auffrichtigen,
+<lb n="43"/>weeren unnd versprechen ahn allen enden unnd gerichten, g<unclear>ei</unclear>stlichen unnd weltlichen, gegen allermäniglich, so dickh unß daß noth ist, allwegen in ierer ehrwierden unnd bemelts gottshauß <persName ref="lub-actors-337">Sanct Lutzi</persName> aigenen 
+<lb n="44"/>costen unnd ohne unsern schaden. Dargegen wier unß für un<gap/> unnd unsern erben hiemit alles deß jenigen, so von unß unnd unsern erben hieobengeschriben steet, gäntzlich verbindet, demselben getrawlich und 
+<lb n="45"/>auffrichtiglich nachzuekhomen unnd zuegeleben, bey unsern wahren unnd gueten trewen, ohne arglist unnd geferde. Unnd deß zue w<unclear>a</unclear>hrem, festen urkhundt haben wier, obgemelte lehenmeyer, mit vleiß 
+<lb n="46"/>unnd ernst erbetten den ehrsamen unnd weisen <persName ref="lub-actors-698">Leonh<unclear>a</unclear>rdt Brendlin</persName>, der zeit aman der herrschafft <placeName ref="lub-places-11">Schellenberg</placeName> ahm <placeName ref="lub-places-16">Eschnerberg</placeName>, daß er sein insigel für unß unnd unsere erben (doch ihme 
+<lb n="47"/>unnd seinen erben ohn schaden) offentlich in disen brieff <unclear>getru</unclear>ckt hat, der geben ist ahn <date when="1604-11-11">sanct Martins tag nach der geburt C<unclear>h</unclear>risti, unsers erlösers unnd sälligmachers, gezalt sechzehenhundert 
+<lb n="48"/>unnd vier</date>. 
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>
